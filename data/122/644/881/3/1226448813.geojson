@@ -1,0 +1,77 @@
+{
+  "id": 1226448813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84573,35.9143,38.84573,35.9143",
+    "geom:latitude":35.9143,
+    "geom:longitude":38.84573,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347108,
+    "gn:latitude":35.9143,
+    "gn:longitude":38.84573,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"\u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u0643\u0628\u064a\u0639 \u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amm\u0101m",
+        "Ab\u016b Kubay\u2018 Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347108
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2fe22ec086b22a59ce57e410fe7e6eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1226448813,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226448813,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Hammam",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84573,
+    35.9143,
+    38.84573,
+    35.9143
+],
+  "geometry": {"coordinates":[38.84573,35.9143],"type":"Point"}
+}

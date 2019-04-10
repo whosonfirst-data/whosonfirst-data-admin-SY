@@ -1,0 +1,82 @@
+{
+  "id": 421177699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.142959,34.710009,36.142959,34.710009",
+    "geom:latitude":34.710009,
+    "geom:longitude":36.142959,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0639\u0643\u0627\u0631",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0639\u0643\u0627\u0631",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":292,
+    "qs:photos_sr":1,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1112153,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":56049598,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049598,
+        "qs:id":1112153
+    },
+    "wof:country":"SY",
+    "wof:created":1459009158,
+    "wof:geomhash":"9711f5a0b8c06e13ada2c3890d5062c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "region_id":421177699
+        }
+    ],
+    "wof:id":421177699,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1529541195,
+    "wof:name":"\u0639\u0643\u0627\u0631",
+    "wof:parent_id":85632413,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.142959,
+    34.710009,
+    36.142959,
+    34.710009
+],
+  "geometry": {"coordinates":[36.142959,34.710009],"type":"Point"}
+}

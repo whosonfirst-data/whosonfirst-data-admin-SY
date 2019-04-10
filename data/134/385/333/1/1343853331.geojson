@@ -1,0 +1,75 @@
+{
+  "id": 1343853331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22413,35.49586,37.22413,35.49586",
+    "geom:latitude":35.49586,
+    "geom:longitude":37.22413,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Luwaydah",
+    "gn:country_code":"SY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167643,
+    "gn:latitude":35.49586,
+    "gn:longitude":37.22413,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Luwaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Loua\u00efbd\u00e9",
+        "Luwaybidah",
+        "Luwaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167643
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8a112671b62e29d4d7d8cbece6d36bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343853331,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343853331,
+    "wof:lastmodified":1537701930,
+    "wof:name":"Luwaydah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22413,
+    35.49586,
+    37.22413,
+    35.49586
+],
+  "geometry": {"coordinates":[37.22413,35.49586],"type":"Point"}
+}

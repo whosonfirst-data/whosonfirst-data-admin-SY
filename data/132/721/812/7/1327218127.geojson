@@ -1,0 +1,81 @@
+{
+  "id": 1327218127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41902,36.18219,37.41902,36.18219",
+    "geom:latitude":36.18219,
+    "geom:longitude":37.41902,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm al `Amad",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163012,
+    "gn:latitude":36.18219,
+    "gn:longitude":37.41902,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Umm al \u2018Amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0645\u062f \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Oum el Ahmed",
+        "Oumm el Aamad el Qibl\u00eey\u00e9",
+        "Oum el Aamad el Qibl\u00eey\u00e9",
+        "Oum el Aamad Qibl\u00eey\u00e9",
+        "Umm al \u2018Amad al Qibl\u012byah",
+        "Umm al \u2018Amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163012
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b814af0823b61727436661a9e2e7c61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1327218127,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327218127,
+    "wof:lastmodified":1537701631,
+    "wof:name":"Umm al `Amad",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41902,
+    36.18219000000001,
+    37.41902,
+    36.18219000000001
+],
+  "geometry": {"coordinates":[37.41902,36.18219000000001],"type":"Point"}
+}

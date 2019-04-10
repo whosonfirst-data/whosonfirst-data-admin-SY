@@ -1,0 +1,81 @@
+{
+  "id": 1309995563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07567,36.85411,38.07567,36.85411",
+    "geom:latitude":36.85411,
+    "geom:longitude":38.07567,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jarqili Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9205,
+    "gn:latitude":36.85411,
+    "gn:longitude":38.07567,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"J\u0101rqil\u012b \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0631\u064a\u062e\u0644\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0631\u064a\u062e\u0644 \u062a\u062d\u062a\u0627\u0646\u064a",
+        "\u062c\u0627\u0631\u0642\u0644\u064a \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "J\u0101r\u012bkhl\u012b Ta\u1e29t\u0101n\u012b",
+        "J\u0101r\u012bkh at Ta\u1e29t\u0101n\u012b",
+        "J\u0101r\u012bkhal\u012b Ta\u1e29t\u0101n\u012b",
+        "J\u0101r\u012bkhil Ta\u1e29t\u0101n\u012b",
+        "J\u0101rqil\u012b \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9205
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b562964b33efab3520a30c5d227700b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1309995563,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309995563,
+    "wof:lastmodified":1537701569,
+    "wof:name":"Jarqili Saghir",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07567,
+    36.85411,
+    38.07567,
+    36.85411
+],
+  "geometry": {"coordinates":[38.07567,36.85411],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343350481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41624,35.08814,37.41624,35.08814",
+    "geom:latitude":35.08814,
+    "geom:longitude":37.41624,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm ad Dab`",
+    "gn:country_code":"SY",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340967,
+    "gn:latitude":35.08814,
+    "gn:longitude":37.41624,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm a\u1e11 \u1e10ab\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0636\u0628\u0639"
+    ],
+    "name:und_x_variant":[
+        "Rasm a\u1e11 \u1e10ab\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340967
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6f37bd79bcde34e1d5e0885116343b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343350481,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343350481,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Rasm ad Dab`",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41624,
+    35.08814,
+    37.41624,
+    35.08814
+],
+  "geometry": {"coordinates":[37.41624,35.08814],"type":"Point"}
+}

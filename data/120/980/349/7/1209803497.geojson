@@ -1,0 +1,75 @@
+{
+  "id": 1209803497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54215,34.65103,36.54215,34.65103",
+    "geom:latitude":34.65103,
+    "geom:longitude":36.54215,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zayta al Bahrah",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162459,
+    "gn:latitude":34.65103,
+    "gn:longitude":36.54215,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Zayt\u0101 al Ba\u1e29rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062a\u0627 \u0627\u0644\u0628\u062d\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ze\u00eft el Bahr",
+        "Za\u00efta el Bahra",
+        "Zayt\u0101 al Ba\u1e29rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162459
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b5b270d5413addd66f3baa519b22130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1209803497,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209803497,
+    "wof:lastmodified":1537701592,
+    "wof:name":"Zayta al Bahrah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54215,
+    34.65103,
+    36.54215,
+    34.65103
+],
+  "geometry": {"coordinates":[36.54215,34.65103],"type":"Point"}
+}

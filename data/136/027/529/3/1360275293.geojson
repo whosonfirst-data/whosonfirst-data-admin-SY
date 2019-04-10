@@ -1,0 +1,75 @@
+{
+  "id": 1360275293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54139,35.82753,37.54139,35.82753",
+    "geom:latitude":35.82753,
+    "geom:longitude":37.54139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at ar Rahib",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166953,
+    "gn:latitude":35.82753,
+    "gn:longitude":37.54139,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mazra\u2018at ar R\u0101hib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0631\u0627\u0647\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u00e2t er Roua\u00efheb",
+        "Mazra\u2018at ar Ruwayhib",
+        "Mazra\u2018at ar R\u0101hib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2446f94ae7028ae4807926f1e3973e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1360275293,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360275293,
+    "wof:lastmodified":1537701891,
+    "wof:name":"Mazra`at ar Rahib",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54139,
+    35.82753,
+    37.54139,
+    35.82753
+],
+  "geometry": {"coordinates":[37.54139,35.82753],"type":"Point"}
+}

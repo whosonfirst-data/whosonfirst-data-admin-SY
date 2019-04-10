@@ -1,0 +1,75 @@
+{
+  "id": 1360090919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23971,35.81981,39.23971,35.81981",
+    "geom:latitude":35.81981,
+    "geom:longitude":39.23971,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ar Rahbi",
+    "gn:country_code":"SY",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173009,
+    "gn:latitude":35.81981,
+    "gn:longitude":39.23971,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ar Ra\u1e29b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Er\u2019habi",
+        "Ar\u1e29ab\u012b",
+        "Ar Ra\u1e29b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173009
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fbe4a24a078747ef91c672d64bca6c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1360090919,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1360090919,
+    "wof:lastmodified":1537702306,
+    "wof:name":"Ar Rahbi",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23971,
+    35.81981,
+    39.23971,
+    35.81981
+],
+  "geometry": {"coordinates":[39.23971,35.81981],"type":"Point"}
+}

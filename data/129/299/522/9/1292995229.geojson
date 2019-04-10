@@ -1,0 +1,99 @@
+{
+  "id": 1292995229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35219,36.75608,38.35219,36.75608",
+    "geom:latitude":36.75608,
+    "geom:longitude":38.35219,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qilinjah Wayran",
+    "gn:country_code":"SY",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9158,
+    "gn:latitude":36.75608,
+    "gn:longitude":38.35219,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Qilinjah Wayr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0646\u062c\u0647 \u0648\u064a\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0627\u0641"
+    ],
+    "name:kur_x_preferred":[
+        "Qilinc W\u00eeran"
+    ],
+    "name:kur_x_variant":[
+        "Qil\u00eenc W\u00earan",
+        "Qilinc W\u00earan",
+        "\u0642\u0644\u0646\u062c \u0648\u064a\u0631\u0627\u0646",
+        "\u0642\u0644\u064a\u0646\u062c \u0648\u06ce\u0631\u0627\u0646",
+        "\u0642\u0644\u0646\u062c \u0648\u06ce\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qalanjat Wayr\u0101n",
+        "Qilinjat W\u012br\u0101n",
+        "Qilinjah W\u012br\u0101n",
+        "Qilinjah Wayr\u0101n",
+        "Qalanjah W\u012br\u0101n",
+        "Qil\u00eec W\u00earan",
+        "Qalanjat Wiran",
+        "Sayy\u0101f",
+        "Siy\u0101f",
+        "Seiyaf",
+        "Qilinj W\u00eeran",
+        "Qilinjat Wayr\u0101n",
+        "Qilinj Wayran",
+        "Qilinj Wayr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9158
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27b35b2bc0a6339da288c84751b6bdd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1292995229,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292995229,
+    "wof:lastmodified":1537701567,
+    "wof:name":"Qilinjah Wayran",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35219,
+    36.75608,
+    38.35219,
+    36.75608
+],
+  "geometry": {"coordinates":[38.35219,36.75608],"type":"Point"}
+}

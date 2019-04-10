@@ -1,0 +1,67 @@
+{
+  "id": 1209539633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.77106,35.55033,38.77106,35.55033",
+    "geom:latitude":35.55033,
+    "geom:longitude":38.77106,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir Husayn `Ali Rashid",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347186,
+    "gn:latitude":35.55033,
+    "gn:longitude":38.77106,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br \u1e28usayn \u2018Al\u012b R\u0101shid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u062d\u0633\u064a\u0646 \u0639\u0644\u064a \u0631\u0627\u0634\u062f"
+    ],
+    "name:und_x_variant":[
+        "B\u012br \u1e28usayn \u2018Al\u012b R\u0101shid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347186
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12406bc083f63886b955eccc5dec9a7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209539633
+        }
+    ],
+    "wof:id":1209539633,
+    "wof:lastmodified":1537702553,
+    "wof:name":"Bir Husayn `Ali Rashid",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.77106,
+    35.55032999999999,
+    38.77106,
+    35.55032999999999
+],
+  "geometry": {"coordinates":[38.77106,35.55032999999999],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309812465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89566,35.53697,35.89566,35.53697",
+    "geom:latitude":35.53697,
+    "geom:longitude":35.89566,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ash Shilfatiyah",
+    "gn:country_code":"SY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164264,
+    "gn:latitude":35.53697,
+    "gn:longitude":35.89566,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ash Shilf\u0101\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0644\u0641\u0627\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chlfatiye",
+        "Shilf\u0101t\u012byih",
+        "Chilf\u00e2tiy\u00e9",
+        "Chilfati\u00e9",
+        "Shilf\u0101\u0163\u012byah",
+        "Ash Shilf\u0101\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164264
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25826343dbe498c73ce3397372e3f80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1309812465,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309812465,
+    "wof:lastmodified":1537701726,
+    "wof:name":"Ash Shilfatiyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89566,
+    35.53697000000001,
+    35.89566,
+    35.53697000000001
+],
+  "geometry": {"coordinates":[35.89566,35.53697000000001],"type":"Point"}
+}

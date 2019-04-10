@@ -1,0 +1,73 @@
+{
+  "id": 1226164321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.46444,35.16301,40.46444,35.16301",
+    "geom:latitude":35.16301,
+    "geom:longitude":40.46444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Misri",
+    "gn:country_code":"SY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173459,
+    "gn:latitude":35.16301,
+    "gn:longitude":40.46444,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Al Mi\u015fr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mi\u015fr\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0635\u0631\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173459
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5d42c66bfe8d69533c9895ad845c4696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1226164321,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226164321,
+    "wof:lastmodified":1537702336,
+    "wof:name":"Al Misri",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.46444,
+    35.16301,
+    40.46444,
+    35.16301
+],
+  "geometry": {"coordinates":[40.46444,35.16301],"type":"Point"}
+}

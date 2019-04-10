@@ -1,0 +1,74 @@
+{
+  "id": 1242767413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49595,35.94222,37.49595,35.94222",
+    "geom:latitude":35.94222,
+    "geom:longitude":37.49595,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bakkurah",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171919,
+    "gn:latitude":35.94222,
+    "gn:longitude":37.49595,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bakk\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bakko\u00fbra",
+        "Bakk\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171919
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d34e95150e72d39a09c6dede036bdadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1242767413,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242767413,
+    "wof:lastmodified":1537702235,
+    "wof:name":"Bakkurah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49595,
+    35.94222,
+    37.49595,
+    35.94222
+],
+  "geometry": {"coordinates":[37.49595,35.94222],"type":"Point"}
+}

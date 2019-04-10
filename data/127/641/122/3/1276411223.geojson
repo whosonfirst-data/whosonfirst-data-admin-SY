@@ -1,0 +1,70 @@
+{
+  "id": 1276411223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93238,34.74288,35.93238,34.74288",
+    "geom:latitude":34.74288,
+    "geom:longitude":35.93238,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"An Nawras",
+    "gn:country_code":"SY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176194,
+    "gn:latitude":34.74288,
+    "gn:longitude":35.93238,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"An Nawras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0631\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176194
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"663eca07f1898040d814ba66e8b42378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276411223,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276411223,
+    "wof:lastmodified":1537702605,
+    "wof:name":"An Nawras",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93238,
+    34.74288,
+    35.93238,
+    34.74288
+],
+  "geometry": {"coordinates":[35.93238,34.74288],"type":"Point"}
+}

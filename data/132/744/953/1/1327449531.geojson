@@ -1,0 +1,113 @@
+{
+  "id": 1327449531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68518,32.88901,35.68518,32.88901",
+    "geom:latitude":32.88901,
+    "geom:longitude":35.68518,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ma`ale Gamla",
+    "gn:country_code":"SY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":443087,
+    "gn:latitude":32.88901,
+    "gn:longitude":35.68518,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Ma\u2018ale Gamla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2018ale Gamla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779187,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443087
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"50c999bf18329f527f8844f893013e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1327449531,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1327449531,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "locality_id":1327449531,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1327449531,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1327449531,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1327449531,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1327449531,
+    "wof:lastmodified":1549931199,
+    "wof:name":"Ma`ale Gamla",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68517999999999,
+    32.88901,
+    35.68517999999999,
+    32.88901
+],
+  "geometry": {"coordinates":[35.68517999999999,32.88901],"type":"Point"}
+}

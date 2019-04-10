@@ -1,0 +1,73 @@
+{
+  "id": 1343345955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.04898,35.92136,38.04898,35.92136",
+    "geom:latitude":35.92136,
+    "geom:longitude":38.04898,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jida` Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6891,
+    "gn:latitude":35.92136,
+    "gn:longitude":38.04898,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jid\u0101\u2018 \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0627\u0639 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jid\u0101\u2018 \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0a9b45371b1a5dc821011eedd4a5a515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343345955,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343345955,
+    "wof:lastmodified":1537701560,
+    "wof:name":"Jida` Saghirah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.04898,
+    35.92136,
+    38.04898,
+    35.92136
+],
+  "geometry": {"coordinates":[38.04898,35.92136],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260192511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75998,36.44845,40.75998,36.44845",
+    "geom:latitude":36.44845,
+    "geom:longitude":40.75998,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hilaliyah",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632312,
+    "gn:latitude":36.44845,
+    "gn:longitude":40.75998,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Hil\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hil\u0101l\u012byah",
+        "Hal\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632312
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a63fd0551deb2d3a179e3addd8b67a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1260192511,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1260192511,
+    "wof:lastmodified":1537702466,
+    "wof:name":"Hilaliyah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75998,
+    36.44845,
+    40.75998,
+    36.44845
+],
+  "geometry": {"coordinates":[40.75998,36.44845],"type":"Point"}
+}

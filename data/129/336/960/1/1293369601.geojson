@@ -1,0 +1,73 @@
+{
+  "id": 1293369601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2616,33.47389,36.2616,33.47389",
+    "geom:latitude":33.47389,
+    "geom:longitude":36.2616,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Al `Iraqi",
+    "gn:country_code":"SY",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411959,
+    "gn:latitude":33.47389,
+    "gn:longitude":36.2616,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Al \u2018Ir\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ir\u0101q\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u0627\u0642\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bf1663b6606a65a735466923101d4822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1293369601,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1293369601,
+    "wof:lastmodified":1537702560,
+    "wof:name":"Al `Iraqi",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2616,
+    33.47389,
+    36.2616,
+    33.47389
+],
+  "geometry": {"coordinates":[36.2616,33.47389],"type":"Point"}
+}

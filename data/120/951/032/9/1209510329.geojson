@@ -1,0 +1,68 @@
+{
+  "id": 1209510329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91331,34.9846,36.91331,34.9846",
+    "geom:latitude":34.9846,
+    "geom:longitude":36.91331,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Burayghith",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2928,
+    "gn:latitude":34.9846,
+    "gn:longitude":36.91331,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Burayghith",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u063a\u062b"
+    ],
+    "name:und_x_variant":[
+        "Burayghit",
+        "Burayghith"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4f85c37b6604f699eb96abd1f0939711",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209510329
+        }
+    ],
+    "wof:id":1209510329,
+    "wof:lastmodified":1537701533,
+    "wof:name":"Burayghith",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91331,
+    34.9846,
+    36.91331,
+    34.9846
+],
+  "geometry": {"coordinates":[36.91331,34.9846],"type":"Point"}
+}

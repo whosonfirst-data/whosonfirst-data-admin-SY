@@ -1,0 +1,74 @@
+{
+  "id": 1259668127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34352,36.61462,37.34352,36.61462",
+    "geom:latitude":36.61462,
+    "geom:longitude":37.34352,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Sha`ir",
+    "gn:country_code":"SY",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163463,
+    "gn:latitude":36.61462,
+    "gn:longitude":37.34352,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tall Sha\u2018\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0634\u0639\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tell Cha\u00efr",
+        "Tall Sha\u2018\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163463
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d68a650ad8cb5686d9f68d68f0fd01d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1259668127,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259668127,
+    "wof:lastmodified":1537701659,
+    "wof:name":"Tall Sha`ir",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34352,
+    36.61462,
+    37.34352,
+    36.61462
+],
+  "geometry": {"coordinates":[37.34352,36.61462],"type":"Point"}
+}

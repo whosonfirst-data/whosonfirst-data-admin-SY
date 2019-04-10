@@ -1,0 +1,73 @@
+{
+  "id": 1344046991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0513,35.85151,38.0513,35.85151",
+    "geom:latitude":35.85151,
+    "geom:longitude":38.0513,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat al Muftahiyah",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823,
+    "gn:latitude":35.85151,
+    "gn:longitude":38.0513,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khirbat al Muft\u0101\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0641\u062a\u0627\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Muft\u0101\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ad2043cc49d8dd245fc69833fce44c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1344046991,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344046991,
+    "wof:lastmodified":1537701557,
+    "wof:name":"Khirbat al Muftahiyah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0513,
+    35.85151,
+    38.0513,
+    35.85151
+],
+  "geometry": {"coordinates":[38.0513,35.85151],"type":"Point"}
+}

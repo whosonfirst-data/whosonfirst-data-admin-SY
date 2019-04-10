@@ -1,0 +1,74 @@
+{
+  "id": 1226046593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76967,36.90891,41.76967,36.90891",
+    "geom:latitude":36.90891,
+    "geom:longitude":41.76967,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm Kuhayf Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162875,
+    "gn:latitude":36.90891,
+    "gn:longitude":41.76967,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Umm Kuhayf Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0643\u0647\u064a\u0641 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Oum K\u2019he\u00eff Faouq\u00e2ni",
+        "Umm Kuhayf Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162875
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1c138ae1310d6ef3ffd859b772776667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1226046593,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226046593,
+    "wof:lastmodified":1537701620,
+    "wof:name":"Umm Kuhayf Fawqani",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76967,
+    36.90891,
+    41.76967,
+    36.90891
+],
+  "geometry": {"coordinates":[41.76967,36.90891],"type":"Point"}
+}

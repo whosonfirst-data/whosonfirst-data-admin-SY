@@ -1,0 +1,76 @@
+{
+  "id": 1343864287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.72917,36.53365,38.72917,36.53365",
+    "geom:latitude":36.53365,
+    "geom:longitude":38.72917,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zunnar Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162381,
+    "gn:latitude":36.53365,
+    "gn:longitude":38.72917,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Zunn\u0101r Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u0627\u0631 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zinn\u00e2r K\u00e9b\u00eer",
+        "Zinn\u00e2r",
+        "Zunn\u0101r al Kab\u012br",
+        "Zunn\u0101r Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162381
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"33b3530c605ba5b570f5a7ae1e408883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343864287,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343864287,
+    "wof:lastmodified":1537701586,
+    "wof:name":"Zunnar Kabir",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.72917,
+    36.53365,
+    38.72917,
+    36.53365
+],
+  "geometry": {"coordinates":[38.72917,36.53365],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259763395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71867,35.86955,36.71867,35.86955",
+    "geom:latitude":35.86955,
+    "geom:longitude":36.71867,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"An Nayrab",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166357,
+    "gn:latitude":35.86955,
+    "gn:longitude":36.71867,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"An Nayrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u064a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Nu\u2018ayrab",
+        "Ne\u00eftak",
+        "Na\u00efrab",
+        "Nayrab",
+        "An Nayrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166357
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aad85a464af6a9464ef4aa4c8e117550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1259763395,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259763395,
+    "wof:lastmodified":1537701855,
+    "wof:name":"An Nayrab",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71867,
+    35.86955,
+    36.71867,
+    35.86955
+],
+  "geometry": {"coordinates":[36.71867,35.86955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209013451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09772,35.23062,36.09772,35.23062",
+    "geom:latitude":35.23062,
+    "geom:longitude":36.09772,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fuwayrisat ash Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170328,
+    "gn:latitude":35.23062,
+    "gn:longitude":36.09772,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Fuwayris\u0101t ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u064a\u0631\u0633\u0627\u062a \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0642\u0644\u0639"
+    ],
+    "name:und_x_variant":[
+        "Foua\u00efrsate ech Charq\u00eey\u00e9",
+        "Fuwayris\u0101t ash Sharq\u012byah",
+        "Fuwayris\u0101t ash Sharq\u012b",
+        "W\u0101d\u012b al Qal\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170328
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"81063a7bcbeb5b5e6c80049672794f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209013451
+        }
+    ],
+    "wof:id":1209013451,
+    "wof:lastmodified":1537702118,
+    "wof:name":"Fuwayrisat ash Sharqi",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09772,
+    35.23062,
+    36.09772,
+    35.23062
+],
+  "geometry": {"coordinates":[36.09772,35.23062],"type":"Point"}
+}

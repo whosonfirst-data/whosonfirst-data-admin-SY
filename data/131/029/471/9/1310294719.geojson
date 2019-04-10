@@ -1,0 +1,77 @@
+{
+  "id": 1310294719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53025,36.27483,37.53025,36.27483",
+    "geom:latitude":36.27483,
+    "geom:longitude":37.53025,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ayn al Jahsh",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172210,
+    "gn:latitude":36.27483,
+    "gn:longitude":37.53025,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Ayn al Ja\u1e29sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062c\u062d\u0634"
+    ],
+    "name:und_x_variant":[
+        "A\u012bn el Khadjiche",
+        "\u2018Ayn al Ja\u1e29sh",
+        "A\u00efn ej Jah\u00e2sh",
+        "A\u00efn ej Jahach",
+        "\u2018Ayn al Ji\u1e29\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172210
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5e15fbdc41dc4ee50368a0430598317d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1310294719,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310294719,
+    "wof:lastmodified":1537702256,
+    "wof:name":"`Ayn al Jahsh",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53025,
+    36.27483,
+    37.53025,
+    36.27483
+],
+  "geometry": {"coordinates":[37.53025,36.27483],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293074779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8925,34.94078,35.8925,34.94078",
+    "geom:latitude":34.94078,
+    "geom:longitude":35.8925,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marah as Sikkah",
+    "gn:country_code":"SY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266581,
+    "gn:latitude":34.94078,
+    "gn:longitude":35.8925,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mar\u0101\u1e29 as Sikkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0627\u0644\u0633\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 as Sikkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266581
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ef6aece9f1ef956764c7a51ad4e2481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293074779,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293074779,
+    "wof:lastmodified":1537702502,
+    "wof:name":"Marah as Sikkah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8925,
+    34.94078,
+    35.8925,
+    34.94078
+],
+  "geometry": {"coordinates":[35.8925,34.94078],"type":"Point"}
+}

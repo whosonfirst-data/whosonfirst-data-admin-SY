@@ -1,0 +1,67 @@
+{
+  "id": 1209084491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.30715,34.68129,37.30715,34.68129",
+    "geom:latitude":34.68129,
+    "geom:longitude":37.30715,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baghliyah",
+    "gn:country_code":"SY",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364,
+    "gn:latitude":34.68129,
+    "gn:longitude":37.30715,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Baghl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u063a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Baghl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f768f56d2f69c3be14e370629c5af644",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209084491
+        }
+    ],
+    "wof:id":1209084491,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Baghliyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.30715,
+    34.68129,
+    37.30715,
+    34.68129
+],
+  "geometry": {"coordinates":[37.30715,34.68129],"type":"Point"}
+}

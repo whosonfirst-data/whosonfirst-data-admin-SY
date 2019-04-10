@@ -1,0 +1,80 @@
+{
+  "id": 1225859001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75304,35.74607,40.75304,35.74607",
+    "geom:latitude":35.74607,
+    "geom:longitude":40.75304,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Markadah",
+    "gn:country_code":"SY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":167208,
+    "gn:latitude":35.74607,
+    "gn:longitude":40.75304,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Markadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0642\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0643\u062f\u0629",
+        "\u0645\u0631\u0642\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Markada",
+        "Marqadah",
+        "Markadah",
+        "Marqad\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167208
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9847c1b8fcc6e7d188e7cbfc947f35f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1225859001,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1225859001,
+    "wof:lastmodified":1537701907,
+    "wof:name":"Markadah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75304000000001,
+    35.74607,
+    40.75304000000001,
+    35.74607
+],
+  "geometry": {"coordinates":[40.75304000000001,35.74607],"type":"Point"}
+}

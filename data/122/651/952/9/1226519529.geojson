@@ -1,0 +1,76 @@
+{
+  "id": 1226519529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49359,35.974,36.49359,35.974",
+    "geom:latitude":35.974,
+    "geom:longitude":36.49359,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Busayliya",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171133,
+    "gn:latitude":35.974,
+    "gn:longitude":36.49359,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Busayl\u012by\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bs\u00e9lia",
+        "Bu\u015fayl\u012byah",
+        "Bas\u012bl\u012by\u0101",
+        "Busayl\u012by\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171133
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c3654781be03015c5ff1f31137c19258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1226519529,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226519529,
+    "wof:lastmodified":1537702172,
+    "wof:name":"Busayliya",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49359000000001,
+    35.97400000000001,
+    36.49359000000001,
+    35.97400000000001
+],
+  "geometry": {"coordinates":[36.49359000000001,35.97400000000001],"type":"Point"}
+}

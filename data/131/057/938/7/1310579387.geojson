@@ -1,0 +1,75 @@
+{
+  "id": 1310579387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.681,34.78775,36.681,34.78775",
+    "geom:latitude":34.78775,
+    "geom:longitude":36.681,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dar al Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174253,
+    "gn:latitude":34.78775,
+    "gn:longitude":36.681,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"D\u0101r al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u00e2r el K\u00e9bir\u00e9",
+        "Ad D\u0101r al Kab\u012brah",
+        "D\u0101r al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174253
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95a7647f30a8f005f15871667c2636fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310579387,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310579387,
+    "wof:lastmodified":1537702401,
+    "wof:name":"Dar al Kabirah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.681,
+    34.78775,
+    36.681,
+    34.78775
+],
+  "geometry": {"coordinates":[36.681,34.78775],"type":"Point"}
+}

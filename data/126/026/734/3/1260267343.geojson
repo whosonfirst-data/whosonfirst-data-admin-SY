@@ -1,0 +1,76 @@
+{
+  "id": 1260267343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83679,36.45167,36.83679,36.45167",
+    "geom:latitude":36.45167,
+    "geom:longitude":36.83679,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kawkabah",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168498,
+    "gn:latitude":36.45167,
+    "gn:longitude":36.83679,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kawkabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qoqab",
+        "Kaoukab",
+        "Kaoukaba",
+        "Kawkabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168498
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"576ec81a4f2f4978cd838ec75e33d2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260267343,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260267343,
+    "wof:lastmodified":1537701996,
+    "wof:name":"Kawkabah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83679,
+    36.45167,
+    36.83679,
+    36.45167
+],
+  "geometry": {"coordinates":[36.83679,36.45167],"type":"Point"}
+}

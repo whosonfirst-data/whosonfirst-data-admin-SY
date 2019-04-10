@@ -1,0 +1,73 @@
+{
+  "id": 1243549983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51296,33.62954,36.51296,33.62954",
+    "geom:latitude":33.62954,
+    "geom:longitude":36.51296,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Jullah",
+    "gn:country_code":"SY",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346411,
+    "gn:latitude":33.62954,
+    "gn:longitude":36.51296,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Jullah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u062c\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Jullah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346411
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"23695b3f2d043f479ee20d5d2eea3292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243549983,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243549983,
+    "wof:lastmodified":1537702548,
+    "wof:name":"Ard al Jullah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51296,
+    33.62954000000001,
+    36.51296,
+    33.62954000000001
+],
+  "geometry": {"coordinates":[36.51296,33.62954000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293678181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36298,35.40347,37.36298,35.40347",
+    "geom:latitude":35.40347,
+    "geom:longitude":37.36298,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ma`qar ash Shamali",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166831,
+    "gn:latitude":35.40347,
+    "gn:longitude":37.36298,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ma\u2018qar ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0642\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maakkar Ch\u00e9m\u00e2li",
+        "Mu\u2018akkar ash Sham\u0101l\u012b",
+        "Ma\u2018qar ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166831
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ec35f0b1880fe5f498e8d16f214bdd4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293678181,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293678181,
+    "wof:lastmodified":1537701881,
+    "wof:name":"Ma`qar ash Shamali",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36298,
+    35.40347,
+    37.36298,
+    35.40347
+],
+  "geometry": {"coordinates":[37.36298,35.40347],"type":"Point"}
+}

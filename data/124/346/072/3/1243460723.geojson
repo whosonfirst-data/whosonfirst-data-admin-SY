@@ -1,0 +1,75 @@
+{
+  "id": 1243460723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47935,35.78332,39.47935,35.78332",
+    "geom:latitude":35.78332,
+    "geom:longitude":39.47935,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muqla Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166650,
+    "gn:latitude":35.78332,
+    "gn:longitude":39.47935,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Muql\u0101 \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0644\u0627 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mourhla es S\u00e9rh\u00eer\u00e9",
+        "Muqlah \u015eagh\u012brah",
+        "Muql\u0101 \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166650
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9032da318a990e2417d54d1b368a5782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1243460723,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1243460723,
+    "wof:lastmodified":1537701871,
+    "wof:name":"Muqla Saghir",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47935,
+    35.78332,
+    39.47935,
+    35.78332
+],
+  "geometry": {"coordinates":[39.47935,35.78332],"type":"Point"}
+}

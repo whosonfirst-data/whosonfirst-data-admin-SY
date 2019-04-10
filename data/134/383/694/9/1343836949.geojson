@@ -1,0 +1,74 @@
+{
+  "id": 1343836949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07,35.17132,36.07,35.17132",
+    "geom:latitude":35.17132,
+    "geom:longitude":36.07,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Khirbat Kasih",
+    "gn:country_code":"SY",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168005,
+    "gn:latitude":35.17132,
+    "gn:longitude":36.07,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Khirbat Kas\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0643\u0633\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Kassih",
+        "Khirbat Kas\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168005
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"11af09220abee51c298d619c4655860a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1343836949,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343836949,
+    "wof:lastmodified":1537701961,
+    "wof:name":"Khirbat Kasih",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07,
+    35.17132,
+    36.07,
+    35.17132
+],
+  "geometry": {"coordinates":[36.07,35.17132],"type":"Point"}
+}

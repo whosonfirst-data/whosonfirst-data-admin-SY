@@ -1,0 +1,73 @@
+{
+  "id": 1242863863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16291,35.5912,37.16291,35.5912",
+    "geom:latitude":35.5912,
+    "geom:longitude":37.16291,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sham al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340032,
+    "gn:latitude":35.5912,
+    "gn:longitude":37.16291,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Sham al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "Sham al Haw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340032
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46f432787cec3d20677914d44873e8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242863863,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242863863,
+    "wof:lastmodified":1537702533,
+    "wof:name":"Sham al Hawa",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16291,
+    35.5912,
+    37.16291,
+    35.5912
+],
+  "geometry": {"coordinates":[37.16291,35.5912],"type":"Point"}
+}

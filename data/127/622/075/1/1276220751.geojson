@@ -1,0 +1,73 @@
+{
+  "id": 1276220751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42234,35.23888,37.42234,35.23888",
+    "geom:latitude":35.23888,
+    "geom:longitude":37.42234,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Muftayhah",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420119,
+    "gn:latitude":35.23888,
+    "gn:longitude":37.42234,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Muf\u0163ay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0637\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Muf\u0163ay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420119
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"419f0096a9159957efbf0d060857aeb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276220751,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276220751,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Al Muftayhah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42234000000001,
+    35.23888,
+    37.42234000000001,
+    35.23888
+],
+  "geometry": {"coordinates":[37.42234000000001,35.23888],"type":"Point"}
+}

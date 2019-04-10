@@ -1,0 +1,67 @@
+{
+  "id": 1226652195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64286,36.00453,38.64286,36.00453",
+    "geom:latitude":36.00453,
+    "geom:longitude":38.64286,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al-Dalil",
+    "gn:country_code":"SY",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398247,
+    "gn:latitude":36.00453,
+    "gn:longitude":38.64286,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al-Dalil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398247
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd2d458c8625dcdc481d6ae1f99d8f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1226652195,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226652195,
+    "wof:lastmodified":1536848987,
+    "wof:name":"Al-Dalil",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64286,
+    36.00452999999999,
+    38.64286,
+    36.00452999999999
+],
+  "geometry": {"coordinates":[38.64286,36.00452999999999],"type":"Point"}
+}

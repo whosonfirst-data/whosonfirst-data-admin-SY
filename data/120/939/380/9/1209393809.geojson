@@ -1,0 +1,71 @@
+{
+  "id": 1209393809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98929,34.83809,35.98929,34.83809",
+    "geom:latitude":34.83809,
+    "geom:longitude":35.98929,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hikr `Usfur",
+    "gn:country_code":"SY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169591,
+    "gn:latitude":34.83809,
+    "gn:longitude":35.98929,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u1e28ikr \u2018U\u015ff\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28ikr \u2018U\u015ff\u016br"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0643\u0631 \u0639\u0635\u0641\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Aasfo\u00fbr",
+        "Hikr Aasfo\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169591
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6cc8617fd3905b9de6889b27a7ba14a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209393809
+        }
+    ],
+    "wof:id":1209393809,
+    "wof:lastmodified":1537702075,
+    "wof:name":"Hikr `Usfur",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98929000000001,
+    34.83809,
+    35.98929000000001,
+    34.83809
+],
+  "geometry": {"coordinates":[35.98929000000001,34.83809],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327018747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80694,35.18769,36.80694,35.18769",
+    "geom:latitude":35.18769,
+    "geom:longitude":36.80694,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr al Bustan",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162494,
+    "gn:latitude":35.18769,
+    "gn:longitude":36.80694,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Zawr al Bust\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zor el Boust\u00e2ne",
+        "Zawr al Bust\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162494
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b727e37e7914867c6fbfa0f0056124ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327018747,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327018747,
+    "wof:lastmodified":1537701595,
+    "wof:name":"Zawr al Bustan",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80694,
+    35.18769,
+    36.80694,
+    35.18769
+],
+  "geometry": {"coordinates":[36.80694,35.18769],"type":"Point"}
+}

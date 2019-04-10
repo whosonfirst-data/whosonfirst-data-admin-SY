@@ -1,0 +1,73 @@
+{
+  "id": 1310485363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86826,34.98695,36.86826,34.98695",
+    "geom:latitude":34.98695,
+    "geom:longitude":36.86826,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qubayhah",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2884,
+    "gn:latitude":34.98695,
+    "gn:longitude":36.86826,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qubay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qubay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2884
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"07ce1e5dc99bb21dc8c448afd33e38f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310485363,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310485363,
+    "wof:lastmodified":1537701532,
+    "wof:name":"Qubayhah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86826,
+    34.98695,
+    36.86826,
+    34.98695
+],
+  "geometry": {"coordinates":[36.86826,34.98695],"type":"Point"}
+}

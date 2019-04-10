@@ -1,0 +1,73 @@
+{
+  "id": 1210001991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49632,33.42442,36.49632,33.42442",
+    "geom:latitude":33.42442,
+    "geom:longitude":36.49632,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Muqata`ah",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412175,
+    "gn:latitude":33.42442,
+    "gn:longitude":36.49632,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 al Muq\u0101\u0163a\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Muq\u0101\u0163a\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412175
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"599c2eb7ce1a02febfb9aa55003c2244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1210001991,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210001991,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard al Muqata`ah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49632,
+    33.42442,
+    36.49632,
+    33.42442
+],
+  "geometry": {"coordinates":[36.49632,33.42442],"type":"Point"}
+}

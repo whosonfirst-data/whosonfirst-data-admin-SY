@@ -1,0 +1,77 @@
+{
+  "id": 1259579967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87511,36.14113,36.87511,36.14113",
+    "geom:latitude":36.14113,
+    "geom:longitude":36.87511,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Hani",
+    "gn:country_code":"SY",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168693,
+    "gn:latitude":36.14113,
+    "gn:longitude":36.87511,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr H\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0647\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafer Hanni",
+        "Kafer Hammi",
+        "Kafer Ammi",
+        "Kafr \u1e28annah",
+        "Kafr H\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168693
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d72ff0e83009d454eedbf536e031ac33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259579967,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259579967,
+    "wof:lastmodified":1537702014,
+    "wof:name":"Kafr Hani",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87511,
+    36.14113,
+    36.87511,
+    36.14113
+],
+  "geometry": {"coordinates":[36.87511,36.14113],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209529699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88242,35.78546,40.88242,35.78546",
+    "geom:latitude":35.78546,
+    "geom:longitude":40.88242,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Subayh",
+    "gn:country_code":"SY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275304,
+    "gn:latitude":35.78546,
+    "gn:longitude":40.88242,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u015eubay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u015eubay\u1e29",
+        "\u015eab\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275304
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b86c3f7942211171399a5162f563310",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209529699
+        }
+    ],
+    "wof:id":1209529699,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Subayh",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88242,
+    35.78546,
+    40.88242,
+    35.78546
+],
+  "geometry": {"coordinates":[40.88242,35.78546],"type":"Point"}
+}

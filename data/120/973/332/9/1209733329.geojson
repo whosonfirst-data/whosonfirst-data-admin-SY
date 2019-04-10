@@ -1,0 +1,79 @@
+{
+  "id": 1209733329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15621,36.73524,40.15621,36.73524",
+    "geom:latitude":36.73524,
+    "geom:longitude":40.15621,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Safa",
+    "gn:country_code":"SY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172504,
+    "gn:latitude":36.73524,
+    "gn:longitude":40.15621,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Safa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f \u015e\u0101fi\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0627\u0641\u062d"
+    ],
+    "name:und_x_variant":[
+        "Es S\u00e2feh",
+        "Safa",
+        "\u015e\u0101fi\u1e29",
+        "S\u00e2feh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172504
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"582bbdb00a59847fd0f15711f288e41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1209733329,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209733329,
+    "wof:lastmodified":1537702280,
+    "wof:name":"Safa",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15621,
+    36.73524000000001,
+    40.15621,
+    36.73524000000001
+],
+  "geometry": {"coordinates":[40.15621,36.73524000000001],"type":"Point"}
+}

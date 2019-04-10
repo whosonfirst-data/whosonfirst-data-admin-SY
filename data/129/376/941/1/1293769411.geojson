@@ -1,0 +1,78 @@
+{
+  "id": 1293769411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39659,33.55027,36.39659,33.55027",
+    "geom:latitude":33.55027,
+    "geom:longitude":36.39659,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Misraba",
+    "gn:country_code":"SY",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173460,
+    "gn:latitude":33.55027,
+    "gn:longitude":36.39659,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Misr\u0101b\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Misr\u0101b\u0101"
+    ],
+    "name:ara_x_variant":[
+        "Misr\u0101b\u0101",
+        "\u0645\u0633\u0631\u0627\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mesraba",
+        "Misr\u00e2ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173460
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ff04bb03cf4a4168e284eaa26a3df52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1293769411,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293769411,
+    "wof:lastmodified":1537702336,
+    "wof:name":"Misraba",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39659,
+    33.55027,
+    36.39659,
+    33.55027
+],
+  "geometry": {"coordinates":[36.39659,33.55027],"type":"Point"}
+}

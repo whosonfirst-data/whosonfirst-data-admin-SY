@@ -1,0 +1,75 @@
+{
+  "id": 1243161133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05859,35.36422,37.05859,35.36422",
+    "geom:latitude":35.36422,
+    "geom:longitude":37.05859,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qasr ash Shawi",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165966,
+    "gn:latitude":35.36422,
+    "gn:longitude":37.05859,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qa\u015fr ash Sh\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u0634\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qasr Ch\u00e2oui",
+        "Qasr ech Ch\u00e2oui",
+        "Qa\u015fr ash Sh\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165966
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c3d1d3dab743147580a519a811c7161c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1243161133,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243161133,
+    "wof:lastmodified":1537701823,
+    "wof:name":"Qasr ash Shawi",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05859,
+    35.36422,
+    37.05859,
+    35.36422
+],
+  "geometry": {"coordinates":[37.05859,35.36422],"type":"Point"}
+}

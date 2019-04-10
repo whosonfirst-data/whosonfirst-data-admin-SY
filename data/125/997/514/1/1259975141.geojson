@@ -1,0 +1,81 @@
+{
+  "id": 1259975141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41306,33.80683,36.41306,33.80683",
+    "geom:latitude":33.80683,
+    "geom:longitude":36.41306,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Ma`murah",
+    "gn:country_code":"SY",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173527,
+    "gn:latitude":33.80683,
+    "gn:longitude":36.41306,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al Ma\u2018m\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646",
+        "\u0627\u0644\u0641\u064a\u0627\u0636\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maamo\u00fbra",
+        "Al Ma\u2018m\u016brah",
+        "R\u00e2s el A\u00efn",
+        "Ra\u2019s al \u2018Ayn",
+        "Al Fayy\u0101\u1e11\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173527
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0498f40e3feed802e8c8e3864fa84d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1259975141,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259975141,
+    "wof:lastmodified":1537702342,
+    "wof:name":"Al Ma`murah",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41306,
+    33.80683,
+    36.41306,
+    33.80683
+],
+  "geometry": {"coordinates":[36.41306,33.80683],"type":"Point"}
+}

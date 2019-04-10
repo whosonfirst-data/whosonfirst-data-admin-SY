@@ -1,0 +1,73 @@
+{
+  "id": 1192996567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97235,34.62966,36.97235,34.62966",
+    "geom:latitude":34.62966,
+    "geom:longitude":36.97235,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hawsh Ahmad al `Abdu",
+    "gn:country_code":"SY",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340149,
+    "gn:latitude":34.62966,
+    "gn:longitude":36.97235,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28awsh A\u1e29mad al \u2018Abd\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0623\u062d\u0645\u062f \u0627\u0644\u0639\u0628\u062f\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh A\u1e29mad al \u2018Abd\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340149
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"947500888eac243b9e0255c4f528e1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1192996567,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1192996567,
+    "wof:lastmodified":1537702535,
+    "wof:name":"Hawsh Ahmad al `Abdu",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97235,
+    34.62966,
+    36.97235,
+    34.62966
+],
+  "geometry": {"coordinates":[36.97235,34.62966],"type":"Point"}
+}

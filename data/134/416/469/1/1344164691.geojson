@@ -1,0 +1,122 @@
+{
+  "id": 1344164691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76478,32.99977,35.76478,32.99977",
+    "geom:latitude":32.99977,
+    "geom:longitude":35.76478,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"As Saluqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":172479,
+    "gn:latitude":32.99977,
+    "gn:longitude":35.76478,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"As Sal\u016bq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0648\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es Slo\u00fbqiy\u00e9",
+        "Slouqi",
+        "Slo\u00fbqiy\u00e9",
+        "As Sal\u016bq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172479
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"50d1dd298655baad02da446e36dd4afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1344164691,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1344164691,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1344164691,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1344164691,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1344164691,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1344164691,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1344164691,
+    "wof:lastmodified":1537702277,
+    "wof:name":"As Saluqiyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76478,
+    32.99977,
+    35.76478,
+    32.99977
+],
+  "geometry": {"coordinates":[35.76478,32.99977],"type":"Point"}
+}

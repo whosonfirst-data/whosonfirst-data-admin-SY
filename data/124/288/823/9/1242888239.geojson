@@ -1,0 +1,75 @@
+{
+  "id": 1242888239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.88328,36.84391,41.88328,36.84391",
+    "geom:latitude":36.84391,
+    "geom:longitude":41.88328,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mazra`at Sulayman Sari",
+    "gn:country_code":"SY",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163443,
+    "gn:latitude":36.84391,
+    "gn:longitude":41.88328,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Mazra\u2018at Sulaym\u0101n S\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0633\u0644\u064a\u0645\u0627\u0646 \u0633\u0627\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tell Sla\u00efm\u00e2ne S\u00e2ri",
+        "Tall Sulaym\u0101n \u015e\u0101r\u012b",
+        "Mazra\u2018at Sulaym\u0101n S\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163443
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"688a9a55ef36cf037f541ef7c9159798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1242888239,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242888239,
+    "wof:lastmodified":1537701657,
+    "wof:name":"Mazra`at Sulayman Sari",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.88328,
+    36.84391,
+    41.88328,
+    36.84391
+],
+  "geometry": {"coordinates":[41.88328,36.84391],"type":"Point"}
+}

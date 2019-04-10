@@ -1,0 +1,73 @@
+{
+  "id": 1293589895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76693,36.52452,38.76693,36.52452",
+    "geom:latitude":36.52452,
+    "geom:longitude":38.76693,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"`Urayzah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9129,
+    "gn:latitude":36.52452,
+    "gn:longitude":38.76693,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u2018Urayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Urayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9129
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea2a8812c3d4441c857a19c899d7ef4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1293589895,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1293589895,
+    "wof:lastmodified":1537701564,
+    "wof:name":"`Urayzah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76693,
+    36.52452,
+    38.76693,
+    36.52452
+],
+  "geometry": {"coordinates":[38.76693,36.52452],"type":"Point"}
+}

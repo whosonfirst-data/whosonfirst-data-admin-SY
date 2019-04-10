@@ -1,0 +1,87 @@
+{
+  "id": 1260001925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6086,33.48506,36.6086,33.48506",
+    "geom:latitude":33.48506,
+    "geom:longitude":36.6086,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Utaybah",
+    "gn:country_code":"SY",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162764,
+    "gn:latitude":33.48506,
+    "gn:longitude":36.6086,
+    "gn:modification_date":"2016-11-12",
+    "gn:name":"\u2018Utaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062a\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u062a\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Ateibe",
+        "Al \u2018Utaybah",
+        "Aate\u00efb\u00e9",
+        "\u2018Utaybah",
+        "Otaybah",
+        "Ataybah",
+        "Uteibah",
+        "Ateibeh",
+        "al-Utayba",
+        "al-Otaiba",
+        "al-Atebeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162764,
+        "wk:page":"Otaybah,_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"98f17f8d742a3e36a781e62869fc8570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1260001925,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1260001925,
+    "wof:lastmodified":1537701612,
+    "wof:name":"`Utaybah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6086,
+    33.48506,
+    36.6086,
+    33.48506
+],
+  "geometry": {"coordinates":[36.6086,33.48506],"type":"Point"}
+}

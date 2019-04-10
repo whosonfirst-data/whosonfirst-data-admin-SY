@@ -1,0 +1,76 @@
+{
+  "id": 1343450725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80057,36.29327,36.80057,36.29327",
+    "geom:latitude":36.29327,
+    "geom:longitude":36.80057,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zarzita",
+    "gn:country_code":"SY",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162508,
+    "gn:latitude":36.29327,
+    "gn:longitude":36.80057,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zarz\u012bt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0632\u064a\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zarz\u00eeta",
+        "Zerzita",
+        "Zarz\u012btah",
+        "Zarz\u012bt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162508
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a97cef4eaff33b4d5cb57bc5a5f676ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343450725,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343450725,
+    "wof:lastmodified":1537701596,
+    "wof:name":"Zarzita",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80057,
+    36.29327,
+    36.80057,
+    36.29327
+],
+  "geometry": {"coordinates":[36.80057,36.29327],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209328759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4903,36.81651,40.4903,36.81651",
+    "geom:latitude":36.81651,
+    "geom:longitude":40.4903,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Iidah",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420806,
+    "gn:latitude":36.81651,
+    "gn:longitude":40.4903,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018I\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062f\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018I\u012bdah"
+    ],
+    "name:und_x_variant":[
+        "\u2018I\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420806
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4b5c621fb1ad4e3374e0989954cbe19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209328759
+        }
+    ],
+    "wof:id":1209328759,
+    "wof:lastmodified":1537702450,
+    "wof:name":"`Iidah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4903,
+    36.81651,
+    40.4903,
+    36.81651
+],
+  "geometry": {"coordinates":[40.4903,36.81651],"type":"Point"}
+}

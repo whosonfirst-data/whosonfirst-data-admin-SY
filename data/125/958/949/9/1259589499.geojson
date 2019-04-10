@@ -1,0 +1,73 @@
+{
+  "id": 1259589499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.44479,35.98488,38.44479,35.98488",
+    "geom:latitude":35.98488,
+    "geom:longitude":38.44479,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu as Sakhrah",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917,
+    "gn:latitude":35.98488,
+    "gn:longitude":38.44479,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b a\u015f \u015eakhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0635\u062e\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b a\u015f \u015eakhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"605d486f8379f99b5c89015aea8ecdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259589499,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259589499,
+    "wof:lastmodified":1537701562,
+    "wof:name":"Abu as Sakhrah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.44479000000001,
+    35.98488,
+    38.44479000000001,
+    35.98488
+],
+  "geometry": {"coordinates":[38.44479000000001,35.98488],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209539683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67746,35.67975,38.67746,35.67975",
+    "geom:latitude":35.67975,
+    "geom:longitude":38.67746,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ja`din as Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169281,
+    "gn:latitude":35.67975,
+    "gn:longitude":38.67746,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ja\u2018d\u012bn a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0639\u062f\u064a\u0646 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ja\u2018dah a\u015f \u015eagh\u012brah",
+        "Ja\u2018d\u012bn a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169281
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"88312975cbde89fae9aaf65d508284d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209539683
+        }
+    ],
+    "wof:id":1209539683,
+    "wof:lastmodified":1537702057,
+    "wof:name":"Ja`din as Saghirah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67746,
+    35.67975,
+    38.67746,
+    35.67975
+],
+  "geometry": {"coordinates":[38.67746,35.67975],"type":"Point"}
+}

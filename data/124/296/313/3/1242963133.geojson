@@ -1,0 +1,77 @@
+{
+  "id": 1242963133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37192,36.48476,37.37192,36.48476",
+    "geom:latitude":36.48476,
+    "geom:longitude":37.37192,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Wash",
+    "gn:country_code":"SY",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12951,
+    "gn:latitude":36.48476,
+    "gn:longitude":37.37192,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al W\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u0634",
+        "\u0627\u0644\u0648\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Al W\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12951
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c952e0891ba4d295feffcde89e945851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1242963133,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242963133,
+    "wof:lastmodified":1537701581,
+    "wof:name":"Al Wash",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37192,
+    36.48476,
+    37.37192,
+    36.48476
+],
+  "geometry": {"coordinates":[37.37192,36.48476],"type":"Point"}
+}

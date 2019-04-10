@@ -1,0 +1,73 @@
+{
+  "id": 1193267317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75601,35.18701,36.75601,35.18701",
+    "geom:latitude":35.18701,
+    "geom:longitude":36.75601,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Badi` Dalimah",
+    "gn:country_code":"SY",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555223,
+    "gn:latitude":35.18701,
+    "gn:longitude":36.75601,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bad\u012b\u2018 \u1e10\u0101limah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u064a\u0639 \u0636\u0627\u0644\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bad\u012b\u2018 \u1e10\u0101limah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555223
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef7449648f9b13b0d73cd17630f8bfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1193267317,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193267317,
+    "wof:lastmodified":1537702637,
+    "wof:name":"Badi` Dalimah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75601,
+    35.18701,
+    36.75601,
+    35.18701
+],
+  "geometry": {"coordinates":[36.75601,35.18701],"type":"Point"}
+}

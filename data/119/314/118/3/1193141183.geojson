@@ -1,0 +1,79 @@
+{
+  "id": 1193141183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.44262,36.99515,41.44262,36.99515",
+    "geom:latitude":36.99515,
+    "geom:longitude":41.44262,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kur Suwar",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167842,
+    "gn:latitude":36.99515,
+    "gn:longitude":41.44262,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u016br Suw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631 \u0633\u0648\u0627\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "K\u012br\u012b Suw\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Guir So\u00fbar",
+        "K\u016br Suw\u0101r",
+        "Guiri Sou\u00e2r",
+        "K\u012br Suw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167842
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4c3266a5359e1d1f90a7572328ac935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1193141183,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1193141183,
+    "wof:lastmodified":1537701946,
+    "wof:name":"Kur Suwar",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.44262,
+    36.99515,
+    41.44262,
+    36.99515
+],
+  "geometry": {"coordinates":[41.44262,36.99515],"type":"Point"}
+}

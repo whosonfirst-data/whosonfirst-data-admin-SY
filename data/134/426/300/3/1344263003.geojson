@@ -1,0 +1,74 @@
+{
+  "id": 1344263003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87717,36.44657,38.87717,36.44657",
+    "geom:latitude":36.44657,
+    "geom:longitude":38.87717,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mutamashrij",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166546,
+    "gn:latitude":36.44657,
+    "gn:longitude":38.87717,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mutamashrij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0645\u0634\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Moutmechrej",
+        "Mutamashrij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166546
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dca1ba485b6f05e99cebe37051664db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1344263003,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1344263003,
+    "wof:lastmodified":1537701864,
+    "wof:name":"Mutamashrij",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87717,
+    36.44657,
+    38.87717,
+    36.44657
+],
+  "geometry": {"coordinates":[38.87717,36.44657],"type":"Point"}
+}

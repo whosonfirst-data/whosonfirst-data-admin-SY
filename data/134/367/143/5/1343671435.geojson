@@ -1,0 +1,74 @@
+{
+  "id": 1343671435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.84441,36.7424,41.84441,36.7424",
+    "geom:latitude":36.7424,
+    "geom:longitude":41.84441,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Dardarah",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163599,
+    "gn:latitude":36.7424,
+    "gn:longitude":41.84441,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Dard\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062f\u0631\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell Derd\u00e2ra",
+        "Tall Dard\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163599
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"213954a19dff15729ccfb8319a3e1acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1343671435,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343671435,
+    "wof:lastmodified":1537701674,
+    "wof:name":"Tall Dardarah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.84441,
+    36.7424,
+    41.84441,
+    36.7424
+],
+  "geometry": {"coordinates":[41.84441,36.7424],"type":"Point"}
+}

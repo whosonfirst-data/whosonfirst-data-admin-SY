@@ -1,0 +1,74 @@
+{
+  "id": 1276250215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96087,34.47805,40.96087,34.47805",
+    "geom:latitude":34.47805,
+    "geom:longitude":40.96087,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ash Shajilah",
+    "gn:country_code":"SY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384694,
+    "gn:latitude":34.47805,
+    "gn:longitude":40.96087,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ash Sh\u0101jilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u062c\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shajlah",
+        "Ash Sh\u0101jilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384694
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c41fa031813bab51f9e997cdec950ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1276250215,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1276250215,
+    "wof:lastmodified":1537702423,
+    "wof:name":"Ash Shajilah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96087,
+    34.47805,
+    40.96087,
+    34.47805
+],
+  "geometry": {"coordinates":[40.96087,34.47805],"type":"Point"}
+}

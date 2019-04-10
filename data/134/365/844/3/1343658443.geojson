@@ -1,0 +1,73 @@
+{
+  "id": 1343658443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54324,35.6159,37.54324,35.6159",
+    "geom:latitude":35.6159,
+    "geom:longitude":37.54324,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Hamad",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354409,
+    "gn:latitude":35.6159,
+    "gn:longitude":37.54324,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ab\u016b \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354409
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71f1362483ada869e4ba343cbe39aa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1343658443,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343658443,
+    "wof:lastmodified":1537702554,
+    "wof:name":"Abu Hamad",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54324,
+    35.6159,
+    37.54324,
+    35.6159
+],
+  "geometry": {"coordinates":[37.54324,35.6159],"type":"Point"}
+}

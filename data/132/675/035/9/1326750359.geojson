@@ -1,0 +1,73 @@
+{
+  "id": 1326750359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68366,33.45023,36.68366,33.45023",
+    "geom:latitude":33.45023,
+    "geom:longitude":36.68366,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jad`an al Hamadah",
+    "gn:country_code":"SY",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11260460,
+    "gn:latitude":33.45023,
+    "gn:longitude":36.68366,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jad\u2018\u0101n al \u1e28am\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0639\u0627\u0646 \u0627\u0644\u062d\u0645\u0627\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jad\u2018\u0101n al \u1e28am\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11260460
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce98c1bd62a400eae6787ef0e89b9445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1326750359,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1326750359,
+    "wof:lastmodified":1537702611,
+    "wof:name":"Jad`an al Hamadah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68366,
+    33.45023,
+    36.68366,
+    33.45023
+],
+  "geometry": {"coordinates":[36.68366,33.45023],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326827047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40237,33.51782,36.40237,33.51782",
+    "geom:latitude":33.51782,
+    "geom:longitude":36.40237,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aftris",
+    "gn:country_code":"SY",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174179,
+    "gn:latitude":33.51782,
+    "gn:longitude":36.40237,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Aftr\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aftr\u012bs"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0641\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Iftris",
+        "Aftriss",
+        "Afz\u00eez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174179
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1dc2321ec334468a072aeedc7de2ef0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1326827047,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1326827047,
+    "wof:lastmodified":1537702396,
+    "wof:name":"Aftris",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40237,
+    33.51782,
+    36.40237,
+    33.51782
+],
+  "geometry": {"coordinates":[36.40237,33.51782],"type":"Point"}
+}

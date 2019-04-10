@@ -1,0 +1,75 @@
+{
+  "id": 1226126881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.159,35.84526,37.159,35.84526",
+    "geom:latitude":35.84526,
+    "geom:longitude":37.159,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mushayrifat ash Sharbatji",
+    "gn:country_code":"SY",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167114,
+    "gn:latitude":35.84526,
+    "gn:longitude":37.159,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mushayrifat ash Sharbatj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u0634\u0631\u0628\u062a\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherfet el Rharb\u00eey\u00e9",
+        "Mashrafat al Gharb\u012byah",
+        "Mushayrifat ash Sharbatj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167114
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c6f0469ea8fa0b960cd95873121e8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226126881,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226126881,
+    "wof:lastmodified":1537701901,
+    "wof:name":"Mushayrifat ash Sharbatji",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.159,
+    35.84526,
+    37.159,
+    35.84526
+],
+  "geometry": {"coordinates":[37.159,35.84526],"type":"Point"}
+}

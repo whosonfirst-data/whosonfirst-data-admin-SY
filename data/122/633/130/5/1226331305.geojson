@@ -1,0 +1,79 @@
+{
+  "id": 1226331305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40084,34.98846,36.40084,34.98846",
+    "geom:latitude":34.98846,
+    "geom:longitude":36.40084,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qusayr Dayr Huwayt",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165649,
+    "gn:latitude":34.98846,
+    "gn:longitude":36.40084,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qu\u015fayr Dayr \u1e28uwayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u064a\u0631 \u062f\u064a\u0631 \u062d\u0648\u064a\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u064a\u0631 \u0627\u0644\u062f\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qoussa\u00efr De\u00efr",
+        "Qu\u015fayr Dayr",
+        "Qu\u015fayr Dayr \u1e28uwayt",
+        "Qu\u015fayr ad Dayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165649
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"530ec9ab4255ee993878be639d3cd63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1226331305,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226331305,
+    "wof:lastmodified":1537701798,
+    "wof:name":"Qusayr Dayr Huwayt",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40084,
+    34.98846,
+    36.40084,
+    34.98846
+],
+  "geometry": {"coordinates":[36.40084,34.98846],"type":"Point"}
+}

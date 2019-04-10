@@ -1,0 +1,118 @@
+{
+  "id": 1326741977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64369,33.03442,35.64369,33.03442",
+    "geom:latitude":33.03442,
+    "geom:longitude":35.64369,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khirbat al Julaybinah",
+    "gn:country_code":"SY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168874,
+    "gn:latitude":33.03442,
+    "gn:longitude":35.64369,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Khirbat al Julayb\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062c\u0644\u064a\u0628\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet ej Jalabina",
+        "Kheurbet ej J\u00e9l\u00e9b\u00een\u00e9",
+        "Khirbat al Julayb\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7431a5ed58eee91f3ad4c4e0aaeb6e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1326741977,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1326741977,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1326741977,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1326741977,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1326741977,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1326741977,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1326741977,
+    "wof:lastmodified":1549931212,
+    "wof:name":"Khirbat al Julaybinah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64369,
+    33.03442,
+    35.64369,
+    33.03442
+],
+  "geometry": {"coordinates":[35.64369,33.03442],"type":"Point"}
+}

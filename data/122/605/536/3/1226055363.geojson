@@ -1,0 +1,80 @@
+{
+  "id": 1226055363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93194,35.52359,35.93194,35.52359",
+    "geom:latitude":35.52359,
+    "geom:longitude":35.93194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Mushayrifah",
+    "gn:country_code":"SY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173409,
+    "gn:latitude":35.52359,
+    "gn:longitude":35.93194,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Mushayrifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u062d\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "El M\u00e9cherf\u00e9",
+        "El Mcherfi",
+        "Al Mushayrifah",
+        "Mushayrifat al \u1e28iffah",
+        "Msheirfet Elhiffeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173409
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3c810e6cf99049a423f3c250cd434e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1226055363,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226055363,
+    "wof:lastmodified":1537702331,
+    "wof:name":"Al Mushayrifah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93194000000001,
+    35.52359000000001,
+    35.93194000000001,
+    35.52359000000001
+],
+  "geometry": {"coordinates":[35.93194000000001,35.52359000000001],"type":"Point"}
+}

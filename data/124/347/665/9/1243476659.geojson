@@ -1,0 +1,73 @@
+{
+  "id": 1243476659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49391,33.45417,36.49391,33.45417",
+    "geom:latitude":33.45417,
+    "geom:longitude":36.49391,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard at Tahun",
+    "gn:country_code":"SY",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412071,
+    "gn:latitude":33.45417,
+    "gn:longitude":36.49391,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 a\u0163 \u0162\u0101\u1e29\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0637\u0627\u062d\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 a\u0163 \u0162\u0101\u1e29\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412071
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cd6cf519f8adefc1beb3959c06ad8cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243476659,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243476659,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard at Tahun",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49391,
+    33.45417,
+    36.49391,
+    33.45417
+],
+  "geometry": {"coordinates":[36.49391,33.45417],"type":"Point"}
+}

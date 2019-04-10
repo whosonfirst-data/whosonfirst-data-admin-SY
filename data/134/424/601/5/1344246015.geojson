@@ -1,0 +1,74 @@
+{
+  "id": 1344246015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23626,35.48719,37.23626,35.48719",
+    "geom:latitude":35.48719,
+    "geom:longitude":37.23626,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb al Hintah",
+    "gn:country_code":"SY",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168976,
+    "gn:latitude":35.48719,
+    "gn:longitude":37.23626,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jubb al \u1e28in\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u062d\u0646\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Joubb el Hinnta",
+        "Jubb al \u1e28in\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168976
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ea013fd581d288ef5f60e2e307329a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1344246015,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344246015,
+    "wof:lastmodified":1537702036,
+    "wof:name":"Jubb al Hintah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23626,
+    35.48719000000001,
+    37.23626,
+    35.48719000000001
+],
+  "geometry": {"coordinates":[37.23626,35.48719000000001],"type":"Point"}
+}

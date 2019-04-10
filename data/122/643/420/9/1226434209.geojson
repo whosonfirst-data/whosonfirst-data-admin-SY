@@ -1,0 +1,81 @@
+{
+  "id": 1226434209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79364,34.70014,40.79364,34.70014",
+    "geom:latitude":34.70014,
+    "geom:longitude":40.79364,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Khuraytah",
+    "gn:country_code":"SY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167908,
+    "gn:latitude":34.70014,
+    "gn:longitude":40.79364,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Al Khuray\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u064a\u0637\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0637\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khuray\u0163ah",
+        "Khra\u00efta",
+        "Al Khuray\u0163ah",
+        "Al Khar\u012b\u0163ah",
+        "A\u0163 \u0162\u016b\u0163\u1e29\u012byah",
+        "A\u0163 \u0162\u016b\u0163a\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167908
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d75859a34772fc5f931adb6b11046b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1226434209,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226434209,
+    "wof:lastmodified":1537701954,
+    "wof:name":"Al Khuraytah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79364,
+    34.70014,
+    40.79364,
+    34.70014
+],
+  "geometry": {"coordinates":[40.79364,34.70014],"type":"Point"}
+}

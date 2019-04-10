@@ -1,0 +1,73 @@
+{
+  "id": 1310218031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93728,35.29982,35.93728,35.29982",
+    "geom:latitude":35.29982,
+    "geom:longitude":35.93728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Imarat al Hukumah",
+    "gn:country_code":"SY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695486,
+    "gn:latitude":35.29982,
+    "gn:longitude":35.93728,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"\u2018Im\u0101rat al \u1e28uk\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0627\u0631\u0629 \u0627\u0644\u062d\u0643\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Im\u0101rat al \u1e28uk\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695486
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6dc2b70955258ef3e50eddfe9da76245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1310218031,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310218031,
+    "wof:lastmodified":1537702583,
+    "wof:name":"`Imarat al Hukumah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93728,
+    35.29982000000001,
+    35.93728,
+    35.29982000000001
+],
+  "geometry": {"coordinates":[35.93728,35.29982000000001],"type":"Point"}
+}

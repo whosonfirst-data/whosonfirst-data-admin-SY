@@ -1,0 +1,69 @@
+{
+  "id": 1209016213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77852,32.79993,35.77852,32.79993",
+    "geom:latitude":32.79993,
+    "geom:longitude":35.77852,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Haytal",
+    "gn:country_code":"SY",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":169651,
+    "gn:latitude":32.79993,
+    "gn:longitude":35.77852,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u1e28aytal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00eftel",
+        "Heitel",
+        "\u1e28aytal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169651
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"006eb138399eae030e7d835c53767256",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209016213
+        }
+    ],
+    "wof:id":1209016213,
+    "wof:lastmodified":1537702079,
+    "wof:name":"Haytal",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77852,
+    32.79993,
+    35.77852,
+    32.79993
+],
+  "geometry": {"coordinates":[35.77852,32.79993],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259772407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39763,34.94987,36.39763,34.94987",
+    "geom:latitude":34.94987,
+    "geom:longitude":36.39763,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr Ba`rin",
+    "gn:country_code":"SY",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162479,
+    "gn:latitude":34.94987,
+    "gn:longitude":36.39763,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zawr Ba\u2018r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0628\u0639\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zor Baar\u00eene",
+        "Zawr Ba\u2018r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162479
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05dca9842e74b8d11a55b189f5fabf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1259772407,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259772407,
+    "wof:lastmodified":1537701594,
+    "wof:name":"Zawr Ba`rin",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39763,
+    34.94987,
+    36.39763,
+    34.94987
+],
+  "geometry": {"coordinates":[36.39763,34.94987],"type":"Point"}
+}

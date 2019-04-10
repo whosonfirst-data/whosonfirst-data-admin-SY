@@ -1,0 +1,73 @@
+{
+  "id": 1243251619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67751,34.71246,36.67751,34.71246",
+    "geom:latitude":34.71246,
+    "geom:longitude":36.67751,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ard as Sayyahi",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7637401,
+    "gn:latitude":34.71246,
+    "gn:longitude":36.67751,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar\u1e11 a\u015f \u015eayy\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0635\u064a\u0627\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 a\u015f \u015eayy\u0101\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7637401
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2b6870c024553c56e3126c326309b013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1243251619,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243251619,
+    "wof:lastmodified":1537702468,
+    "wof:name":"Ard as Sayyahi",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67751,
+    34.71246,
+    36.67751,
+    34.71246
+],
+  "geometry": {"coordinates":[36.67751,34.71246],"type":"Point"}
+}

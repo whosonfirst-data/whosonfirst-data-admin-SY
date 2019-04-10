@@ -1,0 +1,76 @@
+{
+  "id": 1310695721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24257,35.49377,36.24257,35.49377",
+    "geom:latitude":35.49377,
+    "geom:longitude":36.24257,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shathah al Fawqa",
+    "gn:country_code":"SY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164399,
+    "gn:latitude":35.49377,
+    "gn:longitude":36.24257,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Sha\u0163\u1e29ah al Fawq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0637\u062d\u0629 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Chat\u2019ha el Faouqa",
+        "Shatt\u2019a el Fawqa",
+        "Sha\u0163\u1e29ah al Fawq\u0101\u2019",
+        "Sha\u0163\u1e29ah al Fawq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164399
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5b34c49f58196ae6d4535d10db2c2a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1310695721,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310695721,
+    "wof:lastmodified":1537701731,
+    "wof:name":"Shathah al Fawqa",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24257,
+    35.49377,
+    36.24257,
+    35.49377
+],
+  "geometry": {"coordinates":[36.24257,35.49377],"type":"Point"}
+}

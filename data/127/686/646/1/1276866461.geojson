@@ -1,0 +1,70 @@
+{
+  "id": 1276866461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16541,35.66987,37.16541,35.66987",
+    "geom:latitude":35.66987,
+    "geom:longitude":37.16541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qawlat al Buwaydir",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540716,
+    "gn:latitude":35.66987,
+    "gn:longitude":37.16541,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Qawlat al Buwaydir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0644\u0629 \u0627\u0644\u0628\u0648\u064a\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540716
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"33bd922dc025150f6f1fd7e082413593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276866461,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276866461,
+    "wof:lastmodified":1537702577,
+    "wof:name":"Qawlat al Buwaydir",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16541,
+    35.66987,
+    37.16541,
+    35.66987
+],
+  "geometry": {"coordinates":[37.16541,35.66987],"type":"Point"}
+}

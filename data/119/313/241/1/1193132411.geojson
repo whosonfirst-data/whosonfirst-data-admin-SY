@@ -1,0 +1,73 @@
+{
+  "id": 1193132411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25822,35.34544,37.25822,35.34544",
+    "geom:latitude":35.34544,
+    "geom:longitude":37.25822,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shamtanah",
+    "gn:country_code":"SY",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340913,
+    "gn:latitude":35.34544,
+    "gn:longitude":37.25822,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Shamt\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u062a\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shamt\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340913
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69b20a4c75c122feec7203791ad9b15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1193132411,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193132411,
+    "wof:lastmodified":1537702538,
+    "wof:name":"Shamtanah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25822,
+    35.34544,
+    37.25822,
+    35.34544
+],
+  "geometry": {"coordinates":[37.25822,35.34544],"type":"Point"}
+}

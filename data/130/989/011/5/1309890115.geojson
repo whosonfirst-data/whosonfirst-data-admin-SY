@@ -1,0 +1,80 @@
+{
+  "id": 1309890115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24623,36.48367,37.24623,36.48367",
+    "geom:latitude":36.48367,
+    "geom:longitude":37.24623,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sunbul",
+    "gn:country_code":"SY",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163925,
+    "gn:latitude":36.48367,
+    "gn:longitude":37.24623,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Sunbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u0628\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0646\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sounbol",
+        "Snibbol",
+        "Sunbul",
+        "Asanbal",
+        "Asunbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163925
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"07d9145b386f3b30d69d0bf4a0e41565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1309890115,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309890115,
+    "wof:lastmodified":1537701704,
+    "wof:name":"Sunbul",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24623,
+    36.48367,
+    37.24623,
+    36.48367
+],
+  "geometry": {"coordinates":[37.24623,36.48367],"type":"Point"}
+}

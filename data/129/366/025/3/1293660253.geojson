@@ -1,0 +1,76 @@
+{
+  "id": 1293660253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03113,35.11228,36.03113,35.11228",
+    "geom:latitude":35.11228,
+    "geom:longitude":36.03113,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Bustan",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173922,
+    "gn:latitude":35.11228,
+    "gn:longitude":36.03113,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Bust\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bust\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Boust\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173922
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e363d4344c43a356a04a2a7183eec0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1293660253,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293660253,
+    "wof:lastmodified":1537702375,
+    "wof:name":"Al Bustan",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03113,
+    35.11228,
+    36.03113,
+    35.11228
+],
+  "geometry": {"coordinates":[36.03113,35.11228],"type":"Point"}
+}

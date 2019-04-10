@@ -1,0 +1,70 @@
+{
+  "id": 1209077067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09154,34.95785,36.09154,34.95785",
+    "geom:latitude":34.95785,
+    "geom:longitude":36.09154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bramlikh",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171480,
+    "gn:latitude":34.95785,
+    "gn:longitude":36.09154,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Braml\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u0644\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Brhaml\u00eekh",
+        "Bramlikh",
+        "Bghaml\u012bkh",
+        "Braml\u012bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171480
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"338d6d95947385d2bf24b8b333c68ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209077067
+        }
+    ],
+    "wof:id":1209077067,
+    "wof:lastmodified":1537702201,
+    "wof:name":"Bramlikh",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09154,
+    34.95785,
+    36.09154,
+    34.95785
+],
+  "geometry": {"coordinates":[36.09154,34.95785],"type":"Point"}
+}

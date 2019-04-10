@@ -1,0 +1,86 @@
+{
+  "id": 1226055769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02846,35.42666,36.02846,35.42666",
+    "geom:latitude":35.42666,
+    "geom:longitude":36.02846,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Btirghamu",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171252,
+    "gn:latitude":35.42666,
+    "gn:longitude":36.02846,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"B\u0163irgh\u0101m\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Btirgh\u0101m\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0637\u0631\u063a\u0627\u0645\u0648",
+        "\u0627\u0644\u0646\u0632\u0647\u0629",
+        "\u0628\u062a\u063a\u0631\u0627\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bterrh\u00e2mo",
+        "B\u0163irgh\u0101m\u016b",
+        "B\u0163ighr\u0101m\u016b",
+        "An Nuzhah",
+        "Betghramo",
+        "Nuzha",
+        "Nuzha - Betghramo",
+        "Bi\u0163irgh\u0101m\u016b",
+        "Bi\u0163ighr\u0101m\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171252
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e9b2c13d6ad336a7f73ae556e6e9577b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1226055769,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226055769,
+    "wof:lastmodified":1537702180,
+    "wof:name":"Btirghamu",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02845999999999,
+    35.42666,
+    36.02845999999999,
+    35.42666
+],
+  "geometry": {"coordinates":[36.02845999999999,35.42666],"type":"Point"}
+}

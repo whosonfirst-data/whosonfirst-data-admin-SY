@@ -1,0 +1,70 @@
+{
+  "id": 1226042861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65833,36.3875,38.65833,36.3875",
+    "geom:latitude":36.3875,
+    "geom:longitude":38.65833,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dalaq Magharah",
+    "gn:country_code":"SY",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9091,
+    "gn:latitude":36.3875,
+    "gn:longitude":38.65833,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dalaq Magh\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalaq Magh\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9091
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ff986310247e73bc4e2a48088047cf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1226042861,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226042861,
+    "wof:lastmodified":1537701563,
+    "wof:name":"Dalaq Magharah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65833,
+    36.3875,
+    38.65833,
+    36.3875
+],
+  "geometry": {"coordinates":[38.65833,36.3875],"type":"Point"}
+}

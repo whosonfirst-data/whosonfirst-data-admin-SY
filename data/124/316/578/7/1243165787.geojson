@@ -1,0 +1,75 @@
+{
+  "id": 1243165787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44764,35.2343,37.44764,35.2343",
+    "geom:latitude":35.2343,
+    "geom:longitude":37.44764,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hunayta",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163558,
+    "gn:latitude":35.2343,
+    "gn:longitude":37.44764,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al \u1e28unayt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u064a\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tell Hne\u00efta",
+        "Tall Hne\u00efta",
+        "Al \u1e28unayt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163558
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2f1044a946b21b6ca80179443b5fce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243165787,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243165787,
+    "wof:lastmodified":1537701669,
+    "wof:name":"Al Hunayta",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44764,
+    35.2343,
+    37.44764,
+    35.2343
+],
+  "geometry": {"coordinates":[37.44764,35.2343],"type":"Point"}
+}

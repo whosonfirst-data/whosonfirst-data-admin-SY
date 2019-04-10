@@ -1,0 +1,73 @@
+{
+  "id": 1310671669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94597,34.79177,35.94597,34.79177",
+    "geom:latitude":34.79177,
+    "geom:longitude":35.94597,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Khallat",
+    "gn:country_code":"SY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8239004,
+    "gn:latitude":34.79177,
+    "gn:longitude":35.94597,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bayt Khall\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062e\u0644\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Bayt Khall\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239004
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fa41187694cad278f96706d5bc5235c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1310671669,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310671669,
+    "wof:lastmodified":1537702492,
+    "wof:name":"Bayt Khallat",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94597,
+    34.79177,
+    35.94597,
+    34.79177
+],
+  "geometry": {"coordinates":[35.94597,34.79177],"type":"Point"}
+}

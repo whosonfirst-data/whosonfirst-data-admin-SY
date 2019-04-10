@@ -1,0 +1,74 @@
+{
+  "id": 1309804037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22563,36.64462,39.22563,36.64462",
+    "geom:latitude":36.64462,
+    "geom:longitude":39.22563,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Za`zu`ah",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162589,
+    "gn:latitude":36.64462,
+    "gn:longitude":39.22563,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Za\u2018z\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0639\u0632\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zaazo\u00fbaa",
+        "Za\u2018z\u016b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162589
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"90d19c35715b87d26f1c8fd66b9d0091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1309804037,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309804037,
+    "wof:lastmodified":1537701601,
+    "wof:name":"Za`zu`ah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22563,
+    36.64462,
+    39.22563,
+    36.64462
+],
+  "geometry": {"coordinates":[39.22563,36.64462],"type":"Point"}
+}

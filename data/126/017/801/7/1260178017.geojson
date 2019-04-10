@@ -1,0 +1,95 @@
+{
+  "id": 1260178017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.22152,36.90942,38.22152,36.90942",
+    "geom:latitude":36.90942,
+    "geom:longitude":38.22152,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Siftik al Wasati",
+    "gn:country_code":"SY",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164714,
+    "gn:latitude":36.90942,
+    "gn:longitude":38.22152,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Siftik al Wasa\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0641\u062a\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0641\u062a \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u0633\u0641\u062a\u0643 \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u0633\u0641\u062a\u0643 \u0627\u0644\u0648\u0633\u0637\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Siftik Jor"
+    ],
+    "name:kur_x_variant":[
+        "Siftik Zur",
+        "S\u00eeftik",
+        "\u0633\u0641\u062a\u0643 \u0698\u06c6\u0631",
+        "\u0633\u0641\u062a\u0643 \u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efftek",
+        "Siftek",
+        "Siftik",
+        "S\u012bftik",
+        "Siftik Fawqani",
+        "Saft Fawq\u0101n\u012b",
+        "Siftik Fawq\u0101n\u012b",
+        "Seft Foqan\u00ee",
+        "Siftik al Wasa\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164714
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed03230b5eb8f808aa5ab60239292e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260178017,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260178017,
+    "wof:lastmodified":1537701750,
+    "wof:name":"Siftik al Wasati",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.22152,
+    36.90942,
+    38.22152,
+    36.90942
+],
+  "geometry": {"coordinates":[38.22152,36.90942],"type":"Point"}
+}

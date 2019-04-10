@@ -1,0 +1,76 @@
+{
+  "id": 1326647649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.82119,37.09327,40.82119,37.09327",
+    "geom:latitude":37.09327,
+    "geom:longitude":40.82119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qarnakur",
+    "gn:country_code":"SY",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420792,
+    "gn:latitude":37.09327,
+    "gn:longitude":40.82119,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qarnak\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646\u0643\u0648\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Qarnaq\u016br"
+    ],
+    "name:und_x_variant":[
+        "Qarnak\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420792
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8054455744dde1027b2d02060923fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1326647649,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326647649,
+    "wof:lastmodified":1537702449,
+    "wof:name":"Qarnakur",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.82119,
+    37.09327,
+    40.82119,
+    37.09327
+],
+  "geometry": {"coordinates":[40.82119,37.09327],"type":"Point"}
+}

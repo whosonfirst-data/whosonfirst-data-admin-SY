@@ -1,0 +1,70 @@
+{
+  "id": 1209232551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.34389,36.78072,41.34389,36.78072",
+    "geom:latitude":36.78072,
+    "geom:longitude":41.34389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hulwah",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169511,
+    "gn:latitude":36.78072,
+    "gn:longitude":41.34389,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"\u1e28ulwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u1e28ulwah"
+    ],
+    "name:und_x_variant":[
+        "H\u00e9loua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169511
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e438e8a3757ea8230d24bb1be409c7f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209232551
+        }
+    ],
+    "wof:id":1209232551,
+    "wof:lastmodified":1537702071,
+    "wof:name":"Hulwah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.34389,
+    36.78072,
+    41.34389,
+    36.78072
+],
+  "geometry": {"coordinates":[41.34389,36.78072],"type":"Point"}
+}

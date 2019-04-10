@@ -1,0 +1,73 @@
+{
+  "id": 1260061169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76464,34.91864,36.76464,34.91864",
+    "geom:latitude":34.91864,
+    "geom:longitude":36.76464,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Ballan",
+    "gn:country_code":"SY",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441403,
+    "gn:latitude":34.91864,
+    "gn:longitude":36.76464,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Ball\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Ball\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441403
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7913d3dc5492cf978d93de429d8897d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1260061169,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260061169,
+    "wof:lastmodified":1537702622,
+    "wof:name":"Al Ballan",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76464,
+    34.91864,
+    36.76464,
+    34.91864
+],
+  "geometry": {"coordinates":[36.76464,34.91864],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293395995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68767,36.72982,38.68767,36.72982",
+    "geom:latitude":36.72982,
+    "geom:longitude":38.68767,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aq Bash",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173140,
+    "gn:latitude":36.72982,
+    "gn:longitude":38.68767,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u0100q B\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100q B\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u0622\u0642 \u0628\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Achb\u00e2ch",
+        "Aq B\u00e2ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173140
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"626aa0dcbbe2b99243dc2672708b1a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1293395995,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1293395995,
+    "wof:lastmodified":1537702313,
+    "wof:name":"Aq Bash",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68767,
+    36.72982,
+    38.68767,
+    36.72982
+],
+  "geometry": {"coordinates":[38.68767,36.72982],"type":"Point"}
+}

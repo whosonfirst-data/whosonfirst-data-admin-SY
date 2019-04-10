@@ -1,0 +1,79 @@
+{
+  "id": 1293679851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94196,33.35187,35.94196,33.35187",
+    "geom:latitude":33.35187,
+    "geom:longitude":35.94196,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hinah",
+    "gn:country_code":"SY",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169573,
+    "gn:latitude":33.35187,
+    "gn:longitude":35.94196,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u1e28\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u064a\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Hin\u00e9",
+        "\u1e28\u012bnah",
+        "H\u00een\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169573,
+        "wk:page":"Hinah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05ad9691a2981ef0586a8494ab40723b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1293679851,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293679851,
+    "wof:lastmodified":1537702074,
+    "wof:name":"Hinah",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94195999999999,
+    33.35187,
+    35.94195999999999,
+    33.35187
+],
+  "geometry": {"coordinates":[35.94195999999999,33.35187],"type":"Point"}
+}

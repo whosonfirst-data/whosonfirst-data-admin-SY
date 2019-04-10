@@ -1,0 +1,70 @@
+{
+  "id": 1226023075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.35,34.69583,37.35,34.69583",
+    "geom:latitude":34.69583,
+    "geom:longitude":37.35,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Matallat Rasm Kasad",
+    "gn:country_code":"SY",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366,
+    "gn:latitude":34.69583,
+    "gn:longitude":37.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ma\u0163allat Rasm Kas\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0163allat Rasm Kas\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8f5d6c75ba24eacae54bfa80aaa2a00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1226023075,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226023075,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Matallat Rasm Kasad",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.35,
+    34.69583,
+    37.35,
+    34.69583
+],
+  "geometry": {"coordinates":[37.35,34.69583],"type":"Point"}
+}

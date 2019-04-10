@@ -1,0 +1,77 @@
+{
+  "id": 1327143979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.67021,36.78473,40.67021,36.78473",
+    "geom:latitude":36.78473,
+    "geom:longitude":40.67021,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat al Bayadir",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168131,
+    "gn:latitude":36.78473,
+    "gn:longitude":40.67021,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat al Bay\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0628\u064a\u0627\u062f\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat al Bay\u0101dir"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Bay\u00e2der",
+        "Khirbat al Bay\u0101dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168131
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"612db81d065cf898f303b5700b29b935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1327143979,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327143979,
+    "wof:lastmodified":1537701972,
+    "wof:name":"Khirbat al Bayadir",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.67021,
+    36.78473,
+    40.67021,
+    36.78473
+],
+  "geometry": {"coordinates":[40.67021,36.78473],"type":"Point"}
+}

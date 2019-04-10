@@ -1,0 +1,73 @@
+{
+  "id": 1277165481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14095,34.88658,37.14095,34.88658",
+    "geom:latitude":34.88658,
+    "geom:longitude":37.14095,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abu Hakfa al Janubi",
+    "gn:country_code":"SY",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2438,
+    "gn:latitude":34.88658,
+    "gn:longitude":37.14095,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ab\u016b \u1e28akf\u0101 al Jan\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0643\u0641\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28akf\u0101 al Jan\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2438
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7209e0d6323563b27dc84f128383f8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1277165481,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1277165481,
+    "wof:lastmodified":1537701528,
+    "wof:name":"Abu Hakfa al Janubi",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14095,
+    34.88658,
+    37.14095,
+    34.88658
+],
+  "geometry": {"coordinates":[37.14095,34.88658],"type":"Point"}
+}

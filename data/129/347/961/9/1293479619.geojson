@@ -1,0 +1,73 @@
+{
+  "id": 1293479619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22882,35.79036,37.22882,35.79036",
+    "geom:latitude":35.79036,
+    "geom:longitude":37.22882,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Halwiyah",
+    "gn:country_code":"SY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338125,
+    "gn:latitude":35.79036,
+    "gn:longitude":37.22882,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28alw\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28alw\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c88578f183a40a62eee1dc0c0e8b4e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293479619,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293479619,
+    "wof:lastmodified":1537702530,
+    "wof:name":"Halwiyah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22882,
+    35.79036,
+    37.22882,
+    35.79036
+],
+  "geometry": {"coordinates":[37.22882,35.79036],"type":"Point"}
+}

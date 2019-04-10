@@ -1,0 +1,74 @@
+{
+  "id": 1360187853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0764,35.85178,36.0764,35.85178",
+    "geom:latitude":35.85178,
+    "geom:longitude":36.0764,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qalaz Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166173,
+    "gn:latitude":35.85178,
+    "gn:longitude":36.0764,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qalaz Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0632 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qalaz Ta\u1e29t\u0101n\u012b",
+        "Qalaz Tahtani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166173
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"edf753b618c266dba8b687c4dedd1b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1360187853,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1360187853,
+    "wof:lastmodified":1537701845,
+    "wof:name":"Qalaz Tahtani",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0764,
+    35.85178,
+    36.0764,
+    35.85178
+],
+  "geometry": {"coordinates":[36.0764,35.85178],"type":"Point"}
+}

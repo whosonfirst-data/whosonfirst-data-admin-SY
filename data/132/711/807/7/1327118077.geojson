@@ -1,0 +1,73 @@
+{
+  "id": 1327118077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63149,35.17912,37.63149,35.17912",
+    "geom:latitude":35.17912,
+    "geom:longitude":37.63149,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ar Rawdah",
+    "gn:country_code":"SY",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420153,
+    "gn:latitude":35.17912,
+    "gn:longitude":37.63149,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420153
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d80fed90bfec055d21f52fe62d2f1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1327118077,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327118077,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63149,
+    35.17912,
+    37.63149,
+    35.17912
+],
+  "geometry": {"coordinates":[37.63149,35.17912],"type":"Point"}
+}

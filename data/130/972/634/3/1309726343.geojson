@@ -1,0 +1,73 @@
+{
+  "id": 1309726343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.08656,36.23597,41.08656,36.23597",
+    "geom:latitude":36.23597,
+    "geom:longitude":41.08656,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Faydah",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414832,
+    "gn:latitude":36.23597,
+    "gn:longitude":41.08656,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Al Fay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Fay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414832
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"507b0180e896d66dc01a00b33219a973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1309726343,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1309726343,
+    "wof:lastmodified":1537702437,
+    "wof:name":"Al Faydah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.08656,
+    36.23597,
+    41.08656,
+    36.23597
+],
+  "geometry": {"coordinates":[41.08656,36.23597],"type":"Point"}
+}

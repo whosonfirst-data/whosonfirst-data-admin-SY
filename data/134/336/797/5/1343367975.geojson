@@ -1,0 +1,74 @@
+{
+  "id": 1343367975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04275,35.59393,36.04275,35.59393",
+    "geom:latitude":35.59393,
+    "geom:longitude":36.04275,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shir al Qaq",
+    "gn:country_code":"SY",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164245,
+    "gn:latitude":35.59393,
+    "gn:longitude":36.04275,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Sh\u012br al Q\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631 \u0627\u0644\u0642\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00eer el Q\u00e2q",
+        "Sh\u012br al Q\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164245
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5e8618a61bca84c61ae413d2291c1e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343367975,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343367975,
+    "wof:lastmodified":1537701725,
+    "wof:name":"Shir al Qaq",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04275,
+    35.59393,
+    36.04275,
+    35.59393
+],
+  "geometry": {"coordinates":[36.04275,35.59393],"type":"Point"}
+}

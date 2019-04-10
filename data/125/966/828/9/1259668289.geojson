@@ -1,0 +1,77 @@
+{
+  "id": 1259668289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96901,36.48456,36.96901,36.48456",
+    "geom:latitude":36.48456,
+    "geom:longitude":36.96901,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jatbu",
+    "gn:country_code":"SY",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887652,
+    "gn:latitude":36.48456,
+    "gn:longitude":36.96901,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ja\u0163b\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0637\u0628\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0644\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ja\u0163b\u016b",
+        "Jalbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887652
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b54cb087c98032e6a68cdc5ff3e42233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1259668289,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259668289,
+    "wof:lastmodified":1537702475,
+    "wof:name":"Jatbu",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96901,
+    36.48456,
+    36.96901,
+    36.48456
+],
+  "geometry": {"coordinates":[36.96901,36.48456],"type":"Point"}
+}

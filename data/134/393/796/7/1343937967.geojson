@@ -1,0 +1,75 @@
+{
+  "id": 1343937967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14639,35.56758,37.14639,35.56758",
+    "geom:latitude":35.56758,
+    "geom:longitude":37.14639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"`Azilah",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170178,
+    "gn:latitude":35.56758,
+    "gn:longitude":37.14639,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Az\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhza\u00efl\u00e9",
+        "Ghuzaylah",
+        "\u2018Az\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170178
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fada7ac453fb5c6fa8c62d55617add1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1343937967,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343937967,
+    "wof:lastmodified":1537702112,
+    "wof:name":"`Azilah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14639,
+    35.56758,
+    37.14639,
+    35.56758
+],
+  "geometry": {"coordinates":[37.14639,35.56758],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343581233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4139,33.86453,36.4139,33.86453",
+    "geom:latitude":33.86453,
+    "geom:longitude":36.4139,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Assal al Ward",
+    "gn:country_code":"SY",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172487,
+    "gn:latitude":33.86453,
+    "gn:longitude":36.4139,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u2018Ass\u0101l al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0627\u0644 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Aass\u00e2l el Ouard",
+        "\u2018As\u0101l el Ward",
+        "Assal el Ouard",
+        "\u2018Asal al Ward",
+        "Assal el Ward",
+        "\u2018Ass\u0101l al Ward",
+        "\u2018Is\u0101l al Ward"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172487
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b8364d8940a09ca2a2003199e9cc414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1343581233,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343581233,
+    "wof:lastmodified":1537702278,
+    "wof:name":"`Assal al Ward",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4139,
+    33.86453,
+    36.4139,
+    33.86453
+],
+  "geometry": {"coordinates":[36.4139,33.86453],"type":"Point"}
+}

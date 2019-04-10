@@ -1,0 +1,75 @@
+{
+  "id": 1260263085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40436,35.95488,36.40436,35.95488",
+    "geom:latitude":35.95488,
+    "geom:longitude":36.40436,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Mulk",
+    "gn:country_code":"SY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173467,
+    "gn:latitude":35.95488,
+    "gn:longitude":36.40436,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Mulk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "El Melk",
+        "Al Milk",
+        "Al Mulk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173467
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e5f36d358c5f221714a21ac0a7acc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1260263085,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260263085,
+    "wof:lastmodified":1537702337,
+    "wof:name":"Al Mulk",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40436,
+    35.95488,
+    36.40436,
+    35.95488
+],
+  "geometry": {"coordinates":[36.40436,35.95488],"type":"Point"}
+}

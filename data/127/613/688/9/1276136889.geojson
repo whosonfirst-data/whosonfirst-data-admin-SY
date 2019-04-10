@@ -1,0 +1,73 @@
+{
+  "id": 1276136889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.93454,36.05292,40.93454,36.05292",
+    "geom:latitude":36.05292,
+    "geom:longitude":40.93454,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al `Awadat",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414762,
+    "gn:latitude":36.05292,
+    "gn:longitude":40.93454,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Aw\u0101d\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Aw\u0101d\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u0627\u062f\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414762
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0845cc1fdd47152465044bb6caf9460e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276136889,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276136889,
+    "wof:lastmodified":1537702433,
+    "wof:name":"Al `Awadat",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.93454000000001,
+    36.05292,
+    40.93454000000001,
+    36.05292
+],
+  "geometry": {"coordinates":[40.93454000000001,36.05292],"type":"Point"}
+}

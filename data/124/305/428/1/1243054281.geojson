@@ -1,0 +1,70 @@
+{
+  "id": 1243054281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39167,33.51528,36.39167,33.51528",
+    "geom:latitude":33.51528,
+    "geom:longitude":36.39167,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Siqba",
+    "gn:country_code":"SY",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12849,
+    "gn:latitude":33.51528,
+    "gn:longitude":36.39167,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Siqb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Siqb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12849
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7995a50559c38fe31a08812365463c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1243054281,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243054281,
+    "wof:lastmodified":1537701577,
+    "wof:name":"Siqba",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39167,
+    33.51528,
+    36.39167,
+    33.51528
+],
+  "geometry": {"coordinates":[36.39167,33.51528],"type":"Point"}
+}

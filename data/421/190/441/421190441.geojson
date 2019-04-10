@@ -1,0 +1,74 @@
+{
+  "id": 421190441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.057643,35.596251,36.057643,35.596251",
+    "geom:latitude":35.596251,
+    "geom:longitude":36.057643,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Haffe",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
+    "qs:photos":242,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":242,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119569,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1947130,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1947130,
+        "qs:id":1119569
+    },
+    "wof:country":"SY",
+    "wof:created":1459009658,
+    "wof:geomhash":"ad9f4f72c8608917f280ba495ed35a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":421190441,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":421190441,
+    "wof:lastmodified":1496498075,
+    "wof:name":"Haffe",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.057643,
+    35.596251,
+    36.057643,
+    35.596251
+],
+  "geometry": {"coordinates":[36.057643,35.596251],"type":"Point"}
+}

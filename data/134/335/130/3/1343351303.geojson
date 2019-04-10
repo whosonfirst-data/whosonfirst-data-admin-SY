@@ -1,0 +1,78 @@
+{
+  "id": 1343351303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6134,36.55712,36.6134,36.55712",
+    "geom:latitude":36.55712,
+    "geom:longitude":36.6134,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall ath Tha`alib",
+    "gn:country_code":"SY",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273802,
+    "gn:latitude":36.55712,
+    "gn:longitude":36.6134,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tall ath Tha\u2018\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u062c\u0642\u0627\u0644\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0627\u0644\u062b\u0639\u0627\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Juq\u0101ll\u012b",
+        "Shaykh Juq\u0101lal\u012b",
+        "Tall ath Tha\u2018\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273802
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"26d36d510aee25e0de1b888771a342ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343351303,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343351303,
+    "wof:lastmodified":1537702509,
+    "wof:name":"Tall ath Tha`alib",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6134,
+    36.55712,
+    36.6134,
+    36.55712
+],
+  "geometry": {"coordinates":[36.6134,36.55712],"type":"Point"}
+}

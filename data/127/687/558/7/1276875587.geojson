@@ -1,0 +1,73 @@
+{
+  "id": 1276875587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99311,35.45596,35.99311,35.45596",
+    "geom:latitude":35.45596,
+    "geom:longitude":35.99311,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Musaytibah",
+    "gn:country_code":"SY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697087,
+    "gn:latitude":35.45596,
+    "gn:longitude":35.99311,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Al Mu\u015fay\u0163ibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u064a\u0637\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u015fay\u0163ibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697087
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d017d4c8482a271f12694ef8a1bfdc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1276875587,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276875587,
+    "wof:lastmodified":1537702587,
+    "wof:name":"Al Musaytibah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99310999999999,
+    35.45596,
+    35.99310999999999,
+    35.45596
+],
+  "geometry": {"coordinates":[35.99310999999999,35.45596],"type":"Point"}
+}

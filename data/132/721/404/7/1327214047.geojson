@@ -1,0 +1,67 @@
+{
+  "id": 1327214047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60417,35.71667,36.60417,35.71667",
+    "geom:latitude":35.71667,
+    "geom:longitude":36.60417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Farkiya",
+    "gn:country_code":"SY",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4608,
+    "gn:latitude":35.71667,
+    "gn:longitude":36.60417,
+    "gn:modification_date":"1998-10-28",
+    "gn:name":"Fark\u012by\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4608
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d51a7c9130150e7a9c2c0298a8f65758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1327214047,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1327214047,
+    "wof:lastmodified":1536995380,
+    "wof:name":"Farkiya",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60417,
+    35.71667,
+    36.60417,
+    35.71667
+],
+  "geometry": {"coordinates":[36.60417,35.71667],"type":"Point"}
+}

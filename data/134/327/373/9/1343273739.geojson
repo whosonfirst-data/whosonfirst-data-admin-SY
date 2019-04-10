@@ -1,0 +1,119 @@
+{
+  "id": 1343273739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64848,32.96944,35.64848,32.96944",
+    "geom:latitude":32.96944,
+    "geom:longitude":35.64848,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sir al Khurfan",
+    "gn:country_code":"SY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1740,
+    "gn:latitude":32.96944,
+    "gn:longitude":35.64848,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"S\u012br al Khurf\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0631 \u0627\u0644\u062e\u0631\u0641\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u012br al Khurf\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c846824daf6c31281e1deeb23d251bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1343273739,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343273739,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343273739,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1343273739,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343273739,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343273739,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1343273739,
+    "wof:lastmodified":1537701521,
+    "wof:name":"Sir al Khurfan",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64848,
+    32.96944000000001,
+    35.64848,
+    32.96944000000001
+],
+  "geometry": {"coordinates":[35.64848,32.96944000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344127849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.135,35.13191,36.135,35.13191",
+    "geom:latitude":35.13191,
+    "geom:longitude":36.135,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jufin",
+    "gn:country_code":"SY",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168877,
+    "gn:latitude":35.13191,
+    "gn:longitude":36.135,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"J\u016bf\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u016bf\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0648\u0641\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jo\u00fbf\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168877
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cb2c46298b2df6dfb431d11acf402ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1344127849,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1344127849,
+    "wof:lastmodified":1537702027,
+    "wof:name":"Jufin",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.135,
+    35.13191,
+    36.135,
+    35.13191
+],
+  "geometry": {"coordinates":[36.135,35.13191],"type":"Point"}
+}

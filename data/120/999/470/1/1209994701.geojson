@@ -1,0 +1,79 @@
+{
+  "id": 1209994701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31313,34.85777,36.31313,34.85777",
+    "geom:latitude":34.85777,
+    "geom:longitude":36.31313,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bayt ar Rafi`ah",
+    "gn:country_code":"SY",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171598,
+    "gn:latitude":34.85777,
+    "gn:longitude":36.31313,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bayt ar Raf\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0631\u0641\u064a\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062f\u0631 \u0631\u0641\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft er Raf\u00eeaa",
+        "Be\u00eft al Rafi\u2019ah",
+        "Bayt ar Raf\u012b\u2018ah",
+        "Baydar Raf\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171598
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"facf0a8c5c0680e659541abb803d76e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1209994701,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209994701,
+    "wof:lastmodified":1537702212,
+    "wof:name":"Bayt ar Rafi`ah",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31313,
+    34.85777,
+    36.31313,
+    34.85777
+],
+  "geometry": {"coordinates":[36.31313,34.85777],"type":"Point"}
+}

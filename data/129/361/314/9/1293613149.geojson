@@ -1,0 +1,76 @@
+{
+  "id": 1293613149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26383,35.93327,38.26383,35.93327",
+    "geom:latitude":35.93327,
+    "geom:longitude":38.26383,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dibsi `Afnan",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":170680,
+    "gn:latitude":35.93327,
+    "gn:longitude":38.26383,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dibs\u012b \u2018Afn\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Dibs\u012b \u2018Afn\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0628\u0633\u064a \u0639\u0641\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dibsi Aafn\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170680
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7621210d798850d9051a44138863efd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1293613149,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1293613149,
+    "wof:lastmodified":1537702139,
+    "wof:name":"Dibsi `Afnan",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26383,
+    35.93327,
+    38.26383,
+    35.93327
+],
+  "geometry": {"coordinates":[38.26383,35.93327],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292895115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33635,35.1693,36.33635,35.1693",
+    "geom:latitude":35.1693,
+    "geom:longitude":36.33635,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Harat as Saraya",
+    "gn:country_code":"SY",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169892,
+    "gn:latitude":35.1693,
+    "gn:longitude":36.33635,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28\u0101rat as Sar\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0633\u0631\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2ret es Sar\u00e2ya",
+        "\u1e28\u0101rat as Sar\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169892
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6f4fc6f15ce58c2971166cc50f971d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1292895115,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292895115,
+    "wof:lastmodified":1537702095,
+    "wof:name":"Harat as Saraya",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33635,
+    35.1693,
+    36.33635,
+    35.1693
+],
+  "geometry": {"coordinates":[36.33635,35.1693],"type":"Point"}
+}

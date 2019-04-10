@@ -1,0 +1,83 @@
+{
+  "id": 1259777861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09206,36.23904,37.09206,36.23904",
+    "geom:latitude":36.23904,
+    "geom:longitude":37.09206,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qaryat Ballirmun",
+    "gn:country_code":"SY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171874,
+    "gn:latitude":36.23904,
+    "gn:longitude":37.09206,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Qaryat Ball\u012brm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0644\u064a\u0631\u0645\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0644\u0644\u064a\u0631\u0645\u0648\u0646",
+        "\u0628\u0644\u0644\u064a\u0631\u0627\u0645\u0648\u0646",
+        "\u0628\u0644\u064a\u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bell\u00eermo\u00fbn",
+        "Ball\u012brm\u016bn",
+        "Qaryat Ball\u012brm\u016bn",
+        "Ball\u012br\u0101m\u016bn",
+        "Blal\u012brm\u016bn",
+        "Bal\u012br\u0101m\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"add24d8adfd4f2caf0e3966a9c9bcd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259777861,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259777861,
+    "wof:lastmodified":1537702232,
+    "wof:name":"Qaryat Ballirmun",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09206,
+    36.23904,
+    37.09206,
+    36.23904
+],
+  "geometry": {"coordinates":[37.09206,36.23904],"type":"Point"}
+}

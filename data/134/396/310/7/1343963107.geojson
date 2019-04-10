@@ -1,0 +1,84 @@
+{
+  "id": 1343963107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6173,32.75695,36.6173,32.75695",
+    "geom:latitude":32.75695,
+    "geom:longitude":36.6173,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"172409.0",
+    "gn:asciiname":"Qanawat",
+    "gn:country_code":"SY",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166141,
+    "gn:latitude":32.75695,
+    "gn:longitude":36.6173,
+    "gn:modification_date":"2014-02-01",
+    "gn:name":"Qanaw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0648\u0627\u062a"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u043d\u0430\u0432\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Al Qanaw\u0101t",
+        "Kanaouat",
+        "El Qanaw\u0101t",
+        "Qanaou\u00e2te",
+        "El Kanawat",
+        "El Qunaw\u0101t",
+        "Qanaw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166141,
+        "wk:page":"Qanawat"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"59c3cffb8f36b29b2359842e3b4c9db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1343963107,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1343963107,
+    "wof:lastmodified":1537701842,
+    "wof:name":"Qanawat",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6173,
+    32.75695,
+    36.6173,
+    32.75695
+],
+  "geometry": {"coordinates":[36.6173,32.75695],"type":"Point"}
+}

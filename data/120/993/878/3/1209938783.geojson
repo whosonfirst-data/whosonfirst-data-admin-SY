@@ -1,0 +1,75 @@
+{
+  "id": 1209938783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91034,33.35486,35.91034,33.35486",
+    "geom:latitude":33.35486,
+    "geom:longitude":35.91034,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Darbul",
+    "gn:country_code":"SY",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170876,
+    "gn:latitude":33.35486,
+    "gn:longitude":35.91034,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Darbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Derbol",
+        "Darbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170876,
+        "wk:page":"Darbal"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"795025c96e2f1aac0a297d8b7b6fb387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1209938783,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1209938783,
+    "wof:lastmodified":1537702153,
+    "wof:name":"Darbul",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91034000000001,
+    33.35486,
+    35.91034000000001,
+    33.35486
+],
+  "geometry": {"coordinates":[35.91034000000001,33.35486],"type":"Point"}
+}

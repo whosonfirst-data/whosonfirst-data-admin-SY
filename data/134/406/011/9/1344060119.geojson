@@ -1,0 +1,78 @@
+{
+  "id": 1344060119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80259,35.67396,35.80259,35.67396",
+    "geom:latitude":35.67396,
+    "geom:longitude":35.80259,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Burj Islam",
+    "gn:country_code":"SY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171147,
+    "gn:latitude":35.67396,
+    "gn:longitude":35.80259,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Burj Isl\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Burj Isl\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u062c \u0625\u0633\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Borj Isl\u00e2m",
+        "Burj Islam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171147,
+        "wk:page":"Burj_Islam"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e09c08eacec0ab9a0cb3588afae2780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1344060119,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344060119,
+    "wof:lastmodified":1537702173,
+    "wof:name":"Burj Islam",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80259,
+    35.67396,
+    35.80259,
+    35.67396
+],
+  "geometry": {"coordinates":[35.80259,35.67396],"type":"Point"}
+}

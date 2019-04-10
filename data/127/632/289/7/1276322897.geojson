@@ -1,0 +1,72 @@
+{
+  "id": 1276322897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24596,34.98395,36.24596,34.98395",
+    "geom:latitude":34.98395,
+    "geom:longitude":36.24596,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qusayyah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165647,
+    "gn:latitude":34.98395,
+    "gn:longitude":36.24596,
+    "gn:modification_date":"2011-09-28",
+    "gn:name":"Qu\u015fayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qsa\u00efy\u00e9",
+        "Qu\u015fayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165647
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b0f6455398112524c3359a6fb186ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276322897,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276322897,
+    "wof:lastmodified":1537701798,
+    "wof:name":"Qusayyah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24596,
+    34.98395,
+    36.24596,
+    34.98395
+],
+  "geometry": {"coordinates":[36.24596,34.98395],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1309927189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37126,35.20253,40.37126,35.20253",
+    "geom:latitude":35.20253,
+    "geom:longitude":40.37126,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abu al Layl",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174433,
+    "gn:latitude":35.20253,
+    "gn:longitude":40.37126,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ab\u016b al Layl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0644\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0637\u0639\u0629 \u0627\u0644\u0628\u0648 \u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "To\u00fbb",
+        "Abou La\u00efl",
+        "Ab\u016b Layl",
+        "Ab\u016b al Layl",
+        "Qt\u00e2a",
+        "Qa\u0163\u2018ah",
+        "Qata\u00e2",
+        "Kit\u2019a",
+        "Gataa",
+        "Qu\u0163\u2018at \u0100lb\u016b Layl",
+        "Qa\u0163\u2018at \u0100lb\u016b Layl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174433
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3a35e4d2795a7e3b0179d5858999f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1309927189,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1309927189,
+    "wof:lastmodified":1537702408,
+    "wof:name":"Abu al Layl",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37126,
+    35.20253,
+    40.37126,
+    35.20253
+],
+  "geometry": {"coordinates":[40.37126,35.20253],"type":"Point"}
+}

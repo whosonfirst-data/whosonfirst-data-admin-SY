@@ -1,0 +1,77 @@
+{
+  "id": 1193019023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84186,35.84811,35.84186,35.84811",
+    "geom:latitude":35.84811,
+    "geom:longitude":35.84186,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muhajir",
+    "gn:country_code":"SY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166768,
+    "gn:latitude":35.84811,
+    "gn:longitude":35.84186,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Muh\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Muh\u0101jir"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0647\u0627\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29jar",
+        "Mouh\u00e2djir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166768
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2b5d1ce956d6b7617284fe33be068739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1193019023,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1193019023,
+    "wof:lastmodified":1537701878,
+    "wof:name":"Muhajir",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84186,
+    35.84811,
+    35.84186,
+    35.84811
+],
+  "geometry": {"coordinates":[35.84186,35.84811],"type":"Point"}
+}

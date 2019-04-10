@@ -1,0 +1,73 @@
+{
+  "id": 1344262907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23002,35.91617,38.23002,35.91617",
+    "geom:latitude":35.91617,
+    "geom:longitude":38.23002,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dibsi Faraj",
+    "gn:country_code":"SY",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170679,
+    "gn:latitude":35.91617,
+    "gn:longitude":38.23002,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dibs\u012b Faraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0633\u064a \u0641\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Dibs\u012b Faraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170679
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6d969106c1c482cddef73fffa0a3f96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1344262907,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1344262907,
+    "wof:lastmodified":1537702139,
+    "wof:name":"Dibsi Faraj",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23002,
+    35.91617,
+    38.23002,
+    35.91617
+],
+  "geometry": {"coordinates":[38.23002,35.91617],"type":"Point"}
+}

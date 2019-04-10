@@ -1,0 +1,76 @@
+{
+  "id": 1226346247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.0524,36.75694,41.0524,36.75694",
+    "geom:latitude":36.75694,
+    "geom:longitude":41.0524,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Daffah",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171002,
+    "gn:latitude":36.75694,
+    "gn:longitude":41.0524,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Daffah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0641\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Daffah"
+    ],
+    "name:und_x_variant":[
+        "Daff\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171002
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9a980ef6b10e6a520b754fd81f151ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226346247,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226346247,
+    "wof:lastmodified":1537702163,
+    "wof:name":"Daffah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.0524,
+    36.75694,
+    41.0524,
+    36.75694
+],
+  "geometry": {"coordinates":[41.0524,36.75694],"type":"Point"}
+}

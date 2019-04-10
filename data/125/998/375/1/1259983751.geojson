@@ -1,0 +1,77 @@
+{
+  "id": 1259983751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.48403,36.97235,41.48403,36.97235",
+    "geom:latitude":36.97235,
+    "geom:longitude":41.48403,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qutba Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165635,
+    "gn:latitude":36.97235,
+    "gn:longitude":41.48403,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Qu\u0163b\u0101 Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0628\u0627 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Qu\u0163b\u0101 Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Qotba Taht\u00e2ni",
+        "Qu\u0163bah Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165635
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"de5f9837cb6df583c1534d89d153ad7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1259983751,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259983751,
+    "wof:lastmodified":1537701797,
+    "wof:name":"Qutba Tahtani",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.48403,
+    36.97235,
+    41.48403,
+    36.97235
+],
+  "geometry": {"coordinates":[41.48403,36.97235],"type":"Point"}
+}

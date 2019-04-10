@@ -1,0 +1,81 @@
+{
+  "id": 1243448895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69283,36.64172,38.69283,36.64172",
+    "geom:latitude":36.64172,
+    "geom:longitude":38.69283,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kushkhar",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167896,
+    "gn:latitude":36.64172,
+    "gn:longitude":38.69283,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kushkh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u016bshk\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0634\u062e\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kushkh\u0101r",
+        "Kouchkar",
+        "K\u016bsh K\u0101r",
+        "Kouchkh\u00e2r",
+        "Kush K\u0101r\u0101",
+        "Kashkh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167896
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"679f7afdbacb9930844a4a8f62f77a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243448895,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243448895,
+    "wof:lastmodified":1537701953,
+    "wof:name":"Kushkhar",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69283,
+    36.64172,
+    38.69283,
+    36.64172
+],
+  "geometry": {"coordinates":[38.69283,36.64172],"type":"Point"}
+}

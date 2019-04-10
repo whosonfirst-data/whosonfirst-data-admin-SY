@@ -1,0 +1,73 @@
+{
+  "id": 1344269877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93328,35.44627,35.93328,35.44627",
+    "geom:latitude":35.44627,
+    "geom:longitude":35.93328,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wata al Ghazal",
+    "gn:country_code":"SY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8697125,
+    "gn:latitude":35.44627,
+    "gn:longitude":35.93328,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Wa\u0163\u00e1 al Ghaz\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649 \u0627\u0644\u063a\u0632\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Wa\u0163\u00e1 al Ghaz\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7339e0d55717a668bbf559a0a10dddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1344269877,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344269877,
+    "wof:lastmodified":1537702587,
+    "wof:name":"Wata al Ghazal",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93328,
+    35.44627,
+    35.93328,
+    35.44627
+],
+  "geometry": {"coordinates":[35.93328,35.44627],"type":"Point"}
+}

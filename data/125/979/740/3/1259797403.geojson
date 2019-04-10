@@ -1,0 +1,73 @@
+{
+  "id": 1259797403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09739,36.03429,41.09739,36.03429",
+    "geom:latitude":36.03429,
+    "geom:longitude":41.09739,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall al Jabir",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414796,
+    "gn:latitude":36.03429,
+    "gn:longitude":41.09739,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Tall al J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u062c\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall al J\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414796
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a9274d94ef6ae677023d7075f005188e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259797403,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259797403,
+    "wof:lastmodified":1537702435,
+    "wof:name":"Tall al Jabir",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09739,
+    36.03429000000001,
+    41.09739,
+    36.03429000000001
+],
+  "geometry": {"coordinates":[41.09739,36.03429000000001],"type":"Point"}
+}

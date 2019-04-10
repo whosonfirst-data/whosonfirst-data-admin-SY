@@ -1,0 +1,75 @@
+{
+  "id": 1327054135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73789,36.54659,38.73789,36.54659",
+    "geom:latitude":36.54659,
+    "geom:longitude":38.73789,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zannuba",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162533,
+    "gn:latitude":36.54659,
+    "gn:longitude":38.73789,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Zann\u016bb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u0648\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zanno\u00fbba",
+        "Zann\u016bbah",
+        "Zann\u016bb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162533
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ff8c70ca177dd64a4f966a6aca05751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1327054135,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1327054135,
+    "wof:lastmodified":1537701598,
+    "wof:name":"Zannuba",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73789,
+    36.54659,
+    38.73789,
+    36.54659
+],
+  "geometry": {"coordinates":[38.73789,36.54659],"type":"Point"}
+}

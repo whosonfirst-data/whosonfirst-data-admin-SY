@@ -1,0 +1,79 @@
+{
+  "id": 1226335529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24392,32.56323,36.24392,32.56323",
+    "geom:latitude":32.56323,
+    "geom:longitude":36.24392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"At Tayyibah",
+    "gn:country_code":"SY",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172334,
+    "gn:latitude":32.56323,
+    "gn:longitude":36.24392,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"A\u0163 \u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0628\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442-\u0422\u0430\u0439\u0438\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ett Taibe",
+        "Ta\u00efb\u00e9",
+        "\u0162ayyibah",
+        "A\u0163 \u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172334
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7487f4c390152092c009eae7062e48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1226335529,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1226335529,
+    "wof:lastmodified":1537702267,
+    "wof:name":"At Tayyibah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24392,
+    32.56323,
+    36.24392,
+    32.56323
+],
+  "geometry": {"coordinates":[36.24392,32.56323],"type":"Point"}
+}

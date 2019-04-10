@@ -1,0 +1,77 @@
+{
+  "id": 1343365055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81673,36.66318,38.81673,36.66318",
+    "geom:latitude":36.66318,
+    "geom:longitude":38.81673,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baghajaq",
+    "gn:country_code":"SY",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171955,
+    "gn:latitude":36.66318,
+    "gn:longitude":38.81673,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Bagh\u0101jaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u063a\u0627\u062c\u0642"
+    ],
+    "name:und_x_variant":[
+        "Barh\u00e2djaq",
+        "Borhadi\u00e2te",
+        "Bagh\u0101djaq",
+        "Bagh\u0101jaq",
+        "Bagh\u0101jiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171955
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4b4ee4f19fc8befba0e101c6bd0ddff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343365055,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343365055,
+    "wof:lastmodified":1537702238,
+    "wof:name":"Baghajaq",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81673,
+    36.66318,
+    38.81673,
+    36.66318
+],
+  "geometry": {"coordinates":[38.81673,36.66318],"type":"Point"}
+}

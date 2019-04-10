@@ -1,0 +1,76 @@
+{
+  "id": 1243538273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13907,35.15375,37.13907,35.15375",
+    "geom:latitude":35.15375,
+    "geom:longitude":37.13907,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jasin",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169154,
+    "gn:latitude":35.15375,
+    "gn:longitude":37.13907,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ja\u015f\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0635\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Djassine",
+        "Jass\u00eene",
+        "Jass\u012bn",
+        "Ja\u015f\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6469ea3249f24b2811531369bbd08ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243538273,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243538273,
+    "wof:lastmodified":1537702049,
+    "wof:name":"Jasin",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13907,
+    35.15375,
+    37.13907,
+    35.15375
+],
+  "geometry": {"coordinates":[37.13907,35.15375],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293480583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34986,33.43546,36.34986,33.43546",
+    "geom:latitude":33.43546,
+    "geom:longitude":36.34986,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard at Tulayl",
+    "gn:country_code":"SY",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412208,
+    "gn:latitude":33.43546,
+    "gn:longitude":36.34986,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 at Tulayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u062a\u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 at Tulayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412208
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b597f06ebf5769d33854fdcdded0e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1293480583,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293480583,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard at Tulayl",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34986,
+    33.43546,
+    36.34986,
+    33.43546
+],
+  "geometry": {"coordinates":[36.34986,33.43546],"type":"Point"}
+}

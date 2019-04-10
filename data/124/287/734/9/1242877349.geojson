@@ -1,0 +1,75 @@
+{
+  "id": 1242877349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00612,35.67722,36.00612,35.67722",
+    "geom:latitude":35.67722,
+    "geom:longitude":36.00612,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ghamam",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170289,
+    "gn:latitude":35.67722,
+    "gn:longitude":36.00612,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Gham\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rhm\u00e2m",
+        "Gham\u0101m",
+        "Ghamam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170289
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4d0511fae1b2bea64bf138647af5f4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1242877349,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242877349,
+    "wof:lastmodified":1537702117,
+    "wof:name":"Ghamam",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00612,
+    35.67722,
+    36.00612,
+    35.67722
+],
+  "geometry": {"coordinates":[36.00612,35.67722],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327222747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63333,35.29248,36.63333,35.29248",
+    "geom:latitude":35.29248,
+    "geom:longitude":36.63333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr Mahruqah",
+    "gn:country_code":"SY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162476,
+    "gn:latitude":35.29248,
+    "gn:longitude":36.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zawr Ma\u1e29r\u016bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0645\u062d\u0631\u0648\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mahro\u00fbqa",
+        "Zor Mahro\u016bqa",
+        "Zawr Ma\u1e29r\u016bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162476
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"041495d3814670a1aae27d5fabf332cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327222747,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327222747,
+    "wof:lastmodified":1537701593,
+    "wof:name":"Zawr Mahruqah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63333,
+    35.29248,
+    36.63333,
+    35.29248
+],
+  "geometry": {"coordinates":[36.63333,35.29248],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326551351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.59249,35.64825,40.59249,35.64825",
+    "geom:latitude":35.64825,
+    "geom:longitude":40.59249,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"`Abdan",
+    "gn:country_code":"SY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275383,
+    "gn:latitude":35.64825,
+    "gn:longitude":40.59249,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u2018Abd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Abd\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0628\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275383
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"923cce306713f8105a2fc0a575d076f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1326551351,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1326551351,
+    "wof:lastmodified":1537702518,
+    "wof:name":"`Abdan",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.59249000000001,
+    35.64825,
+    40.59249000000001,
+    35.64825
+],
+  "geometry": {"coordinates":[40.59249000000001,35.64825],"type":"Point"}
+}

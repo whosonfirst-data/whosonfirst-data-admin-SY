@@ -1,0 +1,73 @@
+{
+  "id": 1242857841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07642,34.85149,36.07642,34.85149",
+    "geom:latitude":34.85149,
+    "geom:longitude":36.07642,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dahr Shiha",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444703,
+    "gn:latitude":34.85149,
+    "gn:longitude":36.07642,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"\u1e10ahr Sh\u012b\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0631 \u0634\u064a\u062d\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr Sh\u012b\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444703
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ebff3950d1d98d75a21370bcf4b75c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1242857841,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242857841,
+    "wof:lastmodified":1537702625,
+    "wof:name":"Dahr Shiha",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07642,
+    34.85149000000001,
+    36.07642,
+    34.85149000000001
+],
+  "geometry": {"coordinates":[36.07642,34.85149000000001],"type":"Point"}
+}

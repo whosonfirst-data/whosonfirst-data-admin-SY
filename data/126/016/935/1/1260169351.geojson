@@ -1,0 +1,74 @@
+{
+  "id": 1260169351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75478,35.01928,37.75478,35.01928",
+    "geom:latitude":35.01928,
+    "geom:longitude":37.75478,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rasm Murdughanah",
+    "gn:country_code":"SY",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420175,
+    "gn:latitude":35.01928,
+    "gn:longitude":37.75478,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm Murdugh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0645\u0631\u062f\u063a\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rasm Murda\u2018\u0101nah",
+        "Rasm Murdugh\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420175
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f34bbc733d45ccb8b465042bf495f477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1260169351,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260169351,
+    "wof:lastmodified":1537702440,
+    "wof:name":"Rasm Murdughanah",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75478,
+    35.01928,
+    37.75478,
+    35.01928
+],
+  "geometry": {"coordinates":[37.75478,35.01928],"type":"Point"}
+}

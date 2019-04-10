@@ -1,0 +1,76 @@
+{
+  "id": 1310001765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08881,36.5562,37.08881,36.5562",
+    "geom:latitude":36.5562,
+    "geom:longitude":37.08881,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Kalbin",
+    "gn:country_code":"SY",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168675,
+    "gn:latitude":36.5562,
+    "gn:longitude":37.08881,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kafr Kalb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0643\u0644\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafer Kalb\u00eene",
+        "Kafr Kalbayn",
+        "Kafr Kalb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168675,
+        "wk:page":"Kafr_Kalbin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f9c341d2507e7031b745e75dd9cf2993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1310001765,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310001765,
+    "wof:lastmodified":1537702011,
+    "wof:name":"Kafr Kalbin",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08881,
+    36.5562,
+    37.08881,
+    36.5562
+],
+  "geometry": {"coordinates":[37.08881,36.5562],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242567393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70808,36.80453,36.70808,36.80453",
+    "geom:latitude":36.80453,
+    "geom:longitude":36.70808,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Arabli",
+    "gn:country_code":"SY",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231833,
+    "gn:latitude":36.80453,
+    "gn:longitude":36.70808,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u2018Arabl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628\u0644\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Erebliy\u00ea"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arabl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231833
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"051916ae88accff432f0cff90507ebc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1242567393,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242567393,
+    "wof:lastmodified":1537702482,
+    "wof:name":"`Arabli",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70808,
+    36.80453,
+    36.70808,
+    36.80453
+],
+  "geometry": {"coordinates":[36.70808,36.80453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243458625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54904,35.89336,40.54904,35.89336",
+    "geom:latitude":35.89336,
+    "geom:longitude":40.54904,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jihad",
+    "gn:country_code":"SY",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264168,
+    "gn:latitude":35.89336,
+    "gn:longitude":40.54904,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Jih\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0647\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jih\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264168
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f6be4d94d485e67f4d2cc5cfd7bd0e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243458625,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243458625,
+    "wof:lastmodified":1537702495,
+    "wof:name":"Jihad",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54904000000001,
+    35.89335999999999,
+    40.54904000000001,
+    35.89335999999999
+],
+  "geometry": {"coordinates":[40.54904000000001,35.89335999999999],"type":"Point"}
+}

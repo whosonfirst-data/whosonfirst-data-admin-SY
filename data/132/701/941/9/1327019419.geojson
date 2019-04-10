@@ -1,0 +1,74 @@
+{
+  "id": 1327019419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37216,35.90881,37.37216,35.90881",
+    "geom:latitude":35.90881,
+    "geom:longitude":37.37216,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tayyibah",
+    "gn:country_code":"SY",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163276,
+    "gn:latitude":35.90881,
+    "gn:longitude":37.37216,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ta\u00efbe",
+        "\u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163276
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ac550c2c7cad70820d3e930a92cee2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1327019419,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327019419,
+    "wof:lastmodified":1537701645,
+    "wof:name":"Tayyibah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37216,
+    35.90880999999999,
+    37.37216,
+    35.90880999999999
+],
+  "geometry": {"coordinates":[37.37216,35.90880999999999],"type":"Point"}
+}

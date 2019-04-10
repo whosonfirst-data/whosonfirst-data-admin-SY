@@ -1,0 +1,80 @@
+{
+  "id": 1243161073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65176,35.12566,36.65176,35.12566",
+    "geom:latitude":35.12566,
+    "geom:longitude":36.65176,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tizin",
+    "gn:country_code":"SY",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172324,
+    "gn:latitude":35.12566,
+    "gn:longitude":36.65176,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"T\u012bz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "At T\u012bz\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "T\u012bz\u012bn",
+        "\u062a\u064a\u0632\u064a\u0646",
+        "\u0627\u0644\u0632\u064a\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00eez\u00eene",
+        "Az Zayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172324,
+        "wk:page":"Tayzin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fb95de13fe7227d8d35ac5653d611355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1243161073,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243161073,
+    "wof:lastmodified":1537702265,
+    "wof:name":"Tizin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65176,
+    35.12566,
+    36.65176,
+    35.12566
+],
+  "geometry": {"coordinates":[36.65176,35.12566],"type":"Point"}
+}

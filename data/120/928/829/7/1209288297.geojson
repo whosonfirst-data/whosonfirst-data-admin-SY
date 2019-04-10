@@ -1,0 +1,70 @@
+{
+  "id": 1209288297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00118,34.89761,36.00118,34.89761",
+    "geom:latitude":34.89761,
+    "geom:longitude":36.00118,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shubat",
+    "gn:country_code":"SY",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164234,
+    "gn:latitude":34.89761,
+    "gn:longitude":36.00118,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shub\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shub\u0101\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Chb\u00e2te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164234
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c3dae71edbe35a361a67f3d178338e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209288297
+        }
+    ],
+    "wof:id":1209288297,
+    "wof:lastmodified":1537701724,
+    "wof:name":"Shubat",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00118,
+    34.89761,
+    36.00118,
+    34.89761
+],
+  "geometry": {"coordinates":[36.00118,34.89761],"type":"Point"}
+}

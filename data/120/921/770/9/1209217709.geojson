@@ -1,0 +1,67 @@
+{
+  "id": 1209217709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98792,35.37957,35.98792,35.37957",
+    "geom:latitude":35.37957,
+    "geom:longitude":35.98792,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aradi al Marra",
+    "gn:country_code":"SY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8695862,
+    "gn:latitude":35.37957,
+    "gn:longitude":35.98792,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ar\u0101\u1e11\u012b al Marr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0645\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ar\u0101\u1e11\u012b al Marr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695862
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44d02defa53f6c877427521696e6f366",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209217709
+        }
+    ],
+    "wof:id":1209217709,
+    "wof:lastmodified":1537702585,
+    "wof:name":"Aradi al Marra",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98792,
+    35.37957,
+    35.98792,
+    35.37957
+],
+  "geometry": {"coordinates":[35.98792,35.37957],"type":"Point"}
+}

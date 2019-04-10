@@ -1,0 +1,81 @@
+{
+  "id": 1276840977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05167,34.82653,36.05167,34.82653",
+    "geom:latitude":34.82653,
+    "geom:longitude":36.05167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ra's al Khashufah",
+    "gn:country_code":"SY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":168538,
+    "gn:latitude":34.82653,
+    "gn:longitude":36.05167,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ra\u2019s al Khash\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0634\u0641\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062e\u0634\u0648\u0641\u0629",
+        "\u0643\u0634\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kachf\u00e9",
+        "Kashfah",
+        "Al Kashfah",
+        "Ra\u2019s al Khash\u016bfah",
+        "Kachfe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168538
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"00a5830f07004e6030c132d24e110f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1276840977,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276840977,
+    "wof:lastmodified":1537702000,
+    "wof:name":"Ra's al Khashufah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05167,
+    34.82653,
+    36.05167,
+    34.82653
+],
+  "geometry": {"coordinates":[36.05167,34.82653],"type":"Point"}
+}

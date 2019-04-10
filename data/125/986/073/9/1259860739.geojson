@@ -1,0 +1,84 @@
+{
+  "id": 1259860739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69613,34.82202,36.69613,34.82202",
+    "geom:latitude":34.82202,
+    "geom:longitude":36.69613,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Ghantu",
+    "gn:country_code":"SY",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173311,
+    "gn:latitude":34.82202,
+    "gn:longitude":36.69613,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Ghan\u0163\u016b",
+    "gn:population":9412,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0646\u0637\u0648"
+    ],
+    "name:und_x_variant":[
+        "El Rhannta",
+        "Al Ghan\u0163\u0101",
+        "El Rhannto",
+        "Al Rhannto",
+        "Al Ghan\u0163\u016b",
+        "Al-Ghantu",
+        "Al-Ghantoo",
+        "Ghantto"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173311,
+        "wk:page":"Al-Ghantu"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4f586cd2f86e30c65196edacba5fdfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1259860739,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259860739,
+    "wof:lastmodified":1537702324,
+    "wof:name":"Al Ghantu",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:population":9412,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69613,
+    34.82202,
+    36.69613,
+    34.82202
+],
+  "geometry": {"coordinates":[36.69613,34.82202],"type":"Point"}
+}

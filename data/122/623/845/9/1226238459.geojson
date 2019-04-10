@@ -1,0 +1,79 @@
+{
+  "id": 1226238459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06738,36.65507,38.06738,36.65507",
+    "geom:latitude":36.65507,
+    "geom:longitude":38.06738,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Awshariyah",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169705,
+    "gn:latitude":36.65507,
+    "gn:longitude":38.06738,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u2018Awshar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0634\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aouchar\u00eey\u00e9",
+        "Haouchar\u00eey\u00e9",
+        "Aouchar Boujak",
+        "Aouchar Boudjak",
+        "Aouch\u00e2r Boudjaq",
+        "\u1e28awshar\u012byah",
+        "\u2018Awshar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169705
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c07145d3ba983780485beb927da6662b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226238459,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226238459,
+    "wof:lastmodified":1537702083,
+    "wof:name":"`Awshariyah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06738,
+    36.65507,
+    38.06738,
+    36.65507
+],
+  "geometry": {"coordinates":[38.06738,36.65507],"type":"Point"}
+}

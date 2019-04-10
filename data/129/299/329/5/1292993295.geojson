@@ -1,0 +1,85 @@
+{
+  "id": 1292993295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46206,33.22423,36.46206,33.22423",
+    "geom:latitude":33.22423,
+    "geom:longitude":36.46206,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bulayy",
+    "gn:country_code":"SY",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171337,
+    "gn:latitude":33.22423,
+    "gn:longitude":36.46206,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Bulayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bill\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u064a\u0651"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ble\u00ef",
+        "Bil\u012b",
+        "Bil\u0101y",
+        "Blay",
+        "Bulayy",
+        "Bill\u012b",
+        "Blayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171337
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"109b05ffba4770c2fd8bdb57e5ca5abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1292993295,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1292993295,
+    "wof:lastmodified":1537702190,
+    "wof:name":"Bulayy",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46206,
+    33.22423,
+    36.46206,
+    33.22423
+],
+  "geometry": {"coordinates":[36.46206,33.22423],"type":"Point"}
+}

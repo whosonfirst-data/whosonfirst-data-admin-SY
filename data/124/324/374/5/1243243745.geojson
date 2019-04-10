@@ -1,0 +1,77 @@
+{
+  "id": 1243243745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51235,35.50053,36.51235,35.50053",
+    "geom:latitude":35.50053,
+    "geom:longitude":36.51235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wirambah",
+    "gn:country_code":"SY",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162792,
+    "gn:latitude":35.50053,
+    "gn:longitude":36.51235,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Wirambah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0631\u0645\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ouremb\u00e9",
+        "Oure\u00efnb\u00e9",
+        "Uraynibah",
+        "Wirambah",
+        "Warm\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162792
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe35079744f0dac9cf912e0e969271b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1243243745,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243243745,
+    "wof:lastmodified":1537701615,
+    "wof:name":"Wirambah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51235,
+    35.50053,
+    36.51235,
+    35.50053
+],
+  "geometry": {"coordinates":[36.51235,35.50053],"type":"Point"}
+}

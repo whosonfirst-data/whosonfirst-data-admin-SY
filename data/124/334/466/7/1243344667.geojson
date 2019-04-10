@@ -1,0 +1,73 @@
+{
+  "id": 1243344667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60137,34.63269,36.60137,34.63269",
+    "geom:latitude":34.63269,
+    "geom:longitude":36.60137,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Az Zarqa",
+    "gn:country_code":"SY",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11431984,
+    "gn:latitude":34.63269,
+    "gn:longitude":36.60137,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Az Zarq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Az Zarq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11431984
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2a8efa0d35062641864ef678cb8dacf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1243344667,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243344667,
+    "wof:lastmodified":1537702617,
+    "wof:name":"Az Zarqa",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60137,
+    34.63269,
+    36.60137,
+    34.63269
+],
+  "geometry": {"coordinates":[36.60137,34.63269],"type":"Point"}
+}

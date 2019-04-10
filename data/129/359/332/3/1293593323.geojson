@@ -1,0 +1,77 @@
+{
+  "id": 1293593323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24274,36.85268,40.24274,36.85268",
+    "geom:latitude":36.85268,
+    "geom:longitude":40.24274,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Aba Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174686,
+    "gn:latitude":36.85268,
+    "gn:longitude":40.24274,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u2018Ab\u0101 \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018Abaha\u015f \u015eagh\u012brah"
+    ],
+    "name:und_x_variant":[
+        "Aaba S\u00e9rh\u00eer\u00e9",
+        "\u2018Ab\u0101 \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174686
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87ac182b4727fb3c34cbfa994fbcc4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1293593323,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293593323,
+    "wof:lastmodified":1537702419,
+    "wof:name":"`Aba Saghirah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24274000000001,
+    36.85268,
+    40.24274000000001,
+    36.85268
+],
+  "geometry": {"coordinates":[40.24274000000001,36.85268],"type":"Point"}
+}

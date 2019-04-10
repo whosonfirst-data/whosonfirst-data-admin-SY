@@ -1,0 +1,102 @@
+{
+  "id": 1344246825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19942,36.77161,38.19942,36.77161",
+    "geom:latitude":36.77161,
+    "geom:longitude":38.19942,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qawjali Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165895,
+    "gn:latitude":36.77161,
+    "gn:longitude":38.19942,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Qawjal\u012b Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u062c\u0644\u064a \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u064a\u062a\u0648\u0646\u0629",
+        "\u0642\u0648\u062c\u0644\u0627 \u0632\u0648\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Qocila Zor"
+    ],
+    "name:kur_x_variant":[
+        "Qocela Zor",
+        "Qocela Jor",
+        "Qochela Jor",
+        "Qucila Zur",
+        "Qochela Jor\u00een",
+        "\u0642\u06c6\u062c\u0644\u0627 \u0632\u06c6\u0631",
+        "\u0642\u06c6\u062c\u06d5\u0644\u0627 \u0632\u06c6\u0631",
+        "\u0642\u06c6\u062c\u06d5\u0644\u0627 \u0698\u06c6\u0631",
+        "\u0642\u06c6\u0686\u06d5\u0644\u0627 \u0698\u06c6\u0631",
+        "\u0642\u06c6\u0686\u06d5\u0644\u0627 \u0698\u06c6\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qodjli Faouq\u00e2ni",
+        "Qawjl\u012b Fawq\u0101n\u012b",
+        "Qawjal\u012b Fawq\u0101n\u012b",
+        "Qo\u00e7ela Jor\u00een",
+        "Zayt\u016bnah",
+        "Zayt\u016bna",
+        "Qawjal\u0101 Zawr",
+        "Qojila Zor",
+        "Qawjal\u0101 Z\u016br",
+        "Qo\u00e7ela Jor",
+        "Zeytuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165895
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69c63dfb3606a2dc44b77dfb31c06cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1344246825,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344246825,
+    "wof:lastmodified":1537701820,
+    "wof:name":"Qawjali Fawqani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19942,
+    36.77161,
+    38.19942,
+    36.77161
+],
+  "geometry": {"coordinates":[38.19942,36.77161],"type":"Point"}
+}

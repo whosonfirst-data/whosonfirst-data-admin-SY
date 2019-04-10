@@ -1,0 +1,85 @@
+{
+  "id": 1293301805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95856,35.78036,35.95856,35.78036",
+    "geom:latitude":35.78036,
+    "geom:longitude":35.95856,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jamusliyah",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164511,
+    "gn:latitude":35.78036,
+    "gn:longitude":35.95856,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"J\u0101m\u016bsl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0648\u0631\u0644\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0645\u0648\u0633\u0644\u064a\u0629",
+        "\u0627\u0644\u0634\u0627\u0645\u0631\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tchamo\u00fbrl\u00eey\u00e9",
+        "Sh\u0101m\u016brl\u012byah",
+        "J\u0101m\u016brl\u012byah",
+        "J\u0101m\u016brk\u012byah",
+        "J\u0101m\u016bsl\u012byah",
+        "Yakhmur",
+        "Ash Sh\u0101murl\u012byah",
+        "Shamerliyeh",
+        "Ash Sh\u0101mirl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164511
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ef602a61722046fdf3f6369569af3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293301805,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293301805,
+    "wof:lastmodified":1537701738,
+    "wof:name":"Jamusliyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95856,
+    35.78035999999999,
+    35.95856,
+    35.78035999999999
+],
+  "geometry": {"coordinates":[35.95856,35.78035999999999],"type":"Point"}
+}

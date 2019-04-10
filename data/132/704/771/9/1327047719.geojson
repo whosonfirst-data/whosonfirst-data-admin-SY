@@ -1,0 +1,73 @@
+{
+  "id": 1327047719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91685,36.20895,40.91685,36.20895",
+    "geom:latitude":36.20895,
+    "geom:longitude":40.91685,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Siha",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414777,
+    "gn:latitude":36.20895,
+    "gn:longitude":40.91685,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012b\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u012b\u1e29\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u062d\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414777
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44786c3c55f588fe90e78d58bef55b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327047719,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327047719,
+    "wof:lastmodified":1537702434,
+    "wof:name":"Siha",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91685,
+    36.20895,
+    40.91685,
+    36.20895
+],
+  "geometry": {"coordinates":[40.91685,36.20895],"type":"Point"}
+}

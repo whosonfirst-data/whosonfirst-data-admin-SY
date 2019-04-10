@@ -1,0 +1,67 @@
+{
+  "id": 1209115717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.14868,35.97156,41.14868,35.97156",
+    "geom:latitude":35.97156,
+    "geom:longitude":41.14868,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ghadir al 'Abd Allah",
+    "gn:country_code":"SY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016201,
+    "gn:latitude":35.97156,
+    "gn:longitude":41.14868,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ghad\u012br al \u2019Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u062f\u064a\u0631 \u0627\u0644\u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ghad\u012br al \u2019Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016201
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87d14a5b1fa55ea29427312f2d6d8e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209115717
+        }
+    ],
+    "wof:id":1209115717,
+    "wof:lastmodified":1537702477,
+    "wof:name":"Ghadir al 'Abd Allah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.14868,
+    35.97156,
+    41.14868,
+    35.97156
+],
+  "geometry": {"coordinates":[41.14868,35.97156],"type":"Point"}
+}

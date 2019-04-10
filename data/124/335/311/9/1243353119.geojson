@@ -1,0 +1,79 @@
+{
+  "id": 1243353119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.34361,36.80845,38.34361,36.80845",
+    "geom:latitude":36.80845,
+    "geom:longitude":38.34361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kawkijahlin",
+    "gn:country_code":"SY",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9219,
+    "gn:latitude":36.80845,
+    "gn:longitude":38.34361,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Kawkijahl\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u062c\u0629 \u0644\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0643\u062c\u06d5\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kawkajat L\u012bn",
+        "K\u016bkjah L\u012bn",
+        "Kukjah L\u012bn",
+        "Kawkijahl\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9219
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86e1de6cdb48ec4daf0f8455ec629c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243353119,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243353119,
+    "wof:lastmodified":1537701572,
+    "wof:name":"Kawkijahlin",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.34361,
+    36.80845,
+    38.34361,
+    36.80845
+],
+  "geometry": {"coordinates":[38.34361,36.80845],"type":"Point"}
+}

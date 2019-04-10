@@ -1,0 +1,77 @@
+{
+  "id": 1209021963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03309,37.07584,42.03309,37.07584",
+    "geom:latitude":37.07584,
+    "geom:longitude":42.03309,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Asfar",
+    "gn:country_code":"SY",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420435,
+    "gn:latitude":37.07584,
+    "gn:longitude":42.03309,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Tall A\u015ffar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0635\u0641\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u062e \u062c\u0648\u0646\u062f\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "\u06af\u0648\u0646\u062f\u0643"
+    ],
+    "name:und_x_variant":[
+        "K\u016bndak Shaykh",
+        "Tall A\u015ffar",
+        "Shaykh J\u016bndak",
+        "Gundik",
+        "\u0643\u0648\u0646\u062f\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420435
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"14e36d9146681dd24dfb55accd151b4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209021963
+        }
+    ],
+    "wof:id":1209021963,
+    "wof:lastmodified":1537702448,
+    "wof:name":"Tall Asfar",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03309,
+    37.07584,
+    42.03309,
+    37.07584
+],
+  "geometry": {"coordinates":[42.03309,37.07584],"type":"Point"}
+}

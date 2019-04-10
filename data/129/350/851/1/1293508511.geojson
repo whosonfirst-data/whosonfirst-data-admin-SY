@@ -1,0 +1,75 @@
+{
+  "id": 1293508511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46272,36.22536,37.46272,36.22536",
+    "geom:latitude":36.22536,
+    "geom:longitude":37.46272,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tannuzah",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163386,
+    "gn:latitude":36.22536,
+    "gn:longitude":37.46272,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u0162ann\u016bzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0646\u0648\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tanno\u00fbza",
+        "Tann\u016bzah",
+        "\u0162ann\u016bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163386
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8659912fa9eec687bda730fffe02ee9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293508511,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293508511,
+    "wof:lastmodified":1537701652,
+    "wof:name":"Tannuzah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46272,
+    36.22536,
+    37.46272,
+    36.22536
+],
+  "geometry": {"coordinates":[37.46272,36.22536],"type":"Point"}
+}

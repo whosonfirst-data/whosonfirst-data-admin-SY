@@ -1,0 +1,79 @@
+{
+  "id": 1243544223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47528,36.43923,37.47528,36.43923",
+    "geom:latitude":36.43923,
+    "geom:longitude":37.47528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Hadath",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173862,
+    "gn:latitude":36.43923,
+    "gn:longitude":37.47528,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al \u1e28adath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u062b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u062f\u062b"
+    ],
+    "name:und_x_variant":[
+        "Hadess\u00e9",
+        "El Hadeth",
+        "Al \u1e28adath",
+        "\u1e28adath"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173862
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1e95fbb0dc2158a71caa180d37113c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1243544223,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243544223,
+    "wof:lastmodified":1537702371,
+    "wof:name":"Al Hadath",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47528,
+    36.43923,
+    37.47528,
+    36.43923
+],
+  "geometry": {"coordinates":[37.47528,36.43923],"type":"Point"}
+}

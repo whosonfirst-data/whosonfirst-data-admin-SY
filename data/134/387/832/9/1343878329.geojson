@@ -1,0 +1,73 @@
+{
+  "id": 1343878329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50578,33.52434,36.50578,33.52434",
+    "geom:latitude":33.52434,
+    "geom:longitude":36.50578,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard Ghannam",
+    "gn:country_code":"SY",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346638,
+    "gn:latitude":33.52434,
+    "gn:longitude":36.50578,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ar\u1e11 Ghann\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u063a\u0646\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 Ghann\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346638
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3486c658ba2444ac57901651d03133f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1343878329,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343878329,
+    "wof:lastmodified":1537702550,
+    "wof:name":"Ard Ghannam",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50578,
+    33.52434,
+    36.50578,
+    33.52434
+],
+  "geometry": {"coordinates":[36.50578,33.52434],"type":"Point"}
+}

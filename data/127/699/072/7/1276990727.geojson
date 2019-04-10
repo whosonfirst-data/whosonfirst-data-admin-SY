@@ -1,0 +1,77 @@
+{
+  "id": 1276990727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17572,36.78292,40.17572,36.78292",
+    "geom:latitude":36.78292,
+    "geom:longitude":40.17572,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jayqma Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169114,
+    "gn:latitude":36.78292,
+    "gn:longitude":40.17572,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jayqm\u0101 Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0642\u0645\u0627 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Jayqmah al Kab\u012brah"
+    ],
+    "name:und_x_variant":[
+        "Dje\u00efqma K\u00e9b\u00eer\u00e9",
+        "Jayqm\u0101 Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169114
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5219744f4ec0e2772119e82ce3c41161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1276990727,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276990727,
+    "wof:lastmodified":1537702046,
+    "wof:name":"Jayqma Kabirah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17572,
+    36.78292,
+    40.17572,
+    36.78292
+],
+  "geometry": {"coordinates":[40.17572,36.78292],"type":"Point"}
+}

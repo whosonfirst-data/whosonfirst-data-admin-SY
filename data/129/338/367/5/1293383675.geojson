@@ -1,0 +1,76 @@
+{
+  "id": 1293383675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50317,35.24981,37.50317,35.24981",
+    "geom:latitude":35.24981,
+    "geom:longitude":37.50317,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaykh Hilal",
+    "gn:country_code":"SY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172702,
+    "gn:latitude":35.24981,
+    "gn:longitude":37.50317,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Shaykh Hil\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0647\u0644\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Che\u00efkh Hl\u00e2l",
+        "Ash Shaykh Hil\u0101l",
+        "Shaykh Hil\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172702,
+        "wk:page":"Shaykh_Hilal"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"60d8c3d384649bdacad107b8d037dbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1293383675,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293383675,
+    "wof:lastmodified":1537702288,
+    "wof:name":"Shaykh Hilal",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50317,
+    35.24981,
+    37.50317,
+    35.24981
+],
+  "geometry": {"coordinates":[37.50317,35.24981],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326626285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13285,36.56595,38.13285,36.56595",
+    "geom:latitude":36.56595,
+    "geom:longitude":38.13285,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hayya Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169688,
+    "gn:latitude":36.56595,
+    "gn:longitude":38.13285,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u1e28ayy\u0101 Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy Kab\u012br",
+        "\u1e28ayy\u0101 Kab\u012br",
+        "Haya K\u00e9b\u00eer",
+        "\u1e28\u0101y\u0101 al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169688
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"171bb436438412b500c8ec14160c6a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1326626285,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326626285,
+    "wof:lastmodified":1537702082,
+    "wof:name":"Hayya Kabir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13285,
+    36.56595,
+    38.13285,
+    36.56595
+],
+  "geometry": {"coordinates":[38.13285,36.56595],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327327459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62292,35.32149,36.62292,35.32149",
+    "geom:latitude":35.32149,
+    "geom:longitude":36.62292,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Lataminah",
+    "gn:country_code":"SY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173566,
+    "gn:latitude":35.32149,
+    "gn:longitude":36.62292,
+    "gn:modification_date":"2016-11-05",
+    "gn:name":"Al La\u0163\u0101minah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0637\u0627\u0645\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "La\u0163\u0101minah",
+        "Al La\u0163\u0163\u0101minah",
+        "El Lat\u00e2mn\u00e9",
+        "Al La\u0163\u0101minah",
+        "Lattamna",
+        "Ltamenah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173566
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa44168b3216da053130c93ca6df6e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1327327459,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327327459,
+    "wof:lastmodified":1537702345,
+    "wof:name":"Al Lataminah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62292,
+    35.32149000000001,
+    36.62292,
+    35.32149000000001
+],
+  "geometry": {"coordinates":[36.62292,35.32149000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243346951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06387,35.09157,36.06387,35.09157",
+    "geom:latitude":35.09157,
+    "geom:longitude":36.06387,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tun al Qirq",
+    "gn:country_code":"SY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163143,
+    "gn:latitude":35.09157,
+    "gn:longitude":36.06387,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"T\u016bn al Qirq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0646 \u0627\u0644\u0642\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "To\u00fbn el Qirq",
+        "T\u016bn al Qirg",
+        "T\u016bn al Qirq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163143
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c40b9203bb5ac9bde1e3fd6aa21cebe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243346951,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243346951,
+    "wof:lastmodified":1537701639,
+    "wof:name":"Tun al Qirq",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06387,
+    35.09157,
+    36.06387,
+    35.09157
+],
+  "geometry": {"coordinates":[36.06387,35.09157],"type":"Point"}
+}

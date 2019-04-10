@@ -1,0 +1,74 @@
+{
+  "id": 1309884735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1632,35.04769,36.1632,35.04769",
+    "geom:latitude":35.04769,
+    "geom:longitude":36.1632,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bisqayah",
+    "gn:country_code":"SY",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171360,
+    "gn:latitude":35.04769,
+    "gn:longitude":36.1632,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bisq\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0642\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Besq\u00e2y\u00e9",
+        "Bisq\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171360
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a09cc9bca89a4661acfce6c3bce9653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309884735,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309884735,
+    "wof:lastmodified":1537702192,
+    "wof:name":"Bisqayah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1632,
+    35.04769,
+    36.1632,
+    35.04769
+],
+  "geometry": {"coordinates":[36.1632,35.04769],"type":"Point"}
+}

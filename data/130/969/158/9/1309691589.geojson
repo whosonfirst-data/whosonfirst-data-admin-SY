@@ -1,0 +1,73 @@
+{
+  "id": 1309691589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26053,33.47719,36.26053,33.47719",
+    "geom:latitude":33.47719,
+    "geom:longitude":36.26053,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bab al Bustan",
+    "gn:country_code":"SY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411958,
+    "gn:latitude":33.47719,
+    "gn:longitude":36.26053,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"B\u0101b al Bust\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b al Bust\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411958
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4960c8bbf35c30d9b5726ff54ff8714d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1309691589,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1309691589,
+    "wof:lastmodified":1537702560,
+    "wof:name":"Bab al Bustan",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26053,
+    33.47719,
+    36.26053,
+    33.47719
+],
+  "geometry": {"coordinates":[36.26053,33.47719],"type":"Point"}
+}

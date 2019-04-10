@@ -1,0 +1,80 @@
+{
+  "id": 1242797741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47435,33.52826,36.47435,33.52826",
+    "geom:latitude":33.52826,
+    "geom:longitude":36.47435,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh al Khanim",
+    "gn:country_code":"SY",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169715,
+    "gn:latitude":33.52826,
+    "gn:longitude":36.47435,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u1e28awsh al Kh\u0101nim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0646\u0627\u0632\u0643 \u062e\u0627\u0646\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u0634 \u0627\u0644\u062e\u0627\u0646\u0645"
+    ],
+    "name:und_x_variant":[
+        "Haouch el Khanoun Nazek",
+        "Haouch el Khanno\u00fbn N\u00e2zik",
+        "\u1e28awsh al Khan\u016bn N\u0101zik",
+        "\u1e28awsh N\u0101zik Kh\u0101nim",
+        "\u1e28awsh al Kh\u0101nim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169715
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87a4dd6c07c628d404f51de214d0b514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1242797741,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242797741,
+    "wof:lastmodified":1537702084,
+    "wof:name":"Hawsh al Khanim",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47435,
+    33.52826,
+    36.47435,
+    33.52826
+],
+  "geometry": {"coordinates":[36.47435,33.52826],"type":"Point"}
+}

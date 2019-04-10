@@ -1,0 +1,74 @@
+{
+  "id": 1276768961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24128,36.60525,39.24128,36.60525",
+    "geom:latitude":36.60525,
+    "geom:longitude":39.24128,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bayt al Wasitah",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171606,
+    "gn:latitude":36.60525,
+    "gn:longitude":39.24128,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bayt al W\u0101si\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0648\u0627\u0633\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft el Ou\u00e2sta",
+        "Bayt al W\u0101si\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171606
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cf6d446c79210d6477e0bab3c60a01f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1276768961,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276768961,
+    "wof:lastmodified":1537702213,
+    "wof:name":"Bayt al Wasitah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24128,
+    36.60525,
+    39.24128,
+    36.60525
+],
+  "geometry": {"coordinates":[39.24128,36.60525],"type":"Point"}
+}

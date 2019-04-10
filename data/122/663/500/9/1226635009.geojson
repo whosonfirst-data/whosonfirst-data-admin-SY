@@ -1,0 +1,76 @@
+{
+  "id": 1226635009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16474,35.34566,37.16474,35.34566",
+    "geom:latitude":35.34566,
+    "geom:longitude":37.16474,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qanat as Suwaranah",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168853,
+    "gn:latitude":35.34566,
+    "gn:longitude":37.16474,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qan\u0101t a\u015f \u015euw\u0101ranah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u0629 \u0627\u0644\u0635\u0648\u0627\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jnainet el Aou\u00e2rn\u00e9",
+        "Jnainet el Aon\u00e2rn\u00e9",
+        "Junaynat al \u2018Aw\u0101rinah",
+        "Qan\u0101t a\u015f \u015euw\u0101ranah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168853
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b5b8af912dfc106f042a8d3f2c134c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226635009,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226635009,
+    "wof:lastmodified":1537702026,
+    "wof:name":"Qanat as Suwaranah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16474,
+    35.34565999999999,
+    37.16474,
+    35.34565999999999
+],
+  "geometry": {"coordinates":[37.16474,35.34565999999999],"type":"Point"}
+}

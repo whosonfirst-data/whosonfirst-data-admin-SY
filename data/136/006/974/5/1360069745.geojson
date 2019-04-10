@@ -1,0 +1,81 @@
+{
+  "id": 1360069745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50298,36.66417,37.50298,36.66417",
+    "geom:latitude":36.66417,
+    "geom:longitude":37.50298,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at ash Shaykh Ya`qub",
+    "gn:country_code":"SY",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166696,
+    "gn:latitude":36.66417,
+    "gn:longitude":37.50298,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mazra\u2018at ash Shaykh Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u064a\u0639\u0642\u0648\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0634\u064a\u062e \u064a\u0639\u0642\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Molla Yaqoub",
+        "Molla Yaaqoub",
+        "Moula Yaaqo\u00fbb",
+        "Mull\u0101 Ya\u2018q\u016bb",
+        "Shaykh Ya\u2018q\u016bb",
+        "Mazra\u2018at ash Shaykh Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166696
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b2f0bda72c32cf5a4bf47650da13a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1360069745,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360069745,
+    "wof:lastmodified":1537701874,
+    "wof:name":"Mazra`at ash Shaykh Ya`qub",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50298,
+    36.66417,
+    37.50298,
+    36.66417
+],
+  "geometry": {"coordinates":[37.50298,36.66417],"type":"Point"}
+}

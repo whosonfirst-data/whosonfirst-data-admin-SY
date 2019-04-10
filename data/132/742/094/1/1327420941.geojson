@@ -1,0 +1,77 @@
+{
+  "id": 1327420941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56436,35.80843,36.56436,35.80843",
+    "geom:latitude":35.80843,
+    "geom:longitude":36.56436,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`tarim",
+    "gn:country_code":"SY",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4658,
+    "gn:latitude":35.80843,
+    "gn:longitude":36.56436,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ma\u2018tarim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0627\u0632\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u062a\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018\u0101zim",
+        "Ma\u2018tarim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4658
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4f58cec6a38a46a9fe2db5052496d7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1327420941,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1327420941,
+    "wof:lastmodified":1537701550,
+    "wof:name":"Ma`tarim",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56436,
+    35.80843,
+    36.56436,
+    35.80843
+],
+  "geometry": {"coordinates":[36.56436,35.80843],"type":"Point"}
+}

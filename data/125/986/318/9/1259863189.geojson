@@ -1,0 +1,77 @@
+{
+  "id": 1259863189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27403,35.13058,37.27403,35.13058",
+    "geom:latitude":35.13058,
+    "geom:longitude":37.27403,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mab`ujah",
+    "gn:country_code":"SY",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173559,
+    "gn:latitude":35.13058,
+    "gn:longitude":37.27403,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Mab\u2018\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0639\u0648\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mabaoudj\u00e9",
+        "Mab\u2018\u016bjah",
+        "Mabaouj\u00e9",
+        "Mabh\u016bjah",
+        "Al Mab\u2018\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173559
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a1160bb9e44488dc54028c93697a0ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259863189,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259863189,
+    "wof:lastmodified":1537702344,
+    "wof:name":"Al Mab`ujah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27403,
+    35.13058,
+    37.27403,
+    35.13058
+],
+  "geometry": {"coordinates":[37.27403,35.13058],"type":"Point"}
+}

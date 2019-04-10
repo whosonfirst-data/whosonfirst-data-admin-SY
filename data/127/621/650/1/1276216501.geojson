@@ -1,0 +1,76 @@
+{
+  "id": 1276216501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26691,36.02818,37.26691,36.02818",
+    "geom:latitude":36.02818,
+    "geom:longitude":37.26691,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Diman",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170656,
+    "gn:latitude":36.02818,
+    "gn:longitude":37.26691,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"D\u012bm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u012bm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u00eem\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170656
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f8d8d9da06396780d02e1095e233530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1276216501,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276216501,
+    "wof:lastmodified":1537702138,
+    "wof:name":"Diman",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26691,
+    36.02818,
+    37.26691,
+    36.02818
+],
+  "geometry": {"coordinates":[37.26691,36.02818],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326901409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00939,35.16921,36.00939,35.16921",
+    "geom:latitude":35.16921,
+    "geom:longitude":36.00939,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Ayn an Nadi",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172185,
+    "gn:latitude":35.16921,
+    "gn:longitude":36.00939,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018Ayn an Nad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0646\u062f\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0646\u064a\u0646\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn enn Nid\u00e9",
+        "\u2019Ain enn Nedi",
+        "\u2018Ayn an Nad\u012b",
+        "\u2018Unayn\u012bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172185
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5dde41dddec68a8c85368440ec2fd0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1326901409,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1326901409,
+    "wof:lastmodified":1537702254,
+    "wof:name":"`Ayn an Nadi",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00939,
+    35.16921,
+    36.00939,
+    35.16921
+],
+  "geometry": {"coordinates":[36.00939,35.16921],"type":"Point"}
+}

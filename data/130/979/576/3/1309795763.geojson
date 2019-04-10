@@ -1,0 +1,70 @@
+{
+  "id": 1309795763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.37917,36.89444,38.37917,36.89444",
+    "geom:latitude":36.89444,
+    "geom:longitude":38.37917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maklul",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9242,
+    "gn:latitude":36.89444,
+    "gn:longitude":38.37917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makl\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makl\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9242
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1727a87151a42ab09705ed9b998da580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1309795763,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309795763,
+    "wof:lastmodified":1537701575,
+    "wof:name":"Maklul",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.37917,
+    36.89444,
+    38.37917,
+    36.89444
+],
+  "geometry": {"coordinates":[38.37917,36.89444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276750779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43346,35.53502,36.43346,35.53502",
+    "geom:latitude":35.53502,
+    "geom:longitude":36.43346,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Umm Nir",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556245,
+    "gn:latitude":35.53502,
+    "gn:longitude":36.43346,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Umm N\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0646\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Umm N\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556245
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9cbae8bd816916dc5cae5906a20d3952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1276750779,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276750779,
+    "wof:lastmodified":1537702641,
+    "wof:name":"Umm Nir",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43346,
+    35.53502,
+    36.43346,
+    35.53502
+],
+  "geometry": {"coordinates":[36.43346,35.53502],"type":"Point"}
+}

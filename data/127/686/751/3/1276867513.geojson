@@ -1,0 +1,83 @@
+{
+  "id": 1276867513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76635,33.84759,36.76635,33.84759",
+    "geom:latitude":33.84759,
+    "geom:longitude":36.76635,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al `Atanah",
+    "gn:country_code":"SY",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174031,
+    "gn:latitude":33.84759,
+    "gn:longitude":36.76635,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al \u2018A\u0163anah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0637\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El \u2018Atne",
+        "Atne",
+        "El Aatn\u00e9",
+        "Al \u2018A\u0163nih",
+        "\u2018A\u0163anah",
+        "Aatn\u00e9",
+        "Al \u2018A\u0163anah",
+        "Al \u2018A\u0163nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174031
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"066fc8bf55d0b8f2041785c799a41943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1276867513,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276867513,
+    "wof:lastmodified":1537702386,
+    "wof:name":"Al `Atanah",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76635,
+    33.84759,
+    36.76635,
+    33.84759
+],
+  "geometry": {"coordinates":[36.76635,33.84759],"type":"Point"}
+}

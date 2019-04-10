@@ -1,0 +1,76 @@
+{
+  "id": 1327223429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07406,35.83773,37.07406,35.83773",
+    "geom:latitude":35.83773,
+    "geom:longitude":37.07406,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Muqarib",
+    "gn:country_code":"SY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163743,
+    "gn:latitude":35.83773,
+    "gn:longitude":37.07406,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall Muq\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0642\u0627\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tell ed Debb\u00e2ne",
+        "Tell Debb\u00e2ne",
+        "Tall adh Dhubb\u0101n",
+        "Tall Muq\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163743
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56519d1be12e4bf64b63ff39b63af797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1327223429,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327223429,
+    "wof:lastmodified":1537701691,
+    "wof:name":"Tall Muqarib",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07406,
+    35.83773,
+    37.07406,
+    35.83773
+],
+  "geometry": {"coordinates":[37.07406,35.83773],"type":"Point"}
+}

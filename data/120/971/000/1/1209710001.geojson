@@ -1,0 +1,79 @@
+{
+  "id": 1209710001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43915,36.84998,38.43915,36.84998",
+    "geom:latitude":36.84998,
+    "geom:longitude":38.43915,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Hajib",
+    "gn:country_code":"SY",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163572,
+    "gn:latitude":36.84998,
+    "gn:longitude":38.43915,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Tall \u1e28\u0101jib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0627\u062c\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tell H\u00e2jeb",
+        "Tell Hadjib",
+        "Tell H\u0101jib",
+        "Tall \u1e28\u0101jib",
+        "Tell Hajib",
+        "Tall Hajib",
+        "Tilecib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163572
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cecc63f397bb395fc04c8d741d231d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1209710001,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209710001,
+    "wof:lastmodified":1537701671,
+    "wof:name":"Tall Hajib",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43915,
+    36.84998,
+    38.43915,
+    36.84998
+],
+  "geometry": {"coordinates":[38.43915,36.84998],"type":"Point"}
+}

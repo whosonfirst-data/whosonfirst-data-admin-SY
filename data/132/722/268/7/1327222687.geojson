@@ -1,0 +1,75 @@
+{
+  "id": 1327222687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3064,35.17083,36.3064,35.17083",
+    "geom:latitude":35.17083,
+    "geom:longitude":36.3064,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tayr Jubbah",
+    "gn:country_code":"SY",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163287,
+    "gn:latitude":35.17083,
+    "gn:longitude":36.3064,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0162ayr Jubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0631 \u062c\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ta\u00efr Joubb\u00e9",
+        "\u0162ayr Jubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163287,
+        "wk:page":"Tayr_Jubbah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"85a2de259075dc97f8f4cdb57074d638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1327222687,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327222687,
+    "wof:lastmodified":1537701646,
+    "wof:name":"Tayr Jubbah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3064,
+    35.17083,
+    36.3064,
+    35.17083
+],
+  "geometry": {"coordinates":[36.3064,35.17083],"type":"Point"}
+}

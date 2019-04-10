@@ -1,0 +1,79 @@
+{
+  "id": 1310497215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89491,32.80954,35.89491,32.80954",
+    "geom:latitude":32.80954,
+    "geom:longitude":35.89491,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"An Nafi`ah",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166464,
+    "gn:latitude":32.80954,
+    "gn:longitude":35.89491,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"An N\u0101fi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0641\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0627\u0641\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u00e2fa\u00e2",
+        "Nafia\u00e2",
+        "N\u0101fi\u2018ah",
+        "An N\u0101fi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166464
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9ecf4489860caea8292a2dd28c2f9da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1310497215,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1310497215,
+    "wof:lastmodified":1537701860,
+    "wof:name":"An Nafi`ah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89491,
+    32.80954000000001,
+    35.89491,
+    32.80954000000001
+],
+  "geometry": {"coordinates":[35.89491,32.80954000000001],"type":"Point"}
+}

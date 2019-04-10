@@ -1,0 +1,67 @@
+{
+  "id": 1242863313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50833,35.04167,36.50833,35.04167",
+    "geom:latitude":35.04167,
+    "geom:longitude":36.50833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ballalin",
+    "gn:country_code":"SY",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4386,
+    "gn:latitude":35.04167,
+    "gn:longitude":36.50833,
+    "gn:modification_date":"1998-10-28",
+    "gn:name":"Ballal\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4386
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"406dcf104b5b9384cc0856d02d528500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242863313,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242863313,
+    "wof:lastmodified":1536651975,
+    "wof:name":"Ballalin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50833,
+    35.04167,
+    36.50833,
+    35.04167
+],
+  "geometry": {"coordinates":[36.50833,35.04167],"type":"Point"}
+}

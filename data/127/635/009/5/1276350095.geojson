@@ -1,0 +1,76 @@
+{
+  "id": 1276350095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.56653,36.82339,41.56653,36.82339",
+    "geom:latitude":36.82339,
+    "geom:longitude":41.56653,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rayhaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165343,
+    "gn:latitude":36.82339,
+    "gn:longitude":41.56653,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ray\u1e29\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u062d\u0627\u0646\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Ray\u1e29\u0101n\u012byah"
+    ],
+    "name:und_x_variant":[
+        "R\u00eeh\u00e2n\u00eeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165343
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"de88ccbf61cb4eb51116a038bee808c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276350095,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276350095,
+    "wof:lastmodified":1537701780,
+    "wof:name":"Rayhaniyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.56653,
+    36.82339,
+    41.56653,
+    36.82339
+],
+  "geometry": {"coordinates":[41.56653,36.82339],"type":"Point"}
+}

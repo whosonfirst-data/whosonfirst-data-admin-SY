@@ -1,0 +1,74 @@
+{
+  "id": 1344050963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31691,35.37826,36.31691,35.37826",
+    "geom:latitude":35.37826,
+    "geom:longitude":36.31691,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Abr Bayt Sayf",
+    "gn:country_code":"SY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174620,
+    "gn:latitude":35.37826,
+    "gn:longitude":36.31691,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Abr Bayt Sayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0631 \u0628\u064a\u062a \u0634\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "A\u00e2ber Be\u00eft S\u00eef",
+        "\u2018Abr Bayt Sayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174620
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"57872da487ea772c1351799143f2c9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1344050963,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344050963,
+    "wof:lastmodified":1537702416,
+    "wof:name":"`Abr Bayt Sayf",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31691,
+    35.37826,
+    36.31691,
+    35.37826
+],
+  "geometry": {"coordinates":[36.31691,35.37826],"type":"Point"}
+}

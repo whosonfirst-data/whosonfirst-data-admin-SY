@@ -1,0 +1,73 @@
+{
+  "id": 1259356721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91412,34.94471,35.91412,34.94471",
+    "geom:latitude":34.94471,
+    "geom:longitude":35.91412,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ar Ruwayhat",
+    "gn:country_code":"SY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8266607,
+    "gn:latitude":34.94471,
+    "gn:longitude":35.91412,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ar Ruway\u1e29\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u062d\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ar Ruway\u1e29\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266607
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95b6e7e621945b1ee24746f50d49e4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1259356721,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259356721,
+    "wof:lastmodified":1537702502,
+    "wof:name":"Ar Ruwayhat",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91412000000001,
+    34.94471,
+    35.91412000000001,
+    34.94471
+],
+  "geometry": {"coordinates":[35.91412000000001,34.94471],"type":"Point"}
+}

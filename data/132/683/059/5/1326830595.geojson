@@ -1,0 +1,73 @@
+{
+  "id": 1326830595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34128,35.80981,39.34128,35.80981",
+    "geom:latitude":35.80981,
+    "geom:longitude":39.34128,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qibli",
+    "gn:country_code":"SY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4182,
+    "gn:latitude":35.80981,
+    "gn:longitude":39.34128,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qibl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0628\u0644\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4182
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9ad0096b38965e7cb2882a746a1e2cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1326830595,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1326830595,
+    "wof:lastmodified":1537701536,
+    "wof:name":"Qibli",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34128,
+    35.80981,
+    39.34128,
+    35.80981
+],
+  "geometry": {"coordinates":[39.34128,35.80981],"type":"Point"}
+}

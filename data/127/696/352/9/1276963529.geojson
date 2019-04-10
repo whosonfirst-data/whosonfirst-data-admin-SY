@@ -1,0 +1,75 @@
+{
+  "id": 1276963529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23427,35.93153,37.23427,35.93153",
+    "geom:latitude":35.93153,
+    "geom:longitude":37.23427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mushayrifat al Buwaydatayn",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167107,
+    "gn:latitude":35.93153,
+    "gn:longitude":37.23427,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mushayrifat al Buway\u1e11atayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u0628\u0648\u064a\u0636\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherfet es S\u00e9rh\u00eer\u00e9",
+        "Mashrafat a\u015f \u015eagh\u012brah",
+        "Mushayrifat al Buway\u1e11atayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167107
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f752cf19a8fb9b5f56174c286e10792a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276963529,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276963529,
+    "wof:lastmodified":1537701900,
+    "wof:name":"Mushayrifat al Buwaydatayn",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23427,
+    35.93153,
+    37.23427,
+    35.93153
+],
+  "geometry": {"coordinates":[37.23427,35.93153],"type":"Point"}
+}

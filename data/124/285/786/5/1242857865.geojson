@@ -1,0 +1,74 @@
+{
+  "id": 1242857865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0907,34.94354,36.0907,34.94354",
+    "geom:latitude":34.94354,
+    "geom:longitude":36.0907,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tuffahah",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163170,
+    "gn:latitude":34.94354,
+    "gn:longitude":36.0907,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tuff\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0641\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Teff\u00e2ha",
+        "Tuff\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163170
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8abda25c9a59bb4926e8197c027746e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1242857865,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242857865,
+    "wof:lastmodified":1537701641,
+    "wof:name":"Tuffahah",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0907,
+    34.94354000000001,
+    36.0907,
+    34.94354000000001
+],
+  "geometry": {"coordinates":[36.0907,34.94354000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209112277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82896,36.51522,38.82896,36.51522",
+    "geom:latitude":36.51522,
+    "geom:longitude":38.82896,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Umm Madlij",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162873,
+    "gn:latitude":36.51522,
+    "gn:longitude":38.82896,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Umm Madlij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0645\u062f\u0644\u062c"
+    ],
+    "name:und_x_variant":[
+        "Oumm Medl\u00eeg",
+        "Oum Medlij",
+        "Umm Madlij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162873
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"28bc4b706fd8c39b7cc2a8f1bf4114b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209112277
+        }
+    ],
+    "wof:id":1209112277,
+    "wof:lastmodified":1537701620,
+    "wof:name":"Umm Madlij",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82896,
+    36.51522,
+    38.82896,
+    36.51522
+],
+  "geometry": {"coordinates":[38.82896,36.51522],"type":"Point"}
+}

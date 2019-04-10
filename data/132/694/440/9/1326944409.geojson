@@ -1,0 +1,87 @@
+{
+  "id": 1326944409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.16716,37.11318,42.16716,37.11318",
+    "geom:latitude":37.11318,
+    "geom:longitude":42.16716,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Suwaydik",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163863,
+    "gn:latitude":37.11318,
+    "gn:longitude":42.16716,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Suwaydik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Y\u0101f\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0641\u0627",
+        "\u0633\u0648\u064a\u062f\u064a\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Siw\u00ead\u00eeka Kesh\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u06ce\u062f\u064a\u0643\u0627 \u0643\u06d5\u0634\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Soue\u00efdik",
+        "Suwaydik",
+        "Suwayd\u012bk",
+        "Siw\u00ead\u00eeka Ke\u015f\u00ea",
+        "\u0633\u0648\u064a\u062f\u064a\u0643\u0627 \u0643\u0634\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163863
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"680de9d1ca94a015a222cb793cad3373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1326944409,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326944409,
+    "wof:lastmodified":1537701701,
+    "wof:name":"Suwaydik",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.16716,
+    37.11318,
+    42.16716,
+    37.11318
+],
+  "geometry": {"coordinates":[42.16716,37.11318],"type":"Point"}
+}

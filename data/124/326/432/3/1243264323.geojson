@@ -1,0 +1,73 @@
+{
+  "id": 1243264323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69331,35.92601,38.69331,35.92601",
+    "geom:latitude":35.92601,
+    "geom:longitude":38.69331,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahl Tall Ballanah",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347106,
+    "gn:latitude":35.92601,
+    "gn:longitude":38.69331,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Sahl Tall Ball\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0644 \u062a\u0644 \u0628\u0644\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sahl Tall Ball\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347106
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b1a55f1379b23e86af5247c2a8b3bdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1243264323,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1243264323,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Sahl Tall Ballanah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69331,
+    35.92601,
+    38.69331,
+    35.92601
+],
+  "geometry": {"coordinates":[38.69331,35.92601],"type":"Point"}
+}

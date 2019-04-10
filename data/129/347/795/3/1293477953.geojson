@@ -1,0 +1,77 @@
+{
+  "id": 1293477953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59161,34.72189,36.59161,34.72189",
+    "geom:latitude":34.72189,
+    "geom:longitude":36.59161,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Haratayn",
+    "gn:country_code":"SY",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162910,
+    "gn:latitude":34.72189,
+    "gn:longitude":36.59161,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Umm \u1e28\u0101ratayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062d\u0627\u0631\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Oum H\u00e2rta\u00efne Y\u00e2ho\u00fbdiy\u00e9",
+        "Oumm H\u00e2rta\u00efne Y\u00e2ho\u00fbdiy\u00e9",
+        "Oumm Harte\u00efn",
+        "Umm \u1e28\u0101ratayn Yah\u016bd\u012byah",
+        "Umm \u1e28\u0101ratayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162910
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53b829f3494b2dea1b8eaadccfcd3806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293477953,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293477953,
+    "wof:lastmodified":1537701623,
+    "wof:name":"Umm Haratayn",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59161,
+    34.72189,
+    36.59161,
+    34.72189
+],
+  "geometry": {"coordinates":[36.59161,34.72189],"type":"Point"}
+}

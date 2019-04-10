@@ -1,0 +1,67 @@
+{
+  "id": 1209101855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.97685,35.86162,37.97685,35.86162",
+    "geom:latitude":35.86162,
+    "geom:longitude":37.97685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Faysaliyah",
+    "gn:country_code":"SY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342022,
+    "gn:latitude":35.86162,
+    "gn:longitude":37.97685,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Fay\u015fal\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0635\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fay\u015fal\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342022
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"88b9537bfc3e975a0331110caa15dfe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209101855
+        }
+    ],
+    "wof:id":1209101855,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Faysaliyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.97685,
+    35.86162,
+    37.97685,
+    35.86162
+],
+  "geometry": {"coordinates":[37.97685,35.86162],"type":"Point"}
+}

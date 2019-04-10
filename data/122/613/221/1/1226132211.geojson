@@ -1,0 +1,89 @@
+{
+  "id": 1226132211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4451,36.87881,38.4451,36.87881",
+    "geom:latitude":36.87881,
+    "geom:longitude":38.4451,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kujuk Marsat",
+    "gn:country_code":"SY",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559272,
+    "gn:latitude":36.87881,
+    "gn:longitude":38.4451,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"K\u016bj\u016bk Marsat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062c\u0648\u0643 \u0645\u0631\u0633\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u062f\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kucik"
+    ],
+    "name:kur_x_variant":[
+        "Kochek",
+        "\u0643\u0648\u062c\u0643",
+        "\u0643\u06c6\u0686\u06d5\u0643"
+    ],
+    "name:und_x_variant":[
+        "K\u016bj\u016bk Marsat",
+        "\u2018Adan",
+        "Ko\u00e7ek",
+        "Eden",
+        "Kawj\u016bk Marsat",
+        "Kusik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559272
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"98229dc1c3efa691bc556019815b471c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226132211,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226132211,
+    "wof:lastmodified":1537702578,
+    "wof:name":"Kujuk Marsat",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4451,
+    36.87881,
+    38.4451,
+    36.87881
+],
+  "geometry": {"coordinates":[38.4451,36.87881],"type":"Point"}
+}

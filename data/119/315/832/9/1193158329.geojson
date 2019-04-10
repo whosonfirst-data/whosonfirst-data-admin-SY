@@ -1,0 +1,73 @@
+{
+  "id": 1193158329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.60785,35.45436,40.60785,35.45436",
+    "geom:latitude":35.45436,
+    "geom:longitude":40.60785,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rubaydah",
+    "gn:country_code":"SY",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275731,
+    "gn:latitude":35.45436,
+    "gn:longitude":40.60785,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Rubay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rubay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7338f19b373bb2f16cb0672c98615492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1193158329,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1193158329,
+    "wof:lastmodified":1537702520,
+    "wof:name":"Rubaydah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.60785,
+    35.45436,
+    40.60785,
+    35.45436
+],
+  "geometry": {"coordinates":[40.60785,35.45436],"type":"Point"}
+}

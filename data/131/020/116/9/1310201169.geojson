@@ -1,0 +1,73 @@
+{
+  "id": 1310201169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01629,35.56218,38.01629,35.56218",
+    "geom:latitude":35.56218,
+    "geom:longitude":38.01629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bi'r `Abd Allah Junayd",
+    "gn:country_code":"SY",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6742,
+    "gn:latitude":35.56218,
+    "gn:longitude":38.01629,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bi\u2019r \u2018Abd All\u0101h Junayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u062c\u0646\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r \u2018Abd All\u0101h Junayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6742
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"025f0a9a2b68d4e064c8577962daa5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1310201169,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310201169,
+    "wof:lastmodified":1537701555,
+    "wof:name":"Bi'r `Abd Allah Junayd",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01629000000001,
+    35.56218,
+    38.01629000000001,
+    35.56218
+],
+  "geometry": {"coordinates":[38.01629000000001,35.56218],"type":"Point"}
+}

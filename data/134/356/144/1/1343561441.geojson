@@ -1,0 +1,75 @@
+{
+  "id": 1343561441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02806,36.13525,39.02806,36.13525",
+    "geom:latitude":36.13525,
+    "geom:longitude":39.02806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khalwat `Ubayd",
+    "gn:country_code":"SY",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172044,
+    "gn:latitude":36.13525,
+    "gn:longitude":39.02806,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Khalwat \u2018Ubayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0648\u0629 \u0639\u0628\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Az Zarq\u0101\u2019",
+        "Ez Zarqa",
+        "Khalwat \u2018Ubayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172044
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3acf6183554730495c731b90bc241e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1343561441,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343561441,
+    "wof:lastmodified":1537702243,
+    "wof:name":"Khalwat `Ubayd",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02806,
+    36.13525,
+    39.02806,
+    36.13525
+],
+  "geometry": {"coordinates":[39.02806,36.13525],"type":"Point"}
+}

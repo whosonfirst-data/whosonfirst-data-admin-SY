@@ -1,0 +1,84 @@
+{
+  "id": 1260270065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67081,36.06442,36.67081,36.06442",
+    "geom:latitude":36.06442,
+    "geom:longitude":36.67081,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Maqarrat al Ikhwan",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167612,
+    "gn:latitude":36.06442,
+    "gn:longitude":36.67081,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Maqarrat al Ikhw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0631\u0629 \u0627\u0644\u0625\u062e\u0648\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631\u0629 \u0627\u0644\u0627\u062e\u0648\u0627\u0646",
+        "\u0645\u0639\u0627\u0631\u0629 \u0627\u0644\u0623\u062e\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018arrah",
+        "El Ma\u2018arra",
+        "Maara",
+        "Maarret el Ikhou\u00e2ne",
+        "Maaret Ikhouane",
+        "Ma\u2018arrat al Ikhw\u0101n",
+        "Maqarrat al Ikhw\u0101n",
+        "Ma\u2018\u0101rrat al Akhw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167612
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ee9cee70a84be7ac5dd1e2a713a2fe95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1260270065,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260270065,
+    "wof:lastmodified":1537701927,
+    "wof:name":"Maqarrat al Ikhwan",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67081,
+    36.06442,
+    36.67081,
+    36.06442
+],
+  "geometry": {"coordinates":[36.67081,36.06442],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242581779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80027,36.95955,41.80027,36.95955",
+    "geom:latitude":36.95955,
+    "geom:longitude":41.80027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kharab Bajar",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168312,
+    "gn:latitude":36.95955,
+    "gn:longitude":41.80027,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Khar\u0101b B\u0101j\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0628\u0627\u062c\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "\u062e\u0631\u0628\u06ce \u0628\u06d5\u062c\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b B\u0101j\u0101r",
+        "Xirb\u00ea Becar",
+        "Az\u0327 Z\u0327\u0101hir\u012byah",
+        "\u062e\u0631\u0628\u064a \u0628\u062c\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168312
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2624cefbe9dd8c64685c5a6fde5304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1242581779,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242581779,
+    "wof:lastmodified":1537701983,
+    "wof:name":"Kharab Bajar",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80027000000001,
+    36.95955,
+    41.80027000000001,
+    36.95955
+],
+  "geometry": {"coordinates":[41.80027000000001,36.95955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226229271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01354,35.70469,37.01354,35.70469",
+    "geom:latitude":35.70469,
+    "geom:longitude":37.01354,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zifr Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162435,
+    "gn:latitude":35.70469,
+    "gn:longitude":37.01354,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Z\u0327ifr \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zafr S\u00e9rh\u00eer",
+        "Z\u0327ifr \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162435
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13322664a06d439288c28b84213ffc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1226229271,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226229271,
+    "wof:lastmodified":1537701590,
+    "wof:name":"Zifr Saghir",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01354,
+    35.70469,
+    37.01354,
+    35.70469
+],
+  "geometry": {"coordinates":[37.01354,35.70469],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243251637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54551,34.46947,36.54551,34.46947",
+    "geom:latitude":34.46947,
+    "geom:longitude":36.54551,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Az Zahr",
+    "gn:country_code":"SY",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11431020,
+    "gn:latitude":34.46947,
+    "gn:longitude":36.54551,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Az\u0327 Z\u0327ahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327ahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11431020
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e553ba71fbdfa05c9b3423dc1e08a9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1243251637,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243251637,
+    "wof:lastmodified":1537702615,
+    "wof:name":"Az Zahr",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54551,
+    34.46947,
+    36.54551,
+    34.46947
+],
+  "geometry": {"coordinates":[36.54551,34.46947],"type":"Point"}
+}

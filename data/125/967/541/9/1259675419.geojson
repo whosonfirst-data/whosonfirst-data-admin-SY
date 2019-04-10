@@ -1,0 +1,81 @@
+{
+  "id": 1259675419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.93473,34.43415,40.93473,34.43415",
+    "geom:latitude":34.43415,
+    "geom:longitude":40.93473,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Suwayyah",
+    "gn:country_code":"SY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163846,
+    "gn:latitude":34.43415,
+    "gn:longitude":40.93473,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Suwayya\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u0651\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0648\u064a\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Saw\u012by\u0101",
+        "Suwayyah",
+        "Saw\u012byah",
+        "Soua\u00efy\u00e9",
+        "Suwayya\u1e29",
+        "As Suway\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163846
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"40d3abef46283cc24d3f4b5f37348498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1259675419,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1259675419,
+    "wof:lastmodified":1537701700,
+    "wof:name":"Suwayyah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.93473,
+    34.43415,
+    40.93473,
+    34.43415
+],
+  "geometry": {"coordinates":[40.93473,34.43415],"type":"Point"}
+}

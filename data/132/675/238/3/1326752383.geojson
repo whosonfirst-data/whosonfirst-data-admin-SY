@@ -1,0 +1,78 @@
+{
+  "id": 1326752383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42609,32.54641,36.42609,32.54641",
+    "geom:latitude":32.54641,
+    "geom:longitude":36.42609,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ma`raba",
+    "gn:country_code":"SY",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167276,
+    "gn:latitude":32.54641,
+    "gn:longitude":36.42609,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ma\u2018rab\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maaraba",
+        "Ma\u2018rab\u0101",
+        "Mu\u2018arrabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167276
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c44d4b3960c1ecb728a0b53a15899ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1326752383,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1326752383,
+    "wof:lastmodified":1537701910,
+    "wof:name":"Ma`raba",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42609,
+    32.54640999999999,
+    36.42609,
+    32.54640999999999
+],
+  "geometry": {"coordinates":[36.42609,32.54640999999999],"type":"Point"}
+}

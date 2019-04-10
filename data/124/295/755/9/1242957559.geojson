@@ -1,0 +1,73 @@
+{
+  "id": 1242957559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28531,36.1763,37.28531,36.1763",
+    "geom:latitude":36.1763,
+    "geom:longitude":37.28531,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tarbushah",
+    "gn:country_code":"SY",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7675454,
+    "gn:latitude":36.1763,
+    "gn:longitude":37.28531,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0162arb\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0628\u0648\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162arb\u016bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675454
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5d36c67ce57d984f448c55c90763f04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242957559,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242957559,
+    "wof:lastmodified":1537702472,
+    "wof:name":"Tarbushah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28531,
+    36.1763,
+    37.28531,
+    36.1763
+],
+  "geometry": {"coordinates":[37.28531,36.1763],"type":"Point"}
+}

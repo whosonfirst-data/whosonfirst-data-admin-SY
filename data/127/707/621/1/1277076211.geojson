@@ -1,0 +1,116 @@
+{
+  "id": 1277076211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,32.81667,35.66667,32.81667",
+    "geom:latitude":32.81667,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khirbat ad Dajajinah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168147,
+    "gn:latitude":32.81667,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat ad Daj\u0101jinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat D\u00e9j\u00e2jin\u00e9",
+        "Kheurbet D\u00e9j\u00e2jin\u00e9",
+        "Khirbat ad Daj\u0101jinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779187,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168147
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69799c9e7fe14fbd7e2abcb38c854127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1277076211,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1277076211,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "locality_id":1277076211,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1277076211,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1277076211,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1277076211,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1277076211,
+    "wof:lastmodified":1549931195,
+    "wof:name":"Khirbat ad Dajajinah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    32.81667,
+    35.66667,
+    32.81667
+],
+  "geometry": {"coordinates":[35.66667,32.81667],"type":"Point"}
+}

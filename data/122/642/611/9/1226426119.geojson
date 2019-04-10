@@ -1,0 +1,78 @@
+{
+  "id": 1226426119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72496,35.14954,36.72496,35.14954",
+    "geom:latitude":35.14954,
+    "geom:longitude":36.72496,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kazou",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168468,
+    "gn:latitude":35.14954,
+    "gn:longitude":36.72496,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kazou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101z\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0632\u0648",
+        "\u0627\u0644\u0643\u0648\u062b\u0631"
+    ],
+    "name:und_x_variant":[
+        "K\u00e2zo",
+        "Al Kawthar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168468
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"daecdb394298aadc42aa45f5c41bb880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226426119,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226426119,
+    "wof:lastmodified":1537701993,
+    "wof:name":"Kazou",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72496,
+    35.14954,
+    36.72496,
+    35.14954
+],
+  "geometry": {"coordinates":[36.72496,35.14954],"type":"Point"}
+}

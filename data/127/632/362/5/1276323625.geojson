@@ -1,0 +1,82 @@
+{
+  "id": 1276323625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37039,36.09998,37.37039,36.09998",
+    "geom:latitude":36.09998,
+    "geom:longitude":37.37039,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Azizat as Safirah",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172070,
+    "gn:latitude":36.09998,
+    "gn:longitude":37.37039,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u2018Az\u012bzat as Saf\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u0632\u0629 \u0627\u0644\u0633\u0641\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaz\u00eez\u00e9",
+        "Aziziy\u00e9",
+        "Aaz\u00eez\u00eey\u00e9",
+        "Aziz\u00e9",
+        "\u2018Az\u012bz\u012byah",
+        "\u2018Az\u012bzah as Saf\u012brah",
+        "\u2018Az\u012bzat as Saf\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172070
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bdd7ffe88a15ec73bb1faffed3ab5bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1276323625,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276323625,
+    "wof:lastmodified":1537702246,
+    "wof:name":"`Azizat as Safirah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37039,
+    36.09998,
+    37.37039,
+    36.09998
+],
+  "geometry": {"coordinates":[37.37039,36.09998],"type":"Point"}
+}

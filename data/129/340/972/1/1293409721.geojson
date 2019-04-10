@@ -1,0 +1,75 @@
+{
+  "id": 1293409721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30248,33.28352,36.30248,33.28352",
+    "geom:latitude":33.28352,
+    "geom:longitude":36.30248,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dayr `Ali",
+    "gn:country_code":"SY",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170810,
+    "gn:latitude":33.28352,
+    "gn:longitude":36.30248,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Dayr \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr \u2018Ali",
+        "De\u00efr Aali",
+        "Dayr \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170810
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4e3efb3cf9220cf57d9a1eb352f1373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1293409721,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293409721,
+    "wof:lastmodified":1537702149,
+    "wof:name":"Dayr `Ali",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30248,
+    33.28352,
+    36.30248,
+    33.28352
+],
+  "geometry": {"coordinates":[36.30248,33.28352],"type":"Point"}
+}

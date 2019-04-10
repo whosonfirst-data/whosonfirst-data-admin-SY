@@ -1,0 +1,73 @@
+{
+  "id": 1259568763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91193,33.69963,37.91193,33.69963",
+    "geom:latitude":33.69963,
+    "geom:longitude":37.91193,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bayt Fulayjan",
+    "gn:country_code":"SY",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407156,
+    "gn:latitude":33.69963,
+    "gn:longitude":37.91193,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bayt Fulayj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u0644\u064a\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Fulayj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407156
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bafaa00b495d5c2392f16ffd5df05f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1259568763,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259568763,
+    "wof:lastmodified":1537702432,
+    "wof:name":"Bayt Fulayjan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91193,
+    33.69963,
+    37.91193,
+    33.69963
+],
+  "geometry": {"coordinates":[37.91193,33.69963],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226646475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.30409,35.93524,38.30409,35.93524",
+    "geom:latitude":35.93524,
+    "geom:longitude":38.30409,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Wasitah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":173278,
+    "gn:latitude":35.93524,
+    "gn:longitude":38.30409,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al W\u0101si\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u0633\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Ou\u00e2sta",
+        "Al W\u0101si\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173278
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"59f7c51a25ee1fbbe821e8b900620cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1226646475,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226646475,
+    "wof:lastmodified":1537702321,
+    "wof:name":"Al Wasitah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.30409,
+    35.93524,
+    38.30409,
+    35.93524
+],
+  "geometry": {"coordinates":[38.30409,35.93524],"type":"Point"}
+}

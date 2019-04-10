@@ -1,0 +1,76 @@
+{
+  "id": 1310009903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.28053,36.76504,41.28053,36.76504",
+    "geom:latitude":36.76504,
+    "geom:longitude":41.28053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Duraysiyat",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170569,
+    "gn:latitude":36.76504,
+    "gn:longitude":41.28053,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Durays\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0633\u064a\u0627\u062a"
+    ],
+    "name:tur_x_preferred":[
+        "Durays\u012by\u0101t"
+    ],
+    "name:und_x_variant":[
+        "Dra\u00efssiy\u00e2te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170569
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea617771d76bf4860e66c8982da6d4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1310009903,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310009903,
+    "wof:lastmodified":1537702131,
+    "wof:name":"Duraysiyat",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.28053,
+    36.76504,
+    41.28053,
+    36.76504
+],
+  "geometry": {"coordinates":[41.28053,36.76504],"type":"Point"}
+}

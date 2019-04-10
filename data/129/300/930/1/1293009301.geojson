@@ -1,0 +1,74 @@
+{
+  "id": 1293009301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89764,35.80841,35.89764,35.80841",
+    "geom:latitude":35.80841,
+    "geom:longitude":35.89764,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shataq",
+    "gn:country_code":"SY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4619,
+    "gn:latitude":35.80841,
+    "gn:longitude":35.89764,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Sha\u0163aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0637\u0642"
+    ],
+    "name:und_x_variant":[
+        "Sha\u0163aq",
+        "Chataq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4619
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a5a8895a1a094fb242a84ac3a605c07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293009301,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293009301,
+    "wof:lastmodified":1537701547,
+    "wof:name":"Shataq",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89764,
+    35.80840999999999,
+    35.89764,
+    35.80840999999999
+],
+  "geometry": {"coordinates":[35.89764,35.80840999999999],"type":"Point"}
+}

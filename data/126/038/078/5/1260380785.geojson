@@ -1,0 +1,73 @@
+{
+  "id": 1260380785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37517,35.58224,37.37517,35.58224",
+    "geom:latitude":35.58224,
+    "geom:longitude":37.37517,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tibarat az Zabib",
+    "gn:country_code":"SY",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340391,
+    "gn:latitude":35.58224,
+    "gn:longitude":37.37517,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tib\u0101rat az Zab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0627\u0631\u0629 \u0627\u0644\u0632\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tib\u0101rat az Zab\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340391
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d04f2bff4300c3306f5e56bdc243889a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1260380785,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260380785,
+    "wof:lastmodified":1537702536,
+    "wof:name":"Tibarat az Zabib",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37517,
+    35.58224000000001,
+    37.37517,
+    35.58224000000001
+],
+  "geometry": {"coordinates":[37.37517,35.58224000000001],"type":"Point"}
+}

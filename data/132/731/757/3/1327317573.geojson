@@ -1,0 +1,73 @@
+{
+  "id": 1327317573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59517,35.14543,37.59517,35.14543",
+    "geom:latitude":35.14543,
+    "geom:longitude":37.59517,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Kahf",
+    "gn:country_code":"SY",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420141,
+    "gn:latitude":35.14543,
+    "gn:longitude":37.59517,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ab\u016b Kahf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0643\u0647\u0641"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Kahf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420141
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c27f2298520a6cdc72a2b9ba4117664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1327317573,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327317573,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Abu Kahf",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59517,
+    35.14543,
+    37.59517,
+    35.14543
+],
+  "geometry": {"coordinates":[37.59517,35.14543],"type":"Point"}
+}

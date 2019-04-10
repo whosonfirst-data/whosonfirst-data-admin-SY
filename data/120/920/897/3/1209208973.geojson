@@ -1,0 +1,70 @@
+{
+  "id": 1209208973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23429,35.55214,36.23429,35.55214",
+    "geom:latitude":35.55214,
+    "geom:longitude":36.23429,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nubl al Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166330,
+    "gn:latitude":35.55214,
+    "gn:longitude":36.23429,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nubl al Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0644 \u0627\u0644\u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Nobol el Faouq\u00e2",
+        "Nubul al Fawq\u0101\u2019",
+        "Nubl al Fawq\u0101n\u012b",
+        "Nubul al Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166330
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"77a825b463b17c3d3d7f8828a18de438",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209208973
+        }
+    ],
+    "wof:id":1209208973,
+    "wof:lastmodified":1537701853,
+    "wof:name":"Nubl al Fawqani",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23429,
+    35.55214,
+    36.23429,
+    35.55214
+],
+  "geometry": {"coordinates":[36.23429,35.55214],"type":"Point"}
+}

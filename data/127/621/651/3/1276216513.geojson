@@ -1,0 +1,82 @@
+{
+  "id": 1276216513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.24279,36.88324,38.24279,36.88324",
+    "geom:latitude":36.88324,
+    "geom:longitude":38.24279,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dava Maghar",
+    "gn:country_code":"SY",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9237,
+    "gn:latitude":36.88324,
+    "gn:longitude":38.24279,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"D\u0101v\u0101 Magh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062c\u062a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u06a4\u0627 \u0645\u063a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u012bjatar",
+        "\u1e28\u012bjitar",
+        "He\u00efchter",
+        "D\u00e9r\u00e9 Marh\u00e2r",
+        "Hijtar",
+        "\u1e28ayjitar",
+        "D\u0101v\u0101 Magh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9237
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df8ebbddf38e39020921e61647b4068d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276216513,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276216513,
+    "wof:lastmodified":1537701574,
+    "wof:name":"Dava Maghar",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.24279,
+    36.88324,
+    38.24279,
+    36.88324
+],
+  "geometry": {"coordinates":[38.24279,36.88324],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1327033045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90131,35.74698,35.90131,35.74698",
+    "geom:latitude":35.74698,
+    "geom:longitude":35.90131,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balluran al Gharbiyah",
+    "gn:country_code":"SY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171872,
+    "gn:latitude":35.74698,
+    "gn:longitude":35.90131,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ball\u016br\u0101n al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0644\u0648\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u0648\u0631\u0627\u0646 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+        "\u0628\u0644\u0644\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ballo\u00fbr\u00e2ne",
+        "Ball\u016br\u0101n",
+        "Blal\u016br\u0101n",
+        "Ball\u016br\u0101n al Gharb\u012byah",
+        "Ball\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171872
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f31949c48c9d96bd9b98f1c908c09b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1327033045,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327033045,
+    "wof:lastmodified":1537702231,
+    "wof:name":"Balluran al Gharbiyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90130999999999,
+    35.74698,
+    35.90130999999999,
+    35.74698
+],
+  "geometry": {"coordinates":[35.90130999999999,35.74698],"type":"Point"}
+}

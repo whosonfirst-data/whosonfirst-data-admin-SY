@@ -1,0 +1,83 @@
+{
+  "id": 1259371867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37402,35.26375,37.37402,35.26375",
+    "geom:latitude":35.26375,
+    "geom:longitude":37.37402,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Si`in",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172515,
+    "gn:latitude":35.26375,
+    "gn:longitude":37.37402,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"As Si\u2018in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0639\u0646"
+    ],
+    "name:ara_x_variant":[
+        "As Si\u2018in"
+    ],
+    "name:und_x_variant":[
+        "Es Sa\u00ebne",
+        "Saane ech Chajara",
+        "Es Saane",
+        "As Seen",
+        "Es S\u0101\u2018\u0101n",
+        "Saene",
+        "Saane",
+        "As Sa\u2018an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172515
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"33bab9619ad20d19008097c77b03c86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259371867,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259371867,
+    "wof:lastmodified":1537702281,
+    "wof:name":"As Si`in",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37402,
+    35.26375,
+    37.37402,
+    35.26375
+],
+  "geometry": {"coordinates":[37.37402,35.26375],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260177305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31911,34.97084,36.31911,34.97084",
+    "geom:latitude":34.97084,
+    "geom:longitude":36.31911,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mashrafah",
+    "gn:country_code":"SY",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173494,
+    "gn:latitude":34.97084,
+    "gn:longitude":36.31911,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Mashrafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0631\u0641\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0634\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherf\u00e9",
+        "Al Mashrafah",
+        "Mashrafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173494
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6fb6d10db38e03d3ddd9a1bf1ea73b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1260177305,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260177305,
+    "wof:lastmodified":1537702340,
+    "wof:name":"Al Mashrafah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31911,
+    34.97084,
+    36.31911,
+    34.97084
+],
+  "geometry": {"coordinates":[36.31911,34.97084],"type":"Point"}
+}

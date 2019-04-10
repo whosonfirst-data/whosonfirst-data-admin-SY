@@ -1,0 +1,73 @@
+{
+  "id": 1310385577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62611,35.57209,36.62611,35.57209",
+    "geom:latitude":35.57209,
+    "geom:longitude":36.62611,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Armanayya",
+    "gn:country_code":"SY",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556220,
+    "gn:latitude":35.57209,
+    "gn:longitude":36.62611,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Arman\u0101yy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0645\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Arman\u0101yy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556220
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b9a67c56b8e9865b89de177f14d954e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1310385577,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310385577,
+    "wof:lastmodified":1537702639,
+    "wof:name":"Armanayya",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62611,
+    35.57209,
+    36.62611,
+    35.57209
+],
+  "geometry": {"coordinates":[36.62611,35.57209],"type":"Point"}
+}

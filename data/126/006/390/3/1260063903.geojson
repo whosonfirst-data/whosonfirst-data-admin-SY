@@ -1,0 +1,75 @@
+{
+  "id": 1260063903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32058,34.90877,36.32058,34.90877",
+    "geom:latitude":34.90877,
+    "geom:longitude":36.32058,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bayt `Utq",
+    "gn:country_code":"SY",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171524,
+    "gn:latitude":34.90877,
+    "gn:longitude":36.32058,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bayt \u2018Utq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u062a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Otq",
+        "Be\u00eft Otoq",
+        "Bayt \u2018Utq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171524
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"242920e9e435c16b57c45e3744d87a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1260063903,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260063903,
+    "wof:lastmodified":1537702204,
+    "wof:name":"Bayt `Utq",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32058,
+    34.90877,
+    36.32058,
+    34.90877
+],
+  "geometry": {"coordinates":[36.32058,34.90877],"type":"Point"}
+}

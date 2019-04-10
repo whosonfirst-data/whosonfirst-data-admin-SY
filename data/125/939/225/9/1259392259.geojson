@@ -1,0 +1,73 @@
+{
+  "id": 1259392259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83478,35.79218,40.83478,35.79218",
+    "geom:latitude":35.79218,
+    "geom:longitude":40.83478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Turaytir",
+    "gn:country_code":"SY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275306,
+    "gn:latitude":35.79218,
+    "gn:longitude":40.83478,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u0162uray\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u064a\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0162uray\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275306
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed717cee2362b5f3f7e492af3303f234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259392259,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259392259,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Turaytir",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83478,
+    35.79218,
+    40.83478,
+    35.79218
+],
+  "geometry": {"coordinates":[40.83478,35.79218],"type":"Point"}
+}

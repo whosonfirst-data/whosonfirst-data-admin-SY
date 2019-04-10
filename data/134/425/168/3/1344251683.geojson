@@ -1,0 +1,79 @@
+{
+  "id": 1344251683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24435,36.34925,37.24435,36.34925",
+    "geom:latitude":36.34925,
+    "geom:longitude":37.24435,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Vavin",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170498,
+    "gn:latitude":36.34925,
+    "gn:longitude":37.24435,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"V\u0101v\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u0101f\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u0641\u064a\u0646",
+        "\u06a4\u0627\u06a4\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fefine",
+        "F\u00e2fine",
+        "V\u0101v\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170498
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4efccdc81bca14494de1cba6d5cde684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1344251683,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344251683,
+    "wof:lastmodified":1537702127,
+    "wof:name":"Vavin",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24435,
+    36.34925,
+    37.24435,
+    36.34925
+],
+  "geometry": {"coordinates":[37.24435,36.34925],"type":"Point"}
+}

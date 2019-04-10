@@ -1,0 +1,73 @@
+{
+  "id": 1242855681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80681,34.55823,38.80681,34.55823",
+    "geom:latitude":34.55823,
+    "geom:longitude":38.80681,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abar al Mawahib",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432992,
+    "gn:latitude":34.55823,
+    "gn:longitude":38.80681,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u0100b\u0101r al Maw\u0101h\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0628\u0627\u0631 \u0627\u0644\u0645\u0648\u0627\u0647\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0100b\u0101r al Maw\u0101h\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432992
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f77088dc04e76ca12ed2610f4e965d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1242855681,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242855681,
+    "wof:lastmodified":1537702462,
+    "wof:name":"Abar al Mawahib",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80681,
+    34.55823,
+    38.80681,
+    34.55823
+],
+  "geometry": {"coordinates":[38.80681,34.55823],"type":"Point"}
+}

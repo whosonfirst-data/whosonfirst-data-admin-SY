@@ -1,0 +1,70 @@
+{
+  "id": 1209115739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.47152,36.86912,41.47152,36.86912",
+    "geom:latitude":36.86912,
+    "geom:longitude":41.47152,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat an Na`j",
+    "gn:country_code":"SY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168089,
+    "gn:latitude":36.86912,
+    "gn:longitude":41.47152,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat an Na\u2018j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0646\u0639\u062c"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat an Na\u2018j"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet enn Naaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168089
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"23015a9fe1bb0bd0a94529678ea99d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209115739
+        }
+    ],
+    "wof:id":1209115739,
+    "wof:lastmodified":1537701968,
+    "wof:name":"Khirbat an Na`j",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.47152,
+    36.86912,
+    41.47152,
+    36.86912
+],
+  "geometry": {"coordinates":[41.47152,36.86912],"type":"Point"}
+}

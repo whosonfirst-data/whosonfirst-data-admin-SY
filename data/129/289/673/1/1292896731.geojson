@@ -1,0 +1,81 @@
+{
+  "id": 1292896731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44305,33.57429,36.44305,33.57429",
+    "geom:latitude":33.57429,
+    "geom:longitude":36.44305,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ar Rayhan",
+    "gn:country_code":"SY",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172942,
+    "gn:latitude":33.57429,
+    "gn:longitude":36.44305,
+    "gn:modification_date":"2018-04-03",
+    "gn:name":"Ar Ray\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Er R\u00eeh\u00e2n\u00e9",
+        "Rihan\u00e9",
+        "Ar Ray\u1e29\u0101nah",
+        "Ray\u1e29\u0101n",
+        "Ar Ray\u1e29\u0101n",
+        "Al-Reyhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172942
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"240aaa109c7220e6ae1666dd4b7a41b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1292896731,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1292896731,
+    "wof:lastmodified":1537702301,
+    "wof:name":"Ar Rayhan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44305,
+    33.57429,
+    36.44305,
+    33.57429
+],
+  "geometry": {"coordinates":[36.44305,33.57429],"type":"Point"}
+}

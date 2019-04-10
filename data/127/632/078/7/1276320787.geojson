@@ -1,0 +1,75 @@
+{
+  "id": 1276320787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71404,36.08965,36.71404,36.08965",
+    "geom:latitude":36.08965,
+    "geom:longitude":36.71404,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hazzanu",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169618,
+    "gn:latitude":36.08965,
+    "gn:longitude":36.71404,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1e28azz\u0101n\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0632\u0627\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Hazz\u0101no",
+        "\u1e28azz\u0101n\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169618,
+        "wk:page":"Hizano"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ba8a502800b846101a23034411d556a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1276320787,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276320787,
+    "wof:lastmodified":1537702077,
+    "wof:name":"Hazzanu",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71404,
+    36.08965,
+    36.71404,
+    36.08965
+],
+  "geometry": {"coordinates":[36.71404,36.08965],"type":"Point"}
+}

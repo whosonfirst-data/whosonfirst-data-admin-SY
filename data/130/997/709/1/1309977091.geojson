@@ -1,0 +1,75 @@
+{
+  "id": 1309977091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.992,35.22219,35.992,35.22219",
+    "geom:latitude":35.22219,
+    "geom:longitude":35.992,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Btallah",
+    "gn:country_code":"SY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171263,
+    "gn:latitude":35.22219,
+    "gn:longitude":35.992,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"B\u0163allah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Btall\u00e9",
+        "B\u0163allah",
+        "Bi\u0163allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171263
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"45660f6549c2e38610b54864d4f57cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309977091,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309977091,
+    "wof:lastmodified":1537702182,
+    "wof:name":"Btallah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.992,
+    35.22219000000001,
+    35.992,
+    35.22219000000001
+],
+  "geometry": {"coordinates":[35.992,35.22219000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209793881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67534,34.8241,36.67534,34.8241",
+    "geom:latitude":34.8241,
+    "geom:longitude":36.67534,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Halamuz",
+    "gn:country_code":"SY",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173851,
+    "gn:latitude":34.8241,
+    "gn:longitude":36.67534,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al \u1e28alam\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0645\u0648\u0632"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u0645\u0648\u0632",
+        "\u0627\u0644\u0636\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Halamouze",
+        "Halamo\u00fbz",
+        "Al \u1e28alam\u016bz",
+        "\u1e28alam\u016bz",
+        "A\u1e11 \u1e10iffah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173851
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0471a32cb908e0dada1426e3d32a77ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1209793881,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209793881,
+    "wof:lastmodified":1537702370,
+    "wof:name":"Al Halamuz",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67534000000001,
+    34.8241,
+    36.67534000000001,
+    34.8241
+],
+  "geometry": {"coordinates":[36.67534000000001,34.8241],"type":"Point"}
+}

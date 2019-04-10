@@ -1,0 +1,72 @@
+{
+  "id": 1209398649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57731,35.02643,36.57731,35.02643",
+    "geom:latitude":35.02643,
+    "geom:longitude":36.57731,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mu`ah",
+    "gn:country_code":"SY",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173453,
+    "gn:latitude":35.02643,
+    "gn:longitude":36.57731,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al M\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u016b\u2018\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mo\u00fba\u00e2",
+        "Al M\u016b\u2018ah",
+        "Moua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173453
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"923483c4a0d5c1ec522200383b1e9ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209398649
+        }
+    ],
+    "wof:id":1209398649,
+    "wof:lastmodified":1537702336,
+    "wof:name":"Al Mu`ah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57731,
+    35.02643,
+    36.57731,
+    35.02643
+],
+  "geometry": {"coordinates":[36.57731,35.02643],"type":"Point"}
+}

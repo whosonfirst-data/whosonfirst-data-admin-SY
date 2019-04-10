@@ -1,0 +1,73 @@
+{
+  "id": 1293282067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58519,35.94048,37.58519,35.94048",
+    "geom:latitude":35.94048,
+    "geom:longitude":37.58519,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Bab",
+    "gn:country_code":"SY",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341876,
+    "gn:latitude":35.94048,
+    "gn:longitude":37.58519,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al B\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al B\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341876
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"966537ab7f975159451a977ebfb19f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293282067,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293282067,
+    "wof:lastmodified":1537702541,
+    "wof:name":"Al Bab",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58519,
+    35.94048,
+    37.58519,
+    35.94048
+],
+  "geometry": {"coordinates":[37.58519,35.94048],"type":"Point"}
+}

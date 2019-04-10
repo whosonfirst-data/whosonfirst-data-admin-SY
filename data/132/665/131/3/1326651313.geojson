@@ -1,0 +1,76 @@
+{
+  "id": 1326651313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35778,35.1434,40.35778,35.1434",
+    "geom:latitude":35.1434,
+    "geom:longitude":40.35778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sillu",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164113,
+    "gn:latitude":35.1434,
+    "gn:longitude":40.35778,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sill\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sill\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164113
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c362ca8aca4a11555d10c0da000ac94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779151,
+            "locality_id":1326651313,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1326651313,
+    "wof:lastmodified":1537701716,
+    "wof:name":"Sillu",
+    "wof:parent_id":1108779151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35778,
+    35.1434,
+    40.35778,
+    35.1434
+],
+  "geometry": {"coordinates":[40.35778,35.1434],"type":"Point"}
+}

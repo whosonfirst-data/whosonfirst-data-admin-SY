@@ -1,0 +1,75 @@
+{
+  "id": 1276430915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78828,36.1353,36.78828,36.1353",
+    "geom:latitude":36.1353,
+    "geom:longitude":36.78828,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Nasih",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168655,
+    "gn:latitude":36.1353,
+    "gn:longitude":36.78828,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kafr N\u0101\u015fi\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0646\u0627\u0635\u062d"
+    ],
+    "name:und_x_variant":[
+        "Kafer N\u00e2sseh",
+        "Kafer Nassih",
+        "Kafr N\u0101\u015fi\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168655
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5b9c68e785ab286cbbcf993f7278baeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276430915,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276430915,
+    "wof:lastmodified":1537702009,
+    "wof:name":"Kafr Nasih",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78828,
+    36.1353,
+    36.78828,
+    36.1353
+],
+  "geometry": {"coordinates":[36.78828,36.1353],"type":"Point"}
+}

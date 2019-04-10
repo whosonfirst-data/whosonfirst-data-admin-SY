@@ -1,0 +1,73 @@
+{
+  "id": 1242791881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88222,35.81274,40.88222,35.81274",
+    "geom:latitude":35.81274,
+    "geom:longitude":40.88222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Alwah Muhammad Ibrahim",
+    "gn:country_code":"SY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540104,
+    "gn:latitude":35.81274,
+    "gn:longitude":40.88222,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Alwah Mu\u1e29ammad Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0629 \u0645\u062d\u0645\u062f \u0627\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Alwah Mu\u1e29ammad Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540104
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"09caa4dcdb7af97834b93d326a744156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1242791881,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242791881,
+    "wof:lastmodified":1537702577,
+    "wof:name":"`Alwah Muhammad Ibrahim",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88222,
+    35.81274000000001,
+    40.88222,
+    35.81274000000001
+],
+  "geometry": {"coordinates":[40.88222,35.81274000000001],"type":"Point"}
+}

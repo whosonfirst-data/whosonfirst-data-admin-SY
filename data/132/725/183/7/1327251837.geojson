@@ -1,0 +1,73 @@
+{
+  "id": 1327251837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85686,35.05762,36.85686,35.05762",
+    "geom:latitude":35.05762,
+    "geom:longitude":36.85686,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ash Shaykh `Abd Allah",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555453,
+    "gn:latitude":35.05762,
+    "gn:longitude":36.85686,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ash Shaykh \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaykh \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555453
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7f228e1bb7054d41b1ff3d824d6d1ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327251837,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327251837,
+    "wof:lastmodified":1537702637,
+    "wof:name":"Ash Shaykh `Abd Allah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85686,
+    35.05762,
+    36.85686,
+    35.05762
+],
+  "geometry": {"coordinates":[36.85686,35.05762],"type":"Point"}
+}

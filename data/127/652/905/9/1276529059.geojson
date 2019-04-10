@@ -1,0 +1,79 @@
+{
+  "id": 1276529059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51069,34.77269,36.51069,34.77269",
+    "geom:latitude":34.77269,
+    "geom:longitude":36.51069,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tarin",
+    "gn:country_code":"SY",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163352,
+    "gn:latitude":34.77269,
+    "gn:longitude":36.51069,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"T\u0101r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u0101r\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "T\u0101r\u012bn",
+        "\u062a\u0627\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2r\u00eene",
+        "\u0162\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163352,
+        "wk:page":"Tarin%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b8b508efb07b0e8e6351f2854207730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1276529059,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276529059,
+    "wof:lastmodified":1537701651,
+    "wof:name":"Tarin",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51069,
+    34.77269,
+    36.51069,
+    34.77269
+],
+  "geometry": {"coordinates":[36.51069,34.77269],"type":"Point"}
+}

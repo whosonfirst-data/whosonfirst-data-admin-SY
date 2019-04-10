@@ -1,0 +1,78 @@
+{
+  "id": 1309812563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19624,35.7464,36.19624,35.7464",
+    "geom:latitude":35.7464,
+    "geom:longitude":36.19624,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayrunah",
+    "gn:country_code":"SY",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170752,
+    "gn:latitude":35.7464,
+    "gn:longitude":36.19624,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Dayr\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631\u0648\u0646\u0629 \u0627\u0644\u0623\u0643\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "De\u00efro\u00fbn\u00e9",
+        "Dayr\u016bnah",
+        "Dayr\u016bnat al Akr\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170752
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e6dd4b2463661f563cbff25bb55fb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1309812563,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309812563,
+    "wof:lastmodified":1537702143,
+    "wof:name":"Dayrunah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19624,
+    35.7464,
+    36.19624,
+    35.7464
+],
+  "geometry": {"coordinates":[36.19624,35.7464],"type":"Point"}
+}

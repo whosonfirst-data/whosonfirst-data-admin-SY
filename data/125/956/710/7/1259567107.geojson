@@ -1,0 +1,73 @@
+{
+  "id": 1259567107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15757,35.46837,37.15757,35.46837",
+    "geom:latitude":35.46837,
+    "geom:longitude":37.15757,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Aqlah",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340586,
+    "gn:latitude":35.46837,
+    "gn:longitude":37.15757,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018Aqlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aqlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340586
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b6ccda713f222a8d354030b4d4b1470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259567107,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259567107,
+    "wof:lastmodified":1537702536,
+    "wof:name":"`Aqlah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15757,
+    35.46837,
+    37.15757,
+    35.46837
+],
+  "geometry": {"coordinates":[37.15757,35.46837],"type":"Point"}
+}

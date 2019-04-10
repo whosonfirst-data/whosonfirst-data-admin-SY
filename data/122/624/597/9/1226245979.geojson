@@ -1,0 +1,75 @@
+{
+  "id": 1226245979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06626,35.73009,36.06626,35.73009",
+    "geom:latitude":35.73009,
+    "geom:longitude":36.06626,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kaslajuk",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168531,
+    "gn:latitude":35.73009,
+    "gn:longitude":36.06626,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kaslaj\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u0644\u062c\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Kesladjo\u00fbq",
+        "Kasl\u0101j\u016bq",
+        "Kaslaj\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168531
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e6d87d2e8dfee29d0c3b4a15a5dd18c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226245979,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226245979,
+    "wof:lastmodified":1537701999,
+    "wof:name":"Kaslajuk",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06626,
+    35.73009000000001,
+    36.06626,
+    35.73009000000001
+],
+  "geometry": {"coordinates":[36.06626,35.73009000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292990647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12107,35.87844,38.12107,35.87844",
+    "geom:latitude":35.87844,
+    "geom:longitude":38.12107,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Mahmud Dahham Hammad",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6868,
+    "gn:latitude":35.87844,
+    "gn:longitude":38.12107,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ab\u016b Ma\u1e29m\u016bd Da\u1e29\u1e29\u0101m \u1e28amm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0645\u062d\u0645\u0648\u062f \u062f\u062d\u0627\u0645 \u062d\u0645\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Ma\u1e29m\u016bd Da\u1e29\u1e29\u0101m \u1e28amm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6868
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"11e864e17793990e735ca281d1f5fa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1292990647,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292990647,
+    "wof:lastmodified":1537701558,
+    "wof:name":"Abu Mahmud Dahham Hammad",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12107,
+    35.87844000000001,
+    38.12107,
+    35.87844000000001
+],
+  "geometry": {"coordinates":[38.12107,35.87844000000001],"type":"Point"}
+}

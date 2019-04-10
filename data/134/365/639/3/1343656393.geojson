@@ -1,0 +1,74 @@
+{
+  "id": 1343656393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42928,35.18132,40.42928,35.18132",
+    "geom:latitude":35.18132,
+    "geom:longitude":40.42928,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Fulayt",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173889,
+    "gn:latitude":35.18132,
+    "gn:longitude":40.42928,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Al Fulayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0644\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Fulayl",
+        "Al Fulayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173889
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c4c39cee3bde801eb441cdaa9aa25267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343656393,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343656393,
+    "wof:lastmodified":1537702373,
+    "wof:name":"Al Fulayt",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42928,
+    35.18132,
+    40.42928,
+    35.18132
+],
+  "geometry": {"coordinates":[40.42928,35.18132],"type":"Point"}
+}

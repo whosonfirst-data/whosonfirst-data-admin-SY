@@ -1,0 +1,73 @@
+{
+  "id": 1326740093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42745,36.19942,40.42745,36.19942",
+    "geom:latitude":36.19942,
+    "geom:longitude":40.42745,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm al Jafa",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385455,
+    "gn:latitude":36.19942,
+    "gn:longitude":40.42745,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm al Jaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062c\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "Umm al Jaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385455
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b8a443a4dc444ce8080b6bcddb38cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1326740093,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326740093,
+    "wof:lastmodified":1537702427,
+    "wof:name":"Umm al Jafa",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42745,
+    36.19942,
+    40.42745,
+    36.19942
+],
+  "geometry": {"coordinates":[40.42745,36.19942],"type":"Point"}
+}

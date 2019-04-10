@@ -1,0 +1,76 @@
+{
+  "id": 1327008185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35941,34.67866,36.35941,34.67866",
+    "geom:latitude":34.67866,
+    "geom:longitude":36.35941,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"An Na`urah",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173173,
+    "gn:latitude":34.67866,
+    "gn:longitude":36.35941,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"An N\u0101\u2018\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0639\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u00e2o\u00fbra",
+        "An Naaoura",
+        "En Naoura",
+        "An N\u0101\u2018\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173173
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"024040b2bb4c2071ac823ffc05ea8529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1327008185,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327008185,
+    "wof:lastmodified":1537702315,
+    "wof:name":"An Na`urah",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35941,
+    34.67866,
+    36.35941,
+    34.67866
+],
+  "geometry": {"coordinates":[36.35941,34.67866],"type":"Point"}
+}

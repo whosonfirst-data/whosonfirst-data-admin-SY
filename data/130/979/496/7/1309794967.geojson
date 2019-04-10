@@ -1,0 +1,70 @@
+{
+  "id": 1309794967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54406,35.03455,37.54406,35.03455",
+    "geom:latitude":35.03455,
+    "geom:longitude":37.54406,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm ash Shaykh",
+    "gn:country_code":"SY",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420130,
+    "gn:latitude":35.03455,
+    "gn:longitude":37.54406,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm ash Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420130
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b1c90fe9c7383edbe560582a4481a1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1309794967,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309794967,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Rasm ash Shaykh",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54406,
+    35.03455,
+    37.54406,
+    35.03455
+],
+  "geometry": {"coordinates":[37.54406,35.03455],"type":"Point"}
+}

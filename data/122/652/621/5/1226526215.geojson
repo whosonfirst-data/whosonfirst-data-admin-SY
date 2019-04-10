@@ -1,0 +1,75 @@
+{
+  "id": 1226526215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39638,35.68842,36.39638,35.68842",
+    "geom:latitude":35.68842,
+    "geom:longitude":36.39638,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qastun ash Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165933,
+    "gn:latitude":35.68842,
+    "gn:longitude":36.39638,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qas\u0163\u016bn ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0633\u0637\u0648\u0646 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qasto\u00fbn ech Charqi",
+        "Qasto\u00fbn esh Charqi",
+        "Qas\u0163\u016bn ash Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165933
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0c7220a87dfd8b1d4fa98b9541342d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1226526215,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226526215,
+    "wof:lastmodified":1537701822,
+    "wof:name":"Qastun ash Sharqi",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39638,
+    35.68842,
+    36.39638,
+    35.68842
+],
+  "geometry": {"coordinates":[36.39638,35.68842],"type":"Point"}
+}

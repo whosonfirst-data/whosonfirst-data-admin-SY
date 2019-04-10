@@ -1,0 +1,76 @@
+{
+  "id": 1343345169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02407,35.37153,37.02407,35.37153",
+    "geom:latitude":35.37153,
+    "geom:longitude":37.02407,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hazim",
+    "gn:country_code":"SY",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173786,
+    "gn:latitude":35.37153,
+    "gn:longitude":37.02407,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al \u1e28\u0101zim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101zim"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "El H\u00e2z\u00e9m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173786
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"971f395feb889f031b2af61fba00d7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343345169,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343345169,
+    "wof:lastmodified":1537702364,
+    "wof:name":"Al Hazim",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02407,
+    35.37153,
+    37.02407,
+    35.37153
+],
+  "geometry": {"coordinates":[37.02407,35.37153],"type":"Point"}
+}

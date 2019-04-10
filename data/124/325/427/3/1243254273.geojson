@@ -1,0 +1,73 @@
+{
+  "id": 1243254273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51452,33.57783,36.51452,33.57783",
+    "geom:latitude":33.57783,
+    "geom:longitude":36.51452,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard `Awjan",
+    "gn:country_code":"SY",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346437,
+    "gn:latitude":33.57783,
+    "gn:longitude":36.51452,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 \u2018Awj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar\u1e11 \u2018Awj\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0636 \u0639\u0648\u062c\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346437
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7cc006b8401eb142fa1aa30237272474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243254273,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243254273,
+    "wof:lastmodified":1537702549,
+    "wof:name":"Ard `Awjan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51452000000001,
+    33.57783,
+    36.51452000000001,
+    33.57783
+],
+  "geometry": {"coordinates":[36.51452000000001,33.57783],"type":"Point"}
+}

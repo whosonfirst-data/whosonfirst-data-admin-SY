@@ -1,0 +1,75 @@
+{
+  "id": 1243076433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11532,35.68824,36.11532,35.68824",
+    "geom:latitude":35.68824,
+    "geom:longitude":36.11532,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Murayj",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169408,
+    "gn:latitude":35.68824,
+    "gn:longitude":36.11532,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Murayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Hza\u00efr\u00eene",
+        "\u1e28zayr\u012bn",
+        "Murayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169408
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"65847fc751c684c35841ca04173a264c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1243076433,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243076433,
+    "wof:lastmodified":1537702064,
+    "wof:name":"Murayj",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11532,
+    35.68824,
+    36.11532,
+    35.68824
+],
+  "geometry": {"coordinates":[36.11532,35.68824],"type":"Point"}
+}

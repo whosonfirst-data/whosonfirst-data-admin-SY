@@ -1,0 +1,81 @@
+{
+  "id": 1310392609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70351,35.98262,36.70351,35.98262",
+    "geom:latitude":35.98262,
+    "geom:longitude":36.70351,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Fu`ah",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170365,
+    "gn:latitude":35.98262,
+    "gn:longitude":36.70351,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Al F\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u016b\u2018\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0648\u0639\u0629",
+        "\u0627\u0644\u0641\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fou\u2019a",
+        "F\u016b\u2018ah",
+        "Foua\u00e2",
+        "F\u016b\u2018\u0101",
+        "Al F\u016b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170365
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c9dc2c681fcd5117553c8117ab1c97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1310392609,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310392609,
+    "wof:lastmodified":1537702120,
+    "wof:name":"Al Fu`ah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70351,
+    35.98262000000001,
+    36.70351,
+    35.98262000000001
+],
+  "geometry": {"coordinates":[36.70351,35.98262000000001],"type":"Point"}
+}

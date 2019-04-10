@@ -1,0 +1,71 @@
+{
+  "id": 1209203643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3077,35.36678,36.3077,35.36678",
+    "geom:latitude":35.36678,
+    "geom:longitude":36.3077,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Khansa'",
+    "gn:country_code":"SY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556226,
+    "gn:latitude":35.36678,
+    "gn:longitude":36.3077,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Khans\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0646\u0633\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0639\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khans\u0101\u2019",
+        "Ash Sha\u2018thah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556226
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"633cdc3f3a859854034273e3a7082414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209203643
+        }
+    ],
+    "wof:id":1209203643,
+    "wof:lastmodified":1537702640,
+    "wof:name":"Al Khansa'",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3077,
+    35.36678,
+    36.3077,
+    35.36678
+],
+  "geometry": {"coordinates":[36.3077,35.36678],"type":"Point"}
+}

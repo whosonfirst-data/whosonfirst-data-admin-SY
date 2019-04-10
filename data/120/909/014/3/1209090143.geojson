@@ -1,0 +1,72 @@
+{
+  "id": 1209090143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91116,35.1644,36.91116,35.1644",
+    "geom:latitude":35.1644,
+    "geom:longitude":36.91116,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al `Uyur",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173291,
+    "gn:latitude":35.1644,
+    "gn:longitude":36.91116,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al \u2018Uy\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u064a\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "El Aaoue\u00efr",
+        "Al \u2018Uwayr",
+        "Al \u2018Uy\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173291
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d7e4dd03c8a9b040e6917d32304fb33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209090143
+        }
+    ],
+    "wof:id":1209090143,
+    "wof:lastmodified":1537702322,
+    "wof:name":"Al `Uyur",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91116,
+    35.1644,
+    36.91116,
+    35.1644
+],
+  "geometry": {"coordinates":[36.91116,35.1644],"type":"Point"}
+}

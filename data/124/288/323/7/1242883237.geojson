@@ -1,0 +1,76 @@
+{
+  "id": 1242883237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97844,35.51756,35.97844,35.51756",
+    "geom:latitude":35.51756,
+    "geom:longitude":35.97844,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dubayqah",
+    "gn:country_code":"SY",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174236,
+    "gn:latitude":35.51756,
+    "gn:longitude":35.97844,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dubayqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dbaiqa",
+        "Dabka",
+        "Ad Dubayqah",
+        "Dubayqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174236
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"09c113be62130e708eaac2a1d1190825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1242883237,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242883237,
+    "wof:lastmodified":1537702399,
+    "wof:name":"Dubayqah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97844,
+    35.51756,
+    35.97844,
+    35.51756
+],
+  "geometry": {"coordinates":[35.97844,35.51756],"type":"Point"}
+}

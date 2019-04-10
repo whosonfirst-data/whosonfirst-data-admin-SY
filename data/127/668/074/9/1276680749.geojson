@@ -1,0 +1,76 @@
+{
+  "id": 1276680749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02605,33.02231,36.02605,33.02231",
+    "geom:latitude":33.02231,
+    "geom:longitude":36.02605,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nimr",
+    "gn:country_code":"SY",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173186,
+    "gn:latitude":33.02231,
+    "gn:longitude":36.02605,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nimr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "An N\u0101mir",
+        "Namr",
+        "N\u00e2mer",
+        "Nimr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173186
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e907757bb1e2e907c770ca98e61b4d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1276680749,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276680749,
+    "wof:lastmodified":1537702316,
+    "wof:name":"Nimr",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02605,
+    33.02231,
+    36.02605,
+    33.02231
+],
+  "geometry": {"coordinates":[36.02605,33.02231],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344250913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15712,35.41304,37.15712,35.41304",
+    "geom:latitude":35.41304,
+    "geom:longitude":37.15712,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340597,
+    "gn:latitude":35.41304,
+    "gn:longitude":37.15712,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rasm \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340597
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b03476cadf593f3c359533622b8176b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1344250913,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344250913,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Rasm Hammam",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15712,
+    35.41304,
+    37.15712,
+    35.41304
+],
+  "geometry": {"coordinates":[37.15712,35.41304],"type":"Point"}
+}

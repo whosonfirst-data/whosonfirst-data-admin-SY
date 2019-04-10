@@ -1,0 +1,76 @@
+{
+  "id": 1209786721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9333,35.13684,35.9333,35.13684",
+    "geom:latitude":35.13684,
+    "geom:longitude":35.9333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marah",
+    "gn:country_code":"SY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173507,
+    "gn:latitude":35.13684,
+    "gn:longitude":35.9333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mar\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mr\u00e2h",
+        "Mar\u00e2h",
+        "Al Mar\u0101\u1e29",
+        "Mar\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173507
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ccb399a9b72e4be6f9d3eeae2f592e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1209786721,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1209786721,
+    "wof:lastmodified":1537702341,
+    "wof:name":"Marah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9333,
+    35.13684,
+    35.9333,
+    35.13684
+],
+  "geometry": {"coordinates":[35.9333,35.13684],"type":"Point"}
+}

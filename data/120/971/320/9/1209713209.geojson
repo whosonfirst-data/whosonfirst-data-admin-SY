@@ -1,0 +1,75 @@
+{
+  "id": 1209713209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.059,33.08569,36.059,33.08569",
+    "geom:latitude":33.08569,
+    "geom:longitude":36.059,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Umm al `Awsaj",
+    "gn:country_code":"SY",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163007,
+    "gn:latitude":33.08569,
+    "gn:longitude":36.059,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Umm al \u2018Awsaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0648\u0633\u062c"
+    ],
+    "name:und_x_variant":[
+        "Oumm el Aaoussaj",
+        "Oum el Aaoussaj",
+        "Umm al \u2018Awsaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163007
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12f7149c836acf126d07653a599fc773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1209713209,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1209713209,
+    "wof:lastmodified":1537701630,
+    "wof:name":"Umm al `Awsaj",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.059,
+    33.08569,
+    36.059,
+    33.08569
+],
+  "geometry": {"coordinates":[36.059,33.08569],"type":"Point"}
+}

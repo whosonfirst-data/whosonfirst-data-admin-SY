@@ -1,0 +1,73 @@
+{
+  "id": 1259466879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.69255,35.21797,37.69255,35.21797",
+    "geom:latitude":35.21797,
+    "geom:longitude":37.69255,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bir as Sib",
+    "gn:country_code":"SY",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342624,
+    "gn:latitude":35.21797,
+    "gn:longitude":37.69255,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br as S\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0633\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "B\u012br as S\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342624
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7f5b726c26d1f474fab5f613b45ff982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259466879,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259466879,
+    "wof:lastmodified":1537702546,
+    "wof:name":"Bir as Sib",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.69255,
+    35.21797,
+    37.69255,
+    35.21797
+],
+  "geometry": {"coordinates":[37.69255,35.21797],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260368427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5766,34.45667,36.5766,34.45667",
+    "geom:latitude":34.45667,
+    "geom:longitude":36.5766,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zira`ah",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162421,
+    "gn:latitude":34.45667,
+    "gn:longitude":36.5766,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Zir\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zara\u2018a",
+        "Zarr\u00e2a",
+        "Zer\u0101\u2018a",
+        "Zir\u0101\u2018ah",
+        "Zira'a",
+        "Zerraa",
+        "Zirhagh",
+        "Zar'a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162421,
+        "wk:page":"Zira'a"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6142a260af93482b5fcd72e0d8e9a8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1260368427,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260368427,
+    "wof:lastmodified":1537701589,
+    "wof:name":"Zira`ah",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5766,
+    34.45667,
+    36.5766,
+    34.45667
+],
+  "geometry": {"coordinates":[36.5766,34.45667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276789003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92845,32.88806,35.92845,32.88806",
+    "geom:latitude":32.88806,
+    "geom:longitude":35.92845,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazra`ah",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173473,
+    "gn:latitude":32.88806,
+    "gn:longitude":35.92845,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mazra\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u00e2",
+        "Al Mazra\u2018ah",
+        "Mazra\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173473
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7f06efa096d7d8a7d898ae88e6e35146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1276789003,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276789003,
+    "wof:lastmodified":1537702337,
+    "wof:name":"Mazra`ah",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92845,
+    32.88806,
+    35.92845,
+    32.88806
+],
+  "geometry": {"coordinates":[35.92845,32.88806],"type":"Point"}
+}

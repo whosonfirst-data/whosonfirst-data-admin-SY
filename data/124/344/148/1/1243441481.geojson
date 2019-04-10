@@ -1,0 +1,80 @@
+{
+  "id": 1243441481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43441,35.83305,36.43441,35.83305",
+    "geom:latitude":35.83305,
+    "geom:longitude":36.43441,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Biftamun",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4652,
+    "gn:latitude":35.83305,
+    "gn:longitude":36.43441,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bif\u0163\u0101m\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0641\u0637\u0645\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0641\u0637\u0627\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Baq\u0163am\u016bn",
+        "Bifa\u0163m\u016bn",
+        "Bfatmo\u00fbn",
+        "Bfa\u0163m\u016bn",
+        "Bif\u0163\u0101m\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4652
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94ce89701778105ee85928a7a235ba21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1243441481,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243441481,
+    "wof:lastmodified":1537701550,
+    "wof:name":"Biftamun",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43441,
+    35.83305,
+    36.43441,
+    35.83305
+],
+  "geometry": {"coordinates":[36.43441,35.83305],"type":"Point"}
+}

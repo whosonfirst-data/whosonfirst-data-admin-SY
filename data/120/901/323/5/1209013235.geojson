@@ -1,0 +1,70 @@
+{
+  "id": 1209013235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11381,35.31782,36.11381,35.31782",
+    "geom:latitude":35.31782,
+    "geom:longitude":36.11381,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn at Tinah",
+    "gn:country_code":"SY",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172158,
+    "gn:latitude":35.31782,
+    "gn:longitude":36.11381,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn at T\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn ett T\u00een\u00e9",
+        "A\u00efn et T\u00een\u00e9",
+        "A\u00efn et Tina",
+        "\u2018Ayn at T\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172158
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"439e82549be23a715c86f92e530895f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209013235
+        }
+    ],
+    "wof:id":1209013235,
+    "wof:lastmodified":1537702252,
+    "wof:name":"`Ayn at Tinah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11381,
+    35.31782000000001,
+    36.11381,
+    35.31782000000001
+],
+  "geometry": {"coordinates":[36.11381,35.31782000000001],"type":"Point"}
+}

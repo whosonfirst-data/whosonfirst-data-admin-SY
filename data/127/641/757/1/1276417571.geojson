@@ -1,0 +1,73 @@
+{
+  "id": 1276417571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50715,36.23906,36.50715,36.23906",
+    "geom:latitude":36.23906,
+    "geom:longitude":36.50715,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"`Uyun al `Ajur",
+    "gn:country_code":"SY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330304,
+    "gn:latitude":36.23906,
+    "gn:longitude":36.50715,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"\u2018Uy\u016bn al \u2018Aj\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0648\u0646 \u0627\u0644\u0639\u062c\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Uy\u016bn al \u2018Aj\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330304
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"996171d56efd0d1b36df0c0f3e00198f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1276417571,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276417571,
+    "wof:lastmodified":1537702528,
+    "wof:name":"`Uyun al `Ajur",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50715,
+    36.23906,
+    36.50715,
+    36.23906
+],
+  "geometry": {"coordinates":[36.50715,36.23906],"type":"Point"}
+}

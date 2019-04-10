@@ -1,0 +1,99 @@
+{
+  "id": 1242662053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21519,36.78037,38.21519,36.78037",
+    "geom:latitude":36.78037,
+    "geom:longitude":38.21519,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qur Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165707,
+    "gn:latitude":36.78037,
+    "gn:longitude":38.21519,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Q\u016br Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qumsh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0648\u0645\u0634\u064a",
+        "\u0641\u0635\u0629",
+        "\u0642\u0648\u0645\u064a",
+        "\u0642\u0645\u0634\u064a",
+        "\u0642\u0648\u0631 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Qumish"
+    ],
+    "name:kur_x_variant":[
+        "Qomish",
+        "\u0642\u0648\u0645\u0634",
+        "\u0642\u06c6\u0645\u0634"
+    ],
+    "name:und_x_variant":[
+        "Houri",
+        "Q\u00f4mchi",
+        "Q\u016bmsh\u012b",
+        "Qawmsh\u012b",
+        "Qomsh\u012b",
+        "Fi\u015f\u015fah",
+        "Fi\u015fah",
+        "Qomi\u015f",
+        "Fi\u015f\u015fa",
+        "Fissa",
+        "Q\u016bm\u012b",
+        "Q\u016br Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165707
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f1899af710f764f8221777ba07bee4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1242662053,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242662053,
+    "wof:lastmodified":1537701804,
+    "wof:name":"Qur Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21519,
+    36.78037,
+    38.21519,
+    36.78037
+],
+  "geometry": {"coordinates":[38.21519,36.78037],"type":"Point"}
+}

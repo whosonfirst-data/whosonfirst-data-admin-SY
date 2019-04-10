@@ -1,0 +1,74 @@
+{
+  "id": 1243438665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93397,35.87854,37.93397,35.87854",
+    "geom:latitude":35.87854,
+    "geom:longitude":37.93397,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawwaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342020,
+    "gn:latitude":35.87854,
+    "gn:longitude":37.93397,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"\u015eaww\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015eaww\u0101n\u012byah",
+        "\u015euw\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342020
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"20395fd8c81345a4d698582c53160554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243438665,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243438665,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Sawwaniyah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93397,
+    35.87854,
+    37.93397,
+    35.87854
+],
+  "geometry": {"coordinates":[37.93397,35.87854],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276776391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17088,35.49428,36.17088,35.49428",
+    "geom:latitude":35.49428,
+    "geom:longitude":36.17088,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mulukh",
+    "gn:country_code":"SY",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166691,
+    "gn:latitude":35.49428,
+    "gn:longitude":36.17088,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mul\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mul\u016bkh"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0644\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "Mlo\u00fbkh",
+        "Ml\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166691
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18eaa64c0d3441b60ea5baa163bc75df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1276776391,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276776391,
+    "wof:lastmodified":1537701874,
+    "wof:name":"Mulukh",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17088,
+    35.49428,
+    36.17088,
+    35.49428
+],
+  "geometry": {"coordinates":[36.17088,35.49428],"type":"Point"}
+}

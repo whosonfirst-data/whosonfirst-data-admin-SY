@@ -1,0 +1,70 @@
+{
+  "id": 1209604931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95394,36.33925,36.95394,36.33925",
+    "geom:latitude":36.33925,
+    "geom:longitude":36.95394,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zuq al Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162376,
+    "gn:latitude":36.33925,
+    "gn:longitude":36.95394,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Z\u016bq al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0642 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zo\u00fbq el K\u00e9b\u00eer",
+        "Z\u00f4k el Kebir",
+        "Zouk el Kebir",
+        "Z\u016bq al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162376
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eaa5b64566187be82f648f9f4a064c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209604931
+        }
+    ],
+    "wof:id":1209604931,
+    "wof:lastmodified":1537701586,
+    "wof:name":"Zuq al Kabir",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95394,
+    36.33925,
+    36.95394,
+    36.33925
+],
+  "geometry": {"coordinates":[36.95394,36.33925],"type":"Point"}
+}

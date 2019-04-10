@@ -1,0 +1,75 @@
+{
+  "id": 1226445871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.976,35.41555,35.976,35.41555",
+    "geom:latitude":35.41555,
+    "geom:longitude":35.976,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat Marjan",
+    "gn:country_code":"SY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167993,
+    "gn:latitude":35.41555,
+    "gn:longitude":35.976,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Khirbat Marj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0645\u0631\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kheurb\u00e9 Merj\u00e2ne",
+        "Kheurbet Merj\u00e2ne",
+        "Khirbat Marj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167993
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"436d4a565dbe8ae5af3f7eb70b7b11ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1226445871,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226445871,
+    "wof:lastmodified":1537701960,
+    "wof:name":"Khirbat Marjan",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.976,
+    35.41555,
+    35.976,
+    35.41555
+],
+  "geometry": {"coordinates":[35.976,35.41555],"type":"Point"}
+}

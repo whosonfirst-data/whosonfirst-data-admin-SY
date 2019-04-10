@@ -1,0 +1,70 @@
+{
+  "id": 1209411113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18163,36.39675,38.18163,36.39675",
+    "geom:latitude":36.39675,
+    "geom:longitude":38.18163,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qushlat Yusuf Basha",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":165642,
+    "gn:latitude":36.39675,
+    "gn:longitude":38.18163,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qushlat Y\u016bsuf B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0644\u0629 \u064a\u0648\u0633\u0641 \u0628\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Yuses Pasha",
+        "Qeuchlet Yo\u00fbssef P\u00e2cha",
+        "Qichlet Youssef Pacha",
+        "Qushlat Y\u016bsuf B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165642
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4ddee4798285bfe42e1a07948772043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209411113
+        }
+    ],
+    "wof:id":1209411113,
+    "wof:lastmodified":1537701797,
+    "wof:name":"Qushlat Yusuf Basha",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18163,
+    36.39675,
+    38.18163,
+    36.39675
+],
+  "geometry": {"coordinates":[38.18163,36.39675],"type":"Point"}
+}

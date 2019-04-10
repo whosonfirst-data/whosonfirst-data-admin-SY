@@ -1,0 +1,79 @@
+{
+  "id": 1293270283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54182,34.82969,36.54182,34.82969",
+    "geom:latitude":34.82969,
+    "geom:longitude":36.54182,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Talil",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163185,
+    "gn:latitude":34.82969,
+    "gn:longitude":36.54182,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162l\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "T\u00e9lil",
+        "\u0162al\u012bl",
+        "\u0162l\u012bl",
+        "Tal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163185
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"858aaae3b0ad309f578c54c233957cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293270283,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293270283,
+    "wof:lastmodified":1537701642,
+    "wof:name":"Talil",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54182,
+    34.82969,
+    36.54182,
+    34.82969
+],
+  "geometry": {"coordinates":[36.54182,34.82969],"type":"Point"}
+}

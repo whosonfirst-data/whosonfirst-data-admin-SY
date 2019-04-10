@@ -1,0 +1,73 @@
+{
+  "id": 1226782627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59555,35.55952,38.59555,35.55952",
+    "geom:latitude":35.55952,
+    "geom:longitude":38.59555,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir al `Amalah",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347135,
+    "gn:latitude":35.55952,
+    "gn:longitude":38.59555,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br al \u2018Am\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0639\u0645\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u012br al \u2018Am\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347135
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e8053e89784d93ba0f97637d4362aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1226782627,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226782627,
+    "wof:lastmodified":1537702553,
+    "wof:name":"Bir al `Amalah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59555,
+    35.55952,
+    38.59555,
+    35.55952
+],
+  "geometry": {"coordinates":[38.59555,35.55952],"type":"Point"}
+}

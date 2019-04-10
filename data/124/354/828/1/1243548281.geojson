@@ -1,0 +1,73 @@
+{
+  "id": 1243548281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68592,35.14951,37.68592,35.14951",
+    "geom:latitude":35.14951,
+    "geom:longitude":37.68592,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hasaw",
+    "gn:country_code":"SY",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420154,
+    "gn:latitude":35.14951,
+    "gn:longitude":37.68592,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al \u1e28as\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28as\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8d589a1daf4de9a9509b36780415dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243548281,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243548281,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Al Hasaw",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68592,
+    35.14951,
+    37.68592,
+    35.14951
+],
+  "geometry": {"coordinates":[37.68592,35.14951],"type":"Point"}
+}

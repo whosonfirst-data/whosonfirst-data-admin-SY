@@ -1,0 +1,78 @@
+{
+  "id": 1210011089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49919,35.78159,37.49919,35.78159",
+    "geom:latitude":35.78159,
+    "geom:longitude":37.49919,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khanasir",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":168351,
+    "gn:latitude":35.78159,
+    "gn:longitude":37.49919,
+    "gn:modification_date":"2017-12-11",
+    "gn:name":"Khan\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qun\u0101sira",
+        "Khamassir",
+        "Khan\u00e2sser",
+        "Khan\u0101\u015fir",
+        "Khanasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168351,
+        "wk:page":"Khanasir"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e14d4572812e658db198cb1b9721c267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1210011089,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210011089,
+    "wof:lastmodified":1537701986,
+    "wof:name":"Khanasir",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49919000000001,
+    35.78159,
+    37.49919000000001,
+    35.78159
+],
+  "geometry": {"coordinates":[37.49919000000001,35.78159],"type":"Point"}
+}

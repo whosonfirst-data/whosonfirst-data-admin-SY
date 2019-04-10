@@ -1,0 +1,74 @@
+{
+  "id": 1309685925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07984,35.09713,36.07984,35.09713",
+    "geom:latitude":35.09713,
+    "geom:longitude":36.07984,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Khirbat al Qabw",
+    "gn:country_code":"SY",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168097,
+    "gn:latitude":35.09713,
+    "gn:longitude":36.07984,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Khirbat al Qabw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0642\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Qabou",
+        "Khirbat al Qabw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168097
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e5178c63d674d42847b3da85e62e3a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309685925,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309685925,
+    "wof:lastmodified":1537701969,
+    "wof:name":"Khirbat al Qabw",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07984,
+    35.09713,
+    36.07984,
+    35.09713
+],
+  "geometry": {"coordinates":[36.07984,35.09713],"type":"Point"}
+}

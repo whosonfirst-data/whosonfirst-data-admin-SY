@@ -1,0 +1,73 @@
+{
+  "id": 1226532027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64975,36.32628,37.64975,36.32628",
+    "geom:latitude":36.32628,
+    "geom:longitude":37.64975,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khan Kayar",
+    "gn:country_code":"SY",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12948,
+    "gn:latitude":36.32628,
+    "gn:longitude":37.64975,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u0101n Kay\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646 \u0643\u064a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101n Kay\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12948
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f02531e9539367d0f13ed82e2b591792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1226532027,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226532027,
+    "wof:lastmodified":1537701580,
+    "wof:name":"Khan Kayar",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64975,
+    36.32628,
+    37.64975,
+    36.32628
+],
+  "geometry": {"coordinates":[37.64975,36.32628],"type":"Point"}
+}

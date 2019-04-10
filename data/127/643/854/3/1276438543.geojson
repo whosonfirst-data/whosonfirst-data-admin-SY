@@ -1,0 +1,74 @@
+{
+  "id": 1276438543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08619,35.44294,40.08619,35.44294",
+    "geom:latitude":35.44294,
+    "geom:longitude":40.08619,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muhaymidah",
+    "gn:country_code":"SY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166747,
+    "gn:latitude":35.44294,
+    "gn:longitude":40.08619,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mu\u1e29aym\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u064a\u0645\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mohe\u00efm\u00eed\u00e9",
+        "Mu\u1e29aym\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166747
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"55debf7e5ca1fb840a62241f7418bfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1276438543,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1276438543,
+    "wof:lastmodified":1537701878,
+    "wof:name":"Muhaymidah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08619,
+    35.44294,
+    40.08619,
+    35.44294
+],
+  "geometry": {"coordinates":[40.08619,35.44294],"type":"Point"}
+}

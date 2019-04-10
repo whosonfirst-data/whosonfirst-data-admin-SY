@@ -1,0 +1,70 @@
+{
+  "id": 1277066303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.10771,35.8636,38.10771,35.8636",
+    "geom:latitude":35.8636,
+    "geom:longitude":38.10771,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Shuwaym",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866,
+    "gn:latitude":35.8636,
+    "gn:longitude":38.10771,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Khirbat Shuwaym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0634\u0648\u064a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9f10453e731569c95f1f9a039f6aa149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1277066303,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1277066303,
+    "wof:lastmodified":1537701558,
+    "wof:name":"Khirbat Shuwaym",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.10771,
+    35.8636,
+    38.10771,
+    35.8636
+],
+  "geometry": {"coordinates":[38.10771,35.8636],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242751613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17057,35.15057,36.17057,35.15057",
+    "geom:latitude":35.15057,
+    "geom:longitude":36.17057,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nawatif",
+    "gn:country_code":"SY",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173170,
+    "gn:latitude":35.15057,
+    "gn:longitude":36.17057,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Naw\u0101t\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u062a\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Nou\u00e2t\u00eef",
+        "An Naw\u0101\u0163\u012bf",
+        "Naw\u0101t\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173170
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b23064178d992a8856131106f616582c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1242751613,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242751613,
+    "wof:lastmodified":1537702315,
+    "wof:name":"Nawatif",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17057,
+    35.15057,
+    36.17057,
+    35.15057
+],
+  "geometry": {"coordinates":[36.17057,35.15057],"type":"Point"}
+}

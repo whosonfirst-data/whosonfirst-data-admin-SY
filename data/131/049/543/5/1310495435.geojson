@@ -1,0 +1,80 @@
+{
+  "id": 1310495435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50223,34.97414,36.50223,34.97414",
+    "geom:latitude":34.97414,
+    "geom:longitude":36.50223,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Humayrah",
+    "gn:country_code":"SY",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169486,
+    "gn:latitude":34.97414,
+    "gn:longitude":36.50223,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al \u1e28umayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0645\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hmir\u00e9",
+        "Hma\u00efri",
+        "\u1e28umayr\u012b",
+        "Al \u1e28umayr\u012b",
+        "Al \u1e28umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169486
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d28e02ef2aa64aa98f036612862fbd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310495435,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310495435,
+    "wof:lastmodified":1537702069,
+    "wof:name":"Al Humayrah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50223,
+    34.97414000000001,
+    36.50223,
+    34.97414000000001
+],
+  "geometry": {"coordinates":[36.50223,34.97414000000001],"type":"Point"}
+}

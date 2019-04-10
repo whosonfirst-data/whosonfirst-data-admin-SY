@@ -1,0 +1,68 @@
+{
+  "id": 1209423813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99334,35.87467,35.99334,35.87467",
+    "geom:latitude":35.87467,
+    "geom:longitude":35.99334,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aji Sou",
+    "gn:country_code":"SY",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174125,
+    "gn:latitude":35.87467,
+    "gn:longitude":35.99334,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Aji Sou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aj\u012b S\u016b"
+    ],
+    "name:ara_x_variant":[
+        "Aj\u012b \u015e\u016b",
+        "\u0623\u062c\u064a \u0635\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f252dbb6ee3c956b83695c74ff10f704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209423813
+        }
+    ],
+    "wof:id":1209423813,
+    "wof:lastmodified":1537702394,
+    "wof:name":"Aji Sou",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99334,
+    35.87467,
+    35.99334,
+    35.87467
+],
+  "geometry": {"coordinates":[35.99334,35.87467],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276747939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02969,35.8596,37.02969,35.8596",
+    "geom:latitude":35.8596,
+    "geom:longitude":37.02969,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall `Allush",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163686,
+    "gn:latitude":35.8596,
+    "gn:longitude":37.02969,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall \u2018All\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0644\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Tell Aalouche",
+        "Tell Aallo\u00fbch",
+        "Tel \u2018Allush",
+        "Tall \u2018All\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163686
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8f26b2104ed7fafa16cf43c9de911e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276747939,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276747939,
+    "wof:lastmodified":1537701685,
+    "wof:name":"Tall `Allush",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02969,
+    35.8596,
+    37.02969,
+    35.8596
+],
+  "geometry": {"coordinates":[37.02969,35.8596],"type":"Point"}
+}

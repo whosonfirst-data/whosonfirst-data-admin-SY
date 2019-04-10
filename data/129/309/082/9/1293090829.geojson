@@ -1,0 +1,75 @@
+{
+  "id": 1293090829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23877,35.87708,37.23877,35.87708",
+    "geom:latitude":35.87708,
+    "geom:longitude":37.23877,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Dahriyah as Sabah",
+    "gn:country_code":"SY",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162567,
+    "gn:latitude":35.87708,
+    "gn:longitude":37.23877,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall \u1e10ahr\u012byah a\u015f \u015eab\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0636\u0647\u0631\u064a\u0629 \u0627\u0644\u0635\u0628\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Zahr\u00eey\u00e9",
+        "Zahr\u012byah",
+        "Tall \u1e10ahr\u012byah a\u015f \u015eab\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162567
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"26e5040b172b2cda37a42aac23428f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293090829,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293090829,
+    "wof:lastmodified":1537701600,
+    "wof:name":"Tall Dahriyah as Sabah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23877,
+    35.87708,
+    37.23877,
+    35.87708
+],
+  "geometry": {"coordinates":[37.23877,35.87708],"type":"Point"}
+}

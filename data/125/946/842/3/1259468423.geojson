@@ -1,0 +1,73 @@
+{
+  "id": 1259468423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39022,33.47143,36.39022,33.47143",
+    "geom:latitude":33.47143,
+    "geom:longitude":36.39022,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"At Tatari",
+    "gn:country_code":"SY",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411956,
+    "gn:latitude":33.47143,
+    "gn:longitude":36.39022,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"A\u0163 \u0162a\u0163ar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0637\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162a\u0163ar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411956
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a395f6e3ac89533a18f45637392df65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1259468423,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259468423,
+    "wof:lastmodified":1537702560,
+    "wof:name":"At Tatari",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39022,
+    33.47143,
+    36.39022,
+    33.47143
+],
+  "geometry": {"coordinates":[36.39022,33.47143],"type":"Point"}
+}

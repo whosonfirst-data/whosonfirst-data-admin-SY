@@ -1,0 +1,77 @@
+{
+  "id": 1226330331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84791,34.95757,36.84791,34.95757",
+    "geom:latitude":34.95757,
+    "geom:longitude":36.84791,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Usaylah",
+    "gn:country_code":"SY",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162775,
+    "gn:latitude":34.95757,
+    "gn:longitude":36.84791,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u2018Usaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Osse\u00efleh",
+        "Aassa\u00efl\u00e9",
+        "\u2018Asaylih",
+        "Aasse\u00efliye",
+        "\u2018Usaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162775
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"02885a7385d6792014721485c4f8b822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1226330331,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226330331,
+    "wof:lastmodified":1537701614,
+    "wof:name":"`Usaylah",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84791,
+    34.95757,
+    36.84791,
+    34.95757
+],
+  "geometry": {"coordinates":[36.84791,34.95757],"type":"Point"}
+}

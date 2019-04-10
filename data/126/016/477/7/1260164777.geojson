@@ -1,0 +1,74 @@
+{
+  "id": 1260164777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27304,35.52801,37.27304,35.52801",
+    "geom:latitude":35.52801,
+    "geom:longitude":37.27304,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Najm az Zuhur",
+    "gn:country_code":"SY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166419,
+    "gn:latitude":35.52801,
+    "gn:longitude":37.27304,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Najm az Zuh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u0645 \u0627\u0644\u0632\u0647\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Najm ez Zouho\u00fbr",
+        "Najm az Zuh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166419
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4be14fb131abfa4ec6e70ac316e4354e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1260164777,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260164777,
+    "wof:lastmodified":1537701858,
+    "wof:name":"Najm az Zuhur",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27304,
+    35.52800999999999,
+    37.27304,
+    35.52800999999999
+],
+  "geometry": {"coordinates":[37.27304,35.52800999999999],"type":"Point"}
+}

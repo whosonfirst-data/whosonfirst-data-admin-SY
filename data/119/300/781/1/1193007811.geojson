@@ -1,0 +1,74 @@
+{
+  "id": 1193007811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66503,36.34,36.66503,36.34",
+    "geom:latitude":36.34,
+    "geom:longitude":36.66503,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dayr Ballut",
+    "gn:country_code":"SY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170789,
+    "gn:latitude":36.34,
+    "gn:longitude":36.66503,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Dayr Ball\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0628\u0644\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr Ballo\u00fbte",
+        "Dayr Ball\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170789
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e1885dfc1f0154dc2c818ad3914a07e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1193007811,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193007811,
+    "wof:lastmodified":1537702147,
+    "wof:name":"Dayr Ballut",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66503,
+    36.34,
+    36.66503,
+    36.34
+],
+  "geometry": {"coordinates":[36.66503,36.34],"type":"Point"}
+}

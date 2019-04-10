@@ -1,0 +1,75 @@
+{
+  "id": 1309812285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99929,35.74785,35.99929,35.74785",
+    "geom:latitude":35.74785,
+    "geom:longitude":35.99929,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Amlik",
+    "gn:country_code":"SY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173250,
+    "gn:latitude":35.74785,
+    "gn:longitude":35.99929,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Al Aml\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aml\u012bq"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645\u0644\u064a\u0642",
+        "Al Aml\u012bk",
+        "\u0627\u0644\u0623\u0645\u0644\u064a\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173250
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7265372cf694ab4ede61821c6ab391b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1309812285,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309812285,
+    "wof:lastmodified":1537702320,
+    "wof:name":"Al Amlik",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99929,
+    35.74785,
+    35.99929,
+    35.74785
+],
+  "geometry": {"coordinates":[35.99929,35.74785],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326936345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76175,36.5367,38.76175,36.5367",
+    "geom:latitude":36.5367,
+    "geom:longitude":38.76175,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Umm Huwaysh",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162904,
+    "gn:latitude":36.5367,
+    "gn:longitude":38.76175,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Umm \u1e28uwaysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062d\u0648\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Oum Haouich",
+        "Oum Houa\u00efch",
+        "Umm \u1e28uwaysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162904
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e2d1fce3e155b2c85ad10391dc0d1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1326936345,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1326936345,
+    "wof:lastmodified":1537701623,
+    "wof:name":"Umm Huwaysh",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76175,
+    36.5367,
+    38.76175,
+    36.5367
+],
+  "geometry": {"coordinates":[38.76175,36.5367],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259773057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47807,36.29454,37.47807,36.29454",
+    "geom:latitude":36.29454,
+    "geom:longitude":37.47807,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Doumane",
+    "gn:country_code":"SY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163148,
+    "gn:latitude":36.29454,
+    "gn:longitude":37.47807,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Doumane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u016bm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0648\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "To\u00fbm\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163148
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"76cc4bb5a0b40f2c1771bbd2028252cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1259773057,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259773057,
+    "wof:lastmodified":1537701639,
+    "wof:name":"Doumane",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47807,
+    36.29454000000001,
+    37.47807,
+    36.29454000000001
+],
+  "geometry": {"coordinates":[37.47807,36.29454000000001],"type":"Point"}
+}

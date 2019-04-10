@@ -1,0 +1,73 @@
+{
+  "id": 1326744085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03617,36.93339,42.03617,36.93339",
+    "geom:latitude":36.93339,
+    "geom:longitude":42.03617,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Ghazal",
+    "gn:country_code":"SY",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383648,
+    "gn:latitude":36.93339,
+    "gn:longitude":42.03617,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Tall Ghaz\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u063a\u0632\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tall Ghaz\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383648
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"adf20ea852b8c319b7eaca2e56651753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1326744085,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326744085,
+    "wof:lastmodified":1537702420,
+    "wof:name":"Tall Ghazal",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03617,
+    36.93339,
+    42.03617,
+    36.93339
+],
+  "geometry": {"coordinates":[42.03617,36.93339],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309876757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10086,35.19293,36.10086,35.19293",
+    "geom:latitude":35.19293,
+    "geom:longitude":36.10086,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nahl",
+    "gn:country_code":"SY",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166452,
+    "gn:latitude":35.19293,
+    "gn:longitude":36.10086,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Na\u1e29l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062d\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u062d\u0644 \u0627\u0644\u0639\u0646\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nahal",
+        "Na\u1e29l",
+        "Na\u1e29l al \u2018Ann\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166452
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c97f5c3aa368e1019abdadbd894343e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309876757,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309876757,
+    "wof:lastmodified":1537701860,
+    "wof:name":"Nahl",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10086,
+    35.19293,
+    36.10086,
+    35.19293
+],
+  "geometry": {"coordinates":[36.10086,35.19293],"type":"Point"}
+}

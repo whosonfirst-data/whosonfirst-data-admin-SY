@@ -1,0 +1,79 @@
+{
+  "id": 1226630759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3349,36.24818,37.3349,36.24818",
+    "geom:latitude":36.24818,
+    "geom:longitude":37.3349,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shamin",
+    "gn:country_code":"SY",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164540,
+    "gn:latitude":36.24818,
+    "gn:longitude":37.3349,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sh\u0101min",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101mir"
+    ],
+    "name:ara_x_variant":[
+        "Sh\u0101min",
+        "\u0634\u0627\u0645\u0646",
+        "\u0634\u0627\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e2m\u00eer",
+        "Chamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164540
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b3b88f3a6511a6dc4fe33c20d7a8f92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226630759,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226630759,
+    "wof:lastmodified":1537701740,
+    "wof:name":"Shamin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3349,
+    36.24818,
+    37.3349,
+    36.24818
+],
+  "geometry": {"coordinates":[37.3349,36.24818],"type":"Point"}
+}

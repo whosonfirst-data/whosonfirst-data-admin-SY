@@ -1,0 +1,76 @@
+{
+  "id": 1292996125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93907,33.40574,35.93907,33.40574",
+    "geom:latitude":33.40574,
+    "geom:longitude":35.93907,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bqa`sim",
+    "gn:country_code":"SY",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171309,
+    "gn:latitude":33.40574,
+    "gn:longitude":35.93907,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bqa\u2018sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0639\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bqaassem",
+        "Bqa\u2018sim",
+        "Baqa\u2018sim",
+        "Baq\u2018am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171309
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0abe151e0d2d99a9eebcbf00f7e74d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1292996125,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1292996125,
+    "wof:lastmodified":1537702187,
+    "wof:name":"Bqa`sim",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93907,
+    33.40574,
+    35.93907,
+    33.40574
+],
+  "geometry": {"coordinates":[35.93907,33.40574],"type":"Point"}
+}

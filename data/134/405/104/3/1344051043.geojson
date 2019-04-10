@@ -1,0 +1,75 @@
+{
+  "id": 1344051043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32655,35.07212,37.32655,35.07212",
+    "geom:latitude":35.07212,
+    "geom:longitude":37.32655,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Hanaya",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174509,
+    "gn:latitude":35.07212,
+    "gn:longitude":37.32655,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b \u1e28an\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Abou Han\u00e2ya",
+        "Abou Hanay\u00e9",
+        "Ab\u016b \u1e28an\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174509
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e45437284d79e3d551c8515bad338a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1344051043,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344051043,
+    "wof:lastmodified":1537702412,
+    "wof:name":"Abu Hanaya",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32655,
+    35.07212,
+    37.32655,
+    35.07212
+],
+  "geometry": {"coordinates":[37.32655,35.07212],"type":"Point"}
+}

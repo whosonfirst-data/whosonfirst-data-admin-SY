@@ -1,0 +1,75 @@
+{
+  "id": 1276215911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21453,35.00642,37.21453,35.00642",
+    "geom:latitude":35.00642,
+    "geom:longitude":37.21453,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mafkar al Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166794,
+    "gn:latitude":35.00642,
+    "gn:longitude":37.21453,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mafkar al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0641\u0643\u0631 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Moufaqqar el Rharbi",
+        "Mufaqqar al Gharb\u012b",
+        "Mafkar al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166794
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ad849a7c7be165f47ac669b92f507ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276215911,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276215911,
+    "wof:lastmodified":1537701879,
+    "wof:name":"Mafkar al Gharbi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21453,
+    35.00642,
+    37.21453,
+    35.00642
+],
+  "geometry": {"coordinates":[37.21453,35.00642],"type":"Point"}
+}

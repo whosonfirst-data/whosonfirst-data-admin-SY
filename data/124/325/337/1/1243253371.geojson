@@ -1,0 +1,67 @@
+{
+  "id": 1243253371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.625,36.54167,38.625,36.54167",
+    "geom:latitude":36.54167,
+    "geom:longitude":38.625,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qalji Qiran Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9125,
+    "gn:latitude":36.54167,
+    "gn:longitude":38.625,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Qalj\u012b Q\u012br\u0101n Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1097243f587eae68cbf3926ae7698702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243253371,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243253371,
+    "wof:lastmodified":1537080715,
+    "wof:name":"Qalji Qiran Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.625,
+    36.54167,
+    38.625,
+    36.54167
+],
+  "geometry": {"coordinates":[38.625,36.54167],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293771869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89368,34.96875,36.89368,34.96875",
+    "geom:latitude":34.96875,
+    "geom:longitude":36.89368,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dalfin",
+    "gn:country_code":"SY",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327179,
+    "gn:latitude":34.96875,
+    "gn:longitude":36.89368,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Dalf\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0641\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dalf\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327179
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6d7843c60ef1fd9cd37e4085a7657632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1293771869,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293771869,
+    "wof:lastmodified":1537702528,
+    "wof:name":"Dalfin",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89368,
+    34.96875,
+    36.89368,
+    34.96875
+],
+  "geometry": {"coordinates":[36.89368,34.96875],"type":"Point"}
+}

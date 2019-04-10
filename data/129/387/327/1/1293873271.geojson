@@ -1,0 +1,79 @@
+{
+  "id": 1293873271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36457,36.55636,37.36457,36.55636",
+    "geom:latitude":36.55636,
+    "geom:longitude":37.36457,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Az Ziyadiyah",
+    "gn:country_code":"SY",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162414,
+    "gn:latitude":36.55636,
+    "gn:longitude":37.36457,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Az Ziy\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0627\u062f\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u064a\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zi\u00e2d\u00eey\u00e9",
+        "Ziadi\u00e9",
+        "Ziy\u0101d\u012byah",
+        "Az Ziy\u0101d\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162414
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"336964972cb76357ce3150efd1cf94cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1293873271,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293873271,
+    "wof:lastmodified":1537701588,
+    "wof:name":"Az Ziyadiyah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36457,
+    36.55636,
+    37.36457,
+    36.55636
+],
+  "geometry": {"coordinates":[37.36457,36.55636],"type":"Point"}
+}

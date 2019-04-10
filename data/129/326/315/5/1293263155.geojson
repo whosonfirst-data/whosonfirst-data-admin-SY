@@ -1,0 +1,77 @@
+{
+  "id": 1293263155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91739,34.85284,35.91739,34.85284",
+    "geom:latitude":34.85284,
+    "geom:longitude":35.91739,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rawm adh Dhahab",
+    "gn:country_code":"SY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238360,
+    "gn:latitude":34.85284,
+    "gn:longitude":35.91739,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rawm adh Dhahab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0627\u0645 \u0627\u0644\u0630\u0647\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0645 \u0627\u0644\u0630\u0647\u0628"
+    ],
+    "name:und_x_variant":[
+        "Raww\u0101m adh Dhahab",
+        "Rawm adh Dhahab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238360
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"03e2f3ce873f04d43e15012de654d98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293263155,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293263155,
+    "wof:lastmodified":1537702491,
+    "wof:name":"Rawm adh Dhahab",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91739000000001,
+    34.85284,
+    35.91739000000001,
+    34.85284
+],
+  "geometry": {"coordinates":[35.91739000000001,34.85284],"type":"Point"}
+}

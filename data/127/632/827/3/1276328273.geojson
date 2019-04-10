@@ -1,0 +1,73 @@
+{
+  "id": 1276328273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41317,35.00464,36.41317,35.00464",
+    "geom:latitude":35.00464,
+    "geom:longitude":36.41317,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Az Zamiliyah",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556214,
+    "gn:latitude":35.00464,
+    "gn:longitude":36.41317,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Az Z\u0101mil\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0645\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az Z\u0101mil\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556214
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce30693f9e9e15703343b58a60ec576c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276328273,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276328273,
+    "wof:lastmodified":1537702639,
+    "wof:name":"Az Zamiliyah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41317,
+    35.00464,
+    36.41317,
+    35.00464
+],
+  "geometry": {"coordinates":[36.41317,35.00464],"type":"Point"}
+}

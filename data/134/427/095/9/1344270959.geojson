@@ -1,0 +1,76 @@
+{
+  "id": 1344270959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8206,36.4436,40.8206,36.4436",
+    "geom:latitude":36.4436,
+    "geom:longitude":40.8206,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dayij",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170827,
+    "gn:latitude":36.4436,
+    "gn:longitude":40.8206,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u0101yij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101yij"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "D\u00e2yej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170827
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b325a4db886bb732bb8073d6441d57db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1344270959,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1344270959,
+    "wof:lastmodified":1537702150,
+    "wof:name":"Dayij",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8206,
+    36.4436,
+    40.8206,
+    36.4436
+],
+  "geometry": {"coordinates":[40.8206,36.4436],"type":"Point"}
+}

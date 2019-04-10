@@ -1,0 +1,76 @@
+{
+  "id": 1209919029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44837,32.71203,36.44837,32.71203",
+    "geom:latitude":32.71203,
+    "geom:longitude":36.44837,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ti`lah",
+    "gn:country_code":"SY",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5086,
+    "gn:latitude":32.71203,
+    "gn:longitude":36.44837,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ti\u2018lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ti\u2018lah",
+        "Ath Tha\u2018lah",
+        "Taal\u00e9",
+        "Ta\u2018lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5086
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e60ae61d6264bf9cfb4d9e409a0a22bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1209919029,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1209919029,
+    "wof:lastmodified":1537701552,
+    "wof:name":"Ti`lah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44837,
+    32.71203,
+    36.44837,
+    32.71203
+],
+  "geometry": {"coordinates":[36.44837,32.71203],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276766745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.07324,36.75618,40.07324,36.75618",
+    "geom:latitude":36.75618,
+    "geom:longitude":40.07324,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Baram",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163621,
+    "gn:latitude":36.75618,
+    "gn:longitude":40.07324,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tall Baram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tell Bar\u00e2m",
+        "Tall Baram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163621
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f6ef2dddf297b5e7c7bb99f04f0f81e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1276766745,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276766745,
+    "wof:lastmodified":1537701677,
+    "wof:name":"Tall Baram",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.07324000000001,
+    36.75618,
+    40.07324000000001,
+    36.75618
+],
+  "geometry": {"coordinates":[40.07324000000001,36.75618],"type":"Point"}
+}

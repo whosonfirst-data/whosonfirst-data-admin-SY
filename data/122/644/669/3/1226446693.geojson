@@ -1,0 +1,79 @@
+{
+  "id": 1226446693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56248,36.99734,40.56248,36.99734",
+    "geom:latitude":36.99734,
+    "geom:longitude":40.56248,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haj Awghlu",
+    "gn:country_code":"SY",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170074,
+    "gn:latitude":36.99734,
+    "gn:longitude":40.56248,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u0101j Awghl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "H\u0101j Awghl\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u062c \u0623\u0648\u063a\u0644\u0648"
+    ],
+    "name:tur_x_preferred":[
+        "\u1e28\u0101jj\u012b \u016aghl\u016b"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2jji Orhlou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170074
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"138786db682a6d4a575a8f3331af9494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1226446693,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226446693,
+    "wof:lastmodified":1537702107,
+    "wof:name":"Haj Awghlu",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56248,
+    36.99734,
+    40.56248,
+    36.99734
+],
+  "geometry": {"coordinates":[40.56248,36.99734],"type":"Point"}
+}

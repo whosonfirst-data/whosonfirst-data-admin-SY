@@ -1,0 +1,61 @@
+{
+  "id": 1209504963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52222,36.7625,38.52222,36.7625",
+    "geom:latitude":36.7625,
+    "geom:longitude":38.52222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall al Hajar Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9226,
+    "gn:latitude":36.7625,
+    "gn:longitude":38.52222,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Tall al \u1e28ajar Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9226
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ac38595baf11def9b1295184e6a36bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209504963
+        }
+    ],
+    "wof:id":1209504963,
+    "wof:lastmodified":1536285063,
+    "wof:name":"Tall al Hajar Tahtani",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52222,
+    36.7625,
+    38.52222,
+    36.7625
+],
+  "geometry": {"coordinates":[38.52222,36.7625],"type":"Point"}
+}

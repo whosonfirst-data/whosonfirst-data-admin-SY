@@ -1,0 +1,79 @@
+{
+  "id": 1226525881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93274,34.90335,35.93274,34.90335",
+    "geom:latitude":34.90335,
+    "geom:longitude":35.93274,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Juhi",
+    "gn:country_code":"SY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171562,
+    "gn:latitude":34.90335,
+    "gn:longitude":35.93274,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bayt Ju\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u062d\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u062c\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft J\u00e9ha",
+        "Bayt Ju\u1e29\u00e1",
+        "Bayt Ju\u1e29\u0101",
+        "Bayt Ju\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171562
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a27e57e9662dad3c3ca3a361d41aa0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226525881,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226525881,
+    "wof:lastmodified":1537702209,
+    "wof:name":"Bayt Juhi",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93274,
+    34.90335,
+    35.93274,
+    34.90335
+],
+  "geometry": {"coordinates":[35.93274,34.90335],"type":"Point"}
+}

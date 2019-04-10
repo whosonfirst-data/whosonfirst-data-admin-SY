@@ -1,0 +1,73 @@
+{
+  "id": 1209610435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69864,35.17531,36.69864,35.17531",
+    "geom:latitude":35.17531,
+    "geom:longitude":36.69864,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Arzah",
+    "gn:country_code":"SY",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172875,
+    "gn:latitude":35.17531,
+    "gn:longitude":36.69864,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Arzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0632\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0636\u0628\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Arz\u00e9",
+        "Arzah",
+        "A\u1e11 \u1e10ab\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172875,
+        "wk:page":"Arzah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7be302e9b599605abfac5108fd96a3e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209610435
+        }
+    ],
+    "wof:id":1209610435,
+    "wof:lastmodified":1537702295,
+    "wof:name":"Arzah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69864000000001,
+    35.17531,
+    36.69864000000001,
+    35.17531
+],
+  "geometry": {"coordinates":[36.69864000000001,35.17531],"type":"Point"}
+}

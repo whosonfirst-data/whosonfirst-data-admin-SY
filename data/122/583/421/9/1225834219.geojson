@@ -1,0 +1,79 @@
+{
+  "id": 1225834219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5376,34.98526,36.5376,34.98526",
+    "geom:latitude":34.98526,
+    "geom:longitude":36.5376,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khirbat al Qasr",
+    "gn:country_code":"SY",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173913,
+    "gn:latitude":34.98526,
+    "gn:longitude":36.5376,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Khirbat al Qa\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0636\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "El Boua\u00efda",
+        "Al Buway\u1e11ah",
+        "Khirbat al Qa\u015fr",
+        "Kheurbet el Qasr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173913
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fb5376aac760b85b315595b48a8afc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1225834219,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1225834219,
+    "wof:lastmodified":1537702375,
+    "wof:name":"Khirbat al Qasr",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5376,
+    34.98526,
+    36.5376,
+    34.98526
+],
+  "geometry": {"coordinates":[36.5376,34.98526],"type":"Point"}
+}

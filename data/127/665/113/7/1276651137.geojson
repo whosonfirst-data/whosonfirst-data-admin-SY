@@ -1,0 +1,72 @@
+{
+  "id": 1276651137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26667,35.88333,37.26667,35.88333",
+    "geom:latitude":35.88333,
+    "geom:longitude":37.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mashrafat Sa`id",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167102,
+    "gn:latitude":35.88333,
+    "gn:longitude":37.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mashrafat Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9riet Sa\u00efd",
+        "M\u00e9cherfet Sa\u00efd",
+        "Mashrafat Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167102
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69e434bbe145b6902be68196defeac0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276651137,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276651137,
+    "wof:lastmodified":1537701900,
+    "wof:name":"Mashrafat Sa`id",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26667,
+    35.88333,
+    37.26667,
+    35.88333
+],
+  "geometry": {"coordinates":[37.26667,35.88333],"type":"Point"}
+}

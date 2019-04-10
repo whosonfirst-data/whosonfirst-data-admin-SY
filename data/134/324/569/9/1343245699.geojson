@@ -1,0 +1,79 @@
+{
+  "id": 1343245699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20316,34.97598,36.20316,34.97598",
+    "geom:latitude":34.97598,
+    "geom:longitude":36.20316,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mashli",
+    "gn:country_code":"SY",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167140,
+    "gn:latitude":34.97598,
+    "gn:longitude":36.20316,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mashl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0634\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0634\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9chl\u012b",
+        "Mashl\u012b",
+        "Mayshl\u012b",
+        "Mechli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167140
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd5b3ec5058c4e317b03f30ad30d648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1343245699,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343245699,
+    "wof:lastmodified":1537701903,
+    "wof:name":"Mashli",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20316,
+    34.97598,
+    36.20316,
+    34.97598
+],
+  "geometry": {"coordinates":[36.20316,34.97598],"type":"Point"}
+}

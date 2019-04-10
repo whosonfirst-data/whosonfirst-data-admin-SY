@@ -1,0 +1,73 @@
+{
+  "id": 1293273401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67409,34.73306,36.67409,34.73306",
+    "geom:latitude":34.73306,
+    "geom:longitude":36.67409,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kharkhar ath Thaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7637449,
+    "gn:latitude":34.73306,
+    "gn:longitude":36.67409,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kharkhar ath Th\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u062e\u0631 \u0627\u0644\u062b\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kharkhar ath Th\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7637449
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a0b6460f8a5d5aeedb8203b6280f482a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293273401,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293273401,
+    "wof:lastmodified":1537702469,
+    "wof:name":"Kharkhar ath Thaniyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67409,
+    34.73305999999999,
+    36.67409,
+    34.73305999999999
+],
+  "geometry": {"coordinates":[36.67409,34.73305999999999],"type":"Point"}
+}

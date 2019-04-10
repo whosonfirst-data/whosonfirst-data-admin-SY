@@ -1,0 +1,74 @@
+{
+  "id": 1327249141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51453,36.18813,40.51453,36.18813",
+    "geom:latitude":36.18813,
+    "geom:longitude":40.51453,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khuwaytilah",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420860,
+    "gn:latitude":36.18813,
+    "gn:longitude":40.51453,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khuwaytilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u064a\u062a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uwaytilah",
+        "Khuwaytilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420860
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9eb3868d07e7590f3e8a3ca6c4050fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327249141,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327249141,
+    "wof:lastmodified":1537702452,
+    "wof:name":"Khuwaytilah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51453,
+    36.18813,
+    40.51453,
+    36.18813
+],
+  "geometry": {"coordinates":[40.51453,36.18813],"type":"Point"}
+}

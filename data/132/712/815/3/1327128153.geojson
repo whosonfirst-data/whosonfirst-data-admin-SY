@@ -1,0 +1,74 @@
+{
+  "id": 1327128153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32943,35.43956,36.32943,35.43956",
+    "geom:latitude":35.43956,
+    "geom:longitude":36.32943,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Kuraym",
+    "gn:country_code":"SY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173588,
+    "gn:latitude":35.43956,
+    "gn:longitude":36.32943,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Kuraym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "El Kra\u00efm",
+        "Al Kuraym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173588
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"09232f0a6dbb4eeac0c4102d02888819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1327128153,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327128153,
+    "wof:lastmodified":1537702347,
+    "wof:name":"Al Kuraym",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32943,
+    35.43956,
+    36.32943,
+    35.43956
+],
+  "geometry": {"coordinates":[36.32943,35.43956],"type":"Point"}
+}

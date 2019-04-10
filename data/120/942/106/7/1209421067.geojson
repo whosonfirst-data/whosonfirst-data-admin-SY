@@ -1,0 +1,70 @@
+{
+  "id": 1209421067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09832,36.05443,38.09832,36.05443",
+    "geom:latitude":36.05443,
+    "geom:longitude":38.09832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ju`aybah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9034,
+    "gn:latitude":36.05443,
+    "gn:longitude":38.09832,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ju\u2018aybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062c\u0639\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ju\u2018aybah",
+        "Jubay\u0163",
+        "Jaybi\u0163",
+        "Ja\u012bbett"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9034
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72318928952f4b91b7b33150e50dcd6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209421067
+        }
+    ],
+    "wof:id":1209421067,
+    "wof:lastmodified":1537701562,
+    "wof:name":"Ju`aybah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09832,
+    36.05443,
+    38.09832,
+    36.05443
+],
+  "geometry": {"coordinates":[38.09832,36.05443],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193150967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37572,36.89978,41.37572,36.89978",
+    "geom:latitude":36.89978,
+    "geom:longitude":41.37572,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sharmukh",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164424,
+    "gn:latitude":36.89978,
+    "gn:longitude":41.37572,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sharm\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0645\u0648\u062e"
+    ],
+    "name:tur_x_preferred":[
+        "Sharm\u016bkh"
+    ],
+    "name:und_x_variant":[
+        "Chermo\u00fbkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df231bc1a4830de16a2b65fe7f21b486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1193150967,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1193150967,
+    "wof:lastmodified":1537701732,
+    "wof:name":"Sharmukh",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37572,
+    36.89978,
+    41.37572,
+    36.89978
+],
+  "geometry": {"coordinates":[41.37572,36.89978],"type":"Point"}
+}

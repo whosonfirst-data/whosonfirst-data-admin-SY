@@ -1,0 +1,70 @@
+{
+  "id": 1226655503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02047,36.0695,41.02047,36.0695",
+    "geom:latitude":36.0695,
+    "geom:longitude":41.02047,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shunaynah",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595858,
+    "gn:latitude":36.0695,
+    "gn:longitude":41.02047,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Shunaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u064a\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595858
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"75767bd3cddaa474c758b8c72477aa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226655503,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226655503,
+    "wof:lastmodified":1537702581,
+    "wof:name":"Shunaynah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02047,
+    36.0695,
+    41.02047,
+    36.0695
+],
+  "geometry": {"coordinates":[41.02047,36.0695],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1276964807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6422,33.74154,36.6422,33.74154",
+    "geom:latitude":33.74154,
+    "geom:longitude":36.6422,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Mu`addamiyah",
+    "gn:country_code":"SY",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173452,
+    "gn:latitude":33.74154,
+    "gn:longitude":36.6422,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al Mu\u2018a\u1e11\u1e11am\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0636\u0645\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0636\u0645\u064a\u0629",
+        "\u0645\u0639\u0636\u0645\u064a\u0629 \u0627\u0644\u0642\u0644\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mu\u2018a\u1e11am\u012byat ash Shaykh",
+        "Mu\u2018a\u1e11am\u012byah",
+        "Mu\u2018az\u0327z\u0327am\u012byah",
+        "Mouaddam\u00eey\u00e9",
+        "Al Mu\u2018a\u1e11\u1e11am\u012byah",
+        "Mu\u2018a\u1e11\u1e11am\u012byah",
+        "Mu\u2018a\u1e11\u1e11am\u012byat al Qalam\u016bn",
+        "Mu\u2018a\u1e11\u1e11am\u012byat ash Shaykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173452
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7708c86967336f6dab88836531e71762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1276964807,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276964807,
+    "wof:lastmodified":1537702336,
+    "wof:name":"Al Mu`addamiyah",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6422,
+    33.74154,
+    36.6422,
+    33.74154
+],
+  "geometry": {"coordinates":[36.6422,33.74154],"type":"Point"}
+}

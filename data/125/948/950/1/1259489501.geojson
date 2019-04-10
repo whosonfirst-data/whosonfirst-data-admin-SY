@@ -1,0 +1,73 @@
+{
+  "id": 1259489501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.69761,36.00682,39.69761,36.00682",
+    "geom:latitude":36.00682,
+    "geom:longitude":39.69761,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Askhamiyah",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":172519,
+    "gn:latitude":36.00682,
+    "gn:longitude":39.69761,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Askh\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u062e\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Askh\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172519
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c59281db769dfd6c673d80530389b6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1259489501,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259489501,
+    "wof:lastmodified":1537702281,
+    "wof:name":"Askhamiyah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.69761,
+    36.00682000000001,
+    39.69761,
+    36.00682000000001
+],
+  "geometry": {"coordinates":[39.69761,36.00682000000001],"type":"Point"}
+}

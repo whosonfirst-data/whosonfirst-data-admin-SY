@@ -1,0 +1,73 @@
+{
+  "id": 1226455553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02334,35.68335,36.02334,35.68335",
+    "geom:latitude":35.68335,
+    "geom:longitude":36.02334,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ma`mal Kafariyah",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182200,
+    "gn:latitude":35.68335,
+    "gn:longitude":36.02334,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ma\u2018mal Kaf\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0645\u0644 \u0643\u0641\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018mal Kaf\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182200
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2dfb4ddce9b9de2f16286087f852967a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226455553,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226455553,
+    "wof:lastmodified":1537702481,
+    "wof:name":"Ma`mal Kafariyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02334000000001,
+    35.68335,
+    36.02334000000001,
+    35.68335
+],
+  "geometry": {"coordinates":[36.02334000000001,35.68335],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260200899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55504,36.78775,40.55504,36.78775",
+    "geom:latitude":36.78775,
+    "geom:longitude":40.55504,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sam'ad",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164885,
+    "gn:latitude":36.78775,
+    "gn:longitude":40.55504,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Sam\u2019ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0623\u062f"
+    ],
+    "name:tur_x_preferred":[
+        "Sam\u0101dah"
+    ],
+    "name:und_x_variant":[
+        "Sam\u00e2da",
+        "Sam\u2019ad",
+        "Sam\u2019\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164885
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0cf593c1ce092311566b0c65abb4691b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1260200899,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1260200899,
+    "wof:lastmodified":1537701759,
+    "wof:name":"Sam'ad",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55504000000001,
+    36.78775,
+    40.55504000000001,
+    36.78775
+],
+  "geometry": {"coordinates":[40.55504000000001,36.78775],"type":"Point"}
+}

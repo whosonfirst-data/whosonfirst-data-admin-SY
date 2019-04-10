@@ -1,0 +1,77 @@
+{
+  "id": 1343746433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36526,35.93231,37.36526,35.93231",
+    "geom:latitude":35.93231,
+    "geom:longitude":37.36526,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Burj `Izzawi",
+    "gn:country_code":"SY",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171151,
+    "gn:latitude":35.93231,
+    "gn:longitude":37.36526,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Burj \u2018Izz\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Burj \u2018Izz\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u062c \u0639\u0632\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Borj Rhazz\u00e2oui",
+        "Burj Ghazz\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171151
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fefc4202a3b739adbb471afe6fc701fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1343746433,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343746433,
+    "wof:lastmodified":1537702173,
+    "wof:name":"Burj `Izzawi",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36526,
+    35.93231,
+    37.36526,
+    35.93231
+],
+  "geometry": {"coordinates":[37.36526,35.93231],"type":"Point"}
+}

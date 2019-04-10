@@ -1,0 +1,75 @@
+{
+  "id": 1243062995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32187,35.32053,36.32187,35.32053",
+    "geom:latitude":35.32053,
+    "geom:longitude":36.32187,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Tawbah",
+    "gn:country_code":"SY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172337,
+    "gn:latitude":35.32053,
+    "gn:longitude":36.32187,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"At Tawbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ett Taoub\u00e9",
+        "Et Taoub\u00e9",
+        "At Tawbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172337
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a187c2741d36ebe9ed9839253e6317a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1243062995,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243062995,
+    "wof:lastmodified":1537702267,
+    "wof:name":"At Tawbah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32187,
+    35.32053,
+    36.32187,
+    35.32053
+],
+  "geometry": {"coordinates":[36.32187,35.32053],"type":"Point"}
+}

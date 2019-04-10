@@ -1,0 +1,73 @@
+{
+  "id": 1243157699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24225,33.39419,36.24225,33.39419",
+    "geom:latitude":33.39419,
+    "geom:longitude":36.24225,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Musharifah",
+    "gn:country_code":"SY",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412785,
+    "gn:latitude":33.39419,
+    "gn:longitude":36.24225,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Al Mush\u0101rifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mush\u0101rifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412785
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"31886ef50ca41882d7ad4c026ca4a2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1243157699,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243157699,
+    "wof:lastmodified":1537702564,
+    "wof:name":"Al Musharifah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24225,
+    33.39419,
+    36.24225,
+    33.39419
+],
+  "geometry": {"coordinates":[36.24225,33.39419],"type":"Point"}
+}

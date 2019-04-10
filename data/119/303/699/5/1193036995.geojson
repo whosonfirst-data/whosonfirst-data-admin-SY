@@ -1,0 +1,73 @@
+{
+  "id": 1193036995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49521,35.49954,37.49521,35.49954",
+    "geom:latitude":35.49954,
+    "geom:longitude":37.49521,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm Jubb al Hamlan",
+    "gn:country_code":"SY",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340400,
+    "gn:latitude":35.49954,
+    "gn:longitude":37.49521,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Rasm Jubb al \u1e28aml\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u062c\u0628 \u0627\u0644\u062d\u0645\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rasm Jubb al \u1e28aml\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340400
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"434ff6ec943099640d21c556390905c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1193036995,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193036995,
+    "wof:lastmodified":1537702536,
+    "wof:name":"Rasm Jubb al Hamlan",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49521,
+    35.49954,
+    37.49521,
+    35.49954
+],
+  "geometry": {"coordinates":[37.49521,35.49954],"type":"Point"}
+}

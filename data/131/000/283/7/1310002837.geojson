@@ -1,0 +1,77 @@
+{
+  "id": 1310002837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14056,33.61151,36.14056,33.61151",
+    "geom:latitude":33.61151,
+    "geom:longitude":36.14056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kufayr az Zayt",
+    "gn:country_code":"SY",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168716,
+    "gn:latitude":33.61151,
+    "gn:longitude":36.14056,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kufayr az Zayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u064a\u0631 \u0627\u0644\u0632\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kafr ez Zeit",
+        "Kfa\u00efr ez Za\u00efte",
+        "Kefr ez Zeit",
+        "Kafr az Zayt",
+        "Kufayr az Zayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168716
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2be3499e1ac0ccc8a8282d7b5dd9a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1310002837,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310002837,
+    "wof:lastmodified":1537702016,
+    "wof:name":"Kufayr az Zayt",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14056,
+    33.61151,
+    36.14056,
+    33.61151
+],
+  "geometry": {"coordinates":[36.14056,33.61151],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209533433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07367,36.80404,41.07367,36.80404",
+    "geom:latitude":36.80404,
+    "geom:longitude":41.07367,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kir Missin",
+    "gn:country_code":"SY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167833,
+    "gn:latitude":36.80404,
+    "gn:longitude":41.07367,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kir Miss\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kir Miss\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631 \u0645\u0633\u064a\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Kirmiss\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Guir Mess\u00eene",
+        "K\u012br Mess\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167833
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7aa86c7068c78db721b16667892a5626",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209533433
+        }
+    ],
+    "wof:id":1209533433,
+    "wof:lastmodified":1537701945,
+    "wof:name":"Kir Missin",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07367,
+    36.80404,
+    41.07367,
+    36.80404
+],
+  "geometry": {"coordinates":[41.07367,36.80404],"type":"Point"}
+}

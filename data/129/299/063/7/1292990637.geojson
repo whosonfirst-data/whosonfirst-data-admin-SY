@@ -1,0 +1,74 @@
+{
+  "id": 1292990637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1742,35.60679,37.1742,35.60679",
+    "geom:latitude":35.60679,
+    "geom:longitude":37.1742,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawwanat al Hamrah",
+    "gn:country_code":"SY",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339968,
+    "gn:latitude":35.60679,
+    "gn:longitude":37.1742,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"\u015eaww\u0101nat al \u1e28amrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0627\u0646\u0629 \u0627\u0644\u062d\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015eaww\u0101nat al \u1e28amrah",
+        "\u015euw\u0101nat al \u1e28amrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339968
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"43f4b5f33dc1816713ffa38829ffd2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1292990637,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292990637,
+    "wof:lastmodified":1537702533,
+    "wof:name":"Sawwanat al Hamrah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1742,
+    35.60679000000001,
+    37.1742,
+    35.60679000000001
+],
+  "geometry": {"coordinates":[37.1742,35.60679000000001],"type":"Point"}
+}

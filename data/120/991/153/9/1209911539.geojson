@@ -1,0 +1,78 @@
+{
+  "id": 1209911539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.29052,32.74867,36.29052,32.74867",
+    "geom:latitude":32.74867,
+    "geom:longitude":36.29052,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dayr as Salt",
+    "gn:country_code":"SY",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170799,
+    "gn:latitude":32.74867,
+    "gn:longitude":36.29052,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dayr a\u015f \u015eal\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0635\u0644\u0637"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0633\u0644\u0637"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr es Salt",
+        "Dayr a\u015f \u015eal\u0163",
+        "Dayr as Sal\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170799
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c1c065fa4898d5865335007fccb9ca8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1209911539,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1209911539,
+    "wof:lastmodified":1537702148,
+    "wof:name":"Dayr as Salt",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.29052,
+    32.74867,
+    36.29052,
+    32.74867
+],
+  "geometry": {"coordinates":[36.29052,32.74867],"type":"Point"}
+}

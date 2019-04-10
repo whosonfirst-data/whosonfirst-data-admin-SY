@@ -1,0 +1,76 @@
+{
+  "id": 1327423575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8981,36.38485,36.8981,36.38485",
+    "geom:latitude":36.38485,
+    "geom:longitude":36.8981,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barad",
+    "gn:country_code":"SY",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171806,
+    "gn:latitude":36.38485,
+    "gn:longitude":36.8981,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bar\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Br\u00e2te",
+        "Braat",
+        "Bar\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171806,
+        "wk:page":"Barad%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a07ff5fd73ea8221191006c4d5829da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1327423575,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327423575,
+    "wof:lastmodified":1537702226,
+    "wof:name":"Barad",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8981,
+    36.38485,
+    36.8981,
+    36.38485
+],
+  "geometry": {"coordinates":[36.8981,36.38485],"type":"Point"}
+}

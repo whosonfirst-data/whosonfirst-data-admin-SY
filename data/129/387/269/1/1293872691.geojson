@@ -1,0 +1,73 @@
+{
+  "id": 1293872691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10958,35.3056,37.10958,35.3056",
+    "geom:latitude":35.3056,
+    "geom:longitude":37.10958,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La`a",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340900,
+    "gn:latitude":35.3056,
+    "gn:longitude":37.10958,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"L\u0101\u2018\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "L\u0101\u2018\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u0639\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340900
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a1e31727ccb8669ef31a751c4ddf50b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293872691,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293872691,
+    "wof:lastmodified":1537702537,
+    "wof:name":"La`a",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10958,
+    35.3056,
+    37.10958,
+    35.3056
+],
+  "geometry": {"coordinates":[37.10958,35.3056],"type":"Point"}
+}

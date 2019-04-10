@@ -1,0 +1,82 @@
+{
+  "id": 1343762621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1299,36.59596,39.1299,36.59596",
+    "geom:latitude":36.59596,
+    "geom:longitude":39.1299,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Suluk",
+    "gn:country_code":"SY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":164895,
+    "gn:latitude":36.59596,
+    "gn:longitude":39.1299,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Sul\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sul\u016bk"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0648\u0643",
+        "Sul\u016bq",
+        "\u0633\u0644\u0648\u0642"
+    ],
+    "name:und_x_variant":[
+        "Sloug",
+        "Slo\u00fbq",
+        "Sul\u016bk",
+        "Sal\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164895,
+        "wk:page":"Suluk%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ac6d98a5b674d33110318eb114a0c33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343762621,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343762621,
+    "wof:lastmodified":1537701760,
+    "wof:name":"Suluk",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1299,
+    36.59596,
+    39.1299,
+    36.59596
+],
+  "geometry": {"coordinates":[39.1299,36.59596],"type":"Point"}
+}

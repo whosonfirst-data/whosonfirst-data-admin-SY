@@ -1,0 +1,76 @@
+{
+  "id": 1326720167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96162,36.54988,36.96162,36.54988",
+    "geom:latitude":36.54988,
+    "geom:longitude":36.96162,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shawarighat al Jawz",
+    "gn:country_code":"SY",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164385,
+    "gn:latitude":36.54988,
+    "gn:longitude":36.96162,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Shaw\u0101righat al Jawz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0627\u0631\u063a\u0629 \u0627\u0644\u062c\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Chouarrhat ej Joz",
+        "Chou\u00e2rrhet ej J\u00f4z",
+        "Chou\u00e2r\u2019 rhet ej Jaouz",
+        "Shaw\u0101righat al Jawz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164385
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e177f1b0b44609177c23dc1a98da63d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1326720167,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326720167,
+    "wof:lastmodified":1537701730,
+    "wof:name":"Shawarighat al Jawz",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96162,
+    36.54988,
+    36.96162,
+    36.54988
+],
+  "geometry": {"coordinates":[36.96162,36.54988],"type":"Point"}
+}

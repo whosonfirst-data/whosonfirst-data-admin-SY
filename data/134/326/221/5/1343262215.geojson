@@ -1,0 +1,74 @@
+{
+  "id": 1343262215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.96392,35.90546,38.96392,35.90546",
+    "geom:latitude":35.90546,
+    "geom:longitude":38.96392,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kasrat Shaykh Jum`ah",
+    "gn:country_code":"SY",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168524,
+    "gn:latitude":35.90546,
+    "gn:longitude":38.96392,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kasrat Shaykh Jum\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u0631\u0629 \u0634\u064a\u062e \u062c\u0645\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kasret Che\u00efkh Jouma\u00e2",
+        "Kasrat Shaykh Jum\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168524
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8c9c7efd441ef2e9bdcb5d5ce26e961f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1343262215,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343262215,
+    "wof:lastmodified":1537701998,
+    "wof:name":"Kasrat Shaykh Jum`ah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.96392,
+    35.90546,
+    38.96392,
+    35.90546
+],
+  "geometry": {"coordinates":[38.96392,35.90546],"type":"Point"}
+}

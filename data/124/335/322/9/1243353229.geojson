@@ -1,0 +1,77 @@
+{
+  "id": 1243353229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71094,36.78922,36.71094,36.78922",
+    "geom:latitude":36.78922,
+    "geom:longitude":36.71094,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Wali",
+    "gn:country_code":"SY",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231836,
+    "gn:latitude":36.78922,
+    "gn:longitude":36.71094,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Al Wal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0644\u0643\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "W\u012blakl\u012b",
+        "Al Wal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231836
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"16ff23bc8c5ac043f70c08ebce55e33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1243353229,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243353229,
+    "wof:lastmodified":1537702483,
+    "wof:name":"Al Wali",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71094,
+    36.78922,
+    36.71094,
+    36.78922
+],
+  "geometry": {"coordinates":[36.71094,36.78922],"type":"Point"}
+}

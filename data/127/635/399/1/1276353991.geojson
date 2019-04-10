@@ -1,0 +1,70 @@
+{
+  "id": 1276353991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39167,36.03333,40.39167,36.03333",
+    "geom:latitude":36.03333,
+    "geom:longitude":40.39167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saraqa",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420852,
+    "gn:latitude":36.03333,
+    "gn:longitude":40.39167,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Sar\u0101q\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u0101q\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420852
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"26882cc29be2d59eed3a83cc3722c342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276353991,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276353991,
+    "wof:lastmodified":1537702452,
+    "wof:name":"Saraqa",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39167,
+    36.03333,
+    40.39167,
+    36.03333
+],
+  "geometry": {"coordinates":[40.39167,36.03333],"type":"Point"}
+}

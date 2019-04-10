@@ -1,0 +1,70 @@
+{
+  "id": 1225953763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.13444,37.12139,42.13444,37.12139",
+    "geom:latitude":37.12139,
+    "geom:longitude":42.13444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ash Shamiyah",
+    "gn:country_code":"SY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447557,
+    "gn:latitude":37.12139,
+    "gn:longitude":42.13444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Sh\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sh\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447557
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d9470e4f11c850eed3f48c42f5b2b4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1225953763,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1225953763,
+    "wof:lastmodified":1537702464,
+    "wof:name":"Ash Shamiyah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.13444000000001,
+    37.12139000000001,
+    42.13444000000001,
+    37.12139000000001
+],
+  "geometry": {"coordinates":[42.13444000000001,37.12139000000001],"type":"Point"}
+}

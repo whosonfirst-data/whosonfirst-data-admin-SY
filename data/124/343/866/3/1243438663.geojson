@@ -1,0 +1,76 @@
+{
+  "id": 1243438663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03093,36.08317,37.03093,36.08317",
+    "geom:latitude":36.08317,
+    "geom:longitude":37.03093,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qal`ajiyah",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166238,
+    "gn:latitude":36.08317,
+    "gn:longitude":37.03093,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al Qal\u2018aj\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u062c\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qalajiye",
+        "Qalaajiy\u00e9",
+        "Qal\u2018aj\u012byah",
+        "Al Qal\u2018aj\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166238
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0bde6722c6b83fadea72a605d3028663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1243438663,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243438663,
+    "wof:lastmodified":1537701847,
+    "wof:name":"Al Qal`ajiyah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03093,
+    36.08317,
+    37.03093,
+    36.08317
+],
+  "geometry": {"coordinates":[37.03093,36.08317],"type":"Point"}
+}

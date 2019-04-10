@@ -1,0 +1,74 @@
+{
+  "id": 1226526101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95989,34.95733,36.95989,34.95733",
+    "geom:latitude":34.95733,
+    "geom:longitude":36.95989,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tulul al Humr",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163150,
+    "gn:latitude":34.95733,
+    "gn:longitude":36.95989,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tul\u016bl al \u1e28umr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0648\u0644 \u0627\u0644\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tlo\u00fbl el Homr",
+        "Tul\u016bl al \u1e28umr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163150
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2671ef8f6d5e1feaf874089acbd4f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226526101,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226526101,
+    "wof:lastmodified":1537701639,
+    "wof:name":"Tulul al Humr",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95989,
+    34.95733,
+    36.95989,
+    34.95733
+],
+  "geometry": {"coordinates":[36.95989,34.95733],"type":"Point"}
+}

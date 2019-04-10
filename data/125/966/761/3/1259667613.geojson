@@ -1,0 +1,74 @@
+{
+  "id": 1259667613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44177,35.05553,37.44177,35.05553",
+    "geom:latitude":35.05553,
+    "geom:longitude":37.44177,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Marami",
+    "gn:country_code":"SY",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173506,
+    "gn:latitude":35.05553,
+    "gn:longitude":37.44177,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Mar\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "El Mar\u00e2mi",
+        "Al Mar\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173506
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6798c21be8161c482683af72c2efde01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259667613,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259667613,
+    "wof:lastmodified":1537702341,
+    "wof:name":"Al Marami",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44177,
+    35.05553,
+    37.44177,
+    35.05553
+],
+  "geometry": {"coordinates":[37.44177,35.05553],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242580507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1709,35.75315,36.1709,35.75315",
+    "geom:latitude":35.75315,
+    "geom:longitude":36.1709,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al `Arimah",
+    "gn:country_code":"SY",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322024,
+    "gn:latitude":35.75315,
+    "gn:longitude":36.1709,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Al \u2018Ar\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ar\u012bmah",
+        "El Are\u00efma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322024
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae8b31e5a3268cc6451c6ed829f48fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1242580507,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242580507,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Al `Arimah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1709,
+    35.75315,
+    36.1709,
+    35.75315
+],
+  "geometry": {"coordinates":[36.1709,35.75315],"type":"Point"}
+}

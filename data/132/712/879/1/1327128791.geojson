@@ -1,0 +1,79 @@
+{
+  "id": 1327128791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10516,36.31476,37.10516,36.31476",
+    "geom:latitude":36.31476,
+    "geom:longitude":37.10516,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Musaybin",
+    "gn:country_code":"SY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163487,
+    "gn:latitude":36.31476,
+    "gn:longitude":37.10516,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tall Mu\u015fayb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0646\u0635\u0628\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0645\u0635\u064a\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell Sebine",
+        "Tell Nisb\u00eene",
+        "Tall Ni\u015fb\u012bn",
+        "Tall Mu\u015fayb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163487
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ca704558e709c6498874afc3feed829e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1327128791,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327128791,
+    "wof:lastmodified":1537701662,
+    "wof:name":"Tall Musaybin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10516,
+    36.31476,
+    37.10516,
+    36.31476
+],
+  "geometry": {"coordinates":[37.10516,36.31476],"type":"Point"}
+}

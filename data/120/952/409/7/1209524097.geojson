@@ -1,0 +1,67 @@
+{
+  "id": 1209524097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79549,35.59778,35.79549,35.59778",
+    "geom:latitude":35.59778,
+    "geom:longitude":35.79549,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bustan as Sitt",
+    "gn:country_code":"SY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472506,
+    "gn:latitude":35.59778,
+    "gn:longitude":35.79549,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Bust\u0101n as Sitt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n as Sitt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472506
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44cdaf87af84550854fba56663e95ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209524097
+        }
+    ],
+    "wof:id":1209524097,
+    "wof:lastmodified":1537702574,
+    "wof:name":"Bustan as Sitt",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79549,
+    35.59778,
+    35.79549,
+    35.59778
+],
+  "geometry": {"coordinates":[35.79549,35.59778],"type":"Point"}
+}

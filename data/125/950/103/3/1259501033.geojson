@@ -1,0 +1,77 @@
+{
+  "id": 1259501033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.9737,37.05364,40.9737,37.05364",
+    "geom:latitude":37.05364,
+    "geom:longitude":40.9737,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qarah Qub Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166077,
+    "gn:latitude":37.05364,
+    "gn:longitude":40.9737,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qarah Qub Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0642\u0628 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Qarah Q\u016bb at Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Qara Qo\u00fbb Taht\u00e2ni",
+        "Qarah Qub Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166077
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dd50584a5d1bc1eea263f3236e0f8b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1259501033,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259501033,
+    "wof:lastmodified":1537701832,
+    "wof:name":"Qarah Qub Tahtani",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.9737,
+    37.05364,
+    40.9737,
+    37.05364
+],
+  "geometry": {"coordinates":[40.9737,37.05364],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242868553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99815,36.53301,36.99815,36.53301",
+    "geom:latitude":36.53301,
+    "geom:longitude":36.99815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qambarah",
+    "gn:country_code":"SY",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433049,
+    "gn:latitude":36.53301,
+    "gn:longitude":36.99815,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Qambarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0645\u0628\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433049
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3b49105dc3c7c144682e30aefa8f179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1242868553,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242868553,
+    "wof:lastmodified":1537702620,
+    "wof:name":"Al Qambarah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99815,
+    36.53301,
+    36.99815,
+    36.53301
+],
+  "geometry": {"coordinates":[36.99815,36.53301],"type":"Point"}
+}

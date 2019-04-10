@@ -1,0 +1,78 @@
+{
+  "id": 1226635093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96304,34.94434,36.96304,34.94434",
+    "geom:latitude":34.94434,
+    "geom:longitude":36.96304,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sinjar",
+    "gn:country_code":"SY",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164095,
+    "gn:latitude":34.94434,
+    "gn:longitude":36.96304,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sinj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sinj\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0646\u062c\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Sedjar",
+        "Sinnj\u00e2r",
+        "Kheurbet S\u00e9jar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164095
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6dd676d233e5e99cd9a51beec166468d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226635093,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226635093,
+    "wof:lastmodified":1537701715,
+    "wof:name":"Sinjar",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96304,
+    34.94434,
+    36.96304,
+    34.94434
+],
+  "geometry": {"coordinates":[36.96304,34.94434],"type":"Point"}
+}

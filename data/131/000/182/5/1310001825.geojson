@@ -1,0 +1,73 @@
+{
+  "id": 1310001825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52481,35.67968,37.52481,35.67968",
+    "geom:latitude":35.67968,
+    "geom:longitude":37.52481,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Azhi",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342085,
+    "gn:latitude":35.67968,
+    "gn:longitude":37.52481,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Az\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Az\u1e29\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0632\u062d\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342085
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c22d1ac23b6c62415061f0d98b51622a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1310001825,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310001825,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Al Azhi",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52481,
+    35.67968,
+    37.52481,
+    35.67968
+],
+  "geometry": {"coordinates":[37.52481,35.67968],"type":"Point"}
+}

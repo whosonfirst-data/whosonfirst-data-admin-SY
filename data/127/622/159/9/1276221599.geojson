@@ -1,0 +1,82 @@
+{
+  "id": 1276221599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68363,36.49029,37.68363,36.49029",
+    "geom:latitude":36.49029,
+    "geom:longitude":37.68363,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Kawukli",
+    "gn:country_code":"SY",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165890,
+    "gn:latitude":36.49029,
+    "gn:longitude":37.68363,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al K\u0101wukl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Q\u0101wuql\u012b"
+    ],
+    "name:ara_x_variant":[
+        "Al K\u0101wukl\u012b",
+        "\u0627\u0644\u0643\u0627\u0648\u0643\u0644\u064a",
+        "\u0627\u0644\u062d\u062c\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kao\u00fbkli",
+        "Kavoukli",
+        "Kawukl\u012b",
+        "Q\u0101wuql\u012b",
+        "Al \u1e28ajal\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165890
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e61c4b7bcec7672264e9650f0210f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1276221599,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276221599,
+    "wof:lastmodified":1537701817,
+    "wof:name":"Al Kawukli",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68363,
+    36.49029,
+    37.68363,
+    36.49029
+],
+  "geometry": {"coordinates":[37.68363,36.49029],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192998387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4125,36.00826,36.4125,36.00826",
+    "geom:latitude":36.00826,
+    "geom:longitude":36.4125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Harat ad Duhayrat",
+    "gn:country_code":"SY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553953,
+    "gn:latitude":36.00826,
+    "gn:longitude":36.4125,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28\u0101rat a\u1e11 \u1e10uhayr\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0636\u0647\u064a\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat a\u1e11 \u1e10uhayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"85fa60023a1363bd3dcd01bc371464cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1192998387,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1192998387,
+    "wof:lastmodified":1537702628,
+    "wof:name":"Harat ad Duhayrat",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4125,
+    36.00826,
+    36.4125,
+    36.00826
+],
+  "geometry": {"coordinates":[36.4125,36.00826],"type":"Point"}
+}

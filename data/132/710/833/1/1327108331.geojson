@@ -1,0 +1,75 @@
+{
+  "id": 1327108331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07605,34.84056,36.07605,34.84056",
+    "geom:latitude":34.84056,
+    "geom:longitude":36.07605,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ruwaysat al Hayik",
+    "gn:country_code":"SY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165285,
+    "gn:latitude":34.84056,
+    "gn:longitude":36.07605,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ruwaysat al \u1e28\u0101yik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0627\u0644\u062d\u0627\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Roua\u00efsset el H\u00e2yek",
+        "Ru\u2019aysat al \u1e28\u0101\u2019ik",
+        "Ruwaysat al \u1e28\u0101yik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165285
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e72fbc192e7c8f51687f300ffed1bba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1327108331,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327108331,
+    "wof:lastmodified":1537701777,
+    "wof:name":"Ruwaysat al Hayik",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07605,
+    34.84056,
+    36.07605,
+    34.84056
+],
+  "geometry": {"coordinates":[36.07605,34.84056],"type":"Point"}
+}

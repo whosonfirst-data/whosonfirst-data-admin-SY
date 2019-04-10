@@ -1,0 +1,81 @@
+{
+  "id": 1276896535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22009,32.9565,36.22009,32.9565",
+    "geom:latitude":32.9565,
+    "geom:longitude":36.22009,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mahajjah",
+    "gn:country_code":"SY",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167501,
+    "gn:latitude":32.9565,
+    "gn:longitude":36.22009,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"Ma\u1e29ajjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u062c\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0434\u0434\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mouhajj\u00e9",
+        "Mahaje",
+        "Mahajje",
+        "Mohadj\u00e9",
+        "Ma\u1e29ajjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167501,
+        "wk:page":"Mahajjah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5b34c26e4ad1c7418d1fb9b9a0408424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1276896535,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276896535,
+    "wof:lastmodified":1537701920,
+    "wof:name":"Mahajjah",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22009,
+    32.9565,
+    36.22009,
+    32.9565
+],
+  "geometry": {"coordinates":[36.22009,32.9565],"type":"Point"}
+}

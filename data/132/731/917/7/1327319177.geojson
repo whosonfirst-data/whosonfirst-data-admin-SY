@@ -1,0 +1,75 @@
+{
+  "id": 1327319177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02751,33.23289,36.02751,33.23289",
+    "geom:latitude":33.23289,
+    "geom:longitude":36.02751,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dayr Makir",
+    "gn:country_code":"SY",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170777,
+    "gn:latitude":33.23289,
+    "gn:longitude":36.02751,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dayr M\u0101kir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0645\u0627\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr M\u00e2ker",
+        "Dayr M\u0101kir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170777,
+        "wk:page":"Deir_Maker"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a09cda0edd62dd710b852d48cba95605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1327319177,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1327319177,
+    "wof:lastmodified":1537702146,
+    "wof:name":"Dayr Makir",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02751,
+    33.23289,
+    36.02751,
+    33.23289
+],
+  "geometry": {"coordinates":[36.02751,33.23289],"type":"Point"}
+}

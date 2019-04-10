@@ -1,0 +1,73 @@
+{
+  "id": 1292995225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94258,35.96325,37.94258,35.96325",
+    "geom:latitude":35.96325,
+    "geom:longitude":37.94258,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat al Ghudraf",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345842,
+    "gn:latitude":35.96325,
+    "gn:longitude":37.94258,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khirbat al Ghudr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u063a\u062f\u0631\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Ghudr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345842
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e14a8e25e822fe8643ac442943af7c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1292995225,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292995225,
+    "wof:lastmodified":1537702547,
+    "wof:name":"Khirbat al Ghudraf",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94258,
+    35.96325,
+    37.94258,
+    35.96325
+],
+  "geometry": {"coordinates":[37.94258,35.96325],"type":"Point"}
+}

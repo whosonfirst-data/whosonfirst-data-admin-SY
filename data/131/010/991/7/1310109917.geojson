@@ -1,0 +1,77 @@
+{
+  "id": 1310109917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.92174,36.87172,40.92174,36.87172",
+    "geom:latitude":36.87172,
+    "geom:longitude":40.92174,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall `Ashiq",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163660,
+    "gn:latitude":36.87172,
+    "gn:longitude":40.92174,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall \u2018Ashiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0634\u0642"
+    ],
+    "name:tur_x_preferred":[
+        "Tall \u2018\u0100shiq"
+    ],
+    "name:und_x_variant":[
+        "Tell A\u00e2cheq",
+        "Tall \u2018Ashiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163660
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"24b4b252723cdecdca5002e2082e5821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1310109917,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310109917,
+    "wof:lastmodified":1537701681,
+    "wof:name":"Tall `Ashiq",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.92174,
+    36.87172,
+    40.92174,
+    36.87172
+],
+  "geometry": {"coordinates":[40.92174,36.87172],"type":"Point"}
+}

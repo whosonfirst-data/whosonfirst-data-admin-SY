@@ -1,0 +1,74 @@
+{
+  "id": 1293769245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39024,33.45041,36.39024,33.45041",
+    "geom:latitude":33.45041,
+    "geom:longitude":36.39024,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Shab`a",
+    "gn:country_code":"SY",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164657,
+    "gn:latitude":33.45041,
+    "gn:longitude":36.39024,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Shab\u2018\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0639\u0627"
+    ],
+    "name:und_x_variant":[
+        "Chaba\u00e2",
+        "Shab\u2018\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164657
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b06ed5f9925fc6c1f92ac59f49a0d6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1293769245,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293769245,
+    "wof:lastmodified":1537701746,
+    "wof:name":"Shab`a",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39024000000001,
+    33.45041,
+    36.39024000000001,
+    33.45041
+],
+  "geometry": {"coordinates":[36.39024000000001,33.45041],"type":"Point"}
+}

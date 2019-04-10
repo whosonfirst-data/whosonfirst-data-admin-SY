@@ -1,0 +1,74 @@
+{
+  "id": 1259479995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.64177,35.45912,40.64177,35.45912",
+    "geom:latitude":35.45912,
+    "geom:longitude":40.64177,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ar Rallashah",
+    "gn:country_code":"SY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275729,
+    "gn:latitude":35.45912,
+    "gn:longitude":40.64177,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ar Rall\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0644\u0627\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Rall\u0101shah",
+        "Ar Ral\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275729
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"10562ab089c1cda1bc59a28be2866f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1259479995,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1259479995,
+    "wof:lastmodified":1537702520,
+    "wof:name":"Ar Rallashah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.64177,
+    35.45912,
+    40.64177,
+    35.45912
+],
+  "geometry": {"coordinates":[40.64177,35.45912],"type":"Point"}
+}

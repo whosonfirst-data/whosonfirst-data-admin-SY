@@ -1,0 +1,78 @@
+{
+  "id": 1277154247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15968,35.79307,36.15968,35.79307",
+    "geom:latitude":35.79307,
+    "geom:longitude":36.15968,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tuffahiyah",
+    "gn:country_code":"SY",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172323,
+    "gn:latitude":35.79307,
+    "gn:longitude":36.15968,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tuff\u0101\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0641\u0627\u062d\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0641\u0627\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Touff\u00e2h\u00eey\u00e9",
+        "At Tuff\u0101\u1e29\u012byah",
+        "Tuff\u0101\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172323
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a71e9ee95022c8ba4ae799c8ccdc6e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1277154247,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1277154247,
+    "wof:lastmodified":1537702265,
+    "wof:name":"Tuffahiyah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15968,
+    35.79307,
+    36.15968,
+    35.79307
+],
+  "geometry": {"coordinates":[36.15968,35.79307],"type":"Point"}
+}

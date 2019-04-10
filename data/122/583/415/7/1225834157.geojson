@@ -1,0 +1,76 @@
+{
+  "id": 1225834157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80282,35.10333,36.80282,35.10333",
+    "geom:latitude":35.10333,
+    "geom:longitude":36.80282,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Surayhin",
+    "gn:country_code":"SY",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163905,
+    "gn:latitude":35.10333,
+    "gn:longitude":36.80282,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Suray\u1e29\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u064a\u062d\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sar\u1e29\u012bn",
+        "Sray\u1e29\u012bn",
+        "Sre\u00efh\u00eene",
+        "Suray\u1e29\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163905
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6f23427516e5ccee32e92eee2aeb32a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1225834157,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1225834157,
+    "wof:lastmodified":1537701703,
+    "wof:name":"Surayhin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80282,
+    35.10333,
+    36.80282,
+    35.10333
+],
+  "geometry": {"coordinates":[36.80282,35.10333],"type":"Point"}
+}

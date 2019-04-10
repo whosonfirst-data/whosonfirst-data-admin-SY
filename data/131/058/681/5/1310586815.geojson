@@ -1,0 +1,78 @@
+{
+  "id": 1310586815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10857,33.3694,36.10857,33.3694",
+    "geom:latitude":33.3694,
+    "geom:longitude":36.10857,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khan ash Shih",
+    "gn:country_code":"SY",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168353,
+    "gn:latitude":33.3694,
+    "gn:longitude":36.10857,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kh\u0101n ash Sh\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646 \u0627\u0644\u0634\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Khan esh Shiha",
+        "Khan Shih Camp",
+        "Kh\u0101n esh Sheikh",
+        "Kh\u00e2ne ech Chih",
+        "Kh\u0101n ash Shaykh",
+        "Kh\u0101n ash Sh\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168353
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bf48dc322a796e0735819bdfab99d6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1310586815,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310586815,
+    "wof:lastmodified":1537701986,
+    "wof:name":"Khan ash Shih",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10857,
+    33.3694,
+    36.10857,
+    33.3694
+],
+  "geometry": {"coordinates":[36.10857,33.3694],"type":"Point"}
+}

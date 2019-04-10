@@ -1,0 +1,73 @@
+{
+  "id": 1309790229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17356,36.26867,37.17356,36.26867",
+    "geom:latitude":36.26867,
+    "geom:longitude":37.17356,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maqta` ash Shahir",
+    "gn:country_code":"SY",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7675517,
+    "gn:latitude":36.26867,
+    "gn:longitude":37.17356,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maqta\u2018 ash Sh\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0637\u0639 \u0627\u0644\u0634\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Maqta\u2018 ash Sh\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675517
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"37c7801247da38f54e541d24c94f69aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1309790229,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309790229,
+    "wof:lastmodified":1537702472,
+    "wof:name":"Maqta` ash Shahir",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17356,
+    36.26867,
+    37.17356,
+    36.26867
+],
+  "geometry": {"coordinates":[37.17356,36.26867],"type":"Point"}
+}

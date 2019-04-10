@@ -1,0 +1,73 @@
+{
+  "id": 1243085107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.14325,36.00152,41.14325,36.00152",
+    "geom:latitude":36.00152,
+    "geom:longitude":41.14325,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Alawi al As`ad",
+    "gn:country_code":"SY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595733,
+    "gn:latitude":36.00152,
+    "gn:longitude":41.14325,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"\u2018Al\u0101w\u012b al As\u2018ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0627\u0648\u064a \u0627\u0644\u0623\u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u0101w\u012b al As\u2018ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595733
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cc76e52a47e24ea93d81060a370d7d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243085107,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243085107,
+    "wof:lastmodified":1537702579,
+    "wof:name":"`Alawi al As`ad",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.14325,
+    36.00152,
+    41.14325,
+    36.00152
+],
+  "geometry": {"coordinates":[41.14325,36.00152],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243053473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65973,33.42571,36.65973,33.42571",
+    "geom:latitude":33.42571,
+    "geom:longitude":36.65973,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hazza` as Sumay`i",
+    "gn:country_code":"SY",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11260421,
+    "gn:latitude":33.42571,
+    "gn:longitude":36.65973,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Hazz\u0101\u2018 a\u015f \u015eumay\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0632\u0627\u0639 \u0627\u0644\u0635\u0645\u064a\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Hazz\u0101\u2018 a\u015f \u015eumay\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11260421
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bdb2962114cc4160f31caf0924781076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243053473,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243053473,
+    "wof:lastmodified":1537702611,
+    "wof:name":"Hazza` as Sumay`i",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65973,
+    33.42571,
+    36.65973,
+    33.42571
+],
+  "geometry": {"coordinates":[36.65973,33.42571],"type":"Point"}
+}

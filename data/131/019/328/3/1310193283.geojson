@@ -1,0 +1,74 @@
+{
+  "id": 1310193283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77682,34.55964,36.77682,34.55964",
+    "geom:latitude":34.55964,
+    "geom:longitude":36.77682,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adh Dhibah",
+    "gn:country_code":"SY",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2955,
+    "gn:latitude":34.55964,
+    "gn:longitude":36.77682,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Adh Dh\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Adh Dh\u012bbah",
+        "Ad D\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2955
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2bdebd6c4b5dad90ad7266e106f38ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310193283,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310193283,
+    "wof:lastmodified":1537701534,
+    "wof:name":"Adh Dhibah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77682,
+    34.55964,
+    36.77682,
+    34.55964
+],
+  "geometry": {"coordinates":[36.77682,34.55964],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344260255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92566,35.32215,35.92566,35.32215",
+    "geom:latitude":35.32215,
+    "geom:longitude":35.92566,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ard `Ayn as Sufrah",
+    "gn:country_code":"SY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8695626,
+    "gn:latitude":35.32215,
+    "gn:longitude":35.92566,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ar\u1e11 \u2018Ayn a\u015f \u015eufrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0639\u064a\u0646 \u0627\u0644\u0635\u0641\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 \u2018Ayn a\u015f \u015eufrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695626
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82982bae1093a1d52a997b9af75ff0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1344260255,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344260255,
+    "wof:lastmodified":1537702584,
+    "wof:name":"Ard `Ayn as Sufrah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92566,
+    35.32215,
+    35.92566,
+    35.32215
+],
+  "geometry": {"coordinates":[35.92566,35.32215],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209318585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.3804,36.97322,41.3804,36.97322",
+    "geom:latitude":36.97322,
+    "geom:longitude":41.3804,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirt Khar",
+    "gn:country_code":"SY",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386025,
+    "gn:latitude":36.97322,
+    "gn:longitude":41.3804,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Khirt Kh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Khirt Kh\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u062a \u062e\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386025
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dfb468a698497e237df246d00925a923",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209318585
+        }
+    ],
+    "wof:id":1209318585,
+    "wof:lastmodified":1537702429,
+    "wof:name":"Khirt Khar",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.3804,
+    36.97322,
+    41.3804,
+    36.97322
+],
+  "geometry": {"coordinates":[41.3804,36.97322],"type":"Point"}
+}

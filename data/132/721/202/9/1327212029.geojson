@@ -1,0 +1,79 @@
+{
+  "id": 1327212029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1716,34.62562,37.1716,34.62562",
+    "geom:latitude":34.62562,
+    "geom:longitude":37.1716,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Murran",
+    "gn:country_code":"SY",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166608,
+    "gn:latitude":34.62562,
+    "gn:longitude":37.1716,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Murr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0646 \u0627\u0644\u0641\u0648\u0627\u0639\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Merr\u00e2ne el Fo\u00fb\u00e2ra",
+        "Murr\u0101n al Faww\u0101rah",
+        "Murr\u0101n al Faw\u0101\u2018irah",
+        "Murr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166608
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dedf7bcc03448326cf3dbde2f4cabdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1327212029,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327212029,
+    "wof:lastmodified":1537701869,
+    "wof:name":"Murran",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1716,
+    34.62562,
+    37.1716,
+    34.62562
+],
+  "geometry": {"coordinates":[37.1716,34.62562],"type":"Point"}
+}

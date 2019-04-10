@@ -1,0 +1,80 @@
+{
+  "id": 1327435755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37079,36.65556,40.37079,36.65556",
+    "geom:latitude":36.65556,
+    "geom:longitude":40.37079,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Tamr",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":163434,
+    "gn:latitude":36.65556,
+    "gn:longitude":40.37079,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Tall Tamr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062a\u0645\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u062a\u0627\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tell T\u00e2mer",
+        "Tall Tamr",
+        "Tall T\u0101mir",
+        "Tel Tamer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163434,
+        "wk:page":"Tell_Tamer"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c38d17a14d699676f999fe28244f8171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327435755,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327435755,
+    "wof:lastmodified":1537701656,
+    "wof:name":"Tall Tamr",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37079,
+    36.65556,
+    40.37079,
+    36.65556
+],
+  "geometry": {"coordinates":[40.37079,36.65556],"type":"Point"}
+}

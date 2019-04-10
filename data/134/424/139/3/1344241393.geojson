@@ -1,0 +1,73 @@
+{
+  "id": 1344241393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88145,35.85747,37.88145,35.85747",
+    "geom:latitude":35.85747,
+    "geom:longitude":37.88145,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat al Musaylan",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342000,
+    "gn:latitude":35.85747,
+    "gn:longitude":37.88145,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khirbat al Musayl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0633\u064a\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Musayl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342000
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2919c630f58ace5fa1e405521a8b76fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1344241393,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344241393,
+    "wof:lastmodified":1537702543,
+    "wof:name":"Khirbat al Musaylan",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88145,
+    35.85747,
+    37.88145,
+    35.85747
+],
+  "geometry": {"coordinates":[37.88145,35.85747],"type":"Point"}
+}

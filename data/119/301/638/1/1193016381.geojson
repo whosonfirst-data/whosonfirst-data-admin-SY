@@ -1,0 +1,76 @@
+{
+  "id": 1193016381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80277,36.55063,38.80277,36.55063",
+    "geom:latitude":36.55063,
+    "geom:longitude":38.80277,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jurn",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168812,
+    "gn:latitude":36.55063,
+    "gn:longitude":38.80277,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Jurn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "Journ el Assouad",
+        "Journ Assouad",
+        "Jurn al Aswad",
+        "Jurn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168812
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bed5ad7b8fe2cf17eca9b54f0bceca8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1193016381,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1193016381,
+    "wof:lastmodified":1537702024,
+    "wof:name":"Jurn",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80277,
+    36.55063,
+    38.80277,
+    36.55063
+],
+  "geometry": {"coordinates":[38.80277,36.55063],"type":"Point"}
+}

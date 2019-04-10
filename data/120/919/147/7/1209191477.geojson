@@ -1,0 +1,69 @@
+{
+  "id": 1209191477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43639,35.86262,36.43639,35.86262",
+    "geom:latitude":35.86262,
+    "geom:longitude":36.43639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kunaysah",
+    "gn:country_code":"SY",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167776,
+    "gn:latitude":35.86262,
+    "gn:longitude":36.43639,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kunaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Knaiss\u00e9",
+        "Kunayyisah",
+        "Kunaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167776
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9fa28df83e8b47f7cfef729a5221176f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209191477
+        }
+    ],
+    "wof:id":1209191477,
+    "wof:lastmodified":1537701939,
+    "wof:name":"Kunaysah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43639,
+    35.86262,
+    36.43639,
+    35.86262
+],
+  "geometry": {"coordinates":[36.43639,35.86262],"type":"Point"}
+}

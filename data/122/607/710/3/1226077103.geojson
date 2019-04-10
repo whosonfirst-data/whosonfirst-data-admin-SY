@@ -1,0 +1,75 @@
+{
+  "id": 1226077103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47992,32.68681,36.47992,32.68681",
+    "geom:latitude":32.68681,
+    "geom:longitude":36.47992,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Aslihah",
+    "gn:country_code":"SY",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174032,
+    "gn:latitude":32.68681,
+    "gn:longitude":36.47992,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al A\u015fli\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0635\u0644\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Asleha",
+        "Asl\u00e9ha",
+        "Al A\u015fli\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174032
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4726a1787d5c49715e13bc49e7030fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1226077103,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1226077103,
+    "wof:lastmodified":1537702386,
+    "wof:name":"Al Aslihah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47992,
+    32.68680999999999,
+    36.47992,
+    32.68680999999999
+],
+  "geometry": {"coordinates":[36.47992,32.68680999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309923579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95477,36.15695,40.95477,36.15695",
+    "geom:latitude":36.15695,
+    "geom:longitude":40.95477,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shahin",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414771,
+    "gn:latitude":36.15695,
+    "gn:longitude":40.95477,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101h\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101h\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0647\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414771
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f022f24502536bafd7ea050c938bec5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1309923579,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1309923579,
+    "wof:lastmodified":1537702433,
+    "wof:name":"Shahin",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95477,
+    36.15695,
+    40.95477,
+    36.15695
+],
+  "geometry": {"coordinates":[40.95477,36.15695],"type":"Point"}
+}

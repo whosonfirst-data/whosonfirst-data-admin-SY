@@ -1,0 +1,73 @@
+{
+  "id": 1326527911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28556,32.92853,36.28556,32.92853",
+    "geom:latitude":32.92853,
+    "geom:longitude":36.28556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Qasr al Mabrum",
+    "gn:country_code":"SY",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5110,
+    "gn:latitude":32.92853,
+    "gn:longitude":36.28556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qa\u015fr al Mabr\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u0645\u0628\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr al Mabr\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5110
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"431948252d8dc01e85d63b178799c9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1326527911,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1326527911,
+    "wof:lastmodified":1537701552,
+    "wof:name":"Qasr al Mabrum",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28556,
+    32.92853,
+    36.28556,
+    32.92853
+],
+  "geometry": {"coordinates":[36.28556,32.92853],"type":"Point"}
+}

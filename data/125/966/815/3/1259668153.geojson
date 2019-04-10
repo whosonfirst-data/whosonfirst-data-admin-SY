@@ -1,0 +1,99 @@
+{
+  "id": 1259668153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19949,36.85885,38.19949,36.85885",
+    "geom:latitude":36.85885,
+    "geom:longitude":38.19949,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qawla",
+    "gn:country_code":"SY",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165892,
+    "gn:latitude":36.85885,
+    "gn:longitude":38.19949,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Qawl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0648\u0644\u0647",
+        "\u0642\u0648\u0644\u0629",
+        "\u0642\u0648\u0644\u0627\u0646\u0629",
+        "\u0642\u06c6\u0644\u0627\u0646\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Qulana Kirad"
+    ],
+    "name:kur_x_variant":[
+        "Qolana Kirad",
+        "\u0642\u0648\u0644\u0627\u0646\u0627 \u0643\u0631\u0627\u062f",
+        "\u0642\u06c6\u0644\u0627\u0646\u0627 \u0643\u0631\u0627\u062f",
+        "Qulana",
+        "\u0642\u0648\u0644\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "K\u016bl\u0101",
+        "Q\u016blah",
+        "Koul\u00e9",
+        "Q\u00f4la",
+        "Qawlah",
+        "Qawl\u0101",
+        "Kula",
+        "Qawla",
+        "Qawl\u0101nah",
+        "Qolana",
+        "Q\u016bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165892
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"79aff512642f4e011dbd967b689e29b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259668153,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259668153,
+    "wof:lastmodified":1537701818,
+    "wof:name":"Qawla",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19949,
+    36.85885,
+    38.19949,
+    36.85885
+],
+  "geometry": {"coordinates":[38.19949,36.85885],"type":"Point"}
+}

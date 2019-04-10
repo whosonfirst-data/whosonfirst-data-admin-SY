@@ -1,0 +1,85 @@
+{
+  "id": 1225925189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88104,34.86033,36.88104,34.86033",
+    "geom:latitude":34.86033,
+    "geom:longitude":36.88104,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Ayn ad Dananir",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172264,
+    "gn:latitude":34.86033,
+    "gn:longitude":36.88104,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u2018Ayn ad Dan\u0101n\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062f\u0646\u0627\u0646\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0627\u0635\u0628\u064a\u0629",
+        "\u0639\u064a\u0646 \u062d\u0635\u064a\u0646 \u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn ed Dan\u00e2n\u00eer",
+        "\u2018Ayn al Dan\u0101n\u012br",
+        "\u2018Ayn ad Dan\u0101n\u012br",
+        "Al Gh\u0101\u015fib\u012byah",
+        "A\u00efn Houssa\u00efne Rharb\u00eey\u00e9",
+        "El Rhasbiye",
+        "El Gasbieh",
+        "\u2018Ayn \u1e28usayn Gharb\u012byah",
+        "El Rhasb\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172264
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"049f5dacf505737a9b4963e214c3a46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1225925189,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1225925189,
+    "wof:lastmodified":1537702261,
+    "wof:name":"`Ayn ad Dananir",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88104000000001,
+    34.86033,
+    36.88104000000001,
+    34.86033
+],
+  "geometry": {"coordinates":[36.88104000000001,34.86033],"type":"Point"}
+}

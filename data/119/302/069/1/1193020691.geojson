@@ -1,0 +1,76 @@
+{
+  "id": 1193020691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58308,32.99333,36.58308,32.99333",
+    "geom:latitude":32.99333,
+    "geom:longitude":36.58308,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lahithah",
+    "gn:country_code":"SY",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167692,
+    "gn:latitude":32.99333,
+    "gn:longitude":36.58308,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"L\u0101hithah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0647\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Lah\u00eet\u00e9",
+        "Lahet\u00e9",
+        "La\u1e29\u012btih",
+        "L\u0101hithah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fca1679110b914a14b444e2b8b14b4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1193020691,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1193020691,
+    "wof:lastmodified":1537701932,
+    "wof:name":"Lahithah",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58308,
+    32.99333,
+    36.58308,
+    32.99333
+],
+  "geometry": {"coordinates":[36.58308,32.99333],"type":"Point"}
+}

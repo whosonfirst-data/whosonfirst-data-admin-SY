@@ -1,0 +1,77 @@
+{
+  "id": 1259661935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12666,34.64503,36.12666,34.64503",
+    "geom:latitude":34.64503,
+    "geom:longitude":36.12666,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ma`rubu",
+    "gn:country_code":"SY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167187,
+    "gn:latitude":34.64503,
+    "gn:longitude":36.12666,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ma\u2018rub\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Maarbo",
+        "Ma\u2018arb\u016b",
+        "Marb\u016b",
+        "Maarabo",
+        "Ma\u2018rub\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167187
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56da957788288f50ab95c1cab7b8c2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1259661935,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259661935,
+    "wof:lastmodified":1537701906,
+    "wof:name":"Ma`rubu",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12666,
+    34.64503,
+    36.12666,
+    34.64503
+],
+  "geometry": {"coordinates":[36.12666,34.64503],"type":"Point"}
+}

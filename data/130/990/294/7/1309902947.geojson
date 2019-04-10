@@ -1,0 +1,75 @@
+{
+  "id": 1309902947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33492,32.92349,37.33492,32.92349",
+    "geom:latitude":32.92349,
+    "geom:longitude":37.33492,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Az Zalaf",
+    "gn:country_code":"SY",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172053,
+    "gn:latitude":32.92349,
+    "gn:longitude":37.33492,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Az Zalaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0644\u0641"
+    ],
+    "name:und_x_variant":[
+        "Z\u00e9laf",
+        "Zalaf",
+        "Az Zalaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172053
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ec66e1576d3a40931629b3911bd25400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1309902947,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309902947,
+    "wof:lastmodified":1537702244,
+    "wof:name":"Az Zalaf",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33492,
+    32.92349,
+    37.33492,
+    32.92349
+],
+  "geometry": {"coordinates":[37.33492,32.92349],"type":"Point"}
+}

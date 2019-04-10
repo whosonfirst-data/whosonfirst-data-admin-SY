@@ -1,0 +1,78 @@
+{
+  "id": 1243444039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77508,36.54958,37.77508,36.54958",
+    "geom:latitude":36.54958,
+    "geom:longitude":37.77508,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khalid al Hijan",
+    "gn:country_code":"SY",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168406,
+    "gn:latitude":36.54958,
+    "gn:longitude":37.77508,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kh\u0101lid al \u1e28ij\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0644\u062f \u0627\u0644\u062d\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101lid al Hij\u0101nah",
+        "Kh\u0101lid al \u1e28\u012bj\u0101n",
+        "Kh\u00e2led el Hij\u00e2ne",
+        "Khaled el Hidjan\u00e9",
+        "Kh\u0101lid al Hayj\u0101n",
+        "Kh\u0101lid al \u1e28ij\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168406
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"184bb861ed0239f41579f0c8f5ca7717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243444039,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243444039,
+    "wof:lastmodified":1537701989,
+    "wof:name":"Khalid al Hijan",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77508,
+    36.54958,
+    37.77508,
+    36.54958
+],
+  "geometry": {"coordinates":[37.77508,36.54958],"type":"Point"}
+}

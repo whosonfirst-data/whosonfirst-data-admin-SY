@@ -1,0 +1,86 @@
+{
+  "id": 1293132737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81782,32.41869,36.81782,32.41869",
+    "geom:latitude":32.41869,
+    "geom:longitude":36.81782,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"164916.0",
+    "gn:asciiname":"Imtan",
+    "gn:country_code":"SY",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169377,
+    "gn:latitude":32.41869,
+    "gn:longitude":36.81782,
+    "gn:modification_date":"2014-01-19",
+    "gn:name":"Imt\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Imt\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0645\u062a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Al Mutayn",
+        "Mothana",
+        "Aymt\u0101n",
+        "Imt\u00e2ne",
+        "Mut\u1e29\u0101nah",
+        "Imth\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169377,
+        "wk:page":"Imtan"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e780007563849a7fe23e76ee961ffcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1293132737,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1293132737,
+    "wof:lastmodified":1537702062,
+    "wof:name":"Imtan",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81782000000001,
+    32.41869000000001,
+    36.81782000000001,
+    32.41869000000001
+],
+  "geometry": {"coordinates":[36.81782000000001,32.41869000000001],"type":"Point"}
+}

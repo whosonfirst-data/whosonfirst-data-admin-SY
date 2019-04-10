@@ -1,0 +1,74 @@
+{
+  "id": 1226326285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50897,35.05971,37.50897,35.05971",
+    "geom:latitude":35.05971,
+    "geom:longitude":37.50897,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb al Aswad",
+    "gn:country_code":"SY",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420131,
+    "gn:latitude":35.05971,
+    "gn:longitude":37.50897,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb al Aswad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0623\u0633\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jubb al Us\u0304d",
+        "Jubb al Aswad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420131
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4fcfb46f00b34efb31fb63da4c54123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226326285,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226326285,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Jubb al Aswad",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50897,
+    35.05971,
+    37.50897,
+    35.05971
+],
+  "geometry": {"coordinates":[37.50897,35.05971],"type":"Point"}
+}

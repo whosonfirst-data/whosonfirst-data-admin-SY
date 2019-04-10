@@ -1,0 +1,83 @@
+{
+  "id": 1293179115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77857,34.89187,36.77857,34.89187",
+    "geom:latitude":34.89187,
+    "geom:longitude":36.77857,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Az Za`faranah",
+    "gn:country_code":"SY",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172058,
+    "gn:latitude":34.89187,
+    "gn:longitude":36.77857,
+    "gn:modification_date":"2016-12-12",
+    "gn:name":"Az Za\u2018far\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u0641\u0631\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0639\u0641\u0631\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zafrani",
+        "Za\u2018far\u0101n",
+        "Zaafar\u00e2n\u00e9",
+        "Zaafr\u00e2ne",
+        "Za\u2018far\u0101nah",
+        "Az Za\u2018far\u0101nah",
+        "al-Zefran",
+        "Zafarana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172058
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7cd8b27f2d174ce29ec16f4243a25a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1293179115,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293179115,
+    "wof:lastmodified":1537702245,
+    "wof:name":"Az Za`faranah",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77857,
+    34.89187,
+    36.77857,
+    34.89187
+],
+  "geometry": {"coordinates":[36.77857,34.89187],"type":"Point"}
+}

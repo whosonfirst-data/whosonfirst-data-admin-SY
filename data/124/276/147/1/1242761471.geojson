@@ -1,0 +1,79 @@
+{
+  "id": 1242761471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8554,35.06794,36.8554,35.06794",
+    "geom:latitude":35.06794,
+    "geom:longitude":36.8554,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Quraymish",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166053,
+    "gn:latitude":35.06794,
+    "gn:longitude":36.8554,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Quraym\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0645\u064a\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0645\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qr\u00e9mich",
+        "Qar\u0101mish",
+        "Qaram\u012bsh",
+        "Quraym\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166053
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2643ed5b6b4a17f61834c9a6ddd921c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242761471,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242761471,
+    "wof:lastmodified":1537701829,
+    "wof:name":"Quraymish",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8554,
+    35.06794,
+    36.8554,
+    35.06794
+],
+  "geometry": {"coordinates":[36.8554,35.06794],"type":"Point"}
+}

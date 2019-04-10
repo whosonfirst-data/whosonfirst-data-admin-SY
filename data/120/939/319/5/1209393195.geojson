@@ -1,0 +1,67 @@
+{
+  "id": 1209393195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59079,34.15756,37.59079,34.15756",
+    "geom:latitude":34.15756,
+    "geom:longitude":37.59079,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Basiri",
+    "gn:country_code":"SY",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308366,
+    "gn:latitude":34.15756,
+    "gn:longitude":37.59079,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al Ba\u015f\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u015f\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308366
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e4cb8c46cc6166279eb42effc3822bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209393195
+        }
+    ],
+    "wof:id":1209393195,
+    "wof:lastmodified":1537702522,
+    "wof:name":"Al Basiri",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59079000000001,
+    34.15756,
+    37.59079000000001,
+    34.15756
+],
+  "geometry": {"coordinates":[37.59079000000001,34.15756],"type":"Point"}
+}

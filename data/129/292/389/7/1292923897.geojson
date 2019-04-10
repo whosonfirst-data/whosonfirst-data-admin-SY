@@ -1,0 +1,75 @@
+{
+  "id": 1292923897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50027,34.89368,36.50027,34.89368",
+    "geom:latitude":34.89368,
+    "geom:longitude":36.50027,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Houla",
+    "gn:country_code":"SY",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":11287703,
+    "gn:latitude":34.89368,
+    "gn:longitude":36.50027,
+    "gn:modification_date":"2017-11-01",
+    "gn:name":"Houla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0644\u0629\u200e\u200e"
+    ],
+    "name:und_x_variant":[
+        "Hula",
+        "al-Houlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287703,
+        "wk:page":"Houla"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"58c42c8a312a3bb2604c1ba8b95cc53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1292923897,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1292923897,
+    "wof:lastmodified":1537702614,
+    "wof:name":"Houla",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50027,
+    34.89368,
+    36.50027,
+    34.89368
+],
+  "geometry": {"coordinates":[36.50027,34.89368],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260380725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25,36.7,38.25,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":38.25,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Seljiye",
+    "gn:country_code":"SY",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164673,
+    "gn:latitude":36.7,
+    "gn:longitude":38.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00e9ljiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u00e9ljiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164673
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"52eccfdc635f2a20172fc1b0bcb451df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260380725,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260380725,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Seljiye",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25,
+    36.7,
+    38.25,
+    36.7
+],
+  "geometry": {"coordinates":[38.25,36.7],"type":"Point"}
+}

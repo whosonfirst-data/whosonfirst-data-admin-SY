@@ -1,0 +1,75 @@
+{
+  "id": 1226237655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13815,35.44542,37.13815,35.44542",
+    "geom:latitude":35.44542,
+    "geom:longitude":37.13815,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Qal`ah",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166231,
+    "gn:latitude":35.44542,
+    "gn:longitude":37.13815,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qalaat el Haou\u00e2yess",
+        "Qal\u2018at al Haou\u00e2yess",
+        "Al Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166231
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b257c4c2a739a999928d1790da93006e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226237655,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226237655,
+    "wof:lastmodified":1537701847,
+    "wof:name":"Al Qal`ah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13815,
+    35.44542,
+    37.13815,
+    35.44542
+],
+  "geometry": {"coordinates":[37.13815,35.44542],"type":"Point"}
+}

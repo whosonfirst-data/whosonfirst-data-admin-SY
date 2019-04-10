@@ -1,0 +1,82 @@
+{
+  "id": 1209803479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4989,34.67789,36.4989,34.67789",
+    "geom:latitude":34.67789,
+    "geom:longitude":36.4989,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sayyadiyah",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164692,
+    "gn:latitude":34.67789,
+    "gn:longitude":36.4989,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u015eayy\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u0627\u062f\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u064a\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sayadi\u00e9",
+        "Sa\u00efy\u00e2d\u00eey\u00e9",
+        "\u015eayy\u0101d\u012byah",
+        "A\u015f \u015eayy\u0101d\u012byah",
+        "Sa\u00efyd\u00e9",
+        "Sa\u00efy\u00e2d\u00e9",
+        "\u015eayy\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e60190f6d60c766b482fb132e12ff82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1209803479,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209803479,
+    "wof:lastmodified":1537701748,
+    "wof:name":"Sayyadiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4989,
+    34.67789,
+    36.4989,
+    34.67789
+],
+  "geometry": {"coordinates":[36.4989,34.67789],"type":"Point"}
+}

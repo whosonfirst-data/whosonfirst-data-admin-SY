@@ -1,0 +1,76 @@
+{
+  "id": 1310394403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48286,35.35242,36.48286,35.35242",
+    "geom:latitude":35.35242,
+    "geom:longitude":36.48286,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaykh Hadid",
+    "gn:country_code":"SY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172716,
+    "gn:latitude":35.35242,
+    "gn:longitude":36.48286,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Shaykh \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u062d\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shaykh \u1e28ad\u012bd",
+        "Che\u012bkh Had\u00eed",
+        "Ash Shaykh \u1e28ad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172716,
+        "wk:page":"Shaykh_Hadid"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e0faee3f43a8055b74b2e3fef8e6b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1310394403,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310394403,
+    "wof:lastmodified":1537702288,
+    "wof:name":"Shaykh Hadid",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48286,
+    35.35242,
+    36.48286,
+    35.35242
+],
+  "geometry": {"coordinates":[36.48286,35.35242],"type":"Point"}
+}

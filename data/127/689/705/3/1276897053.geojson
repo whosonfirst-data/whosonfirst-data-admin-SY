@@ -1,0 +1,79 @@
+{
+  "id": 1276897053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49711,32.77295,36.49711,32.77295",
+    "geom:latitude":32.77295,
+    "geom:longitude":36.49711,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazra`ah al Hunudaydat",
+    "gn:country_code":"SY",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173474,
+    "gn:latitude":32.77295,
+    "gn:longitude":36.49711,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mazra\u2018ah al Hun\u016bdayd\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0647\u0646\u0648\u062f\u064a\u062f\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "El Mazra\u2018a",
+        "Mazra\u00e2",
+        "El Mezraa",
+        "Mazra\u2018ah",
+        "Al Mazra\u2018ah",
+        "Mazra\u2018ah al Hun\u016bdayd\u0101t",
+        "Mazra\u2018at al Hun\u016bd\u012bd\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173474
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0aa3a7d569458a58752793d431e19f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1276897053,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1276897053,
+    "wof:lastmodified":1537702338,
+    "wof:name":"Mazra`ah al Hunudaydat",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49711,
+    32.77295,
+    36.49711,
+    32.77295
+],
+  "geometry": {"coordinates":[36.49711,32.77295],"type":"Point"}
+}

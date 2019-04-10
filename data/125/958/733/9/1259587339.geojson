@@ -1,0 +1,79 @@
+{
+  "id": 1259587339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.85389,37.11339,41.85389,37.11339",
+    "geom:latitude":37.11339,
+    "geom:longitude":41.85389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bakrwan",
+    "gn:country_code":"SY",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171816,
+    "gn:latitude":37.11339,
+    "gn:longitude":41.85389,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Bakrw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0631\u0648\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0634\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u0101qirw\u0101n",
+        "Baqerou\u00e2ne",
+        "Bakrw\u0101n",
+        "Al Mashrafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171816
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d93d1aa53bce4c1ae5969d79df9a57be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1259587339,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259587339,
+    "wof:lastmodified":1537702227,
+    "wof:name":"Bakrwan",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.85389,
+    37.11339,
+    41.85389,
+    37.11339
+],
+  "geometry": {"coordinates":[41.85389,37.11339],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209303597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19957,35.3661,37.19957,35.3661",
+    "geom:latitude":35.3661,
+    "geom:longitude":37.19957,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu `Ajwah",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340896,
+    "gn:latitude":35.3661,
+    "gn:longitude":37.19957,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ab\u016b \u2018Ajwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0639\u062c\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u2018Ajwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340896
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a0abb9d8d15ef7969320b4ecadad5f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209303597
+        }
+    ],
+    "wof:id":1209303597,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Abu `Ajwah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19957,
+    35.3661,
+    37.19957,
+    35.3661
+],
+  "geometry": {"coordinates":[37.19957,35.3661],"type":"Point"}
+}

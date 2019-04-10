@@ -1,0 +1,71 @@
+{
+  "id": 1209704699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23582,35.42218,36.23582,35.42218",
+    "geom:latitude":35.42218,
+    "geom:longitude":36.23582,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mashta Muhammad `Adhrah",
+    "gn:country_code":"SY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167093,
+    "gn:latitude":35.42218,
+    "gn:longitude":36.23582,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Masht\u00e1 Mu\u1e29ammad \u2018Adhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machta Mohammed Aadra",
+        "Masht\u00e1 Mu\u1e29ammad \u2018Adhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167093
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f9f7bd07b80763ecbb2d5e2f28ce6eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1209704699,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209704699,
+    "wof:lastmodified":1537701899,
+    "wof:name":"Mashta Muhammad `Adhrah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23582,
+    35.42218,
+    36.23582,
+    35.42218
+],
+  "geometry": {"coordinates":[36.23582,35.42218],"type":"Point"}
+}

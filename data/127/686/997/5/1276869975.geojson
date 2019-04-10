@@ -1,0 +1,76 @@
+{
+  "id": 1276869975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94192,32.71789,35.94192,32.71789",
+    "geom:latitude":32.71789,
+    "geom:longitude":35.94192,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zayzun",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162444,
+    "gn:latitude":32.71789,
+    "gn:longitude":35.94192,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Zayz\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0632\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ze\u00efzun",
+        "Zalzum",
+        "Ze\u00efzoun",
+        "Zayz\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162444
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b27133a0bdf33ab013aeea800bdfab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1276869975,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276869975,
+    "wof:lastmodified":1537701591,
+    "wof:name":"Zayzun",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94192,
+    32.71789,
+    35.94192,
+    32.71789
+],
+  "geometry": {"coordinates":[35.94192,32.71789],"type":"Point"}
+}

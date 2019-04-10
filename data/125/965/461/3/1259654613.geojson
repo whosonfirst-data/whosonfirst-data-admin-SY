@@ -1,0 +1,76 @@
+{
+  "id": 1259654613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97816,35.18553,35.97816,35.18553",
+    "geom:latitude":35.18553,
+    "geom:longitude":35.97816,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ubin",
+    "gn:country_code":"SY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163054,
+    "gn:latitude":35.18553,
+    "gn:longitude":35.97816,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u016ab\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u016ab\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0648\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "O\u00fbb\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163054
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c4b0e8d3ff475652de6b9fb4dfa82333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259654613,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259654613,
+    "wof:lastmodified":1537701634,
+    "wof:name":"Ubin",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97815999999999,
+    35.18553,
+    35.97815999999999,
+    35.18553
+],
+  "geometry": {"coordinates":[35.97815999999999,35.18553],"type":"Point"}
+}

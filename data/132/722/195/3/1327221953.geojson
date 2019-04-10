@@ -1,0 +1,77 @@
+{
+  "id": 1327221953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68765,34.87573,36.68765,34.87573",
+    "geom:latitude":34.87573,
+    "geom:longitude":36.68765,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Sharshuh",
+    "gn:country_code":"SY",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162840,
+    "gn:latitude":34.87573,
+    "gn:longitude":36.68765,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Umm Sharsh\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0634\u0631\u0634\u0648\u062d"
+    ],
+    "name:und_x_variant":[
+        "Oum ech Cherchouch",
+        "Oum Charcho\u00fbh",
+        "Oumm Charchouh",
+        "Oumm Charcho\u00fbch",
+        "Umm Sharsh\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162840
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ab4fdaf1e7721c812d317dff37afb077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1327221953,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327221953,
+    "wof:lastmodified":1537701618,
+    "wof:name":"Umm Sharshuh",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68765,
+    34.87573,
+    36.68765,
+    34.87573
+],
+  "geometry": {"coordinates":[36.68765,34.87573],"type":"Point"}
+}

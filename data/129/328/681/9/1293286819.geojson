@@ -1,0 +1,78 @@
+{
+  "id": 1293286819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56967,34.86142,40.56967,34.86142",
+    "geom:latitude":34.86142,
+    "geom:longitude":40.56967,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dablan",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171009,
+    "gn:latitude":34.86142,
+    "gn:longitude":40.56967,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Dabl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dibl\u00e2ne",
+        "Dabl\u0101nah",
+        "Dabl\u00e2ne",
+        "Deblane",
+        "Daby\u0101n",
+        "Dabl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171009
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e401b00a8f75799070453ca2d38ceaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779151,
+            "locality_id":1293286819,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1293286819,
+    "wof:lastmodified":1537702164,
+    "wof:name":"Dablan",
+    "wof:parent_id":1108779151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56967,
+    34.86142,
+    40.56967,
+    34.86142
+],
+  "geometry": {"coordinates":[40.56967,34.86142],"type":"Point"}
+}

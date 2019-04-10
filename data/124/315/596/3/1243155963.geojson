@@ -1,0 +1,74 @@
+{
+  "id": 1243155963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86313,35.31779,36.86313,35.31779",
+    "geom:latitude":35.31779,
+    "geom:longitude":36.86313,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tayyibat al Ism",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163269,
+    "gn:latitude":35.31779,
+    "gn:longitude":36.86313,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u0162ayyibat al Ism",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629 \u0627\u0644\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ta\u00efbet el Ism",
+        "\u0162ayyibat al Ism"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163269
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"43fdc39fd3610f333dffe22581e712e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1243155963,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243155963,
+    "wof:lastmodified":1537701645,
+    "wof:name":"Tayyibat al Ism",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86313,
+    35.31779,
+    36.86313,
+    35.31779
+],
+  "geometry": {"coordinates":[36.86313,35.31779],"type":"Point"}
+}

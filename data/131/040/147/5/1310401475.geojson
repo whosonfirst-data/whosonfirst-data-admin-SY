@@ -1,0 +1,76 @@
+{
+  "id": 1310401475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55381,36.68993,38.55381,36.68993",
+    "geom:latitude":36.68993,
+    "geom:longitude":38.55381,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dibrak Shaykhan",
+    "gn:country_code":"SY",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170686,
+    "gn:latitude":36.68993,
+    "gn:longitude":38.55381,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"D\u012bbrak Shaykh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0628\u0631\u0643 \u0634\u064a\u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u00eebrek Che\u00efkh\u00e2ne",
+        "D\u00eebrek",
+        "D\u012bbrik",
+        "D\u012bbrak Shaykh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170686
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f24ac20d16614e069d8544f73204f837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1310401475,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310401475,
+    "wof:lastmodified":1537702140,
+    "wof:name":"Dibrak Shaykhan",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55381,
+    36.68993,
+    38.55381,
+    36.68993
+],
+  "geometry": {"coordinates":[38.55381,36.68993],"type":"Point"}
+}

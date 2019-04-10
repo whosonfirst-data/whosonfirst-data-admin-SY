@@ -1,0 +1,79 @@
+{
+  "id": 1309801187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33612,33.09545,36.33612,33.09545",
+    "geom:latitude":33.09545,
+    "geom:longitude":36.33612,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Qal`at Asma",
+    "gn:country_code":"SY",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166210,
+    "gn:latitude":33.09545,
+    "gn:longitude":36.33612,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Qal\u2018at Asm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u0627\u0633\u0645\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0644\u0639\u0629 \u0623\u0633\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qalaat es Samak",
+        "Qal\u2018at as Samak",
+        "Qal\u2018at al Asm\u0101",
+        "Qal\u2018at Asm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166210
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e42af514d71bb1007bf2d43644e5b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1309801187,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1309801187,
+    "wof:lastmodified":1537701847,
+    "wof:name":"Qal`at Asma",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33612,
+    33.09545,
+    36.33612,
+    33.09545
+],
+  "geometry": {"coordinates":[36.33612,33.09545],"type":"Point"}
+}

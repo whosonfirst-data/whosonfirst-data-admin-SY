@@ -1,0 +1,73 @@
+{
+  "id": 1343775995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.0506,36.16034,41.0506,36.16034",
+    "geom:latitude":36.16034,
+    "geom:longitude":41.0506,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aradah",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595752,
+    "gn:latitude":36.16034,
+    "gn:longitude":41.0506,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ar\u0101\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u0101\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595752
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"221bb6700602c841dc5d83fb307cf8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1343775995,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343775995,
+    "wof:lastmodified":1537702580,
+    "wof:name":"Aradah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.0506,
+    36.16034000000001,
+    41.0506,
+    36.16034000000001
+],
+  "geometry": {"coordinates":[41.0506,36.16034000000001],"type":"Point"}
+}

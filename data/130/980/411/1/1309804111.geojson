@@ -1,0 +1,73 @@
+{
+  "id": 1309804111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.8739,35.63105,38.8739,35.63105",
+    "geom:latitude":35.63105,
+    "geom:longitude":38.8739,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Tabat",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781,
+    "gn:latitude":35.63105,
+    "gn:longitude":38.8739,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b \u0162\u0101b\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b \u0162\u0101b\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u0637\u0627\u0628\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69ae0ff56295493f51507b916e758c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1309804111,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309804111,
+    "wof:lastmodified":1537701556,
+    "wof:name":"Abu Tabat",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.8739,
+    35.63105,
+    38.8739,
+    35.63105
+],
+  "geometry": {"coordinates":[38.8739,35.63105],"type":"Point"}
+}

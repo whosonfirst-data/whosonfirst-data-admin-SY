@@ -1,0 +1,75 @@
+{
+  "id": 1293473631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12955,35.28275,37.12955,35.28275",
+    "geom:latitude":35.28275,
+    "geom:longitude":37.12955,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buyad as Saffaf",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173915,
+    "gn:latitude":35.28275,
+    "gn:longitude":37.12955,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u016by\u0101d a\u015f \u015eaff\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0627\u062f \u0627\u0644\u0635\u0641\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "El Boua\u00efd",
+        "Al Buway\u1e11",
+        "B\u016by\u0101d a\u015f \u015eaff\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173915
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4bad42444e4033cc8149cca3bb5971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293473631,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293473631,
+    "wof:lastmodified":1537702375,
+    "wof:name":"Buyad as Saffaf",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12955,
+    35.28275,
+    37.12955,
+    35.28275
+],
+  "geometry": {"coordinates":[37.12955,35.28275],"type":"Point"}
+}

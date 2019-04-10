@@ -1,0 +1,75 @@
+{
+  "id": 1344051475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77301,36.43483,37.77301,36.43483",
+    "geom:latitude":36.43483,
+    "geom:longitude":37.77301,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Labidah",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167702,
+    "gn:latitude":36.43483,
+    "gn:longitude":37.77301,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u0101bidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0628\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "L\u0101bdih",
+        "L\u00e2bd\u00e9",
+        "L\u0101bidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167702
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"164a2f81a2e2d3bed1c59e1998009245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1344051475,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344051475,
+    "wof:lastmodified":1537701933,
+    "wof:name":"Labidah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77301,
+    36.43483,
+    37.77301,
+    36.43483
+],
+  "geometry": {"coordinates":[37.77301,36.43483],"type":"Point"}
+}

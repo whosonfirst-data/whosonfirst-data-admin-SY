@@ -1,0 +1,103 @@
+{
+  "id": 1344047101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25551,36.7631,38.25551,36.7631",
+    "geom:latitude":36.7631,
+    "geom:longitude":38.25551,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dunghuz",
+    "gn:country_code":"SY",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170581,
+    "gn:latitude":36.7631,
+    "gn:longitude":38.25551,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"D\u016bngh\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u016bngh\u016bz"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0646\u063a\u0648\u0632",
+        "\u0633\u0644\u0627\u0645\u0629 \u0635\u063a\u064a\u0631\u0629",
+        "\u0633\u0644\u0627\u0645\u0629 \u0635\u063a\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Dunqiza Bicuk"
+    ],
+    "name:kur_x_variant":[
+        "Donqiza Bicuk",
+        "Donqiza Bich\u00fbk",
+        "Donqiza Bichuk",
+        "\u062f\u0648\u0646\u0642\u0632\u0627 \u0628\u062c\u0648\u0643",
+        "\u062f\u06c6\u0646\u0642\u0632\u0627 \u0628\u062c\u0648\u0643",
+        "\u062f\u06c6\u0646\u0642\u0632\u0627 \u0628\u0686\u0648\u0648\u0643",
+        "\u062f\u06c6\u0646\u0642\u0632\u0627 \u0628\u0686\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Donnrho\u00fbz",
+        "Donnrho\u00fbz S\u00e9rh\u00eer",
+        "Donrhoz",
+        "Dungh\u016bz a\u015f \u015eagh\u012br",
+        "Dunghiz Saghir",
+        "Sal\u0101mah \u015eagh\u012brah",
+        "Donqiza Bi\u00e7\u00fbk",
+        "Selama Sex\u00eera",
+        "Selama Segh\u00eera",
+        "Sal\u0101ma \u015eagh\u012bra",
+        "Salama Saghira",
+        "Zerav\u00eek",
+        "Z\u0101rw\u012bk",
+        "Sal\u0101mah \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170581
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d8e8524038e183771703ba6657fdc600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1344047101,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344047101,
+    "wof:lastmodified":1537702133,
+    "wof:name":"Dunghuz",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25551,
+    36.7631,
+    38.25551,
+    36.7631
+],
+  "geometry": {"coordinates":[38.25551,36.7631],"type":"Point"}
+}

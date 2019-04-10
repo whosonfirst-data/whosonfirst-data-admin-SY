@@ -1,0 +1,71 @@
+{
+  "id": 1209191555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54312,35.54724,36.54312,35.54724",
+    "geom:latitude":35.54724,
+    "geom:longitude":36.54312,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arrat Hurmah",
+    "gn:country_code":"SY",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167608,
+    "gn:latitude":35.54724,
+    "gn:longitude":36.54312,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ma\u2018arrat \u1e28urmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0629 \u062d\u0631\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maarret Horm\u00e9",
+        "Ma\u2018arrat al \u1e28urmih",
+        "Maarrat Horm\u00e9",
+        "Ma\u2018arrat \u1e28urmah",
+        "Ma\u2018arrat\u1e29urmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167608
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"170fd2c3ecdb264c9c32d2e283be298f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209191555
+        }
+    ],
+    "wof:id":1209191555,
+    "wof:lastmodified":1537701926,
+    "wof:name":"Ma`arrat Hurmah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54312,
+    35.54724,
+    36.54312,
+    35.54724
+],
+  "geometry": {"coordinates":[36.54312,35.54724],"type":"Point"}
+}

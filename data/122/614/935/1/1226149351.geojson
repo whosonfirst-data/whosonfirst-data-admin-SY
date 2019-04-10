@@ -1,0 +1,73 @@
+{
+  "id": 1226149351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55389,35.62767,38.55389,35.62767",
+    "geom:latitude":35.62767,
+    "geom:longitude":38.55389,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir Abu Sanabil",
+    "gn:country_code":"SY",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347133,
+    "gn:latitude":35.62767,
+    "gn:longitude":38.55389,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br Ab\u016b San\u0101bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0650\u0623\u0628\u0648 \u0633\u0646\u0627\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "B\u012br Ab\u016b San\u0101bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347133
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b30bec614ea5e76d7b37607a8cd66a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1226149351,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226149351,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Bir Abu Sanabil",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55389,
+    35.62767,
+    38.55389,
+    35.62767
+],
+  "geometry": {"coordinates":[38.55389,35.62767],"type":"Point"}
+}

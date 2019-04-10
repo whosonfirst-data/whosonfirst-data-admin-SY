@@ -1,0 +1,81 @@
+{
+  "id": 1343947641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66903,36.599,37.66903,36.599",
+    "geom:latitude":36.599,
+    "geom:longitude":37.66903,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hawa Huyuk",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169770,
+    "gn:latitude":36.599,
+    "gn:longitude":37.66903,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Haw\u0101 Huy\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u0648\u0627 \u0647\u064a\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Houa Heuyuk",
+        "Haoua Huyuk",
+        "Haw\u0101\u2019 Hay\u012bk",
+        "Haw\u0101\u2019 Huy\u016bk",
+        "Tall al Haw\u00e1",
+        "Haw\u0101 Huy\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169770
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f35620ea6ff97122ff33e9387e86ef40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343947641,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343947641,
+    "wof:lastmodified":1537702087,
+    "wof:name":"Hawa Huyuk",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66903,
+    36.599,
+    37.66903,
+    36.599
+],
+  "geometry": {"coordinates":[37.66903,36.599],"type":"Point"}
+}

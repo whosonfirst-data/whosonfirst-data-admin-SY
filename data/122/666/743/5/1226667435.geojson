@@ -1,0 +1,74 @@
+{
+  "id": 1226667435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85226,35.62631,39.85226,35.62631",
+    "geom:latitude":35.62631,
+    "geom:longitude":39.85226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Falw",
+    "gn:country_code":"SY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4323,
+    "gn:latitude":35.62631,
+    "gn:longitude":39.85226,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Al Falw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Al Fal\u016b Kib\u0101r",
+        "Al Falw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4323
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b840d6909040ae7713b86f15d4becd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1226667435,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226667435,
+    "wof:lastmodified":1537701539,
+    "wof:name":"Al Falw",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85226,
+    35.62631,
+    39.85226,
+    35.62631
+],
+  "geometry": {"coordinates":[39.85226,35.62631],"type":"Point"}
+}

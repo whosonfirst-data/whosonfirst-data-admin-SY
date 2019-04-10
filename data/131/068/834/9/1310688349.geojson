@@ -1,0 +1,73 @@
+{
+  "id": 1310688349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4707,36.15727,36.4707,36.15727",
+    "geom:latitude":36.15727,
+    "geom:longitude":36.4707,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bab al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554023,
+    "gn:latitude":36.15727,
+    "gn:longitude":36.4707,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"B\u0101b al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b al Haw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554023
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"65917adf5da00905c8b011ffa7242f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1310688349,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310688349,
+    "wof:lastmodified":1537702629,
+    "wof:name":"Bab al Hawa",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4707,
+    36.15727,
+    36.4707,
+    36.15727
+],
+  "geometry": {"coordinates":[36.4707,36.15727],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276640377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92685,36.4366,36.92685,36.4366",
+    "geom:latitude":36.4366,
+    "geom:longitude":36.92685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Busaylah",
+    "gn:country_code":"SY",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164048,
+    "gn:latitude":36.4366,
+    "gn:longitude":36.92685,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Bu\u015faylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sorh\u00e2ne"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u063a\u0627\u0646\u0629",
+        "\u0627\u0644\u0628\u0635\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sorhaniy\u00e9",
+        "Sorh\u00e2na",
+        "Souraneh",
+        "\u015e\u016bgh\u0101nah",
+        "Al Bu\u015faylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164048
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b92b466680a5514bc80fc9d34de6a5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1276640377,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276640377,
+    "wof:lastmodified":1537701712,
+    "wof:name":"Al Busaylah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92685,
+    36.4366,
+    36.92685,
+    36.4366
+],
+  "geometry": {"coordinates":[36.92685,36.4366],"type":"Point"}
+}

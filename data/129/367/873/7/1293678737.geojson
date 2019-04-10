@@ -1,0 +1,75 @@
+{
+  "id": 1293678737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06629,36.18854,38.06629,36.18854",
+    "geom:latitude":36.18854,
+    "geom:longitude":38.06629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Arudah Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":172892,
+    "gn:latitude":36.18854,
+    "gn:longitude":38.06629,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u2018Ar\u016b\u1e11ah \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0648\u0636\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaro\u00fbda S\u00e9rh\u00eer\u00e9",
+        "\u2018Ar\u016b\u1e11ah a\u015f \u015eagh\u012brah",
+        "\u2018Ar\u016b\u1e11ah \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172892
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"16bb9886433c460eb52a988265f2ed46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293678737,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293678737,
+    "wof:lastmodified":1537702296,
+    "wof:name":"`Arudah Saghirah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06629,
+    36.18854,
+    38.06629,
+    36.18854
+],
+  "geometry": {"coordinates":[38.06629,36.18854],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327248921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.34589,36.91956,40.34589,36.91956",
+    "geom:latitude":36.91956,
+    "geom:longitude":40.34589,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qabr Khadrawi",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166272,
+    "gn:latitude":36.91956,
+    "gn:longitude":40.34589,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qabr Kha\u1e11r\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u062e\u0636\u0631\u0627\u0648\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Qabr Kha\u1e11r\u0101w\u012b"
+    ],
+    "name:und_x_variant":[
+        "Qabr Khadr\u00e2oui",
+        "Qabr Kha\u1e11r\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166272
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c762f9fde2ca8340e273d489fc680f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1327248921,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327248921,
+    "wof:lastmodified":1537701850,
+    "wof:name":"Qabr Khadrawi",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.34589,
+    36.91956,
+    40.34589,
+    36.91956
+],
+  "geometry": {"coordinates":[40.34589,36.91956],"type":"Point"}
+}

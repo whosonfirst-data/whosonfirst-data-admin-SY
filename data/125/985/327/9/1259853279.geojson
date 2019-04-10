@@ -1,0 +1,75 @@
+{
+  "id": 1259853279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11286,34.93495,36.11286,34.93495",
+    "geom:latitude":34.93495,
+    "geom:longitude":36.11286,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kafr Tallash",
+    "gn:country_code":"SY",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168628,
+    "gn:latitude":34.93495,
+    "gn:longitude":36.11286,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kafr \u0162allash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0637\u0644\u0634"
+    ],
+    "name:und_x_variant":[
+        "Kafer Tallech",
+        "Kafer Tellech",
+        "Kafr \u0162allash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168628
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"536de8cfe95e4612fdd82f748fd7e078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1259853279,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259853279,
+    "wof:lastmodified":1537702007,
+    "wof:name":"Kafr Tallash",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11286,
+    34.93495,
+    36.11286,
+    34.93495
+],
+  "geometry": {"coordinates":[36.11286,34.93495],"type":"Point"}
+}

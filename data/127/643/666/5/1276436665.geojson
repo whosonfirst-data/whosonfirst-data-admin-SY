@@ -1,0 +1,73 @@
+{
+  "id": 1276436665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54908,36.61171,38.54908,36.61171",
+    "geom:latitude":36.61171,
+    "geom:longitude":38.54908,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mil",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166906,
+    "gn:latitude":36.61171,
+    "gn:longitude":38.54908,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"M\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166906
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"be38218baceaecd56fa3c6f223a66138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276436665,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276436665,
+    "wof:lastmodified":1537701887,
+    "wof:name":"Mil",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54908,
+    36.61171,
+    38.54908,
+    36.61171
+],
+  "geometry": {"coordinates":[38.54908,36.61171],"type":"Point"}
+}

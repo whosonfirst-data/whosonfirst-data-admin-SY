@@ -1,0 +1,73 @@
+{
+  "id": 1226121413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99185,35.00006,35.99185,35.00006",
+    "geom:latitude":35.00006,
+    "geom:longitude":35.99185,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Ballul",
+    "gn:country_code":"SY",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270059,
+    "gn:latitude":35.00006,
+    "gn:longitude":35.99185,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bayt Ball\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0628\u0644\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bayt Ball\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270059
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8f4c9fe6478628d966404d7897c1e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226121413,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226121413,
+    "wof:lastmodified":1537702506,
+    "wof:name":"Bayt Ballul",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99185,
+    35.00006,
+    35.99185,
+    35.00006
+],
+  "geometry": {"coordinates":[35.99185,35.00006],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243451031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71415,34.78005,40.71415,34.78005",
+    "geom:latitude":34.78005,
+    "geom:longitude":40.71415,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kharayij",
+    "gn:country_code":"SY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384724,
+    "gn:latitude":34.78005,
+    "gn:longitude":40.71415,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Khar\u0101yij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u064a\u062c"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0631\u0627\u0646\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101\u2019ij",
+        "Khar\u0101yij",
+        "Ghar\u0101n\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384724
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"58ea1e332a62e668b9898be84bd7b2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1243451031,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243451031,
+    "wof:lastmodified":1537702424,
+    "wof:name":"Kharayij",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71415,
+    34.78005,
+    40.71415,
+    34.78005
+],
+  "geometry": {"coordinates":[40.71415,34.78005],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259456719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97161,35.0573,35.97161,35.0573",
+    "geom:latitude":35.0573,
+    "geom:longitude":35.97161,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bluzah",
+    "gn:country_code":"SY",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171326,
+    "gn:latitude":35.0573,
+    "gn:longitude":35.97161,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bl\u016bzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Blo\u00fbz\u00e9",
+        "Bl\u016bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171326
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d0a4b127f2779c72c1f05c8b236677b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1259456719,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259456719,
+    "wof:lastmodified":1537702189,
+    "wof:name":"Bluzah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97161,
+    35.0573,
+    35.97161,
+    35.0573
+],
+  "geometry": {"coordinates":[35.97161,35.0573],"type":"Point"}
+}

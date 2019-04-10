@@ -1,0 +1,73 @@
+{
+  "id": 1277079265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65535,32.48168,36.65535,32.48168",
+    "geom:latitude":32.48168,
+    "geom:longitude":36.65535,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazra`at al `Aliqah",
+    "gn:country_code":"SY",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036190,
+    "gn:latitude":32.48168,
+    "gn:longitude":36.65535,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mazra\u2018at al \u2018Al\u012bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0639\u0644\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al \u2018Al\u012bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036190
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7f041f61a715ee5afe1f9c4cb7b75ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1277079265,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1277079265,
+    "wof:lastmodified":1537702479,
+    "wof:name":"Mazra`at al `Aliqah",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65535,
+    32.48168,
+    36.65535,
+    32.48168
+],
+  "geometry": {"coordinates":[36.65535,32.48168],"type":"Point"}
+}

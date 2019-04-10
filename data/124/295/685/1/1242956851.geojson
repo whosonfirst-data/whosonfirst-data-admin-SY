@@ -1,0 +1,85 @@
+{
+  "id": 1242956851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62243,34.93745,36.62243,34.93745",
+    "geom:latitude":34.93745,
+    "geom:longitude":36.62243,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Harbinafsah",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":169886,
+    "gn:latitude":34.93745,
+    "gn:longitude":36.62243,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u1e28arbinafsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0628\u0646\u0641\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kharbnefih",
+        "Harb Nafsou",
+        "Kharibnafih",
+        "\u1e28arb Nafsih",
+        "Harb Nefsi",
+        "Harb Nafs\u00e9",
+        "Harbnessi",
+        "\u1e28arb Nafsah",
+        "\u1e28arbinafsah",
+        "\u1e28urr Binafsah",
+        "\u1e28urbinafsuh",
+        "\u1e28arbinafsih",
+        "\u1e28arbnafsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169886
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"378825627f130d130f5ed66823e2b812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242956851,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242956851,
+    "wof:lastmodified":1537702094,
+    "wof:name":"Harbinafsah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62243,
+    34.93745,
+    36.62243,
+    34.93745
+],
+  "geometry": {"coordinates":[36.62243,34.93745],"type":"Point"}
+}

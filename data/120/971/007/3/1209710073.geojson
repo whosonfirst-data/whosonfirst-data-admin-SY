@@ -1,0 +1,70 @@
+{
+  "id": 1209710073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31667,36.4875,38.31667,36.4875",
+    "geom:latitude":36.4875,
+    "geom:longitude":38.31667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sufaytah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114,
+    "gn:latitude":36.4875,
+    "gn:longitude":38.31667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sufay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sufay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12ba66f89ada12486d708210005d811a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1209710073,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209710073,
+    "wof:lastmodified":1537701563,
+    "wof:name":"Sufaytah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31667,
+    36.4875,
+    38.31667,
+    36.4875
+],
+  "geometry": {"coordinates":[38.31667,36.4875],"type":"Point"}
+}

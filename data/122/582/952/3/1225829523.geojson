@@ -1,0 +1,88 @@
+{
+  "id": 1225829523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26096,36.90827,38.26096,36.90827",
+    "geom:latitude":36.90827,
+    "geom:longitude":38.26096,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zawra`awi",
+    "gn:country_code":"SY",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427220,
+    "gn:latitude":36.90827,
+    "gn:longitude":38.26096,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Zawra\u2018aw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631\u0639\u0648\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Zubar"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u0648\u0628\u0627\u0631",
+        "Z\u00fbbar",
+        "Zobar",
+        "\u0632\u0648\u0648\u0628\u0627\u0631",
+        "\u0632\u06c6\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zawra\u2018aw\u012b",
+        "Zorava",
+        "Z\u016bb\u0101r",
+        "Zerafe",
+        "Zawrafa",
+        "Zorave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427220
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"58643744038eb86395a49411b8d437eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1225829523,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225829523,
+    "wof:lastmodified":1537702568,
+    "wof:name":"Zawra`awi",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26096,
+    36.90827,
+    38.26096,
+    36.90827
+],
+  "geometry": {"coordinates":[38.26096,36.90827],"type":"Point"}
+}

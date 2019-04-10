@@ -1,0 +1,78 @@
+{
+  "id": 1225828785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94906,35.25185,35.94906,35.25185",
+    "geom:latitude":35.25185,
+    "geom:longitude":35.94906,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qulu` al Buhayri",
+    "gn:country_code":"SY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694941,
+    "gn:latitude":35.25185,
+    "gn:longitude":35.94906,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Qul\u016b\u2018 al Bu\u1e29ayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0648\u0639 \u0627\u0644\u0628\u062d\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Al Qul\u016b\u2018",
+        "\u0627\u0644\u0642\u0644\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Qul\u016b\u2018 al Bu\u1e29ayr\u012b",
+        "Qallue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694941
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94f7c9661bb8151b25da4c708be99de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1225828785,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1225828785,
+    "wof:lastmodified":1537702582,
+    "wof:name":"Qulu` al Buhayri",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94906,
+    35.25185,
+    35.94906,
+    35.25185
+],
+  "geometry": {"coordinates":[35.94906,35.25185],"type":"Point"}
+}

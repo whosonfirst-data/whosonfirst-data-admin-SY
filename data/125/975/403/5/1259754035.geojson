@@ -1,0 +1,73 @@
+{
+  "id": 1259754035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93585,34.85935,35.93585,34.85935",
+    "geom:latitude":34.85935,
+    "geom:longitude":35.93585,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Ma`asir",
+    "gn:country_code":"SY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265959,
+    "gn:latitude":34.85935,
+    "gn:longitude":35.93585,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Ma\u2018\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44076ccfa68e95b7965b05b4c32580ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1259754035,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259754035,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Al Ma`asir",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93585,
+    34.85935,
+    35.93585,
+    34.85935
+],
+  "geometry": {"coordinates":[35.93585,34.85935],"type":"Point"}
+}

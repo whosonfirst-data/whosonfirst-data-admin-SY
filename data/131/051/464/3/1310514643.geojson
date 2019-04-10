@@ -1,0 +1,80 @@
+{
+  "id": 1310514643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10335,35.78587,36.10335,35.78587",
+    "geom:latitude":35.78587,
+    "geom:longitude":36.10335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aqjah Bayir",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4637,
+    "gn:latitude":35.78587,
+    "gn:longitude":36.10335,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Aqjah B\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0642\u062c\u0647 \u0628\u0627\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627\u0621",
+        "\u0623\u063a\u062c\u0629 \u0628\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Aqjah B\u0101yir",
+        "Aqtche Baer",
+        "Al Bay\u1e11\u0101\u2019",
+        "Aghjah B\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4637
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a044a3671ec8f57b32d59556ddca0998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1310514643,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310514643,
+    "wof:lastmodified":1537701549,
+    "wof:name":"Aqjah Bayir",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10335,
+    35.78587,
+    36.10335,
+    35.78587
+],
+  "geometry": {"coordinates":[36.10335,35.78587],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327346653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15498,35.53756,36.15498,35.53756",
+    "geom:latitude":35.53756,
+    "geom:longitude":36.15498,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn ad Dar",
+    "gn:country_code":"SY",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172263,
+    "gn:latitude":35.53756,
+    "gn:longitude":36.15498,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn ad D\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062f\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2019Ain ed D\u00e2r",
+        "\u2018Ayn ad D\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172263
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"40f5a082e27d0baf3daeabe1f4e71a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1327346653,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327346653,
+    "wof:lastmodified":1537702261,
+    "wof:name":"`Ayn ad Dar",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15498,
+    35.53756,
+    36.15498,
+    35.53756
+],
+  "geometry": {"coordinates":[36.15498,35.53756],"type":"Point"}
+}

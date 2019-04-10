@@ -1,0 +1,76 @@
+{
+  "id": 1210001995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12235,33.67361,36.12235,33.67361",
+    "geom:latitude":33.67361,
+    "geom:longitude":36.12235,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hurayrah",
+    "gn:country_code":"SY",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169469,
+    "gn:latitude":33.67361,
+    "gn:longitude":36.12235,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Hurayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hureir\u00e9",
+        "Houra\u00efr\u00e9",
+        "Houre\u00efr\u00e9",
+        "Hurayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169469
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e1d535d0325721af0ab7f4a9e188930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1210001995,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210001995,
+    "wof:lastmodified":1537702068,
+    "wof:name":"Hurayrah",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12235,
+    33.67361,
+    36.12235,
+    33.67361
+],
+  "geometry": {"coordinates":[36.12235,33.67361],"type":"Point"}
+}

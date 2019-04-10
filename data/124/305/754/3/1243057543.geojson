@@ -1,0 +1,75 @@
+{
+  "id": 1243057543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.6263,36.57422,37.6263,36.57422",
+    "geom:latitude":36.57422,
+    "geom:longitude":37.6263,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tulaylah",
+    "gn:country_code":"SY",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163162,
+    "gn:latitude":36.57422,
+    "gn:longitude":37.6263,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Tulaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tle\u00efl\u00e9",
+        "Tle\u00efli",
+        "Tulaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163162
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"90efb6764368ba84f2809a87340fd408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1243057543,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243057543,
+    "wof:lastmodified":1537701641,
+    "wof:name":"Tulaylah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.6263,
+    36.57422,
+    37.6263,
+    36.57422
+],
+  "geometry": {"coordinates":[37.6263,36.57422],"type":"Point"}
+}

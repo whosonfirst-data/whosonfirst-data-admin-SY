@@ -1,0 +1,74 @@
+{
+  "id": 1243377781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10169,36.78466,40.10169,36.78466",
+    "geom:latitude":36.78466,
+    "geom:longitude":40.10169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bir Razah",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171380,
+    "gn:latitude":36.78466,
+    "gn:longitude":40.10169,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"B\u012br R\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0631\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00eer R\u00e2za",
+        "B\u012br R\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171380
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a56b7ac71d6d111a62a697e0487c73ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1243377781,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243377781,
+    "wof:lastmodified":1537702194,
+    "wof:name":"Bir Razah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10169000000001,
+    36.78466,
+    40.10169000000001,
+    36.78466
+],
+  "geometry": {"coordinates":[40.10169000000001,36.78466],"type":"Point"}
+}

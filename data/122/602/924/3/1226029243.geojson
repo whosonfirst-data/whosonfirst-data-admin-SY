@@ -1,0 +1,78 @@
+{
+  "id": 1226029243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60172,36.43584,36.60172,36.43584",
+    "geom:latitude":36.43584,
+    "geom:longitude":36.60172,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haykajah",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273927,
+    "gn:latitude":36.43584,
+    "gn:longitude":36.60172,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Haykajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0643\u062c\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u0643\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aykajah",
+        "Haykajah",
+        "Hikdje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273927
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fb6ffc42358dc3f41c847f10244f26f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226029243,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226029243,
+    "wof:lastmodified":1537702512,
+    "wof:name":"Haykajah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60172,
+    36.43584,
+    36.60172,
+    36.43584
+],
+  "geometry": {"coordinates":[36.60172,36.43584],"type":"Point"}
+}

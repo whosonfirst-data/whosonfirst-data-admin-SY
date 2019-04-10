@@ -1,0 +1,67 @@
+{
+  "id": 1209499481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.00555,35.97068,38.00555,35.97068",
+    "geom:latitude":35.97068,
+    "geom:longitude":38.00555,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Ghari",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904,
+    "gn:latitude":35.97068,
+    "gn:longitude":38.00555,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Gh\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0627\u0631\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db64f340eecc9fae216588cd9d8d3dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209499481
+        }
+    ],
+    "wof:id":1209499481,
+    "wof:lastmodified":1537701561,
+    "wof:name":"Al Ghari",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.00555,
+    35.97068,
+    38.00555,
+    35.97068
+],
+  "geometry": {"coordinates":[38.00555,35.97068],"type":"Point"}
+}

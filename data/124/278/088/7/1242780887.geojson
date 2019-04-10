@@ -1,0 +1,75 @@
+{
+  "id": 1242780887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92675,35.69484,35.92675,35.69484",
+    "geom:latitude":35.69484,
+    "geom:longitude":35.92675,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hamam",
+    "gn:country_code":"SY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170011,
+    "gn:latitude":35.69484,
+    "gn:longitude":35.92675,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Hamame",
+        "\u1e28am\u0101m",
+        "\u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170011
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46990ac6056766a60bed99f8873ea29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1242780887,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242780887,
+    "wof:lastmodified":1537702103,
+    "wof:name":"Hamam",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92675,
+    35.69484,
+    35.92675,
+    35.69484
+],
+  "geometry": {"coordinates":[35.92675,35.69484],"type":"Point"}
+}

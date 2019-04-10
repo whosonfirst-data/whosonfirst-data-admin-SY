@@ -1,0 +1,73 @@
+{
+  "id": 1360169197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08548,36.80735,38.08548,36.80735",
+    "geom:latitude":36.80735,
+    "geom:longitude":38.08548,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qatash",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10304602,
+    "gn:latitude":36.80735,
+    "gn:longitude":38.08548,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Qa\u0163ash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qa\u0163ash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10304602
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8f8c99f9337cb131292f1ec9a92734f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1360169197,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360169197,
+    "wof:lastmodified":1537702597,
+    "wof:name":"Qatash",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08548,
+    36.80735,
+    38.08548,
+    36.80735
+],
+  "geometry": {"coordinates":[38.08548,36.80735],"type":"Point"}
+}

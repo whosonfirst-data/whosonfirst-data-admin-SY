@@ -1,0 +1,73 @@
+{
+  "id": 1260204643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76133,35.75275,39.76133,35.75275",
+    "geom:latitude":35.75275,
+    "geom:longitude":39.76133,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jazirat Tall Milash",
+    "gn:country_code":"SY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379959,
+    "gn:latitude":35.75275,
+    "gn:longitude":39.76133,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Jaz\u012brat Tall M\u012bl\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062a\u0644 \u0645\u064a\u0644\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Jaz\u012brat Tall M\u012bl\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"882d2f3c79a41da694e36969da1de2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1260204643,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1260204643,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Jazirat Tall Milash",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76133,
+    35.75275,
+    39.76133,
+    35.75275
+],
+  "geometry": {"coordinates":[39.76133,35.75275],"type":"Point"}
+}

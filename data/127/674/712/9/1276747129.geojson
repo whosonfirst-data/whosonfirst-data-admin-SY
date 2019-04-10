@@ -1,0 +1,73 @@
+{
+  "id": 1276747129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84322,34.97736,36.84322,34.97736",
+    "geom:latitude":34.97736,
+    "geom:longitude":36.84322,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Humaydah",
+    "gn:country_code":"SY",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8321958,
+    "gn:latitude":34.97736,
+    "gn:longitude":36.84322,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al \u1e28umay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28umay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8321958
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"abef02590a7f1d48f4f2cbe552407f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276747129,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276747129,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Al Humaydah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84322,
+    34.97736,
+    36.84322,
+    34.97736
+],
+  "geometry": {"coordinates":[36.84322,34.97736],"type":"Point"}
+}

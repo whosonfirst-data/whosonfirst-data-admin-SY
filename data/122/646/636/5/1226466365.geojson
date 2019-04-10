@@ -1,0 +1,73 @@
+{
+  "id": 1226466365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87423,35.99215,38.87423,35.99215",
+    "geom:latitude":35.99215,
+    "geom:longitude":38.87423,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"As Sukhuriyah",
+    "gn:country_code":"SY",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172424,
+    "gn:latitude":35.99215,
+    "gn:longitude":38.87423,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"A\u015f \u015eukh\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062e\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eukh\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6005df39f46351188997897305e912f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1226466365,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226466365,
+    "wof:lastmodified":1537702273,
+    "wof:name":"As Sukhuriyah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87423,
+    35.99215,
+    38.87423,
+    35.99215
+],
+  "geometry": {"coordinates":[38.87423,35.99215],"type":"Point"}
+}

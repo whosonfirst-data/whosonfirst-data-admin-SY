@@ -1,0 +1,70 @@
+{
+  "id": 1243347045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.961,34.81925,35.961,34.81925",
+    "geom:latitude":34.81925,
+    "geom:longitude":35.961,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Luqyah",
+    "gn:country_code":"SY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8265492,
+    "gn:latitude":34.81925,
+    "gn:longitude":35.961,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Luqyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0642\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265492
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05ac5f6eda1131e6383ed12e62971e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1243347045,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243347045,
+    "wof:lastmodified":1537702500,
+    "wof:name":"Al Luqyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.961,
+    34.81925,
+    35.961,
+    34.81925
+],
+  "geometry": {"coordinates":[35.961,34.81925],"type":"Point"}
+}

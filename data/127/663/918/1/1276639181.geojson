@@ -1,0 +1,75 @@
+{
+  "id": 1276639181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10947,34.77711,36.10947,34.77711",
+    "geom:latitude":34.77711,
+    "geom:longitude":36.10947,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Na`isah",
+    "gn:country_code":"SY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171548,
+    "gn:latitude":34.77711,
+    "gn:longitude":36.10947,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bayt N\u0101\u2018isah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0646\u0627\u0639\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft N\u00e2ass\u00e9",
+        "Bayt N\u0101\u2018isah",
+        "Be\u00eft N\u00e2asse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171548
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2e5fda003bb59ac758393c6142dc63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1276639181,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276639181,
+    "wof:lastmodified":1537702207,
+    "wof:name":"Bayt Na`isah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10947,
+    34.77711,
+    36.10947,
+    34.77711
+],
+  "geometry": {"coordinates":[36.10947,34.77711],"type":"Point"}
+}

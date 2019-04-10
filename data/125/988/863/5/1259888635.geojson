@@ -1,0 +1,78 @@
+{
+  "id": 1259888635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99612,35.38753,35.99612,35.38753",
+    "geom:latitude":35.38753,
+    "geom:longitude":35.99612,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jifana",
+    "gn:country_code":"SY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169067,
+    "gn:latitude":35.38753,
+    "gn:longitude":35.99612,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Jif\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jif\u0101n\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0641\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jiftana",
+        "Jift\u0101nah",
+        "Jaf\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169067
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aca8dd0e13f90749ee579f43b0d70c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1259888635,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259888635,
+    "wof:lastmodified":1537702043,
+    "wof:name":"Jifana",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99612,
+    35.38753,
+    35.99612,
+    35.38753
+],
+  "geometry": {"coordinates":[35.99612,35.38753],"type":"Point"}
+}

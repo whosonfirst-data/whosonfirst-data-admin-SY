@@ -1,0 +1,74 @@
+{
+  "id": 1193022051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.01105,36.57644,39.01105,36.57644",
+    "geom:latitude":36.57644,
+    "geom:longitude":39.01105,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dughaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170619,
+    "gn:latitude":36.57644,
+    "gn:longitude":39.01105,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"D\u016bgh\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u063a\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Do\u00fbrh\u00e2n\u00eey\u00e9",
+        "D\u016bgh\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170619
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"febd9b42415363b257ea04bf4d593db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1193022051,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1193022051,
+    "wof:lastmodified":1537702136,
+    "wof:name":"Dughaniyah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.01105,
+    36.57644000000001,
+    39.01105,
+    36.57644000000001
+],
+  "geometry": {"coordinates":[39.01105,36.57644000000001],"type":"Point"}
+}

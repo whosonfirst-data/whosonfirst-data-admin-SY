@@ -1,0 +1,74 @@
+{
+  "id": 1344145967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56462,35.13867,36.56462,35.13867",
+    "geom:latitude":35.13867,
+    "geom:longitude":36.56462,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qal`at Jarjarah",
+    "gn:country_code":"SY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166195,
+    "gn:latitude":35.13867,
+    "gn:longitude":36.56462,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Qal\u2018at Jarjarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u062c\u0631\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qalaat Jarjara",
+        "Qal\u2018at Jarjarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166195
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b2d26b7c4306967abbf025a4897238c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1344145967,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344145967,
+    "wof:lastmodified":1537701846,
+    "wof:name":"Qal`at Jarjarah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56462,
+    35.13867,
+    36.56462,
+    35.13867
+],
+  "geometry": {"coordinates":[36.56462,35.13867],"type":"Point"}
+}

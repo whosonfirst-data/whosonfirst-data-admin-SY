@@ -1,0 +1,75 @@
+{
+  "id": 1293119677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11667,36.1,37.11667,36.1",
+    "geom:latitude":36.1,
+    "geom:longitude":37.11667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Wudayhi",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162638,
+    "gn:latitude":36.1,
+    "gn:longitude":37.11667,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Wu\u1e11ay\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u00fbd\u00e9hi",
+        "Wudeihi",
+        "Oud\u00e9h",
+        "Wa\u1e11\u1e29\u012b",
+        "Wu\u1e11ay\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162638
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cbe69ba1b2a3904d0181352b1741a2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293119677,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293119677,
+    "wof:lastmodified":1537701605,
+    "wof:name":"Wudayhi",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11667,
+    36.1,
+    37.11667,
+    36.1
+],
+  "geometry": {"coordinates":[37.11667,36.1],"type":"Point"}
+}

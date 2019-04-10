@@ -1,0 +1,76 @@
+{
+  "id": 1210002047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34605,33.43065,36.34605,33.43065",
+    "geom:latitude":33.43065,
+    "geom:longitude":36.34605,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh Sahya",
+    "gn:country_code":"SY",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169692,
+    "gn:latitude":33.43065,
+    "gn:longitude":36.34605,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u1e28awsh \u015eahy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0635\u0647\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Haouch S\u00e2ya",
+        "Haouch Sayeh",
+        "\u1e28awsh \u015e\u0101y\u0101",
+        "\u1e28awsh \u015eahy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e65265375aa7ccf99cf2bc7982e1bd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1210002047,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210002047,
+    "wof:lastmodified":1537702082,
+    "wof:name":"Hawsh Sahya",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34605,
+    33.43065,
+    36.34605,
+    33.43065
+],
+  "geometry": {"coordinates":[36.34605,33.43065],"type":"Point"}
+}

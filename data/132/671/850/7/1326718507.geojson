@@ -1,0 +1,76 @@
+{
+  "id": 1326718507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48816,34.72138,36.48816,34.72138",
+    "geom:latitude":34.72138,
+    "geom:longitude":36.48816,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ghuzaylah",
+    "gn:country_code":"SY",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170179,
+    "gn:latitude":34.72138,
+    "gn:longitude":36.48816,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ghuzaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0632\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhza\u00efl\u00e9",
+        "Ghze\u00efl\u00e9",
+        "Ghuzaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170179,
+        "wk:page":"Ghuzaylah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8861cb3711c581e92f524c06582f0aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1326718507,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1326718507,
+    "wof:lastmodified":1537702112,
+    "wof:name":"Ghuzaylah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48816,
+    34.72138,
+    36.48816,
+    34.72138
+],
+  "geometry": {"coordinates":[36.48816,34.72138],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293122311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.58587,35.36091,40.58587,35.36091",
+    "geom:latitude":35.36091,
+    "geom:longitude":40.58587,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"At Tallabah",
+    "gn:country_code":"SY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131216,
+    "gn:latitude":35.36091,
+    "gn:longitude":40.58587,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"A\u0163 \u0162all\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0644\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162all\u0101bah",
+        "A\u0163 \u0162\u0101libah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131216
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"157b4793d3bc806c011952c1b18cec31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1293122311,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1293122311,
+    "wof:lastmodified":1537702594,
+    "wof:name":"At Tallabah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.58587,
+    35.36091,
+    40.58587,
+    35.36091
+],
+  "geometry": {"coordinates":[40.58587,35.36091],"type":"Point"}
+}

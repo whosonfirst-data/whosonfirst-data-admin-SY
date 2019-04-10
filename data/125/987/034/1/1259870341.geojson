@@ -1,0 +1,70 @@
+{
+  "id": 1259870341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32193,33.59335,36.32193,33.59335",
+    "geom:latitude":33.59335,
+    "geom:longitude":36.32193,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sahl al Laqabah",
+    "gn:country_code":"SY",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411212,
+    "gn:latitude":33.59335,
+    "gn:longitude":36.32193,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sahl al Laqabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0644 \u0627\u0644\u0644\u0642\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"32060964c770018d99cc70bed89012f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1259870341,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259870341,
+    "wof:lastmodified":1537702557,
+    "wof:name":"Sahl al Laqabah",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32193,
+    33.59335,
+    36.32193,
+    33.59335
+],
+  "geometry": {"coordinates":[36.32193,33.59335],"type":"Point"}
+}

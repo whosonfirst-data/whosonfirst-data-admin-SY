@@ -1,0 +1,81 @@
+{
+  "id": 1309785905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05835,35.81822,37.05835,35.81822",
+    "geom:latitude":35.81822,
+    "geom:longitude":37.05835,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Thallajin",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163729,
+    "gn:latitude":35.81822,
+    "gn:longitude":37.05835,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Thall\u0101j\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0644\u0627\u062c\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell Edjine",
+        "Tel Jin",
+        "Tall J\u012bn",
+        "Tell J\u012bn",
+        "Tell Djin",
+        "Tall\u00e2j\u00een\u00e9",
+        "Tall\u0101j\u012bn",
+        "Thall\u0101j\u012bn",
+        "Thal\u0101j\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163729
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"88d3f2d4d214b0ca9c88391cd2cc05eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1309785905,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1309785905,
+    "wof:lastmodified":1537701689,
+    "wof:name":"Thallajin",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05835,
+    35.81822000000001,
+    37.05835,
+    35.81822000000001
+],
+  "geometry": {"coordinates":[37.05835,35.81822000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243172557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.60067,36.625,38.60067,36.625",
+    "geom:latitude":36.625,
+    "geom:longitude":38.60067,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaklik Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168605,
+    "gn:latitude":36.625,
+    "gn:longitude":38.60067,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kakl\u012bk Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0643\u0644\u064a\u0643 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "K\u00e9klik Taht\u00e2ni",
+        "Kakl\u012bk at Ta\u1e29t\u0101n\u012b",
+        "Kakl\u012bk Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168605
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bba3dd379beeb44122e773cbc4851936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1243172557,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1243172557,
+    "wof:lastmodified":1537702005,
+    "wof:name":"Kaklik Tahtani",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.60067,
+    36.625,
+    38.60067,
+    36.625
+],
+  "geometry": {"coordinates":[38.60067,36.625],"type":"Point"}
+}

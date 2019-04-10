@@ -1,0 +1,77 @@
+{
+  "id": 1226432173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64921,36.66155,36.64921,36.66155",
+    "geom:latitude":36.66155,
+    "geom:longitude":36.64921,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hajji Qanli Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235776,
+    "gn:latitude":36.66155,
+    "gn:longitude":36.64921,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u1e28ajj\u012b Q\u0101nl\u012b Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0628\u0627\u0646\u064a\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u062c\u064a \u0642\u0627\u0646\u0644\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at B\u0101n\u012bk",
+        "\u1e28ajj\u012b Q\u0101nl\u012b Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235776
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"49260a387a24080d32a8434400eaad20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226432173,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226432173,
+    "wof:lastmodified":1537702489,
+    "wof:name":"Hajji Qanli Tahtani",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64921,
+    36.66155,
+    36.64921,
+    36.66155
+],
+  "geometry": {"coordinates":[36.64921,36.66155],"type":"Point"}
+}

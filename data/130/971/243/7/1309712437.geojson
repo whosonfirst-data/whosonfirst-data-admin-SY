@@ -1,0 +1,75 @@
+{
+  "id": 1309712437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.74874,36.68027,38.74874,36.68027",
+    "geom:latitude":36.68027,
+    "geom:longitude":38.74874,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dayyil",
+    "gn:country_code":"SY",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170747,
+    "gn:latitude":36.68027,
+    "gn:longitude":38.74874,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Dayyil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0651\u0644"
+    ],
+    "name:und_x_variant":[
+        "Diguel",
+        "De\u00efyel",
+        "Dayyil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170747
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c8e74a51e9bcd3fd68e0b7c50794cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1309712437,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309712437,
+    "wof:lastmodified":1537702142,
+    "wof:name":"Dayyil",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.74874000000001,
+    36.68027,
+    38.74874000000001,
+    36.68027
+],
+  "geometry": {"coordinates":[38.74874000000001,36.68027],"type":"Point"}
+}

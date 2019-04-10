@@ -1,0 +1,78 @@
+{
+  "id": 1259477765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4164,36.54084,37.4164,36.54084",
+    "geom:latitude":36.54084,
+    "geom:longitude":37.4164,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ka`ibah",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168613,
+    "gn:latitude":36.54084,
+    "gn:longitude":37.4164,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ka\u2018\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0639\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u0101biyah",
+        "Ka\u00efb\u00e9",
+        "K\u0101ribah",
+        "Kha\u00efb\u00e9",
+        "K\u0101\u2019ibah",
+        "Ka\u2018\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168613
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4710ec19f18a33e67df31227d72c93e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1259477765,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259477765,
+    "wof:lastmodified":1537702005,
+    "wof:name":"Ka`ibah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4164,
+    36.54084,
+    37.4164,
+    36.54084
+],
+  "geometry": {"coordinates":[37.4164,36.54084],"type":"Point"}
+}

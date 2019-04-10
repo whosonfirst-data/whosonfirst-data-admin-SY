@@ -1,0 +1,73 @@
+{
+  "id": 1259489407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35386,35.92047,38.35386,35.92047",
+    "geom:latitude":35.92047,
+    "geom:longitude":38.35386,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shabhar Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6898,
+    "gn:latitude":35.92047,
+    "gn:longitude":38.35386,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Shab\u1e29ar Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u062d\u0631 \u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shab\u1e29ar Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db9241cf6c533c971ecc93e9df719903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259489407,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259489407,
+    "wof:lastmodified":1537701560,
+    "wof:name":"Shabhar Sharqi",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35386,
+    35.92047,
+    38.35386,
+    35.92047
+],
+  "geometry": {"coordinates":[38.35386,35.92047],"type":"Point"}
+}

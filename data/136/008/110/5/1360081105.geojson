@@ -1,0 +1,74 @@
+{
+  "id": 1360081105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38144,35.16798,37.38144,35.16798",
+    "geom:latitude":35.16798,
+    "geom:longitude":37.38144,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dukaylah",
+    "gn:country_code":"SY",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170611,
+    "gn:latitude":35.16798,
+    "gn:longitude":37.38144,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dukaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0643\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dke\u00efl\u00e9",
+        "Dukaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170611
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a63a2a21760f91a49551b985890edbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1360081105,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360081105,
+    "wof:lastmodified":1537702136,
+    "wof:name":"Dukaylah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38144000000001,
+    35.16798,
+    37.38144000000001,
+    35.16798
+],
+  "geometry": {"coordinates":[37.38144000000001,35.16798],"type":"Point"}
+}

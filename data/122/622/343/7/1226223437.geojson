@@ -1,0 +1,77 @@
+{
+  "id": 1226223437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31239,34.76611,37.31239,34.76611",
+    "geom:latitude":34.76611,
+    "geom:longitude":37.31239,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Faw Shawish",
+    "gn:country_code":"SY",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170418,
+    "gn:latitude":34.76611,
+    "gn:longitude":37.31239,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"F\u0101w Sh\u0101w\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u0101w Sh\u0101w\u012bsh"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u0648 \u0634\u0627\u0648\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "F\u00e2ou Ch\u00e2ou\u00eech",
+        "Fa\u2019w Sh\u0101w\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170418
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d16c3798aa22bc6706679f819db2daf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1226223437,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226223437,
+    "wof:lastmodified":1537702122,
+    "wof:name":"Faw Shawish",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31239,
+    34.76611,
+    37.31239,
+    34.76611
+],
+  "geometry": {"coordinates":[37.31239,34.76611],"type":"Point"}
+}

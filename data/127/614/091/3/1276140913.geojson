@@ -1,0 +1,77 @@
+{
+  "id": 1276140913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8343,36.17005,37.8343,36.17005",
+    "geom:latitude":36.17005,
+    "geom:longitude":37.8343,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm Qiway",
+    "gn:country_code":"SY",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12957,
+    "gn:latitude":36.17005,
+    "gn:longitude":37.8343,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rasm Qiw\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0642\u0648\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rasm Qiw\u0101y",
+        "Rasm ad Daw\u0101l\u012b",
+        "Ed Douali",
+        "Rasm ed Dou\u00e2li",
+        "Rasm ed Qou\u00e2li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12957
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8137a7728aa821e86fcf45016d3584bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276140913,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276140913,
+    "wof:lastmodified":1537701581,
+    "wof:name":"Rasm Qiway",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8343,
+    36.17005,
+    37.8343,
+    36.17005
+],
+  "geometry": {"coordinates":[37.8343,36.17005],"type":"Point"}
+}

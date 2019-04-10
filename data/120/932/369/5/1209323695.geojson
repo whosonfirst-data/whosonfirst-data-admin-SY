@@ -1,0 +1,73 @@
+{
+  "id": 1209323695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87,35.52575,35.87,35.52575",
+    "geom:latitude":35.52575,
+    "geom:longitude":35.87,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Khallalah",
+    "gn:country_code":"SY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168389,
+    "gn:latitude":35.52575,
+    "gn:longitude":35.87,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Khall\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0627\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0644\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khell\u00e2l\u00e9",
+        "Khall\u0101lah",
+        "Al Khall\u0101lah",
+        "Khlaleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168389
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"455de3e4002faff369be3518b43b4394",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209323695
+        }
+    ],
+    "wof:id":1209323695,
+    "wof:lastmodified":1537701988,
+    "wof:name":"Al Khallalah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87,
+    35.52575,
+    35.87,
+    35.52575
+],
+  "geometry": {"coordinates":[35.87,35.52575],"type":"Point"}
+}

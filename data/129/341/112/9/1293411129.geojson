@@ -1,0 +1,78 @@
+{
+  "id": 1293411129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79138,34.66164,40.79138,34.66164",
+    "geom:latitude":34.66164,
+    "geom:longitude":40.79138,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Qit`ah",
+    "gn:country_code":"SY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173351,
+    "gn:latitude":34.66164,
+    "gn:longitude":40.79138,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Qi\u0163\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Gata",
+        "Al Qa\u0163\u2018\u0101",
+        "El Qata\u00e2",
+        "El Qata",
+        "Al Qu\u0163\u2018ah",
+        "Al Qi\u0163\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173351
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cec785f458c76211805e1db6c519caca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1293411129,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1293411129,
+    "wof:lastmodified":1537702326,
+    "wof:name":"Al Qit`ah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79138,
+    34.66164000000001,
+    40.79138,
+    34.66164000000001
+],
+  "geometry": {"coordinates":[40.79138,34.66164000000001],"type":"Point"}
+}

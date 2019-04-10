@@ -1,0 +1,70 @@
+{
+  "id": 1293678863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08889,36.425,38.08889,36.425",
+    "geom:latitude":36.425,
+    "geom:longitude":38.08889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Awj Qana",
+    "gn:country_code":"SY",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9095,
+    "gn:latitude":36.425,
+    "gn:longitude":38.08889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Awj Qan\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awj Qan\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9095
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c40fb82509c967690665e6cf412ecd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293678863,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293678863,
+    "wof:lastmodified":1537701563,
+    "wof:name":"Awj Qana",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08889,
+    36.425,
+    38.08889,
+    36.425
+],
+  "geometry": {"coordinates":[38.08889,36.425],"type":"Point"}
+}

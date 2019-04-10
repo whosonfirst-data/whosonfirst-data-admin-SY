@@ -1,0 +1,76 @@
+{
+  "id": 1226231879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.78122,36.46371,37.78122,36.46371",
+    "geom:latitude":36.46371,
+    "geom:longitude":37.78122,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Quzjali Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165621,
+    "gn:latitude":36.46371,
+    "gn:longitude":37.78122,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quzjal\u012b Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0632\u062c\u0644\u064a \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qozdjali K\u00e9b\u00eer",
+        "Qozdjali Kbir",
+        "Quzjal\u012b al Kab\u012br",
+        "Quzjal\u012b Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165621
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0075d4b6c84e7524a29826e1ea29bca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226231879,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226231879,
+    "wof:lastmodified":1537701796,
+    "wof:name":"Quzjali Kabir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.78122000000001,
+    36.46371,
+    37.78122000000001,
+    36.46371
+],
+  "geometry": {"coordinates":[37.78122000000001,36.46371],"type":"Point"}
+}

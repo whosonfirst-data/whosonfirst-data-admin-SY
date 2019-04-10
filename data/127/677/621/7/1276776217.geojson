@@ -1,0 +1,73 @@
+{
+  "id": 1276776217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83396,35.71813,35.83396,35.71813",
+    "geom:latitude":35.71813,
+    "geom:longitude":35.83396,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"As Sama`liyah",
+    "gn:country_code":"SY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075192,
+    "gn:latitude":35.71813,
+    "gn:longitude":35.83396,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"As Sama\u2018l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0639\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Sama\u2018l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075192
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2075400c963a7a4da44ed1687ad84a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1276776217,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276776217,
+    "wof:lastmodified":1537702590,
+    "wof:name":"As Sama`liyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83396,
+    35.71813,
+    35.83396,
+    35.71813
+],
+  "geometry": {"coordinates":[35.83396,35.71813],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1277066515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2584,36.55405,38.2584,36.55405",
+    "geom:latitude":36.55405,
+    "geom:longitude":38.2584,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qal`at Najm",
+    "gn:country_code":"SY",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166190,
+    "gn:latitude":36.55405,
+    "gn:longitude":38.2584,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qal\u2018at Najm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0646\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kalaat el Nedjim",
+        "Qal\u2018at an Najm",
+        "Qalaat Nijm",
+        "Qal\u2018at en Nejm",
+        "Qal\u2018at Najm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166190
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9542356ddd573197f13b17cc8e704f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1277066515,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1277066515,
+    "wof:lastmodified":1537701845,
+    "wof:name":"Qal`at Najm",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2584,
+    36.55405,
+    38.2584,
+    36.55405
+],
+  "geometry": {"coordinates":[38.2584,36.55405],"type":"Point"}
+}

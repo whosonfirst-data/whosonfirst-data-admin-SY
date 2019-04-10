@@ -1,0 +1,73 @@
+{
+  "id": 1276753607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2696,36.48447,37.2696,36.48447",
+    "geom:latitude":36.48447,
+    "geom:longitude":37.2696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bayt Mustafa al Hassun",
+    "gn:country_code":"SY",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308709,
+    "gn:latitude":36.48447,
+    "gn:longitude":37.2696,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bayt Mu\u015f\u0163af\u00e1 al \u1e28ass\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u062d\u0633\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Mu\u015f\u0163af\u00e1 al \u1e28ass\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308709
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a1259951ee7b3044addebfa5d07b375a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1276753607,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276753607,
+    "wof:lastmodified":1537702598,
+    "wof:name":"Bayt Mustafa al Hassun",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2696,
+    36.48447,
+    37.2696,
+    36.48447
+],
+  "geometry": {"coordinates":[37.2696,36.48447],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259960897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77285,34.72316,36.77285,34.72316",
+    "geom:latitude":34.72316,
+    "geom:longitude":36.77285,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zaydal",
+    "gn:country_code":"SY",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162470,
+    "gn:latitude":34.72316,
+    "gn:longitude":36.77285,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zaydal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "Zidali",
+        "Za\u00efdal",
+        "Zeidan",
+        "Zaydal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162470,
+        "wk:page":"Zaidal"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8d9589c8e4b6930e7ac17c62da807d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1259960897,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259960897,
+    "wof:lastmodified":1537701593,
+    "wof:name":"Zaydal",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77285,
+    34.72316,
+    36.77285,
+    34.72316
+],
+  "geometry": {"coordinates":[36.77285,34.72316],"type":"Point"}
+}

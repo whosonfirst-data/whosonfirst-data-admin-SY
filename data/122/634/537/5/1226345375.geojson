@@ -1,0 +1,75 @@
+{
+  "id": 1226345375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11659,35.24936,36.11659,35.24936",
+    "geom:latitude":35.24936,
+    "geom:longitude":36.11659,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt `Ana",
+    "gn:country_code":"SY",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171604,
+    "gn:latitude":35.24936,
+    "gn:longitude":36.11659,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt \u2018\u0100n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bait \u0100na",
+        "Be\u00eft A\u00e2na",
+        "Bayt \u2018\u0100n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171604
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"983c7bcdcbfadbf1c53e409906e63d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1226345375,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226345375,
+    "wof:lastmodified":1537702213,
+    "wof:name":"Bayt `Ana",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11659,
+    35.24936,
+    36.11659,
+    35.24936
+],
+  "geometry": {"coordinates":[36.11659,35.24936],"type":"Point"}
+}

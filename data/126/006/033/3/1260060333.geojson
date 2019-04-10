@@ -1,0 +1,75 @@
+{
+  "id": 1260060333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56668,35.79192,36.56668,35.79192",
+    "geom:latitude":35.79192,
+    "geom:longitude":36.56668,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Urum al Jawz",
+    "gn:country_code":"SY",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162779,
+    "gn:latitude":35.79192,
+    "gn:longitude":36.56668,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u016arum al Jawz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0645 \u0627\u0644\u062c\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Ouroum ej Jaouz",
+        "Arum al Jawz",
+        "\u016arum al Jawz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162779
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0405fc91757cdec3f81f03eeefccc90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1260060333,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260060333,
+    "wof:lastmodified":1537701614,
+    "wof:name":"Urum al Jawz",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56668,
+    35.79192000000001,
+    36.56668,
+    35.79192000000001
+],
+  "geometry": {"coordinates":[36.56668,35.79192000000001],"type":"Point"}
+}

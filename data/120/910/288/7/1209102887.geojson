@@ -1,0 +1,64 @@
+{
+  "id": 1209102887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46437,33.46626,36.46437,33.46626",
+    "geom:latitude":33.46626,
+    "geom:longitude":36.46437,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nawlah",
+    "gn:country_code":"SY",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12827,
+    "gn:latitude":33.46626,
+    "gn:longitude":36.46437,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Nawlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12827
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5841160a18d886db2c05e8c703a56dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209102887
+        }
+    ],
+    "wof:id":1209102887,
+    "wof:lastmodified":1537701576,
+    "wof:name":"Nawlah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46437,
+    33.46626,
+    36.46437,
+    33.46626
+],
+  "geometry": {"coordinates":[36.46437,33.46626],"type":"Point"}
+}

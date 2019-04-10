@@ -1,0 +1,73 @@
+{
+  "id": 1259870241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47214,33.60834,36.47214,33.60834",
+    "geom:latitude":33.60834,
+    "geom:longitude":36.47214,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Biyarat al Mu`aysirah",
+    "gn:country_code":"SY",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541134,
+    "gn:latitude":33.60834,
+    "gn:longitude":36.47214,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Biy\u0101rat al Mu\u2018ay\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0631\u0629 \u0627\u0644\u0645\u0639\u064a\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Biy\u0101rat al Mu\u2018ay\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541134
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fef7070a8c5e40d04c2a25afd345c089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1259870241,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259870241,
+    "wof:lastmodified":1537702577,
+    "wof:name":"Biyarat al Mu`aysirah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47214,
+    33.60834000000001,
+    36.47214,
+    33.60834000000001
+],
+  "geometry": {"coordinates":[36.47214,33.60834000000001],"type":"Point"}
+}

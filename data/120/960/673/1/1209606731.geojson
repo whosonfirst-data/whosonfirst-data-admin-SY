@@ -1,0 +1,67 @@
+{
+  "id": 1209606731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80806,36.07194,39.80806,36.07194",
+    "geom:latitude":36.07194,
+    "geom:longitude":39.80806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sabah al Khayr",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385391,
+    "gn:latitude":36.07194,
+    "gn:longitude":39.80806,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"\u015eab\u0101\u1e29 al Khayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u015eab\u0101\u1e29 al Khayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385391
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2c1a54215cbd427f62c4b5643cc000f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209606731
+        }
+    ],
+    "wof:id":1209606731,
+    "wof:lastmodified":1537702426,
+    "wof:name":"Sabah al Khayr",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80806,
+    36.07194000000001,
+    39.80806,
+    36.07194000000001
+],
+  "geometry": {"coordinates":[39.80806,36.07194000000001],"type":"Point"}
+}

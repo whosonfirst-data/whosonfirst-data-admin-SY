@@ -1,0 +1,70 @@
+{
+  "id": 1243038873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91159,34.90822,35.91159,34.90822",
+    "geom:latitude":34.90822,
+    "geom:longitude":35.91159,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Khirbah",
+    "gn:country_code":"SY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238701,
+    "gn:latitude":34.90822,
+    "gn:longitude":35.91159,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Al Khirbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238701
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d0be30b637fb66f16327730a5c7dafc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1243038873,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243038873,
+    "wof:lastmodified":1537702491,
+    "wof:name":"Al Khirbah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91159000000001,
+    34.90822,
+    35.91159000000001,
+    34.90822
+],
+  "geometry": {"coordinates":[35.91159000000001,34.90822],"type":"Point"}
+}

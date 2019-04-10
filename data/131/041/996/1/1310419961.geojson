@@ -1,0 +1,77 @@
+{
+  "id": 1310419961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75696,36.30182,40.75696,36.30182",
+    "geom:latitude":36.30182,
+    "geom:longitude":40.75696,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taban",
+    "gn:country_code":"SY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163834,
+    "gn:latitude":36.30182,
+    "gn:longitude":40.75696,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"T\u0101b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u0101b\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "T\u0101b\u0101n",
+        "\u062a\u0627\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2b\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163834
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96b90aab67d571c1d62bb2c81bf2aeb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1310419961,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310419961,
+    "wof:lastmodified":1537701698,
+    "wof:name":"Taban",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75696,
+    36.30182,
+    40.75696,
+    36.30182
+],
+  "geometry": {"coordinates":[40.75696,36.30182],"type":"Point"}
+}

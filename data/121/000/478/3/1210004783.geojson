@@ -1,0 +1,76 @@
+{
+  "id": 1210004783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.91597,35.08895,38.91597,35.08895",
+    "geom:latitude":35.08895,
+    "geom:longitude":38.91597,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"At Tayyibah",
+    "gn:country_code":"SY",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172329,
+    "gn:latitude":35.08895,
+    "gn:longitude":38.91597,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"At Tayyibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ourd Oriza",
+        "Ain Tayib\u00e9",
+        "A\u0163 \u0162ayyibah",
+        "At Tayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172329
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3df7c339a1d299c534858cd18c3950e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1210004783,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1210004783,
+    "wof:lastmodified":1537702266,
+    "wof:name":"At Tayyibah",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.91597,
+    35.08895,
+    38.91597,
+    35.08895
+],
+  "geometry": {"coordinates":[38.91597,35.08895],"type":"Point"}
+}

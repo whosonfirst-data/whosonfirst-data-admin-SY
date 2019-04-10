@@ -1,0 +1,75 @@
+{
+  "id": 1343345299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27112,35.33554,36.27112,35.33554",
+    "geom:latitude":35.33554,
+    "geom:longitude":36.27112,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Blunah",
+    "gn:country_code":"SY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171330,
+    "gn:latitude":35.33554,
+    "gn:longitude":36.27112,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bl\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Blo\u00fbn\u00e9",
+        "Bl\u016bnah",
+        "Ball\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171330
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd025d971fc7782e294aa72c7c1503e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1343345299,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343345299,
+    "wof:lastmodified":1537702189,
+    "wof:name":"Blunah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27112,
+    35.33554,
+    36.27112,
+    35.33554
+],
+  "geometry": {"coordinates":[36.27112,35.33554],"type":"Point"}
+}

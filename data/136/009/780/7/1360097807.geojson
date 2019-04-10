@@ -1,0 +1,74 @@
+{
+  "id": 1360097807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23531,35.67473,36.23531,35.67473",
+    "geom:latitude":35.67473,
+    "geom:longitude":36.23531,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jubb al Ahmar",
+    "gn:country_code":"SY",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168991,
+    "gn:latitude":35.67473,
+    "gn:longitude":36.23531,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Jubb al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0623\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Joubb el Ahmar",
+        "Jubb al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168991
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"705731ce87feeeeec83fe54022de6343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1360097807,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1360097807,
+    "wof:lastmodified":1537702038,
+    "wof:name":"Jubb al Ahmar",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23531,
+    35.67473,
+    36.23531,
+    35.67473
+],
+  "geometry": {"coordinates":[36.23531,35.67473],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293889597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31586,36.11178,39.31586,36.11178",
+    "geom:latitude":36.11178,
+    "geom:longitude":39.31586,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Husayn",
+    "gn:country_code":"SY",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384237,
+    "gn:latitude":36.11178,
+    "gn:longitude":39.31586,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ab\u016b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384237
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"040b05b900f0c77690e73c0b2afbb35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1293889597,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1293889597,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Abu Husayn",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31586,
+    36.11178,
+    39.31586,
+    36.11178
+],
+  "geometry": {"coordinates":[39.31586,36.11178],"type":"Point"}
+}

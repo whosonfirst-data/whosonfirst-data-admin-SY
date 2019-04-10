@@ -1,0 +1,79 @@
+{
+  "id": 1242658651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47031,34.49908,36.47031,34.49908",
+    "geom:latitude":34.49908,
+    "geom:longitude":36.47031,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Matrabah",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167030,
+    "gn:latitude":34.49908,
+    "gn:longitude":36.47031,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Ma\u0163rabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0631\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0637\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Motreba",
+        "Matrab\u00e9",
+        "Ma\u0163rabah",
+        "Al Ma\u0163rabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167030
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f729bc1c06a4d95775a83e7508661e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1242658651,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242658651,
+    "wof:lastmodified":1537701896,
+    "wof:name":"Al Matrabah",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47031,
+    34.49908,
+    36.47031,
+    34.49908
+],
+  "geometry": {"coordinates":[36.47031,34.49908],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292984553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66752,35.25972,36.66752,35.25972",
+    "geom:latitude":35.25972,
+    "geom:longitude":36.66752,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kufur at Tayyibah",
+    "gn:country_code":"SY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167796,
+    "gn:latitude":35.25972,
+    "gn:longitude":36.66752,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kuf\u016br a\u0163 \u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0648\u0631 \u0627\u0644\u0637\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kfo\u00fbr ett Ta\u00efb\u00e9",
+        "Kuf\u016br a\u0163 \u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167796
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3b3baf592e09e6cbb40ddc90a5ba6a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1292984553,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292984553,
+    "wof:lastmodified":1537701941,
+    "wof:name":"Kufur at Tayyibah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66752,
+    35.25972,
+    36.66752,
+    35.25972
+],
+  "geometry": {"coordinates":[36.66752,35.25972],"type":"Point"}
+}

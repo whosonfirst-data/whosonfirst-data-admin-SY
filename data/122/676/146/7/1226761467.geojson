@@ -1,0 +1,74 @@
+{
+  "id": 1226761467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.38855,36.72573,41.38855,36.72573",
+    "geom:latitude":36.72573,
+    "geom:longitude":41.38855,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Jassah Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168009,
+    "gn:latitude":36.72573,
+    "gn:longitude":41.38855,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat Jassah \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062c\u0633\u0629 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ji\u015f\u015f\u012b a\u015f \u015eagh\u012br",
+        "Khirbat Jassah \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168009
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72bd9a8cec476daa5a6e68416dc3db77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226761467,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226761467,
+    "wof:lastmodified":1537701961,
+    "wof:name":"Khirbat Jassah Saghir",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.38855,
+    36.72573,
+    41.38855,
+    36.72573
+],
+  "geometry": {"coordinates":[41.38855,36.72573],"type":"Point"}
+}

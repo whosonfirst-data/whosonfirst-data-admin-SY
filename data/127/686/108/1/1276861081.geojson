@@ -1,0 +1,94 @@
+{
+  "id": 1276861081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.40025,36.88316,38.40025,36.88316",
+    "geom:latitude":36.88316,
+    "geom:longitude":38.40025,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shahinjak",
+    "gn:country_code":"SY",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164619,
+    "gn:latitude":36.88316,
+    "gn:longitude":38.40025,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sh\u0101h\u012bnjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0647\u064a\u0646\u062c\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0647\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Shahin Cek"
+    ],
+    "name:kur_x_variant":[
+        "Shahincek",
+        "Shahinchek",
+        "Shahin Cik",
+        "Shahincik",
+        "\u0634\u0627\u0647\u0646 \u062c\u06d5\u0643",
+        "\u0634\u0627\u0647\u0646\u062c\u06d5\u0643",
+        "\u0634\u0627\u0647\u0646\u0686\u06d5\u0643",
+        "\u0634\u0627\u0647\u0646 \u062c\u0643",
+        "\u0634\u0627\u0647\u0646\u062c\u0643"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e2henndjiq",
+        "Sh\u0101h\u012bnjak",
+        "Sh\u0101h\u012bn",
+        "\u015eah\u00een",
+        "\u015eahn\u00e7ek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164619
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0a7805fd7f384dd04d34a243289cd0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276861081,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276861081,
+    "wof:lastmodified":1537701745,
+    "wof:name":"Shahinjak",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.40025,
+    36.88316,
+    38.40025,
+    36.88316
+],
+  "geometry": {"coordinates":[38.40025,36.88316],"type":"Point"}
+}

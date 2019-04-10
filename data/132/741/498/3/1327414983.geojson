@@ -1,0 +1,71 @@
+{
+  "id": 1327414983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98333,34.91667,38.98333,34.91667",
+    "geom:latitude":34.91667,
+    "geom:longitude":38.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kasrat Faraj",
+    "gn:country_code":"SY",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168523,
+    "gn:latitude":34.91667,
+    "gn:longitude":38.98333,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kasrat Faraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasrat al Faraj",
+        "Kasrat Faraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168523
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1fa064dd84a68b5ed5aaae95b94633fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1327414983,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327414983,
+    "wof:lastmodified":1537701998,
+    "wof:name":"Kasrat Faraj",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98333,
+    34.91667,
+    38.98333,
+    34.91667
+],
+  "geometry": {"coordinates":[38.98333,34.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309809473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65107,36.06762,39.65107,36.06762",
+    "geom:latitude":36.06762,
+    "geom:longitude":39.65107,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bi'r Mulayhan",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384437,
+    "gn:latitude":36.06762,
+    "gn:longitude":39.65107,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Bi\u2019r Mulay\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0645\u0644\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r Mulay\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384437
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"913e1a76f39ac08d2bef3d18f9fc8dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1309809473,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309809473,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Bi'r Mulayhan",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65107,
+    36.06762,
+    39.65107,
+    36.06762
+],
+  "geometry": {"coordinates":[39.65107,36.06762],"type":"Point"}
+}

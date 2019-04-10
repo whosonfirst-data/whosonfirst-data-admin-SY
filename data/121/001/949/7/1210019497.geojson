@@ -1,0 +1,81 @@
+{
+  "id": 1210019497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96399,35.7823,35.96399,35.7823",
+    "geom:latitude":35.7823,
+    "geom:longitude":35.96399,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"As Saraya",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164812,
+    "gn:latitude":35.7823,
+    "gn:longitude":35.96399,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"As Sar\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0627\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0631\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "As Sar\u0101y\u0101",
+        "Serai",
+        "S\u00e9ray",
+        "S\u00e9r\u00e2ya",
+        "Sar\u0101y\u0101",
+        "Saraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164812
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ad27d6e9c65c394a2d53e02df4d52ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1210019497,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1210019497,
+    "wof:lastmodified":1537701755,
+    "wof:name":"As Saraya",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96399,
+    35.7823,
+    35.96399,
+    35.7823
+],
+  "geometry": {"coordinates":[35.96399,35.7823],"type":"Point"}
+}

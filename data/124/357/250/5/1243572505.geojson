@@ -1,0 +1,110 @@
+{
+  "id": 1243572505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71417,33.10944,35.71417,33.10944",
+    "geom:latitude":33.10944,
+    "geom:longitude":35.71417,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dar Hagolan",
+    "gn:country_code":"SY",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":443102,
+    "gn:latitude":33.10944,
+    "gn:longitude":35.71417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dar Hagolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443102
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af6d23d29b64945df5c2fe9782cdfa1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243572505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243572505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1243572505,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1243572505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1243572505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1243572505,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1243572505,
+    "wof:lastmodified":1549931218,
+    "wof:name":"Dar Hagolan",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71417,
+    33.10944,
+    35.71417,
+    33.10944
+],
+  "geometry": {"coordinates":[35.71417,33.10944],"type":"Point"}
+}

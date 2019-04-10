@@ -1,0 +1,67 @@
+{
+  "id": 1209518747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82796,35.54896,35.82796,35.54896",
+    "geom:latitude":35.54896,
+    "geom:longitude":35.82796,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qabw Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445279,
+    "gn:latitude":35.54896,
+    "gn:longitude":35.82796,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Qabw Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0648 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qabw Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445279
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"858ecedba2a399778ec166e10a3e2db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209518747
+        }
+    ],
+    "wof:id":1209518747,
+    "wof:lastmodified":1537702571,
+    "wof:name":"Qabw Tahtani",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82796,
+    35.54896,
+    35.82796,
+    35.54896
+],
+  "geometry": {"coordinates":[35.82796,35.54896],"type":"Point"}
+}

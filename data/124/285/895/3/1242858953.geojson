@@ -1,0 +1,79 @@
+{
+  "id": 1242858953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6978,36.71517,36.6978,36.71517",
+    "geom:latitude":36.71517,
+    "geom:longitude":36.6978,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawwan Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171072,
+    "gn:latitude":36.71517,
+    "gn:longitude":36.6978,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u015eaww\u0101n Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0642\u0645\u0642 \u0643\u0628\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u0627\u0646 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jaqmaq Kab\u012br",
+        "Buyuk Tchaqmaq",
+        "Buy\u016bk J\u0101qmaq",
+        "\u015eaww\u0101n Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171072
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"62fdec46b5f1f03bd1147438c671a9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1242858953,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242858953,
+    "wof:lastmodified":1537702168,
+    "wof:name":"Sawwan Kabir",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6978,
+    36.71517,
+    36.6978,
+    36.71517
+],
+  "geometry": {"coordinates":[36.6978,36.71517],"type":"Point"}
+}

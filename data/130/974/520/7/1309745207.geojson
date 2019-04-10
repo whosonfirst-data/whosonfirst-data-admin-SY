@@ -1,0 +1,77 @@
+{
+  "id": 1309745207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02292,36.30755,39.02292,36.30755",
+    "geom:latitude":36.30755,
+    "geom:longitude":39.02292,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Ghazili",
+    "gn:country_code":"SY",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173871,
+    "gn:latitude":36.30755,
+    "gn:longitude":39.02292,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Al Gh\u0101zil\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u0101zil\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0627\u0632\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rh\u00e2zli",
+        "El Rh\u00e2zli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173871
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9cdb87023590ff23902bd765dc948913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1309745207,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309745207,
+    "wof:lastmodified":1537702372,
+    "wof:name":"Al Ghazili",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02292,
+    36.30755,
+    39.02292,
+    36.30755
+],
+  "geometry": {"coordinates":[39.02292,36.30755],"type":"Point"}
+}

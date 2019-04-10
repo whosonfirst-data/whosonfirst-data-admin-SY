@@ -1,0 +1,71 @@
+{
+  "id": 1209624803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4629,36.9365,40.4629,36.9365",
+    "geom:latitude":36.9365,
+    "geom:longitude":40.4629,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Dabash",
+    "gn:country_code":"SY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163603,
+    "gn:latitude":36.9365,
+    "gn:longitude":40.4629,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall D\u0101bash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062f\u0627\u0628\u0634"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Dabash"
+    ],
+    "name:und_x_variant":[
+        "Tell D\u00e2bech",
+        "Tall D\u0101bash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163603
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6620c48f2f0eb862cde47c5c409d72ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209624803
+        }
+    ],
+    "wof:id":1209624803,
+    "wof:lastmodified":1537701675,
+    "wof:name":"Tall Dabash",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4629,
+    36.9365,
+    40.4629,
+    36.9365
+],
+  "geometry": {"coordinates":[40.4629,36.9365],"type":"Point"}
+}

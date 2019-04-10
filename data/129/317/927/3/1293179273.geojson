@@ -1,0 +1,75 @@
+{
+  "id": 1293179273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88062,34.61359,36.88062,34.61359",
+    "geom:latitude":34.61359,
+    "geom:longitude":36.88062,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Fuhaylah",
+    "gn:country_code":"SY",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170362,
+    "gn:latitude":34.61359,
+    "gn:longitude":36.88062,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Fu\u1e29aylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062d\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fha\u00efl\u00e9",
+        "Fu\u1e29aylah",
+        "Al Fu\u1e29aylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170362
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c20120795c1efc21aeebe1ebc1561ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293179273,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293179273,
+    "wof:lastmodified":1537702119,
+    "wof:name":"Al Fuhaylah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88062,
+    34.61359,
+    36.88062,
+    34.61359
+],
+  "geometry": {"coordinates":[36.88062,34.61359],"type":"Point"}
+}

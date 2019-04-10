@@ -1,0 +1,77 @@
+{
+  "id": 1309821401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.82655,37.05537,40.82655,37.05537",
+    "geom:latitude":37.05537,
+    "geom:longitude":40.82655,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jandajiq",
+    "gn:country_code":"SY",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164507,
+    "gn:latitude":37.05537,
+    "gn:longitude":40.82655,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jandajiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u062f\u062c\u0642"
+    ],
+    "name:tur_x_preferred":[
+        "Sh\u0101najiq"
+    ],
+    "name:und_x_variant":[
+        "Tch\u00e2nadjiq",
+        "Jandajiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164507
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e435dc986493b7630b8cb50f6a925448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1309821401,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1309821401,
+    "wof:lastmodified":1537701737,
+    "wof:name":"Jandajiq",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.82655,
+    37.05537,
+    40.82655,
+    37.05537
+],
+  "geometry": {"coordinates":[40.82655,37.05537],"type":"Point"}
+}

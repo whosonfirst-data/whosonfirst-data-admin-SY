@@ -1,0 +1,122 @@
+{
+  "id": 1292905353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66163,32.99128,35.66163,32.99128",
+    "geom:latitude":32.99128,
+    "geom:longitude":35.66163,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ad Durah",
+    "gn:country_code":"SY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":174228,
+    "gn:latitude":32.99128,
+    "gn:longitude":35.66163,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ad D\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ed Do\u00fbra",
+        "Do\u00fbra",
+        "Ad D\u016brah",
+        "Ad Dawrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174228
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"306c151d404e6b719e9c221326e7ab38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1292905353,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1292905353,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1292905353,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1292905353,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1292905353,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1292905353,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1292905353,
+    "wof:lastmodified":1537702399,
+    "wof:name":"Ad Durah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66163,
+    32.99128,
+    35.66163,
+    32.99128
+],
+  "geometry": {"coordinates":[35.66163,32.99128],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209090875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94835,36.52887,36.94835,36.52887",
+    "geom:latitude":36.52887,
+    "geom:longitude":36.94835,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maryamayn",
+    "gn:country_code":"SY",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167174,
+    "gn:latitude":36.52887,
+    "gn:longitude":36.94835,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Maryamayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u0645\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0643\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mariamine",
+        "Mariama\u00efne",
+        "Maryamayn",
+        "Al B\u0101km\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167174
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ba53a84f30751811047a3f95c91a237",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209090875
+        }
+    ],
+    "wof:id":1209090875,
+    "wof:lastmodified":1537701904,
+    "wof:name":"Maryamayn",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94835,
+    36.52887,
+    36.94835,
+    36.52887
+],
+  "geometry": {"coordinates":[36.94835,36.52887],"type":"Point"}
+}

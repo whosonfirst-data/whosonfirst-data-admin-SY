@@ -1,0 +1,73 @@
+{
+  "id": 1293375425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30567,33.43342,36.30567,33.43342",
+    "geom:latitude":33.43342,
+    "geom:longitude":36.30567,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard as Siyaj",
+    "gn:country_code":"SY",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412214,
+    "gn:latitude":33.43342,
+    "gn:longitude":36.30567,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 as Siy\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0633\u064a\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 as Siy\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412214
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4f94950184fb652e824881dc8c1cec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1293375425,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293375425,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard as Siyaj",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30567,
+    33.43342,
+    36.30567,
+    33.43342
+],
+  "geometry": {"coordinates":[36.30567,33.43342],"type":"Point"}
+}

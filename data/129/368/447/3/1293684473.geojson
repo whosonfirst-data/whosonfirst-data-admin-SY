@@ -1,0 +1,78 @@
+{
+  "id": 1293684473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96973,32.83395,35.96973,32.83395",
+    "geom:latitude":32.83395,
+    "geom:longitude":35.96973,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tasil",
+    "gn:country_code":"SY",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":163330,
+    "gn:latitude":32.83395,
+    "gn:longitude":35.96973,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tas\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ts\u00eel",
+        "Tas\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163330,
+        "wk:page":"Tasil"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7fba5a23cb7e6d0b6a7eaf72c12a9917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1293684473,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1293684473,
+    "wof:lastmodified":1537701648,
+    "wof:name":"Tasil",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96973,
+    32.83395,
+    35.96973,
+    32.83395
+],
+  "geometry": {"coordinates":[35.96973,32.83395],"type":"Point"}
+}

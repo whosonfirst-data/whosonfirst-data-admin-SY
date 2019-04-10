@@ -1,0 +1,68 @@
+{
+  "id": 1209021907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.17088,37.05991,42.17088,37.05991",
+    "geom:latitude":37.05991,
+    "geom:longitude":42.17088,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat al Walad",
+    "gn:country_code":"SY",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420438,
+    "gn:latitude":37.05991,
+    "gn:longitude":42.17088,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Khirbat al Walad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0648\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al W\u0101lid",
+        "Khirbat al Walad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420438
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"929496ca66fa553cb8c54d3a90cea154",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209021907
+        }
+    ],
+    "wof:id":1209021907,
+    "wof:lastmodified":1537702448,
+    "wof:name":"Khirbat al Walad",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.17088,
+    37.05991,
+    42.17088,
+    37.05991
+],
+  "geometry": {"coordinates":[42.17088,37.05991],"type":"Point"}
+}

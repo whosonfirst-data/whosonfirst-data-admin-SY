@@ -1,0 +1,118 @@
+{
+  "id": 1310312667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66902,32.92421,35.66902,32.92421",
+    "geom:latitude":32.92421,
+    "geom:longitude":35.66902,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yahudiyah at Tahtaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173271,
+    "gn:latitude":32.92421,
+    "gn:longitude":35.66902,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Yah\u016bd\u012byah at Ta\u1e29t\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yahoud\u00eey\u00e9",
+        "Yah\u016bd\u012byah at Ta\u1e29t\u0101n\u012byah",
+        "Al Yah\u016bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173271
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b9c8387f764f7dbf284e5c9f70fa007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1310312667,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1310312667,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1310312667,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1310312667,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1310312667,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1310312667,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310312667,
+    "wof:lastmodified":1549931204,
+    "wof:name":"Yahudiyah at Tahtaniyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66902,
+    32.92421,
+    35.66902,
+    32.92421
+],
+  "geometry": {"coordinates":[35.66902,32.92421],"type":"Point"}
+}

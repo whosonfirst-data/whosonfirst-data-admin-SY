@@ -1,0 +1,73 @@
+{
+  "id": 1242791891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55278,36.16914,40.55278,36.16914",
+    "geom:latitude":36.16914,
+    "geom:longitude":40.55278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Salimiyat Umm Kahf",
+    "gn:country_code":"SY",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420896,
+    "gn:latitude":36.16914,
+    "gn:longitude":40.55278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0101lim\u012byat Umm Kahf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0644\u0645\u064a\u0629 \u0627\u0645 \u0643\u0647\u0641"
+    ],
+    "name:und_x_variant":[
+        "S\u0101lim\u012byat Umm Kahf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420896
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7a4acaa8198ca97b437dcd55cb3b0960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1242791891,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242791891,
+    "wof:lastmodified":1537702454,
+    "wof:name":"Salimiyat Umm Kahf",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55278,
+    36.16914000000001,
+    40.55278,
+    36.16914000000001
+],
+  "geometry": {"coordinates":[40.55278,36.16914000000001],"type":"Point"}
+}

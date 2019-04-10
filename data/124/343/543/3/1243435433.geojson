@@ -1,0 +1,78 @@
+{
+  "id": 1243435433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42276,34.71896,36.42276,34.71896",
+    "geom:latitude":34.71896,
+    "geom:longitude":36.42276,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zanabil",
+    "gn:country_code":"SY",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162537,
+    "gn:latitude":34.71896,
+    "gn:longitude":36.42276,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Zan\u0101b\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u0627\u0628\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0636\u0629 \u0627\u0644\u0648\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "Znabile",
+        "Zan\u0101b\u012bl",
+        "Raw\u1e11at al Wa\u2018r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162537
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4fd1f3097fc4a6de2500063264203d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1243435433,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243435433,
+    "wof:lastmodified":1537701598,
+    "wof:name":"Zanabil",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42276,
+    34.71896,
+    36.42276,
+    34.71896
+],
+  "geometry": {"coordinates":[36.42276,34.71896],"type":"Point"}
+}

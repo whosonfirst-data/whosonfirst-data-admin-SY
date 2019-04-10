@@ -1,0 +1,76 @@
+{
+  "id": 1226231969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57244,36.64039,38.57244,36.64039",
+    "geom:latitude":36.64039,
+    "geom:longitude":38.57244,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Akjil",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163671,
+    "gn:latitude":36.64039,
+    "gn:longitude":38.57244,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tall Akjil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0643\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tell Aktchal",
+        "Tall \u0100qjil",
+        "Tall Akjil",
+        "Tall al Jall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163671
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e93d3092374c293358ae12658417cba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226231969,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226231969,
+    "wof:lastmodified":1537701683,
+    "wof:name":"Tall Akjil",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57244,
+    36.64039,
+    38.57244,
+    36.64039
+],
+  "geometry": {"coordinates":[38.57244,36.64039],"type":"Point"}
+}

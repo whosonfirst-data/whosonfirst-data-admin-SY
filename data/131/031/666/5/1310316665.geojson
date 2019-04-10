@@ -1,0 +1,119 @@
+{
+  "id": 1310316665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70912,32.75055,35.70912,32.75055",
+    "geom:latitude":32.75055,
+    "geom:longitude":35.70912,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"As Saffuriyah",
+    "gn:country_code":"SY",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9197169,
+    "gn:latitude":32.75055,
+    "gn:longitude":35.70912,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"A\u015f \u015eaff\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaff\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9197169
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa01a8ae1c15292933037b2630019db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1310316665,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1310316665,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1310316665,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "empire_id":136253049,
+            "locality_id":1310316665,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1310316665,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1310316665,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1310316665,
+    "wof:lastmodified":1537702591,
+    "wof:name":"As Saffuriyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70912,
+    32.75055,
+    35.70912,
+    32.75055
+],
+  "geometry": {"coordinates":[35.70912,32.75055],"type":"Point"}
+}

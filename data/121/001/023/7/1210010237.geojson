@@ -1,0 +1,74 @@
+{
+  "id": 1210010237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04546,35.14323,37.04546,35.14323",
+    "geom:latitude":35.14323,
+    "geom:longitude":37.04546,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Buwaydah",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173912,
+    "gn:latitude":35.14323,
+    "gn:longitude":37.04546,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Buway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Boua\u00efda",
+        "Al Buway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173912
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7e46ae6a788a5382089a48f44284cbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1210010237,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210010237,
+    "wof:lastmodified":1537702375,
+    "wof:name":"Al Buwaydah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04546,
+    35.14323,
+    37.04546,
+    35.14323
+],
+  "geometry": {"coordinates":[37.04546,35.14323],"type":"Point"}
+}

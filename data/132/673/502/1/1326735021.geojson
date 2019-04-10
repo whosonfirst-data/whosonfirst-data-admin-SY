@@ -1,0 +1,80 @@
+{
+  "id": 1326735021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68642,32.40465,36.68642,32.40465",
+    "geom:latitude":32.40465,
+    "geom:longitude":36.68642,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"164916.0",
+    "gn:asciiname":"Al `Anz",
+    "gn:country_code":"SY",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174055,
+    "gn:latitude":32.40465,
+    "gn:longitude":36.68642,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Al \u2018Anz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Anz"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0646\u0632"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u043d\u0437"
+    ],
+    "name:und_x_variant":[
+        "El Aannz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174055
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c4a74923cbbf63475d7c58fdedbec6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1326735021,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1326735021,
+    "wof:lastmodified":1537702388,
+    "wof:name":"Al `Anz",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68642,
+    32.40465,
+    36.68642,
+    32.40465
+],
+  "geometry": {"coordinates":[36.68642,32.40465],"type":"Point"}
+}

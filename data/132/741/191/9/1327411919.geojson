@@ -1,0 +1,78 @@
+{
+  "id": 1327411919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32127,34.76004,36.32127,34.76004",
+    "geom:latitude":34.76004,
+    "geom:longitude":36.32127,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Hawash",
+    "gn:country_code":"SY",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173802,
+    "gn:latitude":34.76004,
+    "gn:longitude":36.32127,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Al \u1e28aw\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Haou\u00e2ch",
+        "Al \u1e28aw\u0101sh",
+        "\u1e28aw\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173802
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd848d0453dadd1ed2c41ea1dfe57fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1327411919,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327411919,
+    "wof:lastmodified":1537702366,
+    "wof:name":"Al Hawash",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32127,
+    34.76004,
+    36.32127,
+    34.76004
+],
+  "geometry": {"coordinates":[36.32127,34.76004],"type":"Point"}
+}

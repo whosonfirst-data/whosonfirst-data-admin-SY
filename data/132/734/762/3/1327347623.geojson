@@ -1,0 +1,76 @@
+{
+  "id": 1327347623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.38295,36.88695,41.38295,36.88695",
+    "geom:latitude":36.88695,
+    "geom:longitude":41.38295,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Sharmukh",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163455,
+    "gn:latitude":36.88695,
+    "gn:longitude":41.38295,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Sharm\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0634\u0631\u0645\u0648\u062e"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Sharm\u016bkh"
+    ],
+    "name:und_x_variant":[
+        "Tell Chermo\u00fbkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163455
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af1d59e89446e578dd47c8c32c0dd08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1327347623,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327347623,
+    "wof:lastmodified":1537701658,
+    "wof:name":"Tall Sharmukh",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.38295,
+    36.88695,
+    41.38295,
+    36.88695
+],
+  "geometry": {"coordinates":[41.38295,36.88695],"type":"Point"}
+}

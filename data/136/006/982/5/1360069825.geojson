@@ -1,0 +1,78 @@
+{
+  "id": 1360069825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95367,36.45991,36.95367,36.45991",
+    "geom:latitude":36.45991,
+    "geom:longitude":36.95367,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bassilhaya",
+    "gn:country_code":"SY",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171699,
+    "gn:latitude":36.45991,
+    "gn:longitude":36.95367,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bassilhaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101\u015fil\u1e29\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0635\u0644\u062d\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bacylhaya",
+        "Bassilhaya",
+        "Basselh\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171699
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e50b40be89797b6c0fa086ac411e8021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1360069825,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360069825,
+    "wof:lastmodified":1537702219,
+    "wof:name":"Bassilhaya",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95367,
+    36.45991,
+    36.95367,
+    36.45991
+],
+  "geometry": {"coordinates":[36.95367,36.45991],"type":"Point"}
+}

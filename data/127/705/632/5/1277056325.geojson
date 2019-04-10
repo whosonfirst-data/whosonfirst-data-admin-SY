@@ -1,0 +1,73 @@
+{
+  "id": 1277056325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44625,35.93021,36.44625,35.93021",
+    "geom:latitude":35.93021,
+    "geom:longitude":36.44625,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Mab`usah",
+    "gn:country_code":"SY",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555076,
+    "gn:latitude":35.93021,
+    "gn:longitude":36.44625,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Mab\u2018\u016b\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0639\u0648\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mab\u2018\u016b\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555076
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c63afe97fa477a285c1b8e23a9c35c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1277056325,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1277056325,
+    "wof:lastmodified":1537702636,
+    "wof:name":"Al Mab`usah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44625,
+    35.93020999999999,
+    36.44625,
+    35.93020999999999
+],
+  "geometry": {"coordinates":[36.44625,35.93020999999999],"type":"Point"}
+}

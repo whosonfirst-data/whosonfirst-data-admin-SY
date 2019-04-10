@@ -1,0 +1,74 @@
+{
+  "id": 1293508587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46384,36.52152,38.46384,36.52152",
+    "geom:latitude":36.52152,
+    "geom:longitude":38.46384,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qantarah",
+    "gn:country_code":"SY",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166124,
+    "gn:latitude":36.52152,
+    "gn:longitude":38.46384,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qan\u0163arah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0637\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qanntara",
+        "Qan\u0163arah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166124
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25f75d331087669cde140184d2f64ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1293508587,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293508587,
+    "wof:lastmodified":1537701840,
+    "wof:name":"Qantarah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46384000000001,
+    36.52152,
+    38.46384000000001,
+    36.52152
+],
+  "geometry": {"coordinates":[38.46384000000001,36.52152],"type":"Point"}
+}

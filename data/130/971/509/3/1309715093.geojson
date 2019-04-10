@@ -1,0 +1,76 @@
+{
+  "id": 1309715093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03187,35.82554,36.03187,35.82554",
+    "geom:latitude":35.82554,
+    "geom:longitude":36.03187,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jaqruran",
+    "gn:country_code":"SY",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164468,
+    "gn:latitude":35.82554,
+    "gn:longitude":36.03187,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Jaqr\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0642\u0631\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Chamro\u00fbr\u00e2ne",
+        "Tchaqro\u00fbr\u00e2ne",
+        "Shaqr\u016br\u0101n",
+        "Jaqr\u016br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164468
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3a821a9c21d602848487fa223c1f7991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1309715093,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309715093,
+    "wof:lastmodified":1537701735,
+    "wof:name":"Jaqruran",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03187,
+    35.82554000000001,
+    36.03187,
+    35.82554000000001
+],
+  "geometry": {"coordinates":[36.03187,35.82554000000001],"type":"Point"}
+}

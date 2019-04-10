@@ -1,0 +1,73 @@
+{
+  "id": 1344140347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9378,34.98494,35.9378,34.98494",
+    "geom:latitude":34.98494,
+    "geom:longitude":35.9378,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baydar Ba`ashtar",
+    "gn:country_code":"SY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270006,
+    "gn:latitude":34.98494,
+    "gn:longitude":35.9378,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Baydar Ba\u2018ashtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631 \u0628\u0639\u0634\u062a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Baydar Ba\u2018ashtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270006
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a8459578ed21e715c2d511ecf8c51039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1344140347,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1344140347,
+    "wof:lastmodified":1537702506,
+    "wof:name":"Baydar Ba`ashtar",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9378,
+    34.98494,
+    35.9378,
+    34.98494
+],
+  "geometry": {"coordinates":[35.9378,34.98494],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209411209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73848,36.47151,36.73848,36.47151",
+    "geom:latitude":36.47151,
+    "geom:longitude":36.73848,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khurzan",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273890,
+    "gn:latitude":36.47151,
+    "gn:longitude":36.73848,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Khurz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Khurz\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kherz\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273890
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a6e037db691a56556c0f5a10df82303",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209411209
+        }
+    ],
+    "wof:id":1209411209,
+    "wof:lastmodified":1537702512,
+    "wof:name":"Khurzan",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73848,
+    36.47151,
+    36.73848,
+    36.47151
+],
+  "geometry": {"coordinates":[36.73848,36.47151],"type":"Point"}
+}

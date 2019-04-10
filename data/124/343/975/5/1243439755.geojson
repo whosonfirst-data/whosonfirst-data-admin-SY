@@ -1,0 +1,73 @@
+{
+  "id": 1243439755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38046,33.37623,36.38046,33.37623",
+    "geom:latitude":33.37623,
+    "geom:longitude":36.38046,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Mirbat",
+    "gn:country_code":"SY",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412450,
+    "gn:latitude":33.37623,
+    "gn:longitude":36.38046,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 al Mirb\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0645\u0631\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Mirb\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412450
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"653d0e41ef71c6c5fe5d278151d7faa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1243439755,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243439755,
+    "wof:lastmodified":1537702563,
+    "wof:name":"Ard al Mirbat",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38046,
+    33.37623,
+    36.38046,
+    33.37623
+],
+  "geometry": {"coordinates":[36.38046,33.37623],"type":"Point"}
+}

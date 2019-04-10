@@ -1,0 +1,76 @@
+{
+  "id": 1276956685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42701,34.64056,36.42701,34.64056",
+    "geom:latitude":34.64056,
+    "geom:longitude":36.42701,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biznaya",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171350,
+    "gn:latitude":34.64056,
+    "gn:longitude":36.42701,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bizn\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bizn\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0632\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Beznaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171350
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"725e3765fc85d4ea58ce49babfdb3159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1276956685,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276956685,
+    "wof:lastmodified":1537702191,
+    "wof:name":"Biznaya",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42701,
+    34.64056,
+    36.42701,
+    34.64056
+],
+  "geometry": {"coordinates":[36.42701,34.64056],"type":"Point"}
+}

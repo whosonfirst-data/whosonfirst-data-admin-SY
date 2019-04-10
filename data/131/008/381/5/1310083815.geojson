@@ -1,0 +1,76 @@
+{
+  "id": 1310083815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0794,34.90122,37.0794,34.90122",
+    "geom:latitude":34.90122,
+    "geom:longitude":37.0794,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Jurn",
+    "gn:country_code":"SY",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162889,
+    "gn:latitude":34.90122,
+    "gn:longitude":37.0794,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Umm Jurn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062c\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Aaj\u00eel",
+        "Oum Journ",
+        "Kheurbet Aj\u00eel",
+        "Umm Jurn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162889
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1280aa232a966b6ce250d40a9fa13a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1310083815,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310083815,
+    "wof:lastmodified":1537701621,
+    "wof:name":"Umm Jurn",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0794,
+    34.90122,
+    37.0794,
+    34.90122
+],
+  "geometry": {"coordinates":[37.0794,34.90122],"type":"Point"}
+}

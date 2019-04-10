@@ -1,0 +1,74 @@
+{
+  "id": 1259477101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21568,35.4824,37.21568,35.4824",
+    "geom:latitude":35.4824,
+    "geom:longitude":37.21568,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fayda",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340593,
+    "gn:latitude":35.4824,
+    "gn:longitude":37.21568,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Fayd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Fayd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340593,
+        "wk:page":"Fayda"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"60472f1ff388650c3244ea7acb6a8d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259477101,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259477101,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Fayda",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21568,
+    35.4824,
+    37.21568,
+    35.4824
+],
+  "geometry": {"coordinates":[37.21568,35.4824],"type":"Point"}
+}

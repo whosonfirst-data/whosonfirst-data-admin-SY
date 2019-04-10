@@ -1,0 +1,77 @@
+{
+  "id": 1277096297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45619,33.52405,36.45619,33.52405",
+    "geom:latitude":33.52405,
+    "geom:longitude":36.45619,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Utaya",
+    "gn:country_code":"SY",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162767,
+    "gn:latitude":33.52405,
+    "gn:longitude":36.45619,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u016at\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u016at\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u062a\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Out\u00e2ya",
+        "Otay\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162767
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"550ae0a00add7b86adbc8fdef05fac88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1277096297,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1277096297,
+    "wof:lastmodified":1537701613,
+    "wof:name":"Utaya",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45619,
+    33.52405,
+    36.45619,
+    33.52405
+],
+  "geometry": {"coordinates":[36.45619,33.52405],"type":"Point"}
+}

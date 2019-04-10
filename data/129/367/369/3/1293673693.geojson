@@ -1,0 +1,75 @@
+{
+  "id": 1293673693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46757,35.76527,37.46757,35.76527",
+    "geom:latitude":35.76527,
+    "geom:longitude":37.46757,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hijrarah Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169601,
+    "gn:latitude":35.76527,
+    "gn:longitude":37.46757,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28ijr\u0101rah Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0627\u0631\u0629 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hj\u00e2ra K\u00e9bir\u00e9",
+        "\u1e28ij\u0101rah al Kab\u012brah",
+        "\u1e28ijr\u0101rah Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169601
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5f46137e3c0b604327eecc03004f3611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293673693,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293673693,
+    "wof:lastmodified":1537702077,
+    "wof:name":"Hijrarah Kabirah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46757,
+    35.76527,
+    37.46757,
+    35.76527
+],
+  "geometry": {"coordinates":[37.46757,35.76527],"type":"Point"}
+}

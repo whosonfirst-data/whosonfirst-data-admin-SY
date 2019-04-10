@@ -1,0 +1,76 @@
+{
+  "id": 1276216485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.62913,36.68276,38.62913,36.68276",
+    "geom:latitude":36.68276,
+    "geom:longitude":38.62913,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shaykh Ghali",
+    "gn:country_code":"SY",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172724,
+    "gn:latitude":36.68276,
+    "gn:longitude":38.62913,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Shaykh Gh\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u063a\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Cha\u00efkh Rh\u00e2li",
+        "Che\u00efkh Rh\u00e2li",
+        "Ash Shaykh Gh\u0101l\u012b",
+        "Shaykh Gh\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172724
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4def55665a7f292cdff32730f6b624d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276216485,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276216485,
+    "wof:lastmodified":1537702288,
+    "wof:name":"Shaykh Ghali",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.62913,
+    36.68276,
+    38.62913,
+    36.68276
+],
+  "geometry": {"coordinates":[38.62913,36.68276],"type":"Point"}
+}

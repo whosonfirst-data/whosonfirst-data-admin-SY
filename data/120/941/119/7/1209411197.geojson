@@ -1,0 +1,89 @@
+{
+  "id": 1209411197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32634,36.86961,38.32634,36.86961",
+    "geom:latitude":36.86961,
+    "geom:longitude":38.32634,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mamayd",
+    "gn:country_code":"SY",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9239,
+    "gn:latitude":36.86961,
+    "gn:longitude":38.32634,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"M\u0101mayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101m\u012bd"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0645\u064a\u062f",
+        "\u0645\u0627\u0645\u064a\u062a",
+        "\u0627\u0644\u062d\u0645\u0627\u0645\u0627",
+        "\u062d\u0645\u0627\u0645\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Himam\u00eek"
+    ],
+    "name:kur_x_variant":[
+        "Himamik",
+        "\u0647\u0645\u0627\u0645\u064a\u0643",
+        "\u0647\u0645\u0627\u0645\u0643"
+    ],
+    "name:und_x_variant":[
+        "M\u00e2me\u00eft",
+        "M\u00e2meite",
+        "M\u0101mayt",
+        "M\u0101mayd",
+        "Mamayt",
+        "Al \u1e28am\u0101m\u0101",
+        "Elhemama",
+        "\u1e28am\u0101m\u0101",
+        "Hamama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9239
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"554db66dc92f06f9a83a3e1355ae476f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209411197
+        }
+    ],
+    "wof:id":1209411197,
+    "wof:lastmodified":1537701574,
+    "wof:name":"Mamayd",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32634,
+    36.86961,
+    38.32634,
+    36.86961
+],
+  "geometry": {"coordinates":[38.32634,36.86961],"type":"Point"}
+}

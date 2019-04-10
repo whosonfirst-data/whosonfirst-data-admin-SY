@@ -1,0 +1,75 @@
+{
+  "id": 1209724315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93804,35.42341,35.93804,35.42341",
+    "geom:latitude":35.42341,
+    "geom:longitude":35.93804,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bustan al Basha",
+    "gn:country_code":"SY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171121,
+    "gn:latitude":35.42341,
+    "gn:longitude":35.93804,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bust\u0101n al B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Boust\u00e2ne el B\u00e2cha",
+        "Boust\u00e2ne B\u00e2cha",
+        "Bust\u0101n al B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171121
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0686776356ea7a1e17ffccd904f67e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1209724315,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1209724315,
+    "wof:lastmodified":1537702172,
+    "wof:name":"Bustan al Basha",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93804,
+    35.42341,
+    35.93804,
+    35.42341
+],
+  "geometry": {"coordinates":[35.93804,35.42341],"type":"Point"}
+}

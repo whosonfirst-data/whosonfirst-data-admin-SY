@@ -1,0 +1,78 @@
+{
+  "id": 1310679947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21444,35.12751,36.21444,35.12751",
+    "geom:latitude":35.12751,
+    "geom:longitude":36.21444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"At Tawahin",
+    "gn:country_code":"SY",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172339,
+    "gn:latitude":35.12751,
+    "gn:longitude":36.21444,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"A\u0163 \u0162aw\u0101\u1e29\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0627\u062d\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u062d\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tou\u00e2h\u00eene",
+        "A\u0163 \u0162aw\u0101\u1e29\u012bn",
+        "\u0162aw\u0101\u1e29\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172339
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12e292c9b4f4681dbaff540c6bdc2149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310679947,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310679947,
+    "wof:lastmodified":1537702267,
+    "wof:name":"At Tawahin",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21444,
+    35.12751,
+    36.21444,
+    35.12751
+],
+  "geometry": {"coordinates":[36.21444,35.12751],"type":"Point"}
+}

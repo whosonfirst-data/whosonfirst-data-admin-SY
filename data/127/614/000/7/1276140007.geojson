@@ -1,0 +1,76 @@
+{
+  "id": 1276140007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99972,34.88242,36.99972,34.88242",
+    "geom:latitude":34.88242,
+    "geom:longitude":36.99972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Khaznah",
+    "gn:country_code":"SY",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163691,
+    "gn:latitude":34.88242,
+    "gn:longitude":36.99972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall Khaznah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062e\u0632\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell Kazne",
+        "Tell el Khazn\u00e9",
+        "Tall al Khaznah",
+        "Tall Khaznah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163691
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d8cef0618e593bbbc3b3a09063dff932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276140007,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276140007,
+    "wof:lastmodified":1537701685,
+    "wof:name":"Tall Khaznah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99972,
+    34.88242,
+    36.99972,
+    34.88242
+],
+  "geometry": {"coordinates":[36.99972,34.88242],"type":"Point"}
+}

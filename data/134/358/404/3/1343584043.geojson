@@ -1,0 +1,80 @@
+{
+  "id": 1343584043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77205,32.80071,36.77205,32.80071",
+    "geom:latitude":32.80071,
+    "geom:longitude":36.77205,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Turba",
+    "gn:country_code":"SY",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172332,
+    "gn:latitude":32.80071,
+    "gn:longitude":36.77205,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0162urb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162urb\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0631\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0162ayyibah",
+        "Ta\u00efb\u00e9",
+        "Tarba",
+        "A\u0163 \u0162ayyibah",
+        "\u0162urb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172332
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5a762383cbe3886e7eb1e9ab1ad6d38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1343584043,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1343584043,
+    "wof:lastmodified":1537702267,
+    "wof:name":"Turba",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77205,
+    32.80071,
+    36.77205,
+    32.80071
+],
+  "geometry": {"coordinates":[36.77205,32.80071],"type":"Point"}
+}

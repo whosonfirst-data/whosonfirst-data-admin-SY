@@ -1,0 +1,74 @@
+{
+  "id": 1276436587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63895,36.34178,36.63895,36.34178",
+    "geom:latitude":36.34178,
+    "geom:longitude":36.63895,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Duqan",
+    "gn:country_code":"SY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553670,
+    "gn:latitude":36.34178,
+    "gn:longitude":36.63895,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"D\u016bq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0642\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u016bq\u0101n",
+        "Do\u00fbk\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553670
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"161307b058d43d500d5445ee9d858463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1276436587,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276436587,
+    "wof:lastmodified":1537702626,
+    "wof:name":"Duqan",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63895,
+    36.34178,
+    36.63895,
+    36.34178
+],
+  "geometry": {"coordinates":[36.63895,36.34178],"type":"Point"}
+}

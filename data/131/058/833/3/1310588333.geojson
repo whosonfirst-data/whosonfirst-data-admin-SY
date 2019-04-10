@@ -1,0 +1,76 @@
+{
+  "id": 1310588333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88266,35.51262,36.88266,35.51262",
+    "geom:latitude":35.51262,
+    "geom:longitude":36.88266,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Umm al Khalakhil",
+    "gn:country_code":"SY",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162993,
+    "gn:latitude":35.51262,
+    "gn:longitude":36.88266,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Umm al Khal\u0101kh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062e\u0644\u0627\u062e\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Oumm el Khal\u00e2khel",
+        "Oum el Khal\u00e2khil",
+        "Oumm el Khal\u00e2khil",
+        "Umm al Khal\u0101kh\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162993
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4ca95dd2a55b5f8538bccd7e36100e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1310588333,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310588333,
+    "wof:lastmodified":1537701629,
+    "wof:name":"Umm al Khalakhil",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88266,
+    35.51262,
+    36.88266,
+    35.51262
+],
+  "geometry": {"coordinates":[36.88266,35.51262],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343641601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74626,35.65505,36.74626,35.65505",
+    "geom:latitude":35.65505,
+    "geom:longitude":36.74626,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zahrat Tallmannis",
+    "gn:country_code":"SY",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11556278,
+    "gn:latitude":35.65505,
+    "gn:longitude":36.74626,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Z\u0327ahrat Tallmannis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631\u0629 \u062a\u0644\u0645\u0646\u0633"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ahrat Tallmannis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556278
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9aaf98e10a234b6f6c4e85734995e882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1343641601,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343641601,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Zahrat Tallmannis",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74626,
+    35.65505,
+    36.74626,
+    35.65505
+],
+  "geometry": {"coordinates":[36.74626,35.65505],"type":"Point"}
+}

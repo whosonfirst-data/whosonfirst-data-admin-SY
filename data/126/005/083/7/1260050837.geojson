@@ -1,0 +1,73 @@
+{
+  "id": 1260050837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01839,34.84281,36.01839,34.84281",
+    "geom:latitude":34.84281,
+    "geom:longitude":36.01839,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hikr ash Shaykh Mahmud",
+    "gn:country_code":"SY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444707,
+    "gn:latitude":34.84281,
+    "gn:longitude":36.01839,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"\u1e28ikr ash Shaykh Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0643\u0631 \u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ikr ash Shaykh Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444707
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"879987f0f65de2ec44631cd19e348e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1260050837,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260050837,
+    "wof:lastmodified":1537702625,
+    "wof:name":"Hikr ash Shaykh Mahmud",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01839000000001,
+    34.84281,
+    36.01839000000001,
+    34.84281
+],
+  "geometry": {"coordinates":[36.01839000000001,34.84281],"type":"Point"}
+}

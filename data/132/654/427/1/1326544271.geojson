@@ -1,0 +1,79 @@
+{
+  "id": 1326544271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26389,36.97278,41.26389,36.97278",
+    "geom:latitude":36.97278,
+    "geom:longitude":41.26389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ad Dawshah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174247,
+    "gn:latitude":36.97278,
+    "gn:longitude":41.26389,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ad Dawshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0634\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Ad Dawshah"
+    ],
+    "name:und_x_variant":[
+        "Ed Douche",
+        "Ed Daouch\u00e1",
+        "Ed D\u00f4ch\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174247
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed4ee3b612e52a856acca4d9e929bf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1326544271,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326544271,
+    "wof:lastmodified":1537702400,
+    "wof:name":"Ad Dawshah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26389,
+    36.97278,
+    41.26389,
+    36.97278
+],
+  "geometry": {"coordinates":[41.26389,36.97278],"type":"Point"}
+}

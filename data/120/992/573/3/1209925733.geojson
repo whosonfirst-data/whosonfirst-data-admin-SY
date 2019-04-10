@@ -1,0 +1,124 @@
+{
+  "id": 1209925733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81084,32.99941,35.81084,32.99941",
+    "geom:latitude":32.99941,
+    "geom:longitude":35.81084,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Al Khushniyah",
+    "gn:country_code":"SY",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173601,
+    "gn:latitude":32.99941,
+    "gn:longitude":35.81084,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"Al Khushn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u0646\u064a\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0443\u0448\u043d\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "El Khushn\u012bye",
+        "Coucheni\u00e9",
+        "Khochniy\u00e9",
+        "El Kushniye",
+        "Khushn\u012byah",
+        "Al Khushn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173601
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42c4ea36e7074ec3cfa02ef6a9d58908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1209925733,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1209925733,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1209925733,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1209925733,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1209925733,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1209925733,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1209925733,
+    "wof:lastmodified":1549931219,
+    "wof:name":"Al Khushniyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81084,
+    32.99941,
+    35.81084,
+    32.99941
+],
+  "geometry": {"coordinates":[35.81084,32.99941],"type":"Point"}
+}

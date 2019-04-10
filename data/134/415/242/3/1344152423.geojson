@@ -1,0 +1,74 @@
+{
+  "id": 1344152423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32651,35.0846,36.32651,35.0846",
+    "geom:latitude":35.0846,
+    "geom:longitude":36.32651,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Az Zaynah",
+    "gn:country_code":"SY",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172036,
+    "gn:latitude":35.0846,
+    "gn:longitude":36.32651,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Az Zaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ez Za\u00efn\u00e9",
+        "Az Zaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172036
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"590180a44cd9124f7249508e4ce2d6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1344152423,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344152423,
+    "wof:lastmodified":1537702243,
+    "wof:name":"Az Zaynah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32651,
+    35.0846,
+    36.32651,
+    35.0846
+],
+  "geometry": {"coordinates":[36.32651,35.0846],"type":"Point"}
+}

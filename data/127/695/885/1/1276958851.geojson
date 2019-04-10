@@ -1,0 +1,76 @@
+{
+  "id": 1276958851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94715,35.5509,36.94715,35.5509",
+    "geom:latitude":35.5509,
+    "geom:longitude":36.94715,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Umm ar Rajim",
+    "gn:country_code":"SY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162961,
+    "gn:latitude":35.5509,
+    "gn:longitude":36.94715,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Umm ar Raj\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u062c\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Oum er Rj\u00eem",
+        "Umm ar Rujm",
+        "Oumm er Rj\u00eem",
+        "Umm ar Raj\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162961
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b3b1a81c5421c05ab001168677477d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1276958851,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276958851,
+    "wof:lastmodified":1537701627,
+    "wof:name":"Umm ar Rajim",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94715,
+    35.5509,
+    36.94715,
+    35.5509
+],
+  "geometry": {"coordinates":[36.94715,35.5509],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310094471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66666,35.00535,37.66666,35.00535",
+    "geom:latitude":35.00535,
+    "geom:longitude":37.66666,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Tanbak",
+    "gn:country_code":"SY",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342679,
+    "gn:latitude":35.00535,
+    "gn:longitude":37.66666,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"At Tanb\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0646\u0628\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "At Tanb\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342679
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2643d821257c090b273de8b5121123af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310094471,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310094471,
+    "wof:lastmodified":1537702546,
+    "wof:name":"At Tanbak",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66666,
+    35.00535,
+    37.66666,
+    35.00535
+],
+  "geometry": {"coordinates":[37.66666,35.00535],"type":"Point"}
+}

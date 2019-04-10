@@ -1,0 +1,77 @@
+{
+  "id": 1260380719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85716,36.48974,37.85716,36.48974",
+    "geom:latitude":36.48974,
+    "geom:longitude":37.85716,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tayiha",
+    "gn:country_code":"SY",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163787,
+    "gn:latitude":36.48974,
+    "gn:longitude":37.85716,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u0101yih\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "T\u0101yih\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u064a\u0647\u0627"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2iha",
+        "\u0162\u0101\u2019i\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163787
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"20ca02c2cd6af18dfcf2755ae58e3299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1260380719,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260380719,
+    "wof:lastmodified":1537701695,
+    "wof:name":"Tayiha",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85716,
+    36.48974000000001,
+    37.85716,
+    36.48974000000001
+],
+  "geometry": {"coordinates":[37.85716,36.48974000000001],"type":"Point"}
+}

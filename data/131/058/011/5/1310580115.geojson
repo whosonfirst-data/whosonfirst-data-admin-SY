@@ -1,0 +1,75 @@
+{
+  "id": 1310580115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97669,35.02238,35.97669,35.02238",
+    "geom:latitude":35.02238,
+    "geom:longitude":35.97669,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mazra`at al Mallu`ah",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166959,
+    "gn:latitude":35.02238,
+    "gn:longitude":35.97669,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mazra\u2018at al Mall\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0645\u0644\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazraat el Mallo\u00fba\u00e2",
+        "Mazra\u2018at al Mall\u016b\u2018\u0101",
+        "Mazra\u2018at al Mall\u016b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1e6025f580167f4fb9ad38e473166995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1310580115,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310580115,
+    "wof:lastmodified":1537701892,
+    "wof:name":"Mazra`at al Mallu`ah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97669000000001,
+    35.02238,
+    35.97669000000001,
+    35.02238
+],
+  "geometry": {"coordinates":[35.97669000000001,35.02238],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259773189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90176,36.18323,36.90176,36.18323",
+    "geom:latitude":36.18323,
+    "geom:longitude":36.90176,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bahfis",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171940,
+    "gn:latitude":36.18323,
+    "gn:longitude":36.90176,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ba\u1e29f\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0641\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e29f\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171940
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c719df46a046afe7e1c957e798a44003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259773189,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259773189,
+    "wof:lastmodified":1537702236,
+    "wof:name":"Bahfis",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90176,
+    36.18323,
+    36.90176,
+    36.18323
+],
+  "geometry": {"coordinates":[36.90176,36.18323],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327249123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19166,36.8091,40.19166,36.8091",
+    "geom:latitude":36.8091,
+    "geom:longitude":40.19166,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mujabirah",
+    "gn:country_code":"SY",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166738,
+    "gn:latitude":36.8091,
+    "gn:longitude":40.19166,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muj\u0101birah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0627\u0628\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Muj\u0101birah"
+    ],
+    "name:und_x_variant":[
+        "Mouj\u00e2bra",
+        "Muj\u0101birah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166738
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"574ed90336d98d27bfb9910ce6059e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1327249123,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327249123,
+    "wof:lastmodified":1537701877,
+    "wof:name":"Mujabirah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19166,
+    36.8091,
+    40.19166,
+    36.8091
+],
+  "geometry": {"coordinates":[40.19166,36.8091],"type":"Point"}
+}

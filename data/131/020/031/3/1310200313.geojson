@@ -1,0 +1,74 @@
+{
+  "id": 1310200313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01887,35.2121,37.01887,35.2121",
+    "geom:latitude":35.2121,
+    "geom:longitude":37.01887,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall adh Dhahab",
+    "gn:country_code":"SY",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163744,
+    "gn:latitude":35.2121,
+    "gn:longitude":37.01887,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall adh Dhahab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0630\u0647\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tell Ez Zahab",
+        "Tall adh Dhahab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163744
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c24ccf558a08586a1e5775ecbc32c2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310200313,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310200313,
+    "wof:lastmodified":1537701691,
+    "wof:name":"Tall adh Dhahab",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01887,
+    35.2121,
+    37.01887,
+    35.2121
+],
+  "geometry": {"coordinates":[37.01887,35.2121],"type":"Point"}
+}

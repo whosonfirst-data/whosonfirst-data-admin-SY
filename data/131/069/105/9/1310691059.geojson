@@ -1,0 +1,87 @@
+{
+  "id": 1310691059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.34441,36.7807,38.34441,36.7807",
+    "geom:latitude":36.7807,
+    "geom:longitude":38.34441,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khazinah",
+    "gn:country_code":"SY",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168189,
+    "gn:latitude":36.7807,
+    "gn:longitude":38.34441,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Khaz\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u064a\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0632\u064a\u0646\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Xez\u00eane"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u06d5\u0632\u06ce\u0646\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Khaz\u00een\u00e9",
+        "Khaz\u00eeni",
+        "Khaz\u012bnah",
+        "Khazinah",
+        "Khazina",
+        "\u1e28az\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168189
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e1ca3f43742509dade81e53716b8a087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1310691059,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310691059,
+    "wof:lastmodified":1537701975,
+    "wof:name":"Khazinah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.34441,
+    36.7807,
+    38.34441,
+    36.7807
+],
+  "geometry": {"coordinates":[38.34441,36.7807],"type":"Point"}
+}

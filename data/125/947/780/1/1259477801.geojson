@@ -1,0 +1,70 @@
+{
+  "id": 1259477801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16086,35.62527,37.16086,35.62527",
+    "geom:latitude":35.62527,
+    "geom:longitude":37.16086,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Burj",
+    "gn:country_code":"SY",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339986,
+    "gn:latitude":35.62527,
+    "gn:longitude":37.16086,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Burj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339986
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e382a6e9d79867af5cf1c0131f9a5278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259477801,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259477801,
+    "wof:lastmodified":1537702533,
+    "wof:name":"Al Burj",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16086,
+    35.62527,
+    37.16086,
+    35.62527
+],
+  "geometry": {"coordinates":[37.16086,35.62527],"type":"Point"}
+}

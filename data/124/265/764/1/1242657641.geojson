@@ -1,0 +1,75 @@
+{
+  "id": 1242657641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71149,35.60449,36.71149,35.60449",
+    "geom:latitude":35.60449,
+    "geom:longitude":36.71149,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dayr ash Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170801,
+    "gn:latitude":35.60449,
+    "gn:longitude":36.71149,
+    "gn:modification_date":"2017-12-12",
+    "gn:name":"Dayr ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr ech Charqi",
+        "Dayr ash Sharq\u012b",
+        "Aldier Alsharki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170801
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7132dc888f539865bc257479e31bbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1242657641,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242657641,
+    "wof:lastmodified":1537702148,
+    "wof:name":"Dayr ash Sharqi",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71149000000001,
+    35.60449000000001,
+    36.71149000000001,
+    35.60449000000001
+],
+  "geometry": {"coordinates":[36.71149000000001,35.60449000000001],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 890449843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67183,36.01152,36.67183,36.01152",
+    "geom:latitude":36.01152,
+    "geom:longitude":36.67183,
+    "gn:country":"SY",
+    "gn:fcode":"PPLA3",
+    "gn:pop":32163,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0629 \u0645\u0635\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631\u062a\u0645\u0635\u0631\u064a\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u0561\u0580\u0580\u0561\u0569 \u0544\u056b\u057d\u0580\u056b\u0576"
+    ],
+    "name:cat_x_preferred":[
+        "Maarrat Masrin"
+    ],
+    "name:dut_x_preferred":[
+        "Maarrat Misrin"
+    ],
+    "name:eng_x_preferred":[
+        "Maarrat Misrin"
+    ],
+    "name:fre_x_preferred":[
+        "Maarrat Misrin"
+    ],
+    "name:nno_x_preferred":[
+        "Maarrat Misrin"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0639\u0631\u0629 \u0645\u0635\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019arrat Misrin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u0435\u0442-\u041c\u0438\u0441\u0440\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Maarrat al Masrin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0639\u0631\u062a \u0645\u0635\u0631\u06cc\u0646"
+    ],
+    "qs:name":"Ma\u2018arrat Mi\u015fr\u012bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"36.0",
+    "wd:longitude":"36.6667",
+    "wd:wordcount":1291,
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167605,
+        "gp:id":1947167,
+        "qs:id":70734,
+        "wd:id":"Q6721179",
+        "wk:page":"Maarrat Misrin"
+    },
+    "wof:country":"SY",
+    "wof:created":1469052713,
+    "wof:geomhash":"8d2e30f968f1c48e135cf9d8ade440d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":890449843,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":890449843,
+    "wof:lastmodified":1527727155,
+    "wof:name":"Ma\u2018arrat Mi\u015fr\u012bn",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:population":32163,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67183,
+    36.01152,
+    36.67183,
+    36.01152
+],
+  "geometry": {"coordinates":[36.67183,36.01152],"type":"Point"}
+}

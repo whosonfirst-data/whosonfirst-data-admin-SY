@@ -1,0 +1,74 @@
+{
+  "id": 1343494077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.64942,35.99765,39.64942,35.99765",
+    "geom:latitude":35.99765,
+    "geom:longitude":39.64942,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Hayyah",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4328,
+    "gn:latitude":35.99765,
+    "gn:longitude":39.64942,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ab\u016b \u1e28ayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28abbah",
+        "Ab\u016b \u1e28ayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4328
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8aa4912052bfe0a7abce3795419fb52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1343494077,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343494077,
+    "wof:lastmodified":1537701540,
+    "wof:name":"Abu Hayyah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64942,
+    35.99765,
+    39.64942,
+    35.99765
+],
+  "geometry": {"coordinates":[39.64942,35.99765],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193019987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.7705,36.61,40.7705,36.61",
+    "geom:latitude":36.61,
+    "geom:longitude":40.7705,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Safaya",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165073,
+    "gn:latitude":36.61,
+    "gn:longitude":40.7705,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u015eafay\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sf\u00e2ya",
+        "\u015eaf\u0101y\u0101",
+        "\u015eafay\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165073
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c42773d9eb1bbbee961611a16604bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1193019987,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1193019987,
+    "wof:lastmodified":1537701767,
+    "wof:name":"Safaya",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.7705,
+    36.61,
+    40.7705,
+    36.61
+],
+  "geometry": {"coordinates":[40.7705,36.61],"type":"Point"}
+}

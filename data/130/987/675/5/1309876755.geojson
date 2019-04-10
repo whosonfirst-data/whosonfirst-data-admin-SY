@@ -1,0 +1,77 @@
+{
+  "id": 1309876755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96456,35.11844,35.96456,35.11844",
+    "geom:latitude":35.11844,
+    "geom:longitude":35.96456,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Antuz",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173150,
+    "gn:latitude":35.11844,
+    "gn:longitude":35.96456,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"An\u0163\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ant\u016bz"
+    ],
+    "name:ara_x_variant":[
+        "An\u0163\u016bz",
+        "\u0627\u0646\u0637\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Annto\u00fbz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173150
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d257fb4d121107a14b0fbae1a88f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309876755,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309876755,
+    "wof:lastmodified":1537702314,
+    "wof:name":"Antuz",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96456,
+    35.11844,
+    35.96456,
+    35.11844
+],
+  "geometry": {"coordinates":[35.96456,35.11844],"type":"Point"}
+}

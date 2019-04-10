@@ -1,0 +1,74 @@
+{
+  "id": 1226827981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9869,35.2117,35.9869,35.2117",
+    "geom:latitude":35.2117,
+    "geom:longitude":35.9869,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dayr al Bishl",
+    "gn:country_code":"SY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170815,
+    "gn:latitude":35.2117,
+    "gn:longitude":35.9869,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dayr al Bishl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0628\u0634\u0644"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr el Bichl",
+        "Dayr al Bishl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170815
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18b9005cea6bda34a40ad29d1f5b1ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226827981,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226827981,
+    "wof:lastmodified":1537702149,
+    "wof:name":"Dayr al Bishl",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9869,
+    35.2117,
+    35.9869,
+    35.2117
+],
+  "geometry": {"coordinates":[35.9869,35.2117],"type":"Point"}
+}

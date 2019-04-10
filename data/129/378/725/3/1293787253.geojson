@@ -1,0 +1,76 @@
+{
+  "id": 1293787253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0536,35.62166,36.0536,35.62166",
+    "geom:latitude":35.62166,
+    "geom:longitude":36.0536,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jinkil",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169047,
+    "gn:latitude":35.62166,
+    "gn:longitude":36.0536,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Jink\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jink\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0646\u0643\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Jinnk\u00eel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169047
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ae25032eb576f86ff61147d66bc03e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293787253,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293787253,
+    "wof:lastmodified":1537702042,
+    "wof:name":"Jinkil",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0536,
+    35.62166,
+    36.0536,
+    35.62166
+],
+  "geometry": {"coordinates":[36.0536,35.62166],"type":"Point"}
+}

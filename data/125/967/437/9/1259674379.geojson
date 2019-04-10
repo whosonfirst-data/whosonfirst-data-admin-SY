@@ -1,0 +1,78 @@
+{
+  "id": 1259674379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38865,33.51049,36.38865,33.51049",
+    "geom:latitude":33.51049,
+    "geom:longitude":36.38865,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jisrayn",
+    "gn:country_code":"SY",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169020,
+    "gn:latitude":33.51049,
+    "gn:longitude":36.38865,
+    "gn:modification_date":"2016-12-11",
+    "gn:name":"Jisrayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0633\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jisre\u00efne",
+        "Jisserine",
+        "Jisrayn",
+        "Jisreen",
+        "Jesreen",
+        "Jasreen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169020
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c51dcf4558c951f9a14091291823f72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1259674379,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259674379,
+    "wof:lastmodified":1537702040,
+    "wof:name":"Jisrayn",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38865,
+    33.51049,
+    36.38865,
+    33.51049
+],
+  "geometry": {"coordinates":[36.38865,33.51049],"type":"Point"}
+}

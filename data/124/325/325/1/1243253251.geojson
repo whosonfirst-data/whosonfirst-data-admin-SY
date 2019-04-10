@@ -1,0 +1,67 @@
+{
+  "id": 1243253251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73433,36.69753,36.73433,36.69753",
+    "geom:latitude":36.69753,
+    "geom:longitude":36.73433,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cobana",
+    "gn:country_code":"SY",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257932,
+    "gn:latitude":36.69753,
+    "gn:longitude":36.73433,
+    "gn:modification_date":"2016-09-24",
+    "gn:name":"\u00c7obana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257932
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0583344534e8429dd268f4b344babc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1243253251,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243253251,
+    "wof:lastmodified":1537080887,
+    "wof:name":"Cobana",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73433,
+    36.69753,
+    36.73433,
+    36.69753
+],
+  "geometry": {"coordinates":[36.73433,36.69753],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360264021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17094,35.06307,36.17094,35.06307",
+    "geom:latitude":35.06307,
+    "geom:longitude":36.17094,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ash Sha`rah",
+    "gn:country_code":"SY",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172816,
+    "gn:latitude":35.06307,
+    "gn:longitude":36.17094,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ash Sha\u2018rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e2ara",
+        "Ash Sha\u2018rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172816
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c12f65f4bc01be99988810ae582b8ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1360264021,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1360264021,
+    "wof:lastmodified":1537702292,
+    "wof:name":"Ash Sha`rah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17094,
+    35.06307,
+    36.17094,
+    35.06307
+],
+  "geometry": {"coordinates":[36.17094,35.06307],"type":"Point"}
+}

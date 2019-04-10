@@ -1,0 +1,73 @@
+{
+  "id": 1310702285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13072,36.22759,39.13072,36.22759",
+    "geom:latitude":36.22759,
+    "geom:longitude":39.13072,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dukhkhan",
+    "gn:country_code":"SY",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385359,
+    "gn:latitude":36.22759,
+    "gn:longitude":39.13072,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Dukhkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dukhkh\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385359
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96bba30967bfaef5c6ba6b87ab363799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1310702285,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310702285,
+    "wof:lastmodified":1537702425,
+    "wof:name":"Dukhkhan",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13072,
+    36.22759,
+    39.13072,
+    36.22759
+],
+  "geometry": {"coordinates":[39.13072,36.22759],"type":"Point"}
+}

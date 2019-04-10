@@ -1,0 +1,68 @@
+{
+  "id": 1209083413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39211,35.8831,36.39211,35.8831",
+    "geom:latitude":35.8831,
+    "geom:longitude":36.39211,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jubb as Safa",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168953,
+    "gn:latitude":35.8831,
+    "gn:longitude":36.39211,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Jubb a\u015f \u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "Joubb es Safa",
+        "Jubb a\u015f \u015eaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5cb20bbf77231ef79d79aa9c8e4c10ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209083413
+        }
+    ],
+    "wof:id":1209083413,
+    "wof:lastmodified":1537702034,
+    "wof:name":"Jubb as Safa",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39211,
+    35.8831,
+    36.39211,
+    35.8831
+],
+  "geometry": {"coordinates":[36.39211,35.8831],"type":"Point"}
+}

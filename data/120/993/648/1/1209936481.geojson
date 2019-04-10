@@ -1,0 +1,73 @@
+{
+  "id": 1209936481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28856,33.42366,36.28856,33.42366",
+    "geom:latitude":33.42366,
+    "geom:longitude":36.28856,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Qarn",
+    "gn:country_code":"SY",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412259,
+    "gn:latitude":33.42366,
+    "gn:longitude":36.28856,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Ar\u1e11 al Qarn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0642\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Qarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412259
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f117ecd5279788ba3f8bd060538895ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1209936481,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1209936481,
+    "wof:lastmodified":1537702562,
+    "wof:name":"Ard al Qarn",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28856,
+    33.42366,
+    36.28856,
+    33.42366
+],
+  "geometry": {"coordinates":[36.28856,33.42366],"type":"Point"}
+}

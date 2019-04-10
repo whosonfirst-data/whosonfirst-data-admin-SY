@@ -1,0 +1,78 @@
+{
+  "id": 1259371999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6992,35.18701,36.6992,35.18701",
+    "geom:latitude":35.18701,
+    "geom:longitude":36.6992,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr al Balah",
+    "gn:country_code":"SY",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266847,
+    "gn:latitude":35.18701,
+    "gn:longitude":36.6992,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zawr al Bala\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0628\u0644\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0648\u0631 \u0628\u0644\u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zawr al Bala\u1e29",
+        "Zor Balhass\u00eene",
+        "Zawr Bil\u1e29usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266847
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8c653184bb31065f5a92c9c43505f8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259371999,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259371999,
+    "wof:lastmodified":1537702504,
+    "wof:name":"Zawr al Balah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6992,
+    35.18701,
+    36.6992,
+    35.18701
+],
+  "geometry": {"coordinates":[36.6992,35.18701],"type":"Point"}
+}

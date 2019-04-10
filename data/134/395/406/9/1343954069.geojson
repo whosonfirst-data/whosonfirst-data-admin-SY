@@ -1,0 +1,74 @@
+{
+  "id": 1343954069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07118,35.13646,37.07118,35.13646",
+    "geom:latitude":35.13646,
+    "geom:longitude":37.07118,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sumnah",
+    "gn:country_code":"SY",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420109,
+    "gn:latitude":35.13646,
+    "gn:longitude":37.07118,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Sumnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sumnat",
+        "Sumnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420109
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c169986facd2827e04b89c9a4792409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343954069,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343954069,
+    "wof:lastmodified":1537702437,
+    "wof:name":"Sumnah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07118,
+    35.13646,
+    37.07118,
+    35.13646
+],
+  "geometry": {"coordinates":[37.07118,35.13646],"type":"Point"}
+}

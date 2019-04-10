@@ -1,0 +1,76 @@
+{
+  "id": 1343947841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96762,36.43822,36.96762,36.43822",
+    "geom:latitude":36.43822,
+    "geom:longitude":36.96762,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Aqibah",
+    "gn:country_code":"SY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173134,
+    "gn:latitude":36.43822,
+    "gn:longitude":36.96762,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u2018Aq\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaq\u00eeba",
+        "Aakiba",
+        "Akiba",
+        "\u2018Aq\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173134
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d6bc23d39b7a98de57be926b623da34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343947841,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343947841,
+    "wof:lastmodified":1537702313,
+    "wof:name":"`Aqibah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96762,
+    36.43822,
+    36.96762,
+    36.43822
+],
+  "geometry": {"coordinates":[36.96762,36.43822],"type":"Point"}
+}

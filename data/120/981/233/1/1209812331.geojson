@@ -1,0 +1,75 @@
+{
+  "id": 1209812331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65671,35.50603,40.65671,35.50603",
+    "geom:latitude":35.50603,
+    "geom:longitude":40.65671,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"As Suwar",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172413,
+    "gn:latitude":35.50603,
+    "gn:longitude":40.65671,
+    "gn:modification_date":"2011-01-13",
+    "gn:name":"A\u015f \u015euwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015euw\u0101r",
+        "Suri",
+        "Sou\u00e2r",
+        "Tell es Suwar",
+        "A\u015f \u015euwar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172413
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46f0509a72484f1c20b8bd4077c9d69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1209812331,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1209812331,
+    "wof:lastmodified":1537702272,
+    "wof:name":"As Suwar",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65671,
+    35.50603,
+    40.65671,
+    35.50603
+],
+  "geometry": {"coordinates":[40.65671,35.50603],"type":"Point"}
+}

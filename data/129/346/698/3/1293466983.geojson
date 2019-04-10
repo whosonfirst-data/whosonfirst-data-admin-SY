@@ -1,0 +1,74 @@
+{
+  "id": 1293466983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95899,35.65001,36.95899,35.65001",
+    "geom:latitude":35.65001,
+    "geom:longitude":36.95899,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karratin al Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168544,
+    "gn:latitude":35.65001,
+    "gn:longitude":36.95899,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Karr\u0101t\u012bn al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u062a\u064a\u0646 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Karr\u00e2tine el K\u00e9bir\u00e9",
+        "Karr\u0101t\u012bn al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168544
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5582080ccd80a37defa967caeee49128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1293466983,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293466983,
+    "wof:lastmodified":1537702000,
+    "wof:name":"Karratin al Kabirah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95899,
+    35.65000999999999,
+    36.95899,
+    35.65000999999999
+],
+  "geometry": {"coordinates":[36.95899,35.65000999999999],"type":"Point"}
+}

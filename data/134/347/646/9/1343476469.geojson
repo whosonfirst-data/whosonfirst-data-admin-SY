@@ -1,0 +1,73 @@
+{
+  "id": 1343476469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04256,36.20926,41.04256,36.20926",
+    "geom:latitude":36.20926,
+    "geom:longitude":41.04256,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Amsariyah",
+    "gn:country_code":"SY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595547,
+    "gn:latitude":36.20926,
+    "gn:longitude":41.04256,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Al Am\u015f\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u0635\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Am\u015f\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595547
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ede60dcba6f3d17070043f7ec2c0d29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1343476469,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343476469,
+    "wof:lastmodified":1537702578,
+    "wof:name":"Al Amsariyah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04256,
+    36.20926,
+    41.04256,
+    36.20926
+],
+  "geometry": {"coordinates":[41.04256,36.20926],"type":"Point"}
+}

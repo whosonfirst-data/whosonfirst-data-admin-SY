@@ -1,0 +1,73 @@
+{
+  "id": 1226230625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72778,34.82267,36.72778,34.82267",
+    "geom:latitude":34.82267,
+    "geom:longitude":36.72778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat al Qisar",
+    "gn:country_code":"SY",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432685,
+    "gn:latitude":34.82267,
+    "gn:longitude":36.72778,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Khirbat al Qi\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0642\u0635\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Qi\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432685
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"620fed88109b01c2804bb8e47763dd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226230625,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226230625,
+    "wof:lastmodified":1537702619,
+    "wof:name":"Khirbat al Qisar",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72778,
+    34.82267,
+    36.72778,
+    34.82267
+],
+  "geometry": {"coordinates":[36.72778,34.82267],"type":"Point"}
+}

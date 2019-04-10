@@ -1,0 +1,78 @@
+{
+  "id": 1343750857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20431,35.31903,37.20431,35.31903",
+    "geom:latitude":35.31903,
+    "geom:longitude":37.20431,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Suruj",
+    "gn:country_code":"SY",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164777,
+    "gn:latitude":35.31903,
+    "gn:longitude":37.20431,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sur\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sur\u016bj"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0631\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Sro\u00fbj\u00e9",
+        "Sar\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164777,
+        "wk:page":"Suruj"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce45e0af0030e21d6e202c9949854d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343750857,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343750857,
+    "wof:lastmodified":1537701752,
+    "wof:name":"Suruj",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20431,
+    35.31903,
+    37.20431,
+    35.31903
+],
+  "geometry": {"coordinates":[37.20431,35.31903],"type":"Point"}
+}

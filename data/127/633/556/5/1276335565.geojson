@@ -1,0 +1,67 @@
+{
+  "id": 1276335565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64861,35.70303,38.64861,35.70303",
+    "geom:latitude":35.70303,
+    "geom:longitude":38.64861,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir al-David",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592904,
+    "gn:latitude":35.70303,
+    "gn:longitude":38.64861,
+    "gn:modification_date":"2017-06-19",
+    "gn:name":"Bir al-David",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592904
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94f0d86de6d0c20bb1ae280704958cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1276335565,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276335565,
+    "wof:lastmodified":1536776116,
+    "wof:name":"Bir al-David",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64861,
+    35.70303,
+    38.64861,
+    35.70303
+],
+  "geometry": {"coordinates":[38.64861,35.70303],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310090025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39174,35.88158,37.39174,35.88158",
+    "geom:latitude":35.88158,
+    "geom:longitude":37.39174,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Buslah",
+    "gn:country_code":"SY",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338212,
+    "gn:latitude":35.88158,
+    "gn:longitude":37.39174,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Buslah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1193d4ab1fd36de145c4aa03965b51f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1310090025,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310090025,
+    "wof:lastmodified":1537702530,
+    "wof:name":"Buslah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39174000000001,
+    35.88158,
+    37.39174000000001,
+    35.88158
+],
+  "geometry": {"coordinates":[37.39174000000001,35.88158],"type":"Point"}
+}

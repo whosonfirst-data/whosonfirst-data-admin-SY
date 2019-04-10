@@ -1,0 +1,72 @@
+{
+  "id": 1226263973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.0,35.46667,40.0,35.46667",
+    "geom:latitude":35.46667,
+    "geom:longitude":40.0,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zurayyir",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162365,
+    "gn:latitude":35.46667,
+    "gn:longitude":40.0,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Zurayyir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zra\u00efyer",
+        "Zurayyir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162365
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a703bea4944171e84a2a91420c183788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1226263973,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226263973,
+    "wof:lastmodified":1537701585,
+    "wof:name":"Zurayyir",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.0,
+    35.46667,
+    40.0,
+    35.46667
+],
+  "geometry": {"coordinates":[40.0,35.46667],"type":"Point"}
+}

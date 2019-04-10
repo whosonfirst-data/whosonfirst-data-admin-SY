@@ -1,0 +1,69 @@
+{
+  "id": 1209298987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47489,36.04011,37.47489,36.04011",
+    "geom:latitude":36.04011,
+    "geom:longitude":37.47489,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Aqrabuz",
+    "gn:country_code":"SY",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173117,
+    "gn:latitude":36.04011,
+    "gn:longitude":37.47489,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u2018Aqrab\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0631\u0628\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Aaqrabo\u00fbz",
+        "Akrabout",
+        "\u2018Aqrab\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173117
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9008296a41129c30fc2f8cca0d183478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209298987
+        }
+    ],
+    "wof:id":1209298987,
+    "wof:lastmodified":1537702312,
+    "wof:name":"`Aqrabuz",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47489,
+    36.04011,
+    37.47489,
+    36.04011
+],
+  "geometry": {"coordinates":[37.47489,36.04011],"type":"Point"}
+}

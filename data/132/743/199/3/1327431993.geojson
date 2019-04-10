@@ -1,0 +1,74 @@
+{
+  "id": 1327431993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21521,36.25627,38.21521,36.25627",
+    "geom:latitude":36.25627,
+    "geom:longitude":38.21521,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shams ad Din ash Shamali",
+    "gn:country_code":"SY",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164522,
+    "gn:latitude":36.25627,
+    "gn:longitude":38.21521,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Shams ad D\u012bn ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0633 \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Chams ed D\u00eene Ch\u00e9m\u00e2li",
+        "Shams ad D\u012bn ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164522
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9226dcd748aa12ede493bdad21912a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1327431993,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1327431993,
+    "wof:lastmodified":1537701739,
+    "wof:name":"Shams ad Din ash Shamali",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21521,
+    36.25627,
+    38.21521,
+    36.25627
+],
+  "geometry": {"coordinates":[38.21521,36.25627],"type":"Point"}
+}

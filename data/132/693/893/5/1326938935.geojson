@@ -1,0 +1,79 @@
+{
+  "id": 1326938935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96162,35.56142,35.96162,35.56142",
+    "geom:latitude":35.56142,
+    "geom:longitude":35.96162,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"As Samiyah",
+    "gn:country_code":"SY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4498,
+    "gn:latitude":35.56142,
+    "gn:longitude":35.96162,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"As S\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "S\u0101miyah",
+        "As S\u0101m\u012byah",
+        "S\u0101m\u012byah",
+        "Samiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4498
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b04b828d01ea6b5480aa54e904e641e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1326938935,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1326938935,
+    "wof:lastmodified":1537701543,
+    "wof:name":"As Samiyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96162,
+    35.56142,
+    35.96162,
+    35.56142
+],
+  "geometry": {"coordinates":[35.96162,35.56142],"type":"Point"}
+}

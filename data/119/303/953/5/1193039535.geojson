@@ -1,0 +1,73 @@
+{
+  "id": 1193039535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37837,35.6078,40.37837,35.6078",
+    "geom:latitude":35.6078,
+    "geom:longitude":40.37837,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khidr al `Isa",
+    "gn:country_code":"SY",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263756,
+    "gn:latitude":35.6078,
+    "gn:longitude":40.37837,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Khi\u1e11r al \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u0631 \u0627\u0644\u0639\u064a\u0633\u0649"
+    ],
+    "name:und_x_variant":[
+        "Khi\u1e11r al \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263756
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42b58b7bb65f60e43efabf4c5b299add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1193039535,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1193039535,
+    "wof:lastmodified":1537702493,
+    "wof:name":"Khidr al `Isa",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37837,
+    35.6078,
+    40.37837,
+    35.6078
+],
+  "geometry": {"coordinates":[40.37837,35.6078],"type":"Point"}
+}

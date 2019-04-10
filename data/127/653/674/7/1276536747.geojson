@@ -1,0 +1,74 @@
+{
+  "id": 1276536747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09141,34.31276,37.09141,34.31276",
+    "geom:latitude":34.31276,
+    "geom:longitude":37.09141,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hadath",
+    "gn:country_code":"SY",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170148,
+    "gn:latitude":34.31276,
+    "gn:longitude":37.09141,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u1e28adath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u062b"
+    ],
+    "name:und_x_variant":[
+        "Hadass",
+        "\u1e28adath"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170148
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"388be3af3a5918feb429d4d1876515f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1276536747,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276536747,
+    "wof:lastmodified":1537702111,
+    "wof:name":"Hadath",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09141,
+    34.31276,
+    37.09141,
+    34.31276
+],
+  "geometry": {"coordinates":[37.09141,34.31276],"type":"Point"}
+}

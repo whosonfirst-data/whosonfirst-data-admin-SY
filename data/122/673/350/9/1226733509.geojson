@@ -1,0 +1,73 @@
+{
+  "id": 1226733509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34032,34.89706,36.34032,34.89706",
+    "geom:latitude":34.89706,
+    "geom:longitude":36.34032,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tin as Sabil",
+    "gn:country_code":"SY",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176778,
+    "gn:latitude":34.89706,
+    "gn:longitude":36.34032,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"T\u012bn as Sab\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0646 \u0627\u0644\u0633\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "T\u012bn as Sab\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176778
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3fd33a059cf4d02ebccf9c14f6135cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1226733509,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226733509,
+    "wof:lastmodified":1537702605,
+    "wof:name":"Tin as Sabil",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34032,
+    34.89706,
+    36.34032,
+    34.89706
+],
+  "geometry": {"coordinates":[36.34032,34.89706],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125778135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87921,36.5308,37.87921,36.5308",
+    "geom:latitude":36.5308,
+    "geom:longitude":37.87921,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"SY",
+    "lbl:latitude":36.5308,
+    "lbl:longitude":37.87921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u0646\u0629 \u0643\u0628\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Madana K\u00e9b\u00eer\u00e9"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":167565,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Madanah Kab\u012br",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":529351,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167565,
+        "qs_pg:id":529351
+    },
+    "wof:country":"SY",
+    "wof:created":1497290355,
+    "wof:geomhash":"913242daee0712e114520d51033d4881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1125778135,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1125778135,
+    "wof:lastmodified":1509391398,
+    "wof:name":"Madanah Kab\u012br",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87921,
+    36.5308,
+    37.87921,
+    36.5308
+],
+  "geometry": {"coordinates":[37.87921,36.5308],"type":"Point"}
+}

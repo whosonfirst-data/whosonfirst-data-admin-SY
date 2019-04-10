@@ -1,0 +1,74 @@
+{
+  "id": 1276418653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3395,34.57022,38.3395,34.57022",
+    "geom:latitude":34.57022,
+    "geom:longitude":38.3395,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biyarat Muhammad Butman",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432944,
+    "gn:latitude":34.57022,
+    "gn:longitude":38.3395,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Biy\u0101rat Mu\u1e29ammad Bu\u0163m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0631\u0629 \u0645\u062d\u0645\u062f \u0628\u0637\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Biy\u0101rat Mu\u1e29ammad Bu\u0163m\u0101n",
+        "Bayy\u0101rat Mu\u1e29ammad Bu\u0163m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432944
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"394f2103e486ff160018541e836c519b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1276418653,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276418653,
+    "wof:lastmodified":1537702462,
+    "wof:name":"Biyarat Muhammad Butman",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3395,
+    34.57022,
+    38.3395,
+    34.57022
+],
+  "geometry": {"coordinates":[38.3395,34.57022],"type":"Point"}
+}

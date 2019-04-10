@@ -1,0 +1,73 @@
+{
+  "id": 1343467675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99447,35.70673,35.99447,35.70673",
+    "geom:latitude":35.70673,
+    "geom:longitude":35.99447,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt al `Ajuz",
+    "gn:country_code":"SY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9076606,
+    "gn:latitude":35.70673,
+    "gn:longitude":35.99447,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Bayt al \u2018Aj\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0639\u062c\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Bayt al \u2018Aj\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9076606
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7682e53521fc5e1c8c2ca54da01911f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1343467675,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343467675,
+    "wof:lastmodified":1537702590,
+    "wof:name":"Bayt al `Ajuz",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99447,
+    35.70673,
+    35.99447,
+    35.70673
+],
+  "geometry": {"coordinates":[35.99447,35.70673],"type":"Point"}
+}

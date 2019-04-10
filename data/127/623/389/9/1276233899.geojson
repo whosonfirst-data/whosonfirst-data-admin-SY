@@ -1,0 +1,77 @@
+{
+  "id": 1276233899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80005,36.69979,38.80005,36.69979",
+    "geom:latitude":36.69979,
+    "geom:longitude":38.80005,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kiri Zawr",
+    "gn:country_code":"SY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167841,
+    "gn:latitude":36.69979,
+    "gn:longitude":38.80005,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kir\u012b Zawr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a \u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Guiri Z\u00f4r Faouq\u00e2ni",
+        "Guiri Z\u00f4r",
+        "Girisor",
+        "K\u012br\u012b Zawr al Fawq\u0101n\u012b",
+        "Kir\u012b Zawr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167841
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"61999de2fd1e97ce3996c714ea2b192d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1276233899,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276233899,
+    "wof:lastmodified":1537701946,
+    "wof:name":"Kiri Zawr",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80005,
+    36.69979,
+    38.80005,
+    36.69979
+],
+  "geometry": {"coordinates":[38.80005,36.69979],"type":"Point"}
+}

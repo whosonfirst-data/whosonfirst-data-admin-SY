@@ -1,0 +1,73 @@
+{
+  "id": 1360072355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31441,35.94246,36.31441,35.94246",
+    "geom:latitude":35.94246,
+    "geom:longitude":36.31441,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Mudi'ah",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554603,
+    "gn:latitude":35.94246,
+    "gn:longitude":36.31441,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Mu\u1e11\u012b\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u064a\u0626\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u1e11\u012b\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554603
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a87e057cf2db0ac7823158fd92d9f045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1360072355,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360072355,
+    "wof:lastmodified":1537702631,
+    "wof:name":"Al Mudi'ah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31441,
+    35.94246,
+    36.31441,
+    35.94246
+],
+  "geometry": {"coordinates":[36.31441,35.94246],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1243051489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17656,34.84508,36.17656,34.84508",
+    "geom:latitude":34.84508,
+    "geom:longitude":36.17656,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Btarish",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171257,
+    "gn:latitude":34.84508,
+    "gn:longitude":36.17656,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"B\u0163\u0101r\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0163\u0101rish"
+    ],
+    "name:ara_x_variant":[
+        "Bi\u0163\u0101r\u012bsh",
+        "\u0628\u0637\u0627\u0631\u064a\u0634",
+        "\u0628\u0637\u0627\u0631\u0634",
+        "\u0628\u0644\u0627\u0637\u0629 \u0645\u063a\u064a\u0632\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bt\u00e2rich",
+        "B\u0163\u0101rish",
+        "B\u0163\u0101r\u012bsh",
+        "Ba\u0163\u0101rish",
+        "Ba\u0163\u0101r\u012bsh",
+        "Bal\u0101\u0163at Mughayzil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171257
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"afa3eb9b9c6122fd301f608c73a792a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1243051489,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243051489,
+    "wof:lastmodified":1537702181,
+    "wof:name":"Btarish",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17656,
+    34.84508,
+    36.17656,
+    34.84508
+],
+  "geometry": {"coordinates":[36.17656,34.84508],"type":"Point"}
+}

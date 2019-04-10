@@ -1,0 +1,85 @@
+{
+  "id": 1326843373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9259,35.26778,35.9259,35.26778",
+    "geom:latitude":35.26778,
+    "geom:longitude":35.9259,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Arab al Mulk",
+    "gn:country_code":"SY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173096,
+    "gn:latitude":35.26778,
+    "gn:longitude":35.9259,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"\u2018Arab al Mulk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0645\u0644\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0645\u0644\u0643 \u062c\u0631\u0643\u0633"
+    ],
+    "name:und_x_variant":[
+        "Paltos",
+        "Aarab el Moulk Babou",
+        "\u2018Arab el Melk",
+        "Aarab el Motilk",
+        "Aarab el Moulk Badou",
+        "Aarab el Moulk",
+        "\u2018Arab al Mulk",
+        "\u2018Arab al Malik",
+        "\u2018Arab al Mulk Jarkas",
+        "Arab Elmalik Jerkes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173096
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"da1623e602dec57a2bf68a07b4261150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1326843373,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1326843373,
+    "wof:lastmodified":1537702310,
+    "wof:name":"`Arab al Mulk",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9259,
+    35.26778,
+    35.9259,
+    35.26778
+],
+  "geometry": {"coordinates":[35.9259,35.26778],"type":"Point"}
+}

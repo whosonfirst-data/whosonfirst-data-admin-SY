@@ -1,0 +1,76 @@
+{
+  "id": 1193262271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45059,35.27957,37.45059,35.27957",
+    "geom:latitude":35.27957,
+    "geom:longitude":37.45059,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaduf",
+    "gn:country_code":"SY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164635,
+    "gn:latitude":35.27957,
+    "gn:longitude":37.45059,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sh\u0101d\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101d\u016bf"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u062f\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Chado\u00fbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164635
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3f8b8d5f93bb1b8bccf5ab3d650e349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1193262271,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193262271,
+    "wof:lastmodified":1537701745,
+    "wof:name":"Shaduf",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45059000000001,
+    35.27957,
+    37.45059000000001,
+    35.27957
+],
+  "geometry": {"coordinates":[37.45059000000001,35.27957],"type":"Point"}
+}

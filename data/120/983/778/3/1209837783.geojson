@@ -1,0 +1,76 @@
+{
+  "id": 1209837783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89627,32.83513,35.89627,32.83513",
+    "geom:latitude":32.83513,
+    "geom:longitude":35.89627,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khirbat ash Shabraq",
+    "gn:country_code":"SY",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10312035,
+    "gn:latitude":32.83513,
+    "gn:longitude":35.89627,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Khirbat ash Shabraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u0628\u0631\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0628\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ash Shabraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10312035
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95d0bff966606148be850a9bc0ae1149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1209837783,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1209837783,
+    "wof:lastmodified":1537702601,
+    "wof:name":"Khirbat ash Shabraq",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89627,
+    32.83513,
+    35.89627,
+    32.83513
+],
+  "geometry": {"coordinates":[35.89627,32.83513],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360275203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92265,36.67951,36.92265,36.67951",
+    "geom:latitude":36.67951,
+    "geom:longitude":36.92265,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Yiji",
+    "gn:country_code":"SY",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235561,
+    "gn:latitude":36.67951,
+    "gn:longitude":36.92265,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Al Yij\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0637\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u064a\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tall \u2018A\u0163\u012byah",
+        "Al Yij\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235561
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f19d658d80494c3524d9d715a8b1961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1360275203,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360275203,
+    "wof:lastmodified":1537702486,
+    "wof:name":"Al Yiji",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92265,
+    36.67951,
+    36.92265,
+    36.67951
+],
+  "geometry": {"coordinates":[36.92265,36.67951],"type":"Point"}
+}

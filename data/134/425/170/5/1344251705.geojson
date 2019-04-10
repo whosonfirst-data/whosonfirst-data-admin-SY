@@ -1,0 +1,81 @@
+{
+  "id": 1344251705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48296,36.86663,38.48296,36.86663",
+    "geom:latitude":36.86663,
+    "geom:longitude":38.48296,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kusik",
+    "gn:country_code":"SY",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167819,
+    "gn:latitude":36.86663,
+    "gn:longitude":38.48296,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"K\u016bsik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0633\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0633\u0643"
+    ],
+    "name:und_x_variant":[
+        "Kosik",
+        "Kawsik",
+        "K\u016bsik",
+        "Kawssik",
+        "K\u016bsk",
+        "Kusik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167819
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"533c272d44dc470715d52f011143f390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1344251705,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344251705,
+    "wof:lastmodified":1537701943,
+    "wof:name":"Kusik",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48296,
+    36.86663,
+    38.48296,
+    36.86663
+],
+  "geometry": {"coordinates":[38.48296,36.86663],"type":"Point"}
+}

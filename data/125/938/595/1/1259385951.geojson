@@ -1,0 +1,75 @@
+{
+  "id": 1259385951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97385,35.26078,35.97385,35.26078",
+    "geom:latitude":35.26078,
+    "geom:longitude":35.97385,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kur al Jaklan",
+    "gn:country_code":"SY",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167766,
+    "gn:latitude":35.26078,
+    "gn:longitude":35.97385,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"K\u016br al Jakl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631 \u0627\u0644\u062c\u0643\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kour ej Jakl\u00e2ne",
+        "Ko\u00fbr el Jakl\u00e2ne",
+        "K\u016br al Jakl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167766
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19a8f7441cb16bf7ea762068e7c3eb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1259385951,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259385951,
+    "wof:lastmodified":1537701938,
+    "wof:name":"Kur al Jaklan",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97385,
+    35.26078,
+    35.97385,
+    35.26078
+],
+  "geometry": {"coordinates":[35.97385,35.26078],"type":"Point"}
+}

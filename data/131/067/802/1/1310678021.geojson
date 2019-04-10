@@ -1,0 +1,80 @@
+{
+  "id": 1310678021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5278,36.17745,36.5278,36.17745",
+    "geom:latitude":36.17745,
+    "geom:longitude":36.5278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mir Ishaq",
+    "gn:country_code":"SY",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166875,
+    "gn:latitude":36.17745,
+    "gn:longitude":36.5278,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"M\u012br Is\u1e29aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012br Is\u1e29\u0101q"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0631 \u0627\u0633\u062d\u0642",
+        "M\u012bz \u2018Ajiq",
+        "\u0645\u064a\u0632 \u0639\u062c\u0642"
+    ],
+    "name:und_x_variant":[
+        "Mir Ishak",
+        "Mir Eshak",
+        "M\u012br Is\u1e29aq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166875
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2a8402ca2c01a863dccf722b67ea96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1310678021,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310678021,
+    "wof:lastmodified":1537701885,
+    "wof:name":"Mir Ishaq",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5278,
+    36.17745,
+    36.5278,
+    36.17745
+],
+  "geometry": {"coordinates":[36.5278,36.17745],"type":"Point"}
+}

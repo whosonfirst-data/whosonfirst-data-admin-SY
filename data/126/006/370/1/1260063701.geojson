@@ -1,0 +1,73 @@
+{
+  "id": 1260063701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89008,34.95066,35.89008,34.95066",
+    "geom:latitude":34.95066,
+    "geom:longitude":35.89008,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Az Zayir",
+    "gn:country_code":"SY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8269919,
+    "gn:latitude":34.95066,
+    "gn:longitude":35.89008,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Az Z\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az Z\u0101yir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u0627\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8269919
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6847720ffa85080e34d848018abd4380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1260063701,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260063701,
+    "wof:lastmodified":1537702505,
+    "wof:name":"Az Zayir",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89008,
+    34.95066,
+    35.89008,
+    34.95066
+],
+  "geometry": {"coordinates":[35.89008,34.95066],"type":"Point"}
+}

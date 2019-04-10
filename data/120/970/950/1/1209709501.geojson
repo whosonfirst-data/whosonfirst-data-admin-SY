@@ -1,0 +1,81 @@
+{
+  "id": 1209709501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08632,35.315,37.08632,35.315",
+    "geom:latitude":35.315,
+    "geom:longitude":37.08632,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hamra'",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173830,
+    "gn:latitude":35.315,
+    "gn:longitude":37.08632,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Qichlet el Hamra",
+        "Al \u1e28amrah",
+        "Hamra",
+        "Qaraqol",
+        "El Hamra",
+        "Al \u1e28amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173830
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b866bd981d210c21a9601e96a65fbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1209709501,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209709501,
+    "wof:lastmodified":1537702368,
+    "wof:name":"Al Hamra'",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08632,
+    35.315,
+    37.08632,
+    35.315
+],
+  "geometry": {"coordinates":[37.08632,35.315],"type":"Point"}
+}

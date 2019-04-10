@@ -1,0 +1,74 @@
+{
+  "id": 1276769171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,35.96667,38.16667,35.96667",
+    "geom:latitude":35.96667,
+    "geom:longitude":38.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shanhasah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164504,
+    "gn:latitude":35.96667,
+    "gn:longitude":38.16667,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Shanha\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasrah",
+        "Channhassa",
+        "Kasra",
+        "K\u00e9sra",
+        "Shanha\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164504
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0a936ceaeb2aa1a70a677fcd6f55fb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1276769171,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276769171,
+    "wof:lastmodified":1537701737,
+    "wof:name":"Shanhasah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    35.96667,
+    38.16667,
+    35.96667
+],
+  "geometry": {"coordinates":[38.16667,35.96667],"type":"Point"}
+}

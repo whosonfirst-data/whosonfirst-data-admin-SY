@@ -1,0 +1,78 @@
+{
+  "id": 1260272759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78739,36.74206,36.78739,36.74206",
+    "geom:latitude":36.74206,
+    "geom:longitude":36.78739,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khidr",
+    "gn:country_code":"SY",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235594,
+    "gn:latitude":36.74206,
+    "gn:longitude":36.78739,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Khi\u1e11r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "D\u016bbayrah",
+        "Khi\u1e11r",
+        "Khu\u1e11r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235594
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"142fc2597b791c2010f4a2aa8f1c23ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260272759,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260272759,
+    "wof:lastmodified":1537702488,
+    "wof:name":"Khidr",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78739,
+    36.74206,
+    36.78739,
+    36.74206
+],
+  "geometry": {"coordinates":[36.78739,36.74206],"type":"Point"}
+}

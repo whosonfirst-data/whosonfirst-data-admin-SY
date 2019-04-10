@@ -1,0 +1,73 @@
+{
+  "id": 1343675755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92475,36.77977,41.92475,36.77977",
+    "geom:latitude":36.77977,
+    "geom:longitude":41.92475,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"An Nasiriyah ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386123,
+    "gn:latitude":36.77977,
+    "gn:longitude":41.92475,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"An N\u0101\u015fir\u012byah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "An N\u0101\u015fir\u012byah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386123
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5f3cb65f00770937258ae003525147cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1343675755,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343675755,
+    "wof:lastmodified":1537702430,
+    "wof:name":"An Nasiriyah ash Sharqiyah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92475,
+    36.77977,
+    41.92475,
+    36.77977
+],
+  "geometry": {"coordinates":[41.92475,36.77977],"type":"Point"}
+}

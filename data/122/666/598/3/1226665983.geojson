@@ -1,0 +1,73 @@
+{
+  "id": 1226665983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5403,33.53511,36.5403,33.53511",
+    "geom:latitude":33.53511,
+    "geom:longitude":36.5403,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Baydar",
+    "gn:country_code":"SY",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346597,
+    "gn:latitude":33.53511,
+    "gn:longitude":36.5403,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Baydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0628\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Baydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346597
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cef6ea0e35cdea22304bd72c18b6a859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1226665983,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226665983,
+    "wof:lastmodified":1537702549,
+    "wof:name":"Ard al Baydar",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5403,
+    33.53511,
+    36.5403,
+    33.53511
+],
+  "geometry": {"coordinates":[36.5403,33.53511],"type":"Point"}
+}

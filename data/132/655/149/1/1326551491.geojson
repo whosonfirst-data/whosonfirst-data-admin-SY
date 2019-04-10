@@ -1,0 +1,80 @@
+{
+  "id": 1326551491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00401,35.47279,40.00401,35.47279",
+    "geom:latitude":35.47279,
+    "geom:longitude":40.00401,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khurayta",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167907,
+    "gn:latitude":35.47279,
+    "gn:longitude":40.00401,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Khurayt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u062a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ghay\u0163ah",
+        "Khra\u00efta",
+        "Khar\u012b\u0163ah",
+        "Khuray\u0163ah",
+        "Khurayt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167907
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b09f98c5a612476e030e399df6521cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1326551491,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1326551491,
+    "wof:lastmodified":1537701954,
+    "wof:name":"Khurayta",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00401,
+    35.47279,
+    40.00401,
+    35.47279
+],
+  "geometry": {"coordinates":[40.00401,35.47279],"type":"Point"}
+}

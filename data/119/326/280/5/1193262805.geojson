@@ -1,0 +1,74 @@
+{
+  "id": 1193262805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15248,35.90821,37.15248,35.90821",
+    "geom:latitude":35.90821,
+    "geom:longitude":37.15248,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hawbar",
+    "gn:country_code":"SY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169759,
+    "gn:latitude":35.90821,
+    "gn:longitude":37.15248,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hawbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "H\u00f4bar",
+        "Hawbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169759
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8048acedd8dbb17ce7d7ddafd7fe1b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1193262805,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193262805,
+    "wof:lastmodified":1537702086,
+    "wof:name":"Hawbar",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15248,
+    35.90821,
+    37.15248,
+    35.90821
+],
+  "geometry": {"coordinates":[37.15248,35.90821],"type":"Point"}
+}

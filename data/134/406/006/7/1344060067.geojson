@@ -1,0 +1,73 @@
+{
+  "id": 1344060067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93104,35.48346,35.93104,35.48346",
+    "geom:latitude":35.48346,
+    "geom:longitude":35.93104,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Markhu",
+    "gn:country_code":"SY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698766,
+    "gn:latitude":35.48346,
+    "gn:longitude":35.93104,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Markh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062e\u0648"
+    ],
+    "name:und_x_variant":[
+        "Markh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698766
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0a2936c13704410ee77cc1fbb4ff31fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1344060067,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344060067,
+    "wof:lastmodified":1537702587,
+    "wof:name":"Markhu",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93104,
+    35.48346,
+    35.93104,
+    35.48346
+],
+  "geometry": {"coordinates":[35.93104,35.48346],"type":"Point"}
+}

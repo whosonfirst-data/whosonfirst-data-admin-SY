@@ -1,0 +1,78 @@
+{
+  "id": 1360188731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76769,36.89374,40.76769,36.89374",
+    "geom:latitude":36.89374,
+    "geom:longitude":40.76769,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat al Bir",
+    "gn:country_code":"SY",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168127,
+    "gn:latitude":36.89374,
+    "gn:longitude":40.76769,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat al B\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0628\u064a\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat al Bi\u2019r"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el B\u00eer",
+        "Khirbat al B\u012br",
+        "Khirbat al Bi\u2019r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168127
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8a6a45f65333970bf1de4d21fd2382c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1360188731,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360188731,
+    "wof:lastmodified":1537701972,
+    "wof:name":"Khirbat al Bir",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76769,
+    36.89374,
+    40.76769,
+    36.89374
+],
+  "geometry": {"coordinates":[40.76769,36.89374],"type":"Point"}
+}

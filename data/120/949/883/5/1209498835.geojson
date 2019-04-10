@@ -1,0 +1,70 @@
+{
+  "id": 1209498835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31801,35.27701,36.31801,35.27701",
+    "geom:latitude":35.27701,
+    "geom:longitude":36.31801,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mashta Bayt Hamrah",
+    "gn:country_code":"SY",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167094,
+    "gn:latitude":35.27701,
+    "gn:longitude":36.31801,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Masht\u00e1 Bayt \u1e28amrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u062a\u0649 \u0628\u064a\u062a \u062d\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mechta Be\u00eft Hamra",
+        "Machta Be\u00eft Hamra",
+        "Masht\u00e1 Bayt \u1e28amr\u0101\u2019",
+        "Masht\u00e1 Bayt \u1e28amrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167094
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"00d1834a46037d1bd8554cbef71c7aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209498835
+        }
+    ],
+    "wof:id":1209498835,
+    "wof:lastmodified":1537701899,
+    "wof:name":"Mashta Bayt Hamrah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31801,
+    35.27701,
+    36.31801,
+    35.27701
+],
+  "geometry": {"coordinates":[36.31801,35.27701],"type":"Point"}
+}

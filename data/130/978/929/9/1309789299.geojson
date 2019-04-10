@@ -1,0 +1,73 @@
+{
+  "id": 1309789299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15324,34.84937,36.15324,34.84937",
+    "geom:latitude":34.84937,
+    "geom:longitude":36.15324,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Ma'ab",
+    "gn:country_code":"SY",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444684,
+    "gn:latitude":34.84937,
+    "gn:longitude":36.15324,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Ma\u2019\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2019\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444684
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f398697bbe9e1615caa722b217fb34ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1309789299,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309789299,
+    "wof:lastmodified":1537702624,
+    "wof:name":"Al Ma'ab",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15324,
+    34.84937,
+    36.15324,
+    34.84937
+],
+  "geometry": {"coordinates":[36.15324,34.84937],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209200243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87761,33.36569,35.87761,33.36569",
+    "geom:latitude":33.36569,
+    "geom:longitude":35.87761,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Arnah",
+    "gn:country_code":"SY",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172983,
+    "gn:latitude":33.36569,
+    "gn:longitude":35.87761,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u2018Arnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0631\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Aarn\u00e9",
+        "\u2018Arnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172983
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ffb0825a6fb7de2996acc60e5f2fb27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209200243
+        }
+    ],
+    "wof:id":1209200243,
+    "wof:lastmodified":1537702304,
+    "wof:name":"`Arnah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87761,
+    33.36569,
+    35.87761,
+    33.36569
+],
+  "geometry": {"coordinates":[35.87761,33.36569],"type":"Point"}
+}

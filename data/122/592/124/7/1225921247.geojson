@@ -1,0 +1,73 @@
+{
+  "id": 1225921247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60699,35.95736,36.60699,35.95736",
+    "geom:latitude":35.95736,
+    "geom:longitude":36.60699,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Badwar",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8268673,
+    "gn:latitude":35.95736,
+    "gn:longitude":36.60699,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Badw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Badw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8268673
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3be57d0c7a96ac25a897d54f68fc530f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1225921247,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1225921247,
+    "wof:lastmodified":1537702504,
+    "wof:name":"Badwar",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60699,
+    35.95735999999999,
+    36.60699,
+    35.95735999999999
+],
+  "geometry": {"coordinates":[36.60699,35.95735999999999],"type":"Point"}
+}

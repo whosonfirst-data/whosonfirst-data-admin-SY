@@ -1,0 +1,78 @@
+{
+  "id": 1343540213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97408,34.64122,35.97408,34.64122",
+    "geom:latitude":34.64122,
+    "geom:longitude":35.97408,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shaykh Jabir",
+    "gn:country_code":"SY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172678,
+    "gn:latitude":34.64122,
+    "gn:longitude":35.97408,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Shaykh J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jebeaa",
+        "Shaykh J\u0101bir",
+        "Che\u00efkh Djaber",
+        "Sheikh J\u0101bir",
+        "Che\u00efkh J\u00e2ber",
+        "Sheikh Jabr",
+        "Sheik Jabber",
+        "Ash Shaykh J\u0101bir",
+        "\u0634\u064a\u062e \u062c\u0627\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172678
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"720b5a48ce2b9309e0000abfdda556de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343540213,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343540213,
+    "wof:lastmodified":1537702287,
+    "wof:name":"Shaykh Jabir",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97408,
+    34.64122,
+    35.97408,
+    34.64122
+],
+  "geometry": {"coordinates":[35.97408,34.64122],"type":"Point"}
+}

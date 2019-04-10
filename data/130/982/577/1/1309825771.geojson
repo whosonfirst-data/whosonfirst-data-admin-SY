@@ -1,0 +1,77 @@
+{
+  "id": 1309825771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24284,33.43335,36.24284,33.43335",
+    "geom:latitude":33.43335,
+    "geom:longitude":36.24284,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ashrafiyat Sahnaya",
+    "gn:country_code":"SY",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172840,
+    "gn:latitude":33.43335,
+    "gn:longitude":36.24284,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ashraf\u012byat \u015ea\u1e29n\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0634\u0631\u0641\u064a\u0629 \u0635\u062d\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Achrafiyet Sahn\u00e2ya",
+        "Achrafiyet Sanaya",
+        "Achrafi\u00e9",
+        "Ashraf\u012byat \u015ea\u1e29n\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172840,
+        "wk:page":"Ashrafiyat_Sahnaya"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b35b68e90b67774355c21753a198b161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779109,
+            "locality_id":1309825771,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309825771,
+    "wof:lastmodified":1537702294,
+    "wof:name":"Ashrafiyat Sahnaya",
+    "wof:parent_id":1108779109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24284,
+    33.43335,
+    36.24284,
+    33.43335
+],
+  "geometry": {"coordinates":[36.24284,33.43335],"type":"Point"}
+}

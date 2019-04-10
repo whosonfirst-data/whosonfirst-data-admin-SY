@@ -1,0 +1,73 @@
+{
+  "id": 1360264025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2199,34.95239,36.2199,34.95239",
+    "geom:latitude":34.95239,
+    "geom:longitude":36.2199,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bnimrah",
+    "gn:country_code":"SY",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444419,
+    "gn:latitude":34.95239,
+    "gn:longitude":36.2199,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bnimrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Binimrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444419
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e500a34036c4ef2f22aca6ba9fd0fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1360264025,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1360264025,
+    "wof:lastmodified":1537702623,
+    "wof:name":"Bnimrah",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2199,
+    34.95239,
+    36.2199,
+    34.95239
+],
+  "geometry": {"coordinates":[36.2199,34.95239],"type":"Point"}
+}

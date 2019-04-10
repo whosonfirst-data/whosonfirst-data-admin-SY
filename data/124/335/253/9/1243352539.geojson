@@ -1,0 +1,74 @@
+{
+  "id": 1243352539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46098,35.38688,36.46098,35.38688",
+    "geom:latitude":35.38688,
+    "geom:longitude":36.46098,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buraydij",
+    "gn:country_code":"SY",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171186,
+    "gn:latitude":35.38688,
+    "gn:longitude":36.46098,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Burayd\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u062f\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Bra\u00efdij",
+        "Burayd\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171186
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2820fd1eaf4de2bdac07c54620fdd055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1243352539,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243352539,
+    "wof:lastmodified":1537702176,
+    "wof:name":"Buraydij",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46098,
+    35.38688,
+    36.46098,
+    35.38688
+],
+  "geometry": {"coordinates":[36.46098,35.38688],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327418409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11667,36.23333,38.11667,36.23333",
+    "geom:latitude":36.23333,
+    "geom:longitude":38.11667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Hasrah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":173807,
+    "gn:latitude":36.23333,
+    "gn:longitude":38.11667,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Al Hasrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28a\u015frah",
+        "El Hara",
+        "El Hasra",
+        "Al \u1e28a\u015frah",
+        "Al Hasrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173807
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3399bf1e12d6c1b64e488de46ade0f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1327418409,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327418409,
+    "wof:lastmodified":1537702366,
+    "wof:name":"Al Hasrah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11667,
+    36.23333,
+    38.11667,
+    36.23333
+],
+  "geometry": {"coordinates":[38.11667,36.23333],"type":"Point"}
+}

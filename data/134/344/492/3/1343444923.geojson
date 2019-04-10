@@ -1,0 +1,76 @@
+{
+  "id": 1343444923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50236,35.27187,36.50236,35.27187",
+    "geom:latitude":35.27187,
+    "geom:longitude":36.50236,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Turaymisah",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172319,
+    "gn:latitude":35.27187,
+    "gn:longitude":36.50236,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"At Turaymisah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0631\u064a\u0645\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ett Tra\u00efms\u00e9",
+        "Ett Tra\u00efmiss\u00e9",
+        "At Turaym\u012bsah",
+        "At Turaymisah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172319
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"de3b4b2be6b22b1539ed20c0dbe047b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1343444923,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343444923,
+    "wof:lastmodified":1537702265,
+    "wof:name":"At Turaymisah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50236,
+    35.27187,
+    36.50236,
+    35.27187
+],
+  "geometry": {"coordinates":[36.50236,35.27187],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243557785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95041,35.66967,35.95041,35.66967",
+    "geom:latitude":35.66967,
+    "geom:longitude":35.95041,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"At Tariqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166092,
+    "gn:latitude":35.66967,
+    "gn:longitude":35.95041,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"A\u0163 \u0162\u0101riq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u062c\u0627\u0644\u064a\u0629 \u0639\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0627\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Karajali",
+        "Qara J\u00e2liet Aali",
+        "Qarah J\u0101liyat \u2018Al\u012b",
+        "A\u0163 \u0162\u0101riq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166092
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dbe0d9fdb9bd969d7b99c5996dad7452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1243557785,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243557785,
+    "wof:lastmodified":1537701834,
+    "wof:name":"At Tariqiyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95041,
+    35.66967,
+    35.95041,
+    35.66967
+],
+  "geometry": {"coordinates":[35.95041,35.66967],"type":"Point"}
+}

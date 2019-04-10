@@ -1,0 +1,74 @@
+{
+  "id": 1276328321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41485,35.12861,37.41485,35.12861",
+    "geom:latitude":35.12861,
+    "geom:longitude":37.41485,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mukaymin ash Shamali",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166723,
+    "gn:latitude":35.12861,
+    "gn:longitude":37.41485,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mukaymin ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u064a\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mke\u00efmenn ech Chem\u00e2li",
+        "Mukaymin ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166723
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7ee6ea1a9667945a550902d87243219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276328321,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276328321,
+    "wof:lastmodified":1537701876,
+    "wof:name":"Mukaymin ash Shamali",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41485,
+    35.12860999999999,
+    37.41485,
+    35.12860999999999
+],
+  "geometry": {"coordinates":[37.41485,35.12860999999999],"type":"Point"}
+}

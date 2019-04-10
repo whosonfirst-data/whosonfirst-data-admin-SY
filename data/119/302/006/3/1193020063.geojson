@@ -1,0 +1,78 @@
+{
+  "id": 1193020063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.72632,36.76206,40.72632,36.76206",
+    "geom:latitude":36.76206,
+    "geom:longitude":40.72632,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat al Khus",
+    "gn:country_code":"SY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168106,
+    "gn:latitude":36.76206,
+    "gn:longitude":40.72632,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat al Kh\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062e\u0648\u0633"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat al Kh\u016b\u015f"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Kho\u00fbs",
+        "Khirbat al Kh\u016bs",
+        "Khirbat al Kh\u016b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168106
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c2d28488805de0399a8ec50043e7e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1193020063,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1193020063,
+    "wof:lastmodified":1537701970,
+    "wof:name":"Khirbat al Khus",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.72632,
+    36.76206,
+    40.72632,
+    36.76206
+],
+  "geometry": {"coordinates":[40.72632,36.76206],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1193114325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52859,36.01863,36.52859,36.01863",
+    "geom:latitude":36.01863,
+    "geom:longitude":36.52859,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hafsarjah",
+    "gn:country_code":"SY",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170113,
+    "gn:latitude":36.01863,
+    "gn:longitude":36.52859,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1e28afsarjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0633\u0631\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafserja",
+        "Hafserja",
+        "Kefseria",
+        "\u1e28afsirjih",
+        "\u1e28afirjah",
+        "Hafserj\u00e9",
+        "\u1e28afsarjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170113
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71ac003ba343a23a63b9e0d8ee7ff0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1193114325,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193114325,
+    "wof:lastmodified":1537702109,
+    "wof:name":"Hafsarjah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52859,
+    36.01863,
+    36.52859,
+    36.01863
+],
+  "geometry": {"coordinates":[36.52859,36.01863],"type":"Point"}
+}

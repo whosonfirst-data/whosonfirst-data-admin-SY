@@ -1,0 +1,69 @@
+{
+  "id": 1209528727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96038,35.40728,35.96038,35.40728",
+    "geom:latitude":35.40728,
+    "geom:longitude":35.96038,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bikhdarmu at Tahta",
+    "gn:country_code":"SY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171460,
+    "gn:latitude":35.40728,
+    "gn:longitude":35.96038,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bikh\u1e11arm\u016b at Ta\u1e29t\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062e\u0636\u0631\u0645\u0648 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bekhdarmo et Tahta",
+        "Bekhdarmo ett Tahta",
+        "Bikh\u1e11arm\u016b at Ta\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171460
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b1b136c1e7a896c7f7d8fbc2a77fef7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209528727
+        }
+    ],
+    "wof:id":1209528727,
+    "wof:lastmodified":1537702200,
+    "wof:name":"Bikhdarmu at Tahta",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96038,
+    35.40728,
+    35.96038,
+    35.40728
+],
+  "geometry": {"coordinates":[35.96038,35.40728],"type":"Point"}
+}

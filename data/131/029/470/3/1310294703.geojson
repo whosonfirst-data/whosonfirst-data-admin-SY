@@ -1,0 +1,80 @@
+{
+  "id": 1310294703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73855,36.62978,37.73855,36.62978",
+    "geom:latitude":36.62978,
+    "geom:longitude":37.73855,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mirzah ash Shahid",
+    "gn:country_code":"SY",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166870,
+    "gn:latitude":36.62978,
+    "gn:longitude":37.73855,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"M\u012brzah ash Shah\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u064a\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0631\u0632\u0629 \u0627\u0644\u0634\u0647\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mirza Chah\u00eed",
+        "M\u012brz\u0101 Shah\u012bd",
+        "Ash Shah\u012bd",
+        "M\u012brzah ash Shah\u012bd",
+        "M\u012brzat ash Shah\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166870
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4cfee968ac18f72fc296929d752eb147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1310294703,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310294703,
+    "wof:lastmodified":1537701885,
+    "wof:name":"Mirzah ash Shahid",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73855,
+    36.62978,
+    37.73855,
+    36.62978
+],
+  "geometry": {"coordinates":[37.73855,36.62978],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293119139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27293,35.69185,36.27293,35.69185",
+    "geom:latitude":35.69185,
+    "geom:longitude":36.27293,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Furah",
+    "gn:country_code":"SY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556295,
+    "gn:latitude":35.69185,
+    "gn:longitude":36.27293,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"F\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "F\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556295
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"178e1c4ac2830be52067277d61958e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1293119139,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293119139,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Furah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27293,
+    35.69185,
+    36.27293,
+    35.69185
+],
+  "geometry": {"coordinates":[36.27293,35.69185],"type":"Point"}
+}

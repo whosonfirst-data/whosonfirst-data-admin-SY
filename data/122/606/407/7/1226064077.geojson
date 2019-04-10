@@ -1,0 +1,73 @@
+{
+  "id": 1226064077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41068,36.55812,37.41068,36.55812",
+    "geom:latitude":36.55812,
+    "geom:longitude":37.41068,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Ka`ibah",
+    "gn:country_code":"SY",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152469,
+    "gn:latitude":36.55812,
+    "gn:longitude":37.41068,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Khirbat Ka\u2018\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0643\u0639\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ka\u2018\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152469
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"47fafc6d4ccd229a3aa4ad969afbc950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1226064077,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226064077,
+    "wof:lastmodified":1537702596,
+    "wof:name":"Khirbat Ka`ibah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41068,
+    36.55812,
+    37.41068,
+    36.55812
+],
+  "geometry": {"coordinates":[37.41068,36.55812],"type":"Point"}
+}

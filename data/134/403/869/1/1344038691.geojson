@@ -1,0 +1,73 @@
+{
+  "id": 1344038691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81257,34.86303,36.81257,34.86303",
+    "geom:latitude":34.86303,
+    "geom:longitude":36.81257,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Si`in al Aswad",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176132,
+    "gn:latitude":34.86303,
+    "gn:longitude":36.81257,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Si\u2018in al Aswad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0639\u0646 \u0627\u0644\u0627\u0633\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Si\u2018in al Aswad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176132
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af9a88d180d0c71a0ac6bc12a155b5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1344038691,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1344038691,
+    "wof:lastmodified":1537702605,
+    "wof:name":"Si`in al Aswad",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81257,
+    34.86303,
+    36.81257,
+    34.86303
+],
+  "geometry": {"coordinates":[36.81257,34.86303],"type":"Point"}
+}

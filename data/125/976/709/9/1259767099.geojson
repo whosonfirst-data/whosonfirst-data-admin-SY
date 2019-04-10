@@ -1,0 +1,74 @@
+{
+  "id": 1259767099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35148,34.91859,36.35148,34.91859",
+    "geom:latitude":34.91859,
+    "geom:longitude":36.35148,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Harmal",
+    "gn:country_code":"SY",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169857,
+    "gn:latitude":34.91859,
+    "gn:longitude":36.35148,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u1e28armal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Hermel",
+        "\u1e28armal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169857
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"933de400a0d3064bd8e183a4aabd1369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1259767099,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259767099,
+    "wof:lastmodified":1537702092,
+    "wof:name":"Harmal",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35148,
+    34.91859,
+    36.35148,
+    34.91859
+],
+  "geometry": {"coordinates":[36.35148,34.91859],"type":"Point"}
+}

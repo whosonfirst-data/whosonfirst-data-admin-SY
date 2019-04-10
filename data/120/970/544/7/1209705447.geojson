@@ -1,0 +1,73 @@
+{
+  "id": 1209705447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14088,36.76439,38.14088,36.76439",
+    "geom:latitude":36.76439,
+    "geom:longitude":38.14088,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sayf `Ali Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347309,
+    "gn:latitude":36.76439,
+    "gn:longitude":38.14088,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Sayf \u2018Al\u012b Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0641 \u0639\u0644\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sayf \u2018Al\u012b Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347309
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0ae423e2e1f8a1635d2e4f0a2e14ad67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1209705447,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209705447,
+    "wof:lastmodified":1537702602,
+    "wof:name":"Sayf `Ali Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14088,
+    36.76439,
+    38.14088,
+    36.76439
+],
+  "geometry": {"coordinates":[38.14088,36.76439],"type":"Point"}
+}

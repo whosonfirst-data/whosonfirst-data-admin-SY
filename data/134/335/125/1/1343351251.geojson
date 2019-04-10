@@ -1,0 +1,76 @@
+{
+  "id": 1343351251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.90043,36.41,37.90043,36.41",
+    "geom:latitude":36.41,
+    "geom:longitude":37.90043,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharufiyah Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168249,
+    "gn:latitude":36.41,
+    "gn:longitude":37.90043,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kh\u0101r\u016bf\u012byah Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0631\u0648\u0641\u064a\u0629 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kh\u00e2ro\u00fbf\u00eey\u00e9 K\u00e9b\u00eer\u00e9",
+        "Kheurbet el Kharouf",
+        "Kh\u0101r\u016bf\u012byah al Kab\u012brah",
+        "Kh\u0101r\u016bf\u012byah Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168249
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"80657cb8c7e7cbe0781db13d36c727ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343351251,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343351251,
+    "wof:lastmodified":1537701978,
+    "wof:name":"Kharufiyah Kabir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.90043,
+    36.41,
+    37.90043,
+    36.41
+],
+  "geometry": {"coordinates":[37.90043,36.41],"type":"Point"}
+}

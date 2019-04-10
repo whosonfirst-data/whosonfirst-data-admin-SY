@@ -1,0 +1,75 @@
+{
+  "id": 1309824321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0579,35.19771,37.0579,35.19771",
+    "geom:latitude":35.19771,
+    "geom:longitude":37.0579,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nawa",
+    "gn:country_code":"SY",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166363,
+    "gn:latitude":35.19771,
+    "gn:longitude":37.0579,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Naw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627"
+    ],
+    "name:und_x_variant":[
+        "Naoua",
+        "Naw\u00e1",
+        "Naw\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166363
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bff9d1fb7581572ed92f81426325eea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1309824321,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309824321,
+    "wof:lastmodified":1537701855,
+    "wof:name":"Nawa",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0579,
+    35.19771,
+    37.0579,
+    35.19771
+],
+  "geometry": {"coordinates":[37.0579,35.19771],"type":"Point"}
+}

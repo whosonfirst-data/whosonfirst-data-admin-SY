@@ -1,0 +1,75 @@
+{
+  "id": 1276328365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31883,35.26531,37.31883,35.26531",
+    "geom:latitude":35.26531,
+    "geom:longitude":37.31883,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dahash",
+    "gn:country_code":"SY",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165379,
+    "gn:latitude":35.26531,
+    "gn:longitude":37.31883,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Da\u1e29ash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u062d\u0634"
+    ],
+    "name:und_x_variant":[
+        "Rasm Dah\u00e2ch",
+        "Rasm Dah\u0101sh",
+        "Da\u1e29ash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165379
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e957292f04e004b02bf61cbac1a94ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276328365,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276328365,
+    "wof:lastmodified":1537701782,
+    "wof:name":"Dahash",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31883,
+    35.26531,
+    37.31883,
+    35.26531
+],
+  "geometry": {"coordinates":[37.31883,35.26531],"type":"Point"}
+}

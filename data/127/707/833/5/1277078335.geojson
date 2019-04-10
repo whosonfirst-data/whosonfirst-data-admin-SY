@@ -1,0 +1,76 @@
+{
+  "id": 1277078335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.32701,37.03358,41.32701,37.03358",
+    "geom:latitude":37.03358,
+    "geom:longitude":41.32701,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shuti",
+    "gn:country_code":"SY",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164180,
+    "gn:latitude":37.03358,
+    "gn:longitude":41.32701,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sh\u016bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u062a\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Sh\u016bt\u012b"
+    ],
+    "name:und_x_variant":[
+        "Cho\u00fbti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164180
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"99b1f440b4ecf5a289265c4203d2e579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1277078335,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1277078335,
+    "wof:lastmodified":1537701720,
+    "wof:name":"Shuti",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.32701,
+    37.03358,
+    41.32701,
+    37.03358
+],
+  "geometry": {"coordinates":[41.32701,37.03358],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209504965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66205,36.50576,36.66205,36.50576",
+    "geom:latitude":36.50576,
+    "geom:longitude":36.66205,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Daliyanli",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273812,
+    "gn:latitude":36.50576,
+    "gn:longitude":36.66205,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"D\u0101liy\u0101nl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101liy\u0101nl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0644\u064a\u0627\u0646\u0644\u064a",
+        "\u0627\u0644\u062f\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u0101liyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273812
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"724207631fbec3cdafc740165bc9bfa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209504965
+        }
+    ],
+    "wof:id":1209504965,
+    "wof:lastmodified":1537702510,
+    "wof:name":"Daliyanli",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66205,
+    36.50576,
+    36.66205,
+    36.50576
+],
+  "geometry": {"coordinates":[36.66205,36.50576],"type":"Point"}
+}

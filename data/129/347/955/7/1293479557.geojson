@@ -1,0 +1,75 @@
+{
+  "id": 1293479557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46987,35.85211,37.46987,35.85211",
+    "geom:latitude":35.85211,
+    "geom:longitude":37.46987,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hawayir",
+    "gn:country_code":"SY",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169427,
+    "gn:latitude":35.85211,
+    "gn:longitude":37.46987,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28aw\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Houa\u00efr",
+        "\u1e28uwayr",
+        "\u1e28aw\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169427
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d1c763b559cfee0027d8313c335b6341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293479557,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293479557,
+    "wof:lastmodified":1537702065,
+    "wof:name":"Hawayir",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46987,
+    35.85211,
+    37.46987,
+    35.85211
+],
+  "geometry": {"coordinates":[37.46987,35.85211],"type":"Point"}
+}

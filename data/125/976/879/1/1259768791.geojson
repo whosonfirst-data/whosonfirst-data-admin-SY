@@ -1,0 +1,73 @@
+{
+  "id": 1259768791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36818,33.4965,36.36818,33.4965",
+    "geom:latitude":33.4965,
+    "geom:longitude":36.36818,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Birah",
+    "gn:country_code":"SY",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411864,
+    "gn:latitude":33.4965,
+    "gn:longitude":36.36818,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ar\u1e11 al B\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al B\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411864
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ea5c79ec434e933088e2fa18cf52ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1259768791,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259768791,
+    "wof:lastmodified":1537702559,
+    "wof:name":"Ard al Birah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36818,
+    33.4965,
+    36.36818,
+    33.4965
+],
+  "geometry": {"coordinates":[36.36818,33.4965],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226739523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65943,36.72288,36.65943,36.72288",
+    "geom:latitude":36.72288,
+    "geom:longitude":36.65943,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Farfarik Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235753,
+    "gn:latitude":36.72288,
+    "gn:longitude":36.65943,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Farfarik Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0645\u062d\u0645\u062f\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0631\u0641\u0631\u0643 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Mu\u1e29ammadl\u012b",
+        "Farfarik Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235753
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7d39f51d16a391e456b24527051511c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226739523,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226739523,
+    "wof:lastmodified":1537702488,
+    "wof:name":"Farfarik Fawqani",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65943,
+    36.72288,
+    36.65943,
+    36.72288
+],
+  "geometry": {"coordinates":[36.65943,36.72288],"type":"Point"}
+}

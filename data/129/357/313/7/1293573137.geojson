@@ -1,0 +1,78 @@
+{
+  "id": 1293573137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97542,35.12902,36.97542,35.12902",
+    "geom:latitude":35.12902,
+    "geom:longitude":36.97542,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ar Ruba",
+    "gn:country_code":"SY",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172925,
+    "gn:latitude":35.12902,
+    "gn:longitude":36.97542,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ar Rub\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Er Roubba",
+        "Ar Rubbah",
+        "Ar Rub\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172925
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9bdfd22c8d76d455974abad33ec879e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1293573137,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293573137,
+    "wof:lastmodified":1537702300,
+    "wof:name":"Ar Ruba",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97542,
+    35.12902,
+    36.97542,
+    35.12902
+],
+  "geometry": {"coordinates":[36.97542,35.12902],"type":"Point"}
+}

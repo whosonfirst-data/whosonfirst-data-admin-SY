@@ -1,0 +1,79 @@
+{
+  "id": 1193127079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98012,36.06771,36.98012,36.06771",
+    "geom:latitude":36.06771,
+    "geom:longitude":36.98012,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Az Zarbah",
+    "gn:country_code":"SY",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172045,
+    "gn:latitude":36.06771,
+    "gn:longitude":36.98012,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Az Zarbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ez Zerb\u00e9",
+        "Zerbe",
+        "Zarbah",
+        "Az Zarbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172045
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fcdf0def133357c5a2926499f1b7c8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1193127079,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193127079,
+    "wof:lastmodified":1537702243,
+    "wof:name":"Az Zarbah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98012,
+    36.06771,
+    36.98012,
+    36.06771
+],
+  "geometry": {"coordinates":[36.98012,36.06771],"type":"Point"}
+}

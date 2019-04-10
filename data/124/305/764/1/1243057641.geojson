@@ -1,0 +1,76 @@
+{
+  "id": 1243057641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29385,36.7279,38.29385,36.7279",
+    "geom:latitude":36.7279,
+    "geom:longitude":38.29385,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yarmaz",
+    "gn:country_code":"SY",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162609,
+    "gn:latitude":36.7279,
+    "gn:longitude":38.29385,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Yarm\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Y\u0101r\u0101m\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0631\u0645\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Yarm\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162609
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"38dc3048c496b57f71c000abff90f28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243057641,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243057641,
+    "wof:lastmodified":1537701602,
+    "wof:name":"Yarmaz",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29385,
+    36.7279,
+    38.29385,
+    36.7279
+],
+  "geometry": {"coordinates":[38.29385,36.7279],"type":"Point"}
+}

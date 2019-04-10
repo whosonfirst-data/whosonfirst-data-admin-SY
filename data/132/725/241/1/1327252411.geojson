@@ -1,0 +1,75 @@
+{
+  "id": 1327252411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11071,36.60792,37.11071,36.60792",
+    "geom:latitude":36.60792,
+    "geom:longitude":37.11071,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niyarah",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166335,
+    "gn:latitude":36.60792,
+    "gn:longitude":37.11071,
+    "gn:modification_date":"2016-12-12",
+    "gn:name":"Niy\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ni\u00e2ra",
+        "Niy\u0101rah",
+        "Neyara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166335
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b097265ca67396d2932f6e483fa5c9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1327252411,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327252411,
+    "wof:lastmodified":1537701854,
+    "wof:name":"Niyarah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11071,
+    36.60792,
+    37.11071,
+    36.60792
+],
+  "geometry": {"coordinates":[37.11071,36.60792],"type":"Point"}
+}

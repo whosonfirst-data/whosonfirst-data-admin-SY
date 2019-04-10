@@ -1,0 +1,79 @@
+{
+  "id": 1243441337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69428,36.11089,36.69428,36.11089",
+    "geom:latitude":36.11089,
+    "geom:longitude":36.69428,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Killi",
+    "gn:country_code":"SY",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167871,
+    "gn:latitude":36.11089,
+    "gn:longitude":36.69428,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kill\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kill\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0644\u064a",
+        "\u0643\u0644\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kelli",
+        "Kilal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167871,
+        "wk:page":"Killi"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e89909b6a3801310f9c6c19ea80a82a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1243441337,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243441337,
+    "wof:lastmodified":1537701951,
+    "wof:name":"Killi",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69428,
+    36.11089000000001,
+    36.69428,
+    36.11089000000001
+],
+  "geometry": {"coordinates":[36.69428,36.11089000000001],"type":"Point"}
+}

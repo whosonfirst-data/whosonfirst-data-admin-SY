@@ -1,0 +1,73 @@
+{
+  "id": 1310376323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95003,35.07256,35.95003,35.07256",
+    "geom:latitude":35.07256,
+    "geom:longitude":35.95003,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qarqafti",
+    "gn:country_code":"SY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166029,
+    "gn:latitude":35.07256,
+    "gn:longitude":35.95003,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qarqaft\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0642\u0641\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qarqaft\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166029
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"74463a7dda914bcb233a5911ba4a9cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310376323,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310376323,
+    "wof:lastmodified":1537701827,
+    "wof:name":"Qarqafti",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95003,
+    35.07256,
+    35.95003,
+    35.07256
+],
+  "geometry": {"coordinates":[35.95003,35.07256],"type":"Point"}
+}

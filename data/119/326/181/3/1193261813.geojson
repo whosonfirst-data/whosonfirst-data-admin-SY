@@ -1,0 +1,74 @@
+{
+  "id": 1193261813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1279,35.15884,36.1279,35.15884",
+    "geom:latitude":35.15884,
+    "geom:longitude":36.1279,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bab an Nur",
+    "gn:country_code":"SY",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172001,
+    "gn:latitude":35.15884,
+    "gn:longitude":36.1279,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"B\u0101b an N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0646\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2b enn No\u00fbr",
+        "B\u0101b an N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172001
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b07ac76667d1532d9b84464d7b307cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1193261813,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1193261813,
+    "wof:lastmodified":1537702241,
+    "wof:name":"Bab an Nur",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1279,
+    35.15884,
+    36.1279,
+    35.15884
+],
+  "geometry": {"coordinates":[36.1279,35.15884],"type":"Point"}
+}

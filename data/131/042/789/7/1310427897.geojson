@@ -1,0 +1,73 @@
+{
+  "id": 1310427897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.29917,33.03798,36.29917,33.03798",
+    "geom:latitude":33.03798,
+    "geom:longitude":36.29917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maqras Ayyub",
+    "gn:country_code":"SY",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259551,
+    "gn:latitude":33.03798,
+    "gn:longitude":36.29917,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Maqra\u015f Ayy\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0631\u0635 \u0623\u064a\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Maqra\u015f Ayy\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259551
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"57dd13fb043667e17cd36849e2f0af42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1310427897,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1310427897,
+    "wof:lastmodified":1537702606,
+    "wof:name":"Maqras Ayyub",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.29917,
+    33.03798,
+    36.29917,
+    33.03798
+],
+  "geometry": {"coordinates":[36.29917,33.03798],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209603207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36775,34.78666,36.36775,34.78666",
+    "geom:latitude":34.78666,
+    "geom:longitude":36.36775,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Ayn al Gharah",
+    "gn:country_code":"SY",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176782,
+    "gn:latitude":34.78666,
+    "gn:longitude":36.36775,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u2018Ayn al Gh\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u063a\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn al Gh\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176782
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d151aa3620a829d7f0c1644663e425f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209603207
+        }
+    ],
+    "wof:id":1209603207,
+    "wof:lastmodified":1537702605,
+    "wof:name":"`Ayn al Gharah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36775,
+    34.78666,
+    36.36775,
+    34.78666
+],
+  "geometry": {"coordinates":[36.36775,34.78666],"type":"Point"}
+}

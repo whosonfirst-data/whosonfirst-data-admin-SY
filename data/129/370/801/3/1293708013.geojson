@@ -1,0 +1,81 @@
+{
+  "id": 1293708013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80374,36.5232,36.80374,36.5232",
+    "geom:latitude":36.5232,
+    "geom:longitude":36.80374,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Xelnere",
+    "gn:country_code":"SY",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169521,
+    "gn:latitude":36.5232,
+    "gn:longitude":36.80374,
+    "gn:modification_date":"2016-09-25",
+    "gn:name":"Xeln\u00ear\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Hul\u012bl\u016b"
+    ],
+    "name:ara_x_variant":[
+        "H\u016bl\u012bl\u016b",
+        "\u0647\u0648\u0644\u064a\u0644\u0648",
+        "\u0627\u0644\u0646\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Hol\u00eelo",
+        "Houlilo",
+        "An N\u012br",
+        "Xeln\u00ear\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169521
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b00c800af7b739a81339d3244a68714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293708013,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293708013,
+    "wof:lastmodified":1537702072,
+    "wof:name":"Xelnere",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80374000000001,
+    36.5232,
+    36.80374000000001,
+    36.5232
+],
+  "geometry": {"coordinates":[36.80374000000001,36.5232],"type":"Point"}
+}

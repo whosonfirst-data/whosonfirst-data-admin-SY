@@ -1,0 +1,75 @@
+{
+  "id": 1343445371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78967,36.16374,36.78967,36.16374",
+    "geom:latitude":36.16374,
+    "geom:longitude":36.78967,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Karmin",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168672,
+    "gn:latitude":36.16374,
+    "gn:longitude":36.78967,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kafr Karm\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0643\u0631\u0645\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafer Karmine",
+        "Kafer Kermine",
+        "Kafr Karm\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168672
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"85977077626df5b373cd25811dc01115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343445371,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343445371,
+    "wof:lastmodified":1537702011,
+    "wof:name":"Kafr Karmin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78967,
+    36.16374,
+    36.78967,
+    36.16374
+],
+  "geometry": {"coordinates":[36.78967,36.16374],"type":"Point"}
+}

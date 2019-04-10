@@ -1,0 +1,76 @@
+{
+  "id": 1293118973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00279,35.34096,37.00279,35.34096",
+    "geom:latitude":35.34096,
+    "geom:longitude":37.00279,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Duma",
+    "gn:country_code":"SY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170591,
+    "gn:latitude":35.34096,
+    "gn:longitude":37.00279,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"D\u016bm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u016bm\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Do\u00fbma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170591
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cfe913002431a1083289c73d6a52f642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293118973,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293118973,
+    "wof:lastmodified":1537702134,
+    "wof:name":"Duma",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00279000000001,
+    35.34095999999999,
+    37.00279000000001,
+    35.34095999999999
+],
+  "geometry": {"coordinates":[37.00279000000001,35.34095999999999],"type":"Point"}
+}

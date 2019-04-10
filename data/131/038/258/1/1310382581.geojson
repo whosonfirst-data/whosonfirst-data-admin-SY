@@ -1,0 +1,77 @@
+{
+  "id": 1310382581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52078,36.21176,36.52078,36.21176",
+    "geom:latitude":36.21176,
+    "geom:longitude":36.52078,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Harim",
+    "gn:country_code":"SY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":169866,
+    "gn:latitude":36.21176,
+    "gn:longitude":36.52078,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1e28\u0101rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101rim"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Harem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169866,
+        "wk:page":"Harem%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"89d629ae5f953ac80e22a6957ec2fc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1310382581,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310382581,
+    "wof:lastmodified":1537702093,
+    "wof:name":"Harim",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52078,
+    36.21176,
+    36.52078,
+    36.21176
+],
+  "geometry": {"coordinates":[36.52078,36.21176],"type":"Point"}
+}

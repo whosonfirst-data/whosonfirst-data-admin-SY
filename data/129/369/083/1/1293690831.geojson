@@ -1,0 +1,76 @@
+{
+  "id": 1293690831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.19576,36.85401,41.19576,36.85401",
+    "geom:latitude":36.85401,
+    "geom:longitude":41.19576,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Taqit",
+    "gn:country_code":"SY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167964,
+    "gn:latitude":36.85401,
+    "gn:longitude":41.19576,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat T\u0101q\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062a\u0627\u0642\u064a\u062a"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat T\u0101q\u012bt"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet T\u00e2q\u00eete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167964
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7a4c9aa70755c695d74fdfe6d7cf6f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1293690831,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293690831,
+    "wof:lastmodified":1537701958,
+    "wof:name":"Khirbat Taqit",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.19576,
+    36.85401,
+    41.19576,
+    36.85401
+],
+  "geometry": {"coordinates":[41.19576,36.85401],"type":"Point"}
+}

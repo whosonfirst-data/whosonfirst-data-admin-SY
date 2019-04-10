@@ -1,0 +1,76 @@
+{
+  "id": 1259400481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05176,36.91376,41.05176,36.91376",
+    "geom:latitude":36.91376,
+    "geom:longitude":41.05176,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kirdiwan",
+    "gn:country_code":"SY",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167849,
+    "gn:latitude":36.91376,
+    "gn:longitude":41.05176,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kird\u012bw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u064a\u0648\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Kird\u012bw\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Guir D\u00eeo\u00fbane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167849
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"11aade01bb35266e7695649b7533bd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1259400481,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259400481,
+    "wof:lastmodified":1537701947,
+    "wof:name":"Kirdiwan",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05176,
+    36.91376,
+    41.05176,
+    36.91376
+],
+  "geometry": {"coordinates":[41.05176,36.91376],"type":"Point"}
+}

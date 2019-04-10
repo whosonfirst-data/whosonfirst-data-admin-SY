@@ -1,0 +1,75 @@
+{
+  "id": 1276221669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67082,36.63755,37.67082,36.63755",
+    "geom:latitude":36.63755,
+    "geom:longitude":37.67082,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nabghah",
+    "gn:country_code":"SY",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166483,
+    "gn:latitude":36.63755,
+    "gn:longitude":37.67082,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Nabghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u063a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nabrha",
+        "Nabgha",
+        "Nabghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166483
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c86c6cf2808a24f8f13787958bb28be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1276221669,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276221669,
+    "wof:lastmodified":1537701861,
+    "wof:name":"Nabghah",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67082,
+    36.63755,
+    37.67082,
+    36.63755
+],
+  "geometry": {"coordinates":[37.67082,36.63755],"type":"Point"}
+}

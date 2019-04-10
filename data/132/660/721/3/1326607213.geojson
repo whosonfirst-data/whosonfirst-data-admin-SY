@@ -1,0 +1,73 @@
+{
+  "id": 1326607213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55871,35.9359,36.55871,35.9359",
+    "geom:latitude":35.9359,
+    "geom:longitude":36.55871,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Qibi",
+    "gn:country_code":"SY",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8269882,
+    "gn:latitude":35.9359,
+    "gn:longitude":36.55871,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Qib\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qib\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0628\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8269882
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3003f024d6f15154bd3ccf2272685b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1326607213,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1326607213,
+    "wof:lastmodified":1537702505,
+    "wof:name":"Al Qibi",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55871,
+    35.9359,
+    36.55871,
+    35.9359
+],
+  "geometry": {"coordinates":[36.55871,35.9359],"type":"Point"}
+}

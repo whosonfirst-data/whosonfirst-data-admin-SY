@@ -1,0 +1,80 @@
+{
+  "id": 1293570381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6106,34.8127,36.6106,34.8127",
+    "geom:latitude":34.8127,
+    "geom:longitude":36.6106,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazra`at Raf`in",
+    "gn:country_code":"SY",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165603,
+    "gn:latitude":34.8127,
+    "gn:longitude":36.6106,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mazra\u2018at Raf\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0631\u0641\u0642\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0631\u0641\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Refin",
+        "R\u00e9f\u00eene",
+        "Raf\u012bn",
+        "Mazra\u2018at Rafq\u012bn",
+        "Mazra\u2018at Raf\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165603
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"129d7534aa24e40efb421aaf33e8453f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293570381,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293570381,
+    "wof:lastmodified":1537701795,
+    "wof:name":"Mazra`at Raf`in",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6106,
+    34.8127,
+    36.6106,
+    34.8127
+],
+  "geometry": {"coordinates":[36.6106,34.8127],"type":"Point"}
+}

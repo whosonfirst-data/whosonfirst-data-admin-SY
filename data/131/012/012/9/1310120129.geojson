@@ -1,0 +1,76 @@
+{
+  "id": 1310120129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.52821,37.0074,41.52821,37.0074",
+    "geom:latitude":37.0074,
+    "geom:longitude":41.52821,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kir Sharan",
+    "gn:country_code":"SY",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167829,
+    "gn:latitude":37.0074,
+    "gn:longitude":41.52821,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kir Shar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631 \u0634\u0631\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Kir Shar\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Guir Ch\u00e9r\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167829
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"29ebfa34faded58c819ada85c1b20e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1310120129,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310120129,
+    "wof:lastmodified":1537701944,
+    "wof:name":"Kir Sharan",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.52821,
+    37.0074,
+    41.52821,
+    37.0074
+],
+  "geometry": {"coordinates":[41.52821,37.0074],"type":"Point"}
+}

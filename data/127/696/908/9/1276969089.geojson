@@ -1,0 +1,73 @@
+{
+  "id": 1276969089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73281,35.98904,37.73281,35.98904",
+    "geom:latitude":35.98904,
+    "geom:longitude":37.73281,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat ath Thib",
+    "gn:country_code":"SY",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341872,
+    "gn:latitude":35.98904,
+    "gn:longitude":37.73281,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khirbat ath Th\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062b\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Khirbat ath Th\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341872
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6cd4f402ca57ef74b19e26e403fe7c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276969089,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276969089,
+    "wof:lastmodified":1537702541,
+    "wof:name":"Khirbat ath Thib",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73281,
+    35.98904,
+    37.73281,
+    35.98904
+],
+  "geometry": {"coordinates":[37.73281,35.98904],"type":"Point"}
+}

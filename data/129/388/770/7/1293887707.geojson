@@ -1,0 +1,73 @@
+{
+  "id": 1293887707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.64877,36.23017,40.64877,36.23017",
+    "geom:latitude":36.23017,
+    "geom:longitude":40.64877,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tali`ah",
+    "gn:country_code":"SY",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420914,
+    "gn:latitude":36.23017,
+    "gn:longitude":40.64877,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162al\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162al\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420914
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1062eef174fcd4f978cdf17452892b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293887707,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293887707,
+    "wof:lastmodified":1537702455,
+    "wof:name":"Tali`ah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.64877,
+    36.23017,
+    40.64877,
+    36.23017
+],
+  "geometry": {"coordinates":[40.64877,36.23017],"type":"Point"}
+}

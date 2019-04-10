@@ -1,0 +1,73 @@
+{
+  "id": 1243334505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97066,34.7944,35.97066,34.7944",
+    "geom:latitude":34.7944,
+    "geom:longitude":35.97066,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ard al Kurum",
+    "gn:country_code":"SY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8265221,
+    "gn:latitude":34.7944,
+    "gn:longitude":35.97066,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ar\u1e11 al Kur\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0643\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Kur\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265221
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c90a5647e2c8aad8d8cf4b60b6a1fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1243334505,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243334505,
+    "wof:lastmodified":1537702498,
+    "wof:name":"Ard al Kurum",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97065999999999,
+    34.7944,
+    35.97065999999999,
+    34.7944
+],
+  "geometry": {"coordinates":[35.97065999999999,34.7944],"type":"Point"}
+}

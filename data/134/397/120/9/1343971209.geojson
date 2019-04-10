@@ -1,0 +1,82 @@
+{
+  "id": 1343971209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00282,35.44839,36.00282,35.44839",
+    "geom:latitude":35.44839,
+    "geom:longitude":36.00282,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qurusu al Fawqa",
+    "gn:country_code":"SY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165782,
+    "gn:latitude":35.44839,
+    "gn:longitude":36.00282,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Qur\u016b\u015f\u016b al Fawq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0648\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0648\u0635\u0648 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Krousso",
+        "Qro\u00fbsso el Faouqa",
+        "Krouss\u00e9",
+        "Qr\u016b\u015f\u016b al Fawq\u0101",
+        "Kur\u016bsah",
+        "Qur\u016b\u015f\u016b al Fawq\u0101",
+        "Kr\u016bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165782
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fcfd306880e67d054ca02cf589b2f8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343971209,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343971209,
+    "wof:lastmodified":1537701808,
+    "wof:name":"Qurusu al Fawqa",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00282,
+    35.44839,
+    36.00282,
+    35.44839
+],
+  "geometry": {"coordinates":[36.00282,35.44839],"type":"Point"}
+}

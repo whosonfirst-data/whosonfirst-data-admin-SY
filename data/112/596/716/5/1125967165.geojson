@@ -1,0 +1,106 @@
+{
+  "id": 1125967165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74036,33.8074,36.74036,33.8074",
+    "geom:latitude":33.8074,
+    "geom:longitude":36.74036,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":32352,
+    "gn:population":32352,
+    "iso:country":"SY",
+    "lbl:latitude":33.8074,
+    "lbl:longitude":36.74036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0631\u0648\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Jayrud"
+    ],
+    "name:eng_x_preferred":[
+        "Jayrud"
+    ],
+    "name:fre_x_preferred":[
+        "Jayrud"
+    ],
+    "name:nno_x_preferred":[
+        "Jayrud"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cajrud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0443\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Jayr\u016bd"
+    ],
+    "name:unk_x_variant":[
+        "Djerud"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":169113,
+    "qs_pg:gn_pop":32352,
+    "qs_pg:name":"Jayr\u016bd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":71086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169113,
+        "qs_pg:id":71086,
+        "wd:id":"Q6167965"
+    },
+    "wof:country":"SY",
+    "wof:created":1497298019,
+    "wof:geomhash":"1cd954a1b347bc16eed10620989aa3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1125967165,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1125967165,
+    "wof:lastmodified":1514505879,
+    "wof:name":"Jayr\u016bd",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:population":32352,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74036,
+    33.8074,
+    36.74036,
+    33.8074
+],
+  "geometry": {"coordinates":[36.74036,33.8074],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310408705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01015,35.22849,36.01015,35.22849",
+    "geom:latitude":35.22849,
+    "geom:longitude":36.01015,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Mazari`",
+    "gn:country_code":"SY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556239,
+    "gn:latitude":35.22849,
+    "gn:longitude":36.01015,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Maz\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0627\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Maz\u0101ri\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556239
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b33efa0c0943597cd6b75b61e1af4128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310408705,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310408705,
+    "wof:lastmodified":1537702641,
+    "wof:name":"Al Mazari`",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01015,
+    35.22849,
+    36.01015,
+    35.22849
+],
+  "geometry": {"coordinates":[36.01015,35.22849],"type":"Point"}
+}

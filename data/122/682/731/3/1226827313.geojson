@@ -1,0 +1,74 @@
+{
+  "id": 1226827313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48234,34.6986,36.48234,34.6986",
+    "geom:latitude":34.6986,
+    "geom:longitude":36.48234,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat al Hamam",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168117,
+    "gn:latitude":34.6986,
+    "gn:longitude":36.48234,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khirbat al \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Ham\u00e2m",
+        "Khirbat al \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168117
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b5a20df05443ce1cf63b6ff5b4f9497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226827313,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226827313,
+    "wof:lastmodified":1537701971,
+    "wof:name":"Khirbat al Hamam",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48234,
+    34.6986,
+    36.48234,
+    34.6986
+],
+  "geometry": {"coordinates":[36.48234,34.6986],"type":"Point"}
+}

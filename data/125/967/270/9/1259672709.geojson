@@ -1,0 +1,77 @@
+{
+  "id": 1259672709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42951,35.40476,37.42951,35.40476",
+    "geom:latitude":35.40476,
+    "geom:longitude":37.42951,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ruhjan",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165596,
+    "gn:latitude":35.40476,
+    "gn:longitude":37.42951,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ruhj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ruhj\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0647\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rahaj\u00e2ne",
+        "Ra\u1e29aj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165596
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae592aed36bbc1f82cb3acd64649004d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259672709,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259672709,
+    "wof:lastmodified":1537701794,
+    "wof:name":"Ruhjan",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42951,
+    35.40476,
+    37.42951,
+    35.40476
+],
+  "geometry": {"coordinates":[37.42951,35.40476],"type":"Point"}
+}

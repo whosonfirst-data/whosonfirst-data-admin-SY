@@ -1,0 +1,78 @@
+{
+  "id": 1343758631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50627,36.36918,37.50627,36.36918",
+    "geom:latitude":36.36918,
+    "geom:longitude":37.50627,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shaykh `Aqil",
+    "gn:country_code":"SY",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172748,
+    "gn:latitude":36.36918,
+    "gn:longitude":37.50627,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Shaykh \u2018Aq\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0639\u0642\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Shaykh \u2018\u0100qil",
+        "Che\u00efkh Aaqil",
+        "Sheikh \u0100qil",
+        "Shaykh \u2018Aql",
+        "Ash Shaykh \u2018\u0100qil",
+        "Shaykh \u2018Aq\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172748
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18e8267cdbf139ef554b8eee5617914f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343758631,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343758631,
+    "wof:lastmodified":1537702289,
+    "wof:name":"Shaykh `Aqil",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50627,
+    36.36918,
+    37.50627,
+    36.36918
+],
+  "geometry": {"coordinates":[37.50627,36.36918],"type":"Point"}
+}

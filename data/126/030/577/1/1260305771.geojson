@@ -1,0 +1,78 @@
+{
+  "id": 1260305771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34614,33.4862,36.34614,33.4862",
+    "geom:latitude":33.4862,
+    "geom:longitude":36.34614,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jaramana",
+    "gn:country_code":"SY",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":169174,
+    "gn:latitude":33.4862,
+    "gn:longitude":36.34614,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Jaram\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0645\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Djaram\u0101n\u0101",
+        "J\u00e9ram\u00e2na",
+        "Jaram\u0101n\u0101",
+        "Jaram\u0101nah",
+        "Jurm\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169174,
+        "wk:page":"Jaramana"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70dcdf6fff155efa13e919974a6677b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1260305771,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1260305771,
+    "wof:lastmodified":1537702050,
+    "wof:name":"Jaramana",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34614000000001,
+    33.4862,
+    36.34614000000001,
+    33.4862
+],
+  "geometry": {"coordinates":[36.34614000000001,33.4862],"type":"Point"}
+}

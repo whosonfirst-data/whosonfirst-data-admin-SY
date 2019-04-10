@@ -1,0 +1,73 @@
+{
+  "id": 1243446059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96322,35.53226,39.96322,35.53226",
+    "geom:latitude":35.53226,
+    "geom:longitude":39.96322,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"As Sawa",
+    "gn:country_code":"SY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4309,
+    "gn:latitude":35.53226,
+    "gn:longitude":39.96322,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"As Saw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627"
+    ],
+    "name:und_x_variant":[
+        "As Saw\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4309
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ccb034e4d9a4ae322d99af80e406e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1243446059,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243446059,
+    "wof:lastmodified":1537701539,
+    "wof:name":"As Sawa",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96322,
+    35.53226,
+    39.96322,
+    35.53226
+],
+  "geometry": {"coordinates":[39.96322,35.53226],"type":"Point"}
+}

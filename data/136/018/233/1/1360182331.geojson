@@ -1,0 +1,73 @@
+{
+  "id": 1360182331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54148,33.48664,36.54148,33.48664",
+    "geom:latitude":33.48664,
+    "geom:longitude":36.54148,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qaysa",
+    "gn:country_code":"SY",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411203,
+    "gn:latitude":33.48664,
+    "gn:longitude":36.54148,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Qays\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0633\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qays\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411203
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9da66a26fb785ddf100e7341780a9285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1360182331,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360182331,
+    "wof:lastmodified":1537702432,
+    "wof:name":"Qaysa",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54148,
+    33.48664,
+    36.54148,
+    33.48664
+],
+  "geometry": {"coordinates":[36.54148,33.48664],"type":"Point"}
+}

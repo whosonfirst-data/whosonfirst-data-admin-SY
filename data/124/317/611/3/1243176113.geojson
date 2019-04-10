@@ -1,0 +1,74 @@
+{
+  "id": 1243176113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96486,35.88756,40.96486,35.88756",
+    "geom:latitude":35.88756,
+    "geom:longitude":40.96486,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nammurah",
+    "gn:country_code":"SY",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130899,
+    "gn:latitude":35.88756,
+    "gn:longitude":40.96486,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Namm\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Namm\u016brah",
+        "An Namm\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130899
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"165b400eb240ec15b6ff54aa03ce4e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243176113,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243176113,
+    "wof:lastmodified":1537702593,
+    "wof:name":"Nammurah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96486,
+    35.88756,
+    40.96486,
+    35.88756
+],
+  "geometry": {"coordinates":[40.96486,35.88756],"type":"Point"}
+}

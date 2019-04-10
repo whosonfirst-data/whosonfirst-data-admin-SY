@@ -1,0 +1,76 @@
+{
+  "id": 1277065605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27938,35.35316,36.27938,35.35316",
+    "geom:latitude":35.35316,
+    "geom:longitude":36.27938,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hattanah",
+    "gn:country_code":"SY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169783,
+    "gn:latitude":35.35316,
+    "gn:longitude":36.27938,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28att\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062a\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Kro\u00fbm",
+        "Hatt\u00e2ne",
+        "\u1e28att\u0101n",
+        "\u1e28att\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169783
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1aa9afbcc0268dbf84310124a3fc1bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1277065605,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1277065605,
+    "wof:lastmodified":1537702088,
+    "wof:name":"Hattanah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27938,
+    35.35315999999999,
+    36.27938,
+    35.35315999999999
+],
+  "geometry": {"coordinates":[36.27938,35.35315999999999],"type":"Point"}
+}

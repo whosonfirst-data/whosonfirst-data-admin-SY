@@ -1,0 +1,75 @@
+{
+  "id": 1225927749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.30792,35.51977,37.30792,35.51977",
+    "geom:latitude":35.51977,
+    "geom:longitude":37.30792,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Humah",
+    "gn:country_code":"SY",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169507,
+    "gn:latitude":35.51977,
+    "gn:longitude":37.30792,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ho\u00fbmi",
+        "Ho\u00fbm\u00e9",
+        "\u1e28\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169507
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f66a92ed3e8fce44493ce5e0230986ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1225927749,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1225927749,
+    "wof:lastmodified":1537702071,
+    "wof:name":"Humah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.30792,
+    35.51977,
+    37.30792,
+    35.51977
+],
+  "geometry": {"coordinates":[37.30792,35.51977],"type":"Point"}
+}

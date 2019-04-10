@@ -1,0 +1,82 @@
+{
+  "id": 1260371513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68397,34.76763,36.68397,34.76763",
+    "geom:latitude":34.76763,
+    "geom:longitude":36.68397,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kharkhar",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168261,
+    "gn:latitude":34.76763,
+    "gn:longitude":36.68397,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kharkhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u062e\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0647\u0627\u062c\u0631\u064a\u0629",
+        "\u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mh\u00e2jr\u00eey\u00e9",
+        "Kherkher",
+        "Kharkhar",
+        "Muh\u0101jir\u012byah",
+        "Ma\u00e2jr\u00eey\u00e9",
+        "Al Muh\u0101jir\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168261
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed07ad560221cd5d057556b0dc5ef498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1260371513,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260371513,
+    "wof:lastmodified":1537701978,
+    "wof:name":"Kharkhar",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68397,
+    34.76763,
+    36.68397,
+    34.76763
+],
+  "geometry": {"coordinates":[36.68397,34.76763],"type":"Point"}
+}

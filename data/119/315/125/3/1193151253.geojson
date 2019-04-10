@@ -1,0 +1,70 @@
+{
+  "id": 1193151253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63279,36.15094,40.63279,36.15094",
+    "geom:latitude":36.15094,
+    "geom:longitude":40.63279,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat ash Shawk",
+    "gn:country_code":"SY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420928,
+    "gn:latitude":36.15094,
+    "gn:longitude":40.63279,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khirbat ash Shawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u0648\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4ef038bf8acc2f1e49d925ecbe24433a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1193151253,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1193151253,
+    "wof:lastmodified":1537702456,
+    "wof:name":"Khirbat ash Shawk",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63279,
+    36.15094000000001,
+    40.63279,
+    36.15094000000001
+],
+  "geometry": {"coordinates":[40.63279,36.15094000000001],"type":"Point"}
+}

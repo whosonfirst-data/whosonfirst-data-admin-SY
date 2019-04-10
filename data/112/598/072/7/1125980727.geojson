@@ -1,0 +1,121 @@
+{
+  "id": 1125980727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2419,33.3581,36.2419,33.3581",
+    "geom:latitude":33.3581,
+    "geom:longitude":36.2419,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":23526,
+    "gn:population":23526,
+    "iso:country":"SY",
+    "lbl:latitude":33.3581,
+    "lbl:longitude":36.2419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0633\u0648\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0633\u0648\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u0554\u056b\u057d\u057e\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u65af\u6c83"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Kiswah"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Kiswah"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Kiswah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05db\u05d9\u05e1\u05d5\u05d5\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Kiswah"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0648\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kiswa"
+    ],
+    "name:sco_x_preferred":[
+        "Al-Kiswah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Kiswah"
+    ],
+    "name:unk_x_variant":[
+        "Kiswe"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":173598,
+    "qs_pg:gn_pop":23526,
+    "qs_pg:name":"Al Kiswah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":73088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173598,
+        "qs_pg:id":73088,
+        "wd:id":"Q2915767"
+    },
+    "wof:country":"SY",
+    "wof:created":1497298544,
+    "wof:geomhash":"35f14cbad2c24307243a94c4dbdfe47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1125980727,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1125980727,
+    "wof:lastmodified":1514505813,
+    "wof:name":"Al Kiswah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:population":23526,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2419,
+    33.3581,
+    36.2419,
+    33.3581
+],
+  "geometry": {"coordinates":[36.2419,33.3581],"type":"Point"}
+}

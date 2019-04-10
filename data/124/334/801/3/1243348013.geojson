@@ -1,0 +1,74 @@
+{
+  "id": 1243348013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.80549,36.29766,37.80549,36.29766",
+    "geom:latitude":36.29766,
+    "geom:longitude":37.80549,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Tawil",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174328,
+    "gn:latitude":36.29766,
+    "gn:longitude":37.80549,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ab\u016b \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0637\u0648\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Abou Taou\u00eel",
+        "Ab\u016b \u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174328
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e4242b19010d61fecd8f97c67b84f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243348013,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243348013,
+    "wof:lastmodified":1537702403,
+    "wof:name":"Abu Tawil",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.80549,
+    36.29766,
+    37.80549,
+    36.29766
+],
+  "geometry": {"coordinates":[37.80549,36.29766],"type":"Point"}
+}

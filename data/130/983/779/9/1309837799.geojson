@@ -1,0 +1,78 @@
+{
+  "id": 1309837799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85,32.5,36.85,32.5",
+    "geom:latitude":32.5,
+    "geom:longitude":36.85,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"164916.0",
+    "gn:asciiname":"Mallah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167388,
+    "gn:latitude":32.5,
+    "gn:longitude":36.85,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Mall\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "Mil\u1e29",
+        "Mell\u00e2n",
+        "Mell\u00e2h",
+        "Mall\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167388
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e7b5917a52274db3789c15d36c50ea67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1309837799,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1309837799,
+    "wof:lastmodified":1537701915,
+    "wof:name":"Mallah",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85,
+    32.5,
+    36.85,
+    32.5
+],
+  "geometry": {"coordinates":[36.85,32.5],"type":"Point"}
+}

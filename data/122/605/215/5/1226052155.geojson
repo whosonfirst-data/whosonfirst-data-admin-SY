@@ -1,0 +1,77 @@
+{
+  "id": 1226052155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65238,36.81677,41.65238,36.81677",
+    "geom:latitude":36.81677,
+    "geom:longitude":41.65238,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sihah Khutala",
+    "gn:country_code":"SY",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164130,
+    "gn:latitude":36.81677,
+    "gn:longitude":41.65238,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"S\u012b\u1e29ah Kh\u016bt\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d\u0627 \u062e\u0648\u062a\u0627\u0644\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "S\u012b\u1e29ah Kh\u016bt\u0101lah"
+    ],
+    "name:und_x_variant":[
+        "S\u00eeha Kho\u00fbt\u00e2la",
+        "S\u012b\u1e29ah Kh\u016bt\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164130
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6fe0bf2017810031eae5f6c4f2756abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226052155,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226052155,
+    "wof:lastmodified":1537701717,
+    "wof:name":"Sihah Khutala",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65238,
+    36.81677,
+    41.65238,
+    36.81677
+],
+  "geometry": {"coordinates":[41.65238,36.81677],"type":"Point"}
+}

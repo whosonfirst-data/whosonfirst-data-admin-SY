@@ -1,0 +1,74 @@
+{
+  "id": 1259596207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10996,35.69747,36.10996,35.69747",
+    "geom:latitude":35.69747,
+    "geom:longitude":36.10996,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurt Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168459,
+    "gn:latitude":35.69747,
+    "gn:longitude":36.10996,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kurt Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062a \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kert Fawq\u0101n\u012b",
+        "Kurt Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168459
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"26d8da8c71608cff923adfb1b779f637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1259596207,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259596207,
+    "wof:lastmodified":1537701993,
+    "wof:name":"Kurt Fawqani",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10996,
+    35.69747,
+    36.10996,
+    35.69747
+],
+  "geometry": {"coordinates":[36.10996,35.69747],"type":"Point"}
+}

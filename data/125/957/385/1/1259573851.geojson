@@ -1,0 +1,80 @@
+{
+  "id": 1259573851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35329,33.42009,36.35329,33.42009",
+    "geom:latitude":33.42009,
+    "geom:longitude":36.35329,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh al Quwayl",
+    "gn:country_code":"SY",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169708,
+    "gn:latitude":33.42009,
+    "gn:longitude":36.35329,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u1e28awsh al Quwayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0642\u0648\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u0634 \u0627\u0644\u0642\u0648\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Haouch Goue\u00efl",
+        "Haouch Qoua\u00efl",
+        "Haouch el Qoua\u00efl",
+        "\u1e28awsh al Quwayl",
+        "\u1e28awsh Quwayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169708
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef5ea5e722be85c37997b2ad31d9fa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1259573851,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259573851,
+    "wof:lastmodified":1537702084,
+    "wof:name":"Hawsh al Quwayl",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35329,
+    33.42009,
+    36.35329,
+    33.42009
+],
+  "geometry": {"coordinates":[36.35329,33.42009],"type":"Point"}
+}

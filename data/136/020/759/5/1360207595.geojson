@@ -1,0 +1,73 @@
+{
+  "id": 1360207595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60051,32.69668,36.60051,32.69668",
+    "geom:latitude":32.69668,
+    "geom:longitude":36.60051,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Massad",
+    "gn:country_code":"SY",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167064,
+    "gn:latitude":32.69668,
+    "gn:longitude":36.60051,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ma\u015f\u015f\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u015f\u015f\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167064
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8cda449eee33c1b00c58c4c31a7df01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1360207595,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1360207595,
+    "wof:lastmodified":1537701898,
+    "wof:name":"Massad",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60051,
+    32.69668,
+    36.60051,
+    32.69668
+],
+  "geometry": {"coordinates":[36.60051,32.69668],"type":"Point"}
+}

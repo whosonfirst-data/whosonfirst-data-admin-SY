@@ -1,0 +1,82 @@
+{
+  "id": 1327441093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85614,36.42025,40.85614,36.42025",
+    "geom:latitude":36.42025,
+    "geom:longitude":40.85614,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sab` Shukur",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165118,
+    "gn:latitude":36.42025,
+    "gn:longitude":40.85614,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Sab\u2018 Shuk\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0639 \u0634\u0643\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sabaa Sko\u00fbr",
+        "Saf\u016bq",
+        "Sfoug",
+        "Sab\u2018 \u015euq\u016br",
+        "Sab\u2018 Sak\u016br",
+        "Sab\u2018 Shuk\u016br",
+        "Sab\u2018 Shakur",
+        "\u0633\u0628\u0639 \u0633\u0643\u0648\u0631",
+        "Sab\u2018 Shak\u016br",
+        "Sab\u2018 Suk\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a16e55e8f7d90039df2887fc6290ad66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327441093,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327441093,
+    "wof:lastmodified":1537701770,
+    "wof:name":"Sab` Shukur",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85614,
+    36.42025,
+    40.85614,
+    36.42025
+],
+  "geometry": {"coordinates":[40.85614,36.42025],"type":"Point"}
+}

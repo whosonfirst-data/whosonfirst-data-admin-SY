@@ -1,0 +1,71 @@
+{
+  "id": 1310379037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0391,35.21669,36.0391,35.21669",
+    "geom:latitude":35.21669,
+    "geom:longitude":36.0391,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Turaymisah",
+    "gn:country_code":"SY",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163115,
+    "gn:latitude":35.21669,
+    "gn:longitude":36.0391,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Turaym\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tra\u00efm\u00eess\u00e9",
+        "Turaym\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163115
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9fb9a3b3af9c47479208cf9e0f1258cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310379037,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310379037,
+    "wof:lastmodified":1537701637,
+    "wof:name":"Turaymisah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0391,
+    35.21669,
+    36.0391,
+    35.21669
+],
+  "geometry": {"coordinates":[36.0391,35.21669],"type":"Point"}
+}

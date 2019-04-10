@@ -1,0 +1,85 @@
+{
+  "id": 1292990621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16575,36.89935,38.16575,36.89935",
+    "geom:latitude":36.89935,
+    "geom:longitude":38.16575,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Saylim",
+    "gn:country_code":"SY",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164935,
+    "gn:latitude":36.89935,
+    "gn:longitude":38.16575,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Saylim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0644\u064a\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0644\u0645"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00ealim"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06ce\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u015eal\u012bb",
+        "Salib",
+        "Selim",
+        "Saylim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164935
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"84a505fbfff406d76e722c35265dfeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1292990621,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292990621,
+    "wof:lastmodified":1537701762,
+    "wof:name":"Saylim",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16575,
+    36.89935,
+    38.16575,
+    36.89935
+],
+  "geometry": {"coordinates":[38.16575,36.89935],"type":"Point"}
+}

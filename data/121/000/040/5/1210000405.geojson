@@ -1,0 +1,73 @@
+{
+  "id": 1210000405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36961,35.32496,37.36961,35.32496",
+    "geom:latitude":35.32496,
+    "geom:longitude":37.36961,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hasnawi",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340918,
+    "gn:latitude":35.32496,
+    "gn:longitude":37.36961,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28asn\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asn\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340918
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b9a5e7e570056f8db85ba654814201e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1210000405,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210000405,
+    "wof:lastmodified":1537702538,
+    "wof:name":"Hasnawi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36961,
+    35.32496,
+    37.36961,
+    35.32496
+],
+  "geometry": {"coordinates":[37.36961,35.32496],"type":"Point"}
+}

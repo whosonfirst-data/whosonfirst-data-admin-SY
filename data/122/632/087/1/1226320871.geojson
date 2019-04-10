@@ -1,0 +1,73 @@
+{
+  "id": 1226320871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.89413,34.92795,37.89413,34.92795",
+    "geom:latitude":34.92795,
+    "geom:longitude":37.89413,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat Salih Hamid",
+    "gn:country_code":"SY",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500,
+    "gn:latitude":34.92795,
+    "gn:longitude":37.89413,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Khirbat \u015e\u0101li\u1e29 \u1e28am\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0635\u0627\u0644\u062d \u062d\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khirbat \u015e\u0101li\u1e29 \u1e28am\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"972b7e24c6cae94bbcc117f3c31bc936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1226320871,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226320871,
+    "wof:lastmodified":1537701531,
+    "wof:name":"Khirbat Salih Hamid",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.89413,
+    34.92795,
+    37.89413,
+    34.92795
+],
+  "geometry": {"coordinates":[37.89413,34.92795],"type":"Point"}
+}

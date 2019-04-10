@@ -1,0 +1,74 @@
+{
+  "id": 421190443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9994505,35.6670585,35.9994505,35.6670585",
+    "geom:latitude":35.667059,
+    "geom:longitude":35.999451,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Bahluliye",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119571,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1947126,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1947126,
+        "qs:id":1119571
+    },
+    "wof:country":"SY",
+    "wof:created":1459009658,
+    "wof:geomhash":"6b6c3722c2b776dd8e66c3b367a83b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":421190443,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":421190443,
+    "wof:lastmodified":1496498070,
+    "wof:name":"El Bahluliye",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9994505,
+    35.6670585,
+    35.9994505,
+    35.6670585
+],
+  "geometry": {"coordinates":[35.9994505,35.6670585],"type":"Point"}
+}

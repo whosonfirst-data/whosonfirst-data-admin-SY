@@ -1,0 +1,74 @@
+{
+  "id": 1343274935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12178,35.51056,36.12178,35.51056",
+    "geom:latitude":35.51056,
+    "geom:longitude":36.12178,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Farzala",
+    "gn:country_code":"SY",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170438,
+    "gn:latitude":35.51056,
+    "gn:longitude":36.12178,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Farzal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0632\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Farzal\u0101",
+        "Qirzal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170438
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96a28baf1ab8a8f7d4518112542704d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343274935,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343274935,
+    "wof:lastmodified":1537702123,
+    "wof:name":"Farzala",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12178,
+    35.51056,
+    36.12178,
+    35.51056
+],
+  "geometry": {"coordinates":[36.12178,35.51056],"type":"Point"}
+}

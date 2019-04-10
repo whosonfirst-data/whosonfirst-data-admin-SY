@@ -1,0 +1,81 @@
+{
+  "id": 1226630129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24377,35.50509,36.24377,35.50509",
+    "geom:latitude":35.50509,
+    "geom:longitude":36.24377,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shathah",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":164398,
+    "gn:latitude":35.50509,
+    "gn:longitude":36.24377,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Sha\u0163\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0637\u062d\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0637\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chat\u2019 ha ett Tahta",
+        "Sha\u0163\u1e29ah at Ta\u1e29t\u0101\u2019",
+        "Sha\u0163\u1e29ah at Ta\u1e29t\u0101",
+        "Sha\u0163\u1e29ah",
+        "Sha\u0163\u1e29at at Ta\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164398,
+        "wk:page":"Shathah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4e4024a7410be627828ea494474489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1226630129,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226630129,
+    "wof:lastmodified":1537701731,
+    "wof:name":"Shathah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24377,
+    35.50509,
+    36.24377,
+    35.50509
+],
+  "geometry": {"coordinates":[36.24377,35.50509],"type":"Point"}
+}

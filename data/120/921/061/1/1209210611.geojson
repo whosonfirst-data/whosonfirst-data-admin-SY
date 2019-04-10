@@ -1,0 +1,75 @@
+{
+  "id": 1209210611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54502,33.35785,36.54502,33.35785",
+    "geom:latitude":33.35785,
+    "geom:longitude":36.54502,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hijanah",
+    "gn:country_code":"SY",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173781,
+    "gn:latitude":33.35785,
+    "gn:longitude":36.54502,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"H\u012bj\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u064a\u062c\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u062c\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El H\u012bj\u0101ne",
+        "H\u012bj\u0101nah",
+        "El Hidjane",
+        "Hijj\u00e2n\u00e9",
+        "El Hijj\u00e2n\u00e9",
+        "Al H\u012bj\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173781
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3296c776e908dd9d44ed4f1096238e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209210611
+        }
+    ],
+    "wof:id":1209210611,
+    "wof:lastmodified":1537702363,
+    "wof:name":"Hijanah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54502,
+    33.35785,
+    36.54502,
+    33.35785
+],
+  "geometry": {"coordinates":[36.54502,33.35785],"type":"Point"}
+}

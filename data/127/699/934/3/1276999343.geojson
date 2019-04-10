@@ -1,0 +1,73 @@
+{
+  "id": 1276999343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95481,36.13288,40.95481,36.13288",
+    "geom:latitude":36.13288,
+    "geom:longitude":40.95481,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Ali ash Shahin",
+    "gn:country_code":"SY",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414770,
+    "gn:latitude":36.13288,
+    "gn:longitude":40.95481,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Al\u012b ash Sh\u0101h\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u0634\u0627\u0647\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b ash Sh\u0101h\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414770
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fff64cba7ad233978efc002e19083bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276999343,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276999343,
+    "wof:lastmodified":1537702433,
+    "wof:name":"`Ali ash Shahin",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95481,
+    36.13288,
+    40.95481,
+    36.13288
+],
+  "geometry": {"coordinates":[40.95481,36.13288],"type":"Point"}
+}

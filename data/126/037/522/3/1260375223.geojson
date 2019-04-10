@@ -1,0 +1,73 @@
+{
+  "id": 1260375223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3015,35.69095,37.3015,35.69095",
+    "geom:latitude":35.69095,
+    "geom:longitude":37.3015,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zahir al Ward",
+    "gn:country_code":"SY",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340119,
+    "gn:latitude":35.69095,
+    "gn:longitude":37.3015,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Zah\u012br al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u064a\u0631 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Zah\u012br al Ward"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340119
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"78d2eb2760cb4fddb3193417b7bc3eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1260375223,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260375223,
+    "wof:lastmodified":1537702534,
+    "wof:name":"Zahir al Ward",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3015,
+    35.69095,
+    37.3015,
+    35.69095
+],
+  "geometry": {"coordinates":[37.3015,35.69095],"type":"Point"}
+}

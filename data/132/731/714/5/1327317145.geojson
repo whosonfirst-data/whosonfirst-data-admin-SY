@@ -1,0 +1,74 @@
+{
+  "id": 1327317145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95037,35.03561,35.95037,35.03561",
+    "geom:latitude":35.03561,
+    "geom:longitude":35.95037,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Azzayt",
+    "gn:country_code":"SY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172035,
+    "gn:latitude":35.03561,
+    "gn:longitude":35.95037,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Azzayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Aazze\u00efte",
+        "\u2018Azzayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172035
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b25d8b83d90bb8977b136bc3fdf4c109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1327317145,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327317145,
+    "wof:lastmodified":1537702243,
+    "wof:name":"`Azzayt",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95037,
+    35.03561,
+    35.95037,
+    35.03561
+],
+  "geometry": {"coordinates":[35.95037,35.03561],"type":"Point"}
+}

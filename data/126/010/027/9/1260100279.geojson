@@ -1,0 +1,84 @@
+{
+  "id": 1260100279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45491,33.39671,36.45491,33.39671",
+    "geom:latitude":33.39671,
+    "geom:longitude":36.45491,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Ghizlaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173869,
+    "gn:latitude":33.39671,
+    "gn:longitude":36.45491,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Al Ghizl\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0632\u0644\u0627\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0632\u0644\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhozlaniye",
+        "Al Ghuzl\u0101n\u012byah",
+        "El Ghuzl\u0101n\u012bye",
+        "Rhozlany\u00e9",
+        "Ghuzl\u0101n\u012byah",
+        "Ghazlaniye",
+        "Gozlani\u00e9",
+        "Al Ghizl\u0101n\u012byah",
+        "Ghizl\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173869
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cd55dcb9814730d3f2dda42ba225e9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1260100279,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1260100279,
+    "wof:lastmodified":1537702372,
+    "wof:name":"Al Ghizlaniyah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45491,
+    33.39671,
+    36.45491,
+    33.39671
+],
+  "geometry": {"coordinates":[36.45491,33.39671],"type":"Point"}
+}

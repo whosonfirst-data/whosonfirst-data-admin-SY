@@ -1,0 +1,80 @@
+{
+  "id": 1276331757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02751,32.71084,36.02751,32.71084",
+    "geom:latitude":32.71084,
+    "geom:longitude":36.02751,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Muzayrib",
+    "gn:country_code":"SY",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":166503,
+    "gn:latitude":32.71084,
+    "gn:longitude":36.02751,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Muzayr\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u064a\u0631\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Bouta",
+        "Mezerib",
+        "Muzeir\u012bb",
+        "Mz\u00e9rib",
+        "Mza\u00efr\u00eeb",
+        "Muzayr\u012bb",
+        "Al Muzayr\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166503,
+        "wk:page":"Muzayrib"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d05c890d9442e76a4215e2b0fd7663a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1276331757,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276331757,
+    "wof:lastmodified":1537701862,
+    "wof:name":"Al Muzayrib",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02751,
+    32.71084,
+    36.02751,
+    32.71084
+],
+  "geometry": {"coordinates":[36.02751,32.71084],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260186351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.59924,36.94738,41.59924,36.94738",
+    "geom:latitude":36.94738,
+    "geom:longitude":41.59924,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nabu`ah",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166472,
+    "gn:latitude":36.94738,
+    "gn:longitude":41.59924,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"N\u0101b\u016b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0628\u0648\u0639\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "N\u0101b\u016b\u2018ah"
+    ],
+    "name:und_x_variant":[
+        "N\u0101b\u016b\u2018\u0101",
+        "N\u00e2bo\u00fba\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166472
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e9819c553c195ee895d751e0b042813d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1260186351,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1260186351,
+    "wof:lastmodified":1537701861,
+    "wof:name":"Nabu`ah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.59924,
+    36.94738,
+    41.59924,
+    36.94738
+],
+  "geometry": {"coordinates":[41.59924,36.94738],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343264881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15905,35.54482,36.15905,35.54482",
+    "geom:latitude":35.54482,
+    "geom:longitude":36.15905,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zunbura",
+    "gn:country_code":"SY",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162383,
+    "gn:latitude":35.54482,
+    "gn:longitude":36.15905,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Zunb\u016br\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Zunb\u016br\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0646\u0628\u0648\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zannbo\u00fbra",
+        "Zunb\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162383
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"10e195ab449df1d3328b4686d6a9e1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343264881,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343264881,
+    "wof:lastmodified":1537701587,
+    "wof:name":"Zunbura",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15905,
+    35.54482,
+    36.15905,
+    35.54482
+],
+  "geometry": {"coordinates":[36.15905,35.54482],"type":"Point"}
+}

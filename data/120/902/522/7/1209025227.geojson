@@ -1,0 +1,73 @@
+{
+  "id": 1209025227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70676,36.72646,37.70676,36.72646",
+    "geom:latitude":36.72646,
+    "geom:longitude":37.70676,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Fursan",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164152,
+    "gn:latitude":36.72646,
+    "gn:longitude":37.70676,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Furs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sib\u0101h\u012bl\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0631\u0633\u0627\u0646",
+        "\u0633\u0628\u0627\u0647\u064a\u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Spahilar",
+        "Al Furs\u0101n",
+        "Sib\u0101h\u012blar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164152
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0bf52258910c935a4834a87f24c06fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209025227
+        }
+    ],
+    "wof:id":1209025227,
+    "wof:lastmodified":1537701718,
+    "wof:name":"Al Fursan",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70676,
+    36.72646,
+    37.70676,
+    36.72646
+],
+  "geometry": {"coordinates":[37.70676,36.72646],"type":"Point"}
+}

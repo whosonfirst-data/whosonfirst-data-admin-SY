@@ -1,0 +1,75 @@
+{
+  "id": 1226522441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83621,35.47826,36.83621,35.47826",
+    "geom:latitude":35.47826,
+    "geom:longitude":36.83621,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khuwayn al Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167891,
+    "gn:latitude":35.47826,
+    "gn:longitude":36.83621,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Khuwayn al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u064a\u0646 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khoua\u00efne el K\u00e9b\u00eer",
+        "Khouaine el K\u00e9b\u00eer",
+        "Khuwayn al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167891
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3c2ba8d6c65654ee2ff8241722168241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1226522441,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226522441,
+    "wof:lastmodified":1537701953,
+    "wof:name":"Khuwayn al Kabir",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83621,
+    35.47826,
+    36.83621,
+    35.47826
+],
+  "geometry": {"coordinates":[36.83621,35.47826],"type":"Point"}
+}

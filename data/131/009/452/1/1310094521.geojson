@@ -1,0 +1,77 @@
+{
+  "id": 1310094521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04593,34.98537,37.04593,34.98537",
+    "geom:latitude":34.98537,
+    "geom:longitude":37.04593,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Si`in al Qibli",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164856,
+    "gn:latitude":34.98537,
+    "gn:longitude":37.04593,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Si\u2018in al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0639\u0646 \u0627\u0644\u0642\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Saane el Qibli",
+        "S\u00e2ne el Qibli",
+        "\u015e\u0101n al Qlbl\u012b",
+        "Si\u2018in al Qibl\u012b",
+        "Sa\u2018n al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164856
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"231d053a3f47bb540efe59d7df4ef7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310094521,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310094521,
+    "wof:lastmodified":1537701757,
+    "wof:name":"Si`in al Qibli",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04593,
+    34.98537,
+    37.04593,
+    34.98537
+],
+  "geometry": {"coordinates":[37.04593,34.98537],"type":"Point"}
+}

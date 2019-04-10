@@ -1,0 +1,73 @@
+{
+  "id": 1276538577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06589,35.81896,38.06589,35.81896",
+    "geom:latitude":35.81896,
+    "geom:longitude":38.06589,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat al Hassan",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6821,
+    "gn:latitude":35.81896,
+    "gn:longitude":38.06589,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khirbat al \u1e28ass\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062d\u0633\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al \u1e28ass\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6821
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"404a019f4a634b43ebc30517bdb7a458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276538577,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276538577,
+    "wof:lastmodified":1537701556,
+    "wof:name":"Khirbat al Hassan",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06589,
+    35.81896,
+    38.06589,
+    35.81896
+],
+  "geometry": {"coordinates":[38.06589,35.81896],"type":"Point"}
+}

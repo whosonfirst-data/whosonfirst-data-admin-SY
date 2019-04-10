@@ -1,0 +1,71 @@
+{
+  "id": 1209119897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.19467,36.9076,41.19467,36.9076",
+    "geom:latitude":36.9076,
+    "geom:longitude":41.19467,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dallawiyah Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170935,
+    "gn:latitude":36.9076,
+    "gn:longitude":41.19467,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Dall\u0101w\u012byah \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0627\u0648\u064a\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Dall\u0101w\u012byah a\u015f \u015eagh\u012brah"
+    ],
+    "name:und_x_variant":[
+        "Dallaou\u00eey\u00e9 S\u00e9rh\u00eer",
+        "Dall\u0101w\u012byah \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170935
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3f86b4a2fda38e382a5bfeb9a07b8133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209119897
+        }
+    ],
+    "wof:id":1209119897,
+    "wof:lastmodified":1537702158,
+    "wof:name":"Dallawiyah Saghirah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.19467,
+    36.9076,
+    41.19467,
+    36.9076
+],
+  "geometry": {"coordinates":[41.19467,36.9076],"type":"Point"}
+}

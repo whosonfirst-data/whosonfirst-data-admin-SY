@@ -1,0 +1,73 @@
+{
+  "id": 1344247813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3557,33.49293,36.3557,33.49293",
+    "geom:latitude":33.49293,
+    "geom:longitude":36.3557,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Haramayn",
+    "gn:country_code":"SY",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411870,
+    "gn:latitude":33.49293,
+    "gn:longitude":36.3557,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Al \u1e28aramayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0645\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aramayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411870
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70d5d1f484639399e703574f89a4096b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1344247813,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1344247813,
+    "wof:lastmodified":1537702560,
+    "wof:name":"Al Haramayn",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3557,
+    33.49293,
+    36.3557,
+    33.49293
+],
+  "geometry": {"coordinates":[36.3557,33.49293],"type":"Point"}
+}

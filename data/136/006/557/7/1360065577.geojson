@@ -1,0 +1,73 @@
+{
+  "id": 1360065577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01556,35.61726,37.01556,35.61726",
+    "geom:latitude":35.61726,
+    "geom:longitude":37.01556,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Farijah",
+    "gn:country_code":"SY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339960,
+    "gn:latitude":35.61726,
+    "gn:longitude":37.01556,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Far\u012bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Far\u012bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339960
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9c712804545f26f4f528a318d8804eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1360065577,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360065577,
+    "wof:lastmodified":1537702532,
+    "wof:name":"Farijah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01556,
+    35.61725999999999,
+    37.01556,
+    35.61725999999999
+],
+  "geometry": {"coordinates":[37.01556,35.61725999999999],"type":"Point"}
+}

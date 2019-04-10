@@ -1,0 +1,78 @@
+{
+  "id": 1344171363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98235,36.81592,41.98235,36.81592",
+    "geom:latitude":36.81592,
+    "geom:longitude":41.98235,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall as Sayra'",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386127,
+    "gn:latitude":36.81592,
+    "gn:longitude":41.98235,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Tall as Sayr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u064a\u0631\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0633\u064a\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Tall as Sarah",
+        "Tall as Sayr\u0101\u2019",
+        "Tall Sayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386127
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"98c8d4934cdbd5d19549154028b0ed0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1344171363,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1344171363,
+    "wof:lastmodified":1537702430,
+    "wof:name":"Tall as Sayra'",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98235,
+    36.81592,
+    41.98235,
+    36.81592
+],
+  "geometry": {"coordinates":[41.98235,36.81592],"type":"Point"}
+}

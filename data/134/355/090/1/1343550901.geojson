@@ -1,0 +1,80 @@
+{
+  "id": 1343550901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47808,36.4813,37.47808,36.4813",
+    "geom:latitude":36.4813,
+    "geom:longitude":37.47808,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Susanbat",
+    "gn:country_code":"SY",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163877,
+    "gn:latitude":36.4813,
+    "gn:longitude":37.47808,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"S\u016bsanb\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0633\u0646\u0628\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0633\u0646\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Soussoum Baat",
+        "Soussembate",
+        "Soussennb\u00e2te",
+        "S\u016bsanb\u0101t",
+        "S\u016bsanb\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163877
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70a88fe1aa24be02e0bf518c0b5c94aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343550901,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343550901,
+    "wof:lastmodified":1537701702,
+    "wof:name":"Susanbat",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47808,
+    36.4813,
+    37.47808,
+    36.4813
+],
+  "geometry": {"coordinates":[37.47808,36.4813],"type":"Point"}
+}

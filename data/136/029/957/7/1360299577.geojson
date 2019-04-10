@@ -1,0 +1,70 @@
+{
+  "id": 1360299577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45278,36.275,40.45278,36.275",
+    "geom:latitude":36.275,
+    "geom:longitude":40.45278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanqan",
+    "gn:country_code":"SY",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420834,
+    "gn:latitude":36.275,
+    "gn:longitude":40.45278,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Sanq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420834
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"37aef49aa51f2138d5b343833c5daaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1360299577,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360299577,
+    "wof:lastmodified":1537702451,
+    "wof:name":"Sanqan",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45278,
+    36.275,
+    40.45278,
+    36.275
+],
+  "geometry": {"coordinates":[40.45278,36.275],"type":"Point"}
+}

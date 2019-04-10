@@ -1,0 +1,73 @@
+{
+  "id": 1243153217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16036,35.00349,38.16036,35.00349",
+    "geom:latitude":35.00349,
+    "geom:longitude":38.16036,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bir ar Rahawi",
+    "gn:country_code":"SY",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347207,
+    "gn:latitude":35.00349,
+    "gn:longitude":38.16036,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"B\u012br ar Ra\u1e29\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0631\u062d\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "B\u012br ar Ra\u1e29\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347207
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8daaa152ff310c02e4346f67d75217f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1243153217,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243153217,
+    "wof:lastmodified":1537702553,
+    "wof:name":"Bir ar Rahawi",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16036,
+    35.00349,
+    38.16036,
+    35.00349
+],
+  "geometry": {"coordinates":[38.16036,35.00349],"type":"Point"}
+}

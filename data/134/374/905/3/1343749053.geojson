@@ -1,0 +1,80 @@
+{
+  "id": 1343749053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74816,35.45846,36.74816,35.45846",
+    "geom:latitude":35.45846,
+    "geom:longitude":36.74816,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"At Tamani`ah",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172347,
+    "gn:latitude":35.45846,
+    "gn:longitude":36.74816,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"At Tam\u0101ni\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0627\u0646\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0645\u0627\u0646\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tam\u00e2na",
+        "Tam\u00e2na\u00e2",
+        "Tam\u00e2nat",
+        "At Tam\u0101ni\u2018ah",
+        "Tam\u0101ni\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172347
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"da825c26a27d2b1fc593ab1b95d7efeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1343749053,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343749053,
+    "wof:lastmodified":1537702268,
+    "wof:name":"At Tamani`ah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74816,
+    35.45845999999999,
+    36.74816,
+    35.45845999999999
+],
+  "geometry": {"coordinates":[36.74816,35.45845999999999],"type":"Point"}
+}

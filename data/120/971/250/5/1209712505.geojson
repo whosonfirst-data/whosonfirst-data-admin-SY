@@ -1,0 +1,76 @@
+{
+  "id": 1209712505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45333,35.18474,40.45333,35.18474",
+    "geom:latitude":35.18474,
+    "geom:longitude":40.45333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Az Zib",
+    "gn:country_code":"SY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172030,
+    "gn:latitude":35.18474,
+    "gn:longitude":40.45333,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Az Z\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az Z\u012bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Az Zieb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172030
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6fa734fa6e3c1d7e688fc3af8d3aa003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1209712505,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1209712505,
+    "wof:lastmodified":1537702243,
+    "wof:name":"Az Zib",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45333,
+    35.18474000000001,
+    40.45333,
+    35.18474000000001
+],
+  "geometry": {"coordinates":[40.45333,35.18474000000001],"type":"Point"}
+}

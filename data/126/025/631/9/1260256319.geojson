@@ -1,0 +1,74 @@
+{
+  "id": 1260256319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03205,35.20542,36.03205,35.20542",
+    "geom:latitude":35.20542,
+    "geom:longitude":36.03205,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bustan al Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171120,
+    "gn:latitude":35.20542,
+    "gn:longitude":36.03205,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bust\u0101n al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Boust\u00e2ne el Hamm\u00e2m",
+        "Bust\u0101n al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171120
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f6aed5b8b56196c299258e918bf277e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1260256319,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260256319,
+    "wof:lastmodified":1537702171,
+    "wof:name":"Bustan al Hammam",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03205,
+    35.20542000000001,
+    36.03205,
+    35.20542000000001
+],
+  "geometry": {"coordinates":[36.03205,35.20542000000001],"type":"Point"}
+}

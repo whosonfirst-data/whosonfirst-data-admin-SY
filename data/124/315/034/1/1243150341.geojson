@@ -1,0 +1,77 @@
+{
+  "id": 1243150341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02362,34.60752,37.02362,34.60752",
+    "geom:latitude":34.60752,
+    "geom:longitude":37.02362,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Malahah",
+    "gn:country_code":"SY",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374599,
+    "gn:latitude":34.60752,
+    "gn:longitude":37.02362,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Al Mal\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u062d\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0644\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mal\u0101\u1e29ah",
+        "Al Mal\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374599
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d62f93cbae45a8ed6eb9e378190fe00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1243150341,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243150341,
+    "wof:lastmodified":1537702555,
+    "wof:name":"Al Malahah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02362,
+    34.60752,
+    37.02362,
+    34.60752
+],
+  "geometry": {"coordinates":[37.02362,34.60752],"type":"Point"}
+}

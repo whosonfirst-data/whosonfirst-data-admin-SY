@@ -1,0 +1,77 @@
+{
+  "id": 1226416273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96594,35.09358,35.96594,35.09358",
+    "geom:latitude":35.09358,
+    "geom:longitude":35.96594,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Habbah",
+    "gn:country_code":"SY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169615,
+    "gn:latitude":35.09358,
+    "gn:longitude":35.96594,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28abbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "H\u00e9bo"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28abbah",
+        "Khubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169615
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bffbbe1a9d22159db939c77c8bdac504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226416273,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226416273,
+    "wof:lastmodified":1537702077,
+    "wof:name":"Habbah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96594,
+    35.09358,
+    35.96594,
+    35.09358
+],
+  "geometry": {"coordinates":[35.96594,35.09358],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360065587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72203,35.78191,36.72203,35.78191",
+    "geom:latitude":35.78191,
+    "geom:longitude":36.72203,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Battikh",
+    "gn:country_code":"SY",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168711,
+    "gn:latitude":35.78191,
+    "gn:longitude":36.72203,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr Ba\u0163\u0163\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0628\u0637\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Kafer Batt\u00eekh",
+        "Kafr Ba\u0163\u0163\u012bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168711,
+        "wk:page":"Kafr_Battikh"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7f6b57e02c6c0610adf76044caffe174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1360065587,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360065587,
+    "wof:lastmodified":1537702016,
+    "wof:name":"Kafr Battikh",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72203,
+    35.78191,
+    36.72203,
+    35.78191
+],
+  "geometry": {"coordinates":[36.72203,35.78191],"type":"Point"}
+}

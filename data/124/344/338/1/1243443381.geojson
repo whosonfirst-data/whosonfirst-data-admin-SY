@@ -1,0 +1,83 @@
+{
+  "id": 1243443381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69541,35.1902,36.69541,35.1902",
+    "geom:latitude":35.1902,
+    "geom:longitude":36.69541,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bilhusayn al Wala",
+    "gn:country_code":"SY",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4427,
+    "gn:latitude":35.1902,
+    "gn:longitude":36.69541,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bil\u1e29usayn al Wal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062d\u0633\u064a\u0646 \u0627\u0644\u0648\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062d \u0627\u0644\u0623\u0648\u0644\u0649",
+        "\u0628\u0644\u062d\u0633\u064a\u0646 \u0627\u0644\u0623\u0648\u0644",
+        "\u0628\u0644\u062d\u0633\u064a\u0646 \u0627\u0644\u0623\u0648\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Bil\u1e29usayn al Wal\u0101",
+        "Bal\u1e29as\u012bn al Wal\u0101",
+        "Bala\u1e29 al \u016al\u00e1",
+        "Bil\u1e29usayn al Awwal",
+        "Balhass\u00eene el Oula",
+        "Bil\u1e29usayn al \u016al\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4427
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2e71f4d396d6dadab7b64b308aa736d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1243443381,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243443381,
+    "wof:lastmodified":1537701541,
+    "wof:name":"Bilhusayn al Wala",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69541,
+    35.1902,
+    36.69541,
+    35.1902
+],
+  "geometry": {"coordinates":[36.69541,35.1902],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327118169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43861,35.14724,37.43861,35.14724",
+    "geom:latitude":35.14724,
+    "geom:longitude":37.43861,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall al Albawi",
+    "gn:country_code":"SY",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163696,
+    "gn:latitude":35.14724,
+    "gn:longitude":37.43861,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall al Alb\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0623\u0644\u0628\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tell el Aalb\u00e2oui",
+        "Tall al \u2018Ilb\u0101w\u012b",
+        "Tall al Alb\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163696
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a7db3cde73e2d3625b3ef55557d5b2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1327118169,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327118169,
+    "wof:lastmodified":1537701686,
+    "wof:name":"Tall al Albawi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43861,
+    35.14724,
+    37.43861,
+    35.14724
+],
+  "geometry": {"coordinates":[37.43861,35.14724],"type":"Point"}
+}

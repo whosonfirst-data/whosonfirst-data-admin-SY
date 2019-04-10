@@ -1,0 +1,70 @@
+{
+  "id": 1310598109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1262,35.42479,40.1262,35.42479",
+    "geom:latitude":35.42479,
+    "geom:longitude":40.1262,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jubaylah",
+    "gn:country_code":"SY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632859,
+    "gn:latitude":35.42479,
+    "gn:longitude":40.1262,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Jubaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u064a\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632859
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2a49f563b7721543de24ab6743b9aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1310598109,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1310598109,
+    "wof:lastmodified":1537702467,
+    "wof:name":"Jubaylah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1262,
+    35.42479,
+    40.1262,
+    35.42479
+],
+  "geometry": {"coordinates":[40.1262,35.42479],"type":"Point"}
+}

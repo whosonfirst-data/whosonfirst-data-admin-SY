@@ -1,0 +1,80 @@
+{
+  "id": 1276556547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95846,35.74797,35.95846,35.74797",
+    "geom:latitude":35.74797,
+    "geom:longitude":35.95846,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shaqra",
+    "gn:country_code":"SY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164469,
+    "gn:latitude":35.74797,
+    "gn:longitude":35.95846,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Shaqr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0642\u0631\u0648\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0642\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Chakrourane",
+        "Tchaqro\u00fbr\u00e2ne",
+        "Shaqr\u016br\u0101n",
+        "Jaqr\u016br\u0101n",
+        "Shaqr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164469
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1d7f834fb909ab48212c83b35fc85fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1276556547,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276556547,
+    "wof:lastmodified":1537701735,
+    "wof:name":"Shaqra",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95845999999999,
+    35.74797,
+    35.95845999999999,
+    35.74797
+],
+  "geometry": {"coordinates":[35.95845999999999,35.74797],"type":"Point"}
+}

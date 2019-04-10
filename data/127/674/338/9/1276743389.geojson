@@ -1,0 +1,76 @@
+{
+  "id": 1276743389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57902,35.59926,36.57902,35.59926",
+    "geom:latitude":35.59926,
+    "geom:longitude":36.57902,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bsaqla",
+    "gn:country_code":"SY",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171293,
+    "gn:latitude":35.59926,
+    "gn:longitude":36.57902,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bsaql\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0642\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bsaqlah",
+        "Bsaql\u0101",
+        "Basqal\u0101",
+        "Bisaql\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171293
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2b6f13a2c69da9cb3d33ed38cffd3042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1276743389,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276743389,
+    "wof:lastmodified":1537702185,
+    "wof:name":"Bsaqla",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57902,
+    35.59926,
+    36.57902,
+    35.59926
+],
+  "geometry": {"coordinates":[36.57902,35.59926],"type":"Point"}
+}

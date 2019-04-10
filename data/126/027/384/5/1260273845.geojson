@@ -1,0 +1,73 @@
+{
+  "id": 1260273845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43413,33.42218,36.43413,33.42218",
+    "geom:latitude":33.42218,
+    "geom:longitude":36.43413,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh Qubayyah",
+    "gn:country_code":"SY",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412288,
+    "gn:latitude":33.42218,
+    "gn:longitude":36.43413,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"\u1e28awsh Qubayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0642\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh Qubayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412288
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d222e0e75d631dfc74879ca93676ce73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1260273845,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1260273845,
+    "wof:lastmodified":1537702562,
+    "wof:name":"Hawsh Qubayyah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43413,
+    33.42218,
+    36.43413,
+    33.42218
+],
+  "geometry": {"coordinates":[36.43413,33.42218],"type":"Point"}
+}

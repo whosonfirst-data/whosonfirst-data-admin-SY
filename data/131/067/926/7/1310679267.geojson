@@ -1,0 +1,70 @@
+{
+  "id": 1310679267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23185,34.6632,37.23185,34.6632",
+    "geom:latitude":34.6632,
+    "geom:longitude":37.23185,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Khulaylah",
+    "gn:country_code":"SY",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374598,
+    "gn:latitude":34.6632,
+    "gn:longitude":37.23185,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Al Khulaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374598
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4009338a40229624e236ea6c60c60455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310679267,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310679267,
+    "wof:lastmodified":1537702554,
+    "wof:name":"Al Khulaylah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23185,
+    34.6632,
+    37.23185,
+    34.6632
+],
+  "geometry": {"coordinates":[37.23185,34.6632],"type":"Point"}
+}

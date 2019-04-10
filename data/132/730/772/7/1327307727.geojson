@@ -1,0 +1,73 @@
+{
+  "id": 1327307727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9204,34.80905,35.9204,34.80905",
+    "geom:latitude":34.80905,
+    "geom:longitude":35.9204,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ad Darajat",
+    "gn:country_code":"SY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265463,
+    "gn:latitude":34.80905,
+    "gn:longitude":35.9204,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ad Daraj\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u062c\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ad Daraj\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265463
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4edd4545be7d050a05e3a2491e2dda93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1327307727,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327307727,
+    "wof:lastmodified":1537702499,
+    "wof:name":"Ad Darajat",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9204,
+    34.80905,
+    35.9204,
+    34.80905
+],
+  "geometry": {"coordinates":[35.9204,34.80905],"type":"Point"}
+}

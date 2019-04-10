@@ -1,0 +1,71 @@
+{
+  "id": 1259477813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18333,35.95,38.18333,35.95",
+    "geom:latitude":35.95,
+    "geom:longitude":38.18333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fashik",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170434,
+    "gn:latitude":35.95,
+    "gn:longitude":38.18333,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Fash\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9ch\u00eetch",
+        "Fash\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170434
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3864e83e8da49e013846486aac2fe548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259477813,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259477813,
+    "wof:lastmodified":1537702123,
+    "wof:name":"Fashik",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18333,
+    35.95,
+    38.18333,
+    35.95
+],
+  "geometry": {"coordinates":[38.18333,35.95],"type":"Point"}
+}

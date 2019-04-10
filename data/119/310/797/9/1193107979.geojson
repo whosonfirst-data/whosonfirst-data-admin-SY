@@ -1,0 +1,72 @@
+{
+  "id": 1193107979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13875,34.9837,36.13875,34.9837",
+    "geom:latitude":34.9837,
+    "geom:longitude":36.13875,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dayrunah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170756,
+    "gn:latitude":34.9837,
+    "gn:longitude":36.13875,
+    "gn:modification_date":"2011-09-28",
+    "gn:name":"Dayr\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u00efro\u00fbn\u00e9",
+        "Dayr\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170756
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3061d175683d931088d06d780314e308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1193107979,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1193107979,
+    "wof:lastmodified":1537702143,
+    "wof:name":"Dayrunah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13875,
+    34.9837,
+    36.13875,
+    34.9837
+],
+  "geometry": {"coordinates":[36.13875,34.9837],"type":"Point"}
+}

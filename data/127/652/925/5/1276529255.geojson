@@ -1,0 +1,74 @@
+{
+  "id": 1276529255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4323,34.07937,38.4323,34.07937",
+    "geom:latitude":34.07937,
+    "geom:longitude":38.4323,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Halbah",
+    "gn:country_code":"SY",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173849,
+    "gn:latitude":34.07937,
+    "gn:longitude":38.4323,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Al \u1e28albah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Halba",
+        "Al \u1e28albah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173849
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8955ac8a7db6d86d2feccf872a90c5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1276529255,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276529255,
+    "wof:lastmodified":1537702370,
+    "wof:name":"Al Halbah",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4323,
+    34.07937,
+    38.4323,
+    34.07937
+],
+  "geometry": {"coordinates":[38.4323,34.07937],"type":"Point"}
+}

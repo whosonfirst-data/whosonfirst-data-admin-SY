@@ -1,0 +1,73 @@
+{
+  "id": 1360305447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36976,33.39907,36.36976,33.39907",
+    "geom:latitude":33.39907,
+    "geom:longitude":36.36976,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kharab al Ward",
+    "gn:country_code":"SY",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412446,
+    "gn:latitude":33.39907,
+    "gn:longitude":36.36976,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Khar\u0101b al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b al Ward"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412446
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"64b0875d454eb30ddb7c3783e2779f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1360305447,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360305447,
+    "wof:lastmodified":1537702563,
+    "wof:name":"Kharab al Ward",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36976,
+    33.39907,
+    36.36976,
+    33.39907
+],
+  "geometry": {"coordinates":[36.36976,33.39907],"type":"Point"}
+}

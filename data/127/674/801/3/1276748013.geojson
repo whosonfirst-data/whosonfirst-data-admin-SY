@@ -1,0 +1,78 @@
+{
+  "id": 1276748013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04738,36.65303,37.04738,36.65303",
+    "geom:latitude":36.65303,
+    "geom:longitude":37.04738,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Kurum",
+    "gn:country_code":"SY",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162603,
+    "gn:latitude":36.65303,
+    "gn:longitude":37.04738,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Kur\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Y\u0101z\u012b B\u0101gh"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0632\u064a \u0628\u0627\u063a",
+        "\u0627\u0644\u0643\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Y\u00e2zi B\u00e2rh",
+        "Al Kur\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162603
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"01a87cba1aad59f6b7618daa5c7f76e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1276748013,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276748013,
+    "wof:lastmodified":1537701602,
+    "wof:name":"Al Kurum",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04738,
+    36.65303,
+    37.04738,
+    36.65303
+],
+  "geometry": {"coordinates":[37.04738,36.65303],"type":"Point"}
+}

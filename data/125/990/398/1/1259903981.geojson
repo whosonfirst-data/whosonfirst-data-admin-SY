@@ -1,0 +1,73 @@
+{
+  "id": 1259903981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52517,36.12443,39.52517,36.12443",
+    "geom:latitude":36.12443,
+    "geom:longitude":39.52517,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bi'r `Abar",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384461,
+    "gn:latitude":36.12443,
+    "gn:longitude":39.52517,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Bi\u2019r \u2018Ab\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bi\u2019r \u2018Ab\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0626\u0631 \u0639\u0628\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384461
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72ff2d553f8d2f3b85f2e33159c9a750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1259903981,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259903981,
+    "wof:lastmodified":1537702557,
+    "wof:name":"Bi'r `Abar",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52517,
+    36.12443,
+    39.52517,
+    36.12443
+],
+  "geometry": {"coordinates":[39.52517,36.12443],"type":"Point"}
+}

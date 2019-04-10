@@ -1,0 +1,75 @@
+{
+  "id": 1293102053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09384,35.58956,36.09384,35.58956",
+    "geom:latitude":35.58956,
+    "geom:longitude":36.09384,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ard al Wata",
+    "gn:country_code":"SY",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173028,
+    "gn:latitude":35.58956,
+    "gn:longitude":36.09384,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ar\u1e11 al Wa\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0648\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ard el Ouata",
+        "Ard Ouata",
+        "Ar\u1e11 al Wa\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173028
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8738e7fd55958687b3312da5f7043e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293102053,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293102053,
+    "wof:lastmodified":1537702306,
+    "wof:name":"Ard al Wata",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09384,
+    35.58956,
+    36.09384,
+    35.58956
+],
+  "geometry": {"coordinates":[36.09384,35.58956],"type":"Point"}
+}

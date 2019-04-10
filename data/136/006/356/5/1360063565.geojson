@@ -1,0 +1,74 @@
+{
+  "id": 1360063565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90948,34.32465,36.90948,34.32465",
+    "geom:latitude":34.32465,
+    "geom:longitude":36.90948,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qambrisah",
+    "gn:country_code":"SY",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166162,
+    "gn:latitude":34.32465,
+    "gn:longitude":36.90948,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Qambr\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u0628\u0631\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qambr\u00eess\u00e9",
+        "Qambr\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166162
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4fac77d4dc06f04a5726915e9bf1f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1360063565,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360063565,
+    "wof:lastmodified":1537701844,
+    "wof:name":"Qambrisah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90948,
+    34.32465,
+    36.90948,
+    34.32465
+],
+  "geometry": {"coordinates":[36.90948,34.32465],"type":"Point"}
+}

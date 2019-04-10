@@ -1,0 +1,73 @@
+{
+  "id": 1293090213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26852,35.56306,36.26852,35.56306",
+    "geom:latitude":35.56306,
+    "geom:longitude":36.26852,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qatrat ar Rayhan",
+    "gn:country_code":"SY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556297,
+    "gn:latitude":35.56306,
+    "gn:longitude":36.26852,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qa\u0163rat ar Ray\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0631\u0629 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qa\u0163rat ar Ray\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556297
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"860e013b2a8492ad9e51ba88722f6de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1293090213,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293090213,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Qatrat ar Rayhan",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26852,
+    35.56306,
+    36.26852,
+    35.56306
+],
+  "geometry": {"coordinates":[36.26852,35.56306],"type":"Point"}
+}

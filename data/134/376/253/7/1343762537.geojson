@@ -1,0 +1,70 @@
+{
+  "id": 1343762537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69938,35.83234,38.69938,35.83234",
+    "geom:latitude":35.83234,
+    "geom:longitude":38.69938,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hunaydah",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852,
+    "gn:latitude":35.83234,
+    "gn:longitude":38.69938,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Hunaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u064a\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6e450a2ec3481b5d654f90e8b6de74fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1343762537,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343762537,
+    "wof:lastmodified":1537701558,
+    "wof:name":"Hunaydah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69938,
+    35.83234,
+    38.69938,
+    35.83234
+],
+  "geometry": {"coordinates":[38.69938,35.83234],"type":"Point"}
+}

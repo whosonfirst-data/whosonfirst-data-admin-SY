@@ -1,0 +1,75 @@
+{
+  "id": 1343359561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.74092,36.6552,38.74092,36.6552",
+    "geom:latitude":36.6552,
+    "geom:longitude":38.74092,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hawalik",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169765,
+    "gn:latitude":36.6552,
+    "gn:longitude":38.74092,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u1e28aw\u0101l\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0644\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Hou\u00e2lik",
+        "\u1e28aw\u0101lik",
+        "\u1e28aw\u0101l\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169765
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3415e22238ffd9587a5aae8aa437996a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343359561,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343359561,
+    "wof:lastmodified":1537702086,
+    "wof:name":"Hawalik",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.74092,
+    36.6552,
+    38.74092,
+    36.6552
+],
+  "geometry": {"coordinates":[38.74092,36.6552],"type":"Point"}
+}

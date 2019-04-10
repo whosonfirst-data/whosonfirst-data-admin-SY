@@ -1,0 +1,73 @@
+{
+  "id": 1242767215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13335,36.07033,37.13335,36.07033",
+    "geom:latitude":36.07033,
+    "geom:longitude":37.13335,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qaddarah",
+    "gn:country_code":"SY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7678141,
+    "gn:latitude":36.07033,
+    "gn:longitude":37.13335,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qadd\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qadd\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7678141
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"54b7f29ea5ff4a35446b4da79b0175d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242767215,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242767215,
+    "wof:lastmodified":1537702472,
+    "wof:name":"Qaddarah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13335,
+    36.07033,
+    37.13335,
+    36.07033
+],
+  "geometry": {"coordinates":[37.13335,36.07033],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326727209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70284,35.52972,40.70284,35.52972",
+    "geom:latitude":35.52972,
+    "geom:longitude":40.70284,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jasim",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275556,
+    "gn:latitude":35.52972,
+    "gn:longitude":40.70284,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u0101sim"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275556
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ae86046a9e11c419b18a0ebeaa4f966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1326727209,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1326727209,
+    "wof:lastmodified":1537702519,
+    "wof:name":"Jasim",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70284,
+    35.52972000000001,
+    40.70284,
+    35.52972000000001
+],
+  "geometry": {"coordinates":[40.70284,35.52972000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276966393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36175,35.90959,36.36175,35.90959",
+    "geom:latitude":35.90959,
+    "geom:longitude":36.36175,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jubb Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554917,
+    "gn:latitude":35.90959,
+    "gn:longitude":36.36175,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Jubb Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jubb Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554917
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f37130a7207c665b49d2684e5c6b6ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276966393,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276966393,
+    "wof:lastmodified":1537702634,
+    "wof:name":"Jubb Gharbi",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36175,
+    35.90959,
+    36.36175,
+    35.90959
+],
+  "geometry": {"coordinates":[36.36175,35.90959],"type":"Point"}
+}

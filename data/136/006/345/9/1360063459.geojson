@@ -1,0 +1,76 @@
+{
+  "id": 1360063459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52188,34.70972,36.52188,34.70972",
+    "geom:latitude":34.70972,
+    "geom:longitude":36.52188,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm al `Izam",
+    "gn:country_code":"SY",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162997,
+    "gn:latitude":34.70972,
+    "gn:longitude":36.52188,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Umm al \u2018Iz\u0327\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0638\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Oum ed Da\u00e2m",
+        "Oumm ed Da\u00e2m",
+        "Oumm el Azam",
+        "Umm al \u2018Iz\u0327\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162997
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"baa69bc5973a9dcf03288dc9d18e9a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1360063459,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360063459,
+    "wof:lastmodified":1537701629,
+    "wof:name":"Umm al `Izam",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52188,
+    34.70972,
+    36.52188,
+    34.70972
+],
+  "geometry": {"coordinates":[36.52188,34.70972],"type":"Point"}
+}

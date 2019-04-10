@@ -1,0 +1,73 @@
+{
+  "id": 1209510445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66838,35.01146,36.66838,35.01146",
+    "geom:latitude":35.01146,
+    "geom:longitude":36.66838,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Birayn",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171407,
+    "gn:latitude":35.01146,
+    "gn:longitude":36.66838,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"B\u012brayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u012br\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u012brayn",
+        "Birein",
+        "B\u00eer\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171407,
+        "wk:page":"Birin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72909fa709dbceb3887958c9753a9953",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209510445
+        }
+    ],
+    "wof:id":1209510445,
+    "wof:lastmodified":1537702196,
+    "wof:name":"Birayn",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66838,
+    35.01146,
+    36.66838,
+    35.01146
+],
+  "geometry": {"coordinates":[36.66838,35.01146],"type":"Point"}
+}

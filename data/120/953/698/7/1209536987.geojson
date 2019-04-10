@@ -1,0 +1,67 @@
+{
+  "id": 1209536987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79931,35.90318,39.79931,35.90318",
+    "geom:latitude":35.90318,
+    "geom:longitude":39.79931,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rawdah",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":4174,
+    "gn:latitude":35.90318,
+    "gn:longitude":39.79931,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4174
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e62459b942ec04d25639e371dd95622f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209536987
+        }
+    ],
+    "wof:id":1209536987,
+    "wof:lastmodified":1537701536,
+    "wof:name":"Rawdah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79931,
+    35.90318,
+    39.79931,
+    35.90318
+],
+  "geometry": {"coordinates":[39.79931,35.90318],"type":"Point"}
+}

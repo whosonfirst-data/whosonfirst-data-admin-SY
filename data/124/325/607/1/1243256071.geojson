@@ -1,0 +1,82 @@
+{
+  "id": 1243256071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26685,33.11076,36.26685,33.11076",
+    "geom:latitude":33.11076,
+    "geom:longitude":36.26685,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jibab",
+    "gn:country_code":"SY",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173699,
+    "gn:latitude":33.11076,
+    "gn:longitude":36.26685,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Jib\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jib\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628\u0627\u0628"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0431\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Al Jib\u0101b",
+        "Dj\u00e9bab",
+        "Jebab",
+        "Jab\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173699
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2d55d8c36deda9b88b6213230125069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1243256071,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1243256071,
+    "wof:lastmodified":1537702356,
+    "wof:name":"Jibab",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26685,
+    33.11076,
+    36.26685,
+    33.11076
+],
+  "geometry": {"coordinates":[36.26685,33.11076],"type":"Point"}
+}

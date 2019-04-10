@@ -1,0 +1,74 @@
+{
+  "id": 1293384533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87245,35.98221,36.87245,35.98221",
+    "geom:latitude":35.98221,
+    "geom:longitude":36.87245,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb Ka's",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168924,
+    "gn:latitude":35.98221,
+    "gn:longitude":36.87245,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Jubb Ka\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0643\u0623\u0633"
+    ],
+    "name:und_x_variant":[
+        "Joubb K\u00e2s",
+        "Jubb Ka\u2019s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168924
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"474a81251decba69fd6a8f22fc279f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293384533,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293384533,
+    "wof:lastmodified":1537702032,
+    "wof:name":"Jubb Ka's",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87245,
+    35.98220999999999,
+    36.87245,
+    35.98220999999999
+],
+  "geometry": {"coordinates":[36.87245,35.98220999999999],"type":"Point"}
+}

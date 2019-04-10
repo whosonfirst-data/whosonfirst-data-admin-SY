@@ -1,0 +1,73 @@
+{
+  "id": 1293873285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.79643,35.62914,37.79643,35.62914",
+    "geom:latitude":35.62914,
+    "geom:longitude":37.79643,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al `Alqanah",
+    "gn:country_code":"SY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342248,
+    "gn:latitude":35.62914,
+    "gn:longitude":37.79643,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al \u2018Alq\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0642\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Alq\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342248
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3b8fc05c37f4e2d81cb87e2b393e1de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293873285,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293873285,
+    "wof:lastmodified":1537702545,
+    "wof:name":"Al `Alqanah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.79643,
+    35.62914,
+    37.79643,
+    35.62914
+],
+  "geometry": {"coordinates":[37.79643,35.62914],"type":"Point"}
+}

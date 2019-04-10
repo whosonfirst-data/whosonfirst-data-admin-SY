@@ -1,0 +1,67 @@
+{
+  "id": 1309715115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,35.91667,35.96667,35.91667",
+    "geom:latitude":35.91667,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qarah Dalak",
+    "gn:country_code":"SY",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4629,
+    "gn:latitude":35.91667,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qarah Dalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4629
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"793b5e422024b539881108abef953530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1309715115,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309715115,
+    "wof:lastmodified":1537059262,
+    "wof:name":"Qarah Dalak",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    35.91667,
+    35.96667,
+    35.91667
+],
+  "geometry": {"coordinates":[35.96667,35.91667],"type":"Point"}
+}

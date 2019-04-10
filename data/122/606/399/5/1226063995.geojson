@@ -1,0 +1,77 @@
+{
+  "id": 1226063995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97294,36.69471,36.97294,36.69471",
+    "geom:latitude":36.69471,
+    "geom:longitude":36.97294,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Bayya`ah",
+    "gn:country_code":"SY",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235559,
+    "gn:latitude":36.69471,
+    "gn:longitude":36.97294,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Al Bayy\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0631\u0643\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u064a\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Wayrak\u0101n",
+        "Al Bayy\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235559
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46ecc75d7ec253c64a01f7adade63ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226063995,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226063995,
+    "wof:lastmodified":1537702485,
+    "wof:name":"Al Bayya`ah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97294,
+    36.69471,
+    36.97294,
+    36.69471
+],
+  "geometry": {"coordinates":[36.97294,36.69471],"type":"Point"}
+}

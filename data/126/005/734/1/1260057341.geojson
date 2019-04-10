@@ -1,0 +1,81 @@
+{
+  "id": 1260057341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62251,36.05804,36.62251,36.05804",
+    "geom:latitude":36.05804,
+    "geom:longitude":36.62251,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arrbunah",
+    "gn:country_code":"SY",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167626,
+    "gn:latitude":36.05804,
+    "gn:longitude":36.62251,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ma\u2018arrb\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0628\u0648\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631\u0628\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maarbouni",
+        "Maarbo\u00fbn\u00e9",
+        "Marboni",
+        "Ma\u2018arb\u016bnah",
+        "Ma\u2018arrb\u016bnah",
+        "Ma\u2018rb\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167626
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1225b104f944cbd7969543b996dc1f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1260057341,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260057341,
+    "wof:lastmodified":1537701929,
+    "wof:name":"Ma`arrbunah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62251,
+    36.05804000000001,
+    36.62251,
+    36.05804000000001
+],
+  "geometry": {"coordinates":[36.62251,36.05804000000001],"type":"Point"}
+}

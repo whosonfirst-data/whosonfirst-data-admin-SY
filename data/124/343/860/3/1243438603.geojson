@@ -1,0 +1,81 @@
+{
+  "id": 1243438603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45711,36.23928,37.45711,36.23928",
+    "geom:latitude":36.23928,
+    "geom:longitude":37.45711,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Maksur",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163505,
+    "gn:latitude":36.23928,
+    "gn:longitude":37.45711,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tall Maks\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0633\u0643\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0645\u0643\u0633\u0648\u0631",
+        "\u062a\u0644\u0645\u0643\u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tell Makso\u00fbr",
+        "Tell Meksour",
+        "Tall Maks\u016br",
+        "Tallmaks\u016br",
+        "Tall Mask\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163505
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7d7eaf8f40ed49a1da361240378ca75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1243438603,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243438603,
+    "wof:lastmodified":1537701663,
+    "wof:name":"Tall Maksur",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45711,
+    36.23928,
+    37.45711,
+    36.23928
+],
+  "geometry": {"coordinates":[37.45711,36.23928],"type":"Point"}
+}

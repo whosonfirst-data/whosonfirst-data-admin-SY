@@ -1,0 +1,77 @@
+{
+  "id": 1310082733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63621,36.16512,36.63621,36.16512",
+    "geom:latitude":36.16512,
+    "geom:longitude":36.63621,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Barisha",
+    "gn:country_code":"SY",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171770,
+    "gn:latitude":36.16512,
+    "gn:longitude":36.63621,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u0101r\u012bsh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101r\u012bsh\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u064a\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bar\u00eecha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171770,
+        "wk:page":"Barisha%2C_Harem"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7727d17fb5926275eb7b64f6bf63f4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1310082733,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310082733,
+    "wof:lastmodified":1537702225,
+    "wof:name":"Barisha",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63621,
+    36.16512,
+    36.63621,
+    36.16512
+],
+  "geometry": {"coordinates":[36.63621,36.16512],"type":"Point"}
+}

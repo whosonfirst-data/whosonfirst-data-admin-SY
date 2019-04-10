@@ -1,0 +1,75 @@
+{
+  "id": 1259472155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27067,34.95674,37.27067,34.95674",
+    "geom:latitude":34.95674,
+    "geom:longitude":37.27067,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Barghutiyah",
+    "gn:country_code":"SY",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171166,
+    "gn:latitude":34.95674,
+    "gn:longitude":37.27067,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Bargh\u016bt\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u063a\u0648\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bar\u2019rho\u00fbt\u00eey\u00e9",
+        "Burgh\u016bth\u012byah",
+        "Bargh\u016bt\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171166
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df39a48ff873309a5945b63683f05882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259472155,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259472155,
+    "wof:lastmodified":1537702175,
+    "wof:name":"Barghutiyah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27067,
+    34.95674,
+    37.27067,
+    34.95674
+],
+  "geometry": {"coordinates":[37.27067,34.95674],"type":"Point"}
+}

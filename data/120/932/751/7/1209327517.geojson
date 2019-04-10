@@ -1,0 +1,73 @@
+{
+  "id": 1209327517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09522,35.46453,36.09522,35.46453",
+    "geom:latitude":35.46453,
+    "geom:longitude":36.09522,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Biraj",
+    "gn:country_code":"SY",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173955,
+    "gn:latitude":35.46453,
+    "gn:longitude":36.09522,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bir\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Br\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "Bir\u0101j",
+        "\u0628\u0631\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Br\u00e2j",
+        "Sr\u00e2j",
+        "Bj\u012bq\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173955
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1423aeec263dae283618035a8e9d675d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209327517
+        }
+    ],
+    "wof:id":1209327517,
+    "wof:lastmodified":1537702378,
+    "wof:name":"Biraj",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09522,
+    35.46453,
+    36.09522,
+    35.46453
+],
+  "geometry": {"coordinates":[36.09522,35.46453],"type":"Point"}
+}

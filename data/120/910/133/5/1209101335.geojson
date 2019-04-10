@@ -1,0 +1,69 @@
+{
+  "id": 1209101335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29099,35.49762,37.29099,35.49762",
+    "geom:latitude":35.49762,
+    "geom:longitude":37.29099,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Junaynah",
+    "gn:country_code":"SY",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168856,
+    "gn:latitude":35.49762,
+    "gn:longitude":37.29099,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Junaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jna\u00efn\u00e9",
+        "Junaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168856,
+        "wk:page":"Junaynah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d87fc0a7aa3d69eb2fa8a89d272265ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209101335
+        }
+    ],
+    "wof:id":1209101335,
+    "wof:lastmodified":1537702026,
+    "wof:name":"Junaynah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29099,
+    35.49762,
+    37.29099,
+    35.49762
+],
+  "geometry": {"coordinates":[37.29099,35.49762],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243549001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64541,36.58969,38.64541,36.58969",
+    "geom:latitude":36.58969,
+    "geom:longitude":38.64541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Raqqas Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165526,
+    "gn:latitude":36.58969,
+    "gn:longitude":38.64541,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Raqq\u0101\u015f Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u0627\u0635 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0627\u0635 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Raqq\u00e2s Taht\u00e2ni",
+        "Raqq\u0101\u015f at Ta\u1e29t\u0101n\u012b",
+        "Raqq\u0101\u015f Ta\u1e29t\u0101n\u012b",
+        "Q\u0101\u015f Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165526
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c1567594e22237b4ebdaef9f9d02bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243549001,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243549001,
+    "wof:lastmodified":1537701791,
+    "wof:name":"Raqqas Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64541,
+    36.58969,
+    38.64541,
+    36.58969
+],
+  "geometry": {"coordinates":[38.64541,36.58969],"type":"Point"}
+}

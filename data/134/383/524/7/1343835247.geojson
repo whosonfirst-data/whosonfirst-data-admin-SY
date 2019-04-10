@@ -1,0 +1,81 @@
+{
+  "id": 1343835247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42011,36.18938,36.42011,36.18938",
+    "geom:latitude":36.18938,
+    "geom:longitude":36.42011,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hayr Jamus Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169661,
+    "gn:latitude":36.18938,
+    "gn:longitude":36.42011,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u1e28ayr J\u0101m\u016bs Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0631 \u062c\u0627\u0645\u0648\u0633 \u0643\u0628\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "J\u00e2ber",
+        "Ha\u00efr J\u00e2mo\u00fbs K\u00e9b\u00eer",
+        "J\u0101bir",
+        "Heirjamous Kebir",
+        "\u1e28ayr J\u0101m\u016bs al Kab\u012br",
+        "\u1e28ayr J\u0101m\u016bs Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169661
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa47363f6e8db114869b70ecd17cd880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1343835247,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343835247,
+    "wof:lastmodified":1537702080,
+    "wof:name":"Hayr Jamus Kabir",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42011,
+    36.18938,
+    36.42011,
+    36.18938
+],
+  "geometry": {"coordinates":[36.42011,36.18938],"type":"Point"}
+}

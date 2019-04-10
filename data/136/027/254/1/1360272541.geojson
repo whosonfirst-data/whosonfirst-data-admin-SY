@@ -1,0 +1,75 @@
+{
+  "id": 1360272541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55373,35.95928,36.55373,35.95928",
+    "geom:latitude":35.95928,
+    "geom:longitude":36.55373,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"`Arshani Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172898,
+    "gn:latitude":35.95928,
+    "gn:longitude":36.55373,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u2018Arsh\u0101n\u012b Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0634\u0627\u0646\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Aarch\u00e2ni Taht\u00e2ni",
+        "\u2018Arsh\u0101n\u012b at Ta\u1e29t\u0101n\u012b",
+        "\u2018Arsh\u0101n\u012b Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172898
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1378f88f4ca88ac91211d0d65735e2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1360272541,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360272541,
+    "wof:lastmodified":1537702297,
+    "wof:name":"`Arshani Tahtani",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55373,
+    35.95928,
+    36.55373,
+    35.95928
+],
+  "geometry": {"coordinates":[36.55373,35.95928],"type":"Point"}
+}

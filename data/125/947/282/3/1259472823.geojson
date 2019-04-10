@@ -1,0 +1,75 @@
+{
+  "id": 1259472823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32899,36.48757,38.32899,36.48757",
+    "geom:latitude":36.48757,
+    "geom:longitude":38.32899,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Muwaylih",
+    "gn:country_code":"SY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173399,
+    "gn:latitude":36.48757,
+    "gn:longitude":38.32899,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Al Muwayli\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u064a\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "El Moua\u00efleh",
+        "El Moue\u00eflih",
+        "Al Muwayli\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173399
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4f3c10d876b39f35e7bc2a4cfe50b9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259472823,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259472823,
+    "wof:lastmodified":1537702330,
+    "wof:name":"Al Muwaylih",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32899000000001,
+    36.48757,
+    38.32899000000001,
+    36.48757
+],
+  "geometry": {"coordinates":[38.32899000000001,36.48757],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259885831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79394,36.60857,38.79394,36.60857",
+    "geom:latitude":36.60857,
+    "geom:longitude":38.79394,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Khunayzah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174436,
+    "gn:latitude":36.60857,
+    "gn:longitude":38.79394,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Ab\u016b Khunayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u062e\u0646\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abou Khne\u00efza",
+        "Ab\u016b Khunayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174436
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42c564dfaf3c371609301771df174abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1259885831,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259885831,
+    "wof:lastmodified":1537702408,
+    "wof:name":"Abu Khunayzah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79394,
+    36.60857,
+    38.79394,
+    36.60857
+],
+  "geometry": {"coordinates":[38.79394,36.60857],"type":"Point"}
+}

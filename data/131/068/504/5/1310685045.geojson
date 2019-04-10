@@ -1,0 +1,73 @@
+{
+  "id": 1310685045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69499,35.31575,36.69499,35.31575",
+    "geom:latitude":35.31575,
+    "geom:longitude":36.69499,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buwaydah",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556207,
+    "gn:latitude":35.31575,
+    "gn:longitude":36.69499,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Buway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556207
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dd5bb362a0ee3307ef5060a31b34f323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310685045,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310685045,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Buwaydah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69499,
+    35.31575,
+    36.69499,
+    35.31575
+],
+  "geometry": {"coordinates":[36.69499,35.31575],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259774131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15787,33.8104,36.15787,33.8104",
+    "geom:latitude":33.8104,
+    "geom:longitude":36.15787,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sirghaya",
+    "gn:country_code":"SY",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":164083,
+    "gn:latitude":33.8104,
+    "gn:longitude":36.15787,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Sirgh\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u063a\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Serrh\u00e2ya",
+        "Serghaya",
+        "Sirgaya",
+        "Sirgh\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164083,
+        "wk:page":"Serghaya"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"644770bb1ebb7b05903ecf33fdfa8fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1259774131,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259774131,
+    "wof:lastmodified":1537701715,
+    "wof:name":"Sirghaya",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15787,
+    33.8104,
+    36.15787,
+    33.8104
+],
+  "geometry": {"coordinates":[36.15787,33.8104],"type":"Point"}
+}

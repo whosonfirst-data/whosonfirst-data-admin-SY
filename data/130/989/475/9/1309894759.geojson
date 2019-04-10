@@ -1,0 +1,73 @@
+{
+  "id": 1309894759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01497,35.35201,37.01497,35.35201",
+    "geom:latitude":35.35201,
+    "geom:longitude":37.01497,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kikiyah",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340601,
+    "gn:latitude":35.35201,
+    "gn:longitude":37.01497,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"K\u012bk\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0643\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u012bk\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340601
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2943f8dfba3c2a46b7771325c346bbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1309894759,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309894759,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Kikiyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01497,
+    35.35201,
+    37.01497,
+    35.35201
+],
+  "geometry": {"coordinates":[37.01497,35.35201],"type":"Point"}
+}

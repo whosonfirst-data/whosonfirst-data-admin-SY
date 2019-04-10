@@ -1,0 +1,73 @@
+{
+  "id": 1226557625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65539,36.24449,40.65539,36.24449",
+    "geom:latitude":36.24449,
+    "geom:longitude":40.65539,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rujmat Habs",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420910,
+    "gn:latitude":36.24449,
+    "gn:longitude":40.65539,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rujmat \u1e28abs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645\u0629 \u062d\u0628\u0633"
+    ],
+    "name:und_x_variant":[
+        "Rujmat \u1e28abs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420910
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"069f12529225325a0cb891fbc45dc5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226557625,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226557625,
+    "wof:lastmodified":1537702455,
+    "wof:name":"Rujmat Habs",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65539,
+    36.24449,
+    40.65539,
+    36.24449
+],
+  "geometry": {"coordinates":[40.65539,36.24449],"type":"Point"}
+}

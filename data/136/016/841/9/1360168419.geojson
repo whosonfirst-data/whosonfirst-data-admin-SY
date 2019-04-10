@@ -1,0 +1,75 @@
+{
+  "id": 1360168419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86109,35.38724,36.86109,35.38724",
+    "geom:latitude":35.38724,
+    "geom:longitude":36.86109,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Umm Haratayn",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162914,
+    "gn:latitude":35.38724,
+    "gn:longitude":36.86109,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Umm \u1e28\u0101ratayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062d\u0627\u0631\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Oumm H\u00e2rta\u00efne",
+        "Oum H\u00e2rta\u00efne",
+        "Umm \u1e28\u0101ratayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162914
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1d3f98bf5e75de649335a387febcdbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1360168419,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360168419,
+    "wof:lastmodified":1537701624,
+    "wof:name":"Umm Haratayn",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86109,
+    35.38724000000001,
+    36.86109,
+    35.38724000000001
+],
+  "geometry": {"coordinates":[36.86109,35.38724000000001],"type":"Point"}
+}

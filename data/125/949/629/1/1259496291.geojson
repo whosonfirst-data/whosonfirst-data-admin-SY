@@ -1,0 +1,74 @@
+{
+  "id": 1259496291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98045,35.77151,35.98045,35.77151",
+    "geom:latitude":35.77151,
+    "geom:longitude":35.98045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Maliyah",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173529,
+    "gn:latitude":35.77151,
+    "gn:longitude":35.98045,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Al M\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El M\u00e2l\u00eey\u00e9",
+        "Al M\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173529
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af9855e6201c23eef326b3eb3eba0395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259496291,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259496291,
+    "wof:lastmodified":1537702342,
+    "wof:name":"Al Maliyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98045,
+    35.77151,
+    35.98045,
+    35.77151
+],
+  "geometry": {"coordinates":[35.98045,35.77151],"type":"Point"}
+}

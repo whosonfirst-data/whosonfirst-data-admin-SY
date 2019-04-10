@@ -1,0 +1,77 @@
+{
+  "id": 1293182113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29351,34.00546,39.29351,34.00546",
+    "geom:latitude":34.00546,
+    "geom:longitude":39.29351,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Jawdah",
+    "gn:country_code":"SY",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173976,
+    "gn:latitude":34.00546,
+    "gn:longitude":39.29351,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Al Jawdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0636\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Baw\u1e11ah",
+        "Al Jawdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173976
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7aab3feac8af34739d33cf73c04a9d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1293182113,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293182113,
+    "wof:lastmodified":1537702381,
+    "wof:name":"Al Jawdah",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29351,
+    34.00546,
+    39.29351,
+    34.00546
+],
+  "geometry": {"coordinates":[39.29351,34.00546],"type":"Point"}
+}

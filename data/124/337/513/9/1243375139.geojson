@@ -1,0 +1,100 @@
+{
+  "id": 1243375139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86753,33.0534,35.86753,33.0534",
+    "geom:latitude":33.0534,
+    "geom:longitude":35.86753,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bi'r `Ajam",
+    "gn:country_code":"SY",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171436,
+    "gn:latitude":33.0534,
+    "gn:longitude":35.86753,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Bi\u2019r \u2018Ajam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0639\u062c\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0626\u0631 \u0639\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "B\u00eer Aajam",
+        "Bi\u2019r al \u2018Ajam",
+        "B\u012br \u2018Ajam",
+        "Bi\u2019r \u2018Ajam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171436
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"79d711b49911080cf5773c41e6c1a534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1243375139,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243375139,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243375139,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1243375139,
+    "wof:lastmodified":1537702198,
+    "wof:name":"Bi'r `Ajam",
+    "wof:parent_id":1108779081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86753,
+    33.0534,
+    35.86753,
+    33.0534
+],
+  "geometry": {"coordinates":[35.86753,33.0534],"type":"Point"}
+}

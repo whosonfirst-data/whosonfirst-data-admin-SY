@@ -1,0 +1,76 @@
+{
+  "id": 1293570365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39251,34.7854,36.39251,34.7854",
+    "geom:latitude":34.7854,
+    "geom:longitude":36.39251,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jiblaya",
+    "gn:country_code":"SY",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169083,
+    "gn:latitude":34.7854,
+    "gn:longitude":36.39251,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jibl\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jibl\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628\u0644\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jibl\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169083
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"167a4576130235f40628a2d2a9f06ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293570365,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293570365,
+    "wof:lastmodified":1537702044,
+    "wof:name":"Jiblaya",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39251,
+    34.7854,
+    36.39251,
+    34.7854
+],
+  "geometry": {"coordinates":[36.39251,34.7854],"type":"Point"}
+}

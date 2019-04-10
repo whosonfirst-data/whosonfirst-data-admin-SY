@@ -1,0 +1,78 @@
+{
+  "id": 1310089913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18186,36.42764,38.18186,36.42764",
+    "geom:latitude":36.42764,
+    "geom:longitude":38.18186,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Halula",
+    "gn:country_code":"SY",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170022,
+    "gn:latitude":36.42764,
+    "gn:longitude":38.18186,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u1e28\u0101l\u016bl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101l\u016bl\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0644\u0648\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2lo\u00fbla",
+        "\u1e28al\u016blah",
+        "\u1e28al\u016bl\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170022
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f60a52662565922b547d954d83988616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1310089913,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310089913,
+    "wof:lastmodified":1537702104,
+    "wof:name":"Halula",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18186,
+    36.42764,
+    38.18186,
+    36.42764
+],
+  "geometry": {"coordinates":[38.18186,36.42764],"type":"Point"}
+}

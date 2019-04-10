@@ -1,0 +1,76 @@
+{
+  "id": 1343653471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76078,35.73241,39.76078,35.73241",
+    "geom:latitude":35.73241,
+    "geom:longitude":39.76078,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kusubi",
+    "gn:country_code":"SY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4212,
+    "gn:latitude":35.73241,
+    "gn:longitude":39.76078,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Kus\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kus\u016bb\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0633\u0648\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"81a1eda5ae25fa00067fc2cd95d44ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343653471,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343653471,
+    "wof:lastmodified":1537701537,
+    "wof:name":"Kusubi",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76078,
+    35.73240999999999,
+    39.76078,
+    35.73240999999999
+],
+  "geometry": {"coordinates":[39.76078,35.73240999999999],"type":"Point"}
+}

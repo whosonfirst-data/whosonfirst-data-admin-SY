@@ -1,0 +1,73 @@
+{
+  "id": 1226761513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41916,36.09368,40.41916,36.09368",
+    "geom:latitude":36.09368,
+    "geom:longitude":40.41916,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Turumbah",
+    "gn:country_code":"SY",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385467,
+    "gn:latitude":36.09368,
+    "gn:longitude":40.41916,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u0162urumbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0645\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162urumbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385467
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c0345813541f3dc91e3cd580af3b9e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226761513,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226761513,
+    "wof:lastmodified":1537702428,
+    "wof:name":"Turumbah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41916,
+    36.09368,
+    40.41916,
+    36.09368
+],
+  "geometry": {"coordinates":[40.41916,36.09368],"type":"Point"}
+}

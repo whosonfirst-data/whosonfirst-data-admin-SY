@@ -1,0 +1,75 @@
+{
+  "id": 1343757837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72683,34.98983,36.72683,34.98983",
+    "geom:latitude":34.98983,
+    "geom:longitude":36.72683,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Suwaydah",
+    "gn:country_code":"SY",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172405,
+    "gn:latitude":34.98983,
+    "gn:longitude":36.72683,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"As Suwaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es Soua\u00efd\u00e9",
+        "Souedi",
+        "As Suwaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172405
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d240894aa0dbfe267a5ead5dc86acd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343757837,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343757837,
+    "wof:lastmodified":1537702271,
+    "wof:name":"As Suwaydah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72683,
+    34.98983,
+    36.72683,
+    34.98983
+],
+  "geometry": {"coordinates":[36.72683,34.98983],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343373703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87677,34.98264,36.87677,34.98264",
+    "geom:latitude":34.98264,
+    "geom:longitude":36.87677,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qaham",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8321938,
+    "gn:latitude":34.98264,
+    "gn:longitude":36.87677,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Qa\u1e29am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u062d\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e29am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8321938
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cbf900555ef52ae2bf67852bac9a2dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343373703,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343373703,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Qaham",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87677,
+    34.98264,
+    36.87677,
+    34.98264
+],
+  "geometry": {"coordinates":[36.87677,34.98264],"type":"Point"}
+}

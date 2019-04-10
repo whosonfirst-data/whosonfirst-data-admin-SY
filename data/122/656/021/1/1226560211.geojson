@@ -1,0 +1,78 @@
+{
+  "id": 1226560211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26065,35.29719,37.26065,35.29719",
+    "geom:latitude":35.29719,
+    "geom:longitude":37.26065,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu al Qusur",
+    "gn:country_code":"SY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174580,
+    "gn:latitude":35.29719,
+    "gn:longitude":37.26065,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b al Qu\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0642\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Al Qu\u015f\u016br",
+        "Abou Kousso\u00fbr",
+        "Abou Ksour",
+        "Abou el Kousso\u00fbr",
+        "Ab\u016b al Kus\u016br",
+        "Ab\u016b al Qu\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174580
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cbf0af25406067f06d501f31bc0f7e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226560211,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226560211,
+    "wof:lastmodified":1537702415,
+    "wof:name":"Abu al Qusur",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26065,
+    35.29719,
+    37.26065,
+    35.29719
+],
+  "geometry": {"coordinates":[37.26065,35.29719],"type":"Point"}
+}

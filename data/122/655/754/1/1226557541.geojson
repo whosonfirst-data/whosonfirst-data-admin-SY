@@ -1,0 +1,74 @@
+{
+  "id": 1226557541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42938,36.87128,40.42938,36.87128",
+    "geom:latitude":36.87128,
+    "geom:longitude":40.42938,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm `Ayyash Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162932,
+    "gn:latitude":36.87128,
+    "gn:longitude":40.42938,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Umm \u2018Ayy\u0101sh Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0639\u064a\u0627\u0634 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Oum A\u00efyach Faouq\u00e2ni",
+        "Umm \u2018Ayy\u0101sh Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162932
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0f059b52e5a9353c0af0467414a6cb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1226557541,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226557541,
+    "wof:lastmodified":1537701625,
+    "wof:name":"Umm `Ayyash Fawqani",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42938,
+    36.87128,
+    40.42938,
+    36.87128
+],
+  "geometry": {"coordinates":[40.42938,36.87128],"type":"Point"}
+}

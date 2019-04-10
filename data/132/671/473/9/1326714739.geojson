@@ -1,0 +1,75 @@
+{
+  "id": 1326714739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59444,36.30666,37.59444,36.30666",
+    "geom:latitude":36.30666,
+    "geom:longitude":37.59444,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Uwayshiyah",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162731,
+    "gn:latitude":36.30666,
+    "gn:longitude":37.59444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Uwaysh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u064a\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaoue\u00efch\u00eeye",
+        "Af\u00e9ch\u00e9",
+        "\u2018Uwaysh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a369e8c8cf381c6b914aed47a22ced93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1326714739,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326714739,
+    "wof:lastmodified":1537701609,
+    "wof:name":"`Uwayshiyah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59444000000001,
+    36.30666,
+    37.59444000000001,
+    36.30666
+],
+  "geometry": {"coordinates":[37.59444000000001,36.30666],"type":"Point"}
+}

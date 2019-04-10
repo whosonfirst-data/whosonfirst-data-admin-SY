@@ -1,0 +1,79 @@
+{
+  "id": 1360180551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50243,35.00286,36.50243,35.00286",
+    "geom:latitude":35.00286,
+    "geom:longitude":36.50243,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Basrah",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171357,
+    "gn:latitude":35.00286,
+    "gn:longitude":36.50243,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ba\u015frah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Biss\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0635\u0631\u0629",
+        "\u0628\u064a\u0635\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Biss\u00eene",
+        "Ba\u015frah",
+        "Bay\u015f\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171357
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8fbadf551944fbf7e953c9c7470ba5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1360180551,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360180551,
+    "wof:lastmodified":1537702192,
+    "wof:name":"Basrah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50243,
+    35.00286,
+    36.50243,
+    35.00286
+],
+  "geometry": {"coordinates":[36.50243,35.00286],"type":"Point"}
+}

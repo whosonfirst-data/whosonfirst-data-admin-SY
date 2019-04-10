@@ -1,0 +1,73 @@
+{
+  "id": 1327019537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03583,36.85412,38.03583,36.85412",
+    "geom:latitude":36.85412,
+    "geom:longitude":38.03583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Az Ziyarah",
+    "gn:country_code":"SY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10304586,
+    "gn:latitude":36.85412,
+    "gn:longitude":38.03583,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Az Z\u012by\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az Z\u012by\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10304586
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1d3f5fd198cbe2a61a8511ee5977f498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1327019537,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327019537,
+    "wof:lastmodified":1537702597,
+    "wof:name":"Az Ziyarah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03583,
+    36.85412,
+    38.03583,
+    36.85412
+],
+  "geometry": {"coordinates":[38.03583,36.85412],"type":"Point"}
+}

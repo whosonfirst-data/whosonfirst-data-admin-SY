@@ -1,0 +1,70 @@
+{
+  "id": 1226245733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08333,35.7,36.08333,35.7",
+    "geom:latitude":35.7,
+    "geom:longitude":36.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kert Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168458,
+    "gn:latitude":35.7,
+    "gn:longitude":36.08333,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Kert Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kert Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168458
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ce57d059d0ed24c05953ddee7d0174d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1226245733,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226245733,
+    "wof:lastmodified":1537701993,
+    "wof:name":"Kert Tahtani",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08333,
+    35.7,
+    36.08333,
+    35.7
+],
+  "geometry": {"coordinates":[36.08333,35.7],"type":"Point"}
+}

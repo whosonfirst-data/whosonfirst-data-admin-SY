@@ -1,0 +1,73 @@
+{
+  "id": 1259766977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49589,35.2164,37.49589,35.2164",
+    "geom:latitude":35.2164,
+    "geom:longitude":37.49589,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb as Sa`d",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340980,
+    "gn:latitude":35.2164,
+    "gn:longitude":37.49589,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb as Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jubb as Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340980
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"609aed20eb430480fa78ea7963c415f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259766977,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259766977,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Jubb as Sa`d",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49589,
+    35.2164,
+    37.49589,
+    35.2164
+],
+  "geometry": {"coordinates":[37.49589,35.2164],"type":"Point"}
+}

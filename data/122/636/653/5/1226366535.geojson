@@ -1,0 +1,73 @@
+{
+  "id": 1226366535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23674,35.695,39.23674,35.695",
+    "geom:latitude":35.695,
+    "geom:longitude":39.23674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sabkhawi",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4165,
+    "gn:latitude":35.695,
+    "gn:longitude":39.23674,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Sabkh\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u062e\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sabkh\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4165
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"902a1e31d3bcc3bb1f62e77ab1f9d3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1226366535,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226366535,
+    "wof:lastmodified":1537701536,
+    "wof:name":"Sabkhawi",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23674000000001,
+    35.695,
+    39.23674000000001,
+    35.695
+],
+  "geometry": {"coordinates":[39.23674000000001,35.695],"type":"Point"}
+}

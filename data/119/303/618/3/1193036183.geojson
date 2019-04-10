@@ -1,0 +1,73 @@
+{
+  "id": 1193036183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34485,35.48158,37.34485,35.48158",
+    "geom:latitude":35.48158,
+    "geom:longitude":37.34485,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Thaniyat as Safwani",
+    "gn:country_code":"SY",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340924,
+    "gn:latitude":35.48158,
+    "gn:longitude":37.34485,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Than\u012byat a\u015f \u015eafw\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0646\u064a\u0629 \u0627\u0644\u0635\u0641\u0648\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Than\u012byat a\u015f \u015eafw\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340924
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"47b6a04754f20ef08ac1b66e329eb071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1193036183,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193036183,
+    "wof:lastmodified":1537702538,
+    "wof:name":"Thaniyat as Safwani",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34485,
+    35.48158,
+    37.34485,
+    35.48158
+],
+  "geometry": {"coordinates":[37.34485,35.48158],"type":"Point"}
+}

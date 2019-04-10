@@ -1,0 +1,73 @@
+{
+  "id": 1277158423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.27143,34.53179,38.27143,34.53179",
+    "geom:latitude":34.53179,
+    "geom:longitude":38.27143,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bir Abu Qanatir",
+    "gn:country_code":"SY",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10054047,
+    "gn:latitude":34.53179,
+    "gn:longitude":38.27143,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"B\u012br Ab\u016b Qan\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0628\u0648 \u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u012br Ab\u016b Qan\u0101\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10054047
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f29a1c901871ceb5cad200633cd27c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1277158423,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1277158423,
+    "wof:lastmodified":1537702593,
+    "wof:name":"Bir Abu Qanatir",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.27143,
+    34.53179,
+    38.27143,
+    34.53179
+],
+  "geometry": {"coordinates":[38.27143,34.53179],"type":"Point"}
+}

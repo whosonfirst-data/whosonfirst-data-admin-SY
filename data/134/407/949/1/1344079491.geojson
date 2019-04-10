@@ -1,0 +1,75 @@
+{
+  "id": 1344079491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6795,32.96277,36.6795,32.96277",
+    "geom:latitude":32.96277,
+    "geom:longitude":36.6795,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ta`la",
+    "gn:country_code":"SY",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163784,
+    "gn:latitude":32.96277,
+    "gn:longitude":36.6795,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ta\u2018l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Taal\u00e9",
+        "Ta\u2018lah",
+        "Ta\u2018l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163784
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"795b6cfdd2ea008ff2838976cde2a073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1344079491,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1344079491,
+    "wof:lastmodified":1537701695,
+    "wof:name":"Ta`la",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6795,
+    32.96277,
+    36.6795,
+    32.96277
+],
+  "geometry": {"coordinates":[36.6795,32.96277],"type":"Point"}
+}

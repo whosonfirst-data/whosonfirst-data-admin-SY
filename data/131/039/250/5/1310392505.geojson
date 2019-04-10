@@ -1,0 +1,76 @@
+{
+  "id": 1310392505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59545,36.0388,36.59545,36.0388",
+    "geom:latitude":36.0388,
+    "geom:longitude":36.59545,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Funduq",
+    "gn:country_code":"SY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170356,
+    "gn:latitude":36.0388,
+    "gn:longitude":36.59545,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Funduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "Foundoq",
+        "Fondok",
+        "Fonndoq",
+        "Funduq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170356
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2ddb887ef4ac43af625e92c97b18cab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1310392505,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310392505,
+    "wof:lastmodified":1537702119,
+    "wof:name":"Funduq",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59545,
+    36.0388,
+    36.59545,
+    36.0388
+],
+  "geometry": {"coordinates":[36.59545,36.0388],"type":"Point"}
+}

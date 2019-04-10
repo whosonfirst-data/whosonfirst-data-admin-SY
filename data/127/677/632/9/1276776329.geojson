@@ -1,0 +1,76 @@
+{
+  "id": 1276776329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11045,35.52717,36.11045,35.52717",
+    "geom:latitude":35.52717,
+    "geom:longitude":36.11045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"As Siraj",
+    "gn:country_code":"SY",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172433,
+    "gn:latitude":35.52717,
+    "gn:longitude":36.11045,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"As Sir\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sir\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0631\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Es Sr\u00e2j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172433
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a767d0da90f6c151fb33c97be0012fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1276776329,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276776329,
+    "wof:lastmodified":1537702274,
+    "wof:name":"As Siraj",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11045,
+    35.52717,
+    36.11045,
+    35.52717
+],
+  "geometry": {"coordinates":[36.11045,35.52717],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209090917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53517,36.68785,37.53517,36.68785",
+    "geom:latitude":36.68785,
+    "geom:longitude":37.53517,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Silsilah",
+    "gn:country_code":"SY",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164112,
+    "gn:latitude":36.68785,
+    "gn:longitude":37.53517,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Silsilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0633\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sels\u00e9l\u00e9",
+        "Silsilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164112
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2109d8eb28ee8a968d2a8c61d44e4c2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209090917
+        }
+    ],
+    "wof:id":1209090917,
+    "wof:lastmodified":1537701716,
+    "wof:name":"Silsilah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53517,
+    36.68785,
+    37.53517,
+    36.68785
+],
+  "geometry": {"coordinates":[37.53517,36.68785],"type":"Point"}
+}

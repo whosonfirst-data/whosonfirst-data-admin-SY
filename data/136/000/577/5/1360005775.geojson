@@ -1,0 +1,76 @@
+{
+  "id": 1360005775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91158,33.2677,35.91158,33.2677",
+    "geom:latitude":33.2677,
+    "geom:longitude":35.91158,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Harfa",
+    "gn:country_code":"SY",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169876,
+    "gn:latitude":33.2677,
+    "gn:longitude":35.91158,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u1e28arf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28arfah",
+        "\u1e28arf\u0101",
+        "Harfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169876,
+        "wk:page":"Harfa"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db693a2dc991a0e75285c613ac8f4b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1360005775,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360005775,
+    "wof:lastmodified":1537702094,
+    "wof:name":"Harfa",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91158,
+    33.2677,
+    35.91158,
+    33.2677
+],
+  "geometry": {"coordinates":[35.91158,33.2677],"type":"Point"}
+}

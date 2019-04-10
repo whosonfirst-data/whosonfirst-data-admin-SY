@@ -1,0 +1,67 @@
+{
+  "id": 1310128737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75219,33.02626,36.75219,33.02626",
+    "geom:latitude":33.02626,
+    "geom:longitude":36.75219,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shinwan",
+    "gn:country_code":"SY",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10226907,
+    "gn:latitude":33.02626,
+    "gn:longitude":36.75219,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Shinwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226907
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b839b453f324036b433f0417ba74dcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1310128737,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1310128737,
+    "wof:lastmodified":1536962856,
+    "wof:name":"Shinwan",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75219,
+    33.02626,
+    36.75219,
+    33.02626
+],
+  "geometry": {"coordinates":[36.75219,33.02626],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259863215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66643,35.12445,37.66643,35.12445",
+    "geom:latitude":35.12445,
+    "geom:longitude":37.66643,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bir al Ghazalah",
+    "gn:country_code":"SY",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342626,
+    "gn:latitude":35.12445,
+    "gn:longitude":37.66643,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br al Ghaz\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u063a\u0632\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u012br al Ghaz\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342626
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68a95f9e061b7df92c9c4faa9baa4e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259863215,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259863215,
+    "wof:lastmodified":1537702546,
+    "wof:name":"Bir al Ghazalah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66643,
+    35.12445,
+    37.66643,
+    35.12445
+],
+  "geometry": {"coordinates":[37.66643,35.12445],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360275157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.80275,36.54778,37.80275,36.54778",
+    "geom:latitude":36.54778,
+    "geom:longitude":37.80275,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Balli",
+    "gn:country_code":"SY",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171877,
+    "gn:latitude":36.54778,
+    "gn:longitude":37.80275,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ball\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ball\u012b",
+        "Balal\u012b",
+        "Bill\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171877
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2a826666eb95c15d1fbd142654aa2af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1360275157,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360275157,
+    "wof:lastmodified":1537702232,
+    "wof:name":"Balli",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.80275,
+    36.54778,
+    37.80275,
+    36.54778
+],
+  "geometry": {"coordinates":[37.80275,36.54778],"type":"Point"}
+}

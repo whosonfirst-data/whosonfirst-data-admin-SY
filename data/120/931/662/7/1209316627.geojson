@@ -1,0 +1,67 @@
+{
+  "id": 1209316627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97124,33.13683,35.97124,33.13683",
+    "geom:latitude":33.13683,
+    "geom:longitude":35.97124,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Al Khabbazah",
+    "gn:country_code":"SY",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8505841,
+    "gn:latitude":33.13683,
+    "gn:longitude":35.97124,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Al Khabb\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khabb\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505841
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"76cdb12d34c4149f0061abba2cdd78f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209316627
+        }
+    ],
+    "wof:id":1209316627,
+    "wof:lastmodified":1537702575,
+    "wof:name":"Al Khabbazah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97124,
+    33.13683,
+    35.97124,
+    33.13683
+],
+  "geometry": {"coordinates":[35.97124,33.13683],"type":"Point"}
+}

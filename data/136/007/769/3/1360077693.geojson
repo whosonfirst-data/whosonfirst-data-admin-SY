@@ -1,0 +1,79 @@
+{
+  "id": 1360077693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86062,32.84256,35.86062,32.84256",
+    "geom:latitude":32.84256,
+    "geom:longitude":35.86062,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Musayritiyah",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732,
+    "gn:latitude":32.84256,
+    "gn:longitude":35.86062,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al Musayrit\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0643\u0648\u0643\u064a\u0648\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0633\u064a\u0631\u062a\u064a\u0629",
+        "\u0645\u0633\u064a\u0631\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al K\u016bkiy\u016b\u1e29",
+        "Al Musayrit\u012byah",
+        "Musayrit\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce9db284ce8224ffd20e5cb0c63a416c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1360077693,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1360077693,
+    "wof:lastmodified":1537701521,
+    "wof:name":"Al Musayritiyah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86062000000001,
+    32.84256,
+    35.86062000000001,
+    32.84256
+],
+  "geometry": {"coordinates":[35.86062000000001,32.84256],"type":"Point"}
+}

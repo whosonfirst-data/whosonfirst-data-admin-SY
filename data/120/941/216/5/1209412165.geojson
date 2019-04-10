@@ -1,0 +1,70 @@
+{
+  "id": 1209412165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4991,33.49639,36.4991,33.49639",
+    "geom:latitude":33.49639,
+    "geom:longitude":36.4991,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bilaliyah",
+    "gn:country_code":"SY",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173964,
+    "gn:latitude":33.49639,
+    "gn:longitude":36.4991,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Bil\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bl\u00e2liy\u00e9",
+        "Blaly\u00e9",
+        "Al Bil\u0101l\u012byah",
+        "Bil\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173964
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"17360d33017cdb147a0a299293223cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209412165
+        }
+    ],
+    "wof:id":1209412165,
+    "wof:lastmodified":1537702380,
+    "wof:name":"Bilaliyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4991,
+    33.49639000000001,
+    36.4991,
+    33.49639000000001
+],
+  "geometry": {"coordinates":[36.4991,33.49639000000001],"type":"Point"}
+}

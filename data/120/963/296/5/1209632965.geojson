@@ -1,0 +1,67 @@
+{
+  "id": 1209632965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73849,35.97305,40.73849,35.97305",
+    "geom:latitude":35.97305,
+    "geom:longitude":40.73849,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Ali al Jasim",
+    "gn:country_code":"SY",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264213,
+    "gn:latitude":35.97305,
+    "gn:longitude":40.73849,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u2018Al\u012b al J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b al J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264213
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cda29da7f5b4fbeb7fe6dd3f1cd8fe36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209632965
+        }
+    ],
+    "wof:id":1209632965,
+    "wof:lastmodified":1537702496,
+    "wof:name":"`Ali al Jasim",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73849000000001,
+    35.97305,
+    40.73849000000001,
+    35.97305
+],
+  "geometry": {"coordinates":[40.73849000000001,35.97305],"type":"Point"}
+}

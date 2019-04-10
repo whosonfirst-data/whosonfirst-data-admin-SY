@@ -1,0 +1,73 @@
+{
+  "id": 1293662935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91678,34.87002,35.91678,34.87002",
+    "geom:latitude":34.87002,
+    "geom:longitude":35.91678,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Khirbat Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266063,
+    "gn:latitude":34.87002,
+    "gn:longitude":35.91678,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khirbat \u015e\u0101ghir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0635\u0627\u063a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat \u015e\u0101ghir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266063
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"67cf6a599663d8670c4d65c56894e560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293662935,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293662935,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Khirbat Saghir",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91678,
+    34.87002,
+    35.91678,
+    34.87002
+],
+  "geometry": {"coordinates":[35.91678,34.87002],"type":"Point"}
+}

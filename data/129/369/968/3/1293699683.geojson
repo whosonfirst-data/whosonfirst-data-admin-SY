@@ -1,0 +1,74 @@
+{
+  "id": 1293699683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12842,35.64334,36.12842,35.64334",
+    "geom:latitude":35.64334,
+    "geom:longitude":36.12842,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abu Makkah",
+    "gn:country_code":"SY",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174430,
+    "gn:latitude":35.64334,
+    "gn:longitude":36.12842,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ab\u016b Makkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0645\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abou Makk\u00e9",
+        "Ab\u016b Makkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174430
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"adf986b9a463dc4dbe6bb3aa3195dc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293699683,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293699683,
+    "wof:lastmodified":1537702407,
+    "wof:name":"Abu Makkah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12842,
+    35.64334,
+    36.12842,
+    35.64334
+],
+  "geometry": {"coordinates":[36.12842,35.64334],"type":"Point"}
+}

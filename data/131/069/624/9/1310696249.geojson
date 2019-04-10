@@ -1,0 +1,76 @@
+{
+  "id": 1310696249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.79929,36.1131,37.79929,36.1131",
+    "geom:latitude":36.1131,
+    "geom:longitude":37.79929,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Maqbarah Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174426,
+    "gn:latitude":36.1131,
+    "gn:longitude":37.79929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ab\u016b Maqbarah Sagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0645\u0642\u0628\u0631\u0629 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Abou Moqbara Sghir",
+        "Abou Maqbara S\u00e9rh\u00eer\u00e9",
+        "Ab\u016b Maqbarah a\u015f \u015eagh\u012brah",
+        "Ab\u016b Maqbarah Sagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174426
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f56473776974ebf8d29c268492df5232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1310696249,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310696249,
+    "wof:lastmodified":1537702407,
+    "wof:name":"Abu Maqbarah Saghir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.79929,
+    36.1131,
+    37.79929,
+    36.1131
+],
+  "geometry": {"coordinates":[37.79929,36.1131],"type":"Point"}
+}

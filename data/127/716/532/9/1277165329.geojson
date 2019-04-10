@@ -1,0 +1,77 @@
+{
+  "id": 1277165329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87746,34.95396,36.87746,34.95396",
+    "geom:latitude":34.95396,
+    "geom:longitude":36.87746,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abu Hamamah",
+    "gn:country_code":"SY",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174515,
+    "gn:latitude":34.95396,
+    "gn:longitude":36.87746,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ab\u016b Ham\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0647\u0645\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abou Ham\u00e2mi",
+        "Abou Hamam",
+        "Ab\u016b \u1e28am\u0101m",
+        "Ab\u016b Ham\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174515,
+        "wk:page":"Abu_Hamamah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e019409d131fd8c00e85328cc1b55bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1277165329,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1277165329,
+    "wof:lastmodified":1537702412,
+    "wof:name":"Abu Hamamah",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87746,
+    34.95396,
+    36.87746,
+    34.95396
+],
+  "geometry": {"coordinates":[36.87746,34.95396],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276860369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38391,35.23355,36.38391,35.23355",
+    "geom:latitude":35.23355,
+    "geom:longitude":36.38391,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Sarimiyah",
+    "gn:country_code":"SY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172465,
+    "gn:latitude":35.23355,
+    "gn:longitude":36.38391,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"A\u015f \u015e\u0101rim\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0631\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es S\u00e2rm\u00eey\u00e9",
+        "A\u015f \u015e\u0101rim\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172465
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8151d9354d1a6807eab26f12e5f68d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276860369,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276860369,
+    "wof:lastmodified":1537702276,
+    "wof:name":"As Sarimiyah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38391,
+    35.23355,
+    36.38391,
+    35.23355
+],
+  "geometry": {"coordinates":[36.38391,35.23355],"type":"Point"}
+}

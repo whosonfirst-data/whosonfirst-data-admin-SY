@@ -1,0 +1,77 @@
+{
+  "id": 1344153071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91131,36.52528,36.91131,36.52528",
+    "geom:latitude":36.52528,
+    "geom:longitude":36.91131,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273836,
+    "gn:latitude":36.52528,
+    "gn:longitude":36.91131,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0634\u064a \u0643\u0628\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arshay Kib\u0101r",
+        "Al Haw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273836
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e88fc874bd8b776d17aa7117f76eb051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1344153071,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344153071,
+    "wof:lastmodified":1537702511,
+    "wof:name":"Al Hawa",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91131,
+    36.52528,
+    36.91131,
+    36.52528
+],
+  "geometry": {"coordinates":[36.91131,36.52528],"type":"Point"}
+}

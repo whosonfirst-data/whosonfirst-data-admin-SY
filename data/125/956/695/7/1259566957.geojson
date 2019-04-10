@@ -1,0 +1,73 @@
+{
+  "id": 1259566957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.17558,35.27655,38.17558,35.27655",
+    "geom:latitude":35.27655,
+    "geom:longitude":38.17558,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bir Abu Fayyad",
+    "gn:country_code":"SY",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347104,
+    "gn:latitude":35.27655,
+    "gn:longitude":38.17558,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br Ab\u016b Fayy\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0623\u0628\u0648 \u0641\u064a\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "B\u012br Ab\u016b Fayy\u0101\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347104
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8cbf8f1a1eb0c01e738154de28b9163e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259566957,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259566957,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Bir Abu Fayyad",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.17558,
+    35.27655,
+    38.17558,
+    35.27655
+],
+  "geometry": {"coordinates":[38.17558,35.27655],"type":"Point"}
+}

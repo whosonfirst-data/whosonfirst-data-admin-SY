@@ -1,0 +1,73 @@
+{
+  "id": 1243559323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75452,32.96706,36.75452,32.96706",
+    "geom:latitude":32.96706,
+    "geom:longitude":36.75452,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khirbat Umm `Atayiq",
+    "gn:country_code":"SY",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5122,
+    "gn:latitude":32.96706,
+    "gn:longitude":36.75452,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khirbat Umm \u2018At\u0101yiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0645 \u0639\u062a\u0627\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Umm \u2018At\u0101yiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5122
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2fb9fbf4f2ae0c74ccb4b9e5ae36005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1243559323,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1243559323,
+    "wof:lastmodified":1537701553,
+    "wof:name":"Khirbat Umm `Atayiq",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75452,
+    32.96706,
+    36.75452,
+    32.96706
+],
+  "geometry": {"coordinates":[36.75452,32.96706],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276984501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02361,37.07745,41.02361,37.07745",
+    "geom:latitude":37.07745,
+    "geom:longitude":41.02361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uwayjiyan",
+    "gn:country_code":"SY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420313,
+    "gn:latitude":37.07745,
+    "gn:longitude":41.02361,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Uwayj\u0131y\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u064a\u062c\u064a\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Uwayj\u0131y\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420313
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"314562ec4716b65cf8a99e1cd02e348d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276984501,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276984501,
+    "wof:lastmodified":1537702440,
+    "wof:name":"Uwayjiyan",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02361,
+    37.07745,
+    41.02361,
+    37.07745
+],
+  "geometry": {"coordinates":[41.02361,37.07745],"type":"Point"}
+}

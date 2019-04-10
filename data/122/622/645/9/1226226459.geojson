@@ -1,0 +1,74 @@
+{
+  "id": 1226226459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.60863,35.83399,37.60863,35.83399",
+    "geom:latitude":35.83399,
+    "geom:longitude":37.60863,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Atshanah",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172363,
+    "gn:latitude":35.83399,
+    "gn:longitude":37.60863,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018A\u0163sh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0634\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aatch\u00e2n\u00e9",
+        "\u2018A\u0163sh\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172363
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d16749b0c84770aed4b69229fb686064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1226226459,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226226459,
+    "wof:lastmodified":1537702270,
+    "wof:name":"`Atshanah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.60863,
+    35.83399,
+    37.60863,
+    35.83399
+],
+  "geometry": {"coordinates":[37.60863,35.83399],"type":"Point"}
+}

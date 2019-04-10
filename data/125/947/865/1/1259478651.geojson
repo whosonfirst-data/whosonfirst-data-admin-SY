@@ -1,0 +1,73 @@
+{
+  "id": 1259478651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72884,33.58571,36.72884,33.58571",
+    "geom:latitude":33.58571,
+    "geom:longitude":36.72884,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bayt Farhan al Ma`jal",
+    "gn:country_code":"SY",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8346534,
+    "gn:latitude":33.58571,
+    "gn:longitude":36.72884,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Bayt Far\u1e29\u0101n al Ma\u2018jal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u0631\u062d\u0627\u0646 \u0627\u0644\u0645\u0639\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bayt Far\u1e29\u0101n al Ma\u2018jal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346534
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"57948afcfa1744ba0fe717eb16a9196d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1259478651,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259478651,
+    "wof:lastmodified":1537702549,
+    "wof:name":"Bayt Farhan al Ma`jal",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72884000000001,
+    33.58571,
+    36.72884000000001,
+    33.58571
+],
+  "geometry": {"coordinates":[36.72884000000001,33.58571],"type":"Point"}
+}

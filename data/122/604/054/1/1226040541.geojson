@@ -1,0 +1,73 @@
+{
+  "id": 1226040541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36843,33.01839,36.36843,33.01839",
+    "geom:latitude":33.01839,
+    "geom:longitude":36.36843,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rasm al Hajar",
+    "gn:country_code":"SY",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259659,
+    "gn:latitude":33.01839,
+    "gn:longitude":36.36843,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Rasm al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Rasm al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259659
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7397bfc70f1728130136b0a285f6fe27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1226040541,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1226040541,
+    "wof:lastmodified":1537702607,
+    "wof:name":"Rasm al Hajar",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36843,
+    33.01839,
+    36.36843,
+    33.01839
+],
+  "geometry": {"coordinates":[36.36843,33.01839],"type":"Point"}
+}

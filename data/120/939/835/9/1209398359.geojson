@@ -1,0 +1,67 @@
+{
+  "id": 1209398359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96672,34.80718,35.96672,34.80718",
+    "geom:latitude":34.80718,
+    "geom:longitude":35.96672,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baydar al Balat",
+    "gn:country_code":"SY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265256,
+    "gn:latitude":34.80718,
+    "gn:longitude":35.96672,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Baydar al Bal\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631 \u0627\u0644\u0628\u0644\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Baydar al Bal\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265256
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b35951f5d5c5e7c12045811e609a8da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209398359
+        }
+    ],
+    "wof:id":1209398359,
+    "wof:lastmodified":1537702498,
+    "wof:name":"Baydar al Balat",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96672,
+    34.80718,
+    35.96672,
+    34.80718
+],
+  "geometry": {"coordinates":[35.96672,34.80718],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226356615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73731,35.72523,40.73731,35.72523",
+    "geom:latitude":35.72523,
+    "geom:longitude":40.73731,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buluki",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275334,
+    "gn:latitude":35.72523,
+    "gn:longitude":40.73731,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Bul\u016bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bul\u016bk\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u0648\u0643\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275334
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70632eaa86e36b21cdcb51ae14e2777e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226356615,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226356615,
+    "wof:lastmodified":1537702518,
+    "wof:name":"Buluki",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73731,
+    35.72523,
+    40.73731,
+    35.72523
+],
+  "geometry": {"coordinates":[40.73731,35.72523],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243437935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09618,34.98117,37.09618,34.98117",
+    "geom:latitude":34.98117,
+    "geom:longitude":37.09618,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall ash Shaykh `Ali",
+    "gn:country_code":"SY",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163653,
+    "gn:latitude":34.98117,
+    "gn:longitude":37.09618,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tall ash Shaykh \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0634\u064a\u062e \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tell ech Che\u00efkh Aali",
+        "Tall ash Shaykh \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163653
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"67aaaa7ca7548a2aa79f3b954965640b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243437935,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243437935,
+    "wof:lastmodified":1537701681,
+    "wof:name":"Tall ash Shaykh `Ali",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09618,
+    34.98117,
+    37.09618,
+    34.98117
+],
+  "geometry": {"coordinates":[37.09618,34.98117],"type":"Point"}
+}

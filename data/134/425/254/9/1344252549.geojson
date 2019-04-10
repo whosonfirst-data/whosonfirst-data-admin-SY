@@ -1,0 +1,74 @@
+{
+  "id": 1344252549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35385,33.5261,36.35385,33.5261",
+    "geom:latitude":33.5261,
+    "geom:longitude":36.35385,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zamalka",
+    "gn:country_code":"SY",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162547,
+    "gn:latitude":33.5261,
+    "gn:longitude":36.35385,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Zamalk\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0644\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zamalk\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162547,
+        "wk:page":"Zamalka"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed8e4b29afb59cc0eb2f89a83915fb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1344252549,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1344252549,
+    "wof:lastmodified":1537701599,
+    "wof:name":"Zamalka",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35385,
+    33.5261,
+    36.35385,
+    33.5261
+],
+  "geometry": {"coordinates":[36.35385,33.5261],"type":"Point"}
+}

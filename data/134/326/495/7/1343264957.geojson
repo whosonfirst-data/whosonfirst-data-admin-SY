@@ -1,0 +1,76 @@
+{
+  "id": 1343264957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08521,35.49682,36.08521,35.49682",
+    "geom:latitude":35.49682,
+    "geom:longitude":36.08521,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat Qal`ah",
+    "gn:country_code":"SY",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167909,
+    "gn:latitude":35.49682,
+    "gn:longitude":36.08521,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Khirb\u0101t Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0627\u062a \u0642\u0644\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khra\u00efb\u00e2te Qalaa",
+        "Khirbet Qal\u2019a",
+        "Khurayb\u0101t Qal\u2018ah",
+        "Khirb\u0101t Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167909
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ee89d6594c87d33cbe5f5ce8edbcd8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343264957,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343264957,
+    "wof:lastmodified":1537701954,
+    "wof:name":"Khirbat Qal`ah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08521,
+    35.49682,
+    36.08521,
+    35.49682
+],
+  "geometry": {"coordinates":[36.08521,35.49682],"type":"Point"}
+}

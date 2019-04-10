@@ -1,0 +1,78 @@
+{
+  "id": 1343843731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08507,33.4795,36.08507,33.4795",
+    "geom:latitude":33.4795,
+    "geom:longitude":36.08507,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al `Awasij",
+    "gn:country_code":"SY",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167928,
+    "gn:latitude":33.4795,
+    "gn:longitude":36.08507,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al \u2018Aw\u0101sij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u064a\u0641\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u0627\u0633\u062c"
+    ],
+    "name:und_x_variant":[
+        "Khna\u00effs\u00e9",
+        "Khunayfisah",
+        "Al \u2018Aw\u0101sij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0fba2f2fcbe9788146a753ada16ff94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1343843731,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343843731,
+    "wof:lastmodified":1537701955,
+    "wof:name":"Al `Awasij",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08507,
+    33.4795,
+    36.08507,
+    33.4795
+],
+  "geometry": {"coordinates":[36.08507,33.4795],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243063217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48851,35.32321,36.48851,35.32321",
+    "geom:latitude":35.32321,
+    "geom:longitude":36.48851,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jalamah",
+    "gn:country_code":"SY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169234,
+    "gn:latitude":35.32321,
+    "gn:longitude":36.48851,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Jalamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jalam\u00e9",
+        "Jalamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169234
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1a15f0cb1b8f6b3d80c0d3e92900b7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1243063217,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243063217,
+    "wof:lastmodified":1537702054,
+    "wof:name":"Jalamah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48851,
+    35.32321,
+    36.48851,
+    35.32321
+],
+  "geometry": {"coordinates":[36.48851,35.32321],"type":"Point"}
+}

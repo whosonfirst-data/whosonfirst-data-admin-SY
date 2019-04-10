@@ -1,0 +1,75 @@
+{
+  "id": 1226028193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10656,34.73761,36.10656,34.73761",
+    "geom:latitude":34.73761,
+    "geom:longitude":36.10656,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"At Tulay`i",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163164,
+    "gn:latitude":34.73761,
+    "gn:longitude":36.10656,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"A\u0163 \u0162ulay\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0644\u064a\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tla\u00efa\u00ef",
+        "\u0162ulay\u2018\u012b",
+        "A\u0163 \u0162ulay\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163164
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7041d84b7b5a63154ad9056fbfc0f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1226028193,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226028193,
+    "wof:lastmodified":1537701641,
+    "wof:name":"At Tulay`i",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10656,
+    34.73761,
+    36.10656,
+    34.73761
+],
+  "geometry": {"coordinates":[36.10656,34.73761],"type":"Point"}
+}

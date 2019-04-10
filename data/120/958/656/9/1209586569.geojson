@@ -1,0 +1,67 @@
+{
+  "id": 1209586569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99899,34.78637,35.99899,34.78637",
+    "geom:latitude":34.78637,
+    "geom:longitude":35.99899,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hikr Samakah",
+    "gn:country_code":"SY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468578,
+    "gn:latitude":34.78637,
+    "gn:longitude":35.99899,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"\u1e28ikr Samakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0643\u0631 \u0633\u0645\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ikr Samakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468578
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"81ca77995f0ba2bc9583ff824ab02bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209586569
+        }
+    ],
+    "wof:id":1209586569,
+    "wof:lastmodified":1537702626,
+    "wof:name":"Hikr Samakah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99899,
+    34.78637,
+    35.99899,
+    34.78637
+],
+  "geometry": {"coordinates":[35.99899,34.78637],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1242679557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75622,33.228,35.75622,33.228",
+    "geom:latitude":33.228,
+    "geom:longitude":35.75622,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sahlat Mas`adah",
+    "gn:country_code":"SY",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8594720,
+    "gn:latitude":33.228,
+    "gn:longitude":35.75622,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Sahlat Mas\u2018adah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0644\u0629 \u0645\u0633\u0639\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sahlat Mas\u2018adah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594720
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70095fdf56c8488252ad84c907e785c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1242679557,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1242679557,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1242679557,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1242679557,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1242679557,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1242679557,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1242679557,
+    "wof:lastmodified":1549931203,
+    "wof:name":"Sahlat Mas`adah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75622,
+    33.228,
+    35.75622,
+    33.228
+],
+  "geometry": {"coordinates":[35.75622,33.228],"type":"Point"}
+}

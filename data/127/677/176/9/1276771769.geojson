@@ -1,0 +1,78 @@
+{
+  "id": 1276771769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04364,35.38392,36.04364,35.38392",
+    "geom:latitude":35.38392,
+    "geom:longitude":36.04364,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Bishrah",
+    "gn:country_code":"SY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171366,
+    "gn:latitude":35.38392,
+    "gn:longitude":36.04364,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Bishr\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bishr\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "Al Bishr\u0101\u1e29",
+        "\u0627\u0644\u0628\u0634\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Bechr\u00e2h",
+        "Bichr\u00e2h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171366
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ebe13b643160c64482b37adb3c49ca24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1276771769,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276771769,
+    "wof:lastmodified":1537702193,
+    "wof:name":"Al Bishrah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04364,
+    35.38392,
+    36.04364,
+    35.38392
+],
+  "geometry": {"coordinates":[36.04364,35.38392],"type":"Point"}
+}

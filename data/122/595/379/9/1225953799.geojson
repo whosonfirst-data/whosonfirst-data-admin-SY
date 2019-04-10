@@ -1,0 +1,75 @@
+{
+  "id": 1225953799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.17384,36.73634,41.17384,36.73634",
+    "geom:latitude":36.73634,
+    "geom:longitude":41.17384,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Tiflah",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167961,
+    "gn:latitude":36.73634,
+    "gn:longitude":41.17384,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat Tiflah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062a\u0641\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Tofl\u00e9",
+        "Khirbat Tofl\u00e9",
+        "Khirbat Tiflah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167961
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3e50dc9f3d471ccef26587cf8fb8e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1225953799,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1225953799,
+    "wof:lastmodified":1537701957,
+    "wof:name":"Khirbat Tiflah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.17384000000001,
+    36.73634000000001,
+    41.17384000000001,
+    36.73634000000001
+],
+  "geometry": {"coordinates":[41.17384000000001,36.73634000000001],"type":"Point"}
+}

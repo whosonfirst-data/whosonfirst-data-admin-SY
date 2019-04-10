@@ -1,0 +1,79 @@
+{
+  "id": 1260079403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69732,32.9544,36.69732,32.9544",
+    "geom:latitude":32.9544,
+    "geom:longitude":36.69732,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Buthaynah",
+    "gn:country_code":"SY",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171106,
+    "gn:latitude":32.9544,
+    "gn:longitude":36.69732,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Buthaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062b\u064a\u0646\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0443\u0442\u0430\u0439\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Al Bu\u0163aynah",
+        "El Bta\u00efn\u00e9",
+        "Bta\u00efn\u00e9",
+        "Buthaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171106
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bbb519df765f719ab2400128e34a947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1260079403,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1260079403,
+    "wof:lastmodified":1537702171,
+    "wof:name":"Buthaynah",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69732,
+    32.9544,
+    36.69732,
+    32.9544
+],
+  "geometry": {"coordinates":[36.69732,32.9544],"type":"Point"}
+}

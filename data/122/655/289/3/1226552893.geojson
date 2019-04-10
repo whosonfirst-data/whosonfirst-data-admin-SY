@@ -1,0 +1,78 @@
+{
+  "id": 1226552893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00184,35.92129,36.00184,35.92129",
+    "geom:latitude":35.92129,
+    "geom:longitude":36.00184,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tilal",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182188,
+    "gn:latitude":35.92129,
+    "gn:longitude":36.00184,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u0162il\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ask\u016br\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0643\u0648\u0631\u0627\u0646",
+        "\u0637\u0644\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ask\u00f4r\u00e2ne",
+        "\u0162il\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182188
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c03ab3fec3569134d38c12a94e6130aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226552893,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226552893,
+    "wof:lastmodified":1537702481,
+    "wof:name":"Tilal",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00184,
+    35.92129,
+    36.00184,
+    35.92129
+],
+  "geometry": {"coordinates":[36.00184,35.92129],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276570159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9796,36.2499,37.9796,36.2499",
+    "geom:latitude":36.2499,
+    "geom:longitude":37.9796,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Harb Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169885,
+    "gn:latitude":36.2499,
+    "gn:longitude":37.9796,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u1e28arb \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0628 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Arbiya Saghire",
+        "\u1e28arb\u012byah \u015eagh\u012brah",
+        "Harb S\u00e9rh\u00eere",
+        "\u1e28arb \u015eagh\u012brah",
+        "\u1e28arb \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169885
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8c417346e49671262247f129e5708f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276570159,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276570159,
+    "wof:lastmodified":1537702094,
+    "wof:name":"Harb Saghir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9796,
+    36.2499,
+    37.9796,
+    36.2499
+],
+  "geometry": {"coordinates":[37.9796,36.2499],"type":"Point"}
+}

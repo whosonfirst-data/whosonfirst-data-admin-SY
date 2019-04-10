@@ -1,0 +1,81 @@
+{
+  "id": 1259395333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83043,35.55932,35.83043,35.55932",
+    "geom:latitude":35.55932,
+    "geom:longitude":35.83043,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Squbin",
+    "gn:country_code":"SY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164036,
+    "gn:latitude":35.55932,
+    "gn:longitude":35.83043,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Sq\u016bb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sq\u016bb\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0642\u0648\u0628\u064a\u0646",
+        "Asq\u016bb\u012bn",
+        "\u0633\u0642\u0648\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Skoubine",
+        "Sqo\u00fbb\u00eene",
+        "Saq\u016bb\u012bn",
+        "Squbin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164036
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"046bc90fd708e41b35fb2e252e24f2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259395333,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259395333,
+    "wof:lastmodified":1537701711,
+    "wof:name":"Squbin",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83043,
+    35.55932,
+    35.83043,
+    35.55932
+],
+  "geometry": {"coordinates":[35.83043,35.55932],"type":"Point"}
+}

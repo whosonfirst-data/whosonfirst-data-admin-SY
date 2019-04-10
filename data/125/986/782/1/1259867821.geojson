@@ -1,0 +1,75 @@
+{
+  "id": 1259867821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62571,34.79919,36.62571,34.79919",
+    "geom:latitude":34.79919,
+    "geom:longitude":36.62571,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sunaysil",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163926,
+    "gn:latitude":34.79919,
+    "gn:longitude":36.62571,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Sunaysil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u064a\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "Snessel",
+        "Sne\u00efssel",
+        "Sunaysil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163926
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1e7e27d951afb0373553716f2ff18808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1259867821,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259867821,
+    "wof:lastmodified":1537701704,
+    "wof:name":"Sunaysil",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62571,
+    34.79919,
+    36.62571,
+    34.79919
+],
+  "geometry": {"coordinates":[36.62571,34.79919],"type":"Point"}
+}

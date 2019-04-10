@@ -1,0 +1,78 @@
+{
+  "id": 1292981131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15339,35.48539,37.15339,35.48539",
+    "geom:latitude":35.48539,
+    "geom:longitude":37.15339,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tall Halawah",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163570,
+    "gn:latitude":35.48539,
+    "gn:longitude":37.15339,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Tall \u1e28al\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0644\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tel Halawa",
+        "Tell el Halawa",
+        "Tall \u1e28al\u0101w\u012b",
+        "Tell Halaoua",
+        "Tell Hal\u00e2olu\u00e9",
+        "Tall \u1e28al\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163570
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2eb68dfdb270cacc9707041d7e029f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1292981131,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1292981131,
+    "wof:lastmodified":1537701670,
+    "wof:name":"Tall Halawah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15339,
+    35.48539,
+    37.15339,
+    35.48539
+],
+  "geometry": {"coordinates":[37.15339,35.48539],"type":"Point"}
+}

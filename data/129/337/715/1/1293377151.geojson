@@ -1,0 +1,76 @@
+{
+  "id": 1293377151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65206,35.78865,36.65206,35.78865",
+    "geom:latitude":35.78865,
+    "geom:longitude":36.65206,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arrzaf",
+    "gn:country_code":"SY",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167587,
+    "gn:latitude":35.78865,
+    "gn:longitude":36.65206,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ma\u2018arrzaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0632\u0641"
+    ],
+    "name:und_x_variant":[
+        "Maar Z\u00e2f",
+        "Ma\u2018arr Z\u0101f",
+        "Ma\u2018arrzaf",
+        "Ma\u2018arzaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167587
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86ace90e52b410cf698a53c7b02613eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1293377151,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293377151,
+    "wof:lastmodified":1537701924,
+    "wof:name":"Ma`arrzaf",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65206,
+    35.78865,
+    36.65206,
+    35.78865
+],
+  "geometry": {"coordinates":[36.65206,35.78865],"type":"Point"}
+}

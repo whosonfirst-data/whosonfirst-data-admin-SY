@@ -1,0 +1,75 @@
+{
+  "id": 1259505573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88202,32.77411,35.88202,32.77411",
+    "geom:latitude":32.77411,
+    "geom:longitude":35.88202,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ash Shajarah",
+    "gn:country_code":"SY",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172829,
+    "gn:latitude":32.77411,
+    "gn:longitude":35.88202,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ash Shajarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shajarah",
+        "Chajara",
+        "Ash Shajarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172829
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aede3abf160d4d10a47eeaebdcb2fc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1259505573,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259505573,
+    "wof:lastmodified":1537702293,
+    "wof:name":"Ash Shajarah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88202000000001,
+    32.77411,
+    35.88202000000001,
+    32.77411
+],
+  "geometry": {"coordinates":[35.88202000000001,32.77411],"type":"Point"}
+}

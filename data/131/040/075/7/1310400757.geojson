@@ -1,0 +1,75 @@
+{
+  "id": 1310400757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45736,35.44502,36.45736,35.44502",
+    "geom:latitude":35.44502,
+    "geom:longitude":36.45736,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hawash",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173801,
+    "gn:latitude":35.44502,
+    "gn:longitude":36.45736,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Haw\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0648\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "El Hou\u00e2ch",
+        "Al \u1e28aw\u0101sh",
+        "Al Haw\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173801
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dc011fc88aefe5ab14a2790d3ca0c8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1310400757,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310400757,
+    "wof:lastmodified":1537702366,
+    "wof:name":"Al Hawash",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45736,
+    35.44502,
+    36.45736,
+    35.44502
+],
+  "geometry": {"coordinates":[36.45736,35.44502],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309816633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08344,35.32139,36.08344,35.32139",
+    "geom:latitude":35.32139,
+    "geom:longitude":36.08344,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn Salim",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172115,
+    "gn:latitude":35.32139,
+    "gn:longitude":36.08344,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u2018Ayn S\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0633\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Sallo\u00fbm",
+        "\u2018Ayn Sall\u016bm",
+        "\u2018Ayn S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172115
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d11d9eacf95aeadb908565594d9d693b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1309816633,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309816633,
+    "wof:lastmodified":1537702248,
+    "wof:name":"`Ayn Salim",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08344,
+    35.32139,
+    36.08344,
+    35.32139
+],
+  "geometry": {"coordinates":[36.08344,35.32139],"type":"Point"}
+}

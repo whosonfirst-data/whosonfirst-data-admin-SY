@@ -1,0 +1,73 @@
+{
+  "id": 1259968625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27405,35.22617,37.27405,35.22617",
+    "geom:latitude":35.22617,
+    "geom:longitude":37.27405,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khanafis",
+    "gn:country_code":"SY",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420118,
+    "gn:latitude":35.22617,
+    "gn:longitude":37.27405,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khan\u0101fis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u0627\u0641\u0633"
+    ],
+    "name:und_x_variant":[
+        "Khan\u0101fis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"edd38faac20427a43d8f6f199e677e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259968625,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259968625,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Khanafis",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27405,
+    35.22617,
+    37.27405,
+    35.22617
+],
+  "geometry": {"coordinates":[37.27405,35.22617],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310294579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10944,35.68727,37.10944,35.68727",
+    "geom:latitude":35.68727,
+    "geom:longitude":37.10944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rifiyah",
+    "gn:country_code":"SY",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8339967,
+    "gn:latitude":35.68727,
+    "gn:longitude":37.10944,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"R\u012bf\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "R\u012bf\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339967
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96440d6ee6b5fdc26b2bacee8366596e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310294579,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310294579,
+    "wof:lastmodified":1537702532,
+    "wof:name":"Rifiyah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10944,
+    35.68727,
+    37.10944,
+    35.68727
+],
+  "geometry": {"coordinates":[37.10944,35.68727],"type":"Point"}
+}

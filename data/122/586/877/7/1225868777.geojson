@@ -1,0 +1,67 @@
+{
+  "id": 1225868777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.61712,35.89656,38.61712,35.89656",
+    "geom:latitude":35.89656,
+    "geom:longitude":38.61712,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Big Suwaydiya",
+    "gn:country_code":"SY",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427235,
+    "gn:latitude":35.89656,
+    "gn:longitude":38.61712,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Big Suwaydiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427235
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"715d91c6e534e0a0ac8b47afcfe6f234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1225868777,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1225868777,
+    "wof:lastmodified":1536979849,
+    "wof:name":"Big Suwaydiya",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.61712,
+    35.89656,
+    38.61712,
+    35.89656
+],
+  "geometry": {"coordinates":[38.61712,35.89656],"type":"Point"}
+}

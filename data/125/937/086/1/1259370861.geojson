@@ -1,0 +1,73 @@
+{
+  "id": 1259370861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50623,34.52819,36.50623,34.52819",
+    "geom:latitude":34.52819,
+    "geom:longitude":36.50623,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Burhaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11431944,
+    "gn:latitude":34.52819,
+    "gn:longitude":36.50623,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Burh\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0647\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Burh\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11431944
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e86d40319fd1d5425db9abcf8d6bd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1259370861,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259370861,
+    "wof:lastmodified":1537702616,
+    "wof:name":"Al Burhaniyah",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50623,
+    34.52819,
+    36.50623,
+    34.52819
+],
+  "geometry": {"coordinates":[36.50623,34.52819],"type":"Point"}
+}

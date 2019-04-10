@@ -1,0 +1,73 @@
+{
+  "id": 1293171739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93813,34.99585,35.93813,34.99585",
+    "geom:latitude":34.99585,
+    "geom:longitude":35.93813,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bustan al Ghurayb",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8269982,
+    "gn:latitude":34.99585,
+    "gn:longitude":35.93813,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bust\u0101n al Ghurayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u063a\u0631\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n al Ghurayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8269982
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c5dbe8247b26906840a590de2c82c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293171739,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293171739,
+    "wof:lastmodified":1537702506,
+    "wof:name":"Bustan al Ghurayb",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93813,
+    34.99585,
+    35.93813,
+    34.99585
+],
+  "geometry": {"coordinates":[35.93813,34.99585],"type":"Point"}
+}

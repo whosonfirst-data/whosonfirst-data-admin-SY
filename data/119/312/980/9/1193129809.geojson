@@ -1,0 +1,84 @@
+{
+  "id": 1193129809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20455,32.73376,36.20455,32.73376",
+    "geom:latitude":32.73376,
+    "geom:longitude":36.20455,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khirbat Ghazalah",
+    "gn:country_code":"SY",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":168120,
+    "gn:latitude":32.73376,
+    "gn:longitude":36.20455,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khirbat Ghaz\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u063a\u0632\u0627\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u063a\u0632\u0627\u0644\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0440\u0431\u0435\u0442-\u044d\u043b\u044c-\u0413\u0430\u0437\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rhaz\u00e2le",
+        "Ghazale",
+        "Khirbet el Ghaz\u0101le",
+        "Khirbat Ghaz\u0101lah",
+        "Kheurbet Rhaz\u00e2l\u00e9",
+        "Khirbat al Ghaz\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168120
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c13249707da7207e8c30533902188f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1193129809,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1193129809,
+    "wof:lastmodified":1537701971,
+    "wof:name":"Khirbat Ghazalah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20455,
+    32.73376,
+    36.20455,
+    32.73376
+],
+  "geometry": {"coordinates":[36.20455,32.73376],"type":"Point"}
+}

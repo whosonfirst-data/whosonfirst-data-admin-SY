@@ -1,0 +1,74 @@
+{
+  "id": 1259874751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80631,35.14257,36.80631,35.14257",
+    "geom:latitude":35.14257,
+    "geom:longitude":36.80631,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr Qassarin",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8183990,
+    "gn:latitude":35.14257,
+    "gn:longitude":36.80631,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Zawr Qa\u015f\u015f\u0101r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0642\u0635\u0627\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zawr Qa\u015f\u015farayn",
+        "Zawr Qa\u015f\u015f\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183990
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"337ab67d099b09518c52de5399fa30f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259874751,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259874751,
+    "wof:lastmodified":1537702482,
+    "wof:name":"Zawr Qassarin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80631,
+    35.14257,
+    36.80631,
+    35.14257
+],
+  "geometry": {"coordinates":[36.80631,35.14257],"type":"Point"}
+}

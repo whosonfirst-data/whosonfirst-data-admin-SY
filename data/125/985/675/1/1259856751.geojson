@@ -1,0 +1,75 @@
+{
+  "id": 1259856751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40264,35.51632,36.40264,35.51632",
+    "geom:latitude":35.51632,
+    "geom:longitude":36.40264,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shahranaz",
+    "gn:country_code":"SY",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164616,
+    "gn:latitude":35.51632,
+    "gn:longitude":36.40264,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Shahran\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0631\u0646\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Chahran\u00e2z",
+        "Shahran\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164616,
+        "wk:page":"Shahranaz"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9c98a98bc77f5f96d3f409d70f33bd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1259856751,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259856751,
+    "wof:lastmodified":1537701744,
+    "wof:name":"Shahranaz",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40264000000001,
+    35.51632,
+    36.40264000000001,
+    35.51632
+],
+  "geometry": {"coordinates":[36.40264000000001,35.51632],"type":"Point"}
+}

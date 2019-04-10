@@ -1,0 +1,67 @@
+{
+  "id": 1209593877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10249,34.75994,37.10249,34.75994",
+    "geom:latitude":34.75994,
+    "geom:longitude":37.10249,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jubb Umm Murayghan",
+    "gn:country_code":"SY",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392,
+    "gn:latitude":34.75994,
+    "gn:longitude":37.10249,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Jubb Umm Muraygh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0623\u0645 \u0645\u0631\u064a\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jubb Umm Muraygh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"703c370b35d959f2a0e19360f52fadc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209593877
+        }
+    ],
+    "wof:id":1209593877,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Jubb Umm Murayghan",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10249,
+    34.75994,
+    37.10249,
+    34.75994
+],
+  "geometry": {"coordinates":[37.10249,34.75994],"type":"Point"}
+}

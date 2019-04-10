@@ -1,0 +1,74 @@
+{
+  "id": 1326815767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21057,33.22183,36.21057,33.22183",
+    "geom:latitude":33.22183,
+    "geom:longitude":36.21057,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khirbat `Ammar",
+    "gn:country_code":"SY",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168091,
+    "gn:latitude":33.22183,
+    "gn:longitude":36.21057,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khirbat \u2018Amm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0639\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Aamm\u00e2r",
+        "Khirbat \u2018Amm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168091
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b5314832d8a284628b8e3444b8ccd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1326815767,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1326815767,
+    "wof:lastmodified":1537701969,
+    "wof:name":"Khirbat `Ammar",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21057,
+    33.22183,
+    36.21057,
+    33.22183
+],
+  "geometry": {"coordinates":[36.21057,33.22183],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360204757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13179,33.34765,36.13179,33.34765",
+    "geom:latitude":33.34765,
+    "geom:longitude":36.13179,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ashrafiyat al `Abbasiyah",
+    "gn:country_code":"SY",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172842,
+    "gn:latitude":33.34765,
+    "gn:longitude":36.13179,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ashraf\u012byat al \u2018Abb\u0101s\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0634\u0631\u0641\u064a\u0629 \u0627\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0634\u0631\u0641\u064a\u0629 \u0627\u0644\u0639\u0628\u0627\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Achraf\u00eeyet el Aabb\u00e2s",
+        "Achrafie el Abbas",
+        "Achraf\u00eeyet el Aabb\u00e2ss",
+        "Ashraf\u012byat al \u2018Abb\u0101s",
+        "Ashraf\u012byat al \u2018Abb\u0101s\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172842
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d9004f2ee8b1ff5d47b9a21b594b8d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1360204757,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360204757,
+    "wof:lastmodified":1537702295,
+    "wof:name":"Ashrafiyat al `Abbasiyah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13179,
+    33.34765,
+    36.13179,
+    33.34765
+],
+  "geometry": {"coordinates":[36.13179,33.34765],"type":"Point"}
+}

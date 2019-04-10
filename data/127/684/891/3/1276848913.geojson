@@ -1,0 +1,77 @@
+{
+  "id": 1276848913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3489,34.7367,37.3489,34.7367",
+    "geom:latitude":34.7367,
+    "geom:longitude":37.3489,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Saj",
+    "gn:country_code":"SY",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162849,
+    "gn:latitude":34.7367,
+    "gn:longitude":37.3489,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Umm \u015e\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm S\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "Umm \u015e\u0101j",
+        "\u0623\u0645 \u0635\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Oum S\u00e2j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162849
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e71b7df1a03e21a0ec833107dbc9b692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1276848913,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276848913,
+    "wof:lastmodified":1537701619,
+    "wof:name":"Umm Saj",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3489,
+    34.7367,
+    37.3489,
+    34.7367
+],
+  "geometry": {"coordinates":[37.3489,34.7367],"type":"Point"}
+}

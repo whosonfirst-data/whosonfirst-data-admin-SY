@@ -1,0 +1,73 @@
+{
+  "id": 1260162041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46453,34.57439,36.46453,34.57439",
+    "geom:latitude":34.57439,
+    "geom:longitude":36.46453,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al `Ajami",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427405,
+    "gn:latitude":34.57439,
+    "gn:longitude":36.46453,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Al \u2018Ajam\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ajam\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427405
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e3351eeb813a69482bb0106795373e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1260162041,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260162041,
+    "wof:lastmodified":1537702568,
+    "wof:name":"Al `Ajami",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46453,
+    34.57439,
+    36.46453,
+    34.57439
+],
+  "geometry": {"coordinates":[36.46453,34.57439],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360273417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13528,34.64717,37.13528,34.64717",
+    "geom:latitude":34.64717,
+    "geom:longitude":37.13528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Hamrah",
+    "gn:country_code":"SY",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169943,
+    "gn:latitude":34.64717,
+    "gn:longitude":37.13528,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Al Hamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0631\u0629 \u0627\u0644\u0635\u0648\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hamr\u00e2te Sao\u00fb\u00e2n\u00e9",
+        "\u1e28amrat a\u015f \u015eaww\u0101nah",
+        "Al Hamrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169943
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6eb017f6073ea1af8411bfe55c3d49ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1360273417,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360273417,
+    "wof:lastmodified":1537702099,
+    "wof:name":"Al Hamrah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13528,
+    34.64717,
+    37.13528,
+    34.64717
+],
+  "geometry": {"coordinates":[37.13528,34.64717],"type":"Point"}
+}

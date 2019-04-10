@@ -1,0 +1,77 @@
+{
+  "id": 1242956541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9242,35.07888,35.9242,35.07888",
+    "geom:latitude":35.07888,
+    "geom:longitude":35.9242,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zahr Safrah",
+    "gn:country_code":"SY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170969,
+    "gn:latitude":35.07888,
+    "gn:longitude":35.9242,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Z\u0327ahr \u015eafrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631 \u0635\u0641\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr \u015eafrah",
+        "Dhahr Safra",
+        "\u1e10ahr \u015eafr\u0101\u2019",
+        "\u1e10ahr a\u015f \u015eafr\u0101\u2019",
+        "Z\u0327ahr \u015eafrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170969
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7ac97cb9e3ef309021f2812cdcd5fccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1242956541,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242956541,
+    "wof:lastmodified":1537702161,
+    "wof:name":"Zahr Safrah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9242,
+    35.07888,
+    35.9242,
+    35.07888
+],
+  "geometry": {"coordinates":[35.9242,35.07888],"type":"Point"}
+}

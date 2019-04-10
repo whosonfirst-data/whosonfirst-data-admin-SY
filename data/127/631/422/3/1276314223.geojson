@@ -1,0 +1,73 @@
+{
+  "id": 1276314223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95258,34.80791,36.95258,34.80791",
+    "geom:latitude":34.80791,
+    "geom:longitude":36.95258,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Hamidiyah",
+    "gn:country_code":"SY",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051623,
+    "gn:latitude":34.80791,
+    "gn:longitude":36.95258,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al \u1e28am\u012bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u064a\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28am\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051623
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4865e0e6068f58bfbb6a484990a8246f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1276314223,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276314223,
+    "wof:lastmodified":1537702479,
+    "wof:name":"Al Hamidiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95258,
+    34.80791,
+    36.95258,
+    34.80791
+],
+  "geometry": {"coordinates":[36.95258,34.80791],"type":"Point"}
+}

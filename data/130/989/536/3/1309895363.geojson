@@ -1,0 +1,75 @@
+{
+  "id": 1309895363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83222,36.59404,37.83222,36.59404",
+    "geom:latitude":36.59404,
+    "geom:longitude":37.83222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Nafakh",
+    "gn:country_code":"SY",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167990,
+    "gn:latitude":36.59404,
+    "gn:longitude":37.83222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat Nafakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0646\u0641\u062e"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Nafakh",
+        "Kheurbet en Nafak",
+        "Khirbat Nafakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167990
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ef25ec32f769971131989955c945473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1309895363,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309895363,
+    "wof:lastmodified":1537701960,
+    "wof:name":"Khirbat Nafakh",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83222,
+    36.59404,
+    37.83222,
+    36.59404
+],
+  "geometry": {"coordinates":[37.83222,36.59404],"type":"Point"}
+}

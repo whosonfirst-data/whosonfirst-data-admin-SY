@@ -1,0 +1,73 @@
+{
+  "id": 1243534555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74721,36.21592,36.74721,36.21592",
+    "geom:latitude":36.21592,
+    "geom:longitude":36.74721,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hirsh an Nahl",
+    "gn:country_code":"SY",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554197,
+    "gn:latitude":36.21592,
+    "gn:longitude":36.74721,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28irsh an Na\u1e29l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0634 \u0627\u0644\u0646\u062d\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u1e28irsh an Na\u1e29l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554197
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68885c6518b0e61d75a1b7a46a5de555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1243534555,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243534555,
+    "wof:lastmodified":1537702629,
+    "wof:name":"Hirsh an Nahl",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74721,
+    36.21592,
+    36.74721,
+    36.21592
+],
+  "geometry": {"coordinates":[36.74721,36.21592],"type":"Point"}
+}

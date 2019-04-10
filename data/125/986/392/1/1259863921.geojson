@@ -1,0 +1,83 @@
+{
+  "id": 1259863921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68747,36.59362,37.68747,36.59362",
+    "geom:latitude":36.59362,
+    "geom:longitude":37.68747,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baysh",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12893,
+    "gn:latitude":36.59362,
+    "gn:longitude":37.68747,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Baysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0648\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0634",
+        "\u0628\u064a\u0644\u064a\u0633",
+        "\u0628\u064a\u0644\u0633"
+    ],
+    "name:und_x_variant":[
+        "Salw\u00e1",
+        "Baysh",
+        "Beylis",
+        "B\u00e9lis",
+        "Bayl\u012bs",
+        "Baylis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12893
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8bcf6ce9a870277d07fe0ef1e37c06de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1259863921,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259863921,
+    "wof:lastmodified":1537701578,
+    "wof:name":"Baysh",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68747000000001,
+    36.59362,
+    37.68747000000001,
+    36.59362
+],
+  "geometry": {"coordinates":[37.68747000000001,36.59362],"type":"Point"}
+}

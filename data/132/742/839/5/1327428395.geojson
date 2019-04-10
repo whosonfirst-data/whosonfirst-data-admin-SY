@@ -1,0 +1,74 @@
+{
+  "id": 1327428395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.57616,35.38969,40.57616,35.38969",
+    "geom:latitude":35.38969,
+    "geom:longitude":40.57616,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"As Sijri",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130918,
+    "gn:latitude":35.38969,
+    "gn:longitude":40.57616,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"As Sijr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062c\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "As Sijr\u012b",
+        "As Sujar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130918
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"accdbe4e97e123b836a8ff028653aea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1327428395,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1327428395,
+    "wof:lastmodified":1537702594,
+    "wof:name":"As Sijri",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.57616,
+    35.38969,
+    40.57616,
+    35.38969
+],
+  "geometry": {"coordinates":[40.57616,35.38969],"type":"Point"}
+}

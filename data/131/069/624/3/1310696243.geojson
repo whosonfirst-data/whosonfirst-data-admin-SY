@@ -1,0 +1,77 @@
+{
+  "id": 1310696243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87201,36.26637,36.87201,36.26637",
+    "geom:latitude":36.26637,
+    "geom:longitude":36.87201,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tammurah",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163394,
+    "gn:latitude":36.26637,
+    "gn:longitude":36.87201,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tamm\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tennoura",
+        "Tanno\u00fbra",
+        "Tamo\u00fbra",
+        "Tann\u016brah",
+        "Tamm\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163394
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5a02878b3ab156d6ae5e8c90932b636b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310696243,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310696243,
+    "wof:lastmodified":1537701653,
+    "wof:name":"Tammurah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87201,
+    36.26637,
+    36.87201,
+    36.26637
+],
+  "geometry": {"coordinates":[36.87201,36.26637],"type":"Point"}
+}

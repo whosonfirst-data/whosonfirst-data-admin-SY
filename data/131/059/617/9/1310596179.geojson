@@ -1,0 +1,77 @@
+{
+  "id": 1310596179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84215,36.77116,36.84215,36.77116",
+    "geom:latitude":36.77116,
+    "geom:longitude":36.84215,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qurnah as Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231845,
+    "gn:latitude":36.77116,
+    "gn:longitude":36.84215,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Q\u016brnah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016brn\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0631\u0646\u064a",
+        "\u0642\u0648\u0631\u0646\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Q\u016brnah a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231845
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f5597f5b855875221e3238de461785b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1310596179,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310596179,
+    "wof:lastmodified":1537702484,
+    "wof:name":"Qurnah as Saghirah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84215,
+    36.77116,
+    36.84215,
+    36.77116
+],
+  "geometry": {"coordinates":[36.84215,36.77116],"type":"Point"}
+}

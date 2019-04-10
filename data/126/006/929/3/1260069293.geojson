@@ -1,0 +1,73 @@
+{
+  "id": 1260069293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87306,34.99472,36.87306,34.99472",
+    "geom:latitude":34.99472,
+    "geom:longitude":36.87306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr al Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8319352,
+    "gn:latitude":34.99472,
+    "gn:longitude":36.87306,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zawr al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zawr al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8319352
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94d6086c31ac70f96a8fec2cef31b19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1260069293,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260069293,
+    "wof:lastmodified":1537702524,
+    "wof:name":"Zawr al Kabir",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87306,
+    34.99472,
+    36.87306,
+    34.99472
+],
+  "geometry": {"coordinates":[36.87306,34.99472],"type":"Point"}
+}

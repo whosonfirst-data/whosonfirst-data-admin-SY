@@ -1,0 +1,79 @@
+{
+  "id": 1310002691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12188,33.60982,36.12188,33.60982",
+    "geom:latitude":33.60982,
+    "geom:longitude":36.12188,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Husayniyah",
+    "gn:country_code":"SY",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173761,
+    "gn:latitude":33.60982,
+    "gn:longitude":36.12188,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Al \u1e28usayn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0633\u064a\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Husseini\u00e9",
+        "Houssa\u00efn\u00eey\u00e9",
+        "Al \u1e28usayn\u012byah",
+        "\u1e28usayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173761
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"92a13c311d4323b4b3866771ef9c4fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1310002691,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310002691,
+    "wof:lastmodified":1537702361,
+    "wof:name":"Al Husayniyah",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12188,
+    33.60982,
+    36.12188,
+    33.60982
+],
+  "geometry": {"coordinates":[36.12188,33.60982],"type":"Point"}
+}

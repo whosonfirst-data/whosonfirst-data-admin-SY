@@ -1,0 +1,95 @@
+{
+  "id": 1260272767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09069,36.85759,38.09069,36.85759",
+    "geom:latitude":36.85759,
+    "geom:longitude":38.09069,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jarqili Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164429,
+    "gn:latitude":36.85759,
+    "gn:longitude":38.09069,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"J\u0101rqil\u012b Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0631\u064a\u062e\u0644\u064a \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0631\u062e\u0644\u064a \u0627\u0644\u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u062c\u0627\u0631\u0642\u0644\u064a \u0643\u0628\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Charxil\u00ee Jor"
+    ],
+    "name:kur_x_variant":[
+        "Charqil\u00ee",
+        "\u0686\u0627\u0631\u062e\u0644\u0649 \u0698\u06c6\u0631",
+        "\u0686\u0627\u0631\u0642\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Tch\u00e2rqli Faouq\u00e2ni",
+        "Tch\u00e2rikhli Faouqani",
+        "Tcharkhli",
+        "Sh\u0101rikhl\u012b al Fawq\u0101n\u012b",
+        "J\u0101r\u012bkhal\u012b Fawq\u0101n\u012b",
+        "J\u0101r\u012bkh al Fawq\u0101n\u012b",
+        "Jariqli Fawqani",
+        "Sh\u0101rikhl\u012b Fawq\u0101n\u012b",
+        "Tcharikhli Jor",
+        "\u00c7ariql\u00ee",
+        "J\u0101rqil\u012b Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164429
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"09240824050b0b736860f6aa99bb42f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260272767,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260272767,
+    "wof:lastmodified":1537701733,
+    "wof:name":"Jarqili Kabir",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09069,
+    36.85759,
+    38.09069,
+    36.85759
+],
+  "geometry": {"coordinates":[38.09069,36.85759],"type":"Point"}
+}

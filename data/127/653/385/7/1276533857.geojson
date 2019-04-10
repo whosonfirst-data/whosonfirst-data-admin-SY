@@ -1,0 +1,73 @@
+{
+  "id": 1276533857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74018,34.01532,36.74018,34.01532",
+    "geom:latitude":34.01532,
+    "geom:longitude":36.74018,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kaghgh Hadid",
+    "gn:country_code":"SY",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11430299,
+    "gn:latitude":34.01532,
+    "gn:longitude":36.74018,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kaghgh \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u063a \u062d\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kaghgh \u1e28ad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11430299
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5efee3056528cd32d8acc091c1d9ab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779095,
+            "locality_id":1276533857,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276533857,
+    "wof:lastmodified":1537702615,
+    "wof:name":"Kaghgh Hadid",
+    "wof:parent_id":1108779095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74018,
+    34.01532,
+    36.74018,
+    34.01532
+],
+  "geometry": {"coordinates":[36.74018,34.01532],"type":"Point"}
+}

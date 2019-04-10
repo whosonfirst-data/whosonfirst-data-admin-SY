@@ -1,0 +1,73 @@
+{
+  "id": 1310486111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10053,36.23374,37.10053,36.23374",
+    "geom:latitude":36.23374,
+    "geom:longitude":37.10053,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Balayramun",
+    "gn:country_code":"SY",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888294,
+    "gn:latitude":36.23374,
+    "gn:longitude":37.10053,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Balayr\u0101m\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u064a\u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Balayr\u0101m\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888294
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86223caeb255b660d43dedf0fd079645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310486111,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310486111,
+    "wof:lastmodified":1537702475,
+    "wof:name":"Balayramun",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10053,
+    36.23374,
+    37.10053,
+    36.23374
+],
+  "geometry": {"coordinates":[37.10053,36.23374],"type":"Point"}
+}

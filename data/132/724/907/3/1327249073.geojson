@@ -1,0 +1,73 @@
+{
+  "id": 1327249073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2825,36.24306,40.2825,36.24306",
+    "geom:latitude":36.24306,
+    "geom:longitude":40.2825,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Khanu",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385446,
+    "gn:latitude":36.24306,
+    "gn:longitude":40.2825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kh\u0101n\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101n\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0627\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385446
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2cb9b5d15dfd648d6cc546fadc594639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327249073,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327249073,
+    "wof:lastmodified":1537702427,
+    "wof:name":"Al Khanu",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.2825,
+    36.24306,
+    40.2825,
+    36.24306
+],
+  "geometry": {"coordinates":[40.2825,36.24306],"type":"Point"}
+}

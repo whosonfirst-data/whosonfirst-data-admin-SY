@@ -1,0 +1,74 @@
+{
+  "id": 1310623283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97185,33.41161,35.97185,33.41161",
+    "geom:latitude":33.41161,
+    "geom:longitude":35.97185,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Ayn al Burj",
+    "gn:country_code":"SY",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172233,
+    "gn:latitude":33.41161,
+    "gn:longitude":35.97185,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u2018Ayn al Burj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Borj",
+        "\u2018Ayn al Burj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172233
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7a2430a1766d6b8123ae0ba600bfae59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1310623283,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310623283,
+    "wof:lastmodified":1537702258,
+    "wof:name":"`Ayn al Burj",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97185,
+    33.41161,
+    35.97185,
+    33.41161
+],
+  "geometry": {"coordinates":[35.97185,33.41161],"type":"Point"}
+}

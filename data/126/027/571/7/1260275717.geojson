@@ -1,0 +1,78 @@
+{
+  "id": 1260275717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21892,32.79549,36.21892,32.79549",
+    "geom:latitude":32.79549,
+    "geom:longitude":36.21892,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Namir",
+    "gn:country_code":"SY",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173187,
+    "gn:latitude":32.79549,
+    "gn:longitude":36.21892,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u0101mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An N\u0101mir"
+    ],
+    "name:ara_x_variant":[
+        "N\u0101mir",
+        "\u0646\u0627\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Hamara",
+        "N\u00e2mer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173187
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2086d86ac423108cf4086282606e18d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1260275717,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1260275717,
+    "wof:lastmodified":1537702317,
+    "wof:name":"Namir",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21892,
+    32.79549,
+    36.21892,
+    32.79549
+],
+  "geometry": {"coordinates":[36.21892,32.79549],"type":"Point"}
+}

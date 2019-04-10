@@ -1,0 +1,76 @@
+{
+  "id": 1226332043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12435,36.64344,37.12435,36.64344",
+    "geom:latitude":36.64344,
+    "geom:longitude":37.12435,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shamarih",
+    "gn:country_code":"SY",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164549,
+    "gn:latitude":36.64344,
+    "gn:longitude":37.12435,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sham\u0101ri\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0631\u062d"
+    ],
+    "name:und_x_variant":[
+        "Chm\u00e2req",
+        "Sham\u0101riq",
+        "Sham\u0101rikh",
+        "Sham\u0101ri\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164549
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd8dcf6dd93b2f1ffb80d13fcd11cb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1226332043,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226332043,
+    "wof:lastmodified":1537701741,
+    "wof:name":"Shamarih",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12435,
+    36.64344000000001,
+    37.12435,
+    36.64344000000001
+],
+  "geometry": {"coordinates":[37.12435,36.64344000000001],"type":"Point"}
+}

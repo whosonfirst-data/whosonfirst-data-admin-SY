@@ -1,0 +1,75 @@
+{
+  "id": 1243250567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41458,36.10322,36.41458,36.10322",
+    "geom:latitude":36.10322,
+    "geom:longitude":36.41458,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mazra`at ash Shuyukh",
+    "gn:country_code":"SY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166951,
+    "gn:latitude":36.10322,
+    "gn:longitude":36.41458,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mazra\u2018at ash Shuy\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0634\u064a\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "Mazraat ech Chio\u00fbkh",
+        "Mezraa ech Chioukh",
+        "Mazra\u2018at ash Shuy\u016bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166951
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"652975bf45ef871175547b428992fa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1243250567,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243250567,
+    "wof:lastmodified":1537701890,
+    "wof:name":"Mazra`at ash Shuyukh",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41458,
+    36.10322,
+    36.41458,
+    36.10322
+],
+  "geometry": {"coordinates":[36.41458,36.10322],"type":"Point"}
+}

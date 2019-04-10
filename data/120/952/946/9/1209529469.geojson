@@ -1,0 +1,71 @@
+{
+  "id": 1209529469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.69382,37.09912,40.69382,37.09912",
+    "geom:latitude":37.09912,
+    "geom:longitude":40.69382,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hawashiyah",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169760,
+    "gn:latitude":37.09912,
+    "gn:longitude":40.69382,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haw\u0101sh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0634\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u1e28aw\u0101sh\u012byah"
+    ],
+    "name:und_x_variant":[
+        "Haou\u00e2ch\u00eey\u00e9",
+        "Haw\u0101sh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169760
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6206d16d781124df6b32d4fab27c8573",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209529469
+        }
+    ],
+    "wof:id":1209529469,
+    "wof:lastmodified":1537702086,
+    "wof:name":"Hawashiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.69382,
+    37.09912,
+    40.69382,
+    37.09912
+],
+  "geometry": {"coordinates":[40.69382,37.09912],"type":"Point"}
+}

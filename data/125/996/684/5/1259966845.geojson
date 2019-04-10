@@ -1,0 +1,73 @@
+{
+  "id": 1259966845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26892,35.92709,36.26892,35.92709",
+    "geom:latitude":35.92709,
+    "geom:longitude":36.26892,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karm Juriyah",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554614,
+    "gn:latitude":35.92709,
+    "gn:longitude":36.26892,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Karm J\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0645 \u062c\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Karm J\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554614
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"208056316c7615b15cd1f16d4d681444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1259966845,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259966845,
+    "wof:lastmodified":1537702631,
+    "wof:name":"Karm Juriyah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26892,
+    35.92709,
+    36.26892,
+    35.92709
+],
+  "geometry": {"coordinates":[36.26892,35.92709],"type":"Point"}
+}

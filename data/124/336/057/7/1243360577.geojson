@@ -1,0 +1,74 @@
+{
+  "id": 1243360577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.97792,34.42402,40.97792,34.42402",
+    "geom:latitude":34.42402,
+    "geom:longitude":40.97792,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hawijat Baghuz",
+    "gn:country_code":"SY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384696,
+    "gn:latitude":34.42402,
+    "gn:longitude":40.97792,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u1e28aw\u012bjat B\u0101gh\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u062c\u0629 \u0628\u0627\u063a\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uwayjat B\u0101gh\u016bz",
+        "\u1e28aw\u012bjat B\u0101gh\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384696
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6e4b874c2ca62c8ec9d07018c34a473d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1243360577,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243360577,
+    "wof:lastmodified":1537702423,
+    "wof:name":"Hawijat Baghuz",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.97792000000001,
+    34.42402,
+    40.97792000000001,
+    34.42402
+],
+  "geometry": {"coordinates":[40.97792000000001,34.42402],"type":"Point"}
+}

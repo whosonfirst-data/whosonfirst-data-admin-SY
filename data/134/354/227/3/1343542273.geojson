@@ -1,0 +1,76 @@
+{
+  "id": 1343542273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22741,34.78048,36.22741,34.78048",
+    "geom:latitude":34.78048,
+    "geom:longitude":36.22741,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tannurin",
+    "gn:country_code":"SY",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163392,
+    "gn:latitude":34.78048,
+    "gn:longitude":36.22741,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tann\u016br\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0648\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tanno\u00fbr\u00eey\u00e9",
+        "Tanno\u00fbrin\u00e9",
+        "Tann\u016br\u012bn",
+        "Tannour\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163392
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a9fed196ac44093344a5b3eb84d29a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1343542273,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343542273,
+    "wof:lastmodified":1537701653,
+    "wof:name":"Tannurin",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22741,
+    34.78048,
+    36.22741,
+    34.78048
+],
+  "geometry": {"coordinates":[36.22741,34.78048],"type":"Point"}
+}

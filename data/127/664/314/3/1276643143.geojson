@@ -1,0 +1,74 @@
+{
+  "id": 1276643143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70061,36.05481,36.70061,36.05481",
+    "geom:latitude":36.05481,
+    "geom:longitude":36.70061,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yahmul",
+    "gn:country_code":"SY",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162621,
+    "gn:latitude":36.05481,
+    "gn:longitude":36.70061,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ya\u1e29m\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062d\u0645\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Yahmo\u00fbl",
+        "Ya\u1e29m\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162621
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c22754b1e2c0cbba3204376ea11b9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1276643143,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276643143,
+    "wof:lastmodified":1537701603,
+    "wof:name":"Yahmul",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70061,
+    36.05481,
+    36.70061,
+    36.05481
+],
+  "geometry": {"coordinates":[36.70061,36.05481],"type":"Point"}
+}

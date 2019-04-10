@@ -1,0 +1,77 @@
+{
+  "id": 1276999437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79578,36.95065,40.79578,36.95065",
+    "geom:latitude":36.95065,
+    "geom:longitude":40.79578,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shukhrash Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164218,
+    "gn:latitude":36.95065,
+    "gn:longitude":40.79578,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shukhrash Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062e\u0631\u0634 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Shukhrash al Fawq\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Choukhrech Faouq\u00e2ni",
+        "Shukhrash Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164218
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8a71cc79becfe23cd6886fb3522dcf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276999437,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276999437,
+    "wof:lastmodified":1537701723,
+    "wof:name":"Shukhrash Fawqani",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79578,
+    36.95065,
+    40.79578,
+    36.95065
+],
+  "geometry": {"coordinates":[40.79578,36.95065],"type":"Point"}
+}

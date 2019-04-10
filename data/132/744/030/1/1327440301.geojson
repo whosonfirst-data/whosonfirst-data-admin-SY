@@ -1,0 +1,73 @@
+{
+  "id": 1327440301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80197,35.55337,35.80197,35.55337",
+    "geom:latitude":35.55337,
+    "geom:longitude":35.80197,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qabw Nasri",
+    "gn:country_code":"SY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8445480,
+    "gn:latitude":35.55337,
+    "gn:longitude":35.80197,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Qabw Na\u015fr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0648 \u0646\u0635\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qabw Na\u015fr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445480
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"081c62b3fac1d00d166f5961a2027162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1327440301,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327440301,
+    "wof:lastmodified":1537702571,
+    "wof:name":"Qabw Nasri",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80197000000001,
+    35.55337,
+    35.80197000000001,
+    35.55337
+],
+  "geometry": {"coordinates":[35.80197000000001,35.55337],"type":"Point"}
+}

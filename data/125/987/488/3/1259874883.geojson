@@ -1,0 +1,74 @@
+{
+  "id": 1259874883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36761,35.091,37.36761,35.091",
+    "geom:latitude":35.091,
+    "geom:longitude":37.36761,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mas`ud",
+    "gn:country_code":"SY",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167058,
+    "gn:latitude":35.091,
+    "gn:longitude":37.36761,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mas\u2018\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0639\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Massao\u00fbd",
+        "Mas\u2018\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167058
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"520de2248633ee3118c0f0a3cf2c2517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259874883,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259874883,
+    "wof:lastmodified":1537701897,
+    "wof:name":"Mas`ud",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36761,
+    35.091,
+    37.36761,
+    35.091
+],
+  "geometry": {"coordinates":[37.36761,35.091],"type":"Point"}
+}

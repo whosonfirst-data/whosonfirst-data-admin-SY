@@ -1,0 +1,73 @@
+{
+  "id": 1243385837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81147,32.75368,35.81147,32.75368",
+    "geom:latitude":32.75368,
+    "geom:longitude":35.81147,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Manshiyat Kuwayya",
+    "gn:country_code":"SY",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10312037,
+    "gn:latitude":32.75368,
+    "gn:longitude":35.81147,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Mansh\u012byat Kuwayy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0643\u0648\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u012byat Kuwayy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10312037
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"65693f900614c5b440c5c626b7f49e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1243385837,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1243385837,
+    "wof:lastmodified":1537702601,
+    "wof:name":"Manshiyat Kuwayya",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81147,
+    32.75368,
+    35.81147,
+    32.75368
+],
+  "geometry": {"coordinates":[35.81147,32.75368],"type":"Point"}
+}

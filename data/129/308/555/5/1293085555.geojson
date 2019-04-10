@@ -1,0 +1,74 @@
+{
+  "id": 1293085555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9753,35.99347,37.9753,35.99347",
+    "geom:latitude":35.99347,
+    "geom:longitude":37.9753,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sukkariyah",
+    "gn:country_code":"SY",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341948,
+    "gn:latitude":35.99347,
+    "gn:longitude":37.9753,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Sukkar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0643\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sukkar\u012byah",
+        "Sakar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341948
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6b00080793dbe1da405f56ea7be5a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293085555,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293085555,
+    "wof:lastmodified":1537702543,
+    "wof:name":"Sukkariyah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9753,
+    35.99347,
+    37.9753,
+    35.99347
+],
+  "geometry": {"coordinates":[37.9753,35.99347],"type":"Point"}
+}

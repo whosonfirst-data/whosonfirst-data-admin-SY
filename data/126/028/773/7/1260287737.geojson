@@ -1,0 +1,73 @@
+{
+  "id": 1260287737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91771,35.46777,35.91771,35.46777",
+    "geom:latitude":35.46777,
+    "geom:longitude":35.91771,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qirqis",
+    "gn:country_code":"SY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445190,
+    "gn:latitude":35.46777,
+    "gn:longitude":35.91771,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Qirq\u012b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qirq\u012b\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0642\u064a\u0635"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445190
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"75dd2f2287e5810366b04b8a8ace6733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1260287737,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1260287737,
+    "wof:lastmodified":1537702570,
+    "wof:name":"Qirqis",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91771,
+    35.46777,
+    35.91771,
+    35.46777
+],
+  "geometry": {"coordinates":[35.91771,35.46777],"type":"Point"}
+}

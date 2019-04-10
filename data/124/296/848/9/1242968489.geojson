@@ -1,0 +1,73 @@
+{
+  "id": 1242968489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92916,32.88117,35.92916,32.88117",
+    "geom:latitude":32.88117,
+    "geom:longitude":35.92916,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Bakkar",
+    "gn:country_code":"SY",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10312015,
+    "gn:latitude":32.88117,
+    "gn:longitude":35.92916,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Al Bakk\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0643\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Bakk\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10312015
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df8aa22b84bc0f02e5c0c523c790c452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1242968489,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1242968489,
+    "wof:lastmodified":1537702601,
+    "wof:name":"Al Bakkar",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92916,
+    32.88117,
+    35.92916,
+    32.88117
+],
+  "geometry": {"coordinates":[35.92916,32.88117],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226429493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49889,35.8083,36.49889,35.8083",
+    "geom:latitude":35.8083,
+    "geom:longitude":36.49889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dabsanqul",
+    "gn:country_code":"SY",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171733,
+    "gn:latitude":35.8083,
+    "gn:longitude":36.49889,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Dabsanq\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0646\u0642\u0648\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0628\u0633\u0646\u0642\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bassannqo\u00fbl",
+        "Basanq\u016bl",
+        "Basnaq\u016bl",
+        "Dabsanq\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171733
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a1893009502b752332d461eee1908d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1226429493,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226429493,
+    "wof:lastmodified":1537702222,
+    "wof:name":"Dabsanqul",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49889,
+    35.8083,
+    36.49889,
+    35.8083
+],
+  "geometry": {"coordinates":[36.49889,35.8083],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260277247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39071,35.18753,36.39071,35.18753",
+    "geom:latitude":35.18753,
+    "geom:longitude":36.39071,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kanfa",
+    "gn:country_code":"SY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168577,
+    "gn:latitude":35.18753,
+    "gn:longitude":36.39071,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kanf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u0641\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0646\u0641\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kannfo",
+        "Kanf\u016b",
+        "Kanf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168577
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b75dd07b8431dff3d9783eda3b693d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1260277247,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260277247,
+    "wof:lastmodified":1537702003,
+    "wof:name":"Kanfa",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39071,
+    35.18752999999999,
+    36.39071,
+    35.18752999999999
+],
+  "geometry": {"coordinates":[36.39071,35.18752999999999],"type":"Point"}
+}

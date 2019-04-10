@@ -1,0 +1,76 @@
+{
+  "id": 1360172849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2516,34.78588,36.2516,34.78588",
+    "geom:latitude":34.78588,
+    "geom:longitude":36.2516,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jawar al `Afs",
+    "gn:country_code":"SY",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169146,
+    "gn:latitude":34.78588,
+    "gn:longitude":36.2516,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jaw\u0101r al \u2018Af\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0627\u0631 \u0627\u0644\u0639\u0641\u0635"
+    ],
+    "name:und_x_variant":[
+        "Jou\u00e2r el Aafs",
+        "Jaw\u0101r al \u2018Af\u015f",
+        "Juw\u0101r al \u2018Af\u015f",
+        "Jouar el Aafs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169146
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"51482a9df8a1c50a8a6eba6c140f33b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1360172849,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360172849,
+    "wof:lastmodified":1537702048,
+    "wof:name":"Jawar al `Afs",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2516,
+    34.78588,
+    36.2516,
+    34.78588
+],
+  "geometry": {"coordinates":[36.2516,34.78588],"type":"Point"}
+}

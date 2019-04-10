@@ -1,0 +1,79 @@
+{
+  "id": 1193159989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84535,32.66925,36.84535,32.66925",
+    "geom:latitude":32.66925,
+    "geom:longitude":36.84535,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"172409.0",
+    "gn:asciiname":"Rushaydah",
+    "gn:country_code":"SY",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172908,
+    "gn:latitude":32.66925,
+    "gn:longitude":36.84535,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Rushaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0634\u064a\u062f\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0448\u0435\u0439\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Roucha\u00efd\u00e9",
+        "Ar Rushaydah",
+        "Rushaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172908
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2e604b9c48e924210df3d1d089be9128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1193159989,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1193159989,
+    "wof:lastmodified":1537702298,
+    "wof:name":"Rushaydah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84535,
+    32.66925,
+    36.84535,
+    32.66925
+],
+  "geometry": {"coordinates":[36.84535,32.66925],"type":"Point"}
+}

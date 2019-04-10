@@ -1,0 +1,77 @@
+{
+  "id": 1343442101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17103,34.70822,37.17103,34.70822",
+    "geom:latitude":34.70822,
+    "geom:longitude":37.17103,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Muhashsham",
+    "gn:country_code":"SY",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362,
+    "gn:latitude":34.70822,
+    "gn:longitude":37.17103,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Al Muhashsham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u0634\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0647\u0634\u0645"
+    ],
+    "name:und_x_variant":[
+        "Muhashsham",
+        "Al Muhashsham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"083860a85f2eaed0c64807a49365c298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1343442101,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343442101,
+    "wof:lastmodified":1537701525,
+    "wof:name":"Al Muhashsham",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17103,
+    34.70822,
+    37.17103,
+    34.70822
+],
+  "geometry": {"coordinates":[37.17103,34.70822],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293190621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.268,36.53714,37.268,36.53714",
+    "geom:latitude":36.53714,
+    "geom:longitude":37.268,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dabiq",
+    "gn:country_code":"SY",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171011,
+    "gn:latitude":36.53714,
+    "gn:longitude":37.268,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"D\u0101biq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101biq"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0628\u0642"
+    ],
+    "name:und_x_variant":[
+        "D\u0101bik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171011,
+        "wk:page":"Dabiq"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ff962140baaa638ef489c9f41f36f182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1293190621,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293190621,
+    "wof:lastmodified":1537702164,
+    "wof:name":"Dabiq",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.268,
+    36.53714,
+    37.268,
+    36.53714
+],
+  "geometry": {"coordinates":[37.268,36.53714],"type":"Point"}
+}

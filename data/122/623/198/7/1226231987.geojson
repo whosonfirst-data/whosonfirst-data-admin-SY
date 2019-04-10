@@ -1,0 +1,73 @@
+{
+  "id": 1226231987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09256,35.71162,38.09256,35.71162",
+    "geom:latitude":35.71162,
+    "geom:longitude":38.09256,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb `Urman",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347020,
+    "gn:latitude":35.71162,
+    "gn:longitude":38.09256,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Jubb \u2018Urm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jubb \u2018Urm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628 \u0639\u0631\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347020
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aadb566a3c32cfbcd19e82d531fedd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226231987,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226231987,
+    "wof:lastmodified":1537702551,
+    "wof:name":"Jubb `Urman",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09256,
+    35.71162,
+    38.09256,
+    35.71162
+],
+  "geometry": {"coordinates":[38.09256,35.71162],"type":"Point"}
+}

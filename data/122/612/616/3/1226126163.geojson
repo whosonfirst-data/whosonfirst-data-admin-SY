@@ -1,0 +1,75 @@
+{
+  "id": 1226126163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33534,35.14931,37.33534,35.14931",
+    "geom:latitude":35.14931,
+    "geom:longitude":37.33534,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb al Mazazi`",
+    "gn:country_code":"SY",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168962,
+    "gn:latitude":35.14931,
+    "gn:longitude":37.33534,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jubb al Maz\u0101z\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0645\u0632\u0627\u0632\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Joubb el Maz\u00e2r\u00eeb",
+        "Jubb al Maz\u0101r\u012bb",
+        "Jubb al Maz\u0101z\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168962
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ab8a1dae6714aa93b8428b62db15acef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226126163,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226126163,
+    "wof:lastmodified":1537702035,
+    "wof:name":"Jubb al Mazazi`",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33534,
+    35.14931,
+    37.33534,
+    35.14931
+],
+  "geometry": {"coordinates":[37.33534,35.14931],"type":"Point"}
+}

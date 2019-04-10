@@ -1,0 +1,75 @@
+{
+  "id": 1260375215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44208,35.93945,37.44208,35.93945",
+    "geom:latitude":35.93945,
+    "geom:longitude":37.44208,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al `Umayriyah",
+    "gn:country_code":"SY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163033,
+    "gn:latitude":35.93945,
+    "gn:longitude":37.44208,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al \u2018Umayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u064a\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Oma\u00efr\u00eey\u00e9",
+        "\u2018Umayr\u012byah",
+        "Al \u2018Umayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163033
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d08de6fc5d44b4dff8ea08a7859fe141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1260375215,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260375215,
+    "wof:lastmodified":1537701632,
+    "wof:name":"Al `Umayriyah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44208,
+    35.93945,
+    37.44208,
+    35.93945
+],
+  "geometry": {"coordinates":[37.44208,35.93945],"type":"Point"}
+}

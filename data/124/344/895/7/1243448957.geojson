@@ -1,0 +1,74 @@
+{
+  "id": 1243448957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06667,35.91911,37.06667,35.91911",
+    "geom:latitude":35.91911,
+    "geom:longitude":37.06667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Haddad",
+    "gn:country_code":"SY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168696,
+    "gn:latitude":35.91911,
+    "gn:longitude":37.06667,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kafr \u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafer Hadd\u00e2d",
+        "Kafr \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168696
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce36c1b1dfbef89b55bab9f402c57025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1243448957,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243448957,
+    "wof:lastmodified":1537702014,
+    "wof:name":"Kafr Haddad",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06667,
+    35.91911,
+    37.06667,
+    35.91911
+],
+  "geometry": {"coordinates":[37.06667,35.91911],"type":"Point"}
+}

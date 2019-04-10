@@ -1,0 +1,73 @@
+{
+  "id": 1226720949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94082,34.90127,35.94082,34.90127",
+    "geom:latitude":34.90127,
+    "geom:longitude":35.94082,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Burghuliyah",
+    "gn:country_code":"SY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266561,
+    "gn:latitude":34.90127,
+    "gn:longitude":35.94082,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Burghul\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u063a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Burghul\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266561
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"116cfd89e81c7bf139ab3344a8403d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226720949,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226720949,
+    "wof:lastmodified":1537702502,
+    "wof:name":"Al Burghuliyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94082,
+    34.90127,
+    35.94082,
+    34.90127
+],
+  "geometry": {"coordinates":[35.94082,34.90127],"type":"Point"}
+}

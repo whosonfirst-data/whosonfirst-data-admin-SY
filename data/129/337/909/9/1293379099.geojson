@@ -1,0 +1,75 @@
+{
+  "id": 1293379099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20419,35.53426,37.20419,35.53426",
+    "geom:latitude":35.53426,
+    "geom:longitude":37.20419,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tarfawi",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163358,
+    "gn:latitude":35.53426,
+    "gn:longitude":37.20419,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0162arf\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0641\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Terf\u00e2oui",
+        "\u0162arf\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163358,
+        "wk:page":"Tarfawi"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"378500a576c20339531cf27eeae68c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293379099,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293379099,
+    "wof:lastmodified":1537701651,
+    "wof:name":"Tarfawi",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20419,
+    35.53426,
+    37.20419,
+    35.53426
+],
+  "geometry": {"coordinates":[37.20419,35.53426],"type":"Point"}
+}

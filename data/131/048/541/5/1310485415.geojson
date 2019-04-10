@@ -1,0 +1,73 @@
+{
+  "id": 1310485415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4856,35.04596,37.4856,35.04596",
+    "geom:latitude":35.04596,
+    "geom:longitude":37.4856,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb ar Rumman",
+    "gn:country_code":"SY",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8340988,
+    "gn:latitude":35.04596,
+    "gn:longitude":37.4856,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb ar Rumm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jubb ar Rumm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340988
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0130657a395cc4b827aa3e389e46f220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310485415,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310485415,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Jubb ar Rumman",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4856,
+    35.04596,
+    37.4856,
+    35.04596
+],
+  "geometry": {"coordinates":[37.4856,35.04596],"type":"Point"}
+}

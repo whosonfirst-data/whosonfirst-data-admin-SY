@@ -1,0 +1,75 @@
+{
+  "id": 1209809253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39462,34.97369,36.39462,34.97369",
+    "geom:latitude":34.97369,
+    "geom:longitude":36.39462,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Matnah",
+    "gn:country_code":"SY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167039,
+    "gn:latitude":34.97369,
+    "gn:longitude":36.39462,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Matnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Metn\u00e2h",
+        "Matn\u0101b",
+        "Matnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167039
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"943954b5e168963d25882b114d5a5c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1209809253,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209809253,
+    "wof:lastmodified":1537701897,
+    "wof:name":"Matnah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39462,
+    34.97369,
+    36.39462,
+    34.97369
+],
+  "geometry": {"coordinates":[36.39462,34.97369],"type":"Point"}
+}

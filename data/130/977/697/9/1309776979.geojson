@@ -1,0 +1,70 @@
+{
+  "id": 1309776979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99923,34.79271,35.99923,34.79271",
+    "geom:latitude":34.79271,
+    "geom:longitude":35.99923,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ar Ruwaysah",
+    "gn:country_code":"SY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539906,
+    "gn:latitude":34.79271,
+    "gn:longitude":35.99923,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ar Ruwaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539906
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4eb1f24383c668cd09baa6bb2ef8b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1309776979,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309776979,
+    "wof:lastmodified":1537702577,
+    "wof:name":"Ar Ruwaysah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99923,
+    34.79271,
+    35.99923,
+    34.79271
+],
+  "geometry": {"coordinates":[35.99923,34.79271],"type":"Point"}
+}

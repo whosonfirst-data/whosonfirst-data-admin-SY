@@ -1,0 +1,83 @@
+{
+  "id": 1326820129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52005,36.76497,38.52005,36.76497",
+    "geom:latitude":36.76497,
+    "geom:longitude":38.52005,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall al Hajar Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163332,
+    "gn:latitude":36.76497,
+    "gn:longitude":38.52005,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tall al \u1e28ajar Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u062d\u062c\u0631 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0627\u0634\u0644\u064a \u0647\u064a\u0648\u0643 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ach\u00e2rheu Tachli Huyuk",
+        "T\u00e2chli Huyuk Taht\u00e2ni",
+        "Aacharheu Tachleuk",
+        "\u0162\u0101shl\u012b H\u016by\u016bq Ta\u1e29t\u0101n\u012b",
+        "\u0162\u0101shl\u012b Huy\u016bk",
+        "\u0162\u0101shl\u012b Huy\u016bk Tah\u0163\u0101n\u012b",
+        "\u0162\u0101shl\u012b Huy\u016bk at Ta\u1e29t\u0101n\u012b",
+        "Tall al \u1e28ajar Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163332
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8596164b23849b07ce4cf11d35cff7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1326820129,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326820129,
+    "wof:lastmodified":1537701649,
+    "wof:name":"Tall al Hajar Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52005,
+    36.76497,
+    38.52005,
+    36.76497
+],
+  "geometry": {"coordinates":[38.52005,36.76497],"type":"Point"}
+}

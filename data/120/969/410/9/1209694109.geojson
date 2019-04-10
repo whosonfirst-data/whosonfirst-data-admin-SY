@@ -1,0 +1,67 @@
+{
+  "id": 1209694109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54463,34.78743,37.54463,34.78743",
+    "geom:latitude":34.78743,
+    "geom:longitude":37.54463,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hazirat al Mu`allaq",
+    "gn:country_code":"SY",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416,
+    "gn:latitude":34.78743,
+    "gn:longitude":37.54463,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u1e28az\u0327\u012brat al Mu\u2018allaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0638\u064a\u0631\u0629 \u0627\u0644\u0645\u0639\u0644\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u1e28az\u0327\u012brat al Mu\u2018allaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d59c1cf8083af67c68183f437ee9b534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209694109
+        }
+    ],
+    "wof:id":1209694109,
+    "wof:lastmodified":1537701527,
+    "wof:name":"Hazirat al Mu`allaq",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54463,
+    34.78743,
+    37.54463,
+    34.78743
+],
+  "geometry": {"coordinates":[37.54463,34.78743],"type":"Point"}
+}

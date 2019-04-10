@@ -1,0 +1,77 @@
+{
+  "id": 1243243763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63303,35.76078,36.63303,35.76078",
+    "geom:latitude":35.76078,
+    "geom:longitude":36.63303,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tar`an",
+    "gn:country_code":"SY",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4661,
+    "gn:latitude":35.76078,
+    "gn:longitude":36.63303,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tar\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0631\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0162arr\u0101n",
+        "Tar\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4661
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d633783788af37e6ad8137eb4b863576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1243243763,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243243763,
+    "wof:lastmodified":1537701550,
+    "wof:name":"Tar`an",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63303,
+    35.76078,
+    36.63303,
+    35.76078
+],
+  "geometry": {"coordinates":[36.63303,35.76078],"type":"Point"}
+}

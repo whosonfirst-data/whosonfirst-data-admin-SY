@@ -1,0 +1,77 @@
+{
+  "id": 1209725291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.60561,36.80795,40.60561,36.80795",
+    "geom:latitude":36.80795,
+    "geom:longitude":40.60561,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saykur Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164710,
+    "gn:latitude":36.80795,
+    "gn:longitude":40.60561,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sayk\u016br Taht\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0643\u0648\u0631 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Saykar at Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efgueur Taht\u00e2ni",
+        "Sayk\u016br Taht\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164710
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"16b018c474c9b27b4c20691b4efe0f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1209725291,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209725291,
+    "wof:lastmodified":1537701749,
+    "wof:name":"Saykur Tahtani",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.60561,
+    36.80795,
+    40.60561,
+    36.80795
+],
+  "geometry": {"coordinates":[40.60561,36.80795],"type":"Point"}
+}

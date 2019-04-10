@@ -1,0 +1,73 @@
+{
+  "id": 1310609937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04837,35.5968,36.04837,35.5968",
+    "geom:latitude":35.5968,
+    "geom:longitude":36.04837,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maysalun",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556290,
+    "gn:latitude":35.5968,
+    "gn:longitude":36.04837,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Maysal\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0633\u0644\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maysal\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556290
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"531a1028c990bd44a7e6dbc3a99b5cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1310609937,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310609937,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Maysalun",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04837,
+    35.5968,
+    36.04837,
+    35.5968
+],
+  "geometry": {"coordinates":[36.04837,35.5968],"type":"Point"}
+}

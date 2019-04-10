@@ -1,0 +1,73 @@
+{
+  "id": 1259874245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4992,35.19694,40.4992,35.19694",
+    "geom:latitude":35.19694,
+    "geom:longitude":40.4992,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Ma`ashiq",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276377,
+    "gn:latitude":35.19694,
+    "gn:longitude":40.4992,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al Ma\u2018\u0101sh\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0627\u0634\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018\u0101sh\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276377
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4e8a307f62a2330d635a957a3aa8f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1259874245,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1259874245,
+    "wof:lastmodified":1537702522,
+    "wof:name":"Al Ma`ashiq",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4992,
+    35.19694000000001,
+    40.4992,
+    35.19694000000001
+],
+  "geometry": {"coordinates":[40.4992,35.19694000000001],"type":"Point"}
+}

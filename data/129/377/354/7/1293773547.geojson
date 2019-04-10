@@ -1,0 +1,78 @@
+{
+  "id": 1293773547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67774,36.82091,36.67774,36.82091",
+    "geom:latitude":36.82091,
+    "geom:longitude":36.67774,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maydan Ikbis",
+    "gn:country_code":"SY",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167017,
+    "gn:latitude":36.82091,
+    "gn:longitude":36.67774,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mayd\u0101n Ikbis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062f\u0627\u0646 \u0627\u0643\u0628\u0633"
+    ],
+    "name:und_x_variant":[
+        "Me\u00efdane Ekbes",
+        "Me\u00efd\u00e2ne Ekbez",
+        "Meidan Ekbes",
+        "M\u012bd\u0101n Ikbis",
+        "Mayd\u0101n Ikbis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167017,
+        "wk:page":"Maydan_Ikbis"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"985b75abbf99b8d037812f1c6c595ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293773547,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293773547,
+    "wof:lastmodified":1537701895,
+    "wof:name":"Maydan Ikbis",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67774,
+    36.82091,
+    36.67774,
+    36.82091
+],
+  "geometry": {"coordinates":[36.67774,36.82091],"type":"Point"}
+}

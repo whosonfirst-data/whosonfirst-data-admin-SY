@@ -1,0 +1,75 @@
+{
+  "id": 1277054227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11915,34.73367,37.11915,34.73367",
+    "geom:latitude":34.73367,
+    "geom:longitude":37.11915,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Butmah",
+    "gn:country_code":"SY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171105,
+    "gn:latitude":34.73367,
+    "gn:longitude":37.11915,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Al Bu\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Boutma",
+        "Bu\u0163mah",
+        "Al Bu\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171105
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25b507cff31bf8844ac1829a33211ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1277054227,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1277054227,
+    "wof:lastmodified":1537702171,
+    "wof:name":"Al Butmah",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11915,
+    34.73367,
+    37.11915,
+    34.73367
+],
+  "geometry": {"coordinates":[37.11915,34.73367],"type":"Point"}
+}

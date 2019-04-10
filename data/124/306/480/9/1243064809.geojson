@@ -1,0 +1,79 @@
+{
+  "id": 1243064809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70394,33.74424,36.70394,33.74424",
+    "geom:latitude":33.74424,
+    "geom:longitude":36.70394,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ar Ruhaybah",
+    "gn:country_code":"SY",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172922,
+    "gn:latitude":33.74424,
+    "gn:longitude":36.70394,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ar Ru\u1e29aybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062d\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u062d\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ruhaibeh",
+        "Ru\u1e29aybah",
+        "Rouha\u00efbe",
+        "Ar Ru\u1e29aybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172922
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7715b6f0c00fb2e3a03626a47ac10730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1243064809,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243064809,
+    "wof:lastmodified":1537702299,
+    "wof:name":"Ar Ruhaybah",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70394,
+    33.74424,
+    36.70394,
+    33.74424
+],
+  "geometry": {"coordinates":[36.70394,33.74424],"type":"Point"}
+}

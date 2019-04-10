@@ -1,0 +1,73 @@
+{
+  "id": 1226635667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89668,36.03331,36.89668,36.03331",
+    "geom:latitude":36.03331,
+    "geom:longitude":36.89668,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qattashin",
+    "gn:country_code":"SY",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554412,
+    "gn:latitude":36.03331,
+    "gn:longitude":36.89668,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Qa\u0163\u0163\u0101sh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0627\u0634\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u0163\u0163\u0101sh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554412
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3b5c90543b147b0105561154239590c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226635667,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226635667,
+    "wof:lastmodified":1537702630,
+    "wof:name":"Al Qattashin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89668,
+    36.03331,
+    36.89668,
+    36.03331
+],
+  "geometry": {"coordinates":[36.89668,36.03331],"type":"Point"}
+}

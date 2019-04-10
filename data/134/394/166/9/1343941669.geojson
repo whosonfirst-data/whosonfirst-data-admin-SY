@@ -1,0 +1,73 @@
+{
+  "id": 1343941669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56885,35.21893,37.56885,35.21893",
+    "geom:latitude":35.21893,
+    "geom:longitude":37.56885,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Muntar al Hijanah",
+    "gn:country_code":"SY",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420148,
+    "gn:latitude":35.21893,
+    "gn:longitude":37.56885,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Mun\u0163\u0101r al Hij\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0627\u0631 \u0627\u0644\u0647\u062c\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mun\u0163\u0101r al Hij\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420148
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1a1d769267aba4f15d4c830135981c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343941669,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343941669,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Muntar al Hijanah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56885,
+    35.21893,
+    37.56885,
+    35.21893
+],
+  "geometry": {"coordinates":[37.56885,35.21893],"type":"Point"}
+}

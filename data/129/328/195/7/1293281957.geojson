@@ -1,0 +1,82 @@
+{
+  "id": 1293281957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59904,36.71373,37.59904,36.71373",
+    "geom:latitude":36.71373,
+    "geom:longitude":37.59904,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hajj Wali",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170073,
+    "gn:latitude":36.71373,
+    "gn:longitude":37.59904,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u1e28ajj W\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101jj\u012b W\u0101l\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u062c\u064a \u0648\u0644\u064a",
+        "\u062d\u062c \u0648\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Hajji Ou\u00e2li",
+        "Hadj Y\u00e9lane",
+        "Hajj Y\u00e9lane",
+        "\u1e28\u0101j\u012b Wal\u012b",
+        "\u1e28\u0101jj\u012b W\u0101l\u012b",
+        "\u1e28ajj W\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170073
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2dd8a1163cb67661cab187783b9c46e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293281957,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293281957,
+    "wof:lastmodified":1537702107,
+    "wof:name":"Hajj Wali",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59904,
+    36.71373,
+    37.59904,
+    36.71373
+],
+  "geometry": {"coordinates":[37.59904,36.71373],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209699545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31156,35.54989,36.31156,35.54989",
+    "geom:latitude":35.54989,
+    "geom:longitude":36.31156,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Judaydah",
+    "gn:country_code":"SY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173704,
+    "gn:latitude":35.54989,
+    "gn:longitude":36.31156,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Judaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jeyed",
+        "Ej Jid",
+        "Ej Je\u00efyed",
+        "Ej Jda\u00efd\u00e9",
+        "Gid",
+        "Al Jayyid",
+        "Al Judaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173704
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d963d9b00c7ad618c1b954aba1bbe829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1209699545,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209699545,
+    "wof:lastmodified":1537702356,
+    "wof:name":"Al Judaydah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31156,
+    35.54989000000001,
+    36.31156,
+    35.54989000000001
+],
+  "geometry": {"coordinates":[36.31156,35.54989000000001],"type":"Point"}
+}

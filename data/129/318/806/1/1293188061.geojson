@@ -1,0 +1,77 @@
+{
+  "id": 1293188061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31432,35.94258,36.31432,35.94258",
+    "geom:latitude":35.94258,
+    "geom:longitude":36.31432,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Luksin",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167649,
+    "gn:latitude":35.94258,
+    "gn:longitude":36.31432,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"L\u016bks\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Luks\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "L\u016bks\u012bn",
+        "\u0644\u0648\u0643\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Louks\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167649
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0ab24bec69086c4d8bf90b21d46c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1293188061,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293188061,
+    "wof:lastmodified":1537701931,
+    "wof:name":"Luksin",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31432,
+    35.94258,
+    36.31432,
+    35.94258
+],
+  "geometry": {"coordinates":[36.31432,35.94258],"type":"Point"}
+}

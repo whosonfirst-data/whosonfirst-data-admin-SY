@@ -1,0 +1,73 @@
+{
+  "id": 1327020599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67556,33.45873,36.67556,33.45873",
+    "geom:latitude":33.45873,
+    "geom:longitude":36.67556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Ali adh Dhuwayr",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11260463,
+    "gn:latitude":33.45873,
+    "gn:longitude":36.67556,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"\u2018Al\u012b adh Dhuwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u0630\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b adh Dhuwayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11260463
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8202c51bdc5834d85cd0c715c426b666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1327020599,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1327020599,
+    "wof:lastmodified":1537702611,
+    "wof:name":"`Ali adh Dhuwayr",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67556,
+    33.45873,
+    36.67556,
+    33.45873
+],
+  "geometry": {"coordinates":[36.67556,33.45873],"type":"Point"}
+}

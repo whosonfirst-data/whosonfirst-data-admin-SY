@@ -1,0 +1,70 @@
+{
+  "id": 1293368369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33469,34.87738,36.33469,34.87738",
+    "geom:latitude":34.87738,
+    "geom:longitude":36.33469,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Butaysat al Jurd",
+    "gn:country_code":"SY",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444404,
+    "gn:latitude":34.87738,
+    "gn:longitude":36.33469,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Butaysat al Jurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u064a\u0633\u0629 \u0627\u0644\u062c\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444404
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"64bfb238fba480600651035cd1d2a8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1293368369,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293368369,
+    "wof:lastmodified":1537702622,
+    "wof:name":"Butaysat al Jurd",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33469,
+    34.87738,
+    36.33469,
+    34.87738
+],
+  "geometry": {"coordinates":[36.33469,34.87738],"type":"Point"}
+}

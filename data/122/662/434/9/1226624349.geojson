@@ -1,0 +1,77 @@
+{
+  "id": 1226624349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17376,34.63513,36.17376,34.63513",
+    "geom:latitude":34.63513,
+    "geom:longitude":36.17376,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adlin",
+    "gn:country_code":"SY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174202,
+    "gn:latitude":34.63513,
+    "gn:longitude":36.17376,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Adl\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Adl\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u062f\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Edl\u00eene",
+        "Adl\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174202
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"39a2e639c5f85b77a9b1fe1f19c93af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1226624349,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226624349,
+    "wof:lastmodified":1537702397,
+    "wof:name":"Adlin",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17376,
+    34.63513,
+    36.17376,
+    34.63513
+],
+  "geometry": {"coordinates":[36.17376,34.63513],"type":"Point"}
+}

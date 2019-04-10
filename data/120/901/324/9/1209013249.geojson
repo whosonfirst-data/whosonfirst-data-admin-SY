@@ -1,0 +1,70 @@
+{
+  "id": 1209013249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89332,35.55806,35.89332,35.55806",
+    "geom:latitude":35.55806,
+    "geom:longitude":35.89332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ruwaysat al Hursh",
+    "gn:country_code":"SY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165282,
+    "gn:latitude":35.55806,
+    "gn:longitude":35.89332,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ruwaysat al \u1e28ursh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0627\u0644\u062d\u0631\u0634"
+    ],
+    "name:und_x_variant":[
+        "Roua\u00efsset el Horch",
+        "Rouaiset el Herch",
+        "Ru\u2019aysat al \u1e28ursh",
+        "Ruwaysat al \u1e28ursh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165282
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"637636d0d7664fd760dbdc4375d17ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209013249
+        }
+    ],
+    "wof:id":1209013249,
+    "wof:lastmodified":1537701776,
+    "wof:name":"Ruwaysat al Hursh",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89332,
+    35.55806,
+    35.89332,
+    35.55806
+],
+  "geometry": {"coordinates":[35.89332,35.55806],"type":"Point"}
+}

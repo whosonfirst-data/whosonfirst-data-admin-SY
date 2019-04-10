@@ -1,0 +1,73 @@
+{
+  "id": 1343449175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68847,34.69404,36.68847,34.69404",
+    "geom:latitude":34.69404,
+    "geom:longitude":36.68847,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Ka`b",
+    "gn:country_code":"SY",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432235,
+    "gn:latitude":34.69404,
+    "gn:longitude":36.68847,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Ka\u2018b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Ka\u2018b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432235
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d7e4ffa3e54122d2cde8d60518b54fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1343449175,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343449175,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Al Ka`b",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68847,
+    34.69404,
+    36.68847,
+    34.69404
+],
+  "geometry": {"coordinates":[36.68847,34.69404],"type":"Point"}
+}

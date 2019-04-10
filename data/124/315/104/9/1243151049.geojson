@@ -1,0 +1,79 @@
+{
+  "id": 1243151049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00048,35.18917,36.00048,35.18917",
+    "geom:latitude":35.18917,
+    "geom:longitude":36.00048,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manzalah",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173476,
+    "gn:latitude":35.18917,
+    "gn:longitude":36.00048,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Manzalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0632\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0639\u0628\u064a\u0629 \u0641\u0627\u0631\u0634"
+    ],
+    "name:und_x_variant":[
+        "El Mazl\u00e9",
+        "Al Mazlah",
+        "Manzalah",
+        "Ka\u2018b\u012byat F\u0101rish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173476
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8bf94feec84108da70b8df3429769015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243151049,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243151049,
+    "wof:lastmodified":1537702338,
+    "wof:name":"Manzalah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00048,
+    35.18917000000001,
+    36.00048,
+    35.18917000000001
+],
+  "geometry": {"coordinates":[36.00048,35.18917000000001],"type":"Point"}
+}

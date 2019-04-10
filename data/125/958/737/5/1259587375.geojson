@@ -1,0 +1,78 @@
+{
+  "id": 1259587375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.22555,37.03346,42.22555,37.03346",
+    "geom:latitude":37.03346,
+    "geom:longitude":42.22555,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm at Tulul",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420445,
+    "gn:latitude":37.03346,
+    "gn:longitude":42.22555,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Umm at Tul\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062a\u0644\u0648\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "\u06af\u0631 \u0643\u06d5\u0646\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Umm at Tul\u016bl",
+        "Gir Kenda",
+        "\u0643\u0631 \u0637\u0646\u062f\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420445
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"273add027ddd0d1d982cb7a713217a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1259587375,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259587375,
+    "wof:lastmodified":1537702448,
+    "wof:name":"Umm at Tulul",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.22555,
+    37.03346,
+    42.22555,
+    37.03346
+],
+  "geometry": {"coordinates":[42.22555,37.03346],"type":"Point"}
+}

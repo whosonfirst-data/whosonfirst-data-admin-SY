@@ -1,0 +1,77 @@
+{
+  "id": 1310101073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96827,33.25256,35.96827,33.25256",
+    "geom:latitude":33.25256,
+    "geom:longitude":35.96827,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Durin",
+    "gn:country_code":"SY",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170567,
+    "gn:latitude":33.25256,
+    "gn:longitude":35.96827,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"D\u016br\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u016br\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Do\u00fbrine",
+        "Do\u00fbr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170567
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"88340ce0f5bd989a1f7e57774ccaf8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1310101073,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310101073,
+    "wof:lastmodified":1537702131,
+    "wof:name":"Durin",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96827000000001,
+    33.25256,
+    35.96827000000001,
+    33.25256
+],
+  "geometry": {"coordinates":[35.96827000000001,33.25256],"type":"Point"}
+}

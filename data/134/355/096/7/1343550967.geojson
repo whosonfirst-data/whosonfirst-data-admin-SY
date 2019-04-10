@@ -1,0 +1,79 @@
+{
+  "id": 1343550967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42627,36.58562,37.42627,36.58562",
+    "geom:latitude":36.58562,
+    "geom:longitude":37.42627,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Waqf",
+    "gn:country_code":"SY",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162636,
+    "gn:latitude":36.58562,
+    "gn:longitude":37.42627,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Waqf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Wuq\u016bf"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0642\u0648\u0641",
+        "\u0627\u0644\u0648\u0642\u0641"
+    ],
+    "name:und_x_variant":[
+        "Ouaqo\u00fbf",
+        "Rekkouf",
+        "Al Waqf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162636
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53314b98c5800167747d55b9345ce69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343550967,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343550967,
+    "wof:lastmodified":1537701604,
+    "wof:name":"Al Waqf",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42627,
+    36.58562,
+    37.42627,
+    36.58562
+],
+  "geometry": {"coordinates":[37.42627,36.58562],"type":"Point"}
+}

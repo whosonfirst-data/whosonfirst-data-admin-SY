@@ -1,0 +1,99 @@
+{
+  "id": 1243275679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88708,33.15778,35.88708,33.15778",
+    "geom:latitude":33.15778,
+    "geom:longitude":35.88708,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"As Samdaniyah ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164884,
+    "gn:latitude":33.15778,
+    "gn:longitude":35.88708,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"A\u015f \u015eamd\u0101n\u012byah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0645\u062f\u0627\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0645\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Samd\u00e2niy\u00e9",
+        "\u015eamd\u0101n\u012byah",
+        "A\u015f \u015eamd\u0101n\u012byah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164884
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"37f17ea3687c18287320fc7e22178f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1243275679,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243275679,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243275679,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1243275679,
+    "wof:lastmodified":1537701759,
+    "wof:name":"As Samdaniyah ash Sharqiyah",
+    "wof:parent_id":1108779081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88708,
+    33.15778,
+    35.88708,
+    33.15778
+],
+  "geometry": {"coordinates":[35.88708,33.15778],"type":"Point"}
+}

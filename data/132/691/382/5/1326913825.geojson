@@ -1,0 +1,76 @@
+{
+  "id": 1326913825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93121,35.08077,35.93121,35.08077",
+    "geom:latitude":35.08077,
+    "geom:longitude":35.93121,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muqa`bariyah",
+    "gn:country_code":"SY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173427,
+    "gn:latitude":35.08077,
+    "gn:longitude":35.93121,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Muqa\u2018bar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0639\u0628\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mqaabr\u00eey\u00e9",
+        "Al Muqa\u2018bar\u012byah",
+        "Muqa\u2018bar\u012byah",
+        "Maq\u2018ar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173427
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1d567ce43be6481d8971af045898b855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1326913825,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1326913825,
+    "wof:lastmodified":1537702333,
+    "wof:name":"Muqa`bariyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93121,
+    35.08077,
+    35.93121,
+    35.08077
+],
+  "geometry": {"coordinates":[35.93121,35.08077],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259472865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76132,36.47184,36.76132,36.47184",
+    "geom:latitude":36.47184,
+    "geom:longitude":36.76132,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ra's al Aswad",
+    "gn:country_code":"SY",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166106,
+    "gn:latitude":36.47184,
+    "gn:longitude":36.76132,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ra\u2019s al Aswad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0628\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0623\u0633\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Karabache",
+        "Qara B\u00e2ch",
+        "Qarah B\u0101sh",
+        "Ra\u2019s al Aswad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166106
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"33041f1889bc5ac3738816415ab3fb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1259472865,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259472865,
+    "wof:lastmodified":1537701837,
+    "wof:name":"Ra's al Aswad",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76132,
+    36.47184,
+    36.76132,
+    36.47184
+],
+  "geometry": {"coordinates":[36.76132,36.47184],"type":"Point"}
+}

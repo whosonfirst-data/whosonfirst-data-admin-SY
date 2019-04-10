@@ -1,0 +1,73 @@
+{
+  "id": 1242958711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57924,33.64226,36.57924,33.64226",
+    "geom:latitude":33.64226,
+    "geom:longitude":36.57924,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ibrahim Zayn ad Din",
+    "gn:country_code":"SY",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346201,
+    "gn:latitude":33.64226,
+    "gn:longitude":36.57924,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ibr\u0101h\u012bm Zayn ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0632\u064a\u0646 \u0627\u0644\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm Zayn ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346201
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8b86cfeefd1da0210b751b95f4c4f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1242958711,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242958711,
+    "wof:lastmodified":1537702548,
+    "wof:name":"Ibrahim Zayn ad Din",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57924000000001,
+    33.64226,
+    36.57924000000001,
+    33.64226
+],
+  "geometry": {"coordinates":[36.57924000000001,33.64226],"type":"Point"}
+}

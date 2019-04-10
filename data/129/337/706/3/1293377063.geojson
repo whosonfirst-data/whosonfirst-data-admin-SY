@@ -1,0 +1,73 @@
+{
+  "id": 1293377063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52542,35.66936,36.52542,35.66936",
+    "geom:latitude":35.66936,
+    "geom:longitude":36.52542,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Majalliyah",
+    "gn:country_code":"SY",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4605,
+    "gn:latitude":35.66936,
+    "gn:longitude":36.52542,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Majall\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Majall\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4605
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c85b9bfeb48b96d37d9821cd87d4603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1293377063,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293377063,
+    "wof:lastmodified":1537701546,
+    "wof:name":"Al Majalliyah",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52542,
+    35.66936,
+    36.52542,
+    35.66936
+],
+  "geometry": {"coordinates":[36.52542,35.66936],"type":"Point"}
+}

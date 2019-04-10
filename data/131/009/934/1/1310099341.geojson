@@ -1,0 +1,78 @@
+{
+  "id": 1310099341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7005,35.13923,36.7005,35.13923",
+    "geom:latitude":35.13923,
+    "geom:longitude":36.7005,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Marj al Hawr",
+    "gn:country_code":"SY",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167625,
+    "gn:latitude":35.13923,
+    "gn:longitude":36.7005,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Marj al \u1e28awr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0627\u0644\u062d\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631 \u062f\u0641\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maar Deft\u00eene",
+        "Marj al \u1e28awr",
+        "Ma\u2018arr Daft\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167625
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"311da6a8cd41abf10d1ab744300707b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310099341,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310099341,
+    "wof:lastmodified":1537701928,
+    "wof:name":"Marj al Hawr",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7005,
+    35.13923,
+    36.7005,
+    35.13923
+],
+  "geometry": {"coordinates":[36.7005,35.13923],"type":"Point"}
+}

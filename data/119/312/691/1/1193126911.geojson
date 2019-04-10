@@ -1,0 +1,74 @@
+{
+  "id": 1193126911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50838,35.73644,37.50838,35.73644",
+    "geom:latitude":35.73644,
+    "geom:longitude":37.50838,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qirbatiyah",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165821,
+    "gn:latitude":35.73644,
+    "gn:longitude":37.50838,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qirb\u0101\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0628\u0627\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qirb\u00e2t\u00eey\u00e9",
+        "Qirb\u0101\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165821
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2f3eff3588f6eff32ac094a29f9938f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1193126911,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193126911,
+    "wof:lastmodified":1537701812,
+    "wof:name":"Qirbatiyah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50838,
+    35.73644,
+    37.50838,
+    35.73644
+],
+  "geometry": {"coordinates":[37.50838,35.73644],"type":"Point"}
+}

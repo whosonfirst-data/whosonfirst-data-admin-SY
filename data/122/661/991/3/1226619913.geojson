@@ -1,0 +1,73 @@
+{
+  "id": 1226619913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05415,34.7713,36.05415,34.7713",
+    "geom:latitude":34.7713,
+    "geom:longitude":36.05415,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zabraqan",
+    "gn:country_code":"SY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444679,
+    "gn:latitude":34.7713,
+    "gn:longitude":36.05415,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Zabraq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u0631\u0642\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zabraq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444679
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"88cc422232ee5d356cbf0571c6362ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1226619913,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226619913,
+    "wof:lastmodified":1537702624,
+    "wof:name":"Zabraqan",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05415,
+    34.7713,
+    36.05415,
+    34.7713
+],
+  "geometry": {"coordinates":[36.05415,34.7713],"type":"Point"}
+}

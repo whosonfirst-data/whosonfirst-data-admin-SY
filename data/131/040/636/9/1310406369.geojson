@@ -1,0 +1,80 @@
+{
+  "id": 1310406369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97364,36.22786,38.97364,36.22786",
+    "geom:latitude":36.22786,
+    "geom:longitude":38.97364,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tall Samn Missak",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163447,
+    "gn:latitude":36.22786,
+    "gn:longitude":38.97364,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tall Samn Missak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0645\u0646 \u0645\u0633\u0643"
+    ],
+    "name:und_x_variant":[
+        "Tell Sama\u00e2ne Missak",
+        "Tell Sam\u00e8ne Missak",
+        "Tell es Sem\u0101n",
+        "Tell es Samene Missak",
+        "Tall As Samm\u0101n",
+        "Tall Sim\u2018\u0101n",
+        "Tall Samn Missak",
+        "Tall Samn Misk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163447
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eddcb824afbc64e51ab5f06fcbfe3464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1310406369,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310406369,
+    "wof:lastmodified":1537701657,
+    "wof:name":"Tall Samn Missak",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97364,
+    36.22786,
+    38.97364,
+    36.22786
+],
+  "geometry": {"coordinates":[38.97364,36.22786],"type":"Point"}
+}

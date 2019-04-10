@@ -1,0 +1,76 @@
+{
+  "id": 1209535859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42044,33.46585,36.42044,33.46585",
+    "geom:latitude":33.46585,
+    "geom:longitude":36.42044,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dayr al 'Asafir",
+    "gn:country_code":"SY",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170817,
+    "gn:latitude":33.46585,
+    "gn:longitude":36.42044,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Dayr al \u2018A\u015f\u0101f\u012br",
+    "gn:population":6209,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0639\u0635\u0627\u0641\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr el Assifir",
+        "De\u00efr el Aass\u00e2f\u00eer",
+        "Dayr al \u2018A\u015f\u0101f\u012br",
+        "Deir al-Asafir",
+        "Dayr al-Assafir",
+        "Deir Al-Asaffir"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170817,
+        "wk:page":"Deir_al-Asafir"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25749f18032a94387c6bfbda530165c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209535859
+        }
+    ],
+    "wof:id":1209535859,
+    "wof:lastmodified":1537702149,
+    "wof:name":"Dayr al 'Asafir",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:population":6209,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42044,
+    33.46585,
+    36.42044,
+    33.46585
+],
+  "geometry": {"coordinates":[36.42044,33.46585],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243347217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32011,34.92135,36.32011,34.92135",
+    "geom:latitude":34.92135,
+    "geom:longitude":36.32011,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hazzur",
+    "gn:country_code":"SY",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168015,
+    "gn:latitude":34.92135,
+    "gn:longitude":36.32011,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u1e28azz\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0632\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u062c\u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Hazzo\u00fbr",
+        "Khirbat \u1e28azz\u016br",
+        "\u1e28azz\u016br",
+        "Kheurbet Hazzour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168015
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eb8361882c6f56c2d683e222bd0261e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1243347217,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243347217,
+    "wof:lastmodified":1537701962,
+    "wof:name":"Hazzur",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32011,
+    34.92135,
+    36.32011,
+    34.92135
+],
+  "geometry": {"coordinates":[36.32011,34.92135],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360282125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42764,36.35905,37.42764,36.35905",
+    "geom:latitude":36.35905,
+    "geom:longitude":37.42764,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Daghlabash",
+    "gn:country_code":"SY",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170868,
+    "gn:latitude":36.35905,
+    "gn:longitude":37.42764,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"D\u0101ghlab\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u063a\u0644\u0628\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Darhla D\u00e2ch",
+        "Darhla B\u00e2ch",
+        "Darhla B\u0101sh",
+        "D\u0101ghlab\u0101sh",
+        "D\u0101ghily\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170868
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bc1110702b8779b7da7e75f566fb3e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1360282125,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360282125,
+    "wof:lastmodified":1537702152,
+    "wof:name":"Daghlabash",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42764,
+    36.35905,
+    37.42764,
+    36.35905
+],
+  "geometry": {"coordinates":[37.42764,36.35905],"type":"Point"}
+}

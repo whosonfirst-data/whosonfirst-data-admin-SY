@@ -1,0 +1,83 @@
+{
+  "id": 1276748045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19709,36.48259,37.19709,36.48259",
+    "geom:latitude":36.48259,
+    "geom:longitude":37.19709,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mari`",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":167245,
+    "gn:latitude":36.48259,
+    "gn:longitude":37.19709,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"M\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101ri\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Defterdar",
+        "M\u00e2r\u00e9aa",
+        "Daftard\u0101r",
+        "Maareh",
+        "Ma\u2018r\u0101tah",
+        "Mar\u2018\u0101",
+        "Mare\u2019\u2018",
+        "Mraa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167245
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e2a00bc88c999f5c11a462c39aec7b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1276748045,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276748045,
+    "wof:lastmodified":1537701909,
+    "wof:name":"Mari`",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19709,
+    36.48259,
+    37.19709,
+    36.48259
+],
+  "geometry": {"coordinates":[37.19709,36.48259],"type":"Point"}
+}

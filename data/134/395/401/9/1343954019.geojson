@@ -1,0 +1,73 @@
+{
+  "id": 1343954019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34214,35.32051,37.34214,35.32051",
+    "geom:latitude":35.32051,
+    "geom:longitude":37.34214,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Umm Sahrij",
+    "gn:country_code":"SY",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340916,
+    "gn:latitude":35.32051,
+    "gn:longitude":37.34214,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Umm \u015eahr\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0635\u062d\u0631\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Umm \u015eahr\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340916
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8f73e3bf6131d76bfa2d72af2fd664cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343954019,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343954019,
+    "wof:lastmodified":1537702538,
+    "wof:name":"Umm Sahrij",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34214,
+    35.32051,
+    37.34214,
+    35.32051
+],
+  "geometry": {"coordinates":[37.34214,35.32051],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343348583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75572,36.30907,36.75572,36.30907",
+    "geom:latitude":36.30907,
+    "geom:longitude":36.75572,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Salwah",
+    "gn:country_code":"SY",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164892,
+    "gn:latitude":36.30907,
+    "gn:longitude":36.75572,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Salwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Salou\u00e9",
+        "Saloui",
+        "Salw\u00e1",
+        "Salwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164892,
+        "wk:page":"Salwah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c9f657ac227d9bf055d42e6e6f1374b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1343348583,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343348583,
+    "wof:lastmodified":1537701759,
+    "wof:name":"Salwah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75572,
+    36.30907,
+    36.75572,
+    36.30907
+],
+  "geometry": {"coordinates":[36.75572,36.30907],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343456245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3903,33.0945,36.3903,33.0945",
+    "geom:latitude":33.0945,
+    "geom:longitude":36.3903,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shajarat al Bill",
+    "gn:country_code":"SY",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259736,
+    "gn:latitude":33.0945,
+    "gn:longitude":36.3903,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Shajarat al Bill",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062c\u0631\u0629 \u0627\u0644\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259736
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9931b5110f29295a7c4a66e25490f5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1343456245,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1343456245,
+    "wof:lastmodified":1537702608,
+    "wof:name":"Shajarat al Bill",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3903,
+    33.0945,
+    36.3903,
+    33.0945
+],
+  "geometry": {"coordinates":[36.3903,33.0945],"type":"Point"}
+}

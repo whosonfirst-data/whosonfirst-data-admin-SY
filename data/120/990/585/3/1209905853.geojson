@@ -1,0 +1,74 @@
+{
+  "id": 1209905853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4482,36.73128,38.4482,36.73128",
+    "geom:latitude":36.73128,
+    "geom:longitude":38.4482,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sharabati",
+    "gn:country_code":"SY",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164464,
+    "gn:latitude":36.73128,
+    "gn:longitude":38.4482,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Shar\u0101b\u0101t\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0627\u0628\u0627\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Char\u00e2b\u00e2ti",
+        "Shar\u0101b\u0101t\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164464
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7adc902b7a8e6ed881e6731028f7e74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1209905853,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209905853,
+    "wof:lastmodified":1537701735,
+    "wof:name":"Sharabati",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4482,
+    36.73128,
+    38.4482,
+    36.73128
+],
+  "geometry": {"coordinates":[38.4482,36.73128],"type":"Point"}
+}

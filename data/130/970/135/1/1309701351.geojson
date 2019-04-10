@@ -1,0 +1,75 @@
+{
+  "id": 1309701351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24623,35.31318,37.24623,35.31318",
+    "geom:latitude":35.31318,
+    "geom:longitude":37.24623,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ma`saran",
+    "gn:country_code":"SY",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167156,
+    "gn:latitude":35.31318,
+    "gn:longitude":37.24623,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ma\u2018\u015far\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0635\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maassar\u00e2ne",
+        "Maassur\u00e2ne",
+        "Ma\u2018\u015far\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167156
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"37ced43283cbe2a461f49bc4615e4967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1309701351,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309701351,
+    "wof:lastmodified":1537701904,
+    "wof:name":"Ma`saran",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24623,
+    35.31318,
+    37.24623,
+    35.31318
+],
+  "geometry": {"coordinates":[37.24623,35.31318],"type":"Point"}
+}

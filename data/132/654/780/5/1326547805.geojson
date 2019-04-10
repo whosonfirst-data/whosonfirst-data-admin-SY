@@ -1,0 +1,81 @@
+{
+  "id": 1326547805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.40695,37.0033,40.40695,37.0033",
+    "geom:latitude":37.0033,
+    "geom:longitude":40.40695,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Aradah Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173078,
+    "gn:latitude":37.0033,
+    "gn:longitude":40.40695,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Ar\u0101dah Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0627\u062f\u0629 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018Ar\u0101dah Kab\u012brah"
+    ],
+    "name:und_x_variant":[
+        "Aar\u00e2de K\u00e9bir",
+        "\u2018Ar\u0101\u1e11ah",
+        "Aar\u00e2d\u00e9 K\u00e9b\u00eer\u00e9",
+        "\u0100ridah",
+        "\u2018Ar\u0101dih Kab\u012brah",
+        "\u2018Ar\u0101dah Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173078
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"91bb73ce61d16a1594a4c25bb36fa5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1326547805,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326547805,
+    "wof:lastmodified":1537702308,
+    "wof:name":"`Aradah Kabirah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.40695,
+    37.0033,
+    40.40695,
+    37.0033
+],
+  "geometry": {"coordinates":[40.40695,37.0033],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343367973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04089,35.42973,36.04089,35.42973",
+    "geom:latitude":35.42973,
+    "geom:longitude":36.04089,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayr Hanna",
+    "gn:country_code":"SY",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170784,
+    "gn:latitude":35.42973,
+    "gn:longitude":36.04089,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dayr \u1e28ann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062d\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dair Hanna",
+        "De\u00efr Hanna",
+        "Dayr \u1e28ann\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170784
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df6ef8d0347acf8a9efc602785da8d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343367973,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343367973,
+    "wof:lastmodified":1537702147,
+    "wof:name":"Dayr Hanna",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04089000000001,
+    35.42973,
+    36.04089000000001,
+    35.42973
+],
+  "geometry": {"coordinates":[36.04089000000001,35.42973],"type":"Point"}
+}

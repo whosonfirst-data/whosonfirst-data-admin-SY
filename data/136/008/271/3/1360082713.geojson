@@ -1,0 +1,76 @@
+{
+  "id": 1360082713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37576,33.21866,36.37576,33.21866",
+    "geom:latitude":33.21866,
+    "geom:longitude":36.37576,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Umm al `Awamid",
+    "gn:country_code":"SY",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163008,
+    "gn:latitude":33.21866,
+    "gn:longitude":36.37576,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Umm al \u2018Aw\u0101m\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0648\u0627\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Oumm el Aaou\u00e2mid",
+        "Qumm el \u00c1aou\u00e0mid",
+        "Oum el Aaouam\u00eed",
+        "Umm al \u2018Aw\u0101m\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163008
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f18bf670aed61af597c68997eea92a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1360082713,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360082713,
+    "wof:lastmodified":1537701630,
+    "wof:name":"Umm al `Awamid",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37576,
+    33.21866,
+    36.37576,
+    33.21866
+],
+  "geometry": {"coordinates":[36.37576,33.21866],"type":"Point"}
+}

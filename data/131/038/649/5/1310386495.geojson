@@ -1,0 +1,75 @@
+{
+  "id": 1310386495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99294,34.52852,36.99294,34.52852",
+    "geom:latitude":34.52852,
+    "geom:longitude":36.99294,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al `Aziziyah",
+    "gn:country_code":"SY",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172073,
+    "gn:latitude":34.52852,
+    "gn:longitude":36.99294,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Al \u2018Az\u012bz\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaziz\u00eey\u00e9",
+        "\u2018Az\u012bz\u012byah",
+        "Al \u2018Az\u012bz\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172073
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"20e4441d8d7a0eb388a4a984122bb83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310386495,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310386495,
+    "wof:lastmodified":1537702246,
+    "wof:name":"Al `Aziziyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99294,
+    34.52852,
+    36.99294,
+    34.52852
+],
+  "geometry": {"coordinates":[36.99294,34.52852],"type":"Point"}
+}

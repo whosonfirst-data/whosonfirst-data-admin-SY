@@ -1,0 +1,74 @@
+{
+  "id": 1260164405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98761,35.0812,35.98761,35.0812",
+    "geom:latitude":35.0812,
+    "geom:longitude":35.98761,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Darti",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170856,
+    "gn:latitude":35.0812,
+    "gn:longitude":35.98761,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dart\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dart\u012b",
+        "Dhurt\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170856
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f72376831015457723a4b2bd852da00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1260164405,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260164405,
+    "wof:lastmodified":1537702151,
+    "wof:name":"Darti",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98761,
+    35.0812,
+    35.98761,
+    35.0812
+],
+  "geometry": {"coordinates":[35.98761,35.0812],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243358575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50513,35.39924,37.50513,35.39924",
+    "geom:latitude":35.39924,
+    "geom:longitude":37.50513,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Laffah",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345860,
+    "gn:latitude":35.39924,
+    "gn:longitude":37.50513,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ab\u016b Laffah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0644\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Laffah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345860
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c470c4b1a9dc808cce23edf98e0a7a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243358575,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243358575,
+    "wof:lastmodified":1537702547,
+    "wof:name":"Abu Laffah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50513,
+    35.39924,
+    37.50513,
+    35.39924
+],
+  "geometry": {"coordinates":[37.50513,35.39924],"type":"Point"}
+}

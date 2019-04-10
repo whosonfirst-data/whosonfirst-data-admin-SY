@@ -1,0 +1,82 @@
+{
+  "id": 1293289293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70453,36.56118,37.70453,36.56118",
+    "geom:latitude":36.56118,
+    "geom:longitude":37.70453,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Thaljah Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171066,
+    "gn:latitude":36.56118,
+    "gn:longitude":37.70453,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Thaljah Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0644\u062c\u0629 \u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062b\u0644\u062c\u0629 \u0634\u0631\u0642\u064a",
+        "\u0646\u0635\u0644\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bouzl\u00eedja Charq\u00eey\u00e9",
+        "Bouzlidja",
+        "B\u016bzl\u012bjah ash Sharq\u012byah",
+        "Thaljah Sharq\u012b",
+        "Thaljah Sharq\u012byah",
+        "Na\u015falj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171066
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"487427c24c79ce69b62159c18f211ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1293289293,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293289293,
+    "wof:lastmodified":1537702168,
+    "wof:name":"Thaljah Sharqi",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70453,
+    36.56118,
+    37.70453,
+    36.56118
+],
+  "geometry": {"coordinates":[37.70453,36.56118],"type":"Point"}
+}

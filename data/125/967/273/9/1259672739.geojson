@@ -1,0 +1,80 @@
+{
+  "id": 1259672739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59591,35.01085,36.59591,35.01085",
+    "geom:latitude":35.01085,
+    "geom:longitude":36.59591,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jafi`ah",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173723,
+    "gn:latitude":35.01085,
+    "gn:longitude":36.59591,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"J\u0101fi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0641\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0627\u0641\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "J\u00e2fa\u00e2",
+        "Ej J\u00e2fa\u00e2",
+        "Ej Jafa",
+        "Al J\u0101fi\u2018ah",
+        "J\u0101fi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173723
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b32828fac899a563ffd3c4b34eeccfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259672739,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259672739,
+    "wof:lastmodified":1537702358,
+    "wof:name":"Jafi`ah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59591,
+    35.01085,
+    36.59591,
+    35.01085
+],
+  "geometry": {"coordinates":[36.59591,35.01085],"type":"Point"}
+}

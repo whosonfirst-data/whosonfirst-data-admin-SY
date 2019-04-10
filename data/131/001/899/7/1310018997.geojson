@@ -1,0 +1,77 @@
+{
+  "id": 1310018997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12851,35.47969,36.12851,35.47969",
+    "geom:latitude":35.47969,
+    "geom:longitude":36.12851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masit",
+    "gn:country_code":"SY",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166835,
+    "gn:latitude":35.47969,
+    "gn:longitude":36.12851,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mas\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ms\u012bt"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0633\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ms\u00eete",
+        "Mas\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166835
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c642dba8a7b7d7a2ef308c947c1e7ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1310018997,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310018997,
+    "wof:lastmodified":1537701882,
+    "wof:name":"Masit",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12851,
+    35.47969000000001,
+    36.12851,
+    35.47969000000001
+],
+  "geometry": {"coordinates":[36.12851,35.47969000000001],"type":"Point"}
+}

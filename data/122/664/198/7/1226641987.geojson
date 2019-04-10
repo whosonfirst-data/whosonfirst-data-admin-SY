@@ -1,0 +1,74 @@
+{
+  "id": 1226641987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16915,36.10126,37.16915,36.10126",
+    "geom:latitude":36.10126,
+    "geom:longitude":37.16915,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haddadin",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170142,
+    "gn:latitude":36.10126,
+    "gn:longitude":37.16915,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u1e28add\u0101d\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0627\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hadd\u00e2d\u00eene",
+        "\u1e28add\u0101d\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170142
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"323177f45afe48ca0ca6a7df98e96b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226641987,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226641987,
+    "wof:lastmodified":1537702110,
+    "wof:name":"Haddadin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16915,
+    36.10126,
+    37.16915,
+    36.10126
+],
+  "geometry": {"coordinates":[37.16915,36.10126],"type":"Point"}
+}

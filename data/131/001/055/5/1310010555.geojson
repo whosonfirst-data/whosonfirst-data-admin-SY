@@ -1,0 +1,76 @@
+{
+  "id": 1310010555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69316,32.53272,36.69316,32.53272",
+    "geom:latitude":32.53272,
+    "geom:longitude":36.69316,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karis",
+    "gn:country_code":"SY",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168561,
+    "gn:latitude":32.53272,
+    "gn:longitude":36.69316,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"K\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101ris"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "K\u00e2r\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168561
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96015eb2ca95fcfc2a799028abb64683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1310010555,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1310010555,
+    "wof:lastmodified":1537702001,
+    "wof:name":"Karis",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69316,
+    32.53272,
+    36.69316,
+    32.53272
+],
+  "geometry": {"coordinates":[36.69316,32.53272],"type":"Point"}
+}

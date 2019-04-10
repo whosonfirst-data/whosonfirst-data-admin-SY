@@ -1,0 +1,68 @@
+{
+  "id": 1209538393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60804,32.48983,36.60804,32.48983",
+    "geom:latitude":32.48983,
+    "geom:longitude":36.60804,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Houte",
+    "gn:country_code":"SY",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169443,
+    "gn:latitude":32.48983,
+    "gn:longitude":36.60804,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Houte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u016b\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169443,
+        "wk:page":"Hout%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b6f079228bcc362ee8f90dbebd0c48cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209538393
+        }
+    ],
+    "wof:id":1209538393,
+    "wof:lastmodified":1537702067,
+    "wof:name":"Houte",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60804,
+    32.48983,
+    36.60804,
+    32.48983
+],
+  "geometry": {"coordinates":[36.60804,32.48983],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 421198277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15933,32.82944,36.15933,32.82944",
+    "geom:latitude":32.82944,
+    "geom:longitude":36.15933,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0645\u0633\u0643\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u0645\u0633\u0643\u064a\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u590f\u8d6b\u746a\u65af\u91d1"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Shaykh Maskin"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Shaykh Maskin"
+    ],
+    "name:fre_x_preferred":[
+        "Cheikh Meskin"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da-\u10e8\u10d4\u10d8\u10ee-\u10db\u10d0\u10e1\u10e5\u10d8\u10dc\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Shaykh Maskin"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0634\u06cc\u062e \u0645\u0633\u06a9\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szajch Maskin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0439\u0445-\u041c\u0438\u0441\u043a\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0448-\u0428\u0435\u0439\u0445-\u041c\u0430\u0441\u043a\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Chikh Meskine"
+    ],
+    "qs:gn_country":"SY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":164328,
+    "qs:gn_pop":25920,
+    "qs:name":"Shaykh Miskin",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"Dar'a",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1189753,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1947098,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164328,
+        "gp:id":1947098,
+        "qs:id":1189753,
+        "wd:id":"Q4703238"
+    },
+    "wof:country":"SY",
+    "wof:created":1459009943,
+    "wof:geomhash":"d2a9db5093f981df4cb8cb5b510a1f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":421198277,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":421198277,
+    "wof:lastmodified":1514505897,
+    "wof:name":"Shaykh Miskin",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:population":25920,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15933,
+    32.82944,
+    36.15933,
+    32.82944
+],
+  "geometry": {"coordinates":[36.15933,32.82944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360085285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80435,36.20439,38.80435,36.20439",
+    "geom:latitude":36.20439,
+    "geom:longitude":38.80435,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dehlan",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398279,
+    "gn:latitude":36.20439,
+    "gn:longitude":38.80435,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dehlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398279
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"49a13e1502ce7890f6accec4f8e0c75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1360085285,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1360085285,
+    "wof:lastmodified":1536945800,
+    "wof:name":"Dehlan",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80435,
+    36.20439,
+    38.80435,
+    36.20439
+],
+  "geometry": {"coordinates":[38.80435,36.20439],"type":"Point"}
+}

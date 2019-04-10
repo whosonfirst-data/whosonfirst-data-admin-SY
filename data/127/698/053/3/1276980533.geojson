@@ -1,0 +1,80 @@
+{
+  "id": 1276980533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88984,36.50451,38.88984,36.50451",
+    "geom:latitude":36.50451,
+    "geom:longitude":38.88984,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koramaza",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167765,
+    "gn:latitude":36.50451,
+    "gn:longitude":38.88984,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Koramaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016br\u0101m\u0101z\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0631\u0627\u0645\u0627\u0632\u0627",
+        "\u0645\u062d\u0645\u062f \u0634\u0648\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Mohammad Chaou\u00e2kh",
+        "Koramaza",
+        "Mu\u1e29ammad Shaww\u0101kh",
+        "Kuram\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167765
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"32b40829ff5a7d234b10d1ce01c4e633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1276980533,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276980533,
+    "wof:lastmodified":1537701938,
+    "wof:name":"Koramaza",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88984,
+    36.50451,
+    38.88984,
+    36.50451
+],
+  "geometry": {"coordinates":[38.88984,36.50451],"type":"Point"}
+}

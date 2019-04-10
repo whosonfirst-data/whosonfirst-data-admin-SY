@@ -1,0 +1,75 @@
+{
+  "id": 1276317659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16661,35.82925,37.16661,35.82925",
+    "geom:latitude":35.82925,
+    "geom:longitude":37.16661,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mushayrifat al Halaj",
+    "gn:country_code":"SY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167109,
+    "gn:latitude":35.82925,
+    "gn:longitude":37.16661,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mushayrifat al \u1e28al\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u062d\u0644\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherfet ech Charq\u00eey\u00e9",
+        "Mashrafat ash Sharq\u012byah",
+        "Mushayrifat al \u1e28al\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167109
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dfaee6428c13f665ef553129c2e71fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276317659,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276317659,
+    "wof:lastmodified":1537701901,
+    "wof:name":"Mushayrifat al Halaj",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16661,
+    35.82925,
+    37.16661,
+    35.82925
+],
+  "geometry": {"coordinates":[37.16661,35.82925],"type":"Point"}
+}

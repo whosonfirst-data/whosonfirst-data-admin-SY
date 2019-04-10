@@ -1,0 +1,78 @@
+{
+  "id": 1293862003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71453,34.90396,36.71453,34.90396",
+    "geom:latitude":34.90396,
+    "geom:longitude":36.71453,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ard Tuwali",
+    "gn:country_code":"SY",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":163080,
+    "gn:latitude":34.90396,
+    "gn:longitude":36.71453,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ar\u1e11 \u0162uw\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar\u1e11 \u0162uw\u0101l\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u0636 \u0637\u0648\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ard Touali",
+        "Ar\u1e11 a\u0163 \u0162uw\u0101l\u012b",
+        "Ard Tou\u00e2li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163080
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fc13834707ee24345d08887cdc49d509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1293862003,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293862003,
+    "wof:lastmodified":1537701635,
+    "wof:name":"Ard Tuwali",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71453,
+    34.90396,
+    36.71453,
+    34.90396
+],
+  "geometry": {"coordinates":[36.71453,34.90396],"type":"Point"}
+}

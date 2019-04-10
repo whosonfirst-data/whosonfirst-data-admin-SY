@@ -1,0 +1,77 @@
+{
+  "id": 1276861089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90091,36.13156,36.90091,36.13156",
+    "geom:latitude":36.13156,
+    "geom:longitude":36.90091,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Urum as Sughra",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162788,
+    "gn:latitude":36.13156,
+    "gn:longitude":36.90091,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u016arum a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0645 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ouroum es Sourhra",
+        "Urm a\u015f \u015eughr\u00e1",
+        "Ouroum es Soughra",
+        "\u016arm\u0101 a\u015f \u015eughr\u00e1",
+        "\u016arum a\u015f \u015eughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162788
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"79902163a1c6386db50104621fe61551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276861089,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276861089,
+    "wof:lastmodified":1537701614,
+    "wof:name":"Urum as Sughra",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90091,
+    36.13156,
+    36.90091,
+    36.13156
+],
+  "geometry": {"coordinates":[36.90091,36.13156],"type":"Point"}
+}

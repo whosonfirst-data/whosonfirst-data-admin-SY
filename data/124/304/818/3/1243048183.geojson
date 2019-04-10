@@ -1,0 +1,67 @@
+{
+  "id": 1243048183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57676,35.91902,36.57676,35.91902",
+    "geom:latitude":35.91902,
+    "geom:longitude":36.57676,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mudabbli",
+    "gn:country_code":"SY",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7634574,
+    "gn:latitude":35.91902,
+    "gn:longitude":36.57676,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Mudabbl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634574
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5a533c843c1e774bd7cceac15f8782ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1243048183,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243048183,
+    "wof:lastmodified":1536882032,
+    "wof:name":"Mudabbli",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57676,
+    35.91902,
+    36.57676,
+    35.91902
+],
+  "geometry": {"coordinates":[36.57676,35.91902],"type":"Point"}
+}

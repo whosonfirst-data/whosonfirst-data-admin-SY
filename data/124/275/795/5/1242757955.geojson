@@ -1,0 +1,73 @@
+{
+  "id": 1242757955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52698,36.1201,36.52698,36.1201",
+    "geom:latitude":36.1201,
+    "geom:longitude":36.52698,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kaburah",
+    "gn:country_code":"SY",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8322986,
+    "gn:latitude":36.1201,
+    "gn:longitude":36.52698,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kab\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0628\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kab\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322986
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2329130112e83200ecbeb4d3b651e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1242757955,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242757955,
+    "wof:lastmodified":1537702527,
+    "wof:name":"Kaburah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52698,
+    36.1201,
+    36.52698,
+    36.1201
+],
+  "geometry": {"coordinates":[36.52698,36.1201],"type":"Point"}
+}

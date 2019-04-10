@@ -1,0 +1,73 @@
+{
+  "id": 1343452547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93758,35.49912,39.93758,35.49912",
+    "geom:latitude":35.49912,
+    "geom:longitude":39.93758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zila",
+    "gn:country_code":"SY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4129,
+    "gn:latitude":35.49912,
+    "gn:longitude":39.93758,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Zil\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Zil\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4129
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"523451dab5c95bf603ef0eebdd9c1dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343452547,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343452547,
+    "wof:lastmodified":1537701535,
+    "wof:name":"Zila",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93758,
+    35.49912,
+    39.93758,
+    35.49912
+],
+  "geometry": {"coordinates":[39.93758,35.49912],"type":"Point"}
+}

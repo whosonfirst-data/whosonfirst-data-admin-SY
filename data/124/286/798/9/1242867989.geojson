@@ -1,0 +1,76 @@
+{
+  "id": 1242867989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18467,35.13967,37.18467,35.13967",
+    "geom:latitude":35.13967,
+    "geom:longitude":37.18467,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jadu`",
+    "gn:country_code":"SY",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169292,
+    "gn:latitude":35.13967,
+    "gn:longitude":37.18467,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jad\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Djeddoua",
+        "Jaddo\u00fba\u00e2",
+        "Jadd\u016b\u2018ah",
+        "Jad\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169292
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6d06a93571037a74472549723e28014e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242867989,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242867989,
+    "wof:lastmodified":1537702057,
+    "wof:name":"Jadu`",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18467,
+    35.13967,
+    37.18467,
+    35.13967
+],
+  "geometry": {"coordinates":[37.18467,35.13967],"type":"Point"}
+}

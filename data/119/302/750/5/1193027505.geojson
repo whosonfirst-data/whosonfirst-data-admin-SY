@@ -1,0 +1,121 @@
+{
+  "id": 1193027505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7126,32.89939,35.7126,32.89939",
+    "geom:latitude":32.89939,
+    "geom:longitude":35.7126,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabitah",
+    "gn:country_code":"SY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172859,
+    "gn:latitude":32.89939,
+    "gn:longitude":35.7126,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Sab\u012btah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es Sbita",
+        "Esbata",
+        "Es Shita",
+        "Esb\u00eet\u00e9",
+        "Asbitah",
+        "Sab\u012btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779187,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172859
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13deed5d278cf173937042989dc5db61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1193027505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1193027505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "locality_id":1193027505,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1193027505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1193027505,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1193027505,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1193027505,
+    "wof:lastmodified":1549931188,
+    "wof:name":"Sabitah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7126,
+    32.89939,
+    35.7126,
+    32.89939
+],
+  "geometry": {"coordinates":[35.7126,32.89939],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193261997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14336,34.90884,36.14336,34.90884",
+    "geom:latitude":34.90884,
+    "geom:longitude":36.14336,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Zaynah",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171518,
+    "gn:latitude":34.90884,
+    "gn:longitude":36.14336,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bayt Zaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0632\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Za\u00efna",
+        "Bayt Zaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171518
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"135eb23e53a0a288b98521da044e26e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1193261997,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1193261997,
+    "wof:lastmodified":1537702204,
+    "wof:name":"Bayt Zaynah",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14336,
+    34.90884,
+    36.14336,
+    34.90884
+],
+  "geometry": {"coordinates":[36.14336,34.90884],"type":"Point"}
+}

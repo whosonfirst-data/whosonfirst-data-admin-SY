@@ -1,0 +1,75 @@
+{
+  "id": 1309927957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36583,32.75944,36.36583,32.75944",
+    "geom:latitude":32.75944,
+    "geom:longitude":36.36583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mulayhah ash Sharqiyah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166709,
+    "gn:latitude":32.75944,
+    "gn:longitude":36.36583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulay\u1e29ah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u064a\u062d\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mla\u00efha ech Charq\u00eey\u00e9",
+        "Mulay\u1e29ah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166709
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"edd3c71346a167585fe810b801e88cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1309927957,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1309927957,
+    "wof:lastmodified":1537701875,
+    "wof:name":"Mulayhah ash Sharqiyah",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36583,
+    32.75944,
+    36.36583,
+    32.75944
+],
+  "geometry": {"coordinates":[36.36583,32.75944],"type":"Point"}
+}

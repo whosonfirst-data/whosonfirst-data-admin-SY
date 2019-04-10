@@ -1,0 +1,77 @@
+{
+  "id": 1310322935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97782,36.76194,39.97782,36.76194",
+    "geom:latitude":36.76194,
+    "geom:longitude":39.97782,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khara'ib `Arman",
+    "gn:country_code":"SY",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168315,
+    "gn:latitude":36.76194,
+    "gn:longitude":39.97782,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Khar\u0101\u2019ib \u2018Arm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0626\u0628 \u0639\u0632\u0645\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Khar\u0101b \u2018Arn\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Khar\u00e2b Aarn\u00e2ne",
+        "Khar\u0101\u2019ib \u2018Arm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168315
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"51b37280ff55f3f44d7d8422098ae929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1310322935,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310322935,
+    "wof:lastmodified":1537701983,
+    "wof:name":"Khara'ib `Arman",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97782,
+    36.76194,
+    39.97782,
+    36.76194
+],
+  "geometry": {"coordinates":[39.97782,36.76194],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310197533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15666,32.90483,36.15666,32.90483",
+    "geom:latitude":32.90483,
+    "geom:longitude":36.15666,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dilli",
+    "gn:country_code":"SY",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170657,
+    "gn:latitude":32.90483,
+    "gn:longitude":36.15666,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"D\u012bll\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u012bll\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0644\u064a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dill\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170657
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef8b5cd718eafb55025d79217a03f304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1310197533,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1310197533,
+    "wof:lastmodified":1537702138,
+    "wof:name":"Dilli",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15666,
+    32.90483,
+    36.15666,
+    32.90483
+],
+  "geometry": {"coordinates":[36.15666,32.90483],"type":"Point"}
+}

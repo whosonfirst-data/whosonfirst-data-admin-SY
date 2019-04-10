@@ -1,0 +1,95 @@
+{
+  "id": 1276221571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1069,36.78057,38.1069,36.78057",
+    "geom:latitude":36.78057,
+    "geom:longitude":38.1069,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ta`lik",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163552,
+    "gn:latitude":36.78057,
+    "gn:longitude":38.1069,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ta\u2018lik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u064a\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644\u0643",
+        "\u062a\u0639\u0644\u0643",
+        "\u062a\u0644\u064a\u0644\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Tilik"
+    ],
+    "name:kur_x_variant":[
+        "Telik",
+        "\u062a\u06d5\u0644\u0643",
+        "\u062a\u06af\u06ce\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tell\u00eek",
+        "Tallik",
+        "Tal\u012bk",
+        "Taliku",
+        "Talik",
+        "Tall\u012bk",
+        "Ta\u2018lik",
+        "Tal\u012blah",
+        "Tig\u00eala",
+        "Telk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163552
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2eb93759315e9e3c01e3d549ca149c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276221571,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276221571,
+    "wof:lastmodified":1537701669,
+    "wof:name":"Ta`lik",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1069,
+    36.78057,
+    38.1069,
+    36.78057
+],
+  "geometry": {"coordinates":[38.1069,36.78057],"type":"Point"}
+}

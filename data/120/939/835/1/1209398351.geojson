@@ -1,0 +1,67 @@
+{
+  "id": 1209398351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96165,35.08865,35.96165,35.08865",
+    "geom:latitude":35.08865,
+    "geom:longitude":35.96165,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karmaya",
+    "gn:country_code":"SY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168552,
+    "gn:latitude":35.08865,
+    "gn:longitude":35.96165,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Karm\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0645\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Karm\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168552
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"055e97af3b8ad6f9271b6a3eeafa49a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209398351
+        }
+    ],
+    "wof:id":1209398351,
+    "wof:lastmodified":1537702001,
+    "wof:name":"Karmaya",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96165,
+    35.08865,
+    35.96165,
+    35.08865
+],
+  "geometry": {"coordinates":[35.96165,35.08865],"type":"Point"}
+}

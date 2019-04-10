@@ -1,0 +1,75 @@
+{
+  "id": 1259875509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54554,36.53767,38.54554,36.53767",
+    "geom:latitude":36.53767,
+    "geom:longitude":38.54554,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Hamu",
+    "gn:country_code":"SY",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168024,
+    "gn:latitude":36.53767,
+    "gn:longitude":38.54554,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Khirbat \u1e28am\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062d\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Homo",
+        "Kheurbet Hamo",
+        "Khirbat \u1e28am\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168024
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4d1ccc69b992f811cfe046c95fd607a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259875509,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259875509,
+    "wof:lastmodified":1537701963,
+    "wof:name":"Khirbat Hamu",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54554,
+    36.53767,
+    38.54554,
+    36.53767
+],
+  "geometry": {"coordinates":[38.54554,36.53767],"type":"Point"}
+}

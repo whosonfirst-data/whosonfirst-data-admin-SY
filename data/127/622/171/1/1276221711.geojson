@@ -1,0 +1,78 @@
+{
+  "id": 1276221711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96763,36.21424,37.96763,36.21424",
+    "geom:latitude":36.21424,
+    "geom:longitude":37.96763,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Arsum",
+    "gn:country_code":"SY",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162954,
+    "gn:latitude":36.21424,
+    "gn:longitude":37.96763,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umm Ars\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm Arso\u00fbm"
+    ],
+    "name:ara_x_variant":[
+        "Umm Ars\u016bm",
+        "\u0623\u0645 \u0623\u0631\u0633\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Oum Arso\u00fbm",
+        "Umm Arso\u00fbm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162954
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"369d60596a7220f54f7f02c14756a1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276221711,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276221711,
+    "wof:lastmodified":1537701626,
+    "wof:name":"Umm Arsum",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96763,
+    36.21424,
+    37.96763,
+    36.21424
+],
+  "geometry": {"coordinates":[37.96763,36.21424],"type":"Point"}
+}

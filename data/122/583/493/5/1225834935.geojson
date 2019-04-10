@@ -1,0 +1,70 @@
+{
+  "id": 1225834935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.35,35.73333,37.35,35.73333",
+    "geom:latitude":35.73333,
+    "geom:longitude":37.35,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dbissane",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170746,
+    "gn:latitude":35.73333,
+    "gn:longitude":37.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dbiss\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dbiss\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170746
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a638e826a43d6a62061fcffdae75afe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1225834935,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225834935,
+    "wof:lastmodified":1537702142,
+    "wof:name":"Dbissane",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.35,
+    35.73333,
+    37.35,
+    35.73333
+],
+  "geometry": {"coordinates":[37.35,35.73333],"type":"Point"}
+}

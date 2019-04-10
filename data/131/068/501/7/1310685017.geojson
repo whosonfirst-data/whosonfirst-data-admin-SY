@@ -1,0 +1,78 @@
+{
+  "id": 1310685017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30964,35.22968,36.30964,35.22968",
+    "geom:latitude":35.22968,
+    "geom:longitude":36.30964,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Kharayib",
+    "gn:country_code":"SY",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173631,
+    "gn:latitude":35.22968,
+    "gn:longitude":36.30964,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Khar\u0101yib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u064a\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0631\u0627\u0626\u0628"
+    ],
+    "name:und_x_variant":[
+        "El Khar\u00e2yeb",
+        "Al Khar\u0101\u2019ib",
+        "Al Khar\u0101yib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173631
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"50ecfab2f030bf1809cf5c51214be55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1310685017,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310685017,
+    "wof:lastmodified":1537702350,
+    "wof:name":"Al Kharayib",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30964,
+    35.22968,
+    36.30964,
+    35.22968
+],
+  "geometry": {"coordinates":[36.30964,35.22968],"type":"Point"}
+}

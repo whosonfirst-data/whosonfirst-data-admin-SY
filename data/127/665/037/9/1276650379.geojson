@@ -1,0 +1,75 @@
+{
+  "id": 1276650379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43357,35.31829,36.43357,35.31829",
+    "geom:latitude":35.31829,
+    "geom:longitude":36.43357,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al `Uwayn",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173292,
+    "gn:latitude":35.31829,
+    "gn:longitude":36.43357,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al \u2018Uwayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Aaoue\u00efn\u00e9",
+        "Al \u2018Uwaynah",
+        "Al \u2018Uwayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173292
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"366acf9f2662e954deaa2099c272049b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1276650379,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276650379,
+    "wof:lastmodified":1537702322,
+    "wof:name":"Al `Uwayn",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43357,
+    35.31829000000001,
+    36.43357,
+    35.31829000000001
+],
+  "geometry": {"coordinates":[36.43357,35.31829000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293781609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12958,32.75466,36.12958,32.75466",
+    "geom:latitude":32.75466,
+    "geom:longitude":36.12958,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Da`il",
+    "gn:country_code":"SY",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":170959,
+    "gn:latitude":32.75466,
+    "gn:longitude":36.12958,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"D\u0101\u2018il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101\u2018il"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0639\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "D\u00e2ail",
+        "Da\u00e9l",
+        "Daal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"23a1c488ac2161ad854934c726f62e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1293781609,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1293781609,
+    "wof:lastmodified":1537702160,
+    "wof:name":"Da`il",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12958,
+    32.75466,
+    36.12958,
+    32.75466
+],
+  "geometry": {"coordinates":[36.12958,32.75466],"type":"Point"}
+}

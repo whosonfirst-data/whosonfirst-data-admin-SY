@@ -1,0 +1,82 @@
+{
+  "id": 1242571921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91114,34.53705,40.91114,34.53705",
+    "geom:latitude":34.53705,
+    "geom:longitude":40.91114,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghabrah",
+    "gn:country_code":"SY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170311,
+    "gn:latitude":34.53705,
+    "gn:longitude":40.91114,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ghabrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0628\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhabra",
+        "Ghabr\u0101",
+        "Er Rhabra",
+        "El Ghabra",
+        "El Rhabra",
+        "Ghabrah",
+        "Al Ghabrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170311
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7edb24c1e0cb97e20b02cb7768512e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1242571921,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1242571921,
+    "wof:lastmodified":1537702118,
+    "wof:name":"Ghabrah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91114,
+    34.53705,
+    40.91114,
+    34.53705
+],
+  "geometry": {"coordinates":[40.91114,34.53705],"type":"Point"}
+}

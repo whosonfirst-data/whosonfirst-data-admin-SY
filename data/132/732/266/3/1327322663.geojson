@@ -1,0 +1,74 @@
+{
+  "id": 1327322663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83575,35.34119,36.83575,35.34119",
+    "geom:latitude":35.34119,
+    "geom:longitude":36.83575,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qarah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166110,
+    "gn:latitude":35.34119,
+    "gn:longitude":36.83575,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qar\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Qr\u00e2h",
+        "Qar\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166110
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0255e87e6719ff64a24f91c9beee3713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327322663,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327322663,
+    "wof:lastmodified":1537701837,
+    "wof:name":"Qarah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83575,
+    35.34119000000001,
+    36.83575,
+    35.34119000000001
+],
+  "geometry": {"coordinates":[36.83575,35.34119000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343376671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.14549,36.87686,41.14549,36.87686",
+    "geom:latitude":36.87686,
+    "geom:longitude":41.14549,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mazra`at Tuwaym",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420325,
+    "gn:latitude":36.87686,
+    "gn:longitude":41.14549,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Mazra\u2018at Tuwaym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062a\u0648\u064a\u0645"
+    ],
+    "name:tur_x_preferred":[
+        "Mazra\u2018at Tuwaym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420325
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c5bf8fe374de3c7b98d5ce651d4a713b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1343376671,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343376671,
+    "wof:lastmodified":1537702441,
+    "wof:name":"Mazra`at Tuwaym",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.14549,
+    36.87686,
+    41.14549,
+    36.87686
+],
+  "geometry": {"coordinates":[41.14549,36.87686],"type":"Point"}
+}

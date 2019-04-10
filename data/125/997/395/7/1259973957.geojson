@@ -1,0 +1,88 @@
+{
+  "id": 1259973957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11668,36.77056,38.11668,36.77056",
+    "geom:latitude":36.77056,
+    "geom:longitude":38.11668,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zarik",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162439,
+    "gn:latitude":36.77056,
+    "gn:longitude":38.11668,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Zar\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Z\u00e9rik"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0631\u064a\u0643",
+        "\u0632\u0631\u0643",
+        "\u0632\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Zirik"
+    ],
+    "name:kur_x_variant":[
+        "Zerik",
+        "\u0632\u06d5\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Zar\u012bk",
+        "Zarik",
+        "Zir",
+        "Zerk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162439
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2ec17536ece6028f701314435245201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259973957,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259973957,
+    "wof:lastmodified":1537701591,
+    "wof:name":"Zarik",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11668,
+    36.77056,
+    38.11668,
+    36.77056
+],
+  "geometry": {"coordinates":[38.11668,36.77056],"type":"Point"}
+}

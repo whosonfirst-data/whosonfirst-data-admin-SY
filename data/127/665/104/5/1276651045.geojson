@@ -1,0 +1,79 @@
+{
+  "id": 1276651045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87803,36.54909,36.87803,36.54909",
+    "geom:latitude":36.54909,
+    "geom:longitude":36.87803,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qastal",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887651,
+    "gn:latitude":36.54909,
+    "gn:longitude":36.87803,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Al Qas\u0163al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0633\u0637\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0633\u0637\u0644 \u0643\u0634\u0643",
+        "\u0627\u0644\u0642\u0633\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qas\u0163al",
+        "Qas\u0163al Kashak",
+        "Al Qas\u0163al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887651
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"862970317f6b1f7e577cf65cfaa393a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1276651045,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276651045,
+    "wof:lastmodified":1537702475,
+    "wof:name":"Al Qastal",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87803,
+    36.54909,
+    36.87803,
+    36.54909
+],
+  "geometry": {"coordinates":[36.87803,36.54909],"type":"Point"}
+}

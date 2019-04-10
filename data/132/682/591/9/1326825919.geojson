@@ -1,0 +1,73 @@
+{
+  "id": 1326825919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15043,36.59099,37.15043,36.59099",
+    "geom:latitude":36.59099,
+    "geom:longitude":37.15043,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bayt Jum`ah al Furaywi",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150511,
+    "gn:latitude":36.59099,
+    "gn:longitude":37.15043,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Bayt Jum\u2018ah al Furayw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u064a\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt Jum\u2018ah al Furayw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150511
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82fff8b7476458c4bf48954500bda66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1326825919,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326825919,
+    "wof:lastmodified":1537702594,
+    "wof:name":"Bayt Jum`ah al Furaywi",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15043,
+    36.59099000000001,
+    37.15043,
+    36.59099000000001
+],
+  "geometry": {"coordinates":[37.15043,36.59099000000001],"type":"Point"}
+}

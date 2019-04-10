@@ -1,0 +1,67 @@
+{
+  "id": 1209599051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88629,35.00709,36.88629,35.00709",
+    "geom:latitude":35.00709,
+    "geom:longitude":36.88629,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Qantarah al Janubiyah",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555472,
+    "gn:latitude":35.00709,
+    "gn:longitude":36.88629,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Qan\u0163arah al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0637\u0631\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qan\u0163arah al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555472
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3947f859937bae5fef1ded9f8668aef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209599051
+        }
+    ],
+    "wof:id":1209599051,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Al Qantarah al Janubiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88629,
+    35.00709000000001,
+    36.88629,
+    35.00709000000001
+],
+  "geometry": {"coordinates":[36.88629,35.00709000000001],"type":"Point"}
+}

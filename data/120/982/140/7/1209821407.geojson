@@ -1,0 +1,80 @@
+{
+  "id": 1209821407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2115,36.64018,39.2115,36.64018",
+    "geom:latitude":36.64018,
+    "geom:longitude":39.2115,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bi'r Ma`jalah",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171396,
+    "gn:latitude":36.64018,
+    "gn:longitude":39.2115,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Bi\u2019r Ma\u2018jalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0645\u0639\u062c\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0645\u0639\u0627\u062c\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00eer Ma\u00e2jl\u00e9",
+        "B\u00eer Ma\u00e2ji\u00e9",
+        "Bi\u2019r Ma\u2018\u0101jilah",
+        "Bi\u2019r Ma\u2018jalah",
+        "Bi\u2019r al Mu\u2018\u0101jalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171396
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"22e2b833b1575ed9012f1214870cddb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1209821407,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1209821407,
+    "wof:lastmodified":1537702195,
+    "wof:name":"Bi'r Ma`jalah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2115,
+    36.64018,
+    39.2115,
+    36.64018
+],
+  "geometry": {"coordinates":[39.2115,36.64018],"type":"Point"}
+}

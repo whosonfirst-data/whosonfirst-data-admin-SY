@@ -1,0 +1,75 @@
+{
+  "id": 1226432261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64696,36.62281,38.64696,36.62281",
+    "geom:latitude":36.62281,
+    "geom:longitude":38.64696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kurtuk Shaykhan",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9186,
+    "gn:latitude":36.62281,
+    "gn:longitude":38.64696,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kurtuk Shaykh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062a\u0643 \u0634\u064a\u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kartak Shaykh\u0101n",
+        "Kurtuk Shaykh\u0101n",
+        "Kortek Che\u00efkh\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9186
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"190326bb72c61eb27ac743e16314daf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226432261,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226432261,
+    "wof:lastmodified":1537701568,
+    "wof:name":"Kurtuk Shaykhan",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64696,
+    36.62281,
+    38.64696,
+    36.62281
+],
+  "geometry": {"coordinates":[38.64696,36.62281],"type":"Point"}
+}

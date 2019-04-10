@@ -1,0 +1,68 @@
+{
+  "id": 1209017415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10583,35.68139,36.10583,35.68139",
+    "geom:latitude":35.68139,
+    "geom:longitude":36.10583,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Kawm",
+    "gn:country_code":"SY",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173649,
+    "gn:latitude":35.68139,
+    "gn:longitude":36.10583,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Kawm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "El Ko\u00fbm",
+        "Al Kawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173649
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c9e86beab479ff8be7d82fad7336cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209017415
+        }
+    ],
+    "wof:id":1209017415,
+    "wof:lastmodified":1537702351,
+    "wof:name":"Al Kawm",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10583,
+    35.68139,
+    36.10583,
+    35.68139
+],
+  "geometry": {"coordinates":[36.10583,35.68139],"type":"Point"}
+}

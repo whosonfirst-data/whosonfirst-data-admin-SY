@@ -1,0 +1,73 @@
+{
+  "id": 1225830809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36009,33.48275,36.36009,33.48275",
+    "geom:latitude":33.48275,
+    "geom:longitude":36.36009,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Huqul ash Shams",
+    "gn:country_code":"SY",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411865,
+    "gn:latitude":33.48275,
+    "gn:longitude":36.36009,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"\u1e28uq\u016bl ash Shams",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642\u0648\u0644 \u0627\u0644\u0634\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uq\u016bl ash Shams"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411865
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"904a2d7316536f0dc9b56542b9102b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1225830809,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1225830809,
+    "wof:lastmodified":1537702560,
+    "wof:name":"Huqul ash Shams",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36009,
+    33.48275,
+    36.36009,
+    33.48275
+],
+  "geometry": {"coordinates":[36.36009,33.48275],"type":"Point"}
+}

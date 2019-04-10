@@ -1,0 +1,77 @@
+{
+  "id": 1242797753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03654,33.26407,36.03654,33.26407",
+    "geom:latitude":33.26407,
+    "geom:longitude":36.03654,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Shura",
+    "gn:country_code":"SY",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171046,
+    "gn:latitude":33.26407,
+    "gn:longitude":36.03654,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Sh\u016br\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u016br\u00e1"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0648\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Chaoura",
+        "Cho\u00fbra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171046
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2a31ecbe2ab223cff0135642c4f885b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1242797753,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242797753,
+    "wof:lastmodified":1537702166,
+    "wof:name":"Shura",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03654,
+    33.26407,
+    36.03654,
+    33.26407
+],
+  "geometry": {"coordinates":[36.03654,33.26407],"type":"Point"}
+}

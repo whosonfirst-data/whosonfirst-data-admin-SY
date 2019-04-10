@@ -1,0 +1,75 @@
+{
+  "id": 1327412625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05155,35.09299,36.05155,35.09299",
+    "geom:latitude":35.09299,
+    "geom:longitude":36.05155,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baryaha",
+    "gn:country_code":"SY",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171745,
+    "gn:latitude":35.09299,
+    "gn:longitude":36.05155,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bary\u0101\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0627\u062d\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bri\u00e2ha",
+        "Bari\u00e2ha",
+        "Bary\u0101\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171745
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d102c6815d67553e96602b34a763ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1327412625,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327412625,
+    "wof:lastmodified":1537702223,
+    "wof:name":"Baryaha",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05155,
+    35.09299,
+    36.05155,
+    35.09299
+],
+  "geometry": {"coordinates":[36.05155,35.09299],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209498927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52027,35.16622,36.52027,35.16622",
+    "geom:latitude":35.16622,
+    "geom:longitude":36.52027,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Suwayri",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163851,
+    "gn:latitude":35.16622,
+    "gn:longitude":36.52027,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Suwayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Soua\u00efri",
+        "Sou\u00e9ri",
+        "Suwayr\u012b",
+        "\u015euwayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163851
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"500eb798f99122ddacd6c6cceb942897",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209498927
+        }
+    ],
+    "wof:id":1209498927,
+    "wof:lastmodified":1537701700,
+    "wof:name":"Suwayri",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52027,
+    35.16622,
+    36.52027,
+    35.16622
+],
+  "geometry": {"coordinates":[36.52027,35.16622],"type":"Point"}
+}

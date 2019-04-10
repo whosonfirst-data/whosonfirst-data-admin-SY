@@ -1,0 +1,73 @@
+{
+  "id": 1326819491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08096,35.3361,37.08096,35.3361",
+    "geom:latitude":35.3361,
+    "geom:longitude":37.08096,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ar Rabi`ah",
+    "gn:country_code":"SY",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340898,
+    "gn:latitude":35.3361,
+    "gn:longitude":37.08096,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ar Rab\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Rab\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340898
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b3c9589efd77eb1ef158771efed8e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1326819491,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1326819491,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Ar Rabi`ah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08096,
+    35.3361,
+    37.08096,
+    35.3361
+],
+  "geometry": {"coordinates":[37.08096,35.3361],"type":"Point"}
+}

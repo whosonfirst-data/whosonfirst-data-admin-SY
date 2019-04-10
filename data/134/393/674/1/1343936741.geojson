@@ -1,0 +1,73 @@
+{
+  "id": 1343936741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99094,34.87934,35.99094,34.87934",
+    "geom:latitude":34.87934,
+    "geom:longitude":35.99094,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Mubarakah",
+    "gn:country_code":"SY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266351,
+    "gn:latitude":34.87934,
+    "gn:longitude":35.99094,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Mub\u0101rakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0627\u0631\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mub\u0101rakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266351
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5a01ef4459cf3e56ad29899feaab4bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343936741,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343936741,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Al Mubarakah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99094,
+    34.87934,
+    35.99094,
+    34.87934
+],
+  "geometry": {"coordinates":[35.99094,34.87934],"type":"Point"}
+}

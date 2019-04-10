@@ -1,0 +1,67 @@
+{
+  "id": 1209617105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92144,33.23513,35.92144,33.23513",
+    "geom:latitude":33.23513,
+    "geom:longitude":35.92144,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"`Umrat al Fawwar",
+    "gn:country_code":"SY",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429690,
+    "gn:latitude":33.23513,
+    "gn:longitude":35.92144,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"\u2018Umrat al Faww\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631\u0629 \u0627\u0644\u0641\u0648\u0651\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Umrat al Faww\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429690
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"54dbecb0712f217dd29dca256961049d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209617105
+        }
+    ],
+    "wof:id":1209617105,
+    "wof:lastmodified":1537702569,
+    "wof:name":"`Umrat al Fawwar",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92144000000001,
+    33.23513,
+    35.92144000000001,
+    33.23513
+],
+  "geometry": {"coordinates":[35.92144000000001,33.23513],"type":"Point"}
+}

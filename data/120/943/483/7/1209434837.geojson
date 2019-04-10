@@ -1,0 +1,71 @@
+{
+  "id": 1209434837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87972,33.31376,35.87972,33.31376",
+    "geom:latitude":33.31376,
+    "geom:longitude":35.87972,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bayt Jinn",
+    "gn:country_code":"SY",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171564,
+    "gn:latitude":33.31376,
+    "gn:longitude":35.87972,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bayt Jinn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0646"
+    ],
+    "name:und_x_variant":[
+        "Beit Jenn",
+        "Beit Jann",
+        "Be\u00eft Jinn",
+        "Bayt Jinn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171564,
+        "wk:page":"Beit_Jinn"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e3fe585a89de4bb48f9625744055aad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209434837
+        }
+    ],
+    "wof:id":1209434837,
+    "wof:lastmodified":1537702209,
+    "wof:name":"Bayt Jinn",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87972,
+    33.31375999999999,
+    35.87972,
+    33.31375999999999
+],
+  "geometry": {"coordinates":[35.87972,33.31375999999999],"type":"Point"}
+}

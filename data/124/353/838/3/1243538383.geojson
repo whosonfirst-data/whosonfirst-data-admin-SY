@@ -1,0 +1,71 @@
+{
+  "id": 1243538383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45,35.26667,37.45,35.26667",
+    "geom:latitude":35.26667,
+    "geom:longitude":37.45,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Ma`jun",
+    "gn:country_code":"SY",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173538,
+    "gn:latitude":35.26667,
+    "gn:longitude":37.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Al Ma\u2018j\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maajo\u00fbn",
+        "Al Ma\u2018j\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173538
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7156d69c6114b3d2ae91831bae0c6690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243538383,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243538383,
+    "wof:lastmodified":1537702343,
+    "wof:name":"Al Ma`jun",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45,
+    35.26667,
+    37.45,
+    35.26667
+],
+  "geometry": {"coordinates":[37.45,35.26667],"type":"Point"}
+}

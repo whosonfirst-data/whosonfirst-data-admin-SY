@@ -1,0 +1,73 @@
+{
+  "id": 1226246847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79794,35.77736,40.79794,35.77736",
+    "geom:latitude":35.77736,
+    "geom:longitude":40.79794,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maqlub",
+    "gn:country_code":"SY",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275322,
+    "gn:latitude":35.77736,
+    "gn:longitude":40.79794,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Maql\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0644\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Maql\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275322
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9ff286609c920c0998c2eeb4589d709b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226246847,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226246847,
+    "wof:lastmodified":1537702518,
+    "wof:name":"Maqlub",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79794,
+    35.77735999999999,
+    40.79794,
+    35.77735999999999
+],
+  "geometry": {"coordinates":[40.79794,35.77735999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293870869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41018,35.80127,36.41018,35.80127",
+    "geom:latitude":35.80127,
+    "geom:longitude":36.41018,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Qunfudh",
+    "gn:country_code":"SY",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554996,
+    "gn:latitude":35.80127,
+    "gn:longitude":36.41018,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Qunfudh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0641\u0630"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f8a07c96c80b80f0d8c264bbb14a742d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1293870869,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293870869,
+    "wof:lastmodified":1537702635,
+    "wof:name":"Al Qunfudh",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41018,
+    35.80127,
+    36.41018,
+    35.80127
+],
+  "geometry": {"coordinates":[36.41018,35.80127],"type":"Point"}
+}

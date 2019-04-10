@@ -1,0 +1,80 @@
+{
+  "id": 1259566739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92559,35.26298,35.92559,35.26298",
+    "geom:latitude":35.26298,
+    "geom:longitude":35.92559,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kharab Baldah",
+    "gn:country_code":"SY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169464,
+    "gn:latitude":35.26298,
+    "gn:longitude":35.92559,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Khar\u0101b Baldah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u064a\u0635\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0627\u0628 \u0628\u0644\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Harrissoune",
+        "Hra\u00efsso\u00fbn",
+        "Hareissoun",
+        "\u1e28uray\u015f\u016bn",
+        "Khar\u0101b Baldah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169464
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce3fc61c98819248cb4502a7fe7bd248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259566739,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259566739,
+    "wof:lastmodified":1537702068,
+    "wof:name":"Kharab Baldah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92559,
+    35.26298,
+    35.92559,
+    35.26298
+],
+  "geometry": {"coordinates":[35.92559,35.26298],"type":"Point"}
+}

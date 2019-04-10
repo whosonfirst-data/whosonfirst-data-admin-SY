@@ -1,0 +1,67 @@
+{
+  "id": 1260177909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.82978,36.5333,36.82978,36.5333",
+    "geom:latitude":36.5333,
+    "geom:longitude":36.82978,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tirtewile",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257952,
+    "gn:latitude":36.5333,
+    "gn:longitude":36.82978,
+    "gn:modification_date":"2016-09-25",
+    "gn:name":"Tirtewil\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257952
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4da8a6e90c97a0a25acffe961c64ff3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260177909,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260177909,
+    "wof:lastmodified":1536854558,
+    "wof:name":"Tirtewile",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.82978,
+    36.5333,
+    36.82978,
+    36.5333
+],
+  "geometry": {"coordinates":[36.82978,36.5333],"type":"Point"}
+}

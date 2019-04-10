@@ -1,0 +1,80 @@
+{
+  "id": 1293190571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36758,36.23075,37.36758,36.23075",
+    "geom:latitude":36.23075,
+    "geom:longitude":37.36758,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"A`bad",
+    "gn:country_code":"SY",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165461,
+    "gn:latitude":36.23075,
+    "gn:longitude":37.36758,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"A\u2018bad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0639\u0628\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Abed",
+        "Rasm el Aabd",
+        "Abad",
+        "Rasm al \u2018Abd",
+        "A\u2018bad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165461
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a09467b55f8ca8a0853e0e28abbe895e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293190571,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293190571,
+    "wof:lastmodified":1537701787,
+    "wof:name":"A`bad",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36758,
+    36.23075,
+    37.36758,
+    36.23075
+],
+  "geometry": {"coordinates":[37.36758,36.23075],"type":"Point"}
+}

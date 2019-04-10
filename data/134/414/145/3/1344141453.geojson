@@ -1,0 +1,77 @@
+{
+  "id": 1344141453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.35653,36.01798,37.35653,36.01798",
+    "geom:latitude":36.01798,
+    "geom:longitude":37.35653,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jalaghim",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169236,
+    "gn:latitude":36.01798,
+    "gn:longitude":37.35653,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Jal\u0101gh\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u063a\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Djalaghine",
+        "Jalarhem",
+        "Jal\u00e2rh\u00eem",
+        "Jalarhine",
+        "Jal\u0101gh\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169236
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c3cc4c042823509d7b39fc11efee0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1344141453,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344141453,
+    "wof:lastmodified":1537702054,
+    "wof:name":"Jalaghim",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.35653,
+    36.01798,
+    37.35653,
+    36.01798
+],
+  "geometry": {"coordinates":[37.35653,36.01798],"type":"Point"}
+}

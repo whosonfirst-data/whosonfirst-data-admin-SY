@@ -1,0 +1,75 @@
+{
+  "id": 1276216555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.50595,36.73052,38.50595,36.73052",
+    "geom:latitude":36.73052,
+    "geom:longitude":38.50595,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharab Rasit",
+    "gn:country_code":"SY",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168293,
+    "gn:latitude":36.73052,
+    "gn:longitude":38.50595,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Khar\u0101b R\u0101sit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0642\u0627\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b Rassett",
+        "Khar\u0101b R\u0101sit",
+        "Khar\u0101b R\u0101ssat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168293
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3d8647fc59d6ce90a098487cc2cde9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276216555,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276216555,
+    "wof:lastmodified":1537701980,
+    "wof:name":"Kharab Rasit",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.50595,
+    36.73052,
+    38.50595,
+    36.73052
+],
+  "geometry": {"coordinates":[38.50595,36.73052],"type":"Point"}
+}

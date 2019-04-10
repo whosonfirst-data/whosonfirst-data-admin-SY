@@ -1,0 +1,75 @@
+{
+  "id": 1243153193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27385,34.74199,36.27385,34.74199",
+    "geom:latitude":34.74199,
+    "geom:longitude":36.27385,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ash Shuwayhid",
+    "gn:country_code":"SY",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164388,
+    "gn:latitude":34.74199,
+    "gn:longitude":36.27385,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ash Shuwayhid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u064a\u0647\u062f"
+    ],
+    "name:und_x_variant":[
+        "Chouahid",
+        "Shaw\u0101hid",
+        "Ash Shuwayhid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164388
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44bc72265bf9930eac877c209fca5c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1243153193,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243153193,
+    "wof:lastmodified":1537701730,
+    "wof:name":"Ash Shuwayhid",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27385,
+    34.74199,
+    36.27385,
+    34.74199
+],
+  "geometry": {"coordinates":[36.27385,34.74199],"type":"Point"}
+}

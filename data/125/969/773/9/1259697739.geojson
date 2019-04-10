@@ -1,0 +1,73 @@
+{
+  "id": 1259697739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.53471,35.97131,40.53471,35.97131",
+    "geom:latitude":35.97131,
+    "geom:longitude":40.53471,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Mani`i",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264064,
+    "gn:latitude":35.97131,
+    "gn:longitude":40.53471,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al Man\u012b\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u064a\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Man\u012b\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264064
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1adb3d820bf1ea199c48c0537b8f24ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259697739,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259697739,
+    "wof:lastmodified":1537702494,
+    "wof:name":"Al Mani`i",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.53471,
+    35.97130999999999,
+    40.53471,
+    35.97130999999999
+],
+  "geometry": {"coordinates":[40.53471,35.97130999999999],"type":"Point"}
+}

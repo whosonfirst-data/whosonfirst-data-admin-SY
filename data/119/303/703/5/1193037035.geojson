@@ -1,0 +1,111 @@
+{
+  "id": 1193037035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45374,36.75091,38.45374,36.75091",
+    "geom:latitude":36.75091,
+    "geom:longitude":38.45374,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qantarat Bisari",
+    "gn:country_code":"SY",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166117,
+    "gn:latitude":36.75091,
+    "gn:longitude":38.45374,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Qan\u0163arat Bi\u015far\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0637\u0631\u0629 \u0628\u0635\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0646\u0637\u0631\u0629 \u0628\u064a\u062a \u0633\u0631\u064a",
+        "\u0642\u0646\u0637\u0631\u0629 \u0628\u064a\u0633\u0631\u064a",
+        "\u0642\u0646\u0637\u0631\u0629 \u0628\u064a\u062a\u0633\u0631\u064a",
+        "\u0642\u0646\u062a\u0631\u0629 \u0628\u064a\u0633\u0631\u064a",
+        "\u0642\u0646\u0637\u0631\u0629 \u0628\u0633\u0631\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eesir\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "B\u00easer\u00ee",
+        "\u0628\u064a\u0633\u0631\u064a",
+        "\u0628\u06ce\u0633\u06d5\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Qanntara",
+        "Qan\u0163arat Bisl\u012b",
+        "Qanntara Bisri",
+        "Qanntar\u00e8 Bisri",
+        "Qanntaret Bisri",
+        "Qan\u0163arat Bisr\u012b",
+        "Qan\u0163arat Bi\u015far\u012b",
+        "Qan\u0163arat Ba\u015fr\u012b",
+        "Qantarat Bisri\u2019",
+        "Qentira B\u00easer\u00ee",
+        "Qan\u0163arat Bayt Sar\u012b",
+        "Qan\u0163arah Bayt Sar\u012b",
+        "Qan\u0163arat Baysar\u012b",
+        "Qan\u0163arat Baytsar\u012b",
+        "Qan\u0163arah Baytsar\u012b",
+        "Qentir Beyt Ser\u00ee",
+        "Qantarat Bayt Sari",
+        "Qantarah Bayt Sari",
+        "Qantara Bayt Sari",
+        "Qantarah Baytsari",
+        "Qantara Baytsari",
+        "Qantarat Baytsari",
+        "Qantarat Baysar\u012b",
+        "Qan\u0163arat Bisar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166117
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2953e7a9db0a6f1d94b317c0453cb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1193037035,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193037035,
+    "wof:lastmodified":1537701838,
+    "wof:name":"Qantarat Bisari",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45374,
+    36.75091,
+    38.45374,
+    36.75091
+],
+  "geometry": {"coordinates":[38.45374,36.75091],"type":"Point"}
+}

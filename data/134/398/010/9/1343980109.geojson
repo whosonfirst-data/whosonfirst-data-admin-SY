@@ -1,0 +1,76 @@
+{
+  "id": 1343980109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24578,33.14253,36.24578,33.14253",
+    "geom:latitude":33.14253,
+    "geom:longitude":36.24578,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mutabin",
+    "gn:country_code":"SY",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166537,
+    "gn:latitude":33.14253,
+    "gn:longitude":36.24578,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"M\u016btab\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062a\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mutb\u012bn",
+        "M\u016btb\u012bn",
+        "Moutb\u00eene",
+        "M\u016btab\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166537
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18db19c5197ce3591127162fc4d48085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1343980109,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1343980109,
+    "wof:lastmodified":1537701863,
+    "wof:name":"Mutabin",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24578,
+    33.14253,
+    36.24578,
+    33.14253
+],
+  "geometry": {"coordinates":[36.24578,33.14253],"type":"Point"}
+}

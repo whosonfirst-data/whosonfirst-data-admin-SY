@@ -1,0 +1,75 @@
+{
+  "id": 1226438471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16173,36.33675,38.16173,36.33675",
+    "geom:latitude":36.33675,
+    "geom:longitude":38.16173,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat az Zammalah",
+    "gn:country_code":"SY",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168047,
+    "gn:latitude":36.33675,
+    "gn:longitude":38.16173,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khirbat az Zamm\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0632\u0645\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Zamm\u0101lah",
+        "Kheurbet ez Zamm\u00e2l\u00e9",
+        "Khirbat az Zamm\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168047
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87d66ffc91702ba60597d3ea15c2abdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226438471,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226438471,
+    "wof:lastmodified":1537701965,
+    "wof:name":"Khirbat az Zammalah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16173,
+    36.33675,
+    38.16173,
+    36.33675
+],
+  "geometry": {"coordinates":[38.16173,36.33675],"type":"Point"}
+}

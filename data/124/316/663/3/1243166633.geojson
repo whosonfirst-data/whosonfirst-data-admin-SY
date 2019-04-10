@@ -1,0 +1,75 @@
+{
+  "id": 1243166633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9446,36.19484,37.9446,36.19484",
+    "geom:latitude":36.19484,
+    "geom:longitude":37.9446,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm al Ahmar",
+    "gn:country_code":"SY",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165456,
+    "gn:latitude":36.19484,
+    "gn:longitude":37.9446,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rasm al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0627\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Cheyarie",
+        "Rasm el Ahmar",
+        "Rasm al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165456
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"812a90d98f3f4967a8d0512ed6ce97b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243166633,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243166633,
+    "wof:lastmodified":1537701787,
+    "wof:name":"Rasm al Ahmar",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9446,
+    36.19484,
+    37.9446,
+    36.19484
+],
+  "geometry": {"coordinates":[37.9446,36.19484],"type":"Point"}
+}

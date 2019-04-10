@@ -1,0 +1,78 @@
+{
+  "id": 1260069897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.81121,36.32288,37.81121,36.32288",
+    "geom:latitude":36.32288,
+    "geom:longitude":37.81121,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Miyal",
+    "gn:country_code":"SY",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162969,
+    "gn:latitude":36.32288,
+    "gn:longitude":37.81121,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umm Miy\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm Amy\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "Umm Miy\u0101l",
+        "\u0623\u0645 \u0645\u064a\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Oum Mi\u00e2l",
+        "Umm Amy\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162969
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"50aaf10a733d17c6c879af5fbc26a3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1260069897,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260069897,
+    "wof:lastmodified":1537701628,
+    "wof:name":"Umm Miyal",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.81121,
+    36.32288,
+    37.81121,
+    36.32288
+],
+  "geometry": {"coordinates":[37.81121,36.32288],"type":"Point"}
+}

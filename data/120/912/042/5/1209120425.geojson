@@ -1,0 +1,71 @@
+{
+  "id": 1209120425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37649,36.95114,40.37649,36.95114",
+    "geom:latitude":36.95114,
+    "geom:longitude":40.37649,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kasrah",
+    "gn:country_code":"SY",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168526,
+    "gn:latitude":36.95114,
+    "gn:longitude":40.37649,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kasrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Kasrah"
+    ],
+    "name:und_x_variant":[
+        "Kasra",
+        "Kasrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168526
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7210ae77f4bd22dfe8530a5d612bd27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209120425
+        }
+    ],
+    "wof:id":1209120425,
+    "wof:lastmodified":1537701998,
+    "wof:name":"Kasrah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37649,
+    36.95114,
+    40.37649,
+    36.95114
+],
+  "geometry": {"coordinates":[40.37649,36.95114],"type":"Point"}
+}

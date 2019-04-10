@@ -1,0 +1,77 @@
+{
+  "id": 1277056275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47913,36.19721,36.47913,36.19721",
+    "geom:latitude":36.19721,
+    "geom:longitude":36.47913,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Hum",
+    "gn:country_code":"SY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168687,
+    "gn:latitude":36.19721,
+    "gn:longitude":36.47913,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kafr \u1e28\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kafer Ho\u00fbn",
+        "Kafer Ho\u00fbm",
+        "Kafr H\u016bm",
+        "Kafr \u1e28\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168687,
+        "wk:page":"Kafr_Hum"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"49ce5a83a0684512897e16b03f643a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1277056275,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1277056275,
+    "wof:lastmodified":1537702013,
+    "wof:name":"Kafr Hum",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47913,
+    36.19721,
+    36.47913,
+    36.19721
+],
+  "geometry": {"coordinates":[36.47913,36.19721],"type":"Point"}
+}

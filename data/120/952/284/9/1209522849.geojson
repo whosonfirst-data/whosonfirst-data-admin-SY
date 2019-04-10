@@ -1,0 +1,73 @@
+{
+  "id": 1209522849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77609,33.14588,35.77609,33.14588",
+    "geom:latitude":33.14588,
+    "geom:longitude":35.77609,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bab al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":172008,
+    "gn:latitude":33.14588,
+    "gn:longitude":35.77609,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"B\u0101b al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0647\u0648\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2b el Haoua",
+        "B\u0101b al Haw\u0101\u2019",
+        "B\u0101b al Haw\u0101",
+        "B\u0101b al Haw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172008
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd26fee6294a1fa38f28653d6684309b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209522849
+        }
+    ],
+    "wof:id":1209522849,
+    "wof:lastmodified":1537702242,
+    "wof:name":"Bab al Hawa",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77609,
+    33.14588,
+    35.77609,
+    33.14588
+],
+  "geometry": {"coordinates":[35.77609,33.14588],"type":"Point"}
+}

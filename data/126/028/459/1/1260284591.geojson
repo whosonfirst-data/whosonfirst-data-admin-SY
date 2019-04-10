@@ -1,0 +1,73 @@
+{
+  "id": 1260284591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.27849,35.94686,38.27849,35.94686",
+    "geom:latitude":35.94686,
+    "geom:longitude":38.27849,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maslahat Makki",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8347089,
+    "gn:latitude":35.94686,
+    "gn:longitude":38.27849,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ma\u015fla\u1e29at Makk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0644\u062d\u0629 \u0645\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u015fla\u1e29at Makk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347089
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"14d41612c96390a14fe4c40140a209fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1260284591,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1260284591,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Maslahat Makki",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.27849000000001,
+    35.94686,
+    38.27849000000001,
+    35.94686
+],
+  "geometry": {"coordinates":[38.27849000000001,35.94686],"type":"Point"}
+}

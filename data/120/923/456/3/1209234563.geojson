@@ -1,0 +1,64 @@
+{
+  "id": 1209234563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13108,33.42145,36.13108,33.42145",
+    "geom:latitude":33.42145,
+    "geom:longitude":36.13108,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Umm ar Rujm",
+    "gn:country_code":"SY",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412888,
+    "gn:latitude":33.42145,
+    "gn:longitude":36.13108,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Umm ar Rujm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u062c\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412888
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6b7beec82c7d8d59b08d3caee368034",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209234563
+        }
+    ],
+    "wof:id":1209234563,
+    "wof:lastmodified":1537702565,
+    "wof:name":"Umm ar Rujm",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13108,
+    33.42145,
+    36.13108,
+    33.42145
+],
+  "geometry": {"coordinates":[36.13108,33.42145],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343928759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98551,35.19547,35.98551,35.19547",
+    "geom:latitude":35.19547,
+    "geom:longitude":35.98551,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tiru",
+    "gn:country_code":"SY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163204,
+    "gn:latitude":35.19547,
+    "gn:longitude":35.98551,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u0162\u012br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u012br\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u064a\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "T\u00eero",
+        "\u0162ayr\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163204,
+        "wk:page":"Tayru"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0f25f39c4cc465b642f76b6dc70ba515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1343928759,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343928759,
+    "wof:lastmodified":1537701643,
+    "wof:name":"Tiru",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98551,
+    35.19547,
+    35.98551,
+    35.19547
+],
+  "geometry": {"coordinates":[35.98551,35.19547],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259767697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8323,36.63828,36.8323,36.63828",
+    "geom:latitude":36.63828,
+    "geom:longitude":36.8323,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ash Shurbah",
+    "gn:country_code":"SY",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164187,
+    "gn:latitude":36.63828,
+    "gn:longitude":36.8323,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ash Sh\u016brbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0628\u0647 \u0627\u0648\u063a\u0644\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0648\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chorba Orhlou",
+        "Sh\u016brbah \u016aghl\u016b",
+        "Ash Sh\u016brbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164187
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e1230ce9e93c2c3250870695ac5bd422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1259767697,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259767697,
+    "wof:lastmodified":1537701721,
+    "wof:name":"Ash Shurbah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8323,
+    36.63828,
+    36.8323,
+    36.63828
+],
+  "geometry": {"coordinates":[36.8323,36.63828],"type":"Point"}
+}

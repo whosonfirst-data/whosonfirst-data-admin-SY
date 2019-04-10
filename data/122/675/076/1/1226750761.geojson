@@ -1,0 +1,79 @@
+{
+  "id": 1226750761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9627,35.45303,35.9627,35.45303",
+    "geom:latitude":35.45303,
+    "geom:longitude":35.9627,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rasyun",
+    "gn:country_code":"SY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165368,
+    "gn:latitude":35.45303,
+    "gn:longitude":35.9627,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Rasy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u064a\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0633\u064a\u0648\u0646 \u0627\u0644\u0642\u0631\u062f\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rassio\u00fbn",
+        "Rasy\u016bn",
+        "Rasy\u016bn al Qard\u0101\u1e29ah",
+        "Rasun Elqerdaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165368
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c9e7126ffe48b3f1b58013269352b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1226750761,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226750761,
+    "wof:lastmodified":1537701781,
+    "wof:name":"Rasyun",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9627,
+    35.45303,
+    35.9627,
+    35.45303
+],
+  "geometry": {"coordinates":[35.9627,35.45303],"type":"Point"}
+}

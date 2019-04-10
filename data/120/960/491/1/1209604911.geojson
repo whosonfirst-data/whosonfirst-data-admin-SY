@@ -1,0 +1,71 @@
+{
+  "id": 1209604911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11524,36.45905,38.11524,36.45905",
+    "geom:latitude":36.45905,
+    "geom:longitude":38.11524,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Uj Qana Tahtaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162771,
+    "gn:latitude":36.45905,
+    "gn:longitude":38.11524,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u016aj Qan\u0101 Ta\u1e29t\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062c \u0642\u0646\u0627 \u062a\u062d\u062a\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Utch Qana Taht\u00e2n\u00eey\u00e9",
+        "Utch Qana Markaz S\u00e9rh\u00eer",
+        "Ush Qanah at Ta\u1e29t\u0101n\u012byah",
+        "Awj Qan\u0101 Ta\u1e29t\u0101n\u012byah",
+        "\u016aj Qan\u0101 Ta\u1e29t\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162771
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ab9fa43d2f58330820e509e2684b9dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209604911
+        }
+    ],
+    "wof:id":1209604911,
+    "wof:lastmodified":1537701613,
+    "wof:name":"Uj Qana Tahtaniyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11524,
+    36.45905,
+    38.11524,
+    36.45905
+],
+  "geometry": {"coordinates":[38.11524,36.45905],"type":"Point"}
+}

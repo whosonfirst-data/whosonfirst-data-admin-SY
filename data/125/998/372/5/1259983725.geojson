@@ -1,0 +1,83 @@
+{
+  "id": 1259983725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73478,36.05756,40.73478,36.05756",
+    "geom:latitude":36.05756,
+    "geom:longitude":40.73478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ash Shaddadah",
+    "gn:country_code":"SY",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172837,
+    "gn:latitude":36.05756,
+    "gn:longitude":40.73478,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ash Shadd\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062f\u0627\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0633\u0631 \u0627\u0644\u0634\u062f\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tell Shed\u0101di",
+        "Chadd\u00e2di",
+        "Shad\u0101d\u012b",
+        "Ath Thar\u0101d\u012b",
+        "Tall Shad\u0101d\u012b",
+        "Chadd\u00e2de",
+        "Ash Shadd\u0101dah",
+        "Jisr ash Shad\u0101d\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172837
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"40d43e3b9179cb49f9016f9ae6a935b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259983725,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259983725,
+    "wof:lastmodified":1537702294,
+    "wof:name":"Ash Shaddadah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73478,
+    36.05756,
+    40.73478,
+    36.05756
+],
+  "geometry": {"coordinates":[40.73478,36.05756],"type":"Point"}
+}

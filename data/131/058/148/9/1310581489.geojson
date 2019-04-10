@@ -1,0 +1,79 @@
+{
+  "id": 1310581489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09886,35.5983,37.09886,35.5983",
+    "geom:latitude":35.5983,
+    "geom:longitude":37.09886,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Juhman",
+    "gn:country_code":"SY",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169244,
+    "gn:latitude":35.5983,
+    "gn:longitude":37.09886,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Al Juhm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Juhm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0647\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Djehamane",
+        "Jahm\u00e2ne",
+        "Jouham\u00e2ne",
+        "Jahm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169244
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46e1046cd69b5751806761e3493eb3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1310581489,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310581489,
+    "wof:lastmodified":1537702055,
+    "wof:name":"Al Juhman",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09886,
+    35.5983,
+    37.09886,
+    35.5983
+],
+  "geometry": {"coordinates":[37.09886,35.5983],"type":"Point"}
+}

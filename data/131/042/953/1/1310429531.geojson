@@ -1,0 +1,77 @@
+{
+  "id": 1310429531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95382,36.69648,38.95382,36.69648",
+    "geom:latitude":36.69648,
+    "geom:longitude":38.95382,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tall Abyad",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":163750,
+    "gn:latitude":36.69648,
+    "gn:longitude":38.95382,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tall Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0623\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Tell Abyad",
+        "Tal-Abyad",
+        "Tell Abiad",
+        "Tall Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163750,
+        "wk:page":"Tell_Abyad"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"070ccc6e576407c2fcf2d77683fcbbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1310429531,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310429531,
+    "wof:lastmodified":1537701692,
+    "wof:name":"Tall Abyad",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95382,
+    36.69648,
+    38.95382,
+    36.69648
+],
+  "geometry": {"coordinates":[38.95382,36.69648],"type":"Point"}
+}

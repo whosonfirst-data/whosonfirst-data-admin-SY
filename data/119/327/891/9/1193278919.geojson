@@ -1,0 +1,73 @@
+{
+  "id": 1193278919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99972,35.2813,35.99972,35.2813",
+    "geom:latitude":35.2813,
+    "geom:longitude":35.99972,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baddurah",
+    "gn:country_code":"SY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695474,
+    "gn:latitude":35.2813,
+    "gn:longitude":35.99972,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Badd\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Badd\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695474
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cc8c3b66a0919ba3cf65eac1f81ef2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1193278919,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1193278919,
+    "wof:lastmodified":1537702583,
+    "wof:name":"Baddurah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99972,
+    35.2813,
+    35.99972,
+    35.2813
+],
+  "geometry": {"coordinates":[35.99972,35.2813],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293769229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68707,33.42853,36.68707,33.42853",
+    "geom:latitude":33.42853,
+    "geom:longitude":36.68707,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Widyan ar Rabi`",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273018,
+    "gn:latitude":33.42853,
+    "gn:longitude":36.68707,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Widy\u0101n ar Rab\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062f\u064a\u0627\u0646 \u0627\u0644\u0631\u0628\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Widy\u0101n ar Rab\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273018
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dee15e1ae393c3ce0cba8c99351cda20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1293769229,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293769229,
+    "wof:lastmodified":1537702614,
+    "wof:name":"Widyan ar Rabi`",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68707,
+    33.42853,
+    36.68707,
+    33.42853
+],
+  "geometry": {"coordinates":[36.68707,33.42853],"type":"Point"}
+}

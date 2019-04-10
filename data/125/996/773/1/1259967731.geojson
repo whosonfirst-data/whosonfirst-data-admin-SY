@@ -1,0 +1,73 @@
+{
+  "id": 1259967731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32805,34.67896,37.32805,34.67896",
+    "geom:latitude":34.67896,
+    "geom:longitude":37.32805,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tal`at al Gharbiyah",
+    "gn:country_code":"SY",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365,
+    "gn:latitude":34.67896,
+    "gn:longitude":37.32805,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u0162al\u2018at al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u0639\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162al\u2018at al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d5d0a0b877a636d0584606951ca298e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1259967731,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259967731,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Tal`at al Gharbiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32805,
+    34.67896,
+    37.32805,
+    34.67896
+],
+  "geometry": {"coordinates":[37.32805,34.67896],"type":"Point"}
+}

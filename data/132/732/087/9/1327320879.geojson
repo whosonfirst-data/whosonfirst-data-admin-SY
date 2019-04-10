@@ -1,0 +1,79 @@
+{
+  "id": 1327320879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13074,35.66716,37.13074,35.66716",
+    "geom:latitude":35.66716,
+    "geom:longitude":37.13074,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"`Aqlat al Buwaydir",
+    "gn:country_code":"SY",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171084,
+    "gn:latitude":35.66716,
+    "gn:longitude":37.13074,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u2018Aqlat al Buwaydir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0644\u0629 \u0627\u0644\u0628\u0648\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Boua\u00efder",
+        "Buwaydir",
+        "Aoqlat el Boua\u00efder",
+        "Am\u00e2ret es Soua\u00efda",
+        "Aoglat el Boua\u00efder",
+        "\u2018Uqlat al Buwaydir",
+        "\u2018Aqlat al Buwaydir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171084
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c58038426fa2525c2d6aaae58dceaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1327320879,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1327320879,
+    "wof:lastmodified":1537702170,
+    "wof:name":"`Aqlat al Buwaydir",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13074,
+    35.66716,
+    37.13074,
+    35.66716
+],
+  "geometry": {"coordinates":[37.13074,35.66716],"type":"Point"}
+}

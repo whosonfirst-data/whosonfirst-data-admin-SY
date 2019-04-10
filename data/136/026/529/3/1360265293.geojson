@@ -1,0 +1,79 @@
+{
+  "id": 1360265293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46348,35.6067,36.46348,35.6067",
+    "geom:latitude":35.6067,
+    "geom:longitude":36.46348,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Safuhun",
+    "gn:country_code":"SY",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164662,
+    "gn:latitude":35.6067,
+    "gn:longitude":36.46348,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Saf\u016bh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sf\u016bhun"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0641\u0648\u0647\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sfo\u00fbhone",
+        "Sfawh\u016bn",
+        "Saf\u016bh\u016bn",
+        "Safawh\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164662
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b0a4ef9d40cef8dfb4367bfdb20ec206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1360265293,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360265293,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Safuhun",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46348,
+    35.6067,
+    36.46348,
+    35.6067
+],
+  "geometry": {"coordinates":[36.46348,35.6067],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343641687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33333,35.975,36.33333,35.975",
+    "geom:latitude":35.975,
+    "geom:longitude":36.33333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dayr Ishman",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4693,
+    "gn:latitude":35.975,
+    "gn:longitude":36.33333,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Dayr Ishm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr Ishm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4693
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8c97cc2b1237bf749a37e63e69f985e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1343641687,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343641687,
+    "wof:lastmodified":1537701551,
+    "wof:name":"Dayr Ishman",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33333,
+    35.975,
+    36.33333,
+    35.975
+],
+  "geometry": {"coordinates":[36.33333,35.975],"type":"Point"}
+}

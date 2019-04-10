@@ -1,0 +1,80 @@
+{
+  "id": 1242566629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74453,35.02209,36.74453,35.02209",
+    "geom:latitude":35.02209,
+    "geom:longitude":36.74453,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nisrin",
+    "gn:country_code":"SY",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171288,
+    "gn:latitude":35.02209,
+    "gn:longitude":36.74453,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Nisr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Nisr\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0633\u0631\u064a\u0646",
+        "\u0628\u0633\u064a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bse\u00efr\u00eene",
+        "Busayr\u012bn",
+        "Bs\u00e9rine",
+        "Bsayr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171288
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c3d6f1da30bae4e940ea43dbde2f0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242566629,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242566629,
+    "wof:lastmodified":1537702185,
+    "wof:name":"Nisrin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74453,
+    35.02209000000001,
+    36.74453,
+    35.02209000000001
+],
+  "geometry": {"coordinates":[36.74453,35.02209000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209699519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97319,35.15436,36.97319,35.15436",
+    "geom:latitude":35.15436,
+    "geom:longitude":36.97319,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tirad",
+    "gn:country_code":"SY",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163208,
+    "gn:latitude":35.15436,
+    "gn:longitude":36.97319,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u0162ir\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162ir\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0162ar\u0101d",
+        "Tr\u00e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163208,
+        "wk:page":"Tirad"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"185ba527b26baf9296084169fb6a32eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1209699519,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209699519,
+    "wof:lastmodified":1537701644,
+    "wof:name":"Tirad",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97319,
+    35.15436,
+    36.97319,
+    35.15436
+],
+  "geometry": {"coordinates":[36.97319,35.15436],"type":"Point"}
+}

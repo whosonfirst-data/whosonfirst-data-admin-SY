@@ -1,0 +1,70 @@
+{
+  "id": 1293491719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.177,36.17015,41.177,36.17015",
+    "geom:latitude":36.17015,
+    "geom:longitude":41.177,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matari",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414792,
+    "gn:latitude":36.17015,
+    "gn:longitude":41.177,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Ma\u0163ar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0163ar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414792
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cba5a5d52b0879f2e79ba65000fd50de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293491719,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293491719,
+    "wof:lastmodified":1537702435,
+    "wof:name":"Matari",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.177,
+    36.17015,
+    41.177,
+    36.17015
+],
+  "geometry": {"coordinates":[41.177,36.17015],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193121769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2741,36.36212,37.2741,36.36212",
+    "geom:latitude":36.36212,
+    "geom:longitude":37.2741,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Marj",
+    "gn:country_code":"SY",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309603,
+    "gn:latitude":36.36212,
+    "gn:longitude":37.2741,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Al Marj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309603
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e4166a8543c9a7807a62009bd4f41a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1193121769,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193121769,
+    "wof:lastmodified":1537702600,
+    "wof:name":"Al Marj",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2741,
+    36.36212,
+    37.2741,
+    36.36212
+],
+  "geometry": {"coordinates":[37.2741,36.36212],"type":"Point"}
+}

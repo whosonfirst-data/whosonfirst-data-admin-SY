@@ -1,0 +1,73 @@
+{
+  "id": 1326725915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31098,33.82768,36.31098,33.82768",
+    "geom:latitude":33.82768,
+    "geom:longitude":36.31098,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Arana",
+    "gn:country_code":"SY",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12880,
+    "gn:latitude":33.82768,
+    "gn:longitude":36.31098,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u2018Ar\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ar\u0101n\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0631\u0627\u0646\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12880
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e66fc4cd8fc8341936e437a6a917be50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1326725915,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1326725915,
+    "wof:lastmodified":1537701578,
+    "wof:name":"`Arana",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31098,
+    33.82768,
+    36.31098,
+    33.82768
+],
+  "geometry": {"coordinates":[36.31098,33.82768],"type":"Point"}
+}

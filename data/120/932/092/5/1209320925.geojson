@@ -1,0 +1,67 @@
+{
+  "id": 1209320925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70929,36.06429,39.70929,36.06429",
+    "geom:latitude":36.06429,
+    "geom:longitude":39.70929,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bi'r Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384445,
+    "gn:latitude":36.06429,
+    "gn:longitude":39.70929,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Bi\u2019r \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384445
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"63bd071eae54266fd4eef6a2851e5083",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209320925
+        }
+    ],
+    "wof:id":1209320925,
+    "wof:lastmodified":1537702557,
+    "wof:name":"Bi'r Hammam",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70929,
+    36.06429,
+    39.70929,
+    36.06429
+],
+  "geometry": {"coordinates":[39.70929,36.06429],"type":"Point"}
+}

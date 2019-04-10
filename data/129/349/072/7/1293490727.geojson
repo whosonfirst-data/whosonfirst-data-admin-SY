@@ -1,0 +1,76 @@
+{
+  "id": 1293490727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19134,35.56209,36.19134,35.56209",
+    "geom:latitude":35.56209,
+    "geom:longitude":36.19134,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Barid",
+    "gn:country_code":"SY",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173993,
+    "gn:latitude":35.56209,
+    "gn:longitude":36.19134,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al B\u0101rid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al B\u0101rid"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "El B\u00e2red"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173993
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6beaaa851b10966743e04ba4ae97b392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293490727,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293490727,
+    "wof:lastmodified":1537702382,
+    "wof:name":"Al Barid",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19134,
+    35.56209000000001,
+    36.19134,
+    35.56209000000001
+],
+  "geometry": {"coordinates":[36.19134,35.56209000000001],"type":"Point"}
+}

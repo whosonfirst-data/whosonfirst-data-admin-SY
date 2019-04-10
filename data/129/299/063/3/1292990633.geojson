@@ -1,0 +1,79 @@
+{
+  "id": 1292990633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2499,36.43361,37.2499,36.43361",
+    "geom:latitude":36.43361,
+    "geom:longitude":37.2499,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"As Samuqah",
+    "gn:country_code":"SY",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169021,
+    "gn:latitude":36.43361,
+    "gn:longitude":37.2499,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"As Sam\u016bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0633\u0631 \u0627\u0644\u0633\u0645\u0648\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0645\u0648\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sammouka",
+        "Jisr es Smo\u00fbqa",
+        "Jisr as Sam\u016bqah",
+        "As Sam\u016bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169021
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"367bb32d9b99d4ca66266c292198d24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1292990633,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292990633,
+    "wof:lastmodified":1537702040,
+    "wof:name":"As Samuqah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2499,
+    36.43361,
+    37.2499,
+    36.43361
+],
+  "geometry": {"coordinates":[37.2499,36.43361],"type":"Point"}
+}

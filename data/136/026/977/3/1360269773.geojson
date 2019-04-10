@@ -1,0 +1,77 @@
+{
+  "id": 1360269773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96671,36.14879,37.96671,36.14879",
+    "geom:latitude":36.14879,
+    "geom:longitude":37.96671,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tabarat Kalash",
+    "gn:country_code":"SY",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163819,
+    "gn:latitude":36.14879,
+    "gn:longitude":37.96671,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tab\u0101rat Kalash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0627\u0631\u0629 \u0643\u0644\u0634"
+    ],
+    "name:und_x_variant":[
+        "Tabbaret Kalack",
+        "Tabb\u00e2ret Kalach",
+        "Toubbarate",
+        "\u0162abb\u0101rat Kalash",
+        "Tab\u0101rat Kalash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163819
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5896fd04c9e211eea3a9820e0f679b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1360269773,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360269773,
+    "wof:lastmodified":1537701697,
+    "wof:name":"Tabarat Kalash",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96671,
+    36.14879000000001,
+    37.96671,
+    36.14879000000001
+],
+  "geometry": {"coordinates":[37.96671,36.14879000000001],"type":"Point"}
+}

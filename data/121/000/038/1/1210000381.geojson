@@ -1,0 +1,80 @@
+{
+  "id": 1210000381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45364,35.1684,37.45364,35.1684",
+    "geom:latitude":35.1684,
+    "geom:longitude":37.45364,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jinn al Albawi",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173692,
+    "gn:latitude":35.1684,
+    "gn:longitude":37.45364,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jinn al Alb\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al J\u012bn\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0646 \u0627\u0644\u0623\u0644\u0628\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ej J\u00eeni",
+        "Aj Jinn\u012b",
+        "Ed Djini",
+        "Al J\u012bnah",
+        "Jinn al Alb\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"235220a77b52006bcd2456dc1cb1f15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1210000381,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210000381,
+    "wof:lastmodified":1537702355,
+    "wof:name":"Jinn al Albawi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45364,
+    35.1684,
+    37.45364,
+    35.1684
+],
+  "geometry": {"coordinates":[37.45364,35.1684],"type":"Point"}
+}

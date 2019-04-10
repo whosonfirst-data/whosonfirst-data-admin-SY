@@ -1,0 +1,74 @@
+{
+  "id": 1276531473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01109,35.13288,36.01109,35.13288",
+    "geom:latitude":35.13288,
+    "geom:longitude":36.01109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Surayriyah",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163901,
+    "gn:latitude":35.13288,
+    "gn:longitude":36.01109,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Surayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u064a\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sre\u00efr\u00eey\u00e9",
+        "Surayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163901
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9da247532242c96f95fa8530200079ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1276531473,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276531473,
+    "wof:lastmodified":1537701703,
+    "wof:name":"Surayriyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01109,
+    35.13288,
+    36.01109,
+    35.13288
+],
+  "geometry": {"coordinates":[36.01109,35.13288],"type":"Point"}
+}

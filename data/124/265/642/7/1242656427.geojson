@@ -1,0 +1,73 @@
+{
+  "id": 1242656427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98283,34.76625,35.98283,34.76625",
+    "geom:latitude":34.76625,
+    "geom:longitude":35.98283,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al `Uqayrib",
+    "gn:country_code":"SY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8239041,
+    "gn:latitude":34.76625,
+    "gn:longitude":35.98283,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al \u2018Uqayrib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u064a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uqayrib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239041
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c142e3db147482c97bb6db1169d01943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1242656427,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242656427,
+    "wof:lastmodified":1537702492,
+    "wof:name":"Al `Uqayrib",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98283,
+    34.76625,
+    35.98283,
+    34.76625
+],
+  "geometry": {"coordinates":[35.98283,34.76625],"type":"Point"}
+}

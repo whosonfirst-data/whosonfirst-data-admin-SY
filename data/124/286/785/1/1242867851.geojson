@@ -1,0 +1,70 @@
+{
+  "id": 1242867851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,35.13333,36.9,35.13333",
+    "geom:latitude":35.13333,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sfaine",
+    "gn:country_code":"SY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164665,
+    "gn:latitude":35.13333,
+    "gn:longitude":36.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sfa\u00efn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sfa\u00efn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164665
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cf5fe47430f3d29a3b65092b72527f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242867851,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242867851,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Sfaine",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    35.13333,
+    36.9,
+    35.13333
+],
+  "geometry": {"coordinates":[36.9,35.13333],"type":"Point"}
+}

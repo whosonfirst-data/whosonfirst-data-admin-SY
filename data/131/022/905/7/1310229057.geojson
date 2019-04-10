@@ -1,0 +1,73 @@
+{
+  "id": 1310229057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25537,35.87915,39.25537,35.87915",
+    "geom:latitude":35.87915,
+    "geom:longitude":39.25537,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fatsat al Kusun",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4274,
+    "gn:latitude":35.87915,
+    "gn:longitude":39.25537,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Fa\u0163sat al Kus\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0637\u0633\u0629 \u0627\u0644\u0643\u0633\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fa\u0163sat al Kus\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4274
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bcb3ed539deb58c3739813af609fdd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1310229057,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310229057,
+    "wof:lastmodified":1537701538,
+    "wof:name":"Fatsat al Kusun",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25537,
+    35.87915,
+    39.25537,
+    35.87915
+],
+  "geometry": {"coordinates":[39.25537,35.87915],"type":"Point"}
+}

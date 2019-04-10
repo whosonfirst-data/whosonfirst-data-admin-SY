@@ -1,0 +1,75 @@
+{
+  "id": 890435567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.74975,36.51578,37.74975,36.51578",
+    "geom:latitude":36.51578,
+    "geom:longitude":37.74975,
+    "gn:country":"SY",
+    "gn:fcode":"PPL",
+    "gn:pop":2,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0633\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u064a\u0635\u0631\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u00efsra"
+    ],
+    "qs:name":"Maysarah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167007,
+        "gp:id":1947092,
+        "qs:id":529004
+    },
+    "wof:country":"SY",
+    "wof:created":1469052072,
+    "wof:geomhash":"2b52281c262cd885e002ed8d2d68ac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":890435567,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":890435567,
+    "wof:lastmodified":1505343548,
+    "wof:name":"Maysarah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.74975,
+    36.51578,
+    37.74975,
+    36.51578
+],
+  "geometry": {"coordinates":[37.74975,36.51578],"type":"Point"}
+}

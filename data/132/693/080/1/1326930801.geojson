@@ -1,0 +1,74 @@
+{
+  "id": 1326930801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98658,36.38077,38.98658,36.38077",
+    "geom:latitude":36.38077,
+    "geom:longitude":38.98658,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tall Diban",
+    "gn:country_code":"SY",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9094,
+    "gn:latitude":36.38077,
+    "gn:longitude":38.98658,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tall Dib\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062f\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tall Dubb\u0101n",
+        "Tall Dib\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9094
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"332e3237857d32fdda5baf9b7cac26eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1326930801,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1326930801,
+    "wof:lastmodified":1537701563,
+    "wof:name":"Tall Diban",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98658,
+    36.38077,
+    38.98658,
+    36.38077
+],
+  "geometry": {"coordinates":[38.98658,36.38077],"type":"Point"}
+}

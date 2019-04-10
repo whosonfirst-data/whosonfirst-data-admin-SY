@@ -1,0 +1,67 @@
+{
+  "id": 1209026469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12756,33.36545,36.12756,33.36545",
+    "geom:latitude":33.36545,
+    "geom:longitude":36.12756,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Burnus",
+    "gn:country_code":"SY",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412764,
+    "gn:latitude":33.36545,
+    "gn:longitude":36.12756,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Al Burnu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Burnu\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0631\u0646\u0635"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412764
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cc4ea5c1cbb2ff664b603ff0fe980e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209026469
+        }
+    ],
+    "wof:id":1209026469,
+    "wof:lastmodified":1537702564,
+    "wof:name":"Al Burnus",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12756,
+    33.36545,
+    36.12756,
+    33.36545
+],
+  "geometry": {"coordinates":[36.12756,33.36545],"type":"Point"}
+}

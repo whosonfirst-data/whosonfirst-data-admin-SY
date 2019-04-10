@@ -1,0 +1,77 @@
+{
+  "id": 1293479603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71811,36.70982,36.71811,36.70982",
+    "geom:latitude":36.70982,
+    "geom:longitude":36.71811,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawwan Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235754,
+    "gn:latitude":36.70982,
+    "gn:longitude":36.71811,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u015eaww\u0101n \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0642\u0645\u0642 \u0635\u063a\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u0627\u0646 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jaqmaq \u015eagh\u012br",
+        "\u015eaww\u0101n \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235754
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4bb592eda720fa7bab32e37be71f1cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293479603,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293479603,
+    "wof:lastmodified":1537702488,
+    "wof:name":"Sawwan Saghir",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71811,
+    36.70982,
+    36.71811,
+    36.70982
+],
+  "geometry": {"coordinates":[36.71811,36.70982],"type":"Point"}
+}

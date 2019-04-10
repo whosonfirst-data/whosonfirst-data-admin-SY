@@ -1,0 +1,73 @@
+{
+  "id": 1360171793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87932,35.93173,36.87932,35.93173",
+    "geom:latitude":35.93173,
+    "geom:longitude":36.87932,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ijaz",
+    "gn:country_code":"SY",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4707,
+    "gn:latitude":35.93173,
+    "gn:longitude":36.87932,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ij\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ij\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u062c\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4707
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fbbd5e1d2f3e4aa92eac498dd79eb3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1360171793,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360171793,
+    "wof:lastmodified":1537701552,
+    "wof:name":"Ijaz",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87932,
+    35.93173,
+    36.87932,
+    35.93173
+],
+  "geometry": {"coordinates":[36.87932,35.93173],"type":"Point"}
+}

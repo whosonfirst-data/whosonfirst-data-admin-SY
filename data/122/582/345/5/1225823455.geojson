@@ -1,0 +1,74 @@
+{
+  "id": 1225823455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.54634,34.18919,39.54634,34.18919",
+    "geom:latitude":34.18919,
+    "geom:longitude":39.54634,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bir al `Atshan",
+    "gn:country_code":"SY",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7897488,
+    "gn:latitude":34.18919,
+    "gn:longitude":39.54634,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"B\u012br al \u2018A\u0163sh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0639\u0637\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u012br al \u2018A\u0163sh\u0101n",
+        "Bi\u2019r al \u2018A\u0163sh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7897488
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"476b635f8c856e64e1d9e3a12a21d205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1225823455,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1225823455,
+    "wof:lastmodified":1537702476,
+    "wof:name":"Bir al `Atshan",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.54634,
+    34.18919,
+    39.54634,
+    34.18919
+],
+  "geometry": {"coordinates":[39.54634,34.18919],"type":"Point"}
+}

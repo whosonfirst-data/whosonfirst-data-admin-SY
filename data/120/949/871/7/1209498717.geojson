@@ -1,0 +1,74 @@
+{
+  "id": 1209498717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00565,34.9813,36.00565,34.9813",
+    "geom:latitude":34.9813,
+    "geom:longitude":36.00565,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Brikiyah",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171300,
+    "gn:latitude":34.9813,
+    "gn:longitude":36.00565,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Br\u012bk\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0643\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u064a\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Br\u00eek\u00eey\u00e9",
+        "Br\u012bk\u012byah",
+        "Br\u012bq\u012byah",
+        "Br\u00eekiy\u00e9",
+        "Bar\u012bq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171300
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0eb4502404e8780d3e293736955afe03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209498717
+        }
+    ],
+    "wof:id":1209498717,
+    "wof:lastmodified":1537702186,
+    "wof:name":"Brikiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00565,
+    34.9813,
+    36.00565,
+    34.9813
+],
+  "geometry": {"coordinates":[36.00565,34.9813],"type":"Point"}
+}

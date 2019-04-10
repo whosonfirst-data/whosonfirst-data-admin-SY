@@ -1,0 +1,76 @@
+{
+  "id": 1293112779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.41895,36.90841,41.41895,36.90841",
+    "geom:latitude":36.90841,
+    "geom:longitude":41.41895,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Ba`rur",
+    "gn:country_code":"SY",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163618,
+    "gn:latitude":36.90841,
+    "gn:longitude":41.41895,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Ba\u2018r\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0639\u0631\u0648\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Ba\u2018r\u016br"
+    ],
+    "name:und_x_variant":[
+        "Tell Baaro\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163618
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8178f74db8d1b03ae8badf41cb47010c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1293112779,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293112779,
+    "wof:lastmodified":1537701677,
+    "wof:name":"Tall Ba`rur",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.41895,
+    36.90841,
+    41.41895,
+    36.90841
+],
+  "geometry": {"coordinates":[41.41895,36.90841],"type":"Point"}
+}

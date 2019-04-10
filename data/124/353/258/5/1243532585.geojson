@@ -1,0 +1,79 @@
+{
+  "id": 1243532585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37343,34.8143,36.37343,34.8143",
+    "geom:latitude":34.8143,
+    "geom:longitude":36.37343,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Muqa`barah",
+    "gn:country_code":"SY",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166661,
+    "gn:latitude":34.8143,
+    "gn:longitude":36.37343,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Muqa\u2018barah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0639\u0628\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062d\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mqaabra",
+        "Mqaabara",
+        "Muqa\u2018barah",
+        "Bu\u1e29\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166661
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ec3c64cd1da0f6a5251c87755a45733e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1243532585,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243532585,
+    "wof:lastmodified":1537701872,
+    "wof:name":"Muqa`barah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37343,
+    34.8143,
+    36.37343,
+    34.8143
+],
+  "geometry": {"coordinates":[36.37343,34.8143],"type":"Point"}
+}

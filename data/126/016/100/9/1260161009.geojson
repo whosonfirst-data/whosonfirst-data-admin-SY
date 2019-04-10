@@ -1,0 +1,78 @@
+{
+  "id": 1260161009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53388,35.99035,36.53388,35.99035",
+    "geom:latitude":35.99035,
+    "geom:longitude":36.53388,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al `Awja",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174025,
+    "gn:latitude":35.99035,
+    "gn:longitude":36.53388,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al \u2018Awj\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Awj\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u062c\u0627",
+        "Al \u2018Awj\u0101\u2019",
+        "\u0627\u0644\u0639\u0648\u062c\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "El Aaouja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174025
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8a8af0a1224f57a34ba44e27fb967a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1260161009,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260161009,
+    "wof:lastmodified":1537702385,
+    "wof:name":"Al `Awja",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53388,
+    35.99035,
+    36.53388,
+    35.99035
+],
+  "geometry": {"coordinates":[36.53388,35.99035],"type":"Point"}
+}

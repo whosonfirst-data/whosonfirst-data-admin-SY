@@ -1,0 +1,74 @@
+{
+  "id": 1243347985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66233,36.55255,38.66233,36.55255",
+    "geom:latitude":36.55255,
+    "geom:longitude":38.66233,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qilji Qiran Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9126,
+    "gn:latitude":36.55255,
+    "gn:longitude":38.66233,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Qilj\u012b Q\u012br\u0101n Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u062c\u064a \u0642\u064a\u0631\u0627\u0646 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qilj\u012b Q\u012br\u0101n Fawq\u0101n\u012b",
+        "Qalj\u012b Q\u012br\u0101n Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9126
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ee8d9f6c75f0aa24912b80ce89e870ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243347985,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243347985,
+    "wof:lastmodified":1537701564,
+    "wof:name":"Qilji Qiran Fawqani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66233,
+    36.55255,
+    38.66233,
+    36.55255
+],
+  "geometry": {"coordinates":[38.66233,36.55255],"type":"Point"}
+}

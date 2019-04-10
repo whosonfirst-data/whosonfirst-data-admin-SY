@@ -1,0 +1,73 @@
+{
+  "id": 1292917665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71368,35.94309,40.71368,35.94309",
+    "geom:latitude":35.94309,
+    "geom:longitude":40.71368,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rumaylan",
+    "gn:country_code":"SY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264230,
+    "gn:latitude":35.94309,
+    "gn:longitude":40.71368,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rumayl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u064a\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rumayl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264230
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d37fdbe0d59280794477febd15c79e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1292917665,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1292917665,
+    "wof:lastmodified":1537702496,
+    "wof:name":"Rumaylan",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71368,
+    35.94309000000001,
+    40.71368,
+    35.94309000000001
+],
+  "geometry": {"coordinates":[40.71368,35.94309000000001],"type":"Point"}
+}

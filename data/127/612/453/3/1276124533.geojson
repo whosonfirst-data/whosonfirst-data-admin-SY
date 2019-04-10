@@ -1,0 +1,73 @@
+{
+  "id": 1276124533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34287,36.12914,39.34287,36.12914",
+    "geom:latitude":36.12914,
+    "geom:longitude":39.34287,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lubaydan",
+    "gn:country_code":"SY",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384239,
+    "gn:latitude":36.12914,
+    "gn:longitude":39.34287,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Lubayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Lubayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384239
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9e8344b14352dc6abe7f6b142e5a7645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1276124533,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276124533,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Lubaydan",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34287,
+    36.12914,
+    39.34287,
+    36.12914
+],
+  "geometry": {"coordinates":[39.34287,36.12914],"type":"Point"}
+}

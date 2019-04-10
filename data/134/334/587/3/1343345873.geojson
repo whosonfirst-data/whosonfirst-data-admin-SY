@@ -1,0 +1,78 @@
+{
+  "id": 1343345873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88206,36.64699,37.88206,36.64699",
+    "geom:latitude":36.64699,
+    "geom:longitude":37.88206,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Muhsinli",
+    "gn:country_code":"SY",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167465,
+    "gn:latitude":36.64699,
+    "gn:longitude":37.88206,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mu\u1e29sinl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mu\u1e29sinl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0633\u0646\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mahsannli",
+        "Marsenli",
+        "Ma\u1e29sanl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167465
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87e843e94b8a1f20f3c6e6b1f5c97804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1343345873,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343345873,
+    "wof:lastmodified":1537701918,
+    "wof:name":"Muhsinli",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88206,
+    36.64699,
+    37.88206,
+    36.64699
+],
+  "geometry": {"coordinates":[37.88206,36.64699],"type":"Point"}
+}

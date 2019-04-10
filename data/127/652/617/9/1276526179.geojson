@@ -1,0 +1,73 @@
+{
+  "id": 1276526179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88754,34.94851,36.88754,34.94851",
+    "geom:latitude":34.94851,
+    "geom:longitude":36.88754,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Wazi`iyah",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324989,
+    "gn:latitude":34.94851,
+    "gn:longitude":36.88754,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al W\u0101zi\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u0632\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al W\u0101zi\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324989
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd3f109cb323e63effa1416812e93c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1276526179,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276526179,
+    "wof:lastmodified":1537702528,
+    "wof:name":"Al Wazi`iyah",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88754,
+    34.94851,
+    36.88754,
+    34.94851
+],
+  "geometry": {"coordinates":[36.88754,34.94851],"type":"Point"}
+}

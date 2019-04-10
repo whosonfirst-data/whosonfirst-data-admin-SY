@@ -1,0 +1,75 @@
+{
+  "id": 1310604079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14633,35.33764,36.14633,35.33764",
+    "geom:latitude":35.33764,
+    "geom:longitude":36.14633,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karm Ziyadiyah",
+    "gn:country_code":"SY",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168550,
+    "gn:latitude":35.33764,
+    "gn:longitude":36.14633,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Karm Ziy\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0645 \u0632\u064a\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Karm Zi\u00e2d\u00eey\u00e9",
+        "Karm az Ziy\u0101d\u012byah",
+        "Karm Ziy\u0101d\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168550
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2404eda34e553847f6809a7ab298551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1310604079,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310604079,
+    "wof:lastmodified":1537702001,
+    "wof:name":"Karm Ziyadiyah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14633,
+    35.33764,
+    36.14633,
+    35.33764
+],
+  "geometry": {"coordinates":[36.14633,35.33764],"type":"Point"}
+}

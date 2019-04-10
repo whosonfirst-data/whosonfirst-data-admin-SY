@@ -1,0 +1,77 @@
+{
+  "id": 1343656141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63509,35.43898,40.63509,35.43898",
+    "geom:latitude":35.43898,
+    "geom:longitude":40.63509,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ar Rukn",
+    "gn:country_code":"SY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173860,
+    "gn:latitude":35.43898,
+    "gn:longitude":40.63509,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ar Rukn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al H\u0101d\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0643\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Hadine",
+        "Ar Rukn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173860
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9f0a9fe480abe5fd5cd473eedcacaee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343656141,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343656141,
+    "wof:lastmodified":1537702371,
+    "wof:name":"Ar Rukn",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63509000000001,
+    35.43898,
+    40.63509000000001,
+    35.43898
+],
+  "geometry": {"coordinates":[40.63509000000001,35.43898],"type":"Point"}
+}

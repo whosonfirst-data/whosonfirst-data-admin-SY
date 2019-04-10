@@ -1,0 +1,76 @@
+{
+  "id": 1209818593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09415,35.3387,36.09415,35.3387",
+    "geom:latitude":35.3387,
+    "geom:longitude":36.09415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Falasqu",
+    "gn:country_code":"SY",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170369,
+    "gn:latitude":35.3387,
+    "gn:longitude":36.09415,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Falasq\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0633\u0642\u0648"
+    ],
+    "name:und_x_variant":[
+        "Fsasqo",
+        "Flasqo",
+        "Flasq\u016b",
+        "Falasq\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170369
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a9a02038789ebf02b15eddeb737a67a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1209818593,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1209818593,
+    "wof:lastmodified":1537702120,
+    "wof:name":"Falasqu",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09415,
+    35.3387,
+    36.09415,
+    35.3387
+],
+  "geometry": {"coordinates":[36.09415,35.3387],"type":"Point"}
+}

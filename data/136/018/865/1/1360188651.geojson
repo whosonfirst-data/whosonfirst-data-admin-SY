@@ -1,0 +1,77 @@
+{
+  "id": 1360188651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26633,36.92266,41.26633,36.92266",
+    "geom:latitude":36.92266,
+    "geom:longitude":41.26633,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Bajariyah",
+    "gn:country_code":"SY",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168044,
+    "gn:latitude":36.92266,
+    "gn:longitude":41.26633,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat Baj\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0628\u062c\u0627\u0631\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat Baj\u0101r\u012byah"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Badjar\u00eey\u00e9",
+        "Kheurbet Badj\u00e2r\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168044
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"954f4b897f5fb26841132baa03b59318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1360188651,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360188651,
+    "wof:lastmodified":1537701965,
+    "wof:name":"Khirbat Bajariyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26633,
+    36.92266,
+    41.26633,
+    36.92266
+],
+  "geometry": {"coordinates":[41.26633,36.92266],"type":"Point"}
+}

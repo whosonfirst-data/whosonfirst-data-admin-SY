@@ -1,0 +1,73 @@
+{
+  "id": 1225940127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88578,35.02583,36.88578,35.02583",
+    "geom:latitude":35.02583,
+    "geom:longitude":36.88578,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hanifah",
+    "gn:country_code":"SY",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11555483,
+    "gn:latitude":35.02583,
+    "gn:longitude":36.88578,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28an\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28an\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555483
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"29b852294fda1fbc1cfec380f49b95c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1225940127,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1225940127,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Hanifah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88578,
+    35.02583,
+    36.88578,
+    35.02583
+],
+  "geometry": {"coordinates":[36.88578,35.02583],"type":"Point"}
+}

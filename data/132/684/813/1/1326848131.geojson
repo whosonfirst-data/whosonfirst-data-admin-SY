@@ -1,0 +1,80 @@
+{
+  "id": 1326848131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56292,37.00743,40.56292,37.00743",
+    "geom:latitude":37.00743,
+    "geom:longitude":40.56292,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Atshan",
+    "gn:country_code":"SY",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162762,
+    "gn:latitude":37.00743,
+    "gn:longitude":40.56292,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u2018A\u0163sh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018A\u0163sh\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0637\u0634\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018U\u0163aysh\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Aate\u00efch\u00e2ne",
+        "\u2018U\u0163sh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162762
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"50bad9f1d429673955e0767c54741c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1326848131,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326848131,
+    "wof:lastmodified":1537701612,
+    "wof:name":"`Atshan",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56292,
+    37.00743,
+    40.56292,
+    37.00743
+],
+  "geometry": {"coordinates":[40.56292,37.00743],"type":"Point"}
+}

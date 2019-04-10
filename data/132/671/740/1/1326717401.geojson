@@ -1,0 +1,77 @@
+{
+  "id": 1326717401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56438,36.05045,36.56438,36.05045",
+    "geom:latitude":36.05045,
+    "geom:longitude":36.56438,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shaykh Nahar",
+    "gn:country_code":"SY",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275209,
+    "gn:latitude":36.05045,
+    "gn:longitude":36.56438,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Shaykh Nah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0646\u0647\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u062e \u0628\u062d\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Nah\u0101r",
+        "Shaykh Ba\u1e29\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275209
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2ac5fd800022fe772264c2acf50d469b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1326717401,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1326717401,
+    "wof:lastmodified":1537702516,
+    "wof:name":"Shaykh Nahar",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56438,
+    36.05045,
+    36.56438,
+    36.05045
+],
+  "geometry": {"coordinates":[36.56438,36.05045],"type":"Point"}
+}

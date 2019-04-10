@@ -1,0 +1,77 @@
+{
+  "id": 1276248903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17269,33.23471,36.17269,33.23471",
+    "geom:latitude":33.23471,
+    "geom:longitude":36.17269,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arkis",
+    "gn:country_code":"SY",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169371,
+    "gn:latitude":33.23471,
+    "gn:longitude":36.17269,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ark\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ark\u012bs"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0643\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Irkiss",
+        "Irk\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169371
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"351aef4a4c90dad97265c3ebe295cd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1276248903,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276248903,
+    "wof:lastmodified":1537702061,
+    "wof:name":"Arkis",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17269,
+    33.23471,
+    36.17269,
+    33.23471
+],
+  "geometry": {"coordinates":[36.17269,33.23471],"type":"Point"}
+}

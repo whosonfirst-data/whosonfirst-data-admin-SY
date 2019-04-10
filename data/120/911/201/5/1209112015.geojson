@@ -1,0 +1,69 @@
+{
+  "id": 1209112015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92761,36.40312,38.92761,36.40312",
+    "geom:latitude":36.40312,
+    "geom:longitude":38.92761,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khirbat Sarandah",
+    "gn:country_code":"SY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167977,
+    "gn:latitude":36.40312,
+    "gn:longitude":38.92761,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khirbat S\u0101randah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0633\u0627\u0631\u0646\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet S\u00e2rannad\u00e9",
+        "Kheurbet Sarramd\u00e9",
+        "Khirbat S\u0101randah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167977
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"73e9ae763939629a3827b360b6436f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209112015
+        }
+    ],
+    "wof:id":1209112015,
+    "wof:lastmodified":1537701959,
+    "wof:name":"Khirbat Sarandah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92761,
+    36.40312,
+    38.92761,
+    36.40312
+],
+  "geometry": {"coordinates":[38.92761,36.40312],"type":"Point"}
+}

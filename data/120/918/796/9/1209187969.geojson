@@ -1,0 +1,71 @@
+{
+  "id": 1209187969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93653,35.00058,35.93653,35.00058",
+    "geom:latitude":35.00058,
+    "geom:longitude":35.93653,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zimrin",
+    "gn:country_code":"SY",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162426,
+    "gn:latitude":35.00058,
+    "gn:longitude":35.93653,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zimr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Zimr\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0645\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zimr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162426,
+        "wk:page":"Zamrin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f60a7904c0d6e2ce1b8dac916b195066",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209187969
+        }
+    ],
+    "wof:id":1209187969,
+    "wof:lastmodified":1537701589,
+    "wof:name":"Zimrin",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93653,
+    35.00058,
+    35.93653,
+    35.00058
+],
+  "geometry": {"coordinates":[35.93653,35.00058],"type":"Point"}
+}

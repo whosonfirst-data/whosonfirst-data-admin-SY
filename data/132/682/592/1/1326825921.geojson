@@ -1,0 +1,75 @@
+{
+  "id": 1326825921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86815,36.68062,36.86815,36.68062",
+    "geom:latitude":36.68062,
+    "geom:longitude":36.86815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baylan Kuy",
+    "gn:country_code":"SY",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171638,
+    "gn:latitude":36.68062,
+    "gn:longitude":36.86815,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bayl\u0101n K\u016by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0646 \u0643\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Be\u00efl\u00e2ne Keuy",
+        "B\u00e9lane",
+        "Bayl\u0101n K\u016by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171638
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2cafdf57682d7a130c18d4fe2c7af5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1326825921,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326825921,
+    "wof:lastmodified":1537702216,
+    "wof:name":"Baylan Kuy",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86815,
+    36.68062000000001,
+    36.86815,
+    36.68062000000001
+],
+  "geometry": {"coordinates":[36.86815,36.68062000000001],"type":"Point"}
+}

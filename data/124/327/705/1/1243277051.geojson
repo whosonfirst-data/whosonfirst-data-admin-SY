@@ -1,0 +1,73 @@
+{
+  "id": 1243277051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17024,35.65916,36.17024,35.65916",
+    "geom:latitude":35.65916,
+    "geom:longitude":36.17024,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qal`at Sitarbah",
+    "gn:country_code":"SY",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182205,
+    "gn:latitude":35.65916,
+    "gn:longitude":36.17024,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qal\u2018at Sitarbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0633\u062a\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at Sitarbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182205
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b54c8391c8ad585913c1638c62473657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1243277051,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243277051,
+    "wof:lastmodified":1537702481,
+    "wof:name":"Qal`at Sitarbah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17024,
+    35.65916,
+    36.17024,
+    35.65916
+],
+  "geometry": {"coordinates":[36.17024,35.65916],"type":"Point"}
+}

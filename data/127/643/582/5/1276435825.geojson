@@ -1,0 +1,80 @@
+{
+  "id": 1276435825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72219,35.10952,36.72219,35.10952",
+    "geom:latitude":35.10952,
+    "geom:longitude":36.72219,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ruqaytah",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172914,
+    "gn:latitude":35.10952,
+    "gn:longitude":36.72219,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ruqay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u064a\u0637\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0642\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rg\u00e9ta",
+        "Rouqe\u00efta",
+        "Er Rouqe\u00efta",
+        "Ar Ruqay\u0163ah",
+        "Ruqay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172914
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"456f47f02877bc89cffb98eecd299339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276435825,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276435825,
+    "wof:lastmodified":1537702299,
+    "wof:name":"Ruqaytah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72219000000001,
+    35.10952,
+    36.72219000000001,
+    35.10952
+],
+  "geometry": {"coordinates":[36.72219000000001,35.10952],"type":"Point"}
+}

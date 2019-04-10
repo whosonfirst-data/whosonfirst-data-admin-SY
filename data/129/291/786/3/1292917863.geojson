@@ -1,0 +1,78 @@
+{
+  "id": 1292917863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24995,36.8838,40.24995,36.8838",
+    "geom:latitude":36.8838,
+    "geom:longitude":40.24995,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Markis",
+    "gn:country_code":"SY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166841,
+    "gn:latitude":36.8838,
+    "gn:longitude":40.24995,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Mark\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u064a\u0633"
+    ],
+    "name:tur_x_preferred":[
+        "Mr\u00e9k\u00ees"
+    ],
+    "name:und_x_variant":[
+        "Mark\u012bs",
+        "Ab\u0101 Kab\u012brah",
+        "Murayk\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166841
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"795372180db631cc2af302653c82010c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1292917863,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1292917863,
+    "wof:lastmodified":1537701882,
+    "wof:name":"Markis",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24995,
+    36.8838,
+    40.24995,
+    36.8838
+],
+  "geometry": {"coordinates":[40.24995,36.8838],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259668117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71589,36.63331,36.71589,36.63331",
+    "geom:latitude":36.63331,
+    "geom:longitude":36.71589,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barband",
+    "gn:country_code":"SY",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235875,
+    "gn:latitude":36.63331,
+    "gn:longitude":36.71589,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Barband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0628\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Baraband"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235875
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b469de1e05bb6b6a34e3c1ab9dd2ff14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1259668117,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259668117,
+    "wof:lastmodified":1537702491,
+    "wof:name":"Barband",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71589,
+    36.63331,
+    36.71589,
+    36.63331
+],
+  "geometry": {"coordinates":[36.71589,36.63331],"type":"Point"}
+}

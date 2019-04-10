@@ -1,0 +1,73 @@
+{
+  "id": 1242762231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62155,35.7096,37.62155,35.7096",
+    "geom:latitude":35.7096,
+    "geom:longitude":37.62155,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Durayb al Wawi",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341930,
+    "gn:latitude":35.7096,
+    "gn:longitude":37.62155,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Durayb al W\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0628 \u0627\u0644\u0648\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Durayb al W\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341930
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"135066d68edd1216b4abf626c8fae024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1242762231,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242762231,
+    "wof:lastmodified":1537702542,
+    "wof:name":"Durayb al Wawi",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62155,
+    35.7096,
+    37.62155,
+    35.7096
+],
+  "geometry": {"coordinates":[37.62155,35.7096],"type":"Point"}
+}

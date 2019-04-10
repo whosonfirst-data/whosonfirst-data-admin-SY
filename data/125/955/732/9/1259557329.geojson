@@ -1,0 +1,73 @@
+{
+  "id": 1259557329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90821,35.04517,35.90821,35.04517",
+    "geom:latitude":35.04517,
+    "geom:longitude":35.90821,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dahr Marqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176851,
+    "gn:latitude":35.04517,
+    "gn:longitude":35.90821,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u1e10ahr Marq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0631 \u0645\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr Marq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176851
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"69bdb866ce152406d82ae0e0d2a23f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259557329,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259557329,
+    "wof:lastmodified":1537702606,
+    "wof:name":"Dahr Marqiyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90821,
+    35.04517,
+    35.90821,
+    35.04517
+],
+  "geometry": {"coordinates":[35.90821,35.04517],"type":"Point"}
+}

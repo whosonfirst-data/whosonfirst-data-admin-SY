@@ -1,0 +1,75 @@
+{
+  "id": 1226560927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62067,36.6611,37.62067,36.6611",
+    "geom:latitude":36.6611,
+    "geom:longitude":37.62067,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Misannah",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12928,
+    "gn:latitude":36.6611,
+    "gn:longitude":37.62067,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Al Misannah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Misnah",
+        "Al Misannah",
+        "Al Masannah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8cad856795c54aeee4bc59dff57d6b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1226560927,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226560927,
+    "wof:lastmodified":1537701580,
+    "wof:name":"Al Misannah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62067,
+    36.6611,
+    37.62067,
+    36.6611
+],
+  "geometry": {"coordinates":[37.62067,36.6611],"type":"Point"}
+}

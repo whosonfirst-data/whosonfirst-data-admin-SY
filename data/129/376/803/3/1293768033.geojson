@@ -1,0 +1,86 @@
+{
+  "id": 1293768033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57376,36.52169,36.57376,36.52169",
+    "geom:latitude":36.52169,
+    "geom:longitude":36.57376,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Khazafiyah",
+    "gn:country_code":"SY",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166034,
+    "gn:latitude":36.52169,
+    "gn:longitude":36.57376,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Khazaf\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0645\u0646\u0644\u0648\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0632\u0641\u064a\u0629",
+        "\u062e\u0632\u0641\u064a\u0629",
+        "\u0642\u0631\u0647 \u0645\u062a\u0644\u0642"
+    ],
+    "name:und_x_variant":[
+        "Kirmitlik",
+        "Qarmannlo\u00fbq",
+        "Karmanl\u016bk",
+        "Qarmatluk",
+        "Qarmanluq",
+        "Qarmanl\u016bq",
+        "Al Khazaf\u012byah",
+        "Qarah Matluq",
+        "Khazaf\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166034
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1364f34d1ff9b7c035ac684ba655a179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293768033,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293768033,
+    "wof:lastmodified":1537701827,
+    "wof:name":"Al Khazafiyah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57376,
+    36.52169,
+    36.57376,
+    36.52169
+],
+  "geometry": {"coordinates":[36.57376,36.52169],"type":"Point"}
+}

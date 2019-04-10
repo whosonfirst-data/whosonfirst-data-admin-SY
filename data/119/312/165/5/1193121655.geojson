@@ -1,0 +1,71 @@
+{
+  "id": 1193121655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31364,36.33758,38.31364,36.33758",
+    "geom:latitude":36.33758,
+    "geom:longitude":38.31364,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bi'r al A`ma",
+    "gn:country_code":"SY",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171435,
+    "gn:latitude":36.33758,
+    "gn:longitude":38.31364,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bi\u2019r al A\u2018m\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00eer el \u00c2ama",
+        "Bi\u2019r al A\u2018m\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171435
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f26b8db24d36364d46cadb04fca16e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1193121655,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193121655,
+    "wof:lastmodified":1537702198,
+    "wof:name":"Bi'r al A`ma",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31364,
+    36.33758,
+    38.31364,
+    36.33758
+],
+  "geometry": {"coordinates":[38.31364,36.33758],"type":"Point"}
+}

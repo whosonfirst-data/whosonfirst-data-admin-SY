@@ -1,0 +1,84 @@
+{
+  "id": 1243193555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56007,34.92133,40.56007,34.92133",
+    "geom:latitude":34.92133,
+    "geom:longitude":40.56007,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al `Asharah",
+    "gn:country_code":"SY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":174036,
+    "gn:latitude":34.92133,
+    "gn:longitude":40.56007,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al \u2018Ash\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0634\u0627\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0634\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qasr el \u2018Ashara",
+        "Sharra",
+        "El Aach\u00e2ra",
+        "Charra",
+        "El Ach\u00e2ra",
+        "Tirya",
+        "Acharat",
+        "Al Ash\u0101rah",
+        "Al \u2018Ash\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174036
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d997b9b0e69179c6571dd0f85ce3c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779151,
+            "locality_id":1243193555,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243193555,
+    "wof:lastmodified":1537702387,
+    "wof:name":"Al `Asharah",
+    "wof:parent_id":1108779151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56007,
+    34.92133,
+    40.56007,
+    34.92133
+],
+  "geometry": {"coordinates":[40.56007,34.92133],"type":"Point"}
+}

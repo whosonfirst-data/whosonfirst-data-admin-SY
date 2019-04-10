@@ -1,0 +1,75 @@
+{
+  "id": 1193036975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01123,36.39966,38.01123,36.39966",
+    "geom:latitude":36.39966,
+    "geom:longitude":38.01123,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb al Katashli",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168960,
+    "gn:latitude":36.39966,
+    "gn:longitude":38.01123,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Jubb al Katashl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0643\u062a\u0634\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jubb al Katashl\u012b",
+        "Joubb el Ketchli",
+        "Jubb al Qa\u0163ashl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168960
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5038d21042f07a1bcc2c95e7efe334fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1193036975,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193036975,
+    "wof:lastmodified":1537702035,
+    "wof:name":"Jubb al Katashli",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01123,
+    36.39966,
+    38.01123,
+    36.39966
+],
+  "geometry": {"coordinates":[38.01123,36.39966],"type":"Point"}
+}

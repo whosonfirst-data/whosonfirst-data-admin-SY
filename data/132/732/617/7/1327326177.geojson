@@ -1,0 +1,80 @@
+{
+  "id": 1327326177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15656,32.6331,36.15656,32.6331",
+    "geom:latitude":32.6331,
+    "geom:longitude":36.15656,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"An Nu`aymah",
+    "gn:country_code":"SY",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166332,
+    "gn:latitude":32.6331,
+    "gn:longitude":36.15656,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"An Nu\u2018aymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0639\u064a\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0639\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "En Nueime",
+        "Nu\u2018eime",
+        "Na\u00efme",
+        "Nu\u2018aymah",
+        "An Nu\u2018aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166332
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96813098148f738696f371ff107a1989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1327326177,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1327326177,
+    "wof:lastmodified":1537701853,
+    "wof:name":"An Nu`aymah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15656,
+    32.6331,
+    36.15656,
+    32.6331
+],
+  "geometry": {"coordinates":[36.15656,32.6331],"type":"Point"}
+}

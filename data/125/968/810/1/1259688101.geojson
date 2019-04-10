@@ -1,0 +1,73 @@
+{
+  "id": 1259688101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8077,36.18185,40.8077,36.18185",
+    "geom:latitude":36.18185,
+    "geom:longitude":40.8077,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hamad Karra",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420996,
+    "gn:latitude":36.18185,
+    "gn:longitude":40.8077,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28amad Karr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u062f \u0643\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amad Karr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dd523af7b682a882d1d816e767696047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259688101,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259688101,
+    "wof:lastmodified":1537702460,
+    "wof:name":"Hamad Karra",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8077,
+    36.18185,
+    40.8077,
+    36.18185
+],
+  "geometry": {"coordinates":[40.8077,36.18185],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259377635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91841,36.08371,37.91841,36.08371",
+    "geom:latitude":36.08371,
+    "geom:longitude":37.91841,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Atirah `Atrah",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172366,
+    "gn:latitude":36.08371,
+    "gn:longitude":37.91841,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u2018A\u0163\u012brah \u2018A\u0163rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u064a\u0631\u0629 \u0639\u0637\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aatra Att\u00eer\u00e9",
+        "\u2018A\u0163rat A\u0163\u0163\u012brah",
+        "Aatra Aattir\u00e9",
+        "\u2018A\u0163rah \u2018A\u0163\u012brah",
+        "\u2018A\u0163\u012brah \u2018A\u0163rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172366
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bc51123d09074d62308d05f372ca695a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1259377635,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259377635,
+    "wof:lastmodified":1537702270,
+    "wof:name":"`Atirah `Atrah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91841,
+    36.08371,
+    37.91841,
+    36.08371
+],
+  "geometry": {"coordinates":[37.91841,36.08371],"type":"Point"}
+}

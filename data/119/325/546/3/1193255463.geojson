@@ -1,0 +1,78 @@
+{
+  "id": 1193255463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34011,35.95481,36.34011,35.95481",
+    "geom:latitude":35.95481,
+    "geom:longitude":36.34011,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zurzur",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162359,
+    "gn:latitude":35.95481,
+    "gn:longitude":36.34011,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Zurz\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Zurz\u016br"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0631\u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zarz\u016br",
+        "Zarzo\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162359,
+        "wk:page":"Zarzur"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"48132f02707c16b99c76ec43ddc66b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1193255463,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193255463,
+    "wof:lastmodified":1537701585,
+    "wof:name":"Zurzur",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34011,
+    35.95480999999999,
+    36.34011,
+    35.95480999999999
+],
+  "geometry": {"coordinates":[36.34011,35.95480999999999],"type":"Point"}
+}

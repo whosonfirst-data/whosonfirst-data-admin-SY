@@ -1,0 +1,70 @@
+{
+  "id": 1226413493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95513,34.96541,35.95513,34.96541",
+    "geom:latitude":34.96541,
+    "geom:longitude":35.95513,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ash Shafaq",
+    "gn:country_code":"SY",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270325,
+    "gn:latitude":34.96541,
+    "gn:longitude":35.95513,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ash Shafaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270325
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8f2bdd53845643e8f011b4418c01f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226413493,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226413493,
+    "wof:lastmodified":1537702507,
+    "wof:name":"Ash Shafaq",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95513,
+    34.96541,
+    35.95513,
+    34.96541
+],
+  "geometry": {"coordinates":[35.95513,34.96541],"type":"Point"}
+}

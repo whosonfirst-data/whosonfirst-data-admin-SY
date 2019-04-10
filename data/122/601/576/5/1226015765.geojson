@@ -1,0 +1,73 @@
+{
+  "id": 1226015765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02255,34.95435,36.02255,34.95435",
+    "geom:latitude":34.95435,
+    "geom:longitude":36.02255,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mazughah",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444690,
+    "gn:latitude":34.95435,
+    "gn:longitude":36.02255,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"M\u0101z\u016bghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0632\u0648\u063a\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101z\u016bghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444690
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7da7decbf59e16d930ca7a6d902839f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226015765,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226015765,
+    "wof:lastmodified":1537702624,
+    "wof:name":"Mazughah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02255,
+    34.95435,
+    36.02255,
+    34.95435
+],
+  "geometry": {"coordinates":[36.02255,34.95435],"type":"Point"}
+}

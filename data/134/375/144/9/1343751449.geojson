@@ -1,0 +1,83 @@
+{
+  "id": 1343751449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09618,36.74382,38.09618,36.74382",
+    "geom:latitude":36.74382,
+    "geom:longitude":38.09618,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Lijak",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169381,
+    "gn:latitude":36.74382,
+    "gn:longitude":38.09618,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Al L\u012bj\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ill\u012bj\u0101k"
+    ],
+    "name:ara_x_variant":[
+        "Al L\u012bj\u0101k",
+        "\u0627\u0644\u0644\u064a\u062c\u0627\u0643",
+        "\u062f\u0648\u064a\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Illidjaq",
+        "Illidjak",
+        "Hl\u00e9djak",
+        "Duwayr\u0101t",
+        "Degirman",
+        "\u2019Ilajaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169381
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ced96f6b3ab06df590dcd4eb91a85090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1343751449,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343751449,
+    "wof:lastmodified":1537702062,
+    "wof:name":"Al Lijak",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09618,
+    36.74382,
+    38.09618,
+    36.74382
+],
+  "geometry": {"coordinates":[38.09618,36.74382],"type":"Point"}
+}

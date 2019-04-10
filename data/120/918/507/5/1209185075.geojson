@@ -1,0 +1,67 @@
+{
+  "id": 1209185075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00541,34.97392,36.00541,34.97392",
+    "geom:latitude":34.97392,
+    "geom:longitude":36.00541,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qal`at al Khawabi",
+    "gn:country_code":"SY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444687,
+    "gn:latitude":34.97392,
+    "gn:longitude":36.00541,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Qal\u2018at al Khaw\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u062e\u0648\u0627\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at al Khaw\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444687
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9e06ef8f4367c35820aa6dd0bf227941",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209185075
+        }
+    ],
+    "wof:id":1209185075,
+    "wof:lastmodified":1537702624,
+    "wof:name":"Qal`at al Khawabi",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00541,
+    34.97392,
+    36.00541,
+    34.97392
+],
+  "geometry": {"coordinates":[36.00541,34.97392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293474217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49473,36.40719,37.49473,36.40719",
+    "geom:latitude":36.40719,
+    "geom:longitude":37.49473,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"At Tawayil",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309345,
+    "gn:latitude":36.40719,
+    "gn:longitude":37.49473,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"A\u0163 \u0162aw\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u0101yil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309345
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c12210abf9f8f680ba014439d115f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293474217,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293474217,
+    "wof:lastmodified":1537702600,
+    "wof:name":"At Tawayil",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49473,
+    36.40719,
+    37.49473,
+    36.40719
+],
+  "geometry": {"coordinates":[37.49473,36.40719],"type":"Point"}
+}

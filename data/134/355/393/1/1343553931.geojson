@@ -1,0 +1,75 @@
+{
+  "id": 1343553931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84364,32.75866,35.84364,32.75866",
+    "geom:latitude":32.75866,
+    "geom:longitude":35.84364,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bayt Arrah",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171597,
+    "gn:latitude":32.75866,
+    "gn:longitude":35.84364,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Bayt Arrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Be\u00ef el Rou\u00ef",
+        "Be\u00eft Err\u00e9",
+        "Bayt Arrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171597
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b07e4a522c15048c62146872baa39d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1343553931,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1343553931,
+    "wof:lastmodified":1537702212,
+    "wof:name":"Bayt Arrah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84364,
+    32.75866,
+    35.84364,
+    32.75866
+],
+  "geometry": {"coordinates":[35.84364,32.75866],"type":"Point"}
+}

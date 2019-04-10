@@ -1,0 +1,74 @@
+{
+  "id": 1276743355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31051,35.87032,36.31051,35.87032",
+    "geom:latitude":35.87032,
+    "geom:longitude":36.31051,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khattab",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168216,
+    "gn:latitude":35.87032,
+    "gn:longitude":36.31051,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kha\u0163\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0637\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tchiftlik Khatt\u00e2b",
+        "Kha\u0163\u0163\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168216
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c764deeae8b9c4a60b8efab26b8e7310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276743355,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276743355,
+    "wof:lastmodified":1537701976,
+    "wof:name":"Khattab",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31051,
+    35.87032,
+    36.31051,
+    35.87032
+],
+  "geometry": {"coordinates":[36.31051,35.87032],"type":"Point"}
+}

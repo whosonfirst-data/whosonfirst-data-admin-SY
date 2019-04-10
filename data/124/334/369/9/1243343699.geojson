@@ -1,0 +1,74 @@
+{
+  "id": 1243343699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40051,35.724,36.40051,35.724",
+    "geom:latitude":35.724,
+    "geom:longitude":36.40051,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tall as Sahn",
+    "gn:country_code":"SY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163643,
+    "gn:latitude":35.724,
+    "gn:longitude":36.40051,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tall a\u015f \u015ea\u1e29n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0635\u062d\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell es Sahn",
+        "Tall a\u015f \u015ea\u1e29n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163643
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8dd1586ac87d2442fe62558c6737543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1243343699,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243343699,
+    "wof:lastmodified":1537701679,
+    "wof:name":"Tall as Sahn",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40051,
+    35.72400000000001,
+    36.40051,
+    35.72400000000001
+],
+  "geometry": {"coordinates":[36.40051,35.72400000000001],"type":"Point"}
+}

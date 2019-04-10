@@ -1,0 +1,75 @@
+{
+  "id": 1226064157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29646,36.099,37.29646,36.099",
+    "geom:latitude":36.099,
+    "geom:longitude":37.29646,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall `Abur",
+    "gn:country_code":"SY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163756,
+    "gn:latitude":36.099,
+    "gn:longitude":37.29646,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall \u2018\u0100b\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0627\u0628\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tell A\u00e2bo\u00fbr",
+        "Tell Abbas",
+        "Tall \u2018\u0100b\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163756
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"34304c41c9ef9589161238f5420d850f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1226064157,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226064157,
+    "wof:lastmodified":1537701693,
+    "wof:name":"Tall `Abur",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29646,
+    36.099,
+    37.29646,
+    36.099
+],
+  "geometry": {"coordinates":[37.29646,36.099],"type":"Point"}
+}

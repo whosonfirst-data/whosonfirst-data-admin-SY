@@ -1,0 +1,73 @@
+{
+  "id": 1226334669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37002,33.12958,36.37002,33.12958",
+    "geom:latitude":33.12958,
+    "geom:longitude":36.37002,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ash Sharayi`",
+    "gn:country_code":"SY",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259680,
+    "gn:latitude":33.12958,
+    "gn:longitude":36.37002,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Ash Shar\u0101yi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0627\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ash Shar\u0101yi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259680
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a4e50a05e6d23fbbbd99def27aacfab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1226334669,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1226334669,
+    "wof:lastmodified":1537702607,
+    "wof:name":"Ash Sharayi`",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37002,
+    33.12958,
+    36.37002,
+    33.12958
+],
+  "geometry": {"coordinates":[36.37002,33.12958],"type":"Point"}
+}

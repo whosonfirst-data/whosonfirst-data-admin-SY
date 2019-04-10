@@ -1,0 +1,74 @@
+{
+  "id": 1310620949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52836,33.73701,36.52836,33.73701",
+    "geom:latitude":33.73701,
+    "geom:longitude":36.52836,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hala",
+    "gn:country_code":"SY",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170064,
+    "gn:latitude":33.73701,
+    "gn:longitude":36.52836,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28al\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28al\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170064,
+        "wk:page":"Hala%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e0ae9e02890f7cd0aa78574f0cef6d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1310620949,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310620949,
+    "wof:lastmodified":1537702106,
+    "wof:name":"Hala",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52836,
+    33.73701,
+    36.52836,
+    33.73701
+],
+  "geometry": {"coordinates":[36.52836,33.73701],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243181807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.87718,35.80376,40.87718,35.80376",
+    "geom:latitude":35.80376,
+    "geom:longitude":40.87718,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shamdin",
+    "gn:country_code":"SY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275300,
+    "gn:latitude":35.80376,
+    "gn:longitude":40.87718,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Shamd\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shamd\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275300
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"36517a324903e9ab6d2f8915cf2c1d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243181807,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243181807,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Shamdin",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.87718,
+    35.80376,
+    40.87718,
+    35.80376
+],
+  "geometry": {"coordinates":[40.87718,35.80376],"type":"Point"}
+}

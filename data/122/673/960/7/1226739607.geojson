@@ -1,0 +1,75 @@
+{
+  "id": 1226739607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11373,36.56762,38.11373,36.56762",
+    "geom:latitude":36.56762,
+    "geom:longitude":38.11373,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hayya Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169687,
+    "gn:latitude":36.56762,
+    "gn:longitude":38.11373,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u1e28ayy\u0101 Sagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Haya S\u00e9erh\u00eer",
+        "\u1e28\u0101y\u0101 a\u015f \u015eagh\u012br",
+        "\u1e28ayy\u0101 Sagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169687
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b2f2e3b2c04f36dc97cfe884d1f5515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226739607,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226739607,
+    "wof:lastmodified":1537702081,
+    "wof:name":"Hayya Saghir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11373,
+    36.56762,
+    38.11373,
+    36.56762
+],
+  "geometry": {"coordinates":[38.11373,36.56762],"type":"Point"}
+}

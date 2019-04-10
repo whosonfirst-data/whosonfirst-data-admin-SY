@@ -1,0 +1,79 @@
+{
+  "id": 1343658479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53815,36.16685,37.53815,36.16685",
+    "geom:latitude":36.16685,
+    "geom:longitude":37.53815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kuwayris Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":167713,
+    "gn:latitude":36.16685,
+    "gn:longitude":37.53815,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kuwayris Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0631\u0633 \u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kawbr\u012bs ash Sharq\u012b",
+        "Koua\u00efr\u00e8s ech Chargi",
+        "Khuwayrat ash Sharq\u012b",
+        "Koua\u00efres ech Charqui",
+        "Kou\u00e9\u00efr \u00e8s Charqiy\u00e9",
+        "Kuwayris ash Sharq\u012b",
+        "Kuwayris Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167713
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bf5c1998f7af0d437ffc18bba4453034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343658479,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343658479,
+    "wof:lastmodified":1537701934,
+    "wof:name":"Kuwayris Sharqi",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53815,
+    36.16685,
+    37.53815,
+    36.16685
+],
+  "geometry": {"coordinates":[37.53815,36.16685],"type":"Point"}
+}

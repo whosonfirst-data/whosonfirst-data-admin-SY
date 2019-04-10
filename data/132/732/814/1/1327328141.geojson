@@ -1,0 +1,94 @@
+{
+  "id": 1327328141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13914,36.75981,38.13914,36.75981",
+    "geom:latitude":36.75981,
+    "geom:longitude":38.13914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hankush",
+    "gn:country_code":"SY",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169928,
+    "gn:latitude":36.75981,
+    "gn:longitude":38.13914,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u1e28ankush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u0643\u0648\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0644\u0639\u0629",
+        "\u062d\u0646\u0643\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "Hinkush"
+    ],
+    "name:kur_x_variant":[
+        "Henkush",
+        "\u0647\u0646\u0643\u0648\u0634",
+        "\u0647\u06d5\u0646\u0643\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Hongorch",
+        "Hannko\u00fbch",
+        "\u1e28ank\u016bsh",
+        "\u0162al\u2018ah",
+        "Henk\u00fbsh",
+        "Henk\u00fb\u015f",
+        "\u0162al\u2018a",
+        "Tel\u2018e",
+        "Talaa",
+        "\u1e28ankush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8b2610715ffe539a62d4d702295687c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1327328141,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327328141,
+    "wof:lastmodified":1537702098,
+    "wof:name":"Hankush",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13914000000001,
+    36.75981,
+    38.13914000000001,
+    36.75981
+],
+  "geometry": {"coordinates":[38.13914000000001,36.75981],"type":"Point"}
+}

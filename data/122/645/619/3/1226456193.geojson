@@ -1,0 +1,73 @@
+{
+  "id": 1226456193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.74742,35.8821,40.74742,35.8821",
+    "geom:latitude":35.8821,
+    "geom:longitude":40.74742,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haddaj",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264233,
+    "gn:latitude":35.8821,
+    "gn:longitude":40.74742,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u1e28add\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u1e28add\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264233
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4c6f7b5939972a91054b38e6115e7c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226456193,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226456193,
+    "wof:lastmodified":1537702496,
+    "wof:name":"Haddaj",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.74742,
+    35.8821,
+    40.74742,
+    35.8821
+],
+  "geometry": {"coordinates":[40.74742,35.8821],"type":"Point"}
+}

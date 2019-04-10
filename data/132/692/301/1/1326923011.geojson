@@ -1,0 +1,71 @@
+{
+  "id": 1326923011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28333,32.93391,36.28333,32.93391",
+    "geom:latitude":32.93391,
+    "geom:longitude":36.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khirbat al Bu'ayr",
+    "gn:country_code":"SY",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168126,
+    "gn:latitude":32.93391,
+    "gn:longitude":36.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat al Bu\u2019ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kheurbet el B\u00f3ua\u00efr",
+        "Khirbat al Bu\u2019ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168126
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2adc89d57b49ca5c79ee4ed38372281b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1326923011,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1326923011,
+    "wof:lastmodified":1537701972,
+    "wof:name":"Khirbat al Bu'ayr",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28333,
+    32.93391,
+    36.28333,
+    32.93391
+],
+  "geometry": {"coordinates":[36.28333,32.93391],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327024437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9696,36.11051,36.9696,36.11051",
+    "geom:latitude":36.11051,
+    "geom:longitude":36.9696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Jum ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7679918,
+    "gn:latitude":36.11051,
+    "gn:longitude":36.9696,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kafr J\u016bm ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062c\u0648\u0645 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr J\u016bm ash Sharq\u012byah",
+        "Kafr Juwam ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679918
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a696989ca1068ebdc0af90b3a17d9507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1327024437,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327024437,
+    "wof:lastmodified":1537702473,
+    "wof:name":"Kafr Jum ash Sharqiyah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9696,
+    36.11051,
+    36.9696,
+    36.11051
+],
+  "geometry": {"coordinates":[36.9696,36.11051],"type":"Point"}
+}

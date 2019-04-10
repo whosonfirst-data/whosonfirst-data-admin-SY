@@ -1,0 +1,78 @@
+{
+  "id": 1343480961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39803,33.48965,36.39803,33.48965",
+    "geom:latitude":33.48965,
+    "geom:longitude":36.39803,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hatitat al Jarash",
+    "gn:country_code":"SY",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170128,
+    "gn:latitude":33.48965,
+    "gn:longitude":36.39803,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u1e28at\u012btat al Jarash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062a\u064a\u062a\u0629 \u0627\u0644\u062c\u0631\u0634"
+    ],
+    "name:und_x_variant":[
+        "Hattit\u00e9 ej Jarache",
+        "Hatite Jarach",
+        "Hadisset el Harach",
+        "Hadisset al Jarash",
+        "\u1e28at\u012btat al Jarash",
+        "\u1e28aytat al Jarash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170128
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d9316623e7e4525a492a1c5e92fbd30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1343480961,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343480961,
+    "wof:lastmodified":1537702109,
+    "wof:name":"Hatitat al Jarash",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39803,
+    33.48965,
+    36.39803,
+    33.48965
+],
+  "geometry": {"coordinates":[36.39803,33.48965],"type":"Point"}
+}

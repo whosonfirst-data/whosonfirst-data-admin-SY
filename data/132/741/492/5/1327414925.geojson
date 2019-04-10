@@ -1,0 +1,73 @@
+{
+  "id": 1327414925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83301,34.62674,36.83301,34.62674",
+    "geom:latitude":34.62674,
+    "geom:longitude":36.83301,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hawsh Lubabaydi",
+    "gn:country_code":"SY",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340052,
+    "gn:latitude":34.62674,
+    "gn:longitude":36.83301,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28awsh Lub\u0101bayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0627\u0644\u0644\u0628\u0627\u0628\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh Lub\u0101bayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340052
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2675274ca5979e4f58493f100de5515b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1327414925,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327414925,
+    "wof:lastmodified":1537702533,
+    "wof:name":"Hawsh Lubabaydi",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83301,
+    34.62674000000001,
+    36.83301,
+    34.62674000000001
+],
+  "geometry": {"coordinates":[36.83301,34.62674000000001],"type":"Point"}
+}

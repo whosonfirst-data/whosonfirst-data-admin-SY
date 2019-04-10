@@ -1,0 +1,74 @@
+{
+  "id": 1226413321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96581,34.90624,35.96581,34.90624",
+    "geom:latitude":34.90624,
+    "geom:longitude":35.96581,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Badriyah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171964,
+    "gn:latitude":34.90624,
+    "gn:longitude":35.96581,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Badr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bdari\u00e9",
+        "Badr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171964
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1ff3950c06eb6dac17f7adcccd6423b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226413321,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226413321,
+    "wof:lastmodified":1537702238,
+    "wof:name":"Badriyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96581,
+    34.90624,
+    35.96581,
+    34.90624
+],
+  "geometry": {"coordinates":[35.96581,34.90624],"type":"Point"}
+}

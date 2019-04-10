@@ -1,0 +1,76 @@
+{
+  "id": 1293090709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26175,36.63557,37.26175,36.63557",
+    "geom:latitude":36.63557,
+    "geom:longitude":37.26175,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qarah Kubri",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166087,
+    "gn:latitude":36.63557,
+    "gn:longitude":37.26175,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Qarah K\u016bbr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0643\u0648\u0628\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kara Keupru",
+        "Dara Keupru",
+        "Qara Keupru",
+        "Qarah K\u016bbr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166087
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"01591f8113e26de50a646dd7a715027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1293090709,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293090709,
+    "wof:lastmodified":1537701834,
+    "wof:name":"Qarah Kubri",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26175,
+    36.63557,
+    37.26175,
+    36.63557
+],
+  "geometry": {"coordinates":[37.26175,36.63557],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343434719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94637,34.81858,35.94637,34.81858",
+    "geom:latitude":34.81858,
+    "geom:longitude":35.94637,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zahr al Lawzah",
+    "gn:country_code":"SY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167673,
+    "gn:latitude":34.81858,
+    "gn:longitude":35.94637,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Z\u0327ahr al Lawzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0648\u0632\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0645\u0627\u0631\u0629",
+        "\u0638\u0647\u0631 \u0627\u0644\u0644\u0648\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Aam\u00e2ra",
+        "Laouz\u00e9",
+        "Lawzah",
+        "Al Lawzah",
+        "Al \u2018Im\u0101rah",
+        "Z\u0327ahr al Lawzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167673
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"625af01bfc82e36e482f07b201aaed79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343434719,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343434719,
+    "wof:lastmodified":1537701932,
+    "wof:name":"Zahr al Lawzah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94637,
+    34.81858,
+    35.94637,
+    34.81858
+],
+  "geometry": {"coordinates":[35.94637,34.81858],"type":"Point"}
+}

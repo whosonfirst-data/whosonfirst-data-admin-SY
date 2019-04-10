@@ -1,0 +1,75 @@
+{
+  "id": 1226756453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15102,35.66835,36.15102,35.66835",
+    "geom:latitude":35.66835,
+    "geom:longitude":36.15102,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kafr `Ajuz",
+    "gn:country_code":"SY",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168739,
+    "gn:latitude":35.66835,
+    "gn:longitude":36.15102,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kafr \u2018Aj\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u062c\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Kafer Aajo\u00fbz",
+        "Kafr Aajo\u00fbz",
+        "Kafr \u2018Aj\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168739
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa0736895d1d366a76b392879262b9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1226756453,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226756453,
+    "wof:lastmodified":1537702019,
+    "wof:name":"Kafr `Ajuz",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15102,
+    35.66835,
+    36.15102,
+    35.66835
+],
+  "geometry": {"coordinates":[36.15102,35.66835],"type":"Point"}
+}

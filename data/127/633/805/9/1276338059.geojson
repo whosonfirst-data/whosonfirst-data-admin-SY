@@ -1,0 +1,76 @@
+{
+  "id": 1276338059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03445,35.30233,36.03445,35.30233",
+    "geom:latitude":35.30233,
+    "geom:longitude":36.03445,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Btammana",
+    "gn:country_code":"SY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171262,
+    "gn:latitude":35.30233,
+    "gn:longitude":36.03445,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Btamm\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0645\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Btemm\u00e2na",
+        "Btamm\u0101n\u0101",
+        "Bitam\u0101nn\u0101",
+        "Bitm\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171262
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bbdac78b5b90c87cf0b88d1e5542c729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1276338059,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276338059,
+    "wof:lastmodified":1537702181,
+    "wof:name":"Btammana",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03445,
+    35.30233,
+    36.03445,
+    35.30233
+],
+  "geometry": {"coordinates":[36.03445,35.30233],"type":"Point"}
+}

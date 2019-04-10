@@ -1,0 +1,74 @@
+{
+  "id": 1243264281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71853,35.83728,38.71853,35.83728",
+    "geom:latitude":35.83728,
+    "geom:longitude":38.71853,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ath Thadyayn",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172377,
+    "gn:latitude":35.83728,
+    "gn:longitude":38.71853,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Ath Thadyayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u062f\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "As Saddayn",
+        "Ath Thadyayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172377
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2110cb6b6cb2fd9839b4535a32aeea3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1243264281,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1243264281,
+    "wof:lastmodified":1537702270,
+    "wof:name":"Ath Thadyayn",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71853,
+    35.83728,
+    38.71853,
+    35.83728
+],
+  "geometry": {"coordinates":[38.71853,35.83728],"type":"Point"}
+}

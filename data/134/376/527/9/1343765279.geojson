@@ -1,0 +1,77 @@
+{
+  "id": 1343765279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08778,35.48417,36.08778,35.48417",
+    "geom:latitude":35.48417,
+    "geom:longitude":36.08778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayrutan Mahalibah",
+    "gn:country_code":"SY",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170750,
+    "gn:latitude":35.48417,
+    "gn:longitude":36.08778,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dayr\u016bt\u0101n Ma\u1e29\u0101libah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u062a\u0627\u0646 \u0645\u062d\u0627\u0644\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "De\u00efroutane Mh\u00e2lb\u00e9",
+        "Dairutan Mhalb\u00e9",
+        "Dayr\u016bt\u0101n al Ma\u1e29\u0101libah",
+        "Dayr\u016bt\u0101n Ma\u1e29\u0101libah",
+        "Ma\u1e29\u0101libah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170750
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c904eb828dae52ac30ba5cb0c4f57dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343765279,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343765279,
+    "wof:lastmodified":1537702143,
+    "wof:name":"Dayrutan Mahalibah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08778,
+    35.48417,
+    36.08778,
+    35.48417
+],
+  "geometry": {"coordinates":[36.08778,35.48417],"type":"Point"}
+}

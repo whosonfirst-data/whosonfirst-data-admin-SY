@@ -1,0 +1,74 @@
+{
+  "id": 1259672781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31474,35.10175,36.31474,35.10175",
+    "geom:latitude":35.10175,
+    "geom:longitude":36.31474,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hayyalin",
+    "gn:country_code":"SY",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169648,
+    "gn:latitude":35.10175,
+    "gn:longitude":36.31474,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28ayy\u0101l\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00efy\u00e2l\u00eene",
+        "\u1e28ayy\u0101l\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169648
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6929e48ed3fa9babcea4764fe2d68392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1259672781,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259672781,
+    "wof:lastmodified":1537702078,
+    "wof:name":"Hayyalin",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31474,
+    35.10175,
+    36.31474,
+    35.10175
+],
+  "geometry": {"coordinates":[36.31474,35.10175],"type":"Point"}
+}

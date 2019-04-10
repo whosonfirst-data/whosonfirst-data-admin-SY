@@ -1,0 +1,78 @@
+{
+  "id": 1209716033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07048,36.53248,39.07048,36.53248",
+    "geom:latitude":36.53248,
+    "geom:longitude":39.07048,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hammam Turkuman",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169971,
+    "gn:latitude":36.53248,
+    "gn:longitude":39.07048,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u1e28amm\u0101m Turkum\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u062a\u0631\u0643\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bendi Hammam",
+        "Hamm\u00e2m Tourkm\u00e2ne",
+        "Al \u1e28amm\u0101m",
+        "El Hamm\u00e2m",
+        "\u1e28amm\u0101m at Turkum\u0101n",
+        "\u1e28amm\u0101m Turkum\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169971
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a4742b59424027d108c4f3d820bb7a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1209716033,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1209716033,
+    "wof:lastmodified":1537702100,
+    "wof:name":"Hammam Turkuman",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07048,
+    36.53248,
+    39.07048,
+    36.53248
+],
+  "geometry": {"coordinates":[39.07048,36.53248],"type":"Point"}
+}

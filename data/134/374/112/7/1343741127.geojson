@@ -1,0 +1,79 @@
+{
+  "id": 1343741127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.122,34.84805,36.122,34.84805",
+    "geom:latitude":34.84805,
+    "geom:longitude":36.122,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kafarrikhah",
+    "gn:country_code":"SY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168455,
+    "gn:latitude":34.84805,
+    "gn:longitude":36.122,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kaf\u0101rr\u012bkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631\u064a\u062e\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0627\u0631\u064a\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kfarr\u00eekha",
+        "Kfarr\u012bkhah",
+        "Kafarr\u012bkhah",
+        "Kaf\u0101rr\u012bkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168455
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"253fd72721dd8022c84ee8c45de5587a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1343741127,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343741127,
+    "wof:lastmodified":1537701992,
+    "wof:name":"Kafarrikhah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.122,
+    34.84805,
+    36.122,
+    34.84805
+],
+  "geometry": {"coordinates":[36.122,34.84805],"type":"Point"}
+}

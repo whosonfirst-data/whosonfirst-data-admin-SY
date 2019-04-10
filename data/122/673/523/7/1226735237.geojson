@@ -1,0 +1,70 @@
+{
+  "id": 1226735237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3,33.65,36.3,33.65",
+    "geom:latitude":33.65,
+    "geom:longitude":36.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Minin",
+    "gn:country_code":"SY",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166889,
+    "gn:latitude":33.65,
+    "gn:longitude":36.3,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Min\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Min\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166889
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe1c9007e957792bb9468bbe0d69b770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1226735237,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226735237,
+    "wof:lastmodified":1537701886,
+    "wof:name":"Minin",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3,
+    33.65,
+    36.3,
+    33.65
+],
+  "geometry": {"coordinates":[36.3,33.65],"type":"Point"}
+}

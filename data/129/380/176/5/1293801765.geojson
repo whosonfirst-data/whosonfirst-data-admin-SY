@@ -1,0 +1,74 @@
+{
+  "id": 1293801765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8402,36.71956,40.8402,36.71956",
+    "geom:latitude":36.71956,
+    "geom:longitude":40.8402,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Addayah",
+    "gn:country_code":"SY",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174244,
+    "gn:latitude":36.71956,
+    "gn:longitude":40.8402,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Add\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062f\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aadd\u00e2y\u00e9",
+        "\u2018Add\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174244
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7d1f3b8a762ded26b1f4732d0e1d0534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293801765,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293801765,
+    "wof:lastmodified":1537702400,
+    "wof:name":"`Addayah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8402,
+    36.71956,
+    40.8402,
+    36.71956
+],
+  "geometry": {"coordinates":[40.8402,36.71956],"type":"Point"}
+}

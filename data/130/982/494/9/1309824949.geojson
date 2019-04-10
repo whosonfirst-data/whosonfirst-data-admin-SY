@@ -1,0 +1,75 @@
+{
+  "id": 1309824949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.61667,36.23333,37.61667,36.23333",
+    "geom:latitude":36.23333,
+    "geom:longitude":37.61667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bijan",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171464,
+    "gn:latitude":36.23333,
+    "gn:longitude":37.61667,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"B\u012bj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u012bj\u0101n"
+    ],
+    "name:und_x_variant":[
+        "B\u00eej\u00e2ne",
+        "Bidjane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171464
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2b00a523cb0f1812edcccf0d3deef878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1309824949,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309824949,
+    "wof:lastmodified":1537702200,
+    "wof:name":"Bijan",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.61667,
+    36.23333,
+    37.61667,
+    36.23333
+],
+  "geometry": {"coordinates":[37.61667,36.23333],"type":"Point"}
+}

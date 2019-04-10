@@ -1,0 +1,75 @@
+{
+  "id": 1360074181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06991,35.07338,37.06991,35.07338",
+    "geom:latitude":35.07338,
+    "geom:longitude":37.06991,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm Farj",
+    "gn:country_code":"SY",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168034,
+    "gn:latitude":35.07338,
+    "gn:longitude":37.06991,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Rasm Farj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0641\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Faraj",
+        "Khirbat Faraj",
+        "Rasm Farj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168034
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5680ad5b550a68f36586e678914832db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1360074181,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360074181,
+    "wof:lastmodified":1537701964,
+    "wof:name":"Rasm Farj",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06991,
+    35.07338,
+    37.06991,
+    35.07338
+],
+  "geometry": {"coordinates":[37.06991,35.07338],"type":"Point"}
+}

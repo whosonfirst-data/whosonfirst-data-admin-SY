@@ -1,0 +1,82 @@
+{
+  "id": 1310582519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97172,34.64855,36.97172,34.64855",
+    "geom:latitude":34.64855,
+    "geom:longitude":36.97172,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fatim al `Arnuq",
+    "gn:country_code":"SY",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169173,
+    "gn:latitude":34.64855,
+    "gn:longitude":36.97172,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Fa\u0163\u012bm al \u2018Arn\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0637\u064a\u0645 \u0627\u0644\u0639\u0631\u0646\u0648\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0631\u0628\u0648\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "J\u00e9rbo\u00fbaa",
+        "Jarb\u016b\u2018",
+        "Fa\u0163\u012bm al \u2018Arn\u016bq",
+        "Al Jarb\u016b\u2018ah",
+        "Jerbo\u00fba\u00efy\u00e9",
+        "Ft\u00eem el Aarno\u00fbq",
+        "Ft\u00eeme el Aarnouq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169173
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e5298a320a807a9c721f0868c79a33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310582519,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310582519,
+    "wof:lastmodified":1537702050,
+    "wof:name":"Fatim al `Arnuq",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97172,
+    34.64855,
+    36.97172,
+    34.64855
+],
+  "geometry": {"coordinates":[36.97172,34.64855],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259579937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66439,36.5763,37.66439,36.5763",
+    "geom:latitude":36.5763,
+    "geom:longitude":37.66439,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Mughayrah",
+    "gn:country_code":"SY",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352028,
+    "gn:latitude":36.5763,
+    "gn:longitude":37.66439,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Al M\u016bghayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al M\u016bghayrah",
+        "Al M\u016bgh\u012brah",
+        "Al Mawghayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352028
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"538eb4a57db7aec02264dbe9a419d7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1259579937,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259579937,
+    "wof:lastmodified":1537702603,
+    "wof:name":"Al Mughayrah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66439,
+    36.5763,
+    37.66439,
+    36.5763
+],
+  "geometry": {"coordinates":[37.66439,36.5763],"type":"Point"}
+}

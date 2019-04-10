@@ -1,0 +1,70 @@
+{
+  "id": 1209904329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68038,34.9157,36.68038,34.9157",
+    "geom:latitude":34.9157,
+    "geom:longitude":36.68038,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"At Tulayl",
+    "gn:country_code":"SY",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432773,
+    "gn:latitude":34.9157,
+    "gn:longitude":36.68038,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"At Tulayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432773
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9a88f1a8653615ef140800f68fc81d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1209904329,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209904329,
+    "wof:lastmodified":1537702619,
+    "wof:name":"At Tulayl",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68038,
+    34.9157,
+    36.68038,
+    34.9157
+],
+  "geometry": {"coordinates":[36.68038,34.9157],"type":"Point"}
+}

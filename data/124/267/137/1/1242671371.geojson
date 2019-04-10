@@ -1,0 +1,73 @@
+{
+  "id": 1242671371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85599,35.06168,36.85599,35.06168",
+    "geom:latitude":35.06168,
+    "geom:longitude":36.85599,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Jasa`",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555452,
+    "gn:latitude":35.06168,
+    "gn:longitude":36.85599,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ab\u016b Jasa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062c\u0633\u0639"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Jasa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555452
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"02c0e7e580ec640b731cd273d40f55e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1242671371,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242671371,
+    "wof:lastmodified":1537702637,
+    "wof:name":"Abu Jasa`",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85599000000001,
+    35.06168,
+    36.85599000000001,
+    35.06168
+],
+  "geometry": {"coordinates":[36.85599000000001,35.06168],"type":"Point"}
+}

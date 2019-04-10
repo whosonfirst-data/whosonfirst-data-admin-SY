@@ -1,0 +1,77 @@
+{
+  "id": 1327423597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84783,36.71933,36.84783,36.71933",
+    "geom:latitude":36.71933,
+    "geom:longitude":36.84783,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hawzan",
+    "gn:country_code":"SY",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235578,
+    "gn:latitude":36.71933,
+    "gn:longitude":36.84783,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Hawz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ruww\u0101d \u016ash\u0101gh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0627\u062f \u0627\u0648\u0634\u0627\u063a\u064a",
+        "\u0647\u0648\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hawz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235578
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"91c5b922c0b0509c605a8dfc8f359b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1327423597,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327423597,
+    "wof:lastmodified":1537702487,
+    "wof:name":"Hawzan",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84783,
+    36.71933,
+    36.84783,
+    36.71933
+],
+  "geometry": {"coordinates":[36.84783,36.71933],"type":"Point"}
+}

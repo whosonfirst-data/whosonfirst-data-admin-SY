@@ -1,0 +1,73 @@
+{
+  "id": 1226028151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94803,34.9491,35.94803,34.9491",
+    "geom:latitude":34.9491,
+    "geom:longitude":35.94803,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mazra`at al Jammah",
+    "gn:country_code":"SY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266786,
+    "gn:latitude":34.9491,
+    "gn:longitude":35.94803,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mazra\u2018at al Jammah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062c\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al Jammah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266786
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b33c4c09b34ce188c807372b1f5f5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226028151,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226028151,
+    "wof:lastmodified":1537702504,
+    "wof:name":"Mazra`at al Jammah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94803,
+    34.9491,
+    35.94803,
+    34.9491
+],
+  "geometry": {"coordinates":[35.94803,34.9491],"type":"Point"}
+}

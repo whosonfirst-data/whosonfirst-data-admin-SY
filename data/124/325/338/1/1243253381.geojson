@@ -1,0 +1,80 @@
+{
+  "id": 1243253381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12265,36.32792,37.12265,36.32792",
+    "geom:latitude":36.32792,
+    "geom:longitude":37.12265,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bashkuy",
+    "gn:country_code":"SY",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171716,
+    "gn:latitude":36.32792,
+    "gn:longitude":37.12265,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"B\u0101shk\u016by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101sh K\u016by"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101shk\u016by",
+        "\u0628\u0627\u0634\u0643\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2ch Keuy",
+        "B\u0101sh K\u0101y",
+        "Bach Keui",
+        "B\u0101sh K\u016by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171716
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8d9e4294fd6a3e459897b2fd12e2c997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1243253381,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243253381,
+    "wof:lastmodified":1537702221,
+    "wof:name":"Bashkuy",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12265,
+    36.32792,
+    37.12265,
+    36.32792
+],
+  "geometry": {"coordinates":[37.12265,36.32792],"type":"Point"}
+}

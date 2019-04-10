@@ -1,0 +1,73 @@
+{
+  "id": 1343252675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42184,33.43075,36.42184,33.43075",
+    "geom:latitude":33.43075,
+    "geom:longitude":36.42184,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Hamra'",
+    "gn:country_code":"SY",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412192,
+    "gn:latitude":33.43075,
+    "gn:longitude":36.42184,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al \u1e28amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412192
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"997abf82622ef2be38872db7c55c2eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1343252675,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343252675,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard al Hamra'",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42184,
+    33.43075,
+    36.42184,
+    33.43075
+],
+  "geometry": {"coordinates":[36.42184,33.43075],"type":"Point"}
+}

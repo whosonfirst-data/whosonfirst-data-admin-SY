@@ -1,0 +1,100 @@
+{
+  "id": 1243253329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29114,36.87125,38.29114,36.87125",
+    "geom:latitude":36.87125,
+    "geom:longitude":38.29114,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Muman `Azu",
+    "gn:country_code":"SY",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166690,
+    "gn:latitude":36.87125,
+    "gn:longitude":38.29114,
+    "gn:modification_date":"2016-12-12",
+    "gn:name":"M\u016bm\u0101n \u2018Az\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u016bm\u0101n \u2018Az\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0645\u0627\u0646 \u0639\u0632\u0648",
+        "\u0639\u0632\u064a\u0632\u064a\u0629",
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Moman\u00ea Xezo"
+    ],
+    "name:kur_x_variant":[
+        "Muman\u00ee Xizu",
+        "Muman\u00ee Xezu",
+        "\u0645\u06c6\u0645\u0627\u0646\u06ce \u062e\u06d5\u0632\u06c6",
+        "\u0645\u0648\u0645\u0627\u0646\u064a \u062e\u0632\u0648",
+        "\u0645\u0648\u0645\u0627\u0646\u0649 \u062e\u06d5\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00fbm\u00e2ne Aazo",
+        "Moum\u00e2ne Aaza",
+        "Muman \u2018Azo",
+        "\u2018Az\u012bz\u012byah",
+        "Momani Khazo",
+        "Ez\u00eeziya",
+        "\u2018Az\u012bz\u012bya",
+        "Al \u2018Az\u012bz\u012byah",
+        "Aziza",
+        "Azizia",
+        "Aziziyeh",
+        "Aziziah",
+        "Azizeih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166690
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44fce22d3be5bbb5dedbd3dd61f4336c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243253329,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243253329,
+    "wof:lastmodified":1537701874,
+    "wof:name":"Muman `Azu",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29114000000001,
+    36.87125,
+    38.29114000000001,
+    36.87125
+],
+  "geometry": {"coordinates":[38.29114000000001,36.87125],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360274415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00583,34.92811,37.00583,34.92811",
+    "geom:latitude":34.92811,
+    "geom:longitude":37.00583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dunaybah",
+    "gn:country_code":"SY",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170584,
+    "gn:latitude":34.92811,
+    "gn:longitude":37.00583,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Dunaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dna\u00efb\u00e9",
+        "Dne\u00efbe",
+        "Dunaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170584,
+        "wk:page":"Dunaybah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"586674259656724ac6a3adf010e07212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1360274415,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360274415,
+    "wof:lastmodified":1537702134,
+    "wof:name":"Dunaybah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00583,
+    34.92811,
+    37.00583,
+    34.92811
+],
+  "geometry": {"coordinates":[37.00583,34.92811],"type":"Point"}
+}

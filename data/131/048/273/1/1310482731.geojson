@@ -1,0 +1,73 @@
+{
+  "id": 1310482731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10351,34.34968,37.10351,34.34968",
+    "geom:latitude":34.34968,
+    "geom:longitude":37.10351,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazra`at Habl at Tin",
+    "gn:country_code":"SY",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289,
+    "gn:latitude":34.34968,
+    "gn:longitude":37.10351,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Mazra\u2018at \u1e28abl at T\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062d\u0628\u0644 \u0627\u0644\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u1e28abl at T\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1194d7a095f068d4e5ecd96ef4e2a0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310482731,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310482731,
+    "wof:lastmodified":1537701523,
+    "wof:name":"Mazra`at Habl at Tin",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10351,
+    34.34968,
+    37.10351,
+    34.34968
+],
+  "geometry": {"coordinates":[37.10351,34.34968],"type":"Point"}
+}

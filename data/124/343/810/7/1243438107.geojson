@@ -1,0 +1,76 @@
+{
+  "id": 1243438107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26198,35.55016,36.26198,35.55016",
+    "geom:latitude":35.55016,
+    "geom:longitude":36.26198,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nubl at Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166329,
+    "gn:latitude":35.55016,
+    "gn:longitude":36.26198,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nubl at Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0644 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Nobol Taht\u00e2ni",
+        "Nobol ett Tahta",
+        "Nubul at Ta\u1e29t\u0101n\u012b",
+        "Nubl at Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166329
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bb3209d3c5feb377116aa300d00c469e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1243438107,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243438107,
+    "wof:lastmodified":1537701853,
+    "wof:name":"Nubl at Tahtani",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26198,
+    35.55016,
+    36.26198,
+    35.55016
+],
+  "geometry": {"coordinates":[36.26198,35.55016],"type":"Point"}
+}

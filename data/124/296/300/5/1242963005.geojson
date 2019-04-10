@@ -1,0 +1,80 @@
+{
+  "id": 1242963005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89346,36.15423,36.89346,36.15423",
+    "geom:latitude":36.15423,
+    "geom:longitude":36.89346,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Ta`al",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168630,
+    "gn:latitude":36.15423,
+    "gn:longitude":36.89346,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kafr Ta\u2018\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062a\u0639\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631 \u062a\u0639\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kafer Taal",
+        "Kafer Taal\u00e9",
+        "Kafr Taal\u00e9",
+        "Kafr Ta\u2018lah",
+        "Kafr Ta\u2018\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168630
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae50389b5aa5c530e06f8805ced86b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242963005,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242963005,
+    "wof:lastmodified":1537702007,
+    "wof:name":"Kafr Ta`al",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89346,
+    36.15423,
+    36.89346,
+    36.15423
+],
+  "geometry": {"coordinates":[36.89346,36.15423],"type":"Point"}
+}

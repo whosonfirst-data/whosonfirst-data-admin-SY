@@ -1,0 +1,74 @@
+{
+  "id": 1226421489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1245,35.0133,36.1245,35.0133",
+    "geom:latitude":35.0133,
+    "geom:longitude":36.1245,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mujaydil",
+    "gn:country_code":"SY",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166731,
+    "gn:latitude":35.0133,
+    "gn:longitude":36.1245,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mujaydil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u064a\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mja\u00efdel",
+        "Mujaydil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72d6a11402e532604e1d3988d05764f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1226421489,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226421489,
+    "wof:lastmodified":1537701876,
+    "wof:name":"Mujaydil",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1245,
+    35.0133,
+    36.1245,
+    35.0133
+],
+  "geometry": {"coordinates":[36.1245,35.0133],"type":"Point"}
+}

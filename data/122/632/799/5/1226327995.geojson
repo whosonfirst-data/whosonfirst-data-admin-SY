@@ -1,0 +1,73 @@
+{
+  "id": 1226327995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91586,34.14795,36.91586,34.14795",
+    "geom:latitude":34.14795,
+    "geom:longitude":36.91586,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sirat Wadi Khabrah",
+    "gn:country_code":"SY",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11430864,
+    "gn:latitude":34.14795,
+    "gn:longitude":36.91586,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"\u015e\u012brat W\u0101d\u012b Khabrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u0631\u0629 \u0648\u0627\u062f\u064a \u062e\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u012brat W\u0101d\u012b Khabrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11430864
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6f38898c88a50c6803774f88cd6eeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779095,
+            "locality_id":1226327995,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226327995,
+    "wof:lastmodified":1537702615,
+    "wof:name":"Sirat Wadi Khabrah",
+    "wof:parent_id":1108779095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91586,
+    34.14795,
+    36.91586,
+    34.14795
+],
+  "geometry": {"coordinates":[36.91586,34.14795],"type":"Point"}
+}

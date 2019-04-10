@@ -1,0 +1,76 @@
+{
+  "id": 1343758001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12073,34.9594,37.12073,34.9594",
+    "geom:latitude":34.9594,
+    "geom:longitude":37.12073,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Ghawi",
+    "gn:country_code":"SY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173876,
+    "gn:latitude":34.9594,
+    "gn:longitude":37.12073,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Al Gh\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "El Rh\u00e2oui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173876
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e0607481757aa56df0207dd0d4ed7c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343758001,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343758001,
+    "wof:lastmodified":1537702372,
+    "wof:name":"Al Ghawi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12073,
+    34.9594,
+    37.12073,
+    34.9594
+],
+  "geometry": {"coordinates":[37.12073,34.9594],"type":"Point"}
+}

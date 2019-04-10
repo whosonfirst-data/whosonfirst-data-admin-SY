@@ -1,0 +1,80 @@
+{
+  "id": 1192994787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3018,33.4699,36.3018,33.4699",
+    "geom:latitude":33.4699,
+    "geom:longitude":36.3018,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mukhayyam al Yarmuk",
+    "gn:country_code":"SY",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166716,
+    "gn:latitude":33.4699,
+    "gn:longitude":36.3018,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mukhayyam al Yarm\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u064a\u0645 \u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Mokhayam Al-Yarmouk Camp",
+        "Mukhayam Yarmouk",
+        "Mokhayam Yarmouk",
+        "Mukhayyam al Yarm\u016bk",
+        "Al Yarm\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166716
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4015a0b37092d9de359733c7a3530993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1192994787,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1192994787,
+    "wof:lastmodified":1537701876,
+    "wof:name":"Mukhayyam al Yarmuk",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3018,
+    33.4699,
+    36.3018,
+    33.4699
+],
+  "geometry": {"coordinates":[36.3018,33.4699],"type":"Point"}
+}

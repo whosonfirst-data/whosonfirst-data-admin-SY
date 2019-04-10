@@ -1,0 +1,78 @@
+{
+  "id": 1360256079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23893,35.09387,36.23893,35.09387",
+    "geom:latitude":35.09387,
+    "geom:longitude":36.23893,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bishragha",
+    "gn:country_code":"SY",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171368,
+    "gn:latitude":35.09387,
+    "gn:longitude":36.23893,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bishr\u0101gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bishr\u0101gh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "Bishr\u0101gh\u0101",
+        "\u0628\u0634\u0631\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9chr\u00e2rhi",
+        "Bechr\u00e2rha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171368
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"83013e370c3065df2e6cb74334c2b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1360256079,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1360256079,
+    "wof:lastmodified":1537702193,
+    "wof:name":"Bishragha",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23893,
+    35.09387,
+    36.23893,
+    35.09387
+],
+  "geometry": {"coordinates":[36.23893,35.09387],"type":"Point"}
+}

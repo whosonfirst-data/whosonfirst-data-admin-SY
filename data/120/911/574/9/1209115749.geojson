@@ -1,0 +1,70 @@
+{
+  "id": 1209115749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.24473,36.7843,41.24473,36.7843",
+    "geom:latitude":36.7843,
+    "geom:longitude":41.24473,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Bass Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163615,
+    "gn:latitude":36.7843,
+    "gn:longitude":41.24473,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Ba\u015f\u015f Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0635 \u0643\u0628\u064a\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Ba\u015f\u015f Kab\u012br"
+    ],
+    "name:und_x_variant":[
+        "Tell Bass K\u00e9b\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163615
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae21790502459721feaa80f46dc5a20f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209115749
+        }
+    ],
+    "wof:id":1209115749,
+    "wof:lastmodified":1537701676,
+    "wof:name":"Tall Bass Kabir",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.24473,
+    36.7843,
+    41.24473,
+    36.7843
+],
+  "geometry": {"coordinates":[41.24473,36.7843],"type":"Point"}
+}

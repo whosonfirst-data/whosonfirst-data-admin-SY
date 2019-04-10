@@ -1,0 +1,80 @@
+{
+  "id": 1243247987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34107,36.41081,37.34107,36.41081",
+    "geom:latitude":36.41081,
+    "geom:longitude":37.34107,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall al Jijan",
+    "gn:country_code":"SY",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163693,
+    "gn:latitude":36.41081,
+    "gn:longitude":37.34107,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tall al J\u012bj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062c\u064a\u062c\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0627\u0644\u062c\u064a\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell Jijane",
+        "Tell el Jij\u00e2ne",
+        "Tell ej Jij\u00e2ne",
+        "Tall al J\u012bj\u0101n",
+        "Tall J\u012bj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163693
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c0eb5fed91d4e319e7f62b8397883a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1243247987,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243247987,
+    "wof:lastmodified":1537701686,
+    "wof:name":"Tall al Jijan",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34107,
+    36.41081,
+    37.34107,
+    36.41081
+],
+  "geometry": {"coordinates":[37.34107,36.41081],"type":"Point"}
+}

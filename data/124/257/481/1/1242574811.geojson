@@ -1,0 +1,73 @@
+{
+  "id": 1242574811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37982,33.55965,36.37982,33.55965",
+    "geom:latitude":33.55965,
+    "geom:longitude":36.37982,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard at Ta`lah",
+    "gn:country_code":"SY",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411365,
+    "gn:latitude":33.55965,
+    "gn:longitude":36.37982,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 at Ta\u2018lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u062a\u0639\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 at Ta\u2018lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411365
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aee24946eb746b614e4573fb7916015e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1242574811,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242574811,
+    "wof:lastmodified":1537702558,
+    "wof:name":"Ard at Ta`lah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37982,
+    33.55965,
+    36.37982,
+    33.55965
+],
+  "geometry": {"coordinates":[36.37982,33.55965],"type":"Point"}
+}

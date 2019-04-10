@@ -1,0 +1,70 @@
+{
+  "id": 1209310357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44306,36.13171,37.44306,36.13171",
+    "geom:latitude":36.13171,
+    "geom:longitude":37.44306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Istabl",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163551,
+    "gn:latitude":36.13171,
+    "gn:longitude":37.44306,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tall Is\u0163abl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0633\u0637\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tell Ist\u00e2bel",
+        "Tell Stabel",
+        "Tell Istabl",
+        "Tall Is\u0163abl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163551
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8bccdf52f7d2e84cb90bcd5c1923ecd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209310357
+        }
+    ],
+    "wof:id":1209310357,
+    "wof:lastmodified":1537701668,
+    "wof:name":"Tall Istabl",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44306,
+    36.13171,
+    37.44306,
+    36.13171
+],
+  "geometry": {"coordinates":[37.44306,36.13171],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276538631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45683,35.94723,37.45683,35.94723",
+    "geom:latitude":35.94723,
+    "geom:longitude":37.45683,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Burj ar Rumman",
+    "gn:country_code":"SY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171154,
+    "gn:latitude":35.94723,
+    "gn:longitude":37.45683,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Burj ar Rumm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Borj er Roumm\u00e2ne",
+        "Burj ar Rumm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7841ac5947681d7c3c7615362b384474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1276538631,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276538631,
+    "wof:lastmodified":1537702174,
+    "wof:name":"Burj ar Rumman",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45683,
+    35.94723,
+    37.45683,
+    35.94723
+],
+  "geometry": {"coordinates":[37.45683,35.94723],"type":"Point"}
+}

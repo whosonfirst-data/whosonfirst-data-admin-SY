@@ -1,0 +1,80 @@
+{
+  "id": 1309837915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70752,32.60104,36.70752,32.60104",
+    "geom:latitude":32.60104,
+    "geom:longitude":36.70752,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"172409.0",
+    "gn:asciiname":"Sahwat al Khidr",
+    "gn:country_code":"SY",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164989,
+    "gn:latitude":32.60104,
+    "gn:longitude":36.70752,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sahwat al Khi\u1e11r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0648\u0629 \u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0445\u0432\u0430\u0442-\u044d\u043b\u044c-\u0425\u0438\u0434\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sahouet el Khodor",
+        "Sahwat al Khud\u016br",
+        "Sahwat al Khu\u1e11r",
+        "Sahwat al Khi\u1e11r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164989
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b42f69e94adf749e3c788e659d129f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1309837915,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1309837915,
+    "wof:lastmodified":1537701764,
+    "wof:name":"Sahwat al Khidr",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70752,
+    32.60104,
+    36.70752,
+    32.60104
+],
+  "geometry": {"coordinates":[36.70752,32.60104],"type":"Point"}
+}

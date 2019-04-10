@@ -1,0 +1,73 @@
+{
+  "id": 1293369083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9387,34.92587,35.9387,34.92587",
+    "geom:latitude":34.92587,
+    "geom:longitude":35.9387,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mu`aytir",
+    "gn:country_code":"SY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266764,
+    "gn:latitude":34.92587,
+    "gn:longitude":35.9387,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mu\u2018ayt\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u064a\u062a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mu\u2018ayt\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266764
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"be1d40183b117a74bf8cdbfe5b18fd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293369083,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293369083,
+    "wof:lastmodified":1537702503,
+    "wof:name":"Mu`aytir",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9387,
+    34.92587,
+    35.9387,
+    34.92587
+],
+  "geometry": {"coordinates":[35.9387,34.92587],"type":"Point"}
+}

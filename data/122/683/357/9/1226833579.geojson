@@ -1,0 +1,80 @@
+{
+  "id": 1226833579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67656,36.59214,36.67656,36.59214",
+    "geom:latitude":36.59214,
+    "geom:longitude":36.67656,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sari Oucharhi",
+    "gn:country_code":"SY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164803,
+    "gn:latitude":36.59214,
+    "gn:longitude":36.67656,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Sari Oucharhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015e\u0101r\u012b \u016ash\u0101gh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u062d\u0627\u0631 \u0623\u0648\u0634\u0627\u063a\u064a",
+        "\u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "S\u00e2reu Ouch\u00e2rhi",
+        "\u0635\u0627\u0631\u064a \u0627\u0648\u0634\u0627\u063a\u064a",
+        "\u015eu\u1e29\u0101r \u016ash\u0101gh\u012b",
+        "A\u015f \u015eafr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164803
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c060efb7408ff98eb3985aff4b29040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226833579,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226833579,
+    "wof:lastmodified":1537701754,
+    "wof:name":"Sari Oucharhi",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67656,
+    36.59214,
+    36.67656,
+    36.59214
+],
+  "geometry": {"coordinates":[36.67656,36.59214],"type":"Point"}
+}

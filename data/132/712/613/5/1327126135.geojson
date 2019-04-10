@@ -1,0 +1,73 @@
+{
+  "id": 1327126135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39147,35.15093,40.39147,35.15093",
+    "geom:latitude":35.15093,
+    "geom:longitude":40.39147,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"As Sa`lu",
+    "gn:country_code":"SY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8314976,
+    "gn:latitude":35.15093,
+    "gn:longitude":40.39147,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"A\u015f \u015ea\u2018l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0639\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015ea\u2018l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8314976
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6e3c957b391812061ef7ab7a4f422e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779151,
+            "locality_id":1327126135,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1327126135,
+    "wof:lastmodified":1537702524,
+    "wof:name":"As Sa`lu",
+    "wof:parent_id":1108779151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39147,
+    35.15093,
+    40.39147,
+    35.15093
+],
+  "geometry": {"coordinates":[40.39147,35.15093],"type":"Point"}
+}

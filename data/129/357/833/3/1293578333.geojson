@@ -1,0 +1,70 @@
+{
+  "id": 1293578333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25211,35.35965,37.25211,35.35965",
+    "geom:latitude":35.35965,
+    "geom:longitude":37.25211,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khurayj",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340937,
+    "gn:latitude":35.35965,
+    "gn:longitude":37.25211,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khurayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340937
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cac668d7c2064150b45f36f5a76405fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293578333,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293578333,
+    "wof:lastmodified":1537702539,
+    "wof:name":"Khurayj",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25211,
+    35.35965,
+    37.25211,
+    35.35965
+],
+  "geometry": {"coordinates":[37.25211,35.35965],"type":"Point"}
+}

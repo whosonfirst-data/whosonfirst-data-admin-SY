@@ -1,0 +1,80 @@
+{
+  "id": 1309876765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12601,35.17676,36.12601,35.17676",
+    "geom:latitude":35.17676,
+    "geom:longitude":36.12601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qal`at al `Ulayqah",
+    "gn:country_code":"SY",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166178,
+    "gn:latitude":35.17676,
+    "gn:longitude":36.12601,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qal\u2018at al \u2018Ulayqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u0639\u0644\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kalaat el Aleika",
+        "Qal\u2018at el \u2018Aleiqa",
+        "Qal\u2018at al \u2018Ulaykah",
+        "Olla\u00efqa",
+        "Qal\u2018at el \u2018Aliqa",
+        "Qalaat el Aallaiqa",
+        "Qal\u2018at al \u2018Ulayqah",
+        "Qal\u2018at \u2018Ullayqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166178
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3be066b592156f93311f3ef3d243d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1309876765,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309876765,
+    "wof:lastmodified":1537701845,
+    "wof:name":"Qal`at al `Ulayqah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12601,
+    35.17675999999999,
+    36.12601,
+    35.17675999999999
+],
+  "geometry": {"coordinates":[36.12601,35.17675999999999],"type":"Point"}
+}

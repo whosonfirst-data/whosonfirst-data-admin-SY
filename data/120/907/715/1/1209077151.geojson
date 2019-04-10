@@ -1,0 +1,68 @@
+{
+  "id": 1209077151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05187,34.63585,36.05187,34.63585",
+    "geom:latitude":34.63585,
+    "geom:longitude":36.05187,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Khirbat al Akrad",
+    "gn:country_code":"SY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168138,
+    "gn:latitude":34.63585,
+    "gn:longitude":36.05187,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khirbat al Akr\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0623\u0643\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Akr\u00e2d",
+        "Khirbat al Akr\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168138
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"74a05d1faf33ae584eba83db7b3845a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209077151
+        }
+    ],
+    "wof:id":1209077151,
+    "wof:lastmodified":1537701973,
+    "wof:name":"Khirbat al Akrad",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05187,
+    34.63585,
+    36.05187,
+    34.63585
+],
+  "geometry": {"coordinates":[36.05187,34.63585],"type":"Point"}
+}

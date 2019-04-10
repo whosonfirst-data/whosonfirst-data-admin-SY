@@ -1,0 +1,73 @@
+{
+  "id": 1243468455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31864,36.11315,40.31864,36.11315",
+    "geom:latitude":36.11315,
+    "geom:longitude":40.31864,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Akhla",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385448,
+    "gn:latitude":36.11315,
+    "gn:longitude":40.31864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Akhl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Akhl\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u062e\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385448
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0113ff4fd8509ac7f563fb13301d6584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243468455,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243468455,
+    "wof:lastmodified":1537702427,
+    "wof:name":"Akhla",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31864,
+    36.11315,
+    40.31864,
+    36.11315
+],
+  "geometry": {"coordinates":[40.31864,36.11315],"type":"Point"}
+}

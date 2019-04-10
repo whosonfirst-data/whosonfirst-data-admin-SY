@@ -1,0 +1,74 @@
+{
+  "id": 1293869449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12699,33.63734,38.12699,33.63734",
+    "geom:latitude":33.63734,
+    "geom:longitude":38.12699,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maqha ash Shuhaymi",
+    "gn:country_code":"SY",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":167300,
+    "gn:latitude":33.63734,
+    "gn:longitude":38.12699,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Maqh\u00e1 ash Shu\u1e29aym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0647\u0649 \u0627\u0644\u0634\u062d\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maqh\u00e1 ash Sh\u0101m\u012b",
+        "Maqh\u00e1 ash Shu\u1e29aym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167300
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"291351add8fb783b47ef377670773940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1293869449,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293869449,
+    "wof:lastmodified":1537701911,
+    "wof:name":"Maqha ash Shuhaymi",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12699,
+    33.63734,
+    38.12699,
+    33.63734
+],
+  "geometry": {"coordinates":[38.12699,33.63734],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293466893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67119,36.21079,36.67119,36.21079",
+    "geom:latitude":36.21079,
+    "geom:longitude":36.67119,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dar Kuwayta",
+    "gn:country_code":"SY",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330936,
+    "gn:latitude":36.21079,
+    "gn:longitude":36.67119,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"D\u0101r Kuwayt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0643\u0648\u064a\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Kuwayt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330936
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f8604cc82665a5b7a41b38000c0b71b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1293466893,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293466893,
+    "wof:lastmodified":1537702529,
+    "wof:name":"Dar Kuwayta",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67119,
+    36.21079,
+    36.67119,
+    36.21079
+],
+  "geometry": {"coordinates":[36.67119,36.21079],"type":"Point"}
+}

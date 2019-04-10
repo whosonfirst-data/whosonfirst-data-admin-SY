@@ -1,0 +1,80 @@
+{
+  "id": 1309984429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27763,34.72297,36.27763,34.72297",
+    "geom:latitude":34.72297,
+    "geom:longitude":36.27763,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qumayri",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165715,
+    "gn:latitude":34.72297,
+    "gn:longitude":36.27763,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qumayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0645\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qmiri",
+        "Qme\u00efri",
+        "Qumayr\u012b",
+        "Qumayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165715,
+        "wk:page":"Qumayrah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"659f8711f5d681cf5a15437d5ea0bdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1309984429,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309984429,
+    "wof:lastmodified":1537701804,
+    "wof:name":"Qumayri",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27763,
+    34.72297,
+    36.27763,
+    34.72297
+],
+  "geometry": {"coordinates":[36.27763,34.72297],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310183265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26473,34.64048,36.26473,34.64048",
+    "geom:latitude":34.64048,
+    "geom:longitude":36.26473,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bahluniyah",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174011,
+    "gn:latitude":34.64048,
+    "gn:longitude":36.26473,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Bahl\u016bn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u0644\u0648\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bahlouniy\u00e9",
+        "Al Bahl\u016bn\u012byah",
+        "Bahl\u016bn\u012byah",
+        "\u0627\u0644\u0628\u0647\u0644\u0648\u0646\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174011
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2957f96c7daa43e6e27a8ae6c52213c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1310183265,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310183265,
+    "wof:lastmodified":1537702384,
+    "wof:name":"Bahluniyah",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26473,
+    34.64048,
+    36.26473,
+    34.64048
+],
+  "geometry": {"coordinates":[36.26473,34.64048],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277094511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63032,35.14026,37.63032,35.14026",
+    "geom:latitude":35.14026,
+    "geom:longitude":37.63032,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mubattan Tahmaz",
+    "gn:country_code":"SY",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420139,
+    "gn:latitude":35.14026,
+    "gn:longitude":37.63032,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Muba\u0163\u0163an \u0162ahm\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0637\u0646 \u0637\u0647\u0645\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Muba\u0163\u0163an \u0162ahm\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420139
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e39f98e72b5e29525dae2cb7aaaa6451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1277094511,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1277094511,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Mubattan Tahmaz",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63032000000001,
+    35.14026,
+    37.63032000000001,
+    35.14026
+],
+  "geometry": {"coordinates":[37.63032000000001,35.14026],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209705409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45535,36.11644,37.45535,36.11644",
+    "geom:latitude":36.11644,
+    "geom:longitude":37.45535,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qusayr al Ward",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165650,
+    "gn:latitude":36.11644,
+    "gn:longitude":37.45535,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Qu\u015fayr al Ward",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u064a\u0631 \u0627\u0644\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kse\u00efr el Ouard",
+        "Qoussa\u00efr el Ouard",
+        "Qasr el Ouard",
+        "Qa\u015fr al Ward",
+        "Qu\u015fayr al Ward"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165650
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c77e156c29b69742546a24e39e0a12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1209705409,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209705409,
+    "wof:lastmodified":1537701798,
+    "wof:name":"Qusayr al Ward",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45535,
+    36.11644,
+    37.45535,
+    36.11644
+],
+  "geometry": {"coordinates":[37.45535,36.11644],"type":"Point"}
+}

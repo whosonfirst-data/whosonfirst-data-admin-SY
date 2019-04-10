@@ -1,0 +1,100 @@
+{
+  "id": 1310486181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.40919,36.78091,38.40919,36.78091",
+    "geom:latitude":36.78091,
+    "geom:longitude":38.40919,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shaykh Jayban",
+    "gn:country_code":"SY",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172672,
+    "gn:latitude":36.78091,
+    "gn:longitude":38.40919,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Shaykh Jayb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u062c\u064a\u0628\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u062c\u0648\u0628\u0627\u0646",
+        "\u062c\u0648\u0628\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00eex Cuban"
+    ],
+    "name:kur_x_variant":[
+        "Sh\u00eax Cuban",
+        "Sh\u00eax Coban",
+        "Sh\u00eax Choban",
+        "\u0634\u064a\u062e \u062c\u0648\u0628\u0627\u0646",
+        "\u0634\u06ce\u062e \u062c\u0648\u0628\u0627\u0646",
+        "\u0634\u06ce\u062e \u062c\u06c6\u0628\u0627\u0646",
+        "\u0634\u06ce\u062e \u0686\u06c6\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Jawb\u0101n",
+        "Che\u00efkh Tchob\u00e2ne",
+        "Ash Shaykh Jawb\u0101n",
+        "Shaykh Jayb\u0101n",
+        "Shaykh Juban",
+        "Ash Shaykh J\u016bb\u0101n",
+        "Jawb\u0101n",
+        "J\u016bb\u0101n",
+        "Coban",
+        "Sh\u00eax \u00c7oban",
+        "X\u00eax \u00c7oban",
+        "\u015e\u00eax \u00c7oban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172672
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b9ae910e1c39e6ef8205fa2f46856a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1310486181,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310486181,
+    "wof:lastmodified":1537702287,
+    "wof:name":"Shaykh Jayban",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.40919,
+    36.78091,
+    38.40919,
+    36.78091
+],
+  "geometry": {"coordinates":[38.40919,36.78091],"type":"Point"}
+}

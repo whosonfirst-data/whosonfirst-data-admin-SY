@@ -1,0 +1,64 @@
+{
+  "id": 1209411093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15467,35.68307,37.15467,35.68307",
+    "geom:latitude":35.68307,
+    "geom:longitude":37.15467,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Buwaydir",
+    "gn:country_code":"SY",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8367546,
+    "gn:latitude":35.68307,
+    "gn:longitude":37.15467,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Al Buwaydir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8367546
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"427d7c2e861ae7ab5ce25359751d9f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209411093
+        }
+    ],
+    "wof:id":1209411093,
+    "wof:lastmodified":1537702554,
+    "wof:name":"Al Buwaydir",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15467,
+    35.68307,
+    37.15467,
+    35.68307
+],
+  "geometry": {"coordinates":[37.15467,35.68307],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209224231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.52958,37.02246,41.52958,37.02246",
+    "geom:latitude":37.02246,
+    "geom:longitude":41.52958,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kurd Ahwal",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420362,
+    "gn:latitude":37.02246,
+    "gn:longitude":41.52958,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Kurd A\u1e29wal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f \u0627\u062d\u0648\u0644"
+    ],
+    "name:tur_x_preferred":[
+        "Kurd A\u1e29wal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420362
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"20f00e66709fa03b65a5bcc04f88a471",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209224231
+        }
+    ],
+    "wof:id":1209224231,
+    "wof:lastmodified":1537702443,
+    "wof:name":"Kurd Ahwal",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.52958,
+    37.02246,
+    41.52958,
+    37.02246
+],
+  "geometry": {"coordinates":[41.52958,37.02246],"type":"Point"}
+}

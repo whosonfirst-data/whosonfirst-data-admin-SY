@@ -1,0 +1,78 @@
+{
+  "id": 1276426669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33606,33.26873,36.33606,33.26873",
+    "geom:latitude":33.26873,
+    "geom:longitude":36.33606,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zaghbar",
+    "gn:country_code":"SY",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166980,
+    "gn:latitude":33.26873,
+    "gn:longitude":36.33606,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Zaghbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mzar Zarhbar",
+        "Zughbur",
+        "Maz\u00e2r Zarhb\u00e2r",
+        "Maz\u0101r Zaghb\u0101r",
+        "Zaghb\u0101r",
+        "Zaghbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166980
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a616bb584ad3874ebb21e39904e5e28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1276426669,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276426669,
+    "wof:lastmodified":1537701894,
+    "wof:name":"Zaghbar",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33606,
+    33.26873,
+    36.33606,
+    33.26873
+],
+  "geometry": {"coordinates":[36.33606,33.26873],"type":"Point"}
+}

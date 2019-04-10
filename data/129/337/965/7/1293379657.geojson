@@ -1,0 +1,73 @@
+{
+  "id": 1293379657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01692,35.82971,37.01692,35.82971",
+    "geom:latitude":35.82971,
+    "geom:longitude":37.01692,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Wasitah",
+    "gn:country_code":"SY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338116,
+    "gn:latitude":35.82971,
+    "gn:longitude":37.01692,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Was\u012b\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Was\u012b\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338116
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c1875a3f7e41dd8b0fbf6ddc5256149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293379657,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293379657,
+    "wof:lastmodified":1537702529,
+    "wof:name":"Al Wasitah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01692,
+    35.82971,
+    37.01692,
+    35.82971
+],
+  "geometry": {"coordinates":[37.01692,35.82971],"type":"Point"}
+}

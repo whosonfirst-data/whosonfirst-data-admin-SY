@@ -1,0 +1,73 @@
+{
+  "id": 1276625515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95518,34.81144,35.95518,34.81144",
+    "geom:latitude":34.81144,
+    "geom:longitude":35.95518,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt ash Shaykh Salamah",
+    "gn:country_code":"SY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265490,
+    "gn:latitude":34.81144,
+    "gn:longitude":35.95518,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bayt ash Shaykh Sal\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0634\u064a\u062e \u0633\u0644\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bayt ash Shaykh Sal\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265490
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1c57ec0b31afb58efa67ab9777c609b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276625515,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276625515,
+    "wof:lastmodified":1537702500,
+    "wof:name":"Bayt ash Shaykh Salamah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95518,
+    34.81144,
+    35.95518,
+    34.81144
+],
+  "geometry": {"coordinates":[35.95518,34.81144],"type":"Point"}
+}

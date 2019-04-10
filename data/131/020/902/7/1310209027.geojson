@@ -1,0 +1,74 @@
+{
+  "id": 1310209027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68889,36.01111,40.68889,36.01111",
+    "geom:latitude":36.01111,
+    "geom:longitude":40.68889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Safyan",
+    "gn:country_code":"SY",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420946,
+    "gn:latitude":36.01111,
+    "gn:longitude":40.68889,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u015eafy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015eafy\u0101n",
+        "\u015eafiyy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420946
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d7ee298457119427bf703b07c354cd5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1310209027,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310209027,
+    "wof:lastmodified":1537702457,
+    "wof:name":"Safyan",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68889,
+    36.01110999999999,
+    40.68889,
+    36.01110999999999
+],
+  "geometry": {"coordinates":[40.68889,36.01110999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309909061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87502,35.68611,35.87502,35.68611",
+    "geom:latitude":35.68611,
+    "geom:longitude":35.87502,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat Fadil",
+    "gn:country_code":"SY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074692,
+    "gn:latitude":35.68611,
+    "gn:longitude":35.87502,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Khirbat F\u0101\u1e11il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0641\u0627\u0636\u0644"
+    ],
+    "name:und_x_variant":[
+        "Khirbat F\u0101\u1e11il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d035f5a281aab6da8b5749bc86b97f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1309909061,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309909061,
+    "wof:lastmodified":1537702590,
+    "wof:name":"Khirbat Fadil",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87502,
+    35.68611,
+    35.87502,
+    35.68611
+],
+  "geometry": {"coordinates":[35.87502,35.68611],"type":"Point"}
+}

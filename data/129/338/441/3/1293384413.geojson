@@ -1,0 +1,77 @@
+{
+  "id": 1293384413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91168,36.36056,37.91168,36.36056",
+    "geom:latitude":36.36056,
+    "geom:longitude":37.91168,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mustarihah",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173401,
+    "gn:latitude":36.36056,
+    "gn:longitude":37.91168,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mustar\u012b\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062a\u0631\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Moustar\u00eeha",
+        "Mustar\u012b\u1e29ah",
+        "Moust\u00e9riha",
+        "Moustar\u00eeha",
+        "Al Mustar\u012b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173401
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b8938fc6f86b00782a885affaa0fc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293384413,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293384413,
+    "wof:lastmodified":1537702330,
+    "wof:name":"Mustarihah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91168,
+    36.36056,
+    37.91168,
+    36.36056
+],
+  "geometry": {"coordinates":[37.91168,36.36056],"type":"Point"}
+}

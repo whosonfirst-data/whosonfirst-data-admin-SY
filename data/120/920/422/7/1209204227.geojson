@@ -1,0 +1,73 @@
+{
+  "id": 1209204227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39981,36.55702,37.39981,36.55702",
+    "geom:latitude":36.55702,
+    "geom:longitude":37.39981,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Uwaylin",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162730,
+    "gn:latitude":36.55702,
+    "gn:longitude":37.39981,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u2018Uwayl\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u064a\u0634\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0648\u064a\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aaouachiy\u00e9",
+        "Aaoue\u00efch\u00eey\u00e9",
+        "\u2018Uwaysh\u012byah",
+        "\u2018Uwayl\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162730
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"00cde4864e7988661e4e036b74b802f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209204227
+        }
+    ],
+    "wof:id":1209204227,
+    "wof:lastmodified":1537701609,
+    "wof:name":"`Uwaylin",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39981,
+    36.55702,
+    37.39981,
+    36.55702
+],
+  "geometry": {"coordinates":[37.39981,36.55702],"type":"Point"}
+}

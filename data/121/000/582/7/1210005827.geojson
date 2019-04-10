@@ -1,0 +1,76 @@
+{
+  "id": 1210005827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25251,35.38809,36.25251,35.38809",
+    "geom:latitude":35.38809,
+    "geom:longitude":36.25251,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tahunat al Halawah",
+    "gn:country_code":"SY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168367,
+    "gn:latitude":35.38809,
+    "gn:longitude":36.25251,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u0162\u0101\u1e29\u016bnat al \u1e28al\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u062d\u0648\u0646\u0629 \u0627\u0644\u062d\u0644\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kh\u00e2ne Hal\u00e2oui",
+        "Kh\u00e2ne el Hal\u00e2oui",
+        "Kh\u0101n al \u1e28al\u0101w\u012b",
+        "\u0162\u0101\u1e29\u016bnat al \u1e28al\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168367
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"45b2ca3d35c1968b642799f34eee32ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1210005827,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210005827,
+    "wof:lastmodified":1537701987,
+    "wof:name":"Tahunat al Halawah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25251,
+    35.38809000000001,
+    36.25251,
+    35.38809000000001
+],
+  "geometry": {"coordinates":[36.25251,35.38809000000001],"type":"Point"}
+}

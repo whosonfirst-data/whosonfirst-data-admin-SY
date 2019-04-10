@@ -1,0 +1,75 @@
+{
+  "id": 1277087009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92517,35.65279,35.92517,35.65279",
+    "geom:latitude":35.65279,
+    "geom:longitude":35.92517,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sefsaf",
+    "gn:country_code":"SY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172498,
+    "gn:latitude":35.65279,
+    "gn:longitude":35.92517,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Sefsaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0635\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Safs\u00e2f",
+        "A\u015f \u015eaf\u015f\u0101f",
+        "Sefsaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172498
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56408a1cbaf8fe28ae04fa665b5cdf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1277087009,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1277087009,
+    "wof:lastmodified":1537702279,
+    "wof:name":"Sefsaf",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92517,
+    35.65279,
+    35.92517,
+    35.65279
+],
+  "geometry": {"coordinates":[35.92517,35.65279],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309800427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56002,34.87993,40.56002,34.87993",
+    "geom:latitude":34.87993,
+    "geom:longitude":40.56002,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Quraybi",
+    "gn:country_code":"SY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170194,
+    "gn:latitude":34.87993,
+    "gn:longitude":40.56002,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Qurayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0628\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0631\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhre\u00efba",
+        "Qurayb\u012b",
+        "Ghuraybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170194
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d0b2a7754a808ccf792c9f05bd783241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779151,
+            "locality_id":1309800427,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1309800427,
+    "wof:lastmodified":1537702113,
+    "wof:name":"Quraybi",
+    "wof:parent_id":1108779151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56002,
+    34.87993,
+    40.56002,
+    34.87993
+],
+  "geometry": {"coordinates":[40.56002,34.87993],"type":"Point"}
+}

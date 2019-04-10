@@ -1,0 +1,68 @@
+{
+  "id": 1209524315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05033,35.85807,36.05033,35.85807",
+    "geom:latitude":35.85807,
+    "geom:longitude":36.05033,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qarah Kilisah",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166088,
+    "gn:latitude":35.85807,
+    "gn:longitude":36.05033,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Qarah Kil\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0643\u0644\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qara Kil\u00eess\u00e9",
+        "Qarah Kil\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166088
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a339755ff315ce5fea63251debf75019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209524315
+        }
+    ],
+    "wof:id":1209524315,
+    "wof:lastmodified":1537701834,
+    "wof:name":"Qarah Kilisah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05033,
+    35.85807,
+    36.05033,
+    35.85807
+],
+  "geometry": {"coordinates":[36.05033,35.85807],"type":"Point"}
+}

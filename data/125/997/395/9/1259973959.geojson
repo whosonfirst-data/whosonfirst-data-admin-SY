@@ -1,0 +1,77 @@
+{
+  "id": 1259973959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48434,36.55163,37.48434,36.55163",
+    "geom:latitude":36.55163,
+    "geom:longitude":37.48434,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall `Ayshah",
+    "gn:country_code":"SY",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163732,
+    "gn:latitude":36.55163,
+    "gn:longitude":37.48434,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tall \u2018Ayshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell Aache",
+        "Tell A\u00efch\u00e9",
+        "Tall \u2018\u0100sh",
+        "Tall \u2018Ayshah",
+        "Tall \u2018\u0100\u2019ishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163732
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f64c49b2ee237a92eb32b07ca6b7bd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1259973959,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259973959,
+    "wof:lastmodified":1537701690,
+    "wof:name":"Tall `Ayshah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48434,
+    36.55163,
+    37.48434,
+    36.55163
+],
+  "geometry": {"coordinates":[37.48434,36.55163],"type":"Point"}
+}

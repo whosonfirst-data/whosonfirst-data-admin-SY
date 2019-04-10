@@ -1,0 +1,71 @@
+{
+  "id": 1309724941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23029,35.68543,36.23029,35.68543",
+    "geom:latitude":35.68543,
+    "geom:longitude":36.23029,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamuhiyah",
+    "gn:country_code":"SY",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167364,
+    "gn:latitude":35.68543,
+    "gn:longitude":36.23029,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"M\u0101m\u016bh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e2mo\u00fbh\u00eey\u00e9",
+        "M\u0101m\u016bh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167364
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f8f28683f144bd80ce8314c32e625dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1309724941,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309724941,
+    "wof:lastmodified":1537701913,
+    "wof:name":"Mamuhiyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23029,
+    35.68543,
+    36.23029,
+    35.68543
+],
+  "geometry": {"coordinates":[36.23029,35.68543],"type":"Point"}
+}

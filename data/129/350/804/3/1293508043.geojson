@@ -1,0 +1,76 @@
+{
+  "id": 1293508043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34677,35.35407,36.34677,35.35407",
+    "geom:latitude":35.35407,
+    "geom:longitude":36.34677,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Khallah",
+    "gn:country_code":"SY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4462,
+    "gn:latitude":35.35407,
+    "gn:longitude":36.34677,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tall Khallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062e\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0627\u0644\u062a\u062a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tall at Tutun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4462
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c3214a721f953adebadf8cd18e1fcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1293508043,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293508043,
+    "wof:lastmodified":1537701543,
+    "wof:name":"Tall Khallah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34677,
+    35.35407,
+    36.34677,
+    35.35407
+],
+  "geometry": {"coordinates":[36.34677,35.35407],"type":"Point"}
+}

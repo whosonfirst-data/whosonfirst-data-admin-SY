@@ -1,0 +1,80 @@
+{
+  "id": 1259687923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.84476,36.80969,40.84476,36.80969",
+    "geom:latitude":36.80969,
+    "geom:longitude":40.84476,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bir Bazan",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171416,
+    "gn:latitude":36.80969,
+    "gn:longitude":40.84476,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012br B\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u012br B\u0101z\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0631 \u0628\u0627\u0632\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Bi\u2019r B\u0101z\u0101n"
+    ],
+    "name:und_x_variant":[
+        "B\u00eer B\u00e2z\u00e2ne",
+        "Bi\u2019r B\u0101z\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171416
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef3cfdc69825fb470880397fa811fab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1259687923,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259687923,
+    "wof:lastmodified":1537702196,
+    "wof:name":"Bir Bazan",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.84476,
+    36.80969,
+    40.84476,
+    36.80969
+],
+  "geometry": {"coordinates":[40.84476,36.80969],"type":"Point"}
+}

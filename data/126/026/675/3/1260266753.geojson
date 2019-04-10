@@ -1,0 +1,74 @@
+{
+  "id": 1260266753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36319,35.18296,36.36319,35.18296",
+    "geom:latitude":35.18296,
+    "geom:longitude":36.36319,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mashta al Laqbah",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167097,
+    "gn:latitude":35.18296,
+    "gn:longitude":36.36319,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Masht\u00e1 al Laqbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u062a\u0649 \u0627\u0644\u0644\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Machta el Laqb\u00e9",
+        "Masht\u00e1 al Laqbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167097
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13dbb0fe6ac18237c60078741baad7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1260266753,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260266753,
+    "wof:lastmodified":1537701899,
+    "wof:name":"Mashta al Laqbah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36319,
+    35.18295999999999,
+    36.36319,
+    35.18295999999999
+],
+  "geometry": {"coordinates":[36.36319,35.18295999999999],"type":"Point"}
+}

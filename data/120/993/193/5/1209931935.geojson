@@ -1,0 +1,92 @@
+{
+  "id": 1209931935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06206,36.81138,42.06206,36.81138",
+    "geom:latitude":36.81138,
+    "geom:longitude":42.06206,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Ya`rubiyah",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":383661,
+    "gn:latitude":36.81138,
+    "gn:longitude":42.06206,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Ya\u2018rub\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0639\u0631\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0643\u0648\u0686\u0643 \u0627\u0644\u0635\u063a\u064a\u0631",
+        "\u062a\u0644 \u0643\u0648\u062c\u0643 \u0635\u063a\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Tel Kochek"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0644 \u0643\u06c6\u0686\u06d5\u0643"
+    ],
+    "name:und_x_variant":[
+        "Al Ya\u2018r\u016bb\u012byah",
+        "Al Ya\u2018rub\u012byah",
+        "Tell K\u016bshik",
+        "Tell Kotchek",
+        "Tall K\u016bjik",
+        "Tall K\u016bchak",
+        "Tall K\u016bchik a\u015f \u015eagh\u012br",
+        "Tall K\u016bjik \u015eagh\u012br",
+        "Tel Ko\u00e7ek",
+        "\u062a\u0644 \u0643\u0648\u0634\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383661
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6649f82f17ff80563b29928eddd0a4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1209931935,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209931935,
+    "wof:lastmodified":1537702422,
+    "wof:name":"Al Ya`rubiyah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06206,
+    36.81138,
+    42.06206,
+    36.81138
+],
+  "geometry": {"coordinates":[42.06206,36.81138],"type":"Point"}
+}

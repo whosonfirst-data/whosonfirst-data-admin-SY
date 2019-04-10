@@ -1,0 +1,73 @@
+{
+  "id": 1327241197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.11008,36.97288,41.11008,36.97288",
+    "geom:latitude":36.97288,
+    "geom:longitude":41.11008,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Suhayr Makkah",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383749,
+    "gn:latitude":36.97288,
+    "gn:longitude":41.11008,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Suhayr Makkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u064a\u0631 \u0645\u0643\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Suhayr Makkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383749
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cac5201aceda1a3d5340577648ec0ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1327241197,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327241197,
+    "wof:lastmodified":1537702423,
+    "wof:name":"Suhayr Makkah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.11008,
+    36.97288,
+    41.11008,
+    36.97288
+],
+  "geometry": {"coordinates":[41.11008,36.97288],"type":"Point"}
+}

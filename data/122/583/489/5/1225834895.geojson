@@ -1,0 +1,73 @@
+{
+  "id": 1225834895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94082,36.23555,36.94082,36.23555",
+    "geom:latitude":36.23555,
+    "geom:longitude":36.94082,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"As Sallum",
+    "gn:country_code":"SY",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554486,
+    "gn:latitude":36.23555,
+    "gn:longitude":36.94082,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"As Sall\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "As Sall\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554486
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cb17fc497d51c788ef44913350af8876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1225834895,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225834895,
+    "wof:lastmodified":1537702630,
+    "wof:name":"As Sallum",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94082,
+    36.23555,
+    36.94082,
+    36.23555
+],
+  "geometry": {"coordinates":[36.94082,36.23555],"type":"Point"}
+}

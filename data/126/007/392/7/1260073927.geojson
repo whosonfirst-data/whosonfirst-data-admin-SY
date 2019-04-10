@@ -1,0 +1,73 @@
+{
+  "id": 1260073927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2894,34.93318,37.2894,34.93318",
+    "geom:latitude":34.93318,
+    "geom:longitude":37.2894,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu al `Alaya",
+    "gn:country_code":"SY",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2481,
+    "gn:latitude":34.93318,
+    "gn:longitude":37.2894,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ab\u016b al \u2018Al\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0639\u0644\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b al \u2018Al\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"239a11fa1cb022bbe55b7ae943cc63b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1260073927,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260073927,
+    "wof:lastmodified":1537701530,
+    "wof:name":"Abu al `Alaya",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2894,
+    34.93318,
+    37.2894,
+    34.93318
+],
+  "geometry": {"coordinates":[37.2894,34.93318],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209827121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93722,33.40278,35.93722,33.40278",
+    "geom:latitude":33.40278,
+    "geom:longitude":35.93722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baqa`sim",
+    "gn:country_code":"SY",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171820,
+    "gn:latitude":33.40278,
+    "gn:longitude":35.93722,
+    "gn:modification_date":"1995-06-07",
+    "gn:name":"Baqa`sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171820
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"62a3523d0161422801e4a556006f0679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1209827121,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1209827121,
+    "wof:lastmodified":1536372520,
+    "wof:name":"Baqa`sim",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93722,
+    33.40278,
+    35.93722,
+    33.40278
+],
+  "geometry": {"coordinates":[35.93722,33.40278],"type":"Point"}
+}

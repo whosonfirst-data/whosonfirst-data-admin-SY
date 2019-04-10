@@ -1,0 +1,70 @@
+{
+  "id": 1309900281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.47231,35.20873,40.47231,35.20873",
+    "geom:latitude":35.20873,
+    "geom:longitude":40.47231,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Khurayzah",
+    "gn:country_code":"SY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275973,
+    "gn:latitude":35.20873,
+    "gn:longitude":40.47231,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al Khurayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u064a\u0632\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275973
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8fc4ca3cbd3fede90b5211ab02c6564e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1309900281,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1309900281,
+    "wof:lastmodified":1537702521,
+    "wof:name":"Al Khurayzah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.47231,
+    35.20873,
+    40.47231,
+    35.20873
+],
+  "geometry": {"coordinates":[40.47231,35.20873],"type":"Point"}
+}

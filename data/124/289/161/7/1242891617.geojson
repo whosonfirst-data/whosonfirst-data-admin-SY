@@ -1,0 +1,82 @@
+{
+  "id": 1242891617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.12943,37.04603,42.12943,37.04603",
+    "geom:latitude":37.04603,
+    "geom:longitude":42.12943,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tulayfah",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447555,
+    "gn:latitude":37.04603,
+    "gn:longitude":42.12943,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u0162ulayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u064a\u0641\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0628\u0642\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "\u062a\u06d5\u067e\u0643\u06ce"
+    ],
+    "name:und_x_variant":[
+        "\u0162ulayfah",
+        "\u0162abqah",
+        "Tepik\u00ea",
+        "\u062a\u0628\u0643\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447555
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f9a3d66c6b5f1c07a763b01c899bc9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1242891617,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242891617,
+    "wof:lastmodified":1537702464,
+    "wof:name":"Tulayfah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.12943,
+    37.04603,
+    42.12943,
+    37.04603
+],
+  "geometry": {"coordinates":[42.12943,37.04603],"type":"Point"}
+}

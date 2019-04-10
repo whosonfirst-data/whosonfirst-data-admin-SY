@@ -1,0 +1,75 @@
+{
+  "id": 1193121573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17117,35.78422,37.17117,35.78422",
+    "geom:latitude":35.78422,
+    "geom:longitude":37.17117,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Abdat ash Shaykh",
+    "gn:country_code":"SY",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173222,
+    "gn:latitude":35.78422,
+    "gn:longitude":37.17117,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Abdat ash Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f\u0629 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Aanad\u00e2ne ech Ch\u00eeh",
+        "\u2018Anad\u0101n ash Sh\u012b\u1e29",
+        "\u2018Abdat ash Shaykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173222
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8330d5ab10b95a4004a2b03ea991e8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1193121573,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193121573,
+    "wof:lastmodified":1537702318,
+    "wof:name":"`Abdat ash Shaykh",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17117,
+    35.78422,
+    37.17117,
+    35.78422
+],
+  "geometry": {"coordinates":[37.17117,35.78422],"type":"Point"}
+}

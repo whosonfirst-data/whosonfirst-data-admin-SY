@@ -1,0 +1,67 @@
+{
+  "id": 1209294669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47282,35.54979,36.47282,35.54979",
+    "geom:latitude":35.54979,
+    "geom:longitude":36.47282,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Faqi`",
+    "gn:country_code":"SY",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556234,
+    "gn:latitude":35.54979,
+    "gn:longitude":36.47282,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Faq\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0642\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Faq\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556234
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2170d10a8262cbd7cd5c52584c8f5917",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209294669
+        }
+    ],
+    "wof:id":1209294669,
+    "wof:lastmodified":1537702640,
+    "wof:name":"Al Faqi`",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47282,
+    35.54979,
+    36.47282,
+    35.54979
+],
+  "geometry": {"coordinates":[36.47282,35.54979],"type":"Point"}
+}

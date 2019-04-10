@@ -1,0 +1,126 @@
+{
+  "id": 1360287425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68135,32.84593,35.68135,32.84593",
+    "geom:latitude":32.84593,
+    "geom:longitude":35.68135,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lawiyah",
+    "gn:country_code":"SY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1726,
+    "gn:latitude":32.84593,
+    "gn:longitude":35.68135,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"L\u0101wiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u064a\u0629 \u0648\u0627\u062f\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "L\u016bbiyat W\u0101dis",
+        "Lawiyat W\u0101dis",
+        "L\u00e2oui\u00e9",
+        "L\u0101wiyah",
+        "L\u00e2oue Ou\u00e2dis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3665c51c8171da6e6f554301ae4f28b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1360287425,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1360287425,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1360287425,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "empire_id":136253049,
+            "locality_id":1360287425,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1360287425,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1360287425,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1360287425,
+    "wof:lastmodified":1537701521,
+    "wof:name":"Lawiyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68135,
+    32.84593,
+    35.68135,
+    32.84593
+],
+  "geometry": {"coordinates":[35.68135,32.84593],"type":"Point"}
+}

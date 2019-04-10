@@ -1,0 +1,71 @@
+{
+  "id": 1226132281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03333,35.85,37.03333,35.85",
+    "geom:latitude":35.85,
+    "geom:longitude":37.03333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Uthmaniyah as Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162755,
+    "gn:latitude":35.85,
+    "gn:longitude":37.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Uthm\u0101n\u012byah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osman\u00eey\u00e9 S\u00e9rh\u00eer\u00e9",
+        "\u2018Uthm\u0101n\u012byah a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162755
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2ce8b699f6ecb27811567e438e729693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226132281,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226132281,
+    "wof:lastmodified":1537701611,
+    "wof:name":"`Uthmaniyah as Saghirah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03333,
+    35.85,
+    37.03333,
+    35.85
+],
+  "geometry": {"coordinates":[37.03333,35.85],"type":"Point"}
+}

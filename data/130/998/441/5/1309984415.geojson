@@ -1,0 +1,75 @@
+{
+  "id": 1309984415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03038,34.59394,38.03038,34.59394",
+    "geom:latitude":34.59394,
+    "geom:longitude":38.03038,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bir Umm al Qababir",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432921,
+    "gn:latitude":34.59394,
+    "gn:longitude":38.03038,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u012br Umm al Qab\u0101b\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0623\u0645 \u0627\u0644\u0642\u0628\u0627\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r Umm al Qab\u0101b\u012br",
+        "B\u012br Umm al Qab\u0101b\u012br",
+        "B\u012br Umm al Tab\u0101b\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432921
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c30a30a1029ebf4016c515e0cc80ca4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1309984415,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309984415,
+    "wof:lastmodified":1537702461,
+    "wof:name":"Bir Umm al Qababir",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03038,
+    34.59394,
+    38.03038,
+    34.59394
+],
+  "geometry": {"coordinates":[38.03038,34.59394],"type":"Point"}
+}

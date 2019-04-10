@@ -1,0 +1,76 @@
+{
+  "id": 1259597279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.25168,36.86704,41.25168,36.86704",
+    "geom:latitude":36.86704,
+    "geom:longitude":41.25168,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Sutayh",
+    "gn:country_code":"SY",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163439,
+    "gn:latitude":36.86704,
+    "gn:longitude":41.25168,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Su\u0163ay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0637\u064a\u062d"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Su\u0163ay\u1e29"
+    ],
+    "name:und_x_variant":[
+        "Tell Sta\u00efh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163439
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6a2bcc5f5bc6448b83d311aa586cd6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1259597279,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259597279,
+    "wof:lastmodified":1537701656,
+    "wof:name":"Tall Sutayh",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.25168,
+    36.86704,
+    41.25168,
+    36.86704
+],
+  "geometry": {"coordinates":[41.25168,36.86704],"type":"Point"}
+}

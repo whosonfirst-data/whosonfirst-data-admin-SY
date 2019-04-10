@@ -1,0 +1,80 @@
+{
+  "id": 1259964241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71607,36.24486,37.71607,36.24486",
+    "geom:latitude":36.24486,
+    "geom:longitude":37.71607,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm al Harmal",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":165428,
+    "gn:latitude":36.24486,
+    "gn:longitude":37.71607,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Rasm al \u1e28armal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u062d\u0631\u0645\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0633\u0645 \u0627\u0644\u062d\u0631\u0645\u0644 \u0627\u0644\u0625\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rasm el Hermel",
+        "Rasm el Harme",
+        "Rasm al Hirmil",
+        "Rasm al \u1e28armal",
+        "Rasm al \u1e28armal al Im\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165428
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"447c513650578a719395de78e2e4c994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1259964241,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259964241,
+    "wof:lastmodified":1537701786,
+    "wof:name":"Rasm al Harmal",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71607,
+    36.24486,
+    37.71607,
+    36.24486
+],
+  "geometry": {"coordinates":[37.71607,36.24486],"type":"Point"}
+}

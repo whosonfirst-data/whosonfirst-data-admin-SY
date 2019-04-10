@@ -1,0 +1,112 @@
+{
+  "id": 890449859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65199,37.07279,40.65199,37.07279",
+    "geom:latitude":37.07279,
+    "geom:longitude":40.65199,
+    "gn:country":"SY",
+    "gn:fcode":"PPLA3",
+    "gn:pop":21481,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0628\u0627\u0633\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0631\u0628\u0627\u0633\u064a\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u0534\u0561\u0580\u0562\u0561\u057d\u056b\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ee3\u723e\u5df4\u897f\u8036"
+    ],
+    "name:diq_x_preferred":[
+        "El Derbesiya"
+    ],
+    "name:dut_x_preferred":[
+        "Ad-Darbasiyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Darbasiyah"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Darbasiyah"
+    ],
+    "name:kur_x_preferred":[
+        "Dirb\u00eas\u00ee"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Darbasiyah"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0628\u0627\u0633\u06cc\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "Ad-Dirbasijja"
+    ],
+    "name:tur_x_preferred":[
+        "Darb\u0101s\u012byah"
+    ],
+    "name:unk_x_variant":[
+        "Dirbassiyeh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0628\u0627\u0633\u06cc\u06c1"
+    ],
+    "qs:name":"Ad Darb\u0101s\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170887,
+        "gp:id":1942690,
+        "qs:id":72045,
+        "wd:id":"Q2419911"
+    },
+    "wof:country":"SY",
+    "wof:created":1469052714,
+    "wof:geomhash":"01c17a5e805a50ea4824e063ce294324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":890449859,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":890449859,
+    "wof:lastmodified":1514505810,
+    "wof:name":"Ad Darb\u0101s\u012byah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:population":21481,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65199,
+    37.07279,
+    40.65199,
+    37.07279
+],
+  "geometry": {"coordinates":[40.65199,37.07279],"type":"Point"}
+}

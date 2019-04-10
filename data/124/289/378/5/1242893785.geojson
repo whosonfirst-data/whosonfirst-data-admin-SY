@@ -1,0 +1,75 @@
+{
+  "id": 1242893785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62621,33.95396,36.62621,33.95396",
+    "geom:latitude":33.95396,
+    "geom:longitude":36.62621,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ra's al `Ayn",
+    "gn:country_code":"SY",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165512,
+    "gn:latitude":33.95396,
+    "gn:longitude":36.62621,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Ra\u2019s al \u2018Ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2ss el A\u00efn",
+        "R\u00e2s el A\u00efn",
+        "Ra\u2019s al \u2018Ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165512
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a93c5bc201402c129c073eab71df00ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1242893785,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242893785,
+    "wof:lastmodified":1537701791,
+    "wof:name":"Ra's al `Ayn",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62621,
+    33.95396,
+    36.62621,
+    33.95396
+],
+  "geometry": {"coordinates":[36.62621,33.95396],"type":"Point"}
+}

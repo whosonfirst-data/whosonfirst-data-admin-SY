@@ -1,0 +1,82 @@
+{
+  "id": 1243052503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22366,36.04982,37.22366,36.04982",
+    "geom:latitude":36.04982,
+    "geom:longitude":37.22366,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ayn `Assan",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163640,
+    "gn:latitude":36.04982,
+    "gn:longitude":37.22366,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u2018Ayn \u2018Ass\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0633\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0639\u0633\u0627\u0646",
+        "\u0639\u064a\u0646 \u0639\u0633\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Tell A\u00efn Aass\u00e2ne",
+        "Tell A\u00efn Assane",
+        "Tell Aass\u00e2ne",
+        "Tall \u2018Ass\u0101n",
+        "\u2018Ayn \u2018Ass\u0101n",
+        "\u2018Ayn \u2018Ass\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163640
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fd759585faf95450e40df57fc8e27e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1243052503,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243052503,
+    "wof:lastmodified":1537701679,
+    "wof:name":"`Ayn `Assan",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22366,
+    36.04982,
+    37.22366,
+    36.04982
+],
+  "geometry": {"coordinates":[37.22366,36.04982],"type":"Point"}
+}

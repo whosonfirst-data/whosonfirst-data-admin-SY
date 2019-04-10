@@ -1,0 +1,82 @@
+{
+  "id": 1259586521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93058,35.72552,35.93058,35.72552",
+    "geom:latitude":35.72552,
+    "geom:longitude":35.93058,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt Tawuj",
+    "gn:country_code":"SY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171527,
+    "gn:latitude":35.72552,
+    "gn:longitude":35.93058,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bayt T\u0101w\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062a\u0627\u0648\u0648\u062c"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u0646\u0648\u0627\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft T\u00e2o\u00fbj",
+        "Bayt T\u0101w\u016bj",
+        "Be\u00eft Nou\u00e2ji",
+        "Be\u00eft Nou\u00e2j\u00e9",
+        "Bayt Nu\u2019\u0101jah",
+        "Bayt Naww\u0101jah",
+        "Bayt Nuw\u0101jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171527
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"34d47fe56927370b974799a40b7aca1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259586521,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259586521,
+    "wof:lastmodified":1537702205,
+    "wof:name":"Bayt Tawuj",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93058,
+    35.72552,
+    35.93058,
+    35.72552
+],
+  "geometry": {"coordinates":[35.93058,35.72552],"type":"Point"}
+}

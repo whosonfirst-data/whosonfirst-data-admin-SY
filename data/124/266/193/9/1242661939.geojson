@@ -1,0 +1,75 @@
+{
+  "id": 1242661939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22445,35.85052,37.22445,35.85052",
+    "geom:latitude":35.85052,
+    "geom:longitude":37.22445,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Arjul",
+    "gn:country_code":"SY",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172991,
+    "gn:latitude":35.85052,
+    "gn:longitude":37.22445,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Arjul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Arjel",
+        "Ardjel",
+        "Arjul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172991
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c64b1940af0098aa64555f192b8e8eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242661939,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242661939,
+    "wof:lastmodified":1537702305,
+    "wof:name":"Arjul",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22445,
+    35.85052,
+    37.22445,
+    35.85052
+],
+  "geometry": {"coordinates":[37.22445,35.85052],"type":"Point"}
+}

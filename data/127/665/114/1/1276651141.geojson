@@ -1,0 +1,78 @@
+{
+  "id": 1276651141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91977,36.65189,36.91977,36.65189",
+    "geom:latitude":36.65189,
+    "geom:longitude":36.91977,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ali Bazan",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235567,
+    "gn:latitude":36.65189,
+    "gn:longitude":36.91977,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u2018Al\u012b B\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Al\u012b N\u0101z\u0101nl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u064a \u0628\u0627\u0632\u0627\u0646\u0644\u064a",
+        "\u2018Al\u012b B\u0101z\u0101nl\u012b",
+        "\u0639\u0644\u064a \u0628\u0627\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b B\u0101z\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235567
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"761c417e45e88861d1ab8f559269a851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1276651141,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276651141,
+    "wof:lastmodified":1537702486,
+    "wof:name":"`Ali Bazan",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91977,
+    36.65189,
+    36.91977,
+    36.65189
+],
+  "geometry": {"coordinates":[36.91977,36.65189],"type":"Point"}
+}

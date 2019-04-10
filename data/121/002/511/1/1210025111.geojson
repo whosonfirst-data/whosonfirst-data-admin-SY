@@ -1,0 +1,74 @@
+{
+  "id": 1210025111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21786,35.71098,36.21786,35.71098",
+    "geom:latitude":35.71098,
+    "geom:longitude":36.21786,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ikko",
+    "gn:country_code":"SY",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169383,
+    "gn:latitude":35.71098,
+    "gn:longitude":36.21786,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ikko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ikk\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u012akk\u016b",
+        "\u0627\u064a\u0643\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169383
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"181ade898e7bf0babbafe2a758c66585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1210025111,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1210025111,
+    "wof:lastmodified":1537702062,
+    "wof:name":"Ikko",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21786,
+    35.71098,
+    36.21786,
+    35.71098
+],
+  "geometry": {"coordinates":[36.21786,35.71098],"type":"Point"}
+}

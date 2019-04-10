@@ -1,0 +1,73 @@
+{
+  "id": 1293779397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78935,33.796,36.78935,33.796",
+    "geom:latitude":33.796,
+    "geom:longitude":36.78935,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Idarah",
+    "gn:country_code":"SY",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019585,
+    "gn:latitude":33.796,
+    "gn:longitude":36.78935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Id\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0625\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Id\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019585
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"531b463bbc4cdc6483ca6701d9240219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1293779397,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293779397,
+    "wof:lastmodified":1537702478,
+    "wof:name":"Al Idarah",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78935,
+    33.796,
+    36.78935,
+    33.796
+],
+  "geometry": {"coordinates":[36.78935,33.796],"type":"Point"}
+}

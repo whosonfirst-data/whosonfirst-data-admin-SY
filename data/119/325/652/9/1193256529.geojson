@@ -1,0 +1,73 @@
+{
+  "id": 1193256529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37099,34.75682,37.37099,34.75682",
+    "geom:latitude":34.75682,
+    "geom:longitude":37.37099,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abu at Tababir",
+    "gn:country_code":"SY",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374484,
+    "gn:latitude":34.75682,
+    "gn:longitude":37.37099,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ab\u016b a\u0163 \u0162ab\u0101b\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0637\u0628\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b a\u0163 \u0162ab\u0101b\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374484
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c6b8211bad5278ee4c816674f1fb779f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1193256529,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1193256529,
+    "wof:lastmodified":1537702554,
+    "wof:name":"Abu at Tababir",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37099,
+    34.75682,
+    37.37099,
+    34.75682
+],
+  "geometry": {"coordinates":[37.37099,34.75682],"type":"Point"}
+}

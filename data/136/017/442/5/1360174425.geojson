@@ -1,0 +1,73 @@
+{
+  "id": 1360174425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3656,35.88435,37.3656,35.88435",
+    "geom:latitude":35.88435,
+    "geom:longitude":37.3656,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Magharat ash Shibli",
+    "gn:country_code":"SY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338211,
+    "gn:latitude":35.88435,
+    "gn:longitude":37.3656,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Magh\u0101rat ash Shibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u063a\u0627\u0631\u0629 \u0627\u0644\u0634\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Magh\u0101rat ash Shibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338211
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4a9b9973d381ef71d8411cf21692320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1360174425,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360174425,
+    "wof:lastmodified":1537702530,
+    "wof:name":"Magharat ash Shibli",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3656,
+    35.88435,
+    37.3656,
+    35.88435
+],
+  "geometry": {"coordinates":[37.3656,35.88435],"type":"Point"}
+}

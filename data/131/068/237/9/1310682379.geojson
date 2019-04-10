@@ -1,0 +1,73 @@
+{
+  "id": 1310682379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65856,34.84018,36.65856,34.84018",
+    "geom:latitude":34.84018,
+    "geom:longitude":36.65856,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dann Umm Babayn",
+    "gn:country_code":"SY",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432613,
+    "gn:latitude":34.84018,
+    "gn:longitude":36.65856,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Dann Umm B\u0101bayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646 \u0623\u0645 \u0628\u0627\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dann Umm B\u0101bayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432613
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9109efe4538c4448e8fb2988648358fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310682379,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310682379,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Dann Umm Babayn",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65856,
+    34.84018,
+    36.65856,
+    34.84018
+],
+  "geometry": {"coordinates":[36.65856,34.84018],"type":"Point"}
+}

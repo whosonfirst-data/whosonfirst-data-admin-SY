@@ -1,0 +1,74 @@
+{
+  "id": 1226413335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02356,34.93361,36.02356,34.93361",
+    "geom:latitude":34.93361,
+    "geom:longitude":36.02356,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ra's at Turkuman",
+    "gn:country_code":"SY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165494,
+    "gn:latitude":34.93361,
+    "gn:longitude":36.02356,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ra\u2019s at Turkum\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062a\u0631\u0643\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2s ett Tourkm\u00e2ne",
+        "Ra\u2019s at Turkum\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165494
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94c730f633747ba1f4f5bec353c0d47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226413335,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226413335,
+    "wof:lastmodified":1537701789,
+    "wof:name":"Ra's at Turkuman",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02356,
+    34.93360999999999,
+    36.02356,
+    34.93360999999999
+],
+  "geometry": {"coordinates":[36.02356,34.93360999999999],"type":"Point"}
+}

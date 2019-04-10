@@ -1,0 +1,70 @@
+{
+  "id": 1226438453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64188,36.10704,37.64188,36.10704",
+    "geom:latitude":36.10704,
+    "geom:longitude":37.64188,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zubaydah",
+    "gn:country_code":"SY",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308957,
+    "gn:latitude":36.10704,
+    "gn:longitude":37.64188,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zubaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u064a\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308957
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8fa049cec28a699ec78f736719f562fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1226438453,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226438453,
+    "wof:lastmodified":1537702523,
+    "wof:name":"Zubaydah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64188,
+    36.10704000000001,
+    37.64188,
+    36.10704000000001
+],
+  "geometry": {"coordinates":[37.64188,36.10704000000001],"type":"Point"}
+}

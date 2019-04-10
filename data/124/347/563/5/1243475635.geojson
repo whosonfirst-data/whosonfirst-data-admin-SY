@@ -1,0 +1,73 @@
+{
+  "id": 1243475635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.66331,35.54001,40.66331,35.54001",
+    "geom:latitude":35.54001,
+    "geom:longitude":40.66331,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jarbus",
+    "gn:country_code":"SY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130922,
+    "gn:latitude":35.54001,
+    "gn:longitude":40.66331,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Jarb\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Jarb\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130922
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4aa27d71e2db9515d280acba65840b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1243475635,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243475635,
+    "wof:lastmodified":1537702594,
+    "wof:name":"Jarbus",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.66331,
+    35.54000999999999,
+    40.66331,
+    35.54000999999999
+],
+  "geometry": {"coordinates":[40.66331,35.54000999999999],"type":"Point"}
+}

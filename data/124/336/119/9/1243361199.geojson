@@ -1,0 +1,82 @@
+{
+  "id": 1243361199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33934,32.63205,36.33934,32.63205",
+    "geom:latitude":32.63205,
+    "geom:longitude":36.33934,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Musayfirah",
+    "gn:country_code":"SY",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173416,
+    "gn:latitude":32.63205,
+    "gn:longitude":36.33934,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"Al Musayfirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u064a\u0641\u0631\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0435\u0439\u0444\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "El Museifire",
+        "Moussa\u00effrat",
+        "Museifre",
+        "Musayrifah",
+        "Mousseifr\u00e9",
+        "Moussa\u00effre",
+        "Al Musayfirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173416
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13e71a453dc3661d4fadf0b3fec7efa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1243361199,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1243361199,
+    "wof:lastmodified":1537702332,
+    "wof:name":"Al Musayfirah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33934,
+    32.63205,
+    36.33934,
+    32.63205
+],
+  "geometry": {"coordinates":[36.33934,32.63205],"type":"Point"}
+}

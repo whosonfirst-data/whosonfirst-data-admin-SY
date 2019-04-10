@@ -1,0 +1,70 @@
+{
+  "id": 1293669385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89872,35.74245,36.89872,35.74245",
+    "geom:latitude":35.74245,
+    "geom:longitude":36.89872,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuwayris",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556286,
+    "gn:latitude":35.74245,
+    "gn:longitude":36.89872,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kuwayris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0631\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556286
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"506bf3ab0ef241a9132239c651b22dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1293669385,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293669385,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Kuwayris",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89872,
+    35.74245,
+    36.89872,
+    35.74245
+],
+  "geometry": {"coordinates":[36.89872,35.74245],"type":"Point"}
+}

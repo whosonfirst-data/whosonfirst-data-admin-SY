@@ -1,0 +1,75 @@
+{
+  "id": 1310704847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93133,35.47568,35.93133,35.47568",
+    "geom:latitude":35.47568,
+    "geom:longitude":35.93133,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Buraykah",
+    "gn:country_code":"SY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173959,
+    "gn:latitude":35.47568,
+    "gn:longitude":35.93133,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Al Buraykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Birk\u00e9",
+        "Al Birkah",
+        "Al Buraykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aef0bf1e73743ce63f6ff43dd8d21d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1310704847,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310704847,
+    "wof:lastmodified":1537702379,
+    "wof:name":"Al Buraykah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93133,
+    35.47568,
+    35.93133,
+    35.47568
+],
+  "geometry": {"coordinates":[35.93133,35.47568],"type":"Point"}
+}

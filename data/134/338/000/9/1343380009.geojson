@@ -1,0 +1,72 @@
+{
+  "id": 1343380009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16667,36.31667,37.16667,36.31667",
+    "geom:latitude":36.31667,
+    "geom:longitude":37.16667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Sifate",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163451,
+    "gn:latitude":36.31667,
+    "gn:longitude":37.16667,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Tall Sif\u00e2te",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tell Sif\u00e2te",
+        "Tall Sif\u00e2te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163451
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7793465d2685ee432e5cbe3132361031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343380009,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343380009,
+    "wof:lastmodified":1537701658,
+    "wof:name":"Tall Sifate",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16667,
+    36.31667,
+    37.16667,
+    36.31667
+],
+  "geometry": {"coordinates":[37.16667,36.31667],"type":"Point"}
+}

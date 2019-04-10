@@ -1,0 +1,73 @@
+{
+  "id": 1242767503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88716,36.60364,36.88716,36.60364",
+    "geom:latitude":36.60364,
+    "geom:longitude":36.88716,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hallubi Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273588,
+    "gn:latitude":36.60364,
+    "gn:longitude":36.88716,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"\u1e28all\u016bb\u012b \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u0628\u064a \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28all\u016bb\u012b \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273588
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a424969030d8c82d45f1c8282ad32fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1242767503,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242767503,
+    "wof:lastmodified":1537702508,
+    "wof:name":"Hallubi Saghir",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88716,
+    36.60364000000001,
+    36.88716,
+    36.60364000000001
+],
+  "geometry": {"coordinates":[36.88716,36.60364000000001],"type":"Point"}
+}

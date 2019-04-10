@@ -1,0 +1,77 @@
+{
+  "id": 1293009419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92262,35.61308,35.92262,35.61308",
+    "geom:latitude":35.61308,
+    "geom:longitude":35.92262,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khan `Ata Allah",
+    "gn:country_code":"SY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168347,
+    "gn:latitude":35.61308,
+    "gn:longitude":35.92262,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kh\u0101n \u2018A\u0163\u0101 All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u0101n \u2018A\u0163\u0101 All\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0646 \u0639\u0637\u0627 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kh\u00e2ne Aatallah",
+        "Khane Attala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168347
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f6026a9360e97bb40fd259477fea1374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293009419,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293009419,
+    "wof:lastmodified":1537701986,
+    "wof:name":"Khan `Ata Allah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92262,
+    35.61308,
+    35.92262,
+    35.61308
+],
+  "geometry": {"coordinates":[35.92262,35.61308],"type":"Point"}
+}

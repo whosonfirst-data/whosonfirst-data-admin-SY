@@ -1,0 +1,70 @@
+{
+  "id": 1243576729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81667,32.48333,36.81667,32.48333",
+    "geom:latitude":32.48333,
+    "geom:longitude":36.81667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khirbat al Kawm",
+    "gn:country_code":"SY",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5136,
+    "gn:latitude":32.48333,
+    "gn:longitude":36.81667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khirbat al Kawm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0643\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5136
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"07e8addfb9adc14a2982fe7e678e98eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1243576729,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1243576729,
+    "wof:lastmodified":1537701553,
+    "wof:name":"Khirbat al Kawm",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81667,
+    32.48333,
+    36.81667,
+    32.48333
+],
+  "geometry": {"coordinates":[36.81667,32.48333],"type":"Point"}
+}

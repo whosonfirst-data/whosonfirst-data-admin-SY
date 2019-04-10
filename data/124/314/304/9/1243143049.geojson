@@ -1,0 +1,74 @@
+{
+  "id": 1243143049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97675,35.23632,35.97675,35.23632",
+    "geom:latitude":35.23632,
+    "geom:longitude":35.97675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ra's al Wata",
+    "gn:country_code":"SY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165500,
+    "gn:latitude":35.23632,
+    "gn:longitude":35.97675,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ra\u2019s al Wa\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0648\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2ss el Ouata",
+        "Ra\u2019s al Wa\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165500
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dbc92193a1e9a30207708f72f7f6b98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243143049,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243143049,
+    "wof:lastmodified":1537701790,
+    "wof:name":"Ra's al Wata",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97675,
+    35.23632,
+    35.97675,
+    35.23632
+],
+  "geometry": {"coordinates":[35.97675,35.23632],"type":"Point"}
+}

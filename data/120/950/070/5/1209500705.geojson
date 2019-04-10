@@ -1,0 +1,68 @@
+{
+  "id": 1209500705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36762,33.48615,36.36762,33.48615",
+    "geom:latitude":33.48615,
+    "geom:longitude":36.36762,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dayr Bahdal",
+    "gn:country_code":"SY",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170790,
+    "gn:latitude":33.48615,
+    "gn:longitude":36.36762,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dayr Ba\u1e29dal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0628\u062d\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr Bahdal",
+        "Dayr Ba\u1e29dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170790
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2638a52d66acc3ad73c7c48a5852590a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209500705
+        }
+    ],
+    "wof:id":1209500705,
+    "wof:lastmodified":1537702148,
+    "wof:name":"Dayr Bahdal",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36762,
+    33.48615,
+    36.36762,
+    33.48615
+],
+  "geometry": {"coordinates":[36.36762,33.48615],"type":"Point"}
+}

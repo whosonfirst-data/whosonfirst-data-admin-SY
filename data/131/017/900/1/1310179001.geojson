@@ -1,0 +1,73 @@
+{
+  "id": 1310179001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98286,34.85469,35.98286,34.85469",
+    "geom:latitude":34.85469,
+    "geom:longitude":35.98286,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Mukayshifani",
+    "gn:country_code":"SY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265905,
+    "gn:latitude":34.85469,
+    "gn:longitude":35.98286,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Mukayshif\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0643\u064a\u0634\u0641\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Mukayshif\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265905
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c98dc764a9ee5644eb80045ed853eee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1310179001,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310179001,
+    "wof:lastmodified":1537702500,
+    "wof:name":"Al Mukayshifani",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98285999999999,
+    34.85469000000001,
+    35.98285999999999,
+    34.85469000000001
+],
+  "geometry": {"coordinates":[35.98285999999999,34.85469000000001],"type":"Point"}
+}

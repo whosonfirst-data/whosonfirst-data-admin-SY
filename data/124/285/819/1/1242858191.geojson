@@ -1,0 +1,73 @@
+{
+  "id": 1242858191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57951,35.21022,37.57951,35.21022",
+    "geom:latitude":35.21022,
+    "geom:longitude":37.57951,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Maksar ash Shamali",
+    "gn:country_code":"SY",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420150,
+    "gn:latitude":35.21022,
+    "gn:longitude":37.57951,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Maksar ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u0633\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maksar ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420150
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ad3b85137493f0c3496dc28fb1f8ca42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242858191,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242858191,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Maksar ash Shamali",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57951,
+    35.21022,
+    37.57951,
+    35.21022
+],
+  "geometry": {"coordinates":[37.57951,35.21022],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343947699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76049,36.48064,36.76049,36.48064",
+    "geom:latitude":36.48064,
+    "geom:longitude":36.76049,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Fushah",
+    "gn:country_code":"SY",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273805,
+    "gn:latitude":36.48064,
+    "gn:longitude":36.76049,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Fus\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101wurk\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0648\u0631\u0643\u0627\u0646",
+        "\u0627\u0644\u0641\u0633\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Fus\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273805
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d107dd719468209e22ce5c1cdb6edb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343947699,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343947699,
+    "wof:lastmodified":1537702509,
+    "wof:name":"Al Fushah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76049,
+    36.48064,
+    36.76049,
+    36.48064
+],
+  "geometry": {"coordinates":[36.76049,36.48064],"type":"Point"}
+}

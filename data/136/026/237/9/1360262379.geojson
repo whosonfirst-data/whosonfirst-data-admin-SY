@@ -1,0 +1,79 @@
+{
+  "id": 1360262379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16057,35.5014,37.16057,35.5014",
+    "geom:latitude":35.5014,
+    "geom:longitude":37.16057,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khayriyah as Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168192,
+    "gn:latitude":35.5014,
+    "gn:longitude":37.16057,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Khayr\u012byah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0631\u064a\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u064a\u0631\u064a\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kha\u00efr\u00eey\u00e9 S\u00e9rh\u00eer\u00e9",
+        "Kha\u00efr\u00eey\u00e9 S\u00e9h\u00eer\u00e9",
+        "Khayr\u012byah a\u015f \u015eagh\u012brah",
+        "Khayr\u012byah \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168192
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53f81c1254133e075f0016040ae25b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1360262379,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360262379,
+    "wof:lastmodified":1537701975,
+    "wof:name":"Khayriyah as Saghirah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16057,
+    35.5014,
+    37.16057,
+    35.5014
+],
+  "geometry": {"coordinates":[37.16057,35.5014],"type":"Point"}
+}

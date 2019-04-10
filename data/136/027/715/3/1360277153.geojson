@@ -1,0 +1,74 @@
+{
+  "id": 1360277153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76953,34.74226,40.76953,34.74226",
+    "geom:latitude":34.74226,
+    "geom:longitude":40.76953,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Bahrah",
+    "gn:country_code":"SY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174010,
+    "gn:latitude":34.74226,
+    "gn:longitude":40.76953,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Ba\u1e29rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Bahra",
+        "Al Ba\u1e29rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174010
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6927663629eb3e0e3daf0bca4a4c73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1360277153,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1360277153,
+    "wof:lastmodified":1537702384,
+    "wof:name":"Al Bahrah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76953,
+    34.74225999999999,
+    40.76953,
+    34.74225999999999
+],
+  "geometry": {"coordinates":[40.76953,34.74225999999999],"type":"Point"}
+}

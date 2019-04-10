@@ -1,0 +1,79 @@
+{
+  "id": 1225933653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9345,36.04559,36.9345,36.04559",
+    "geom:latitude":36.04559,
+    "geom:longitude":36.9345,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Kammari",
+    "gn:country_code":"SY",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166160,
+    "gn:latitude":36.04559,
+    "gn:longitude":36.9345,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Kamm\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u0627\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0645\u0627\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kammari",
+        "Gomari",
+        "Qamm\u0101r\u012b",
+        "Al Kamm\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166160
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a11cb8e3f3f915431bae62bfd98a789b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1225933653,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225933653,
+    "wof:lastmodified":1537701844,
+    "wof:name":"Al Kammari",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9345,
+    36.04559,
+    36.9345,
+    36.04559
+],
+  "geometry": {"coordinates":[36.9345,36.04559],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343538503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46598,36.13902,36.46598,36.13902",
+    "geom:latitude":36.13902,
+    "geom:longitude":36.46598,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ash Shurfah",
+    "gn:country_code":"SY",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554010,
+    "gn:latitude":36.13902,
+    "gn:longitude":36.46598,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ash Shurfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0641\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554010
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7a3e546c2732e8a5f07336cd528b8d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1343538503,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343538503,
+    "wof:lastmodified":1537702629,
+    "wof:name":"Ash Shurfah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46598,
+    36.13902,
+    36.46598,
+    36.13902
+],
+  "geometry": {"coordinates":[36.46598,36.13902],"type":"Point"}
+}

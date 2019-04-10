@@ -1,0 +1,73 @@
+{
+  "id": 1327235633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73692,36.2186,40.73692,36.2186",
+    "geom:latitude":36.2186,
+    "geom:longitude":40.73692,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jalu",
+    "gn:country_code":"SY",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421001,
+    "gn:latitude":36.2186,
+    "gn:longitude":40.73692,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"J\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u0101l\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421001
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"774db7d08142126a5c8e20661a33b41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327235633,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327235633,
+    "wof:lastmodified":1537702460,
+    "wof:name":"Jalu",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73692,
+    36.2186,
+    40.73692,
+    36.2186
+],
+  "geometry": {"coordinates":[40.73692,36.2186],"type":"Point"}
+}

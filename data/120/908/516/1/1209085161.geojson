@@ -1,0 +1,67 @@
+{
+  "id": 1209085161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21125,34.93635,36.21125,34.93635",
+    "geom:latitude":34.93635,
+    "geom:longitude":36.21125,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bustan as Sawj",
+    "gn:country_code":"SY",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444418,
+    "gn:latitude":34.93635,
+    "gn:longitude":36.21125,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bust\u0101n a\u015f \u015eawj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u0635\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n a\u015f \u015eawj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444418
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8d353a42a0f3391ad134d9bac1f39195",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209085161
+        }
+    ],
+    "wof:id":1209085161,
+    "wof:lastmodified":1537702623,
+    "wof:name":"Bustan as Sawj",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21125,
+    34.93635,
+    36.21125,
+    34.93635
+],
+  "geometry": {"coordinates":[36.21125,34.93635],"type":"Point"}
+}

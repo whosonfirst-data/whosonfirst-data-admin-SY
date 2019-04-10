@@ -1,0 +1,81 @@
+{
+  "id": 1193150037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98122,35.62797,35.98122,35.62797",
+    "geom:latitude":35.62797,
+    "geom:longitude":35.98122,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ruwaysat al Qissis",
+    "gn:country_code":"SY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165278,
+    "gn:latitude":35.62797,
+    "gn:longitude":35.98122,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ruwaysat al Qiss\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0627\u0644\u0642\u0633\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0642\u0633\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Roua\u00efsset Qass\u00ees",
+        "Roua\u00efsset Kassis",
+        "Ru\u2019aysat al Qiss\u012bs",
+        "Ruwaysat al Qiss\u012bs",
+        "Ruwaysat Qiss\u012bs",
+        "Rweiset Qasis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165278
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9e11e654c4a64f6d5c8ca705e3e77f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1193150037,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1193150037,
+    "wof:lastmodified":1537701776,
+    "wof:name":"Ruwaysat al Qissis",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98122,
+    35.62797,
+    35.98122,
+    35.62797
+],
+  "geometry": {"coordinates":[35.98122,35.62797],"type":"Point"}
+}

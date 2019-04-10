@@ -1,0 +1,73 @@
+{
+  "id": 1276226563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51954,32.66967,36.51954,32.66967",
+    "geom:latitude":32.66967,
+    "geom:longitude":36.51954,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khirbat Turayfah",
+    "gn:country_code":"SY",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5123,
+    "gn:latitude":32.66967,
+    "gn:longitude":36.51954,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khirbat \u0162urayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0637\u0631\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat \u0162urayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5123
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b1c9fedb7ccd58d965409b026bfd539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1276226563,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1276226563,
+    "wof:lastmodified":1537701553,
+    "wof:name":"Khirbat Turayfah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51954,
+    32.66967,
+    36.51954,
+    32.66967
+],
+  "geometry": {"coordinates":[36.51954,32.66967],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293014915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.60043,36.18206,40.60043,36.18206",
+    "geom:latitude":36.18206,
+    "geom:longitude":40.60043,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat al Ghadir",
+    "gn:country_code":"SY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420898,
+    "gn:latitude":36.18206,
+    "gn:longitude":40.60043,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khirbat al Ghad\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u063a\u062f\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Ghad\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420898
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"33c4307f1cf93d43bb3ee273ba6d23b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293014915,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293014915,
+    "wof:lastmodified":1537702454,
+    "wof:name":"Khirbat al Ghadir",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.60043,
+    36.18206,
+    40.60043,
+    36.18206
+],
+  "geometry": {"coordinates":[40.60043,36.18206],"type":"Point"}
+}

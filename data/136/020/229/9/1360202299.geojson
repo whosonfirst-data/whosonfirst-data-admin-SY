@@ -1,0 +1,77 @@
+{
+  "id": 1360202299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45379,37.07204,41.45379,37.07204",
+    "geom:latitude":37.07204,
+    "geom:longitude":41.45379,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Jihan",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163588,
+    "gn:latitude":37.07204,
+    "gn:longitude":41.45379,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall J\u012bh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062c\u064a\u0647\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Dj\u00eehane"
+    ],
+    "name:und_x_variant":[
+        "Tell Dj\u00eehane",
+        "Tall J\u012bh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163588
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"909f99b2236f17c870ed992c5cfeda5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1360202299,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360202299,
+    "wof:lastmodified":1537701673,
+    "wof:name":"Tall Jihan",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45379000000001,
+    37.07204,
+    41.45379000000001,
+    37.07204
+],
+  "geometry": {"coordinates":[41.45379000000001,37.07204],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292994463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57193,35.27202,36.57193,35.27202",
+    "geom:latitude":35.27202,
+    "geom:longitude":36.57193,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu `Ubaydah al Jarrah",
+    "gn:country_code":"SY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556202,
+    "gn:latitude":35.27202,
+    "gn:longitude":36.57193,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ab\u016b \u2018Ubaydah al Jarr\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0639\u0628\u064a\u062f\u0629 \u0627\u0644\u062c\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u2018Ubaydah al Jarr\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556202
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a990916f88a87aa57538bd8b40f0404a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1292994463,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292994463,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Abu `Ubaydah al Jarrah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57193,
+    35.27202,
+    36.57193,
+    35.27202
+],
+  "geometry": {"coordinates":[36.57193,35.27202],"type":"Point"}
+}

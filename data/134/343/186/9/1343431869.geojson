@@ -1,0 +1,72 @@
+{
+  "id": 1343431869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0,35.0,36.0,35.0",
+    "geom:latitude":35.0,
+    "geom:longitude":36.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt al Qalih",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171609,
+    "gn:latitude":35.0,
+    "gn:longitude":36.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayt al Qal\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft el Qal\u00eeh",
+        "Bayt al Qal\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171609
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4cd45f27edfcc5c5866c641d33335d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343431869,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343431869,
+    "wof:lastmodified":1537702213,
+    "wof:name":"Bayt al Qalih",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0,
+    35.0,
+    36.0,
+    35.0
+],
+  "geometry": {"coordinates":[36.0,35.0],"type":"Point"}
+}

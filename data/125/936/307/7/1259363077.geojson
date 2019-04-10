@@ -1,0 +1,74 @@
+{
+  "id": 1259363077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02576,35.77896,37.02576,35.77896",
+    "geom:latitude":35.77896,
+    "geom:longitude":37.02576,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tuwayhinah",
+    "gn:country_code":"SY",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163078,
+    "gn:latitude":35.77896,
+    "gn:longitude":37.02576,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u0162uway\u1e29\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u064a\u062d\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Toue\u00efh\u00een\u00e9",
+        "\u0162uway\u1e29\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163078
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"41b9dc13b4289f0a34b944081e99c1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1259363077,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259363077,
+    "wof:lastmodified":1537701635,
+    "wof:name":"Tuwayhinah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02576,
+    35.77896,
+    37.02576,
+    35.77896
+],
+  "geometry": {"coordinates":[37.02576,35.77896],"type":"Point"}
+}

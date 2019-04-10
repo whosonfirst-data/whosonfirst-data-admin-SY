@@ -1,0 +1,74 @@
+{
+  "id": 1193263829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53688,33.50883,36.53688,33.50883",
+    "geom:latitude":33.50883,
+    "geom:longitude":36.53688,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard Shakarat Hijazi",
+    "gn:country_code":"SY",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346647,
+    "gn:latitude":33.50883,
+    "gn:longitude":36.53688,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ar\u1e11 Shak\u0101rat \u1e28ij\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0634\u0643\u0627\u0631\u0629 \u062d\u062c\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 Shak\u0101rat \u1e28ij\u0101z\u012b",
+        "Ar\u1e11 Shakk\u0101rat \u1e28ij\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346647
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4caae9c23d8644c3bcf659642da75bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1193263829,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1193263829,
+    "wof:lastmodified":1537702550,
+    "wof:name":"Ard Shakarat Hijazi",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53688,
+    33.50883,
+    36.53688,
+    33.50883
+],
+  "geometry": {"coordinates":[36.53688,33.50883],"type":"Point"}
+}

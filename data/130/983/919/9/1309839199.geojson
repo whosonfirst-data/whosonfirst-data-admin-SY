@@ -1,0 +1,75 @@
+{
+  "id": 1309839199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.22368,35.95719,38.22368,35.95719",
+    "geom:latitude":35.95719,
+    "geom:longitude":38.22368,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Zurayjiyah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":174310,
+    "gn:latitude":35.95719,
+    "gn:longitude":38.22368,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b Zurayj\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0632\u0631\u064a\u062c\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abou Zre\u00efj\u00eey\u00e9",
+        "Ab\u016b Zurayq\u012byah",
+        "Ab\u016b Zurayj\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174310
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa5cbe339ebbd77e48cdc85abb1d6c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1309839199,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1309839199,
+    "wof:lastmodified":1537702403,
+    "wof:name":"Abu Zurayjiyah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.22368,
+    35.95719000000001,
+    38.22368,
+    35.95719000000001
+],
+  "geometry": {"coordinates":[38.22368,35.95719000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242984797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63298,36.12103,40.63298,36.12103",
+    "geom:latitude":36.12103,
+    "geom:longitude":40.63298,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qarat al Agha",
+    "gn:country_code":"SY",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420889,
+    "gn:latitude":36.12103,
+    "gn:longitude":40.63298,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Q\u0101rat al Agh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0631\u0629 \u0627\u0644\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101rrat al Agh\u0101",
+        "Q\u0101rat al Agh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420889
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"285d32e34d3d7dca263aac805526e143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1242984797,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242984797,
+    "wof:lastmodified":1537702454,
+    "wof:name":"Qarat al Agha",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63298,
+    36.12103,
+    40.63298,
+    36.12103
+],
+  "geometry": {"coordinates":[40.63298,36.12103],"type":"Point"}
+}

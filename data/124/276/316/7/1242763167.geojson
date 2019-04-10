@@ -1,0 +1,73 @@
+{
+  "id": 1242763167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23269,33.41876,36.23269,33.41876",
+    "geom:latitude":33.41876,
+    "geom:longitude":36.23269,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bab al Baydar",
+    "gn:country_code":"SY",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412909,
+    "gn:latitude":33.41876,
+    "gn:longitude":36.23269,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"B\u0101b al Baydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0628\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b al Baydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412909
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e1af35a5e4ef839040118a29925e24ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779109,
+            "locality_id":1242763167,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242763167,
+    "wof:lastmodified":1537702565,
+    "wof:name":"Bab al Baydar",
+    "wof:parent_id":1108779109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23269000000001,
+    33.41876,
+    36.23269000000001,
+    33.41876
+],
+  "geometry": {"coordinates":[36.23269000000001,33.41876],"type":"Point"}
+}

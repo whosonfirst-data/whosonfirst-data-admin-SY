@@ -1,0 +1,76 @@
+{
+  "id": 1309824811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.685,36.395,37.685,36.395",
+    "geom:latitude":36.395,
+    "geom:longitude":37.685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb Na`san",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168920,
+    "gn:latitude":36.395,
+    "gn:longitude":37.685,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Jubb Na\u2018s\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0646\u0639\u0633\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Soubb Naass\u00e2ne",
+        "Oum Adass\u00e9",
+        "Joubb Naass\u00e2ne",
+        "Jubb Na\u2018s\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168920
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a9978f4d7021a1fd7733b0baf8b24019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1309824811,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309824811,
+    "wof:lastmodified":1537702031,
+    "wof:name":"Jubb Na`san",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.685,
+    36.395,
+    37.685,
+    36.395
+],
+  "geometry": {"coordinates":[37.685,36.395],"type":"Point"}
+}

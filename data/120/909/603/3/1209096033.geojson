@@ -1,0 +1,68 @@
+{
+  "id": 1209096033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33509,35.95376,37.33509,35.95376",
+    "geom:latitude":35.95376,
+    "geom:longitude":37.33509,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarj Fari`",
+    "gn:country_code":"SY",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164790,
+    "gn:latitude":35.95376,
+    "gn:longitude":37.33509,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sarj F\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u062c \u0641\u0627\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Sarj F\u00e2riaa",
+        "Sarj F\u0101ri\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164790
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c95106dd96da853dbabc78f4b6347ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209096033
+        }
+    ],
+    "wof:id":1209096033,
+    "wof:lastmodified":1537701753,
+    "wof:name":"Sarj Fari`",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33509,
+    35.95376,
+    37.33509,
+    35.95376
+],
+  "geometry": {"coordinates":[37.33509,35.95376],"type":"Point"}
+}

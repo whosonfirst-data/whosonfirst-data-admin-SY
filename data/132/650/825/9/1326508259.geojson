@@ -1,0 +1,74 @@
+{
+  "id": 1326508259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17635,34.69528,36.17635,34.69528",
+    "geom:latitude":34.69528,
+    "geom:longitude":36.17635,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Burj al Maksur",
+    "gn:country_code":"SY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171158,
+    "gn:latitude":34.69528,
+    "gn:longitude":36.17635,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Burj al Maks\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0645\u0643\u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Borj el Makso\u00fbr",
+        "Burj al Maks\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171158
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b7a221d99c359ae5fcb21e8ea4e0fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1326508259,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1326508259,
+    "wof:lastmodified":1537702174,
+    "wof:name":"Burj al Maksur",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17635,
+    34.69528,
+    36.17635,
+    34.69528
+],
+  "geometry": {"coordinates":[36.17635,34.69528],"type":"Point"}
+}

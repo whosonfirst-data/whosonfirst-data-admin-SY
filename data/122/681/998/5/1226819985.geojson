@@ -1,0 +1,77 @@
+{
+  "id": 1226819985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97152,34.98784,35.97152,34.98784",
+    "geom:latitude":34.98784,
+    "geom:longitude":35.97152,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zahr Matar",
+    "gn:country_code":"SY",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170962,
+    "gn:latitude":34.98784,
+    "gn:longitude":35.97152,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Z\u0327ahr Ma\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0631 \u0645\u0637\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0638\u0647\u0631 \u0645\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr Ma\u0163ar",
+        "Z\u0327ahr Ma\u0163ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170962
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dc3fa9c6d8fbcfb3391954a8b3d45cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226819985,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226819985,
+    "wof:lastmodified":1537702160,
+    "wof:name":"Zahr Matar",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97152,
+    34.98784000000001,
+    35.97152,
+    34.98784000000001
+],
+  "geometry": {"coordinates":[35.97152,34.98784000000001],"type":"Point"}
+}

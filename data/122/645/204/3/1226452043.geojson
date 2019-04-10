@@ -1,0 +1,73 @@
+{
+  "id": 1226452043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.92504,36.94345,40.92504,36.94345",
+    "geom:latitude":36.94345,
+    "geom:longitude":40.92504,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hawra`shiyah",
+    "gn:country_code":"SY",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927184,
+    "gn:latitude":36.94345,
+    "gn:longitude":40.92504,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28awra\u2018sh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0631\u0639\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awra\u2018sh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927184
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"163d3cf51da541bae0671a2fb2873661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226452043,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226452043,
+    "wof:lastmodified":1537702477,
+    "wof:name":"Hawra`shiyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.92504,
+    36.94345,
+    40.92504,
+    36.94345
+],
+  "geometry": {"coordinates":[40.92504,36.94345],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326825903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21045,35.86479,37.21045,35.86479",
+    "geom:latitude":35.86479,
+    "geom:longitude":37.21045,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jafr Mansur",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169262,
+    "gn:latitude":35.86479,
+    "gn:longitude":37.21045,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Jafr Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0641\u0631 \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jaafar Mannso\u00fbr",
+        "Ja\u2018far Man\u015f\u016br",
+        "Jafr Man\u015f\u016br",
+        "Jafr al Man\u015f\u016br",
+        "\u062c\u0641\u0631 \u0627\u0644\u0645\u0646\u0635\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169262
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3572ae93c79350ebc089508c3c565f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1326825903,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326825903,
+    "wof:lastmodified":1537702056,
+    "wof:name":"Jafr Mansur",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21045,
+    35.86479,
+    37.21045,
+    35.86479
+],
+  "geometry": {"coordinates":[37.21045,35.86479],"type":"Point"}
+}

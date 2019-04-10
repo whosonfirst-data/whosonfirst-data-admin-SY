@@ -1,0 +1,73 @@
+{
+  "id": 1225932981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56381,34.95844,37.56381,34.95844",
+    "geom:latitude":34.95844,
+    "geom:longitude":37.56381,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bustan Subayh",
+    "gn:country_code":"SY",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489,
+    "gn:latitude":34.95844,
+    "gn:longitude":37.56381,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Bust\u0101n \u015eubay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0633\u0628\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n \u015eubay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"79299efbdc477541b083e3e1fa80f1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1225932981,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1225932981,
+    "wof:lastmodified":1537701530,
+    "wof:name":"Bustan Subayh",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56381,
+    34.95844,
+    37.56381,
+    34.95844
+],
+  "geometry": {"coordinates":[37.56381,34.95844],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326542905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0888,35.37557,36.0888,35.37557",
+    "geom:latitude":35.37557,
+    "geom:longitude":36.0888,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al Mirdasiyah",
+    "gn:country_code":"SY",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168101,
+    "gn:latitude":35.37557,
+    "gn:longitude":36.0888,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Khirbat al Mird\u0101s\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0631\u062f\u0627\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Merd\u00e2ss\u00eey\u00e9",
+        "Kheurbet el Merd\u00e2ss\u00eey\u00e9",
+        "Khirbat al Mird\u0101s\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168101
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19d5d610a0362d701f7d66ea687b1caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1326542905,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1326542905,
+    "wof:lastmodified":1537701969,
+    "wof:name":"Khirbat al Mirdasiyah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0888,
+    35.37557,
+    36.0888,
+    35.37557
+],
+  "geometry": {"coordinates":[36.0888,35.37557],"type":"Point"}
+}

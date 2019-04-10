@@ -1,0 +1,68 @@
+{
+  "id": 1209619191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35683,36.90761,40.35683,36.90761",
+    "geom:latitude":36.90761,
+    "geom:longitude":40.35683,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Harmal",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163564,
+    "gn:latitude":36.90761,
+    "gn:longitude":40.35683,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tall \u1e28armal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0631\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tell Hermel",
+        "Tall \u1e28armal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163564
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b1941cc37caeb781f343705a3df10533",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209619191
+        }
+    ],
+    "wof:id":1209619191,
+    "wof:lastmodified":1537701670,
+    "wof:name":"Tall Harmal",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35683,
+    36.90761,
+    40.35683,
+    36.90761
+],
+  "geometry": {"coordinates":[40.35683,36.90761],"type":"Point"}
+}

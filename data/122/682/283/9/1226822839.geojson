@@ -1,0 +1,80 @@
+{
+  "id": 1226822839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21366,34.7925,36.21366,34.7925",
+    "geom:latitude":34.7925,
+    "geom:longitude":36.21366,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Barqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171760,
+    "gn:latitude":34.7925,
+    "gn:longitude":36.21366,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Barq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0642\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0642\u064a\u0647",
+        "\u0627\u0644\u0635\u0627\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Barq\u00eey\u00e9",
+        "Barq\u012byah",
+        "B\u0101riq\u012byah",
+        "A\u015f \u015e\u0101fiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171760
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e36010e0892ffa32ab5b3a58d98f9374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1226822839,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226822839,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barqiyah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21366,
+    34.7925,
+    36.21366,
+    34.7925
+],
+  "geometry": {"coordinates":[36.21366,34.7925],"type":"Point"}
+}

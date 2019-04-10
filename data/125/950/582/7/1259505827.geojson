@@ -1,0 +1,73 @@
+{
+  "id": 1259505827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54887,33.52401,36.54887,33.52401",
+    "geom:latitude":33.52401,
+    "geom:longitude":36.54887,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard Gharbi as Suwaydah",
+    "gn:country_code":"SY",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346671,
+    "gn:latitude":33.52401,
+    "gn:longitude":36.54887,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 Gharb\u012b as Suwaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u063a\u0631\u0628\u064a \u0627\u0644\u0633\u0648\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 Gharb\u012b as Suwaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346671
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"544b249b6da0fbff59e355fe86fe0676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1259505827,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259505827,
+    "wof:lastmodified":1537702550,
+    "wof:name":"Ard Gharbi as Suwaydah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54887,
+    33.52401,
+    36.54887,
+    33.52401
+],
+  "geometry": {"coordinates":[36.54887,33.52401],"type":"Point"}
+}

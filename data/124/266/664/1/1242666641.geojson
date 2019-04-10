@@ -1,0 +1,79 @@
+{
+  "id": 1242666641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51962,35.30566,36.51962,35.30566",
+    "geom:latitude":35.30566,
+    "geom:longitude":36.51962,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Mallah",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163503,
+    "gn:latitude":35.30566,
+    "gn:longitude":36.51962,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tall Mall\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0644\u0627\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0645\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ard Tell el Mal\u00e2h",
+        "Tall Mall\u0101\u1e29",
+        "Tall Mala\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163503,
+        "wk:page":"Tell_Malah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8936d1e5e4ecc34ae478aa804f71334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1242666641,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242666641,
+    "wof:lastmodified":1537701663,
+    "wof:name":"Tall Mallah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51962,
+    35.30566,
+    36.51962,
+    35.30566
+],
+  "geometry": {"coordinates":[36.51962,35.30566],"type":"Point"}
+}

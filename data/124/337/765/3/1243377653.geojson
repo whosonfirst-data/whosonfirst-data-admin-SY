@@ -1,0 +1,78 @@
+{
+  "id": 1243377653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.56408,36.76377,41.56408,36.76377",
+    "geom:latitude":36.76377,
+    "geom:longitude":41.56408,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall as Sirat",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163446,
+    "gn:latitude":36.76377,
+    "gn:longitude":41.56408,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall as Sir\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u0631\u0627\u0637"
+    ],
+    "name:tur_x_preferred":[
+        "Tall as Sirr\u0101\u0163"
+    ],
+    "name:und_x_variant":[
+        "Tall Sirr\u0101t",
+        "Tell Serr\u00e2te",
+        "Tall as Sir\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163446
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"01613c72a714bb6dc87b77c2eb15dbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1243377653,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243377653,
+    "wof:lastmodified":1537701657,
+    "wof:name":"Tall as Sirat",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.56408,
+    36.76377,
+    41.56408,
+    36.76377
+],
+  "geometry": {"coordinates":[41.56408,36.76377],"type":"Point"}
+}

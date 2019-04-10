@@ -1,0 +1,74 @@
+{
+  "id": 1293873277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.99423,36.73799,37.99423,36.73799",
+    "geom:latitude":36.73799,
+    "geom:longitude":37.99423,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Muflis",
+    "gn:country_code":"SY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":166790,
+    "gn:latitude":36.73799,
+    "gn:longitude":37.99423,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Muflis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0641\u0644\u0633"
+    ],
+    "name:und_x_variant":[
+        "Moufliss",
+        "Muflis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166790
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5e7f65d583d5e74a4720af7a150358e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1293873277,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293873277,
+    "wof:lastmodified":1537701879,
+    "wof:name":"Muflis",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.99423,
+    36.73799,
+    37.99423,
+    36.73799
+],
+  "geometry": {"coordinates":[37.99423,36.73799],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209027911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41926,35.4186,39.41926,35.4186",
+    "geom:latitude":35.4186,
+    "geom:longitude":39.41926,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shujayri",
+    "gn:country_code":"SY",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4150,
+    "gn:latitude":35.4186,
+    "gn:longitude":39.41926,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Shujayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062c\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shujayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4150
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"83590633181097713c301fe1a9d5bcaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209027911
+        }
+    ],
+    "wof:id":1209027911,
+    "wof:lastmodified":1537701535,
+    "wof:name":"Shujayri",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41926,
+    35.4186,
+    39.41926,
+    35.4186
+],
+  "geometry": {"coordinates":[39.41926,35.4186],"type":"Point"}
+}

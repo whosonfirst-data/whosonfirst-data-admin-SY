@@ -1,0 +1,77 @@
+{
+  "id": 1209987309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18998,34.92751,36.18998,34.92751",
+    "geom:latitude":34.92751,
+    "geom:longitude":36.18998,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Miraj",
+    "gn:country_code":"SY",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166845,
+    "gn:latitude":34.92751,
+    "gn:longitude":36.18998,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mir\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mr\u00e2j"
+    ],
+    "name:ara_x_variant":[
+        "Mir\u0101j",
+        "\u0645\u0631\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Mr\u00e2j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166845
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d713532932e7e2f3feb2a4ff775b0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1209987309,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1209987309,
+    "wof:lastmodified":1537701883,
+    "wof:name":"Miraj",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18998,
+    34.92751,
+    36.18998,
+    34.92751
+],
+  "geometry": {"coordinates":[36.18998,34.92751],"type":"Point"}
+}

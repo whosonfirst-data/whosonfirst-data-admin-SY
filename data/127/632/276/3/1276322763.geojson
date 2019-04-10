@@ -1,0 +1,80 @@
+{
+  "id": 1276322763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57577,35.20523,36.57577,35.20523",
+    "geom:latitude":35.20523,
+    "geom:longitude":36.57577,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Wa`r Ma`arrzaf",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4422,
+    "gn:latitude":35.20523,
+    "gn:longitude":36.57577,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Wa\u2018r Ma\u2018arrz\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0639\u0631 \u0645\u0639\u0631\u0632\u0627\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0639\u0631 \u0645\u0639\u0632\u0648\u0641\u0629",
+        "\u0648\u0639\u0631 \u0645\u0639\u0631 \u0632\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Wa\u2018r Ma\u2018arz\u0101f",
+        "Wa\u2018r Ma\u2018arrz\u0101f",
+        "Wa\u2018r Ma\u2018arr Z\u0101f",
+        "Wa\u2018r Ma\u2018azz\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4422
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1cc72ca546e730b9898ff03052e0d318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1276322763,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276322763,
+    "wof:lastmodified":1537701541,
+    "wof:name":"Wa`r Ma`arrzaf",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57577,
+    35.20523,
+    36.57577,
+    35.20523
+],
+  "geometry": {"coordinates":[36.57577,35.20523],"type":"Point"}
+}

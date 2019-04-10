@@ -1,0 +1,80 @@
+{
+  "id": 1259792557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95193,35.82439,35.95193,35.82439",
+    "geom:latitude":35.82439,
+    "geom:longitude":35.95193,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qastal Ma`af",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":165940,
+    "gn:latitude":35.82439,
+    "gn:longitude":35.95193,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Qas\u0163al Ma\u2018\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0633\u0637\u0644 \u0645\u0639\u0627\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0633\u0637\u0644 \u0645\u0639\u0641",
+        "\u0642\u0633\u0637\u0644 \u0627\u0644\u0645\u0639\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Qas\u0163al Ma\u2018\u0101f",
+        "Qas\u0163al Ma\u2018f",
+        "Qas\u0163al al Ma\u2018\u0101f",
+        "Qastal Maaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165940
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c5221b3345484d1ec1d1a5a3d093066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259792557,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259792557,
+    "wof:lastmodified":1537701822,
+    "wof:name":"Qastal Ma`af",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95193,
+    35.82439,
+    35.95193,
+    35.82439
+],
+  "geometry": {"coordinates":[35.95193,35.82439],"type":"Point"}
+}

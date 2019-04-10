@@ -1,0 +1,70 @@
+{
+  "id": 1243343573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51915,35.79476,36.51915,35.79476",
+    "geom:latitude":35.79476,
+    "geom:longitude":36.51915,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Jannah",
+    "gn:country_code":"SY",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272539,
+    "gn:latitude":35.79476,
+    "gn:longitude":36.51915,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kafr Jannah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062c\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272539
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"44c5f7abf72d6691075d32db4cef4058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1243343573,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243343573,
+    "wof:lastmodified":1537702507,
+    "wof:name":"Kafr Jannah",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51915,
+    35.79476,
+    36.51915,
+    35.79476
+],
+  "geometry": {"coordinates":[36.51915,35.79476],"type":"Point"}
+}

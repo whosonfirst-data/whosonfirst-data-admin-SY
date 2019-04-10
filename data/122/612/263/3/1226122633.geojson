@@ -1,0 +1,75 @@
+{
+  "id": 1226122633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58772,35.82355,36.58772,35.82355",
+    "geom:latitude":35.82355,
+    "geom:longitude":36.58772,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Najd",
+    "gn:country_code":"SY",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168657,
+    "gn:latitude":35.82355,
+    "gn:longitude":36.58772,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr Najd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0646\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafer Najed",
+        "Kafr Najed",
+        "Kafr Najd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168657
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3dc14e61fbedcb305016f5fa3aa3828a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1226122633,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226122633,
+    "wof:lastmodified":1537702010,
+    "wof:name":"Kafr Najd",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58772,
+    35.82355,
+    36.58772,
+    35.82355
+],
+  "geometry": {"coordinates":[36.58772,35.82355],"type":"Point"}
+}

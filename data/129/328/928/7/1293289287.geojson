@@ -1,0 +1,77 @@
+{
+  "id": 1293289287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.399,36.13382,37.399,36.13382",
+    "geom:latitude":36.13382,
+    "geom:longitude":37.399,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Azizat `Ayn Sabil",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166013,
+    "gn:latitude":36.13382,
+    "gn:longitude":37.399,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u2018Az\u012bzat \u2018Ayn S\u0101bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u0632\u0629 \u0639\u064a\u0646 \u0633\u0627\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Garoutiy\u00e9",
+        "Q\u00e2ro\u00fbt\u00eey\u00e9",
+        "Q\u0101r\u016b\u0163\u012byah",
+        "\u2018Az\u012bzat \u2018Ayn S\u0101bil",
+        "\u2018Arn\u012bzat \u2018Ayn S\u0101bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166013
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f300c721daa68d42b6e052139cbc0a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293289287,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293289287,
+    "wof:lastmodified":1537701826,
+    "wof:name":"`Azizat `Ayn Sabil",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.399,
+    36.13382,
+    37.399,
+    36.13382
+],
+  "geometry": {"coordinates":[37.399,36.13382],"type":"Point"}
+}

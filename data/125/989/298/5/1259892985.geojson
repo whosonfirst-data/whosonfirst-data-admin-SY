@@ -1,0 +1,81 @@
+{
+  "id": 1259892985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87603,35.54402,35.87603,35.54402",
+    "geom:latitude":35.54402,
+    "geom:longitude":35.87603,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sitt Khiris",
+    "gn:country_code":"SY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164064,
+    "gn:latitude":35.54402,
+    "gn:longitude":35.87603,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Sitt Kh\u012bris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sitt Kh\u012bris"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u062a \u062e\u064a\u0631\u0633",
+        "\u0633\u062a\u062e\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Set Rher\u00e9s",
+        "Sitt Kh\u00eeress",
+        "Sitt Khurays",
+        "Stakhris",
+        "Sittkhurays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164064
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1271575a9091271dd7b5da3d8a8fc10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259892985,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259892985,
+    "wof:lastmodified":1537701713,
+    "wof:name":"Sitt Khiris",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87603,
+    35.54402,
+    35.87603,
+    35.54402
+],
+  "geometry": {"coordinates":[35.87603,35.54402],"type":"Point"}
+}

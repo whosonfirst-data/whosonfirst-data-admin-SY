@@ -1,0 +1,72 @@
+{
+  "id": 1326518193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75,34.76667,38.75,34.76667",
+    "geom:latitude":34.76667,
+    "geom:longitude":38.75,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qubbat Arak",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162274,
+    "gn:latitude":34.76667,
+    "gn:longitude":38.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qubbat Arak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qobbet R\u00e9ka",
+        "Qubbat Arak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162274
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71fa8464796880d30f9f0e689654af20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1326518193,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1326518193,
+    "wof:lastmodified":1537701582,
+    "wof:name":"Qubbat Arak",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75,
+    34.76667,
+    38.75,
+    34.76667
+],
+  "geometry": {"coordinates":[38.75,34.76667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276569211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38461,35.25884,36.38461,35.25884",
+    "geom:latitude":35.25884,
+    "geom:longitude":36.38461,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Salhab",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":163470,
+    "gn:latitude":35.25884,
+    "gn:longitude":36.38461,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tall Sal\u1e29ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0644\u062d\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644\u0633\u0644\u062d\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tell Salhab",
+        "Tall Sal\u1e29ab",
+        "Tallsal\u1e29ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163470,
+        "wk:page":"Tell_Salhab"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fecc56af6e313a8b425c8ddf0ff9ac4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1276569211,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276569211,
+    "wof:lastmodified":1537701660,
+    "wof:name":"Tall Salhab",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38461,
+    35.25884,
+    36.38461,
+    35.25884
+],
+  "geometry": {"coordinates":[36.38461,35.25884],"type":"Point"}
+}

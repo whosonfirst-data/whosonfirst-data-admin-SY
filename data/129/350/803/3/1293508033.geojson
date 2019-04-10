@@ -1,0 +1,74 @@
+{
+  "id": 1293508033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10533,35.4173,37.10533,35.4173",
+    "geom:latitude":35.4173,
+    "geom:longitude":37.10533,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Abb al Khaznah",
+    "gn:country_code":"SY",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174677,
+    "gn:latitude":35.4173,
+    "gn:longitude":37.10533,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Abb al Khaznah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628 \u0627\u0644\u062e\u0632\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aabb el Khazn\u00e9",
+        "\u2018Abb al Khaznah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174677
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cefb2da7b732f8863fa291e8f2a7ea3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293508033,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293508033,
+    "wof:lastmodified":1537702419,
+    "wof:name":"`Abb al Khaznah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10533,
+    35.4173,
+    37.10533,
+    35.4173
+],
+  "geometry": {"coordinates":[37.10533,35.4173],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310596125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09857,36.82416,38.09857,36.82416",
+    "geom:latitude":36.82416,
+    "geom:longitude":38.09857,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hajji Isma`il",
+    "gn:country_code":"SY",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170080,
+    "gn:latitude":36.82416,
+    "gn:longitude":38.09857,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u1e28\u0101jj\u012b Ism\u0101\u2018\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u062c\u064a \u0627\u0633\u0645\u0627\u0639\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u062c\u064a \u0627\u0633\u0645\u0627\u0639\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101jj\u012b Ism\u0101\u2018\u012bl",
+        "\u1e28ajj\u012b Ism\u0101\u2018\u012bl",
+        "Hajji Isma\u2018il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170080
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8ae221ed66d22fe4312dd26f2495db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1310596125,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310596125,
+    "wof:lastmodified":1537702107,
+    "wof:name":"Hajji Isma`il",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09857,
+    36.82416,
+    38.09857,
+    36.82416
+],
+  "geometry": {"coordinates":[38.09857,36.82416],"type":"Point"}
+}

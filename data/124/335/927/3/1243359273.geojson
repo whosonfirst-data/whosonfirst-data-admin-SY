@@ -1,0 +1,76 @@
+{
+  "id": 1243359273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.60634,36.59898,38.60634,36.59898",
+    "geom:latitude":36.59898,
+    "geom:longitude":38.60634,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shaykh Qamar",
+    "gn:country_code":"SY",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172599,
+    "gn:latitude":36.59898,
+    "gn:longitude":38.60634,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Shaykh Qamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0642\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Che\u00efkh Qamar",
+        "Ash Shaykh Qamar",
+        "Shaykh Qamar",
+        "Shaykh Qamaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172599
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"41db1100a655037fe71eaa5210675b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1243359273,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243359273,
+    "wof:lastmodified":1537702285,
+    "wof:name":"Shaykh Qamar",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.60634,
+    36.59898,
+    38.60634,
+    36.59898
+],
+  "geometry": {"coordinates":[38.60634,36.59898],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226729905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44493,35.73299,36.44493,35.73299",
+    "geom:latitude":35.73299,
+    "geom:longitude":36.44493,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Anab",
+    "gn:country_code":"SY",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173224,
+    "gn:latitude":35.73299,
+    "gn:longitude":36.44493,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Anab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0646\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173224
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"744509474181c48dbbcd80392df4552b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1226729905,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226729905,
+    "wof:lastmodified":1537702319,
+    "wof:name":"Anab",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44493,
+    35.73299,
+    36.44493,
+    35.73299
+],
+  "geometry": {"coordinates":[36.44493,35.73299],"type":"Point"}
+}

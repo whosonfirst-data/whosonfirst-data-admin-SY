@@ -1,0 +1,73 @@
+{
+  "id": 1310391123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51782,33.36933,36.51782,33.36933",
+    "geom:latitude":33.36933,
+    "geom:longitude":36.51782,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"As Sihrah",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412561,
+    "gn:latitude":33.36933,
+    "gn:longitude":36.51782,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"As Si\u1e29rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062d\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Si\u1e29rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412561
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b107ac5982b0581166bd86bb58efa404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1310391123,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310391123,
+    "wof:lastmodified":1537702563,
+    "wof:name":"As Sihrah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51782,
+    33.36933,
+    36.51782,
+    33.36933
+],
+  "geometry": {"coordinates":[36.51782,33.36933],"type":"Point"}
+}

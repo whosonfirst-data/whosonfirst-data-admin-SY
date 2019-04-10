@@ -1,0 +1,74 @@
+{
+  "id": 1310522687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31663,35.27689,40.31663,35.27689",
+    "geom:latitude":35.27689,
+    "geom:longitude":40.31663,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"At Tabiyah",
+    "gn:country_code":"SY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172358,
+    "gn:latitude":35.27689,
+    "gn:longitude":40.31663,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"A\u0163 \u0162\u0101biyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0627\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162\u0101biyah",
+        "A\u0163 \u0162\u0101b\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172358
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"34095a0c34d89d2eb30f18b34b72d9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1310522687,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1310522687,
+    "wof:lastmodified":1537702269,
+    "wof:name":"At Tabiyah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31663,
+    35.27689,
+    40.31663,
+    35.27689
+],
+  "geometry": {"coordinates":[40.31663,35.27689],"type":"Point"}
+}

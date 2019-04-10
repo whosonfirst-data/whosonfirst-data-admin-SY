@@ -1,0 +1,80 @@
+{
+  "id": 1344141303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69806,36.78454,36.69806,36.78454",
+    "geom:latitude":36.78454,
+    "geom:longitude":36.69806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ath Thalathiyah",
+    "gn:country_code":"SY",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164874,
+    "gn:latitude":36.78454,
+    "gn:longitude":36.69806,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ath Thal\u0101th\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u0644\u0627\u062b\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sm\u00e2lek",
+        "Semalek",
+        "Sam\u0101lik",
+        "Ath Thal\u0101th\u012byah",
+        "Ath Thul\u0101th\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d931eb14f1d22b2a8a528d7d6625d575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1344141303,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344141303,
+    "wof:lastmodified":1537701758,
+    "wof:name":"Ath Thalathiyah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69806,
+    36.78454,
+    36.69806,
+    36.78454
+],
+  "geometry": {"coordinates":[36.69806,36.78454],"type":"Point"}
+}

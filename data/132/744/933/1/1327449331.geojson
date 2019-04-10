@@ -1,0 +1,73 @@
+{
+  "id": 1327449331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88553,35.79857,40.88553,35.79857",
+    "geom:latitude":35.79857,
+    "geom:longitude":40.88553,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sarjin",
+    "gn:country_code":"SY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275302,
+    "gn:latitude":35.79857,
+    "gn:longitude":40.88553,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Sarj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u062c\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sarj\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275302
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b81102a1fae2412eed865c3a56e870fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327449331,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327449331,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Sarjin",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88553,
+    35.79857,
+    40.88553,
+    35.79857
+],
+  "geometry": {"coordinates":[40.88553,35.79857],"type":"Point"}
+}

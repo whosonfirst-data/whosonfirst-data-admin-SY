@@ -1,0 +1,73 @@
+{
+  "id": 1259894193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.06385,36.08834,41.06385,36.08834",
+    "geom:latitude":36.08834,
+    "geom:longitude":41.06385,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Farram",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595782,
+    "gn:latitude":36.08834,
+    "gn:longitude":41.06385,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Farr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Farr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595782
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e7c9437575272dd0b59277df92ebcdf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259894193,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259894193,
+    "wof:lastmodified":1537702580,
+    "wof:name":"Farram",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.06385,
+    36.08834,
+    41.06385,
+    36.08834
+],
+  "geometry": {"coordinates":[41.06385,36.08834],"type":"Point"}
+}

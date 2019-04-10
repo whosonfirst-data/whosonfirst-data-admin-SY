@@ -1,0 +1,75 @@
+{
+  "id": 1226548579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92591,35.87833,35.92591,35.87833",
+    "geom:latitude":35.87833,
+    "geom:longitude":35.92591,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baghjah Ghaz",
+    "gn:country_code":"SY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171950,
+    "gn:latitude":35.87833,
+    "gn:longitude":35.92591,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Baghjah Gh\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u063a\u062c\u0647 \u063a\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Barhtch\u00e9 Rh\u00e2z",
+        "Baghjah Gh\u0101z",
+        "Buqjat Gh\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171950
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"30c69fc7f85fdbefe109d114045788c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226548579,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226548579,
+    "wof:lastmodified":1537702237,
+    "wof:name":"Baghjah Ghaz",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92590999999999,
+    35.87833,
+    35.92590999999999,
+    35.87833
+],
+  "geometry": {"coordinates":[35.92590999999999,35.87833],"type":"Point"}
+}

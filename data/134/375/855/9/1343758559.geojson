@@ -1,0 +1,76 @@
+{
+  "id": 1343758559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02102,36.2305,38.02102,36.2305",
+    "geom:latitude":36.2305,
+    "geom:longitude":38.02102,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khafsah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168418,
+    "gn:latitude":36.2305,
+    "gn:longitude":38.02102,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Khafsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hafse Keb\u012br",
+        "Khafsah Kab\u012br",
+        "Khafr\u00e9 K\u00e9bir\u00e9",
+        "Khafs\u00e9",
+        "Khafs\u00e9 el K\u00e9b\u00eer\u00e9",
+        "Khafsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168418
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f333cff38d32c4d117c362674213bd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343758559,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343758559,
+    "wof:lastmodified":1537701990,
+    "wof:name":"Khafsah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02102,
+    36.2305,
+    38.02102,
+    36.2305
+],
+  "geometry": {"coordinates":[38.02102,36.2305],"type":"Point"}
+}

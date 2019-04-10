@@ -1,0 +1,79 @@
+{
+  "id": 1226221201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2183,35.16906,36.2183,35.16906",
+    "geom:latitude":35.16906,
+    "geom:longitude":36.2183,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Umm Tarzi",
+    "gn:country_code":"SY",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165538,
+    "gn:latitude":35.16906,
+    "gn:longitude":36.2183,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Umm Tarz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062a\u0631\u0632\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0627\u0645 \u062a\u0631\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "R\u0101m Tarz\u012b",
+        "Umm Tarz\u012b",
+        "Umm Taraz\u012b",
+        "R\u0101m Tarzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165538
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe9706972079fa1dd91951d458ad2687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226221201,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226221201,
+    "wof:lastmodified":1537701792,
+    "wof:name":"Umm Tarzi",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2183,
+    35.16905999999999,
+    36.2183,
+    35.16905999999999
+],
+  "geometry": {"coordinates":[36.2183,35.16905999999999],"type":"Point"}
+}

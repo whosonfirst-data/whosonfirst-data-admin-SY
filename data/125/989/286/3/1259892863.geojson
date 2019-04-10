@@ -1,0 +1,74 @@
+{
+  "id": 1259892863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91066,35.53808,35.91066,35.53808",
+    "geom:latitude":35.53808,
+    "geom:longitude":35.91066,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dabba",
+    "gn:country_code":"SY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171025,
+    "gn:latitude":35.53808,
+    "gn:longitude":35.91066,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Dabb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dabb\u0101",
+        "Daba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171025
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87e42c02c2a557dffa2d5de36f6363e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259892863,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259892863,
+    "wof:lastmodified":1537702165,
+    "wof:name":"Dabba",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91066,
+    35.53808,
+    35.91066,
+    35.53808
+],
+  "geometry": {"coordinates":[35.91066,35.53808],"type":"Point"}
+}

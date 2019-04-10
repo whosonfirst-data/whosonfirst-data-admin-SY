@@ -1,0 +1,77 @@
+{
+  "id": 1293474371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62819,36.33559,37.62819,36.33559",
+    "geom:latitude":36.33559,
+    "geom:longitude":37.62819,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Jabbar",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174480,
+    "gn:latitude":36.33559,
+    "gn:longitude":37.62819,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ab\u016b Jabb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062c\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Kay\u00e2r",
+        "Abou Jebb\u00e2r Serh\u00eere",
+        "Abou Djebbar Sghir",
+        "Ab\u016b Jabb\u0101r a\u015f \u015eagh\u012brah",
+        "Ab\u016b Jabb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174480
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7e61e6d3ad56b7972fa2572752d40190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293474371,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293474371,
+    "wof:lastmodified":1537702410,
+    "wof:name":"Abu Jabbar",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62819,
+    36.33559,
+    37.62819,
+    36.33559
+],
+  "geometry": {"coordinates":[37.62819,36.33559],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343674569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17875,35.60938,36.17875,35.60938",
+    "geom:latitude":35.60938,
+    "geom:longitude":36.17875,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luqman",
+    "gn:country_code":"SY",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167645,
+    "gn:latitude":35.60938,
+    "gn:longitude":36.17875,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Luqm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Luqm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0642\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Loqm\u00e2n\u00e9",
+        "Luqm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167645
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42cd556917ba14dbcadcfb26df59a1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343674569,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343674569,
+    "wof:lastmodified":1537701930,
+    "wof:name":"Luqman",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17875,
+    35.60938,
+    36.17875,
+    35.60938
+],
+  "geometry": {"coordinates":[36.17875,35.60938],"type":"Point"}
+}

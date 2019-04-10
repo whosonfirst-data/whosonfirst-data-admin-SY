@@ -1,0 +1,74 @@
+{
+  "id": 1310199523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68048,35.57791,40.68048,35.57791",
+    "geom:latitude":35.57791,
+    "geom:longitude":40.68048,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tabarayya",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275472,
+    "gn:latitude":35.57791,
+    "gn:longitude":40.68048,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u0162abarayy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0628\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0162abarayy\u0101",
+        "\u0162abriy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275472
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1675d65cf9b02c64b7a1bb4acc45e088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1310199523,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1310199523,
+    "wof:lastmodified":1537702519,
+    "wof:name":"Tabarayya",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68048,
+    35.57791,
+    40.68048,
+    35.57791
+],
+  "geometry": {"coordinates":[40.68048,35.57791],"type":"Point"}
+}

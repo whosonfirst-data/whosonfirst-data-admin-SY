@@ -1,0 +1,78 @@
+{
+  "id": 1242965913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36207,32.97174,36.36207,32.97174",
+    "geom:latitude":32.97174,
+    "geom:longitude":36.36207,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jaddil",
+    "gn:country_code":"SY",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169294,
+    "gn:latitude":32.97174,
+    "gn:longitude":36.36207,
+    "gn:modification_date":"2014-01-11",
+    "gn:name":"Jaddil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0434\u0434\u0430\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Jedl",
+        "Jaddel",
+        "Jaddil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169294
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"808f1ed653f6ef12b0dd67b800b52173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1242965913,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1242965913,
+    "wof:lastmodified":1537702058,
+    "wof:name":"Jaddil",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36207,
+    32.97174,
+    36.36207,
+    32.97174
+],
+  "geometry": {"coordinates":[36.36207,32.97174],"type":"Point"}
+}

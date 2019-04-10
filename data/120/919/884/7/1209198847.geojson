@@ -1,0 +1,68 @@
+{
+  "id": 1209198847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19572,36.05204,37.19572,36.05204",
+    "geom:latitude":36.05204,
+    "geom:longitude":37.19572,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm Bakru",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165380,
+    "gn:latitude":36.05204,
+    "gn:longitude":37.19572,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Rasm Bakr\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0628\u0643\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Rasm Bakrou",
+        "Rasm Bakr\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165380
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c8d3eb78e9f09042a0b8f6d5753a8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209198847
+        }
+    ],
+    "wof:id":1209198847,
+    "wof:lastmodified":1537701782,
+    "wof:name":"Rasm Bakru",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19572,
+    36.05204000000001,
+    37.19572,
+    36.05204000000001
+],
+  "geometry": {"coordinates":[37.19572,36.05204000000001],"type":"Point"}
+}

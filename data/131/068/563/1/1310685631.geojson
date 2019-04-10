@@ -1,0 +1,73 @@
+{
+  "id": 1310685631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27,35.80556,37.27,35.80556",
+    "geom:latitude":35.80556,
+    "geom:longitude":37.27,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shuwaykhat al `Ib",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338275,
+    "gn:latitude":35.80556,
+    "gn:longitude":37.27,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Shuwaykhat al \u2018\u012ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u062e\u0629 \u0627\u0644\u0639\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Shuwaykhat al \u2018\u012ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338275
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2c8446540a701b96e136c5986eaa30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310685631,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310685631,
+    "wof:lastmodified":1537702531,
+    "wof:name":"Shuwaykhat al `Ib",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27,
+    35.80556,
+    37.27,
+    35.80556
+],
+  "geometry": {"coordinates":[37.27,35.80556],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242765787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34336,34.80246,37.34336,34.80246",
+    "geom:latitude":34.80246,
+    "geom:longitude":37.34336,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Unq al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162806,
+    "gn:latitude":34.80246,
+    "gn:longitude":37.34336,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u2018Unq al Haw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0642 \u0627\u0644\u0647\u0648\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Unq al Haw\u0101\u2019",
+        "\u2018Unq al Haw\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162806
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"071839f0de790519091a03c2d902cda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1242765787,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242765787,
+    "wof:lastmodified":1537701616,
+    "wof:name":"`Unq al Hawa",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34336,
+    34.80246,
+    37.34336,
+    34.80246
+],
+  "geometry": {"coordinates":[37.34336,34.80246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209705415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2971,36.52084,37.2971,36.52084",
+    "geom:latitude":36.52084,
+    "geom:longitude":37.2971,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Ghaylaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152474,
+    "gn:latitude":36.52084,
+    "gn:longitude":37.2971,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Al Ghayl\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u064a\u0644\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ghayl\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152474
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"744fe906c9afdf0116cc7498276ad12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1209705415,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209705415,
+    "wof:lastmodified":1537702596,
+    "wof:name":"Al Ghaylaniyah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2971,
+    36.52084,
+    37.2971,
+    36.52084
+],
+  "geometry": {"coordinates":[37.2971,36.52084],"type":"Point"}
+}

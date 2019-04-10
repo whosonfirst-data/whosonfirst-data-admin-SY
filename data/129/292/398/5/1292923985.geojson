@@ -1,0 +1,75 @@
+{
+  "id": 1292923985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91457,35.36726,36.91457,35.36726",
+    "geom:latitude":35.36726,
+    "geom:longitude":36.91457,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tulaysiyah",
+    "gn:country_code":"SY",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163154,
+    "gn:latitude":35.36726,
+    "gn:longitude":36.91457,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u0162ulays\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u064a\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tle\u00efss\u00eey\u00e9",
+        "Tlays\u012byih",
+        "\u0162ulays\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"01c698bb8dc5e7521bf07f7940d7b3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1292923985,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292923985,
+    "wof:lastmodified":1537701640,
+    "wof:name":"Tulaysiyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91457,
+    35.36725999999999,
+    36.91457,
+    35.36725999999999
+],
+  "geometry": {"coordinates":[36.91457,35.36725999999999],"type":"Point"}
+}

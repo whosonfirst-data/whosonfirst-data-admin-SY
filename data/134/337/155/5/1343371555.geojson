@@ -1,0 +1,80 @@
+{
+  "id": 1343371555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12441,35.43773,36.12441,35.43773",
+    "geom:latitude":35.43773,
+    "geom:longitude":36.12441,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qatarbah",
+    "gn:country_code":"SY",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165926,
+    "gn:latitude":35.43773,
+    "gn:longitude":36.12441,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Qa\u0163arbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0631\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0637\u0644\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaterb\u00e9",
+        "Qaterba",
+        "Qa\u0163arbah",
+        "Qa\u0163r\u012byah",
+        "Al Qa\u0163albah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165926
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"961fa5c8a97787f436cca6d8980304c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1343371555,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343371555,
+    "wof:lastmodified":1537701821,
+    "wof:name":"Qatarbah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12441,
+    35.43773,
+    36.12441,
+    35.43773
+],
+  "geometry": {"coordinates":[36.12441,35.43773],"type":"Point"}
+}

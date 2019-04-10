@@ -1,0 +1,75 @@
+{
+  "id": 1193024603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15096,35.32502,36.15096,35.32502",
+    "geom:latitude":35.32502,
+    "geom:longitude":36.15096,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn al Jawzah",
+    "gn:country_code":"SY",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172212,
+    "gn:latitude":35.32502,
+    "gn:longitude":36.15096,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn al Jawzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062c\u0648\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2019Ain el Jawza",
+        "A\u00efn ej Jaouze",
+        "\u2018Ayn al Jawzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"77546c75ad2c49b242b2a5bb145b1836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1193024603,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1193024603,
+    "wof:lastmodified":1537702256,
+    "wof:name":"`Ayn al Jawzah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15096,
+    35.32502,
+    36.15096,
+    35.32502
+],
+  "geometry": {"coordinates":[36.15096,35.32502],"type":"Point"}
+}

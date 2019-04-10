@@ -1,0 +1,77 @@
+{
+  "id": 1343345225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20908,35.15595,37.20908,35.15595",
+    "geom:latitude":35.15595,
+    "geom:longitude":37.20908,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sabburah",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":165143,
+    "gn:latitude":35.15595,
+    "gn:longitude":37.20908,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"\u015eabb\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sabura",
+        "Sabbo\u00fbra",
+        "\u015eabb\u016brah",
+        "\u015eab\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165143,
+        "wk:page":"Sabburah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"52ed18347f708c0afe5f59043950c088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343345225,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343345225,
+    "wof:lastmodified":1537701770,
+    "wof:name":"Sabburah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20908,
+    35.15595,
+    37.20908,
+    35.15595
+],
+  "geometry": {"coordinates":[37.20908,35.15595],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310501847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.30398,35.89702,38.30398,35.89702",
+    "geom:latitude":35.89702,
+    "geom:longitude":38.30398,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muzaylah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":166818,
+    "gn:latitude":35.89702,
+    "gn:longitude":38.30398,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Muzaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u00efza\u00efl\u00e9",
+        "Moua\u00efz\u00eel\u00e9",
+        "Mu\u2018ayz\u012blah",
+        "Muzaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166818
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d93d228b5815c2709abf7a7e9e14a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1310501847,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310501847,
+    "wof:lastmodified":1537701880,
+    "wof:name":"Muzaylah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.30398,
+    35.89702,
+    38.30398,
+    35.89702
+],
+  "geometry": {"coordinates":[38.30398,35.89702],"type":"Point"}
+}

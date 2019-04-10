@@ -1,0 +1,75 @@
+{
+  "id": 1193005193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1538,35.5264,37.1538,35.5264",
+    "geom:latitude":35.5264,
+    "geom:longitude":37.1538,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khayriyah Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168193,
+    "gn:latitude":35.5264,
+    "gn:longitude":37.1538,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Khayr\u012byah Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0631\u064a\u0629 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kha\u00efr\u00eey\u00e9",
+        "Khayr\u012byah",
+        "Khayr\u012byah Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168193
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3563522e22ed14a63e7ddb4c4d6a9b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1193005193,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193005193,
+    "wof:lastmodified":1537701975,
+    "wof:name":"Khayriyah Kabirah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1538,
+    35.5264,
+    37.1538,
+    35.5264
+],
+  "geometry": {"coordinates":[37.1538,35.5264],"type":"Point"}
+}

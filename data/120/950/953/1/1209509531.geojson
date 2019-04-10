@@ -1,0 +1,68 @@
+{
+  "id": 1209509531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61921,35.46459,40.61921,35.46459",
+    "geom:latitude":35.46459,
+    "geom:longitude":40.61921,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khudayr",
+    "gn:country_code":"SY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275728,
+    "gn:latitude":35.46459,
+    "gn:longitude":40.61921,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Khu\u1e11ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khu\u1e11ayr",
+        "Kha\u1e11\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275728
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ff63d4334169002dac903cb7e84f43e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209509531
+        }
+    ],
+    "wof:id":1209509531,
+    "wof:lastmodified":1537702520,
+    "wof:name":"Khudayr",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61921,
+    35.46459,
+    40.61921,
+    35.46459
+],
+  "geometry": {"coordinates":[40.61921,35.46459],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1260064741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.82504,36.13907,36.82504,36.13907",
+    "geom:latitude":36.13907,
+    "geom:longitude":36.82504,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Atarib",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":174030,
+    "gn:latitude":36.13907,
+    "gn:longitude":36.82504,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al At\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al At\u0101rib"
+    ],
+    "name:ara_x_variant":[
+        "At\u0101rib",
+        "\u0627\u062a\u0627\u0631\u0628",
+        "\u0627\u0644\u0623\u062a\u0627\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "El At\u00e2reb",
+        "T\u00e9rib",
+        "Ath\u0101rib",
+        "Tarib",
+        "Al At\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174030,
+        "wk:page":"Atarib"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"99a775080622210f5d122cdcdc27439e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1260064741,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260064741,
+    "wof:lastmodified":1537702386,
+    "wof:name":"Al Atarib",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.82504,
+    36.13907,
+    36.82504,
+    36.13907
+],
+  "geometry": {"coordinates":[36.82504,36.13907],"type":"Point"}
+}

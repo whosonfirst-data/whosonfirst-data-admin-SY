@@ -1,0 +1,73 @@
+{
+  "id": 1343954657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75426,35.94193,37.75426,35.94193",
+    "geom:latitude":35.94193,
+    "geom:longitude":37.75426,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mawalih Shamaliyah",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341902,
+    "gn:latitude":35.94193,
+    "gn:longitude":37.75426,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Maw\u0101li\u1e29 Sham\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0627\u0644\u062d \u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maw\u0101li\u1e29 Sham\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341902
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"51cd670ddc995eb316f033ee6d409c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343954657,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343954657,
+    "wof:lastmodified":1537702541,
+    "wof:name":"Mawalih Shamaliyah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75426,
+    35.94193,
+    37.75426,
+    35.94193
+],
+  "geometry": {"coordinates":[37.75426,35.94193],"type":"Point"}
+}

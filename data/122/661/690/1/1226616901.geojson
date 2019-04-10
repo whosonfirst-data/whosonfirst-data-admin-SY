@@ -1,0 +1,76 @@
+{
+  "id": 1226616901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05023,35.10834,36.05023,35.10834",
+    "geom:latitude":35.10834,
+    "geom:longitude":36.05023,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ta`nita",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163401,
+    "gn:latitude":35.10834,
+    "gn:longitude":36.05023,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ta\u2018n\u012bt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u0646\u064a\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ta\u2018n\u012btah",
+        "Taan\u00eeta",
+        "Ta\u2018r\u012bt\u0101",
+        "Ta\u2018n\u012bt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163401
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a068e16b2620307f935433ddfb3761b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226616901,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226616901,
+    "wof:lastmodified":1537701653,
+    "wof:name":"Ta`nita",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05023,
+    35.10834000000001,
+    36.05023,
+    35.10834000000001
+],
+  "geometry": {"coordinates":[36.05023,35.10834000000001],"type":"Point"}
+}

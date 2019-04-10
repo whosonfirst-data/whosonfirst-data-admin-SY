@@ -1,0 +1,73 @@
+{
+  "id": 1276316549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99292,34.93392,35.99292,34.93392",
+    "geom:latitude":34.93392,
+    "geom:longitude":35.99292,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ar Rafi`ah",
+    "gn:country_code":"SY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8266820,
+    "gn:latitude":34.93392,
+    "gn:longitude":35.99292,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ar Raf\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Raf\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266820
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"350a44e2f820cd36f7df5d5e0e8b3d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276316549,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276316549,
+    "wof:lastmodified":1537702504,
+    "wof:name":"Ar Rafi`ah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99292,
+    34.93392,
+    35.99292,
+    34.93392
+],
+  "geometry": {"coordinates":[35.99292,34.93392],"type":"Point"}
+}

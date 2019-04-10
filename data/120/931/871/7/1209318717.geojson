@@ -1,0 +1,70 @@
+{
+  "id": 1209318717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.31536,36.794,41.31536,36.794",
+    "geom:latitude":36.794,
+    "geom:longitude":41.31536,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Farrujah",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170446,
+    "gn:latitude":36.794,
+    "gn:longitude":41.31536,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Farr\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0648\u062c\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Farr\u016bjah"
+    ],
+    "name:und_x_variant":[
+        "Farro\u00fbj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170446
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ffa800d027ce255efb2aa8001e8cc04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209318717
+        }
+    ],
+    "wof:id":1209318717,
+    "wof:lastmodified":1537702124,
+    "wof:name":"Farrujah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.31536,
+    36.794,
+    41.31536,
+    36.794
+],
+  "geometry": {"coordinates":[41.31536,36.794],"type":"Point"}
+}

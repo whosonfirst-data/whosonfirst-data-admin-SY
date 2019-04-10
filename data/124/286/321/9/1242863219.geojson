@@ -1,0 +1,76 @@
+{
+  "id": 1242863219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29642,34.96462,37.29642,34.96462",
+    "geom:latitude":34.96462,
+    "geom:longitude":37.29642,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Arshunah",
+    "gn:country_code":"SY",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172895,
+    "gn:latitude":34.96462,
+    "gn:longitude":37.29642,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u2018Arsh\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0634\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aarcho\u00fbn\u00e9",
+        "\u2018Arsh\u016bnih",
+        "Archoun",
+        "\u2018Arsh\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172895
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e03a707189307a21166f1df17b67748d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242863219,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242863219,
+    "wof:lastmodified":1537702297,
+    "wof:name":"`Arshunah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29642,
+    34.96462,
+    37.29642,
+    34.96462
+],
+  "geometry": {"coordinates":[37.29642,34.96462],"type":"Point"}
+}

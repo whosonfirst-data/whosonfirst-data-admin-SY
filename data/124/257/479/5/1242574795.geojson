@@ -1,0 +1,73 @@
+{
+  "id": 1242574795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09892,33.52233,36.09892,33.52233",
+    "geom:latitude":33.52233,
+    "geom:longitude":36.09892,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Kalayil",
+    "gn:country_code":"SY",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411727,
+    "gn:latitude":33.52233,
+    "gn:longitude":36.09892,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al Kal\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0644\u0627\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Kal\u0101yil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411727
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c82cd4e9beb2ccc5b5c7618e801c9223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1242574795,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242574795,
+    "wof:lastmodified":1537702559,
+    "wof:name":"Al Kalayil",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09892,
+    33.52233,
+    36.09892,
+    33.52233
+],
+  "geometry": {"coordinates":[36.09892,33.52233],"type":"Point"}
+}

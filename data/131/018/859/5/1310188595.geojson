@@ -1,0 +1,76 @@
+{
+  "id": 1310188595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17083,35.01883,36.17083,35.01883",
+    "geom:latitude":35.01883,
+    "geom:longitude":36.17083,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Brummanat al Mashayikh",
+    "gn:country_code":"SY",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":171295,
+    "gn:latitude":35.01883,
+    "gn:longitude":36.17083,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Brumm\u0101nat al Mash\u0101yikh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u0627\u0646\u0629 \u0627\u0644\u0645\u0634\u0627\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Broumm\u00e2net el Mach\u00e2yekh",
+        "Brumm\u0101nat al Mash\u0101\u2019ikh",
+        "Brumm\u0101nat al Mash\u0101yikh",
+        "Birm\u0101that al Mash\u0101yikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171295
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e45afabeb8a0e9652f646544a9384047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1310188595,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310188595,
+    "wof:lastmodified":1537702186,
+    "wof:name":"Brummanat al Mashayikh",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17083,
+    35.01883,
+    36.17083,
+    35.01883
+],
+  "geometry": {"coordinates":[36.17083,35.01883],"type":"Point"}
+}

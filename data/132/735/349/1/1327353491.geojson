@@ -1,0 +1,73 @@
+{
+  "id": 1327353491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58223,33.51019,36.58223,33.51019",
+    "geom:latitude":33.51019,
+    "geom:longitude":36.58223,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard ash Shuwarit",
+    "gn:country_code":"SY",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346692,
+    "gn:latitude":33.51019,
+    "gn:longitude":36.58223,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 ash Shuwar\u012b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0634\u0648\u0627\u0631\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 ash Shuwar\u012b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"de8cfaaee9c6d7fdbc15ba0b1b694f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1327353491,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1327353491,
+    "wof:lastmodified":1537702551,
+    "wof:name":"Ard ash Shuwarit",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58223,
+    33.51019,
+    36.58223,
+    33.51019
+],
+  "geometry": {"coordinates":[36.58223,33.51019],"type":"Point"}
+}

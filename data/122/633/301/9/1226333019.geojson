@@ -1,0 +1,81 @@
+{
+  "id": 1226333019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51376,33.63536,36.51376,33.63536",
+    "geom:latitude":33.63536,
+    "geom:longitude":36.51376,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"As Sunnat",
+    "gn:country_code":"SY",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8346412,
+    "gn:latitude":33.63536,
+    "gn:longitude":36.51376,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"As Sunn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sunn\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0646\u0627\u062a",
+        "\u0639\u062f\u0631\u0627 \u0627\u0644\u0639\u0645\u0627\u0644\u064a\u0629",
+        "\u0645\u062f\u064a\u0646\u0629 \u0639\u062f\u0631\u0627 \u0627\u0644\u0639\u0645\u0627\u0644\u064a\u0629",
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0647\u064a\u062f \u0628\u0627\u0633\u0644 \u0627\u0644\u0623\u0633\u062f \u0627\u0644\u0639\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mad\u012bnat \u2018Adr\u0101 al \u2018Umm\u0101l\u012byah",
+        "\u2018Adr\u0101 al \u2018Umm\u0101l\u012byah",
+        "Mad\u012bnat ash Shah\u012bd B\u0101sil al Asad al \u2018Umm\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346412
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e0dfcd23c47fc8e5249454c61d28a9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1226333019,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226333019,
+    "wof:lastmodified":1537702549,
+    "wof:name":"As Sunnat",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51376,
+    33.63536,
+    36.51376,
+    33.63536
+],
+  "geometry": {"coordinates":[36.51376,33.63536],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1193268007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73586,36.69959,37.73586,36.69959",
+    "geom:latitude":36.69959,
+    "geom:longitude":37.73586,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lilawah",
+    "gn:country_code":"SY",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167648,
+    "gn:latitude":36.69959,
+    "gn:longitude":37.73586,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"L\u012blawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0644\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Louliy\u00e9",
+        "L\u00eeloua",
+        "L\u012blaw\u0101",
+        "Loulla",
+        "L\u016bl\u012byah",
+        "L\u012blawah",
+        "Layl\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167648
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"851b429407a8e379c3e5dacf4de8031e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1193268007,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193268007,
+    "wof:lastmodified":1537701930,
+    "wof:name":"Lilawah",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73586,
+    36.69959,
+    37.73586,
+    36.69959
+],
+  "geometry": {"coordinates":[37.73586,36.69959],"type":"Point"}
+}

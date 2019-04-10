@@ -1,0 +1,76 @@
+{
+  "id": 1276968971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20121,36.36125,37.20121,36.36125",
+    "geom:latitude":36.36125,
+    "geom:longitude":37.20121,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Qaris",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168646,
+    "gn:latitude":36.36125,
+    "gn:longitude":37.20121,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kafr Q\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kafer K\u00e2r\u00e8s",
+        "Kafr K\u00e2r\u00e8s",
+        "Kafr Q\u0101ri\u015f",
+        "Kafr Q\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168646
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7508efb729c2999bead8f45a8b4557a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276968971,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276968971,
+    "wof:lastmodified":1537702009,
+    "wof:name":"Kafr Qaris",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20121,
+    36.36125,
+    37.20121,
+    36.36125
+],
+  "geometry": {"coordinates":[37.20121,36.36125],"type":"Point"}
+}

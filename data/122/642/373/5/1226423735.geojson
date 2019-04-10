@@ -1,0 +1,75 @@
+{
+  "id": 1226423735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26937,34.79682,37.26937,34.79682",
+    "geom:latitude":34.79682,
+    "geom:longitude":37.26937,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tulul al Hawa",
+    "gn:country_code":"SY",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163151,
+    "gn:latitude":34.79682,
+    "gn:longitude":37.26937,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tul\u016bl al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0648\u0644 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "Tlo\u00fbl el Haoua",
+        "Tul\u016bl al Haw\u0101\u2019",
+        "Tul\u016bl al Haw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163151
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cd240f24b8261cf8d760da0340ca7bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1226423735,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226423735,
+    "wof:lastmodified":1537701639,
+    "wof:name":"Tulul al Hawa",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26937,
+    34.79682,
+    37.26937,
+    34.79682
+],
+  "geometry": {"coordinates":[37.26937,34.79682],"type":"Point"}
+}

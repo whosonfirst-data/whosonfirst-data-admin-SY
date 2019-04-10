@@ -1,0 +1,74 @@
+{
+  "id": 1259477709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94273,36.69211,36.94273,36.69211",
+    "geom:latitude":36.69211,
+    "geom:longitude":36.94273,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ballursanik",
+    "gn:country_code":"SY",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235560,
+    "gn:latitude":36.69211,
+    "gn:longitude":36.94273,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ball\u016brsanik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0644\u0648\u0631\u0633\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "Ball\u016brsanik",
+        "Blal\u016brsanik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235560
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5d6bcab79032502ec05eb9613caa8a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1259477709,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259477709,
+    "wof:lastmodified":1537702485,
+    "wof:name":"Ballursanik",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94273,
+    36.69211,
+    36.94273,
+    36.69211
+],
+  "geometry": {"coordinates":[36.94273,36.69211],"type":"Point"}
+}

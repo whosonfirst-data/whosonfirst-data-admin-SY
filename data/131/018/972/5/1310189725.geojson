@@ -1,0 +1,73 @@
+{
+  "id": 1310189725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58016,36.56605,37.58016,36.56605",
+    "geom:latitude":36.56605,
+    "geom:longitude":37.58016,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at Sandi",
+    "gn:country_code":"SY",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352057,
+    "gn:latitude":36.56605,
+    "gn:longitude":37.58016,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Mazra\u2018at \u015eand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0635\u0646\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u015eand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352057
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05953c0ee55db72619707a621d618fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1310189725,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310189725,
+    "wof:lastmodified":1537702603,
+    "wof:name":"Mazra`at Sandi",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58016,
+    36.56605,
+    37.58016,
+    36.56605
+],
+  "geometry": {"coordinates":[37.58016,36.56605],"type":"Point"}
+}

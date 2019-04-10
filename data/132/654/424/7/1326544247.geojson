@@ -1,0 +1,76 @@
+{
+  "id": 1326544247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89879,36.77942,39.89879,36.77942",
+    "geom:latitude":36.77942,
+    "geom:longitude":39.89879,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Balujah",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171862,
+    "gn:latitude":36.77942,
+    "gn:longitude":39.89879,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"B\u0101l\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u062c\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "B\u0101l\u016bjah"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2lo\u00fbja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171862
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"74da4b0e86ad07b0281b33f352054729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1326544247,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326544247,
+    "wof:lastmodified":1537702230,
+    "wof:name":"Balujah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89879000000001,
+    36.77942,
+    39.89879000000001,
+    36.77942
+],
+  "geometry": {"coordinates":[39.89879000000001,36.77942],"type":"Point"}
+}

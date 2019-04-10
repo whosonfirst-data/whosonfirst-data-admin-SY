@@ -1,0 +1,75 @@
+{
+  "id": 1242690785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13015,35.76853,36.13015,35.76853",
+    "geom:latitude":35.76853,
+    "geom:longitude":36.13015,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn al Khinzir",
+    "gn:country_code":"SY",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172203,
+    "gn:latitude":35.76853,
+    "gn:longitude":36.13015,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018Ayn al Khinz\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062e\u0646\u0632\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Khannz\u00eer",
+        "\u2018Ayn al Khinz\u012br",
+        "\u2018Ayn al Khanz\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172203
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed87b8cdb8fa7809f232d41cf7f1602e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1242690785,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242690785,
+    "wof:lastmodified":1537702255,
+    "wof:name":"`Ayn al Khinzir",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13015,
+    35.76853,
+    36.13015,
+    35.76853
+],
+  "geometry": {"coordinates":[36.13015,35.76853],"type":"Point"}
+}

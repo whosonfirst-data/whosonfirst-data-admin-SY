@@ -1,0 +1,73 @@
+{
+  "id": 1243081835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.0282,35.99909,41.0282,35.99909",
+    "geom:latitude":35.99909,
+    "geom:longitude":41.0282,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saqqar",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405328,
+    "gn:latitude":35.99909,
+    "gn:longitude":41.0282,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Saqq\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0642\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Saqq\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405328
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e29cb2e9b7a225cedfdc2cac518d44c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243081835,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243081835,
+    "wof:lastmodified":1537702431,
+    "wof:name":"Saqqar",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.0282,
+    35.99909,
+    41.0282,
+    35.99909
+],
+  "geometry": {"coordinates":[41.0282,35.99909],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310089205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33196,35.01923,36.33196,35.01923",
+    "geom:latitude":35.01923,
+    "geom:longitude":36.33196,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Findarah",
+    "gn:country_code":"SY",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170379,
+    "gn:latitude":35.01923,
+    "gn:longitude":36.33196,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Find\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u062f\u0627\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0646\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Finnd\u00e2ra",
+        "Finnd\u00e2ro",
+        "Find\u0101rah",
+        "Al Find\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170379
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f5dcbc008083fae2347435bd1518ed4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1310089205,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310089205,
+    "wof:lastmodified":1537702121,
+    "wof:name":"Findarah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33196,
+    35.01923,
+    36.33196,
+    35.01923
+],
+  "geometry": {"coordinates":[36.33196,35.01923],"type":"Point"}
+}

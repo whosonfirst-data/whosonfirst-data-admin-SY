@@ -1,0 +1,81 @@
+{
+  "id": 1226423615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02712,34.63818,37.02712,34.63818",
+    "geom:latitude":34.63818,
+    "geom:longitude":37.02712,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"As Sayid",
+    "gn:country_code":"SY",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172453,
+    "gn:latitude":34.63818,
+    "gn:longitude":37.02712,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"A\u015f \u015e\u0101yid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f \u015e\u0101yid"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0627\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jarb\u016b\u2018\u012byah",
+        "Djerbouaie",
+        "Jarbouaab",
+        "Sayyid",
+        "Sa\u00efyed",
+        "Jerbo\u00fba\u00efy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172453
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ef6ed83dedae183a1d118ce424eeab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226423615,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226423615,
+    "wof:lastmodified":1537702275,
+    "wof:name":"As Sayid",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02712,
+    34.63818,
+    37.02712,
+    34.63818
+],
+  "geometry": {"coordinates":[37.02712,34.63818],"type":"Point"}
+}

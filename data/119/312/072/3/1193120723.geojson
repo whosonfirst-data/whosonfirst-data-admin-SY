@@ -1,0 +1,79 @@
+{
+  "id": 1193120723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97191,34.93514,35.97191,34.93514",
+    "geom:latitude":34.93514,
+    "geom:longitude":35.97191,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bmalkah",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171322,
+    "gn:latitude":34.93514,
+    "gn:longitude":35.97191,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bmalkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0645\u0644\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bemleki",
+        "M\u0101likah",
+        "Bmalk\u00e9",
+        "Malk\u00ea",
+        "Bmalkah",
+        "Bimalkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171322,
+        "wk:page":"Bimalkah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13f941e602264a6556c79f9c01650e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1193120723,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1193120723,
+    "wof:lastmodified":1537702189,
+    "wof:name":"Bmalkah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97191,
+    34.93514,
+    35.97191,
+    34.93514
+],
+  "geometry": {"coordinates":[35.97191,34.93514],"type":"Point"}
+}

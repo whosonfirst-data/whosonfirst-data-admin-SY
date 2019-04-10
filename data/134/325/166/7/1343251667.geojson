@@ -1,0 +1,79 @@
+{
+  "id": 1343251667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48553,36.27532,37.48553,36.27532",
+    "geom:latitude":36.27532,
+    "geom:longitude":37.48553,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ash Shaykh Dann",
+    "gn:country_code":"SY",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172731,
+    "gn:latitude":36.27532,
+    "gn:longitude":37.48553,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ash Shaykh Dann",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u062f\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u062f\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Dann",
+        "Che\u00efkh Dann",
+        "Cheikh Dan\u00e9",
+        "Ash Shaykh Dann"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"676c8202fc1d82f69704f690e1c48c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343251667,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343251667,
+    "wof:lastmodified":1537702288,
+    "wof:name":"Ash Shaykh Dann",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48553,
+    36.27532,
+    37.48553,
+    36.27532
+],
+  "geometry": {"coordinates":[37.48553,36.27532],"type":"Point"}
+}

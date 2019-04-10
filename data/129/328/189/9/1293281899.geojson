@@ -1,0 +1,76 @@
+{
+  "id": 1293281899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27962,36.36592,37.27962,36.36592",
+    "geom:latitude":36.36592,
+    "geom:longitude":37.27962,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hecine",
+    "gn:country_code":"SY",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169813,
+    "gn:latitude":36.36592,
+    "gn:longitude":37.27962,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Hecine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101s\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hassine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169813
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8977273906f1b4f3d598b7ff520a6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1293281899,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293281899,
+    "wof:lastmodified":1537702089,
+    "wof:name":"Hecine",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27962,
+    36.36592,
+    37.27962,
+    36.36592
+],
+  "geometry": {"coordinates":[37.27962,36.36592],"type":"Point"}
+}

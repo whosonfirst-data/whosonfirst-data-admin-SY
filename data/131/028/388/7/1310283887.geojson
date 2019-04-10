@@ -1,0 +1,75 @@
+{
+  "id": 1310283887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19787,35.13318,36.19787,35.13318",
+    "geom:latitude":35.13318,
+    "geom:longitude":36.19787,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shamsin",
+    "gn:country_code":"SY",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164516,
+    "gn:latitude":35.13318,
+    "gn:longitude":36.19787,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Shams\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Chemsine",
+        "Chams\u00eene",
+        "Shams\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164516
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cb1da0be4eadfd6155ac1583d83d6249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310283887,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310283887,
+    "wof:lastmodified":1537701739,
+    "wof:name":"Shamsin",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19787,
+    35.13318,
+    36.19787,
+    35.13318
+],
+  "geometry": {"coordinates":[36.19787,35.13318],"type":"Point"}
+}

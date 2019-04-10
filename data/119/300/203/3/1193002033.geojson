@@ -1,0 +1,75 @@
+{
+  "id": 1193002033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18762,34.99045,37.18762,34.99045",
+    "geom:latitude":34.99045,
+    "geom:longitude":37.18762,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Barri al Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171758,
+    "gn:latitude":34.99045,
+    "gn:longitude":37.18762,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Barr\u012b al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Barri el Rharbi",
+        "Barri Rharbi",
+        "Barr\u012b al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171758
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0901ff478785cb991293f9b385961927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1193002033,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193002033,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barri al Gharbi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18762,
+    34.99045,
+    37.18762,
+    34.99045
+],
+  "geometry": {"coordinates":[37.18762,34.99045],"type":"Point"}
+}

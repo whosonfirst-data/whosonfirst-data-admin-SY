@@ -1,0 +1,77 @@
+{
+  "id": 1310205263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43368,35.90932,38.43368,35.90932",
+    "geom:latitude":35.90932,
+    "geom:longitude":38.43368,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Qurraya",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":173330,
+    "gn:latitude":35.90932,
+    "gn:longitude":38.43368,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Qurr\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Al Qurr\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0631\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "El Qra\u00efy\u00e9",
+        "Al Qurayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173330
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2e549e2d3d5921b8856c70f0509c2545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1310205263,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310205263,
+    "wof:lastmodified":1537702325,
+    "wof:name":"Al Qurraya",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43368,
+    35.90932,
+    38.43368,
+    35.90932
+],
+  "geometry": {"coordinates":[38.43368,35.90932],"type":"Point"}
+}

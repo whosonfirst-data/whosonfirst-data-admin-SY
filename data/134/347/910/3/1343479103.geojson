@@ -1,0 +1,75 @@
+{
+  "id": 1343479103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65656,35.24101,36.65656,35.24101",
+    "geom:latitude":35.24101,
+    "geom:longitude":36.65656,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr Abu Zayd",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162496,
+    "gn:latitude":35.24101,
+    "gn:longitude":36.65656,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zawr Ab\u016b Zayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0623\u0628\u0648 \u0632\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Zour Abou Ze\u00efd",
+        "Zor Abou Za\u00efd",
+        "Zawr Ab\u016b Zayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162496
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95da52ed0589475b2c9498803fc1449c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343479103,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343479103,
+    "wof:lastmodified":1537701595,
+    "wof:name":"Zawr Abu Zayd",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65656,
+    35.24101,
+    36.65656,
+    35.24101
+],
+  "geometry": {"coordinates":[36.65656,35.24101],"type":"Point"}
+}

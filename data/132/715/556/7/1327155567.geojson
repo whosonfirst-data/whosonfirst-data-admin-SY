@@ -1,0 +1,73 @@
+{
+  "id": 1327155567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31667,35.25,40.31667,35.25",
+    "geom:latitude":35.25,
+    "geom:longitude":40.31667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Albu Mu`ayt",
+    "gn:country_code":"SY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173946,
+    "gn:latitude":35.25,
+    "gn:longitude":40.31667,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u0100lb\u016b Mu\u2018ay\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b Mu\u2018ay\u0163",
+        "Abou Maa\u00eft",
+        "\u0100l B\u016b Mu\u2018ay\u0163",
+        "\u0100lb\u016b Mu\u2018ay\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173946
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6dd14babc57f40a1061c7ad6f4b5bc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1327155567,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1327155567,
+    "wof:lastmodified":1537702378,
+    "wof:name":"Albu Mu`ayt",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31667,
+    35.25,
+    40.31667,
+    35.25
+],
+  "geometry": {"coordinates":[40.31667,35.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209208893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96412,35.01267,36.96412,35.01267",
+    "geom:latitude":35.01267,
+    "geom:longitude":36.96412,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Ayn al `Amud",
+    "gn:country_code":"SY",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172257,
+    "gn:latitude":35.01267,
+    "gn:longitude":36.96412,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018Ayn al \u2018\u0100m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0639\u0627\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el A\u00e2mo\u00fbd",
+        "\u2018Ayn al \u2018\u0100m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172257
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e908d0116e11f891f1736c7783b80ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209208893
+        }
+    ],
+    "wof:id":1209208893,
+    "wof:lastmodified":1537702261,
+    "wof:name":"`Ayn al `Amud",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96412,
+    35.01267,
+    36.96412,
+    35.01267
+],
+  "geometry": {"coordinates":[36.96412,35.01267],"type":"Point"}
+}

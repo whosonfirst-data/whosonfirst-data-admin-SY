@@ -1,0 +1,77 @@
+{
+  "id": 1243077209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.59955,36.97988,40.59955,36.97988",
+    "geom:latitude":36.97988,
+    "geom:longitude":40.59955,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saybirkah",
+    "gn:country_code":"SY",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164720,
+    "gn:latitude":36.97988,
+    "gn:longitude":40.59955,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Saybirkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u0631\u0643\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Saybirk\u0101"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efbirka",
+        "Saybirkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164720
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0f79030c02c9b2968f18d78cc1431a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1243077209,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243077209,
+    "wof:lastmodified":1537701750,
+    "wof:name":"Saybirkah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.59955,
+    36.97988,
+    40.59955,
+    36.97988
+],
+  "geometry": {"coordinates":[40.59955,36.97988],"type":"Point"}
+}

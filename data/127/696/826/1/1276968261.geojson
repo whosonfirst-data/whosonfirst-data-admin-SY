@@ -1,0 +1,77 @@
+{
+  "id": 1276968261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38391,35.68426,36.38391,35.68426",
+    "geom:latitude":35.68426,
+    "geom:longitude":36.38391,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qastun al Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165934,
+    "gn:latitude":35.68426,
+    "gn:longitude":36.38391,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qas\u0163\u016bn al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0633\u0637\u0648\u0646 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qasto\u00fbn",
+        "Qas\u0163\u016bn",
+        "Qastoun el Rharbi",
+        "Qas\u0163\u016bn al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165934,
+        "wk:page":"Qastun"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eb809be4a5b8d97a5802a5322f55c79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1276968261,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276968261,
+    "wof:lastmodified":1537701822,
+    "wof:name":"Qastun al Gharbi",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38391,
+    35.68425999999999,
+    36.38391,
+    35.68425999999999
+],
+  "geometry": {"coordinates":[36.38391,35.68425999999999],"type":"Point"}
+}

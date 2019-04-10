@@ -1,0 +1,67 @@
+{
+  "id": 1209410409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57791,35.17462,37.57791,35.17462",
+    "geom:latitude":35.17462,
+    "geom:longitude":37.57791,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb `Id",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420145,
+    "gn:latitude":35.17462,
+    "gn:longitude":37.57791,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb \u2018\u012ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jubb \u2018\u012ad"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628 \u0639\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420145
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"84fa79653e5d70caf976b5c60e537ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209410409
+        }
+    ],
+    "wof:id":1209410409,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Jubb `Id",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57791,
+    35.17462,
+    37.57791,
+    35.17462
+],
+  "geometry": {"coordinates":[37.57791,35.17462],"type":"Point"}
+}

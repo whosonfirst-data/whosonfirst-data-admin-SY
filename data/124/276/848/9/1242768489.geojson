@@ -1,0 +1,73 @@
+{
+  "id": 1242768489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50882,33.58916,36.50882,33.58916",
+    "geom:latitude":33.58916,
+    "geom:longitude":36.50882,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Mazra`ah",
+    "gn:country_code":"SY",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346435,
+    "gn:latitude":33.58916,
+    "gn:longitude":36.50882,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Mazra\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0645\u0632\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Mazra\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346435
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ad55c6ab0d8b866b87d4e1af48cea765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1242768489,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242768489,
+    "wof:lastmodified":1537702549,
+    "wof:name":"Ard al Mazra`ah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50882,
+    33.58916,
+    36.50882,
+    33.58916
+],
+  "geometry": {"coordinates":[36.50882,33.58916],"type":"Point"}
+}

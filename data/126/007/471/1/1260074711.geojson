@@ -1,0 +1,74 @@
+{
+  "id": 1260074711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27404,35.68097,37.27404,35.68097",
+    "geom:latitude":35.68097,
+    "geom:longitude":37.27404,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Salasil",
+    "gn:country_code":"SY",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162847,
+    "gn:latitude":35.68097,
+    "gn:longitude":37.27404,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Umm Sal\u0101sil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0633\u0644\u0627\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "Oum Sal\u00e2ssel",
+        "Umm Sal\u0101sil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162847
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f661b43990a81dd2a8504fe432d620b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1260074711,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260074711,
+    "wof:lastmodified":1537701619,
+    "wof:name":"Umm Salasil",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27404,
+    35.68097,
+    37.27404,
+    35.68097
+],
+  "geometry": {"coordinates":[37.27404,35.68097],"type":"Point"}
+}

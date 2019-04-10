@@ -1,0 +1,75 @@
+{
+  "id": 1243156555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99815,36.52686,36.99815,36.52686",
+    "geom:latitude":36.52686,
+    "geom:longitude":36.99815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shawarighat al Arz",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164386,
+    "gn:latitude":36.52686,
+    "gn:longitude":36.99815,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shaw\u0101righat al Arz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0627\u0631\u063a\u0629 \u0627\u0644\u0623\u0631\u0632"
+    ],
+    "name:und_x_variant":[
+        "Chouarrhat el Arz",
+        "Chou\u00e2rrhet el Arz",
+        "Shaw\u0101righat al Arz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164386
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"47dc2c5e892e04728928cc84481c0fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1243156555,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243156555,
+    "wof:lastmodified":1537701730,
+    "wof:name":"Shawarighat al Arz",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99815,
+    36.52686,
+    36.99815,
+    36.52686
+],
+  "geometry": {"coordinates":[36.99815,36.52686],"type":"Point"}
+}

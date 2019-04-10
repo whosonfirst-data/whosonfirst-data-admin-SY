@@ -1,0 +1,77 @@
+{
+  "id": 1226761851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.14444,36.90833,41.14444,36.90833",
+    "geom:latitude":36.90833,
+    "geom:longitude":41.14444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"A`qulah",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173111,
+    "gn:latitude":36.90833,
+    "gn:longitude":41.14444,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"A\u2018q\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0639\u0642\u0648\u0644\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018Aq\u016blah"
+    ],
+    "name:und_x_variant":[
+        "A\u00e2qo\u00fbla",
+        "A\u2018q\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173111
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"284963c6cc8c3acd3908e1cca2d07720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226761851,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226761851,
+    "wof:lastmodified":1537702311,
+    "wof:name":"A`qulah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.14444,
+    36.90833,
+    41.14444,
+    36.90833
+],
+  "geometry": {"coordinates":[41.14444,36.90833],"type":"Point"}
+}

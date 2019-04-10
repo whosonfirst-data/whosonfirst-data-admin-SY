@@ -1,0 +1,69 @@
+{
+  "id": 1209204215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90711,36.36055,36.90711,36.36055",
+    "geom:latitude":36.36055,
+    "geom:longitude":36.90711,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Nabw",
+    "gn:country_code":"SY",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168659,
+    "gn:latitude":36.36055,
+    "gn:longitude":36.90711,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr Nabw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0646\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kafer Nabou",
+        "Kafer N\u00e9bo\u00fb",
+        "Kafr Nabw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168659
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a4feec4d503911eb843178abaea1ac60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209204215
+        }
+    ],
+    "wof:id":1209204215,
+    "wof:lastmodified":1537702010,
+    "wof:name":"Kafr Nabw",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90711,
+    36.36055,
+    36.90711,
+    36.36055
+],
+  "geometry": {"coordinates":[36.90711,36.36055],"type":"Point"}
+}

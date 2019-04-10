@@ -1,0 +1,73 @@
+{
+  "id": 1276353767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.22843,36.8583,41.22843,36.8583",
+    "geom:latitude":36.8583,
+    "geom:longitude":41.22843,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Barhaj",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163620,
+    "gn:latitude":36.8583,
+    "gn:longitude":41.22843,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Barhaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tall Barhaj"
+    ],
+    "name:und_x_variant":[
+        "Tell Barhaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163620
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5e9bb4698bb36d4bfcb13e2bc6dd63b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276353767,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276353767,
+    "wof:lastmodified":1537701677,
+    "wof:name":"Tall Barhaj",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.22843,
+    36.8583,
+    41.22843,
+    36.8583
+],
+  "geometry": {"coordinates":[41.22843,36.8583],"type":"Point"}
+}

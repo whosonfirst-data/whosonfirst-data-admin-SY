@@ -1,0 +1,70 @@
+{
+  "id": 1260256313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17111,34.76929,36.17111,34.76929",
+    "geom:latitude":34.76929,
+    "geom:longitude":36.17111,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Khirbat al Jubb",
+    "gn:country_code":"SY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444711,
+    "gn:latitude":34.76929,
+    "gn:longitude":36.17111,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Khirbat al Jubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062c\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444711
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2895f58c302049ea40bcc447b3c4d97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1260256313,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260256313,
+    "wof:lastmodified":1537702625,
+    "wof:name":"Khirbat al Jubb",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17111,
+    34.76929000000001,
+    36.17111,
+    34.76929000000001
+],
+  "geometry": {"coordinates":[36.17111,34.76929000000001],"type":"Point"}
+}

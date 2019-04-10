@@ -1,0 +1,73 @@
+{
+  "id": 1209809881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14642,35.99086,37.14642,35.99086",
+    "geom:latitude":35.99086,
+    "geom:longitude":37.14642,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Jabrin",
+    "gn:country_code":"SY",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337617,
+    "gn:latitude":35.99086,
+    "gn:longitude":37.14642,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khirbat Jabr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062c\u0628\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Jabr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337617
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0ff6acdb6682bf73e73f3d05b64c75cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1209809881,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209809881,
+    "wof:lastmodified":1537702529,
+    "wof:name":"Khirbat Jabrin",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14642,
+    35.99086,
+    37.14642,
+    35.99086
+],
+  "geometry": {"coordinates":[37.14642,35.99086],"type":"Point"}
+}

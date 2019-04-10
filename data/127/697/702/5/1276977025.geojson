@@ -1,0 +1,73 @@
+{
+  "id": 1276977025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19197,33.60618,36.19197,33.60618",
+    "geom:latitude":33.60618,
+    "geom:longitude":36.19197,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Ayn al Khadra'",
+    "gn:country_code":"SY",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168436,
+    "gn:latitude":33.60618,
+    "gn:longitude":36.19197,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u2018Ayn al Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn al Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168436
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b266160ba828479be778913b9671636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779143,
+            "locality_id":1276977025,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276977025,
+    "wof:lastmodified":1537701991,
+    "wof:name":"`Ayn al Khadra'",
+    "wof:parent_id":1108779143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19197,
+    33.60618,
+    36.19197,
+    33.60618
+],
+  "geometry": {"coordinates":[36.19197,33.60618],"type":"Point"}
+}

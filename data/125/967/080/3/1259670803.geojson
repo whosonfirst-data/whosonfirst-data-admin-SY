@@ -1,0 +1,74 @@
+{
+  "id": 1259670803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84119,35.53958,36.84119,35.53958",
+    "geom:latitude":35.53958,
+    "geom:longitude":36.84119,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Buraysah",
+    "gn:country_code":"SY",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173938,
+    "gn:latitude":35.53958,
+    "gn:longitude":36.84119,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Buray\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bre\u00efssa",
+        "Al Buray\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173938
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71d4c6361115ffadaf9ef7eb32c8496d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1259670803,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259670803,
+    "wof:lastmodified":1537702377,
+    "wof:name":"Al Buraysah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84119000000001,
+    35.53958,
+    36.84119000000001,
+    35.53958
+],
+  "geometry": {"coordinates":[36.84119000000001,35.53958],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276758991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41336,35.60964,40.41336,35.60964",
+    "geom:latitude":35.60964,
+    "geom:longitude":40.41336,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ruwayshid",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263765,
+    "gn:latitude":35.60964,
+    "gn:longitude":40.41336,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ruwayshid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0634\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263765
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a7b8ca2edf98b6c864debe616cd787a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1276758991,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1276758991,
+    "wof:lastmodified":1537702494,
+    "wof:name":"Ruwayshid",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41336,
+    35.60964,
+    40.41336,
+    35.60964
+],
+  "geometry": {"coordinates":[40.41336,35.60964],"type":"Point"}
+}

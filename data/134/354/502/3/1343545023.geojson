@@ -1,0 +1,74 @@
+{
+  "id": 1343545023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2974,35.53519,37.2974,35.53519",
+    "geom:latitude":35.53519,
+    "geom:longitude":37.2974,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Halibiyah",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170043,
+    "gn:latitude":35.53519,
+    "gn:longitude":37.2974,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28al\u012bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u064a\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Halib\u00eey\u00e9",
+        "\u1e28al\u012bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170043
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef213c90e9fc3c8202dbc0c2fbc7ffd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343545023,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343545023,
+    "wof:lastmodified":1537702105,
+    "wof:name":"Halibiyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2974,
+    35.53519,
+    37.2974,
+    35.53519
+],
+  "geometry": {"coordinates":[37.2974,35.53519],"type":"Point"}
+}

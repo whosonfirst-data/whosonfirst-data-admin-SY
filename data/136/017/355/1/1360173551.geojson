@@ -1,0 +1,74 @@
+{
+  "id": 1360173551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2077,35.29192,37.2077,35.29192",
+    "geom:latitude":35.29192,
+    "geom:longitude":37.2077,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Marw",
+    "gn:country_code":"SY",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174423,
+    "gn:latitude":35.29192,
+    "gn:longitude":37.2077,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b Marw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0645\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Abou Marou",
+        "Ab\u016b Marw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174423
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70d1448be0e64514ff0eaf4bd40626b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1360173551,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360173551,
+    "wof:lastmodified":1537702407,
+    "wof:name":"Abu Marw",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2077,
+    35.29192000000001,
+    37.2077,
+    35.29192000000001
+],
+  "geometry": {"coordinates":[37.2077,35.29192000000001],"type":"Point"}
+}

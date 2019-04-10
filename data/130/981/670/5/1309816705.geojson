@@ -1,0 +1,79 @@
+{
+  "id": 1309816705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93717,35.58578,35.93717,35.58578",
+    "geom:latitude":35.58578,
+    "geom:longitude":35.93717,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Khuraybah",
+    "gn:country_code":"SY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173605,
+    "gn:latitude":35.58578,
+    "gn:longitude":35.93717,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Al Khuraybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khra\u00efb\u00e9",
+        "El Khra\u00efbi\u00e9",
+        "Al Khuraybah",
+        "Khuraybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173605
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e958ca00b8c7a02077b07f1a52c33ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1309816705,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309816705,
+    "wof:lastmodified":1537702349,
+    "wof:name":"Al Khuraybah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93717,
+    35.58578,
+    35.93717,
+    35.58578
+],
+  "geometry": {"coordinates":[35.93717,35.58578],"type":"Point"}
+}

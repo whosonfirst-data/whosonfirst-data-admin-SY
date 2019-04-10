@@ -1,0 +1,76 @@
+{
+  "id": 1310393649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85746,35.19224,38.85746,35.19224",
+    "geom:latitude":35.19224,
+    "geom:longitude":38.85746,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Kawm",
+    "gn:country_code":"SY",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173650,
+    "gn:latitude":35.19224,
+    "gn:longitude":38.85746,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Kawm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "El K\u00f4m",
+        "El Ko\u00fbm",
+        "El Kaum",
+        "Al Kawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173650
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"36ccd7a9cfcea0fc46387d3ff07ad9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1310393649,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310393649,
+    "wof:lastmodified":1537702351,
+    "wof:name":"Al Kawm",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85746,
+    35.19224000000001,
+    38.85746,
+    35.19224000000001
+],
+  "geometry": {"coordinates":[38.85746,35.19224000000001],"type":"Point"}
+}

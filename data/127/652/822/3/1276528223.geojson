@@ -1,0 +1,74 @@
+{
+  "id": 1276528223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5477,35.93369,36.5477,35.93369",
+    "geom:latitude":35.93369,
+    "geom:longitude":36.5477,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Baqsamtah",
+    "gn:country_code":"SY",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171811,
+    "gn:latitude":35.93369,
+    "gn:longitude":36.5477,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Baqsamtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0633\u0645\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Baqsamt\u00e9",
+        "Baqsamtah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171811
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ba4be8aab4fb0bf1c1f880653b01369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1276528223,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276528223,
+    "wof:lastmodified":1537702227,
+    "wof:name":"Baqsamtah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5477,
+    35.93369000000001,
+    36.5477,
+    35.93369000000001
+],
+  "geometry": {"coordinates":[36.5477,35.93369000000001],"type":"Point"}
+}

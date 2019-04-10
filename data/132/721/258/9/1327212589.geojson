@@ -1,0 +1,75 @@
+{
+  "id": 1327212589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94821,35.12465,35.94821,35.12465",
+    "geom:latitude":35.12465,
+    "geom:longitude":35.94821,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Bayda",
+    "gn:country_code":"SY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173970,
+    "gn:latitude":35.12465,
+    "gn:longitude":35.94821,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Bay\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "El Be\u00efda",
+        "Al Bay\u1e11\u0101\u2019",
+        "Al Bay\u1e11\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173970
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"55bf74e664d1d1b2d74b2676652e9c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1327212589,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327212589,
+    "wof:lastmodified":1537702380,
+    "wof:name":"Al Bayda",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94821,
+    35.12465,
+    35.94821,
+    35.12465
+],
+  "geometry": {"coordinates":[35.94821,35.12465],"type":"Point"}
+}

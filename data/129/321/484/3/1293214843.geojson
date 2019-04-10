@@ -1,0 +1,70 @@
+{
+  "id": 1293214843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.12814,36.05301,41.12814,36.05301",
+    "geom:latitude":36.05301,
+    "geom:longitude":41.12814,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khuwaylid",
+    "gn:country_code":"SY",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595735,
+    "gn:latitude":36.05301,
+    "gn:longitude":41.12814,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Khuwaylid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u064a\u0644\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595735
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3859dac099d51c1aac44c069e3cff9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293214843,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293214843,
+    "wof:lastmodified":1537702579,
+    "wof:name":"Khuwaylid",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.12814,
+    36.05301,
+    41.12814,
+    36.05301
+],
+  "geometry": {"coordinates":[41.12814,36.05301],"type":"Point"}
+}

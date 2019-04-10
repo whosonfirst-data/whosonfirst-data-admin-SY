@@ -1,0 +1,68 @@
+{
+  "id": 1209499639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28653,35.71286,37.28653,35.71286",
+    "geom:latitude":35.71286,
+    "geom:longitude":37.28653,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm al `Amad",
+    "gn:country_code":"SY",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163016,
+    "gn:latitude":35.71286,
+    "gn:longitude":37.28653,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Umm al \u2018Amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Oum el Aamad",
+        "Umm al \u2018Amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163016
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"adf17c679fd9ce2c2bb0d44babdebd83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209499639
+        }
+    ],
+    "wof:id":1209499639,
+    "wof:lastmodified":1537701631,
+    "wof:name":"Umm al `Amad",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28653,
+    35.71286,
+    37.28653,
+    35.71286
+],
+  "geometry": {"coordinates":[37.28653,35.71286],"type":"Point"}
+}

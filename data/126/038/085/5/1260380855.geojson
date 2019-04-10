@@ -1,0 +1,80 @@
+{
+  "id": 1260380855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28971,36.34283,37.28971,36.34283",
+    "geom:latitude":36.34283,
+    "geom:longitude":37.28971,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haliza",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170033,
+    "gn:latitude":36.34283,
+    "gn:longitude":37.28971,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Haliza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u064a\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u064a\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hl\u00eessa",
+        "Haliza",
+        "\u1e28al\u012bsah",
+        "\u1e28al\u012b\u015fah",
+        "Halisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170033
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6ca5a4a560c82c0290411568af47e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1260380855,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260380855,
+    "wof:lastmodified":1537702104,
+    "wof:name":"Haliza",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28971,
+    36.34283,
+    37.28971,
+    36.34283
+],
+  "geometry": {"coordinates":[37.28971,36.34283],"type":"Point"}
+}

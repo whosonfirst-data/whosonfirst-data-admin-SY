@@ -1,0 +1,79 @@
+{
+  "id": 1242573099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44534,34.99414,36.44534,34.99414",
+    "geom:latitude":34.99414,
+    "geom:longitude":36.44534,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dayr Huwayt",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169413,
+    "gn:latitude":34.99414,
+    "gn:longitude":36.44534,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dayr \u1e28uwayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062d\u0648\u064a\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Houe\u00efte",
+        "\u1e28uway\u0163ah",
+        "Dayr \u1e28uwayt",
+        "\u1e28uwayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169413
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6920b59b69bd89165e48a1675ce77631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1242573099,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242573099,
+    "wof:lastmodified":1537702064,
+    "wof:name":"Dayr Huwayt",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44534,
+    34.99414,
+    36.44534,
+    34.99414
+],
+  "geometry": {"coordinates":[36.44534,34.99414],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293384425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53885,35.8558,37.53885,35.8558",
+    "geom:latitude":35.8558,
+    "geom:longitude":37.53885,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ruwayhib",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165177,
+    "gn:latitude":35.8558,
+    "gn:longitude":37.53885,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ruwayhib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0647\u0628"
+    ],
+    "name:und_x_variant":[
+        "Roua\u00efheb",
+        "Ruwayhib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165177
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"10ea4a663ebf6c6a61eb2d924419981f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293384425,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293384425,
+    "wof:lastmodified":1537701772,
+    "wof:name":"Ruwayhib",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53885,
+    35.8558,
+    37.53885,
+    35.8558
+],
+  "geometry": {"coordinates":[37.53885,35.8558],"type":"Point"}
+}

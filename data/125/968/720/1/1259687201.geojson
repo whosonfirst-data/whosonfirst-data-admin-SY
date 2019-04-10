@@ -1,0 +1,80 @@
+{
+  "id": 1259687201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92287,35.48026,35.92287,35.48026",
+    "geom:latitude":35.48026,
+    "geom:longitude":35.92287,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sitamu",
+    "gn:country_code":"SY",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164032,
+    "gn:latitude":35.48026,
+    "gn:longitude":35.92287,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"\u015ei\u0163\u0101m\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u0163\u0101m\u016b"
+    ],
+    "name:ara_x_variant":[
+        "Si\u0163\u0101m\u016b",
+        "\u0633\u0637\u0627\u0645\u0648",
+        "\u015ei\u0163\u0101m\u016b",
+        "\u0635\u0637\u0627\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "St\u00e2mo",
+        "\u015ea\u0163\u0101m\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164032
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82a0e1a55daa1b53d48fa8ba9079cd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1259687201,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259687201,
+    "wof:lastmodified":1537701710,
+    "wof:name":"Sitamu",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92287,
+    35.48025999999999,
+    35.92287,
+    35.48025999999999
+],
+  "geometry": {"coordinates":[35.92287,35.48025999999999],"type":"Point"}
+}

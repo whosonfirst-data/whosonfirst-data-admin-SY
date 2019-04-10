@@ -1,0 +1,72 @@
+{
+  "id": 1209539715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.77288,36.69532,38.77288,36.69532",
+    "geom:latitude":36.69532,
+    "geom:longitude":38.77288,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sharikh",
+    "gn:country_code":"SY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164430,
+    "gn:latitude":36.69532,
+    "gn:longitude":38.77288,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Sh\u0101r\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101rikh \u2018Abd\u012b"
+    ],
+    "name:ara_x_variant":[
+        "Sh\u0101r\u012bkh",
+        "\u0634\u0627\u0631\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Tch\u00e2rikh Aabdi",
+        "Tsh\u0101r\u012bkh \u2018Abd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164430
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3a46326264a5cd4377104bf00a6c3f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209539715
+        }
+    ],
+    "wof:id":1209539715,
+    "wof:lastmodified":1537701733,
+    "wof:name":"Sharikh",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.77288,
+    36.69532,
+    38.77288,
+    36.69532
+],
+  "geometry": {"coordinates":[38.77288,36.69532],"type":"Point"}
+}

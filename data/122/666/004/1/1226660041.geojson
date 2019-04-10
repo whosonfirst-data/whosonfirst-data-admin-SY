@@ -1,0 +1,74 @@
+{
+  "id": 1226660041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81756,35.76168,40.81756,35.76168",
+    "geom:latitude":35.76168,
+    "geom:longitude":40.81756,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Suhad",
+    "gn:country_code":"SY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275321,
+    "gn:latitude":35.76168,
+    "gn:longitude":40.81756,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Suh\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Suh\u0101d",
+        "Sah\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275321
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e99aee18e0f1d7722e1aab3581506240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226660041,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226660041,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Suhad",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81756,
+    35.76168,
+    40.81756,
+    35.76168
+],
+  "geometry": {"coordinates":[40.81756,35.76168],"type":"Point"}
+}

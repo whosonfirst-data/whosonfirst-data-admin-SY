@@ -1,0 +1,74 @@
+{
+  "id": 1243334557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98082,35.12325,35.98082,35.12325",
+    "geom:latitude":35.12325,
+    "geom:longitude":35.98082,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Az Zawbah",
+    "gn:country_code":"SY",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172041,
+    "gn:latitude":35.12325,
+    "gn:longitude":35.98082,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Az Zawbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ez Zaoub\u00e9",
+        "Az Zawbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172041
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"153b4eeefd91a3c399953813b5755c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243334557,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243334557,
+    "wof:lastmodified":1537702243,
+    "wof:name":"Az Zawbah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98082,
+    35.12325,
+    35.98082,
+    35.12325
+],
+  "geometry": {"coordinates":[35.98082,35.12325],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125969035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60581,35.26014,36.60581,35.26014",
+    "geom:latitude":35.26014,
+    "geom:longitude":36.60581,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23403,
+    "gn:population":23403,
+    "iso:country":"SY",
+    "lbl:latitude":35.26014,
+    "lbl:longitude":36.60581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0641\u0627\u064a\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Halfaja"
+    ],
+    "name:dut_x_preferred":[
+        "Halfaya"
+    ],
+    "name:eng_x_preferred":[
+        "Halfaya"
+    ],
+    "name:pol_x_preferred":[
+        "Halfaja"
+    ],
+    "name:spa_x_preferred":[
+        "Halfaya"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e28alf\u0101y\u0101"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":170044,
+    "qs_pg:gn_pop":23403,
+    "qs_pg:name":"\u1e28alf\u0101y\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":71770,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170044,
+        "qs_pg:id":71770,
+        "wd:id":"Q1704164"
+    },
+    "wof:country":"SY",
+    "wof:created":1497298093,
+    "wof:geomhash":"57cef34155b27f8a927302267970e372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1125969035,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1125969035,
+    "wof:lastmodified":1514505915,
+    "wof:name":"\u1e28alf\u0101y\u0101",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:population":23403,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60581,
+    35.26014,
+    36.60581,
+    35.26014
+],
+  "geometry": {"coordinates":[36.60581,35.26014],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293196287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7869,36.3385,36.7869,36.3385",
+    "geom:latitude":36.3385,
+    "geom:longitude":36.7869,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jalamah al `Atiq",
+    "gn:country_code":"SY",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169232,
+    "gn:latitude":36.3385,
+    "gn:longitude":36.7869,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Jalamah al \u2018At\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0645\u0629 \u0627\u0644\u0639\u062a\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Eski Dj\u00e9l\u00e9m\u00e9",
+        "Jalm\u00e9 el Aat\u00eeqa",
+        "Jalamah al \u2018At\u012bqah",
+        "Jalamah al \u2018At\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169232
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b37f4c7d223844b31a89629a5d50aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293196287,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293196287,
+    "wof:lastmodified":1537702054,
+    "wof:name":"Jalamah al `Atiq",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7869,
+    36.3385,
+    36.7869,
+    36.3385
+],
+  "geometry": {"coordinates":[36.7869,36.3385],"type":"Point"}
+}

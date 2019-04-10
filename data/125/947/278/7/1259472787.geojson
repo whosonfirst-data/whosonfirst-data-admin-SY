@@ -1,0 +1,73 @@
+{
+  "id": 1259472787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95188,35.88938,37.95188,35.88938",
+    "geom:latitude":35.88938,
+    "geom:longitude":37.95188,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb al Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342021,
+    "gn:latitude":35.88938,
+    "gn:longitude":37.95188,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Jubb al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342021
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce8bb39dba8c314b68b2765133b43d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1259472787,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259472787,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Jubb al Hammam",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95188,
+    35.88938,
+    37.95188,
+    35.88938
+],
+  "geometry": {"coordinates":[37.95188,35.88938],"type":"Point"}
+}

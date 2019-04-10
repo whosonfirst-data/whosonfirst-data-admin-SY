@@ -1,0 +1,73 @@
+{
+  "id": 1243439769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.322,33.22218,36.322,33.22218",
+    "geom:latitude":33.22218,
+    "geom:longitude":36.322,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rasm Shayha",
+    "gn:country_code":"SY",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259600,
+    "gn:latitude":33.22218,
+    "gn:longitude":36.322,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Rasm Shay\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0634\u064a\u062d\u0627"
+    ],
+    "name:und_x_variant":[
+        "Rasm Shay\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259600
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6f3ed87518887cb8d211b508eefc15c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1243439769,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243439769,
+    "wof:lastmodified":1537702607,
+    "wof:name":"Rasm Shayha",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.322,
+    33.22218,
+    36.322,
+    33.22218
+],
+  "geometry": {"coordinates":[36.322,33.22218],"type":"Point"}
+}

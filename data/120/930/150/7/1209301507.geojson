@@ -1,0 +1,71 @@
+{
+  "id": 1209301507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86935,35.81577,36.86935,35.81577",
+    "geom:latitude":35.81577,
+    "geom:longitude":36.86935,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr `Amim",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168731,
+    "gn:latitude":35.81577,
+    "gn:longitude":36.86935,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kafr \u2018Am\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0645\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kafer Aam\u00eem",
+        "Kafer Aammim",
+        "Kafr \u2018Amm",
+        "Kafr \u2018Am\u012bm",
+        "Kafr \u1e28am\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e74f15dfef8b8219afea4b9fb853fb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209301507
+        }
+    ],
+    "wof:id":1209301507,
+    "wof:lastmodified":1537702018,
+    "wof:name":"Kafr `Amim",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86935,
+    35.81577,
+    36.86935,
+    35.81577
+],
+  "geometry": {"coordinates":[36.86935,35.81577],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209896283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85166,35.74762,36.85166,35.74762",
+    "geom:latitude":35.74762,
+    "geom:longitude":36.85166,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khirbat Tafit",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167966,
+    "gn:latitude":35.74762,
+    "gn:longitude":36.85166,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Khirbat T\u0101fit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062a\u0627\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet T\u00e2fett",
+        "Khirbat T\u0101fit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167966
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c536a948a9a17790717b20dd2c3e506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1209896283,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1209896283,
+    "wof:lastmodified":1537701958,
+    "wof:name":"Khirbat Tafit",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85166,
+    35.74762,
+    36.85166,
+    35.74762
+],
+  "geometry": {"coordinates":[36.85166,35.74762],"type":"Point"}
+}

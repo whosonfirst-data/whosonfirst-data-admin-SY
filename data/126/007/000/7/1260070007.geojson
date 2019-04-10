@@ -1,0 +1,81 @@
+{
+  "id": 1260070007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27482,36.56391,37.27482,36.56391",
+    "geom:latitude":36.56391,
+    "geom:longitude":37.27482,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Duniq",
+    "gn:country_code":"SY",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170554,
+    "gn:latitude":36.56391,
+    "gn:longitude":37.27482,
+    "gn:modification_date":"2016-12-12",
+    "gn:name":"D\u016bn\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0628\u064a\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0646\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Doua\u00efbiq",
+        "Duwaybiq",
+        "Duwayb\u012bq",
+        "D\u016bn\u012bq",
+        "Dwaibik",
+        "Dowebeq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170554
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"02bf020fbe83857ccc9669eae1f91d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1260070007,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260070007,
+    "wof:lastmodified":1537702131,
+    "wof:name":"Duniq",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27482,
+    36.56391,
+    37.27482,
+    36.56391
+],
+  "geometry": {"coordinates":[37.27482,36.56391],"type":"Point"}
+}

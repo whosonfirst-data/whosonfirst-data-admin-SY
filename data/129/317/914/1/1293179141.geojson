@@ -1,0 +1,73 @@
+{
+  "id": 1293179141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80259,34.87909,36.80259,34.87909",
+    "geom:latitude":34.87909,
+    "geom:longitude":36.80259,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bazbiyuq",
+    "gn:country_code":"SY",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8322900,
+    "gn:latitude":34.87909,
+    "gn:longitude":36.80259,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u0101zbiy\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101zbiy\u016bq"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0632\u0628\u064a\u0648\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322900
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"43daa7bd8c963b6f02fa584acc5f7c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1293179141,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293179141,
+    "wof:lastmodified":1537702527,
+    "wof:name":"Bazbiyuq",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80259,
+    34.87909000000001,
+    36.80259,
+    34.87909000000001
+],
+  "geometry": {"coordinates":[36.80259,34.87909000000001],"type":"Point"}
+}

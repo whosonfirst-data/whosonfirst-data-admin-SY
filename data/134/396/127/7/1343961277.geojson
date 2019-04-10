@@ -1,0 +1,78 @@
+{
+  "id": 1343961277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11493,35.73781,36.11493,35.73781",
+    "geom:latitude":35.73781,
+    "geom:longitude":36.11493,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qarurah",
+    "gn:country_code":"SY",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166016,
+    "gn:latitude":35.73781,
+    "gn:longitude":36.11493,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Q\u0101r\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0631\u0648\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0631\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Q\u00e2ro\u00fbra",
+        "Q\u0101r\u016brah",
+        "K\u0101r\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166016
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"166479bedbfc085890a3ec71221df7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343961277,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343961277,
+    "wof:lastmodified":1537701826,
+    "wof:name":"Qarurah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11493,
+    35.73781,
+    36.11493,
+    35.73781
+],
+  "geometry": {"coordinates":[36.11493,35.73781],"type":"Point"}
+}

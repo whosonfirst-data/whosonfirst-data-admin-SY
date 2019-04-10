@@ -1,0 +1,73 @@
+{
+  "id": 1226160501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96186,36.05831,40.96186,36.05831",
+    "geom:latitude":36.05831,
+    "geom:longitude":40.96186,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Khabrah",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414763,
+    "gn:latitude":36.05831,
+    "gn:longitude":40.96186,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Khabrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khabirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414763
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42d62736ea62a80bed995eac264e48b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226160501,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226160501,
+    "wof:lastmodified":1537702433,
+    "wof:name":"Al Khabrah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96186,
+    36.05831,
+    40.96186,
+    36.05831
+],
+  "geometry": {"coordinates":[40.96186,36.05831],"type":"Point"}
+}

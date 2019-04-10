@@ -1,0 +1,73 @@
+{
+  "id": 1310114537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86464,35.63369,35.86464,35.63369",
+    "geom:latitude":35.63369,
+    "geom:longitude":35.86464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Harah al Jadidah",
+    "gn:country_code":"SY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512290,
+    "gn:latitude":35.63369,
+    "gn:longitude":35.86464,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Al \u1e28\u0101rah al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u0631\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101rah al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512290
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e73c82bd51befb01367172b81366062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1310114537,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310114537,
+    "wof:lastmodified":1537702575,
+    "wof:name":"Al Harah al Jadidah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86464,
+    35.63369,
+    35.86464,
+    35.63369
+],
+  "geometry": {"coordinates":[35.86464,35.63369],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310190647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14943,33.79921,36.14943,33.79921",
+    "geom:latitude":33.79921,
+    "geom:longitude":36.14943,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al `Uwayni",
+    "gn:country_code":"SY",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12883,
+    "gn:latitude":33.79921,
+    "gn:longitude":36.14943,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al \u2018Uwayn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uwayn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12883
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eed41cb47b57bd4e6f99d10384bc0795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1310190647,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1310190647,
+    "wof:lastmodified":1537701578,
+    "wof:name":"Al `Uwayni",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14943,
+    33.79921,
+    36.14943,
+    33.79921
+],
+  "geometry": {"coordinates":[36.14943,33.79921],"type":"Point"}
+}

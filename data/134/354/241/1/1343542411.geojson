@@ -1,0 +1,75 @@
+{
+  "id": 1343542411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43317,34.64905,36.43317,34.64905",
+    "geom:latitude":34.64905,
+    "geom:longitude":36.43317,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm al Mays",
+    "gn:country_code":"SY",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162986,
+    "gn:latitude":34.64905,
+    "gn:longitude":36.43317,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Umm al Mays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Oumm el Ma\u00efss",
+        "Oumm el Me\u00efs",
+        "Umm al Mays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162986
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f31a52f440e76c9ee3bfc8f7a445a6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1343542411,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343542411,
+    "wof:lastmodified":1537701628,
+    "wof:name":"Umm al Mays",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43317,
+    34.64905,
+    36.43317,
+    34.64905
+],
+  "geometry": {"coordinates":[36.43317,34.64905],"type":"Point"}
+}

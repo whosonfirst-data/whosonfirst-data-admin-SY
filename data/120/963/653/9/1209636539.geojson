@@ -1,0 +1,69 @@
+{
+  "id": 1209636539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05174,35.44559,40.05174,35.44559",
+    "geom:latitude":35.44559,
+    "geom:longitude":40.05174,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hawayij Albu Mus`ah",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169768,
+    "gn:latitude":35.44559,
+    "gn:longitude":40.05174,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u1e28aw\u0101yij \u0100lb\u016b Mu\u015f\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u064a\u062c \u0627\u0644\u0628\u0648 \u0645\u0635\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Haou\u00e2ej abou Massa\u00e2",
+        "\u1e28aw\u0101\u2019ij Ab\u016b Mu\u015f\u2018ah",
+        "\u1e28aw\u0101yij \u0100lb\u016b Mu\u015f\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169768
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1914441cc386bf1371c95b4335cc74ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209636539
+        }
+    ],
+    "wof:id":1209636539,
+    "wof:lastmodified":1537702087,
+    "wof:name":"Hawayij Albu Mus`ah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05174,
+    35.44559,
+    40.05174,
+    35.44559
+],
+  "geometry": {"coordinates":[40.05174,35.44559],"type":"Point"}
+}

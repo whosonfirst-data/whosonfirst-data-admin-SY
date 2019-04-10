@@ -1,0 +1,78 @@
+{
+  "id": 1327351531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.85106,36.98266,41.85106,36.98266",
+    "geom:latitude":36.98266,
+    "geom:longitude":41.85106,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bab al Hadid",
+    "gn:country_code":"SY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386142,
+    "gn:latitude":36.98266,
+    "gn:longitude":41.85106,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"B\u0101b al \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u062d\u062f\u064a\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "\u062f\u06d5\u0645\u0631 \u0642\u0627\u067e\u06c6"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b al \u1e28ad\u012bd",
+        "Demir Qapo",
+        "\u062f\u0645\u0631 \u0642\u0627\u062b\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386142
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ca5565f2cb256d0604cd05ff1266ac2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1327351531,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327351531,
+    "wof:lastmodified":1537702431,
+    "wof:name":"Bab al Hadid",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.85106,
+    36.98266,
+    41.85106,
+    36.98266
+],
+  "geometry": {"coordinates":[41.85106,36.98266],"type":"Point"}
+}

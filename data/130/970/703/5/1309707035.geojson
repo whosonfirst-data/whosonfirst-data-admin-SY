@@ -1,0 +1,83 @@
+{
+  "id": 1309707035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.65273,36.55687,37.65273,36.55687",
+    "geom:latitude":36.55687,
+    "geom:longitude":37.65273,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at Halisah",
+    "gn:country_code":"SY",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170035,
+    "gn:latitude":36.55687,
+    "gn:longitude":37.65273,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mazra\u2018at \u1e28al\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062d\u0644\u064a\u0635\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u062c\u0631 \u0643\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khaliss\u00e9",
+        "Khaliss\u00e9 S\u00e9rh\u00eere",
+        "H\u00e2l\u00eessa S\u00e9rh\u00eer\u00e9",
+        "\u1e28al\u012bs\u0101 a\u015f \u015eagh\u012brah",
+        "Mazra\u2018at \u1e28al\u012bsah",
+        "\u1e28al\u012bsah \u015eagh\u012brah",
+        "Khal\u012bsah \u015eagh\u012brah",
+        "\u2018Ajar K\u016by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170035
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f937b30eae5a0659483cd3f23f6cfbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1309707035,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309707035,
+    "wof:lastmodified":1537702104,
+    "wof:name":"Mazra`at Halisah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.65273,
+    36.55687,
+    37.65273,
+    36.55687
+],
+  "geometry": {"coordinates":[37.65273,36.55687],"type":"Point"}
+}

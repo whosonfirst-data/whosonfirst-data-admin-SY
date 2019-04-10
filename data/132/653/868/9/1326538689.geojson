@@ -1,0 +1,78 @@
+{
+  "id": 1326538689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98772,35.26613,35.98772,35.26613",
+    "geom:latitude":35.26613,
+    "geom:longitude":35.98772,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qurfis",
+    "gn:country_code":"SY",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165681,
+    "gn:latitude":35.26613,
+    "gn:longitude":35.98772,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qurf\u012b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qurf\u012b\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0641\u064a\u0635"
+    ],
+    "name:und_x_variant":[
+        "Qorf\u00e8s",
+        "Qarfiss",
+        "Qarf\u00ees"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165681
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"beb73a99642599752738cda66d1fe96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1326538689,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1326538689,
+    "wof:lastmodified":1537701801,
+    "wof:name":"Qurfis",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98772,
+    35.26613,
+    35.98772,
+    35.26613
+],
+  "geometry": {"coordinates":[35.98772,35.26613],"type":"Point"}
+}

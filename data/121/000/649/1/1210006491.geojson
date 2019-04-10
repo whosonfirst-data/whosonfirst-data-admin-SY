@@ -1,0 +1,77 @@
+{
+  "id": 1210006491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67766,36.5021,36.67766,36.5021",
+    "geom:latitude":36.5021,
+    "geom:longitude":36.67766,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rutanli",
+    "gn:country_code":"SY",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273809,
+    "gn:latitude":36.5021,
+    "gn:longitude":36.67766,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"R\u016b\u0163\u0101nl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "R\u016b\u0163\u0101nl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0637\u0627\u0646\u0644\u064a",
+        "\u0627\u0644\u0645\u0639\u0632\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018z\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273809
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e54ba786c46bf1aea188a8e21f7dcd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1210006491,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210006491,
+    "wof:lastmodified":1537702510,
+    "wof:name":"Rutanli",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67766,
+    36.5021,
+    36.67766,
+    36.5021
+],
+  "geometry": {"coordinates":[36.67766,36.5021],"type":"Point"}
+}

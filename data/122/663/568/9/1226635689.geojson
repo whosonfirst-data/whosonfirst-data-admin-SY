@@ -1,0 +1,90 @@
+{
+  "id": 1226635689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26701,36.8994,38.26701,36.8994",
+    "geom:latitude":36.8994,
+    "geom:longitude":38.26701,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kurabi",
+    "gn:country_code":"SY",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427219,
+    "gn:latitude":36.8994,
+    "gn:longitude":38.26701,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Kurabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016br\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0631\u0627\u0646\u064a",
+        "\u0627\u0644\u0627\u0633\u062a\u0642\u0627\u0645\u0629",
+        "\u0627\u0644\u0627\u0633\u062a\u0642\u0627\u0645\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Kurba"
+    ],
+    "name:kur_x_variant":[
+        "Kuriba",
+        "\u0643\u0648\u0631\u0628\u0627",
+        "\u0643\u06c6\u0631\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Istiq\u0101mah",
+        "Koriba",
+        "Korba",
+        "Kurbe",
+        "Al Istiq\u0101m\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427219
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fcb825fd04527e14a8e1609294abc48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226635689,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226635689,
+    "wof:lastmodified":1537702567,
+    "wof:name":"Kurabi",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26701,
+    36.8994,
+    38.26701,
+    36.8994
+],
+  "geometry": {"coordinates":[38.26701,36.8994],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326508261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30544,34.80504,36.30544,34.80504",
+    "geom:latitude":34.80504,
+    "geom:longitude":36.30544,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qurb `Ali",
+    "gn:country_code":"SY",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176785,
+    "gn:latitude":34.80504,
+    "gn:longitude":36.30544,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Qurb \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0628 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qurb \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176785
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea98952fdd8a3be4032f73aaf1fd3569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1326508261,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1326508261,
+    "wof:lastmodified":1537702606,
+    "wof:name":"Qurb `Ali",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30544,
+    34.80504000000001,
+    36.30544,
+    34.80504000000001
+],
+  "geometry": {"coordinates":[36.30544,34.80504000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343746499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65257,36.74018,36.65257,36.74018",
+    "geom:latitude":36.74018,
+    "geom:longitude":36.65257,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharab Suluk",
+    "gn:country_code":"SY",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235752,
+    "gn:latitude":36.74018,
+    "gn:longitude":36.65257,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Khar\u0101b Sul\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0635\u0644\u0648\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0627\u0628 \u0633\u0644\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b \u015eul\u016bq",
+        "Khar\u0101b Sul\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235752
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b6f8db12aa96eacbbf29d8efebc7f4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343746499,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343746499,
+    "wof:lastmodified":1537702488,
+    "wof:name":"Kharab Suluk",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65257,
+    36.74018,
+    36.65257,
+    36.74018
+],
+  "geometry": {"coordinates":[36.65257,36.74018],"type":"Point"}
+}

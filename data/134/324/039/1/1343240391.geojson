@@ -1,0 +1,72 @@
+{
+  "id": 1343240391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41667,34.81667,37.41667,34.81667",
+    "geom:latitude":34.81667,
+    "geom:longitude":37.41667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat an Nazra",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168087,
+    "gn:latitude":34.81667,
+    "gn:longitude":37.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khirbat an Nazr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kheurbet enn Nazra",
+        "Khirbat an Nazr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168087
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ac29b5dfc3bfca24fb6dd19e9510cf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1343240391,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343240391,
+    "wof:lastmodified":1537701968,
+    "wof:name":"Khirbat an Nazra",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41667,
+    34.81667,
+    37.41667,
+    34.81667
+],
+  "geometry": {"coordinates":[37.41667,34.81667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309886947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65066,34.71572,36.65066,34.71572",
+    "geom:latitude":34.71572,
+    "geom:longitude":36.65066,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shaluh",
+    "gn:country_code":"SY",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164570,
+    "gn:latitude":34.71572,
+    "gn:longitude":36.65066,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Shal\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101l\u016b\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0644\u0648\u062d"
+    ],
+    "name:und_x_variant":[
+        "Chalo\u00fbh",
+        "Cheloy\u00e9",
+        "Shal\u016b\u1e29",
+        "Sh\u0101l\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164570
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db2205c1936fcb175974d36ae46b6358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1309886947,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309886947,
+    "wof:lastmodified":1537701742,
+    "wof:name":"Shaluh",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65066,
+    34.71572,
+    36.65066,
+    34.71572
+],
+  "geometry": {"coordinates":[36.65066,34.71572],"type":"Point"}
+}

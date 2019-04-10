@@ -1,0 +1,74 @@
+{
+  "id": 1259487289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.13333,37.16667,42.13333,37.16667",
+    "geom:latitude":37.16667,
+    "geom:longitude":42.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kir Zerik",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167827,
+    "gn:latitude":37.16667,
+    "gn:longitude":42.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u012br Z\u00e9rik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u012br Z\u00e9rik"
+    ],
+    "name:und_x_variant":[
+        "Guir Z\u00e9rik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167827
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8d88ea405f1ea9a6c4afeaae07ecdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1259487289,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259487289,
+    "wof:lastmodified":1537701943,
+    "wof:name":"Kir Zerik",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.13333,
+    37.16667,
+    42.13333,
+    37.16667
+],
+  "geometry": {"coordinates":[42.13333,37.16667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209404499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70081,36.62862,36.70081,36.62862",
+    "geom:latitude":36.62862,
+    "geom:longitude":36.70081,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hamashlak",
+    "gn:country_code":"SY",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433165,
+    "gn:latitude":36.62862,
+    "gn:longitude":36.70081,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"H\u0101mashlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0645\u0634\u0644\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0645\u0634\u062a\u0644\u0643",
+        "\u062d\u0645\u0634\u0648"
+    ],
+    "name:und_x_variant":[
+        "H\u0101mashlak",
+        "\u1e28amashtlik",
+        "\u1e28amsh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433165
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5898b8ced528f405f737140e7da047d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209404499
+        }
+    ],
+    "wof:id":1209404499,
+    "wof:lastmodified":1537702621,
+    "wof:name":"Hamashlak",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70081,
+    36.62862,
+    36.70081,
+    36.62862
+],
+  "geometry": {"coordinates":[36.70081,36.62862],"type":"Point"}
+}

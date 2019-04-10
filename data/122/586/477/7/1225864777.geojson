@@ -1,0 +1,73 @@
+{
+  "id": 1225864777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32214,33.43167,36.32214,33.43167",
+    "geom:latitude":33.43167,
+    "geom:longitude":36.32214,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard az Za`arir",
+    "gn:country_code":"SY",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412213,
+    "gn:latitude":33.43167,
+    "gn:longitude":36.32214,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 az Za\u2018\u0101r\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0632\u0639\u0627\u0631\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 az Za\u2018\u0101r\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412213
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d948377adea30d1d86e050a97409d9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1225864777,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1225864777,
+    "wof:lastmodified":1537702561,
+    "wof:name":"Ard az Za`arir",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32214000000001,
+    33.43167,
+    36.32214000000001,
+    33.43167
+],
+  "geometry": {"coordinates":[36.32214000000001,33.43167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309693411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12126,34.49057,37.12126,34.49057",
+    "geom:latitude":34.49057,
+    "geom:longitude":37.12126,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat al Jajar",
+    "gn:country_code":"SY",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319,
+    "gn:latitude":34.49057,
+    "gn:longitude":37.12126,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Khirbat al Jajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062c\u062c\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"680708761893f9de62019470e106b4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1309693411,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309693411,
+    "wof:lastmodified":1537701524,
+    "wof:name":"Khirbat al Jajar",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12126,
+    34.49057,
+    37.12126,
+    34.49057
+],
+  "geometry": {"coordinates":[37.12126,34.49057],"type":"Point"}
+}

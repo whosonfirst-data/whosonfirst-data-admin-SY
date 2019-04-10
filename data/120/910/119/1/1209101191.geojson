@@ -1,0 +1,72 @@
+{
+  "id": 1209101191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24531,35.40715,36.24531,35.40715",
+    "geom:latitude":35.40715,
+    "geom:longitude":36.24531,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Masla",
+    "gn:country_code":"SY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173489,
+    "gn:latitude":35.40715,
+    "gn:longitude":36.24531,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Ma\u015fl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0628\u0639 \u0627\u0644\u0637\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Masla",
+        "Al Ma\u015fl\u0101",
+        "Nab\u2018 a\u0163 \u0162ayyib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173489
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d1424c36587c0adef14eebf34ccffa90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209101191
+        }
+    ],
+    "wof:id":1209101191,
+    "wof:lastmodified":1537702339,
+    "wof:name":"Al Masla",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24531,
+    35.40715,
+    36.24531,
+    35.40715
+],
+  "geometry": {"coordinates":[36.24531,35.40715],"type":"Point"}
+}

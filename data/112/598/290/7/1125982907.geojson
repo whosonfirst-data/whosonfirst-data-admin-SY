@@ -1,0 +1,87 @@
+{
+  "id": 1125982907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76978,36.21252,36.76978,36.21252",
+    "geom:latitude":36.21252,
+    "geom:longitude":36.76978,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":21987,
+    "gn:population":21987,
+    "iso:country":"SY",
+    "lbl:latitude":36.21252,
+    "lbl:longitude":36.76978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Ad D\u0101n\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0627\u0646\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Ed D\u00e2na"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":174259,
+    "qs_pg:gn_pop":21987,
+    "qs_pg:name":"Ad D\u0101n\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":73303,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174259,
+        "qs_pg:id":73303
+    },
+    "wof:country":"SY",
+    "wof:created":1497298646,
+    "wof:geomhash":"ef516bdabf4511cb9ecb520df7e81acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1125982907,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1125982907,
+    "wof:lastmodified":1509404880,
+    "wof:name":"Ad D\u0101n\u0101",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:population":21987,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76978,
+    36.21252,
+    36.76978,
+    36.21252
+],
+  "geometry": {"coordinates":[36.76978,36.21252],"type":"Point"}
+}

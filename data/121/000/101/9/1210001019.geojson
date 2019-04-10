@@ -1,0 +1,75 @@
+{
+  "id": 1210001019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45217,35.75502,37.45217,35.75502",
+    "geom:latitude":35.75502,
+    "geom:longitude":37.45217,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hijarah Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169600,
+    "gn:latitude":35.75502,
+    "gn:longitude":37.45217,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28ij\u0101rah \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0627\u0631\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hj\u00e2ra S\u00e9rhir\u00e9",
+        "\u1e28ij\u0101rah a\u015f \u015eagh\u012brah",
+        "\u1e28ij\u0101rah \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169600
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0dab4c99ec3123e243cc4abf2d18f906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1210001019,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210001019,
+    "wof:lastmodified":1537702076,
+    "wof:name":"Hijarah Saghirah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45217,
+    35.75502,
+    37.45217,
+    35.75502
+],
+  "geometry": {"coordinates":[37.45217,35.75502],"type":"Point"}
+}

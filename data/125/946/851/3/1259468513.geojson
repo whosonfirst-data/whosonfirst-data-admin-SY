@@ -1,0 +1,75 @@
+{
+  "id": 1259468513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69664,33.92522,36.69664,33.92522",
+    "geom:latitude":33.92522,
+    "geom:longitude":36.69664,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Qastal",
+    "gn:country_code":"SY",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173353,
+    "gn:latitude":33.92522,
+    "gn:longitude":36.69664,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al Qas\u0163al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0633\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "El Qastal",
+        "Qastal",
+        "Al Qas\u0163al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173353
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4049008d4d834c64efb428466dd708b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779095,
+            "locality_id":1259468513,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259468513,
+    "wof:lastmodified":1537702326,
+    "wof:name":"Al Qastal",
+    "wof:parent_id":1108779095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69664,
+    33.92522,
+    36.69664,
+    33.92522
+],
+  "geometry": {"coordinates":[36.69664,33.92522],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360180535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25628,35.47534,36.25628,35.47534",
+    "geom:latitude":35.47534,
+    "geom:longitude":36.25628,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fata`in",
+    "gn:country_code":"SY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170430,
+    "gn:latitude":35.47534,
+    "gn:longitude":36.25628,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Fata\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u062a\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fataine",
+        "Fata\u2018\u012bn",
+        "Mat\u2018\u012bn",
+        "Ftain",
+        "Ftaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170430
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b3d78fad37bafbd61ff8db24614c4c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1360180535,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360180535,
+    "wof:lastmodified":1537702123,
+    "wof:name":"Fata`in",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25628,
+    35.47534,
+    36.25628,
+    35.47534
+],
+  "geometry": {"coordinates":[36.25628,35.47534],"type":"Point"}
+}

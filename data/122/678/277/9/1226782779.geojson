@@ -1,0 +1,77 @@
+{
+  "id": 1226782779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.99217,36.46201,38.99217,36.46201",
+    "geom:latitude":36.46201,
+    "geom:longitude":38.99217,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wasitah Maksur",
+    "gn:country_code":"SY",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162656,
+    "gn:latitude":36.46201,
+    "gn:longitude":38.99217,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"W\u0101si\u0163ah Maks\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0633\u0637\u0629 \u0645\u0643\u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ou\u00e2sta",
+        "W\u0101si\u0163ah",
+        "Ou\u00e2sta Makso\u00fbr",
+        "W\u0101si\u0163ah Maks\u016br",
+        "W\u0101si\u0163at Maks\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162656
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"000b972748bc38e8c1dc2e789807ebc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1226782779,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226782779,
+    "wof:lastmodified":1537701605,
+    "wof:name":"Wasitah Maksur",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.99217,
+    36.46201,
+    38.99217,
+    36.46201
+],
+  "geometry": {"coordinates":[38.99217,36.46201],"type":"Point"}
+}

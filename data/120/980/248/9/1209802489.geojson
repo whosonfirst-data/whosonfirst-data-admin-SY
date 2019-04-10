@@ -1,0 +1,74 @@
+{
+  "id": 1209802489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5383,35.4386,36.5383,35.4386",
+    "geom:latitude":35.4386,
+    "geom:longitude":36.5383,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Habit",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173864,
+    "gn:latitude":35.4386,
+    "gn:longitude":36.5383,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Al Hab\u012b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0628\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Hab\u00eete",
+        "Al Hab\u012b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173864
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9c4b93ff898ef333a16b22b6eb21a56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1209802489,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1209802489,
+    "wof:lastmodified":1537702371,
+    "wof:name":"Al Habit",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5383,
+    35.4386,
+    36.5383,
+    35.4386
+],
+  "geometry": {"coordinates":[36.5383,35.4386],"type":"Point"}
+}

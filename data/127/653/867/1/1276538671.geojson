@@ -1,0 +1,80 @@
+{
+  "id": 1276538671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49852,36.24518,37.49852,36.24518",
+    "geom:latitude":36.24518,
+    "geom:longitude":37.49852,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qatar",
+    "gn:country_code":"SY",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173349,
+    "gn:latitude":36.24518,
+    "gn:longitude":37.49852,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al Qa\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qatar",
+        "El Katar",
+        "El Qatar",
+        "Al Qa\u0163ar",
+        "Qa\u0163ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173349
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82bbdf1a8b37d601fcdbfe450bf74f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1276538671,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276538671,
+    "wof:lastmodified":1537702326,
+    "wof:name":"Al Qatar",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49852,
+    36.24518,
+    37.49852,
+    36.24518
+],
+  "geometry": {"coordinates":[37.49852,36.24518],"type":"Point"}
+}

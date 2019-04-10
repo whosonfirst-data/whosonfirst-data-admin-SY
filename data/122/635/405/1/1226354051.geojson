@@ -1,0 +1,103 @@
+{
+  "id": 1226354051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87173,33.08294,35.87173,33.08294",
+    "geom:latitude":33.08294,
+    "geom:longitude":35.87173,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ruwayhinah",
+    "gn:country_code":"SY",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165250,
+    "gn:latitude":33.08294,
+    "gn:longitude":35.87173,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Ruway\u1e29\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u062d\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u064a\u062d\u064a\u0646\u0629",
+        "\u0627\u0644\u0631\u0648\u064a\u062d\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ro\u00fbh\u00eene",
+        "Ru\u1e29\u012bnah",
+        "Ruway\u1e29ibah",
+        "Ruway\u1e29\u012bnah",
+        "Ar Ruway\u1e29\u012bnah",
+        "Ruway\u1e29inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165250
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b159db3eeaa4426f7754f32018885614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1226354051,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1226354051,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1226354051,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1226354051,
+    "wof:lastmodified":1537701774,
+    "wof:name":"Ruwayhinah",
+    "wof:parent_id":1108779081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87173,
+    33.08294,
+    35.87173,
+    33.08294
+],
+  "geometry": {"coordinates":[35.87173,33.08294],"type":"Point"}
+}

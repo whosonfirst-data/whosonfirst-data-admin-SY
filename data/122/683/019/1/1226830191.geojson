@@ -1,0 +1,73 @@
+{
+  "id": 1226830191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73742,34.75635,36.73742,34.75635",
+    "geom:latitude":34.75635,
+    "geom:longitude":36.73742,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qaryat as Samiriyah",
+    "gn:country_code":"SY",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7635227,
+    "gn:latitude":34.75635,
+    "gn:longitude":36.73742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryat as S\u0101mir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0633\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat as S\u0101mir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7635227
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3c748a7997a444dc11ee226a2196c9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226830191,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226830191,
+    "wof:lastmodified":1537702467,
+    "wof:name":"Qaryat as Samiriyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73742,
+    34.75635,
+    36.73742,
+    34.75635
+],
+  "geometry": {"coordinates":[36.73742,34.75635],"type":"Point"}
+}

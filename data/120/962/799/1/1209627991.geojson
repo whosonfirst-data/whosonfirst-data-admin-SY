@@ -1,0 +1,77 @@
+{
+  "id": 1209627991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99999,35.41161,35.99999,35.41161",
+    "geom:latitude":35.41161,
+    "geom:longitude":35.99999,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Binjaru",
+    "gn:country_code":"SY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171826,
+    "gn:latitude":35.41161,
+    "gn:longitude":35.99999,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Binj\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Binj\u0101r\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0646\u062c\u0627\u0631\u0648",
+        "\u0627\u0644\u0631\u0648\u0636\u0629",
+        "\u0627\u0644\u0631\u0648\u0636\u0629 \u0628\u0646\u062c\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bennj\u00e2ro",
+        "Banj\u0101rah",
+        "Banj\u0101r\u016b",
+        "Ar Raw\u1e11ah",
+        "Rawda Benjaro",
+        "Ar Raw\u1e11ah Binj\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171826
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"89e9307bf6adc3f3f2b018dc19adeb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209627991
+        }
+    ],
+    "wof:id":1209627991,
+    "wof:lastmodified":1537702227,
+    "wof:name":"Binjaru",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99999000000001,
+    35.41161,
+    35.99999000000001,
+    35.41161
+],
+  "geometry": {"coordinates":[35.99999000000001,35.41161],"type":"Point"}
+}

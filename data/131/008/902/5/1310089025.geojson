@@ -1,0 +1,78 @@
+{
+  "id": 1310089025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96051,34.87747,35.96051,34.87747",
+    "geom:latitude":34.87747,
+    "geom:longitude":35.96051,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dayr Hibash",
+    "gn:country_code":"SY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170667,
+    "gn:latitude":34.87747,
+    "gn:longitude":35.96051,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Dayr \u1e28ib\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Di\u1e29b\u0101sh"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u062d\u0628\u0627\u0634",
+        "\u062f\u064a\u0631 \u062d\u0628\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Dihb\u00e2ch",
+        "Dayr \u1e28ib\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170667
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"743285476faeefa0243fc6091e1be987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1310089025,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310089025,
+    "wof:lastmodified":1537702139,
+    "wof:name":"Dayr Hibash",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96051,
+    34.87747,
+    35.96051,
+    34.87747
+],
+  "geometry": {"coordinates":[35.96051,34.87747],"type":"Point"}
+}

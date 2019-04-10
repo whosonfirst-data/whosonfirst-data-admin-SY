@@ -1,0 +1,75 @@
+{
+  "id": 1293071991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01343,35.15449,36.01343,35.15449",
+    "geom:latitude":35.15449,
+    "geom:longitude":36.01343,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bluzat al Marqab",
+    "gn:country_code":"SY",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171323,
+    "gn:latitude":35.15449,
+    "gn:longitude":36.01343,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bl\u016bzat al Marqab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0632\u0629 \u0627\u0644\u0645\u0631\u0642\u0628"
+    ],
+    "name:und_x_variant":[
+        "Blo\u00fbzet el Maraab",
+        "Blo\u00fbzet el Marqab",
+        "Bl\u016bzat al Marqab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171323
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8a08b599447375405f008cb26c7b90d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1293071991,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293071991,
+    "wof:lastmodified":1537702189,
+    "wof:name":"Bluzat al Marqab",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01343,
+    35.15449,
+    36.01343,
+    35.15449
+],
+  "geometry": {"coordinates":[36.01343,35.15449],"type":"Point"}
+}

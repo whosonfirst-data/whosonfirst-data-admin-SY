@@ -1,0 +1,86 @@
+{
+  "id": 1209728625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97564,35.50164,35.97564,35.50164",
+    "geom:latitude":35.50164,
+    "geom:longitude":35.97564,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Basiqah al Gharbiyah",
+    "gn:country_code":"SY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171270,
+    "gn:latitude":35.50164,
+    "gn:longitude":35.97564,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bas\u012bqah al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0633\u064a\u0642\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+        "\u0628\u0633\u064a\u0642\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bezirka",
+        "Bs\u00eeqa el Rharb\u00eey\u00e9",
+        "Bezirka Rharbi",
+        "Bs\u00eeqa",
+        "Bs\u012bq\u0101 al Gharb\u012byah",
+        "Bas\u012bqah",
+        "Bas\u012bqah al Gharb\u012byah",
+        "Baz\u012brkah al Gharb\u012byah",
+        "Bas\u012bq\u0101 al Gharb\u012byah",
+        "Bs\u012bqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171270
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"89986f9d2f61dbf29e61eb069a2d6438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1209728625,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1209728625,
+    "wof:lastmodified":1537702183,
+    "wof:name":"Basiqah al Gharbiyah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97564000000001,
+    35.50164,
+    35.97564000000001,
+    35.50164
+],
+  "geometry": {"coordinates":[35.97564000000001,35.50164],"type":"Point"}
+}

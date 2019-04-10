@@ -1,0 +1,95 @@
+{
+  "id": 1226438417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.37768,36.81051,38.37768,36.81051",
+    "geom:latitude":36.81051,
+    "geom:longitude":38.37768,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qurdin",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165786,
+    "gn:latitude":36.81051,
+    "gn:longitude":38.37768,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Q\u016brd\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0631\u062f\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0648\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Nurdan"
+    ],
+    "name:kur_x_variant":[
+        "Nordan",
+        "N\u00fbrdan",
+        "\u0646\u0648\u0631\u062f\u0627\u0646",
+        "\u0646\u06c6\u0631\u062f\u0627\u0646",
+        "\u0646\u0648\u0648\u0631\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Nordane",
+        "Qourd\u00eeni",
+        "Mo\u00fbrd\u00e2ne",
+        "Qurd\u012bnah",
+        "No\u00fbrd\u00e2ne",
+        "Q\u016brd\u012bn",
+        "Qurdin",
+        "An N\u016br",
+        "El N\u00fbr",
+        "Al N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165786
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fc7aa7e1397873467458f56bb8bb82a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226438417,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226438417,
+    "wof:lastmodified":1537701809,
+    "wof:name":"Qurdin",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.37768,
+    36.81051,
+    38.37768,
+    36.81051
+],
+  "geometry": {"coordinates":[38.37768,36.81051],"type":"Point"}
+}

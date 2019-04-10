@@ -1,0 +1,77 @@
+{
+  "id": 1309706509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90003,35.22624,36.90003,35.22624",
+    "geom:latitude":35.22624,
+    "geom:longitude":36.90003,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qanas",
+    "gn:country_code":"SY",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4445,
+    "gn:latitude":35.22624,
+    "gn:longitude":36.90003,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Qana\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0646\u0635"
+    ],
+    "name:und_x_variant":[
+        "Junas",
+        "Qana\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4445
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f3cbbdf8afc16b0525686eff1f23454d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1309706509,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309706509,
+    "wof:lastmodified":1537701542,
+    "wof:name":"Qanas",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90003,
+    35.22624000000001,
+    36.90003,
+    35.22624000000001
+],
+  "geometry": {"coordinates":[36.90003,35.22624000000001],"type":"Point"}
+}

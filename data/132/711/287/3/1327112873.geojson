@@ -1,0 +1,74 @@
+{
+  "id": 1327112873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18968,34.76614,36.18968,34.76614",
+    "geom:latitude":34.76614,
+    "geom:longitude":36.18968,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nab` al `Arus",
+    "gn:country_code":"SY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166493,
+    "gn:latitude":34.76614,
+    "gn:longitude":36.18968,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Nab\u2018 al \u2018Ar\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0639 \u0627\u0644\u0639\u0631\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Nabaa el Aaro\u00fbs",
+        "Nab\u2018 al \u2018Ar\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166493
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"80adbd82dfd617d7103b2571aa394f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1327112873,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327112873,
+    "wof:lastmodified":1537701861,
+    "wof:name":"Nab` al `Arus",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18968,
+    34.76614,
+    36.18968,
+    34.76614
+],
+  "geometry": {"coordinates":[36.18968,34.76614],"type":"Point"}
+}

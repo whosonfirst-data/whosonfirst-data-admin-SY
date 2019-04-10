@@ -1,0 +1,77 @@
+{
+  "id": 1327019451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0875,36.4524,38.0875,36.4524",
+    "geom:latitude":36.4524,
+    "geom:longitude":38.0875,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khafiyat Abu Qalqal",
+    "gn:country_code":"SY",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168424,
+    "gn:latitude":36.4524,
+    "gn:longitude":38.0875,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kh\u0101fiyat Ab\u016b Qalqal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0641\u064a\u0629 \u0623\u0628\u0648 \u0642\u0644\u0642\u0644"
+    ],
+    "name:und_x_variant":[
+        "Markaz",
+        "Khaf\u012bya",
+        "Kh\u00e2f\u00eeyet Abou Qalqal",
+        "Khaf\u012byat Ab\u016b Qalqal",
+        "Kh\u0101fiyat Ab\u016b Qalqal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6a1e4443850d710664a1a9325a7473d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1327019451,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327019451,
+    "wof:lastmodified":1537701990,
+    "wof:name":"Khafiyat Abu Qalqal",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0875,
+    36.4524,
+    38.0875,
+    36.4524
+],
+  "geometry": {"coordinates":[38.0875,36.4524],"type":"Point"}
+}

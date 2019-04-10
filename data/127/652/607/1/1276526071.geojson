@@ -1,0 +1,78 @@
+{
+  "id": 1276526071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04924,34.85206,37.04924,34.85206",
+    "geom:latitude":34.85206,
+    "geom:longitude":37.04924,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mukharram at Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166718,
+    "gn:latitude":34.85206,
+    "gn:longitude":37.04924,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Mukharram at Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u0631\u0645 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mkharram ett Tahani",
+        "Moukharram Taht\u00e2ni",
+        "Mkharram Taht\u00e2ni",
+        "Mukharram Ta\u1e29t\u0101n\u012b",
+        "Moukharrem et Tahtani",
+        "Mukharram at Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166718
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c1282cf65236cefd39fb5218b479accf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1276526071,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276526071,
+    "wof:lastmodified":1537701876,
+    "wof:name":"Mukharram at Tahtani",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04924000000001,
+    34.85205999999999,
+    37.04924000000001,
+    34.85205999999999
+],
+  "geometry": {"coordinates":[37.04924000000001,34.85205999999999],"type":"Point"}
+}

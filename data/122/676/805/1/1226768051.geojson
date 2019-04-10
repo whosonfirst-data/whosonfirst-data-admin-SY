@@ -1,0 +1,75 @@
+{
+  "id": 1226768051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64001,35.27388,36.64001,35.27388",
+    "geom:latitude":35.27388,
+    "geom:longitude":36.64001,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haysah al Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169656,
+    "gn:latitude":35.27388,
+    "gn:longitude":36.64001,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1e28ay\u015fah al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0635\u0629 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00efssa Rharbi",
+        "\u1e28ay\u015fah al Gharb\u012byah",
+        "\u1e28ay\u015fah al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169656
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"39c6e272b4e5baa908cef733cd1ca5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226768051,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226768051,
+    "wof:lastmodified":1537702079,
+    "wof:name":"Haysah al Gharbi",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64001,
+    35.27388,
+    36.64001,
+    35.27388
+],
+  "geometry": {"coordinates":[36.64001,35.27388],"type":"Point"}
+}

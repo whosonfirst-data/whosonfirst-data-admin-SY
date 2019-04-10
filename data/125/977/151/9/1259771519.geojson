@@ -1,0 +1,73 @@
+{
+  "id": 1259771519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45216,34.6573,37.45216,34.6573",
+    "geom:latitude":34.6573,
+    "geom:longitude":37.45216,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tafhah",
+    "gn:country_code":"SY",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371,
+    "gn:latitude":34.6573,
+    "gn:longitude":37.45216,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u0162af\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0641\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162af\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f5d73d38450ca55b80d77efbc64d3a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1259771519,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259771519,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Tafhah",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45216,
+    34.6573,
+    37.45216,
+    34.6573
+],
+  "geometry": {"coordinates":[37.45216,34.6573],"type":"Point"}
+}

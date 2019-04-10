@@ -1,0 +1,73 @@
+{
+  "id": 1309706503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67796,35.09411,36.67796,35.09411",
+    "geom:latitude":35.09411,
+    "geom:longitude":36.67796,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Maqta` al Hajar",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556212,
+    "gn:latitude":35.09411,
+    "gn:longitude":36.67796,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Maq\u0163a\u2018 al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0637\u0639 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Maq\u0163a\u2018 al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6bfb14deef502db4c2ba2d9b3888e711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1309706503,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309706503,
+    "wof:lastmodified":1537702639,
+    "wof:name":"Maqta` al Hajar",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67796,
+    35.09411,
+    36.67796,
+    35.09411
+],
+  "geometry": {"coordinates":[36.67796,35.09411],"type":"Point"}
+}

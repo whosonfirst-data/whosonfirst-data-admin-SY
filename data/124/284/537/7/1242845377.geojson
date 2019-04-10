@@ -1,0 +1,75 @@
+{
+  "id": 1242845377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10156,34.81085,36.10156,34.81085",
+    "geom:latitude":34.81085,
+    "geom:longitude":36.10156,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mandarah",
+    "gn:country_code":"SY",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173522,
+    "gn:latitude":34.81085,
+    "gn:longitude":36.10156,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mandarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062f\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Manndra",
+        "Al Mandarah",
+        "Mandarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173522
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1a211a1ff98cc06e7148c7ff344413b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1242845377,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242845377,
+    "wof:lastmodified":1537702341,
+    "wof:name":"Mandarah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10156,
+    34.81085,
+    36.10156,
+    34.81085
+],
+  "geometry": {"coordinates":[36.10156,34.81085],"type":"Point"}
+}

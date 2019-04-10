@@ -1,0 +1,73 @@
+{
+  "id": 1276678259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36479,33.5824,36.36479,33.5824",
+    "geom:latitude":33.5824,
+    "geom:longitude":36.36479,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dahiyat al Asad",
+    "gn:country_code":"SY",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11262037,
+    "gn:latitude":33.5824,
+    "gn:longitude":36.36479,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"\u1e10\u0101\u1e29iyat al Asad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0623\u0633\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e10\u0101\u1e29iyat al Asad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11262037
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af6afeb110d930553efe93840ef9daef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1276678259,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1276678259,
+    "wof:lastmodified":1537702613,
+    "wof:name":"Dahiyat al Asad",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36479,
+    33.5824,
+    36.36479,
+    33.5824
+],
+  "geometry": {"coordinates":[36.36479,33.5824],"type":"Point"}
+}

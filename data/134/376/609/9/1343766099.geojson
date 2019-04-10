@@ -1,0 +1,77 @@
+{
+  "id": 1343766099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35067,36.8905,40.35067,36.8905",
+    "geom:latitude":36.8905,
+    "geom:longitude":40.35067,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Busays Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171130,
+    "gn:latitude":36.8905,
+    "gn:longitude":40.35067,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Busays Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0633 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Bu\u015fay\u015f al Fawq\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bse\u00efss Faouq\u00e2ni",
+        "Busays Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171130
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0387d9e2b2fc8d13c78d5a05a94a0929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1343766099,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343766099,
+    "wof:lastmodified":1537702172,
+    "wof:name":"Busays Fawqani",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35067,
+    36.8905,
+    40.35067,
+    36.8905
+],
+  "geometry": {"coordinates":[40.35067,36.8905],"type":"Point"}
+}

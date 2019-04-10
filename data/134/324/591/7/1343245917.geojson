@@ -1,0 +1,76 @@
+{
+  "id": 1343245917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0112,35.15378,37.0112,35.15378",
+    "geom:latitude":35.15378,
+    "geom:longitude":37.0112,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Siba`",
+    "gn:country_code":"SY",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164154,
+    "gn:latitude":35.15378,
+    "gn:longitude":37.0112,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sib\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sib\u0101\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0628\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Sb\u00e2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c948e1942ae9bc74b2597ce7ddeabccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343245917,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343245917,
+    "wof:lastmodified":1537701718,
+    "wof:name":"Siba`",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0112,
+    35.15378,
+    37.0112,
+    35.15378
+],
+  "geometry": {"coordinates":[37.0112,35.15378],"type":"Point"}
+}

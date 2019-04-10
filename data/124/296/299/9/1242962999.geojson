@@ -1,0 +1,74 @@
+{
+  "id": 1242962999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39154,35.79306,37.39154,35.79306",
+    "geom:latitude":35.79306,
+    "geom:longitude":37.39154,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Murabba`at Sallum",
+    "gn:country_code":"SY",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166643,
+    "gn:latitude":35.79306,
+    "gn:longitude":37.39154,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Murabba\u2018at Sall\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0628\u0639\u0629 \u0633\u0644\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mourabbaet Sallo\u00fbm",
+        "Murabba\u2018at Sall\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166643
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0a995904dcfb9c7e14c331e10e73988f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1242962999,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242962999,
+    "wof:lastmodified":1537701871,
+    "wof:name":"Murabba`at Sallum",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39154,
+    35.79306,
+    37.39154,
+    35.79306
+],
+  "geometry": {"coordinates":[37.39154,35.79306],"type":"Point"}
+}

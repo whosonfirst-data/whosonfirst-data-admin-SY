@@ -1,0 +1,76 @@
+{
+  "id": 1293474413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23749,36.67352,38.23749,36.67352",
+    "geom:latitude":36.67352,
+    "geom:longitude":38.23749,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khurus",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9152,
+    "gn:latitude":36.67352,
+    "gn:longitude":38.23749,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Khur\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Khar\u016bs",
+        "Khur\u016bs",
+        "Khourouss",
+        "Khouro\u00fbs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9152
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"afb76a3a0f209a0df904d70aa99d1c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1293474413,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293474413,
+    "wof:lastmodified":1537701566,
+    "wof:name":"Khurus",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23749,
+    36.67352,
+    38.23749,
+    36.67352
+],
+  "geometry": {"coordinates":[38.23749,36.67352],"type":"Point"}
+}

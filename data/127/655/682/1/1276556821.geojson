@@ -1,0 +1,78 @@
+{
+  "id": 1276556821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03055,35.50663,36.03055,35.50663",
+    "geom:latitude":35.50663,
+    "geom:longitude":36.03055,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayr Zaytun",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4508,
+    "gn:latitude":35.50663,
+    "gn:longitude":36.03055,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Dayr Zayt\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0632\u064a\u062a\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0637\u0649 \u062f\u064a\u0631 \u0632\u064a\u062a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dayr Zayt\u016bn",
+        "Wa\u0163\u00e1 Dayr Zayt\u016bn",
+        "Wa\u0163\u00e1 Dayr Zayn\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4508
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"efc63e3ca7fb4b2ac0bdc5297719c37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1276556821,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276556821,
+    "wof:lastmodified":1537701544,
+    "wof:name":"Dayr Zaytun",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03055,
+    35.50663,
+    36.03055,
+    35.50663
+],
+  "geometry": {"coordinates":[36.03055,35.50663],"type":"Point"}
+}

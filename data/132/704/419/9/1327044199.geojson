@@ -1,0 +1,73 @@
+{
+  "id": 1327044199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.89362,35.81245,40.89362,35.81245",
+    "geom:latitude":35.81245,
+    "geom:longitude":40.89362,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zarifah",
+    "gn:country_code":"SY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275299,
+    "gn:latitude":35.81245,
+    "gn:longitude":40.89362,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Z\u0327ar\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0631\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ar\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275299
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f29c0fd3446ec9885a8912a0dc3336af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1327044199,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327044199,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Zarifah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.89362,
+    35.81245,
+    40.89362,
+    35.81245
+],
+  "geometry": {"coordinates":[40.89362,35.81245],"type":"Point"}
+}

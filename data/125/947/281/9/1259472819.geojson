@@ -1,0 +1,75 @@
+{
+  "id": 1259472819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.24116,36.69602,38.24116,36.69602",
+    "geom:latitude":36.69602,
+    "geom:longitude":38.24116,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharab Quwaytaji",
+    "gn:country_code":"SY",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168299,
+    "gn:latitude":36.69602,
+    "gn:longitude":38.24116,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khar\u0101b Quwaytaj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0642\u0648\u064a\u062a\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khar\u00e2b Qouyoundji",
+        "Khar\u0101b Q\u016by\u016bnj\u012b",
+        "Khar\u0101b Quwaytaj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168299
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1d2947fd74aa45b532e479a11a236004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259472819,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259472819,
+    "wof:lastmodified":1537701981,
+    "wof:name":"Kharab Quwaytaji",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.24116,
+    36.69602,
+    38.24116,
+    36.69602
+],
+  "geometry": {"coordinates":[38.24116,36.69602],"type":"Point"}
+}

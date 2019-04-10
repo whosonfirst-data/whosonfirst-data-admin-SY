@@ -1,0 +1,74 @@
+{
+  "id": 1293013403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1361,35.83355,36.1361,35.83355",
+    "geom:latitude":35.83355,
+    "geom:longitude":36.1361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yamadiyah",
+    "gn:country_code":"SY",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322479,
+    "gn:latitude":35.83355,
+    "gn:longitude":36.1361,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Yam\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0645\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yam\u0101d\u012byah",
+        "Yamad\u00eee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322479
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa8fd9acf156b0d794636d9a28a34c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293013403,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293013403,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Yamadiyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1361,
+    35.83355,
+    36.1361,
+    35.83355
+],
+  "geometry": {"coordinates":[36.1361,35.83355],"type":"Point"}
+}

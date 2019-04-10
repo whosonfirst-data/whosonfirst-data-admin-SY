@@ -1,0 +1,75 @@
+{
+  "id": 1226738887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35168,34.92608,36.35168,34.92608",
+    "geom:latitude":34.92608,
+    "geom:longitude":36.35168,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Huwayr at Turkuman",
+    "gn:country_code":"SY",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169423,
+    "gn:latitude":34.92608,
+    "gn:longitude":36.35168,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28uwayr at Turkum\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0631 \u0627\u0644\u062a\u0631\u0643\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Houa\u00efr ett Tourkm\u00e2ne",
+        "Houa\u00efr ett Toukm\u00e2ne",
+        "\u1e28uwayr at Turkum\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169423
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d19567acab96ea0ab34c9a093ec9d306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1226738887,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226738887,
+    "wof:lastmodified":1537702065,
+    "wof:name":"Huwayr at Turkuman",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35168,
+    34.92608,
+    36.35168,
+    34.92608
+],
+  "geometry": {"coordinates":[36.35168,34.92608],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293222723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43544,32.65861,36.43544,32.65861",
+    "geom:latitude":32.65861,
+    "geom:longitude":36.43544,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Umm Walad",
+    "gn:country_code":"SY",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162813,
+    "gn:latitude":32.65861,
+    "gn:longitude":36.43544,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Umm Walad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0648\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "Oumm Oualed",
+        "Umm Weled",
+        "Oumm Oualad",
+        "Umm Walad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162813,
+        "wk:page":"Umm_Walad"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6317e9a5e7c60f422b5648ee31905a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1293222723,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1293222723,
+    "wof:lastmodified":1537701616,
+    "wof:name":"Umm Walad",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43544,
+    32.65861,
+    36.43544,
+    32.65861
+],
+  "geometry": {"coordinates":[36.43544,32.65861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343951419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,35.16389,37.2,35.16389",
+    "geom:latitude":35.16389,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saburah",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420112,
+    "gn:latitude":35.16389,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eab\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eab\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420112
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ed95010d2ad7ed8fc0e0c2b0586adee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343951419,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343951419,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Saburah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    35.16389,
+    37.2,
+    35.16389
+],
+  "geometry": {"coordinates":[37.2,35.16389],"type":"Point"}
+}

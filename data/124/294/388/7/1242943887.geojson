@@ -1,0 +1,84 @@
+{
+  "id": 1242943887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04861,34.75481,36.04861,34.75481",
+    "geom:latitude":34.75481,
+    "geom:longitude":36.04861,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Abbuli al `Arid",
+    "gn:country_code":"SY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174668,
+    "gn:latitude":34.75481,
+    "gn:longitude":36.04861,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Abb\u016bl\u012b al \u2018Ar\u012b\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Abb\u016bl\u012b \u2018Ar\u012b\u1e11"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648\u0644\u064a \u0639\u0631\u064a\u0636",
+        "\u0641\u062a\u0627\u062d \u0623\u0628\u0648\u0644\u064a",
+        "\u0623\u0628\u0648\u0644\u064a \u0627\u0644\u0639\u0631\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Abboul\u00e9 Arid",
+        "Aar\u00eedet Aboulli",
+        "Abbouli Arid",
+        "Fat\u0101\u1e29 Ab\u016bl\u012b",
+        "Abb\u016bl\u012b al \u2018Ar\u012b\u1e11",
+        "Abbouli Aar\u00eed",
+        "Abb\u016bl\u012b \u2018Ar\u012b\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174668
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"75ab70d614853b35d134b75515cbee11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1242943887,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242943887,
+    "wof:lastmodified":1537702418,
+    "wof:name":"Abbuli al `Arid",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04861,
+    34.75481,
+    36.04861,
+    34.75481
+],
+  "geometry": {"coordinates":[36.04861,34.75481],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327313935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86474,35.7821,36.86474,35.7821",
+    "geom:latitude":35.7821,
+    "geom:longitude":36.86474,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rayyan",
+    "gn:country_code":"SY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165338,
+    "gn:latitude":35.7821,
+    "gn:longitude":36.86474,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Rayy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ra\u00efy\u00e2ne",
+        "Rayy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165338
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b962a22d9f1344df2d97ad2305ca0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1327313935,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1327313935,
+    "wof:lastmodified":1537701780,
+    "wof:name":"Rayyan",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86474000000001,
+    35.7821,
+    36.86474000000001,
+    35.7821
+],
+  "geometry": {"coordinates":[36.86474000000001,35.7821],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242765737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67916,34.90602,36.67916,34.90602",
+    "geom:latitude":34.90602,
+    "geom:longitude":36.67916,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zumaymir",
+    "gn:country_code":"SY",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432574,
+    "gn:latitude":34.90602,
+    "gn:longitude":36.67916,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Zumaym\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u064a\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zumaym\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432574
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d283886c821ae088a10aee36fe8b1522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1242765737,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242765737,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Zumaymir",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67916,
+    34.90602,
+    36.67916,
+    34.90602
+],
+  "geometry": {"coordinates":[36.67916,34.90602],"type":"Point"}
+}

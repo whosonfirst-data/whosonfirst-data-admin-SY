@@ -1,0 +1,79 @@
+{
+  "id": 1343381233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46677,33.45546,36.46677,33.45546",
+    "geom:latitude":33.45546,
+    "geom:longitude":36.46677,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh as Sayyid",
+    "gn:country_code":"SY",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169700,
+    "gn:latitude":33.45546,
+    "gn:longitude":36.46677,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u1e28awsh as Sayyid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0627\u0644\u0633\u064a\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Haouch Sayad",
+        "Haouch es Sa\u00efyed",
+        "\u1e28awsh as Sayyid",
+        "Al Man\u015f\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169700
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f87c18e411eb6685689a41413f7fca5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1343381233,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343381233,
+    "wof:lastmodified":1537702083,
+    "wof:name":"Hawsh as Sayyid",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46677,
+    33.45546,
+    36.46677,
+    33.45546
+],
+  "geometry": {"coordinates":[36.46677,33.45546],"type":"Point"}
+}

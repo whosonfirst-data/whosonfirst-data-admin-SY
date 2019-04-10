@@ -1,0 +1,70 @@
+{
+  "id": 1343541367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51942,35.87261,36.51942,35.87261",
+    "geom:latitude":35.87261,
+    "geom:longitude":36.51942,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kawbarah",
+    "gn:country_code":"SY",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270141,
+    "gn:latitude":35.87261,
+    "gn:longitude":36.51942,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kawbarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270141
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3b8f43adf1d5ab70c79a69ff95bfcf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1343541367,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343541367,
+    "wof:lastmodified":1537702507,
+    "wof:name":"Kawbarah",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51942,
+    35.87260999999999,
+    36.51942,
+    35.87260999999999
+],
+  "geometry": {"coordinates":[36.51942,35.87260999999999],"type":"Point"}
+}

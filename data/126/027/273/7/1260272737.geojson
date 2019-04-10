@@ -1,0 +1,81 @@
+{
+  "id": 1260272737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66226,36.55734,37.66226,36.55734",
+    "geom:latitude":36.55734,
+    "geom:longitude":37.66226,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khalissa",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170036,
+    "gn:latitude":36.55734,
+    "gn:longitude":37.66226,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Khalissa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u064a\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012b\u2018ah",
+        "\u1e28al\u012bs\u0101 Kab\u012brah",
+        "Khalissa",
+        "H\u00e2l\u00eessa",
+        "Kh\u0101li\u015fah",
+        "Kha\u00efssa",
+        "Khaliss\u00e9",
+        "\u1e28al\u012bs\u0101 al Kab\u012brah",
+        "\u1e28al\u012b\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170036
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"560bc7ff107d326bc4c928c6a34c5b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1260272737,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260272737,
+    "wof:lastmodified":1537702105,
+    "wof:name":"Khalissa",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66226,
+    36.55734,
+    37.66226,
+    36.55734
+],
+  "geometry": {"coordinates":[37.66226,36.55734],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1310715881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18829,36.96275,42.18829,36.96275",
+    "geom:latitude":36.96275,
+    "geom:longitude":42.18829,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Quldman",
+    "gn:country_code":"SY",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383652,
+    "gn:latitude":36.96275,
+    "gn:longitude":42.18829,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Quldm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Quldm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0644\u062f\u0645\u0627\u0646",
+        "\u0627\u0644\u0646\u062c\u0641"
+    ],
+    "name:kur_x_preferred":[
+        "Qul Duman"
+    ],
+    "name:und_x_variant":[
+        "Qulduman",
+        "An Najaf",
+        "\u0642\u0644 \u062f\u0648\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383652
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68ef37cd0e24cb1e185004c20b5b2398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1310715881,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310715881,
+    "wof:lastmodified":1537702421,
+    "wof:name":"Quldman",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18829,
+    36.96275,
+    42.18829,
+    36.96275
+],
+  "geometry": {"coordinates":[42.18829,36.96275],"type":"Point"}
+}

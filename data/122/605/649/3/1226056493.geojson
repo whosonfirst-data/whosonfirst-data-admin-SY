@@ -1,0 +1,73 @@
+{
+  "id": 1226056493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.11578,36.02797,41.11578,36.02797",
+    "geom:latitude":36.02797,
+    "geom:longitude":41.11578,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar al Khattab",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414801,
+    "gn:latitude":36.02797,
+    "gn:longitude":41.11578,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"D\u0101r al Kha\u0163\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u062e\u0637\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al Kha\u0163\u0163\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414801
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18e0470737921a60019a2da06cef15a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226056493,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226056493,
+    "wof:lastmodified":1537702435,
+    "wof:name":"Dar al Khattab",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.11578,
+    36.02797,
+    41.11578,
+    36.02797
+],
+  "geometry": {"coordinates":[41.11578,36.02797],"type":"Point"}
+}

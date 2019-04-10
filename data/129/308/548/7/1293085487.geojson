@@ -1,0 +1,76 @@
+{
+  "id": 1293085487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03594,36.47819,38.03594,36.47819",
+    "geom:latitude":36.47819,
+    "geom:longitude":38.03594,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb at Tawil",
+    "gn:country_code":"SY",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168944,
+    "gn:latitude":36.47819,
+    "gn:longitude":38.03594,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Jubb a\u0163 \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0637\u0648\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Joubb Taou\u00eel",
+        "Joubb ett Taou\u00eel",
+        "Jubb \u0162aw\u012bl",
+        "Jubb a\u0163 \u0162aw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168944
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3106b79158c9afbe661c3cc2d3ba25f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293085487,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293085487,
+    "wof:lastmodified":1537702033,
+    "wof:name":"Jubb at Tawil",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03594,
+    36.47819000000001,
+    38.03594,
+    36.47819000000001
+],
+  "geometry": {"coordinates":[38.03594,36.47819000000001],"type":"Point"}
+}

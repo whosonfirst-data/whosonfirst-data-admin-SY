@@ -1,0 +1,76 @@
+{
+  "id": 1260375113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85609,36.45582,37.85609,36.45582",
+    "geom:latitude":36.45582,
+    "geom:longitude":37.85609,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qatmah",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165923,
+    "gn:latitude":36.45582,
+    "gn:longitude":37.85609,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qa\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Katma",
+        "Q\u00e2tma",
+        "Q\u0101\u0163imah",
+        "Qa\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165923
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3fd41cb14de2547d4341e0bca602968a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1260375113,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260375113,
+    "wof:lastmodified":1537701821,
+    "wof:name":"Qatmah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85609,
+    36.45582,
+    37.85609,
+    36.45582
+],
+  "geometry": {"coordinates":[37.85609,36.45582],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293873469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74587,36.50259,36.74587,36.50259",
+    "geom:latitude":36.50259,
+    "geom:longitude":36.74587,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Bayya`ah",
+    "gn:country_code":"SY",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164766,
+    "gn:latitude":36.50259,
+    "gn:longitude":36.74587,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Bayy\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u0101ty\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u062a\u064a\u0627\u0646",
+        "\u0635\u062a\u064a\u0627\u0646\u0644\u064a",
+        "\u0627\u0644\u0628\u064a\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "S\u00e2ti\u00e2ne",
+        "S\u0101ty\u0101nl\u012b",
+        "S\u0101ny\u0101nl\u012b",
+        "Al Bayy\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164766
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"11ade54e62fe8d8bb42f8d096d48f21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293873469,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293873469,
+    "wof:lastmodified":1537701751,
+    "wof:name":"Al Bayya`ah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74587,
+    36.50259000000001,
+    36.74587,
+    36.50259000000001
+],
+  "geometry": {"coordinates":[36.74587,36.50259000000001],"type":"Point"}
+}

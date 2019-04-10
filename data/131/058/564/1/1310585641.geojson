@@ -1,0 +1,73 @@
+{
+  "id": 1310585641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56901,35.7831,37.56901,35.7831",
+    "geom:latitude":35.7831,
+    "geom:longitude":37.56901,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Batha",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341911,
+    "gn:latitude":35.7831,
+    "gn:longitude":37.56901,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ba\u0163\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u062d\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ba\u0163\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341911
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8890f9c0a25883a19276b21328f37e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1310585641,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310585641,
+    "wof:lastmodified":1537702541,
+    "wof:name":"Batha",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56901,
+    35.7831,
+    37.56901,
+    35.7831
+],
+  "geometry": {"coordinates":[37.56901,35.7831],"type":"Point"}
+}

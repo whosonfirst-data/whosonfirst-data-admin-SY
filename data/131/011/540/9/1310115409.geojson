@@ -1,0 +1,77 @@
+{
+  "id": 1310115409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.90901,36.77896,40.90901,36.77896",
+    "geom:latitude":36.77896,
+    "geom:longitude":40.90901,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saysadat Wastani",
+    "gn:country_code":"SY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164697,
+    "gn:latitude":36.77896,
+    "gn:longitude":40.90901,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Says\u0101dat Was\u1e6d\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0633\u0627\u062f\u0629 \u0648\u0633\u0637\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Saysadat al Was\u0163\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efssadet el Ouast\u00e2ni",
+        "Says\u0101dat Was\u1e6d\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164697
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b98d02a332c2cf04eb565d1173e62973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1310115409,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310115409,
+    "wof:lastmodified":1537701748,
+    "wof:name":"Saysadat Wastani",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.90901,
+    36.77896,
+    40.90901,
+    36.77896
+],
+  "geometry": {"coordinates":[40.90901,36.77896],"type":"Point"}
+}

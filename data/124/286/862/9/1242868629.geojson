@@ -1,0 +1,90 @@
+{
+  "id": 1242868629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32135,36.82574,38.32135,36.82574",
+    "geom:latitude":36.82574,
+    "geom:longitude":38.32135,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yadi Qabu",
+    "gn:country_code":"SY",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162624,
+    "gn:latitude":36.82574,
+    "gn:longitude":38.32135,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Yad\u012b Q\u0101b\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062f\u064a \u0642\u0627\u0628\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0628\u0627\u0628",
+        "\u064a\u062f\u064a \u0642\u0648\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Yed\u00ee Qoy\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u064a\u06d5\u062f\u0649 \u0642\u06c6\u064a\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Y\u00e9dok",
+        "Y\u00e9di Qapou",
+        "Yad\u012b Qab\u016b",
+        "Yad\u012b Q\u0101b\u016b",
+        "Al \u1e28ab\u0101b",
+        "Yad\u012b Qaww\u012b",
+        "El Hebab",
+        "Aydiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162624
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b4a139a93e113337f3d02fdc1bc5324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1242868629,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242868629,
+    "wof:lastmodified":1537701604,
+    "wof:name":"Yadi Qabu",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32135,
+    36.82574,
+    38.32135,
+    36.82574
+],
+  "geometry": {"coordinates":[38.32135,36.82574],"type":"Point"}
+}

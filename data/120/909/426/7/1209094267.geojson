@@ -1,0 +1,71 @@
+{
+  "id": 1209094267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04926,34.70338,37.04926,34.70338",
+    "geom:latitude":34.70338,
+    "geom:longitude":37.04926,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ar Razzuqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358,
+    "gn:latitude":34.70338,
+    "gn:longitude":37.04926,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ar Razz\u016bq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0632\u0648\u0642\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0632\u0648\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Razz\u016bq\u012byah",
+        "Ar Razz\u016bq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"126f7a7c4aebb8687c78e36f4a0bfeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209094267
+        }
+    ],
+    "wof:id":1209094267,
+    "wof:lastmodified":1537701525,
+    "wof:name":"Ar Razzuqiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04926,
+    34.70338,
+    37.04926,
+    34.70338
+],
+  "geometry": {"coordinates":[37.04926,34.70338],"type":"Point"}
+}

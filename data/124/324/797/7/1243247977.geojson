@@ -1,0 +1,77 @@
+{
+  "id": 1243247977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07453,36.61943,38.07453,36.61943",
+    "geom:latitude":36.61943,
+    "geom:longitude":38.07453,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat al Arsan",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168116,
+    "gn:latitude":36.61943,
+    "gn:longitude":38.07453,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khirbat al Ars\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0623\u0631\u0633\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hs\u00e2ne",
+        "Kheurbet el Hiss\u00e2ne",
+        "Kheurbet el Ussane",
+        "Khirbat al \u1e28i\u015f\u0101n",
+        "Khirbat al Ars\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168116
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b9cb785d3af21afc4052e684ad473d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243247977,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243247977,
+    "wof:lastmodified":1537701971,
+    "wof:name":"Khirbat al Arsan",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07453,
+    36.61943,
+    38.07453,
+    36.61943
+],
+  "geometry": {"coordinates":[38.07453,36.61943],"type":"Point"}
+}

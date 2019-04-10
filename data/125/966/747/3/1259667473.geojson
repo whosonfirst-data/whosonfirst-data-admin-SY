@@ -1,0 +1,75 @@
+{
+  "id": 1259667473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56008,34.96178,36.56008,34.96178",
+    "geom:latitude":34.96178,
+    "geom:longitude":36.56008,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Musa al Hulah",
+    "gn:country_code":"SY",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166601,
+    "gn:latitude":34.96178,
+    "gn:longitude":36.56008,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"M\u016bs\u00e1 al \u1e28\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0649 \u0627\u0644\u062d\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00fbssa el Houl\u00e9",
+        "Moussel Heule",
+        "M\u016bs\u00e1 al \u1e28\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166601
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d92e6551b2e584a8cf3c43717d337513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259667473,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259667473,
+    "wof:lastmodified":1537701868,
+    "wof:name":"Musa al Hulah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56008,
+    34.96178,
+    36.56008,
+    34.96178
+],
+  "geometry": {"coordinates":[36.56008,34.96178],"type":"Point"}
+}

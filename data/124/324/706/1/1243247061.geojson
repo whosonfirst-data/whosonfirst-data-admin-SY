@@ -1,0 +1,74 @@
+{
+  "id": 1243247061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95817,35.09902,35.95817,35.09902",
+    "geom:latitude":35.09902,
+    "geom:longitude":35.95817,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt ash Shaykh `Ali",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171592,
+    "gn:latitude":35.09902,
+    "gn:longitude":35.95817,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt ash Shaykh \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0634\u064a\u062e \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft ech Che\u00efkh Aali",
+        "Bayt ash Shaykh \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171592
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c6d6c44b6cc1fef382e26556358992fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243247061,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243247061,
+    "wof:lastmodified":1537702212,
+    "wof:name":"Bayt ash Shaykh `Ali",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95817,
+    35.09902,
+    35.95817,
+    35.09902
+],
+  "geometry": {"coordinates":[35.95817,35.09902],"type":"Point"}
+}

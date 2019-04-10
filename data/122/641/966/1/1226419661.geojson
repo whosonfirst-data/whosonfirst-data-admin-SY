@@ -1,0 +1,73 @@
+{
+  "id": 1226419661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86379,36.04174,36.86379,36.04174",
+    "geom:latitude":36.04174,
+    "geom:longitude":36.86379,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jadraya",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554403,
+    "gn:latitude":36.04174,
+    "gn:longitude":36.86379,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Jadr\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0631\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jadr\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554403
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a4bd26457729595510d23a8bf7e7b180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1226419661,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226419661,
+    "wof:lastmodified":1537702630,
+    "wof:name":"Jadraya",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86379,
+    36.04174,
+    36.86379,
+    36.04174
+],
+  "geometry": {"coordinates":[36.86379,36.04174],"type":"Point"}
+}

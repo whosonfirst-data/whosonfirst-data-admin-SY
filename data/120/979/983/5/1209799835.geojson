@@ -1,0 +1,86 @@
+{
+  "id": 1209799835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14571,36.77055,38.14571,36.77055",
+    "geom:latitude":36.77055,
+    "geom:longitude":38.14571,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sayf `Ali Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164715,
+    "gn:latitude":36.77055,
+    "gn:longitude":38.14571,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Sayf \u2018Al\u012b Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0641 \u0639\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0628\u0641 \u0639\u0644\u064a \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00eav \u2018El\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06ce\u06a4 \u0639\u06d5\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Sa\u00eff Aali",
+        "Sayf \u2018Al\u012b",
+        "S\u00eav El\u00ee",
+        "Sayf Ali",
+        "Sayf \u2018Al\u012b Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164715
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a7eb103d5e6d3dd72399748ac153c74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1209799835,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209799835,
+    "wof:lastmodified":1537701750,
+    "wof:name":"Sayf `Ali Fawqani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14571,
+    36.77055,
+    38.14571,
+    36.77055
+],
+  "geometry": {"coordinates":[38.14571,36.77055],"type":"Point"}
+}

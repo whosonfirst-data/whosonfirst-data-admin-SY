@@ -1,0 +1,73 @@
+{
+  "id": 1276446257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.80228,36.04027,40.80228,36.04027",
+    "geom:latitude":36.04027,
+    "geom:longitude":40.80228,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Salmasa",
+    "gn:country_code":"SY",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420953,
+    "gn:latitude":36.04027,
+    "gn:longitude":40.80228,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Salmas\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0645\u0633\u0627"
+    ],
+    "name:und_x_variant":[
+        "Salmas\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f8f40b4b0ba777b0c9c0c3f01bfe7c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276446257,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276446257,
+    "wof:lastmodified":1537702458,
+    "wof:name":"Salmasa",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.80228,
+    36.04027,
+    40.80228,
+    36.04027
+],
+  "geometry": {"coordinates":[40.80228,36.04027],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225952841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01804,35.46428,36.01804,35.46428",
+    "geom:latitude":35.46428,
+    "geom:longitude":36.01804,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayr Ibrahim",
+    "gn:country_code":"SY",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170780,
+    "gn:latitude":35.46428,
+    "gn:longitude":36.01804,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dayr Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u00efr Ibr\u00e2h\u00eem",
+        "Dair Ibrahim",
+        "Dayr Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170780
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dafddfeb2c7a94d2ed30d209ee55f2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1225952841,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1225952841,
+    "wof:lastmodified":1537702147,
+    "wof:name":"Dayr Ibrahim",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01804,
+    35.46428,
+    36.01804,
+    35.46428
+],
+  "geometry": {"coordinates":[36.01804,35.46428],"type":"Point"}
+}

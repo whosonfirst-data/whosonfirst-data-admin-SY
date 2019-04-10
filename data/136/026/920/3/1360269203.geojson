@@ -1,0 +1,73 @@
+{
+  "id": 1360269203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25251,35.44254,37.25251,35.44254",
+    "geom:latitude":35.44254,
+    "geom:longitude":37.25251,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Izah",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340600,
+    "gn:latitude":35.44254,
+    "gn:longitude":37.25251,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018\u012azah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u012azah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340600
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"59aebd46915377e7fa094a303faa757d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1360269203,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360269203,
+    "wof:lastmodified":1537702537,
+    "wof:name":"`Izah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25251,
+    35.44254,
+    37.25251,
+    35.44254
+],
+  "geometry": {"coordinates":[37.25251,35.44254],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293213255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9383,35.76755,35.9383,35.76755",
+    "geom:latitude":35.76755,
+    "geom:longitude":35.9383,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Maydan",
+    "gn:country_code":"SY",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167016,
+    "gn:latitude":35.76755,
+    "gn:longitude":35.9383,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Al Mayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062f\u0627\u0646\u062c\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Me\u00efd\u00e2nndjo\u00fbq",
+        "Mayd\u0101n J\u016bq",
+        "Mayd\u0101njiq",
+        "M\u012bd\u0101njiq",
+        "Al Mayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167016
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e97f15aff55a7891b5e94cdfa4df8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293213255,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293213255,
+    "wof:lastmodified":1537701895,
+    "wof:name":"Al Maydan",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9383,
+    35.76755,
+    35.9383,
+    35.76755
+],
+  "geometry": {"coordinates":[35.9383,35.76755],"type":"Point"}
+}

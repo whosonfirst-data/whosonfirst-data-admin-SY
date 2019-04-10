@@ -1,0 +1,74 @@
+{
+  "id": 1360074079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5286,35.27848,36.5286,35.27848",
+    "geom:latitude":35.27848,
+    "geom:longitude":36.5286,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Jadidah",
+    "gn:country_code":"SY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173724,
+    "gn:latitude":35.27848,
+    "gn:longitude":36.5286,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ej Jdid\u00e9",
+        "Al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173724
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b372c59667181ef5e514ffe57841fa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1360074079,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1360074079,
+    "wof:lastmodified":1537702359,
+    "wof:name":"Al Jadidah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5286,
+    35.27848,
+    36.5286,
+    35.27848
+],
+  "geometry": {"coordinates":[36.5286,35.27848],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226753863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23723,35.76711,38.23723,35.76711",
+    "geom:latitude":35.76711,
+    "geom:longitude":38.23723,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir Mulayhan",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832,
+    "gn:latitude":35.76711,
+    "gn:longitude":38.23723,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u012br Mulay\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0645\u0644\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019r Mulay\u1e29\u0101n",
+        "B\u012br Mulay\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"771f1dffa4162e403626ac45b5d81c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1226753863,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226753863,
+    "wof:lastmodified":1537701557,
+    "wof:name":"Bir Mulayhan",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23723,
+    35.76710999999999,
+    38.23723,
+    35.76710999999999
+],
+  "geometry": {"coordinates":[38.23723,35.76710999999999],"type":"Point"}
+}

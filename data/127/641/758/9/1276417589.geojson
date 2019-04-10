@@ -1,0 +1,73 @@
+{
+  "id": 1276417589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18467,35.91194,36.18467,35.91194",
+    "geom:latitude":35.91194,
+    "geom:longitude":36.18467,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khirbat as Sakiq",
+    "gn:country_code":"SY",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322572,
+    "gn:latitude":35.91194,
+    "gn:longitude":36.18467,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khirbat as Sak\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u0629 \u0627\u0644\u0633\u0643\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Khirbat as Sak\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322572
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5b1b490fd49a8443e7191add15ef9f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276417589,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276417589,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Khirbat as Sakiq",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18467,
+    35.91194,
+    36.18467,
+    35.91194
+],
+  "geometry": {"coordinates":[36.18467,35.91194],"type":"Point"}
+}

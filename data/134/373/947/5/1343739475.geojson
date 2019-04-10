@@ -1,0 +1,75 @@
+{
+  "id": 1343739475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71345,36.02769,36.71345,36.02769",
+    "geom:latitude":36.02769,
+    "geom:longitude":36.71345,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ram Hamdan",
+    "gn:country_code":"SY",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165551,
+    "gn:latitude":36.02769,
+    "gn:longitude":36.71345,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"R\u0101m \u1e28amd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645 \u062d\u0645\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2m Hamd\u00e2ne",
+        "R\u0101m \u1e28amd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165551,
+        "wk:page":"Ram_Hamdan"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"97fe44bc1678b6dfee1aaf4f6f50d206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1343739475,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343739475,
+    "wof:lastmodified":1537701793,
+    "wof:name":"Ram Hamdan",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71345,
+    36.02769,
+    36.71345,
+    36.02769
+],
+  "geometry": {"coordinates":[36.71345,36.02769],"type":"Point"}
+}

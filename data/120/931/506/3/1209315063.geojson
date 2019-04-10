@@ -1,0 +1,68 @@
+{
+  "id": 1209315063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.90426,36.69158,38.90426,36.69158",
+    "geom:latitude":36.69158,
+    "geom:longitude":38.90426,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Yabisah",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173272,
+    "gn:latitude":36.69158,
+    "gn:longitude":38.90426,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Al Y\u0101bisah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0628\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Y\u00e2bs\u00e9",
+        "Al Y\u0101bisah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173272
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ff6382c6693b6510e17e843b7d8890b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209315063
+        }
+    ],
+    "wof:id":1209315063,
+    "wof:lastmodified":1537702320,
+    "wof:name":"Al Yabisah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.90426,
+    36.69158,
+    38.90426,
+    36.69158
+],
+  "geometry": {"coordinates":[38.90426,36.69158],"type":"Point"}
+}

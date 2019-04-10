@@ -1,0 +1,81 @@
+{
+  "id": 1193002763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64486,36.69666,37.64486,36.69666",
+    "geom:latitude":36.69666,
+    "geom:longitude":37.64486,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Az Zahrah",
+    "gn:country_code":"SY",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171864,
+    "gn:latitude":36.69666,
+    "gn:longitude":37.64486,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Az Zahrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0647\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062a\u0627\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Baltadjik",
+        "Bal\u0163ah J\u012b",
+        "Baltadji",
+        "Bal\u0163aj\u012b",
+        "Az Zahrah",
+        "Balt\u0101j\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171864
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05dac52360c8f0b0c24a3707654c098a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1193002763,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193002763,
+    "wof:lastmodified":1537702230,
+    "wof:name":"Az Zahrah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64486,
+    36.69666,
+    37.64486,
+    36.69666
+],
+  "geometry": {"coordinates":[37.64486,36.69666],"type":"Point"}
+}

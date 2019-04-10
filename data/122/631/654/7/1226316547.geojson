@@ -1,0 +1,78 @@
+{
+  "id": 1226316547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20916,34.89302,36.20916,34.89302",
+    "geom:latitude":34.89302,
+    "geom:longitude":36.20916,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sammuqah",
+    "gn:country_code":"SY",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2874,
+    "gn:latitude":34.89302,
+    "gn:longitude":36.20916,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Samm\u016bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0648\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0645\u0648\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sham\u016bqah",
+        "Samm\u016bqah",
+        "Sammo\u00fbqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1ecb9dc2b95a63e6a1b0bad4adb37350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1226316547,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226316547,
+    "wof:lastmodified":1537701531,
+    "wof:name":"Sammuqah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20916,
+    34.89302,
+    36.20916,
+    34.89302
+],
+  "geometry": {"coordinates":[36.20916,34.89302],"type":"Point"}
+}

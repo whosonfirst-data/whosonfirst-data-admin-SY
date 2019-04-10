@@ -1,0 +1,75 @@
+{
+  "id": 1259662615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1763,35.2103,36.1763,35.2103",
+    "geom:latitude":35.2103,
+    "geom:longitude":36.1763,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Judaydah",
+    "gn:country_code":"SY",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173687,
+    "gn:latitude":35.2103,
+    "gn:longitude":36.1763,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Judaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jda\u00efd\u00e9",
+        "Al Judaydah",
+        "Judaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173687
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4ff3d3e88f403d9ba8561b5824610b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259662615,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259662615,
+    "wof:lastmodified":1537702355,
+    "wof:name":"Judaydah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1763,
+    35.2103,
+    36.1763,
+    35.2103
+],
+  "geometry": {"coordinates":[36.1763,35.2103],"type":"Point"}
+}

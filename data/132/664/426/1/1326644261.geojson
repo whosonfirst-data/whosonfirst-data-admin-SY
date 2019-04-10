@@ -1,0 +1,73 @@
+{
+  "id": 1326644261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.67382,36.07134,40.67382,36.07134",
+    "geom:latitude":36.07134,
+    "geom:longitude":40.67382,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Basnah",
+    "gn:country_code":"SY",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420938,
+    "gn:latitude":36.07134,
+    "gn:longitude":40.67382,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ba\u015fnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u015fnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420938
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"939472d28979ab34c193c26ad8acb240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1326644261,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326644261,
+    "wof:lastmodified":1537702457,
+    "wof:name":"Al Basnah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.67382,
+    36.07134,
+    40.67382,
+    36.07134
+],
+  "geometry": {"coordinates":[40.67382,36.07134],"type":"Point"}
+}

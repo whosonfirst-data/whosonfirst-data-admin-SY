@@ -1,0 +1,68 @@
+{
+  "id": 1209410357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04905,35.33939,36.04905,35.33939",
+    "geom:latitude":35.33939,
+    "geom:longitude":36.04905,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Battarah",
+    "gn:country_code":"SY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556251,
+    "gn:latitude":35.33939,
+    "gn:longitude":36.04905,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ba\u0163\u0163\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ba\u0163\u0163\u0101rah",
+        "B\u0163\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556251
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"93f554e0df0933c3e80cbb011c669f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209410357
+        }
+    ],
+    "wof:id":1209410357,
+    "wof:lastmodified":1537702641,
+    "wof:name":"Battarah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04905,
+    35.33939,
+    36.04905,
+    35.33939
+],
+  "geometry": {"coordinates":[36.04905,35.33939],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209908101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.86756,35.54099,39.86756,35.54099",
+    "geom:latitude":35.54099,
+    "geom:longitude":39.86756,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Masram",
+    "gn:country_code":"SY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381567,
+    "gn:latitude":35.54099,
+    "gn:longitude":39.86756,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ma\u015fr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0631\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ma\u015fr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381567
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4bd77b4746a8e527cf2b300aa97d07a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1209908101,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1209908101,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Masram",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.86756,
+    35.54099,
+    39.86756,
+    35.54099
+],
+  "geometry": {"coordinates":[39.86756,35.54099],"type":"Point"}
+}

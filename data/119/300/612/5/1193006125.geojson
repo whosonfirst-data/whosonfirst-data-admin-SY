@@ -1,0 +1,73 @@
+{
+  "id": 1193006125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54352,34.79622,37.54352,34.79622",
+    "geom:latitude":34.79622,
+    "geom:longitude":37.54352,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Muntar al Mu`allaq",
+    "gn:country_code":"SY",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410,
+    "gn:latitude":34.79622,
+    "gn:longitude":37.54352,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Mun\u0163\u0101r al Mu\u2018allaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0627\u0631 \u0627\u0644\u0645\u0639\u0644\u0642"
+    ],
+    "name:und_x_variant":[
+        "Mun\u0163\u0101r al Mu\u2018allaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1253a3fc957c27bcba6823a8e0b4c7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1193006125,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1193006125,
+    "wof:lastmodified":1537701527,
+    "wof:name":"Muntar al Mu`allaq",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54352,
+    34.79622,
+    37.54352,
+    34.79622
+],
+  "geometry": {"coordinates":[37.54352,34.79622],"type":"Point"}
+}

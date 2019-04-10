@@ -1,0 +1,75 @@
+{
+  "id": 1343557513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07859,36.04412,38.07859,36.04412",
+    "geom:latitude":36.04412,
+    "geom:longitude":38.07859,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Huwayjat Ishaq",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":169753,
+    "gn:latitude":36.04412,
+    "gn:longitude":38.07859,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u1e28uwayjat Is\u1e29aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u062c\u0629 \u0627\u0633\u062d\u0642"
+    ],
+    "name:und_x_variant":[
+        "Haou\u00eejet Ishaq",
+        "\u1e28aw\u012bjat Is\u1e29\u0101q",
+        "\u1e28uwayjat Is\u1e29aq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169753
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b436646f528169d3dba40d3ad2580f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343557513,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343557513,
+    "wof:lastmodified":1537702085,
+    "wof:name":"Huwayjat Ishaq",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07859000000001,
+    36.04412,
+    38.07859000000001,
+    36.04412
+],
+  "geometry": {"coordinates":[38.07859000000001,36.04412],"type":"Point"}
+}

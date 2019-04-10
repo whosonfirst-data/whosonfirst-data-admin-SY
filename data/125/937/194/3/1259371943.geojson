@@ -1,0 +1,73 @@
+{
+  "id": 1259371943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32118,35.48716,36.32118,35.48716",
+    "geom:latitude":35.48716,
+    "geom:longitude":36.32118,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qabr Fiddah",
+    "gn:country_code":"SY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556296,
+    "gn:latitude":35.48716,
+    "gn:longitude":36.32118,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qabr Fi\u1e11\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u0641\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qabr Fi\u1e11\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556296
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e47992173a7b9116da24f910fa58e10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1259371943,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259371943,
+    "wof:lastmodified":1537702643,
+    "wof:name":"Qabr Fiddah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32118,
+    35.48716,
+    36.32118,
+    35.48716
+],
+  "geometry": {"coordinates":[36.32118,35.48716],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292894983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56158,35.11179,37.56158,35.11179",
+    "geom:latitude":35.11179,
+    "geom:longitude":37.56158,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ruwayda",
+    "gn:country_code":"SY",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420143,
+    "gn:latitude":35.11179,
+    "gn:longitude":37.56158,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ruwayd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ruwayd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420143
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e04d0bdac9680f101293382e31acafe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1292894983,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292894983,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Ruwayda",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56158,
+    35.11179,
+    37.56158,
+    35.11179
+],
+  "geometry": {"coordinates":[37.56158,35.11179],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226460341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.84763,35.84869,40.84763,35.84869",
+    "geom:latitude":35.84869,
+    "geom:longitude":40.84763,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm al `Uways",
+    "gn:country_code":"SY",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275296,
+    "gn:latitude":35.84869,
+    "gn:longitude":40.84763,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Umm al \u2018Uway\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0648\u064a\u0635"
+    ],
+    "name:und_x_variant":[
+        "Umm al \u2018Uway\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275296
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae2e816f6c549bef3e6ea1888c4d876e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226460341,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226460341,
+    "wof:lastmodified":1537702516,
+    "wof:name":"Umm al `Uways",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.84763,
+    35.84869000000001,
+    40.84763,
+    35.84869000000001
+],
+  "geometry": {"coordinates":[40.84763,35.84869000000001],"type":"Point"}
+}

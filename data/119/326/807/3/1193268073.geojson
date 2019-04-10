@@ -1,0 +1,80 @@
+{
+  "id": 1193268073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.40072,36.25381,37.40072,36.25381",
+    "geom:latitude":36.25381,
+    "geom:longitude":37.40072,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barlahin",
+    "gn:country_code":"SY",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171486,
+    "gn:latitude":36.25381,
+    "gn:longitude":37.40072,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Barlah\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Berl\u00e9h\u00eene"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0647\u0644\u064a\u0646",
+        "\u0628\u0631\u0644\u0647\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Berlhe\u00efne",
+        "Barhal\u012bn",
+        "Berl\u00e9h\u00eene",
+        "Barlah\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171486
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f0fa38cb8305a848f5a7505a23bf0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1193268073,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193268073,
+    "wof:lastmodified":1537702202,
+    "wof:name":"Barlahin",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.40072,
+    36.25381,
+    37.40072,
+    36.25381
+],
+  "geometry": {"coordinates":[37.40072,36.25381],"type":"Point"}
+}

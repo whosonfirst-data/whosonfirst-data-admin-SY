@@ -1,0 +1,73 @@
+{
+  "id": 1293478085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72381,34.69789,36.72381,34.69789",
+    "geom:latitude":34.69789,
+    "geom:longitude":36.72381,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bustan al Hajji",
+    "gn:country_code":"SY",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7635773,
+    "gn:latitude":34.69789,
+    "gn:longitude":36.72381,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bust\u0101n al \u1e28ajj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u062d\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n al \u1e28ajj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7635773
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25b8acb2d6a068a8b491f2c13eccd3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293478085,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293478085,
+    "wof:lastmodified":1537702467,
+    "wof:name":"Bustan al Hajji",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72381,
+    34.69789,
+    36.72381,
+    34.69789
+],
+  "geometry": {"coordinates":[36.72381,34.69789],"type":"Point"}
+}

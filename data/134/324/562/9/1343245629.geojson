@@ -1,0 +1,75 @@
+{
+  "id": 1343245629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9107,34.86834,35.9107,34.86834",
+    "geom:latitude":34.86834,
+    "geom:longitude":35.9107,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt `Alyan",
+    "gn:country_code":"SY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171605,
+    "gn:latitude":34.86834,
+    "gn:longitude":35.9107,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bayt \u2018Aly\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0644\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Aalay\u00e2ne",
+        "Be\u00eft Aali\u00e2ne",
+        "Bayt \u2018Aly\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171605
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2672511cb34c864741d45e50be562d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343245629,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343245629,
+    "wof:lastmodified":1537702213,
+    "wof:name":"Bayt `Alyan",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9107,
+    34.86834,
+    35.9107,
+    34.86834
+],
+  "geometry": {"coordinates":[35.9107,34.86834],"type":"Point"}
+}

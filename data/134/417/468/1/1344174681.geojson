@@ -1,0 +1,77 @@
+{
+  "id": 1344174681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54928,37.03485,40.54928,37.03485",
+    "geom:latitude":37.03485,
+    "geom:longitude":40.54928,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shaykh Mansur",
+    "gn:country_code":"SY",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172658,
+    "gn:latitude":37.03485,
+    "gn:longitude":40.54928,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shaykh Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Ash Shaykh Man\u015f\u016br"
+    ],
+    "name:und_x_variant":[
+        "Che\u00efkh Mannso\u00fbr",
+        "Shaykh Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172658
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b5c223f159abb629d863e39b5b04ad8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1344174681,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1344174681,
+    "wof:lastmodified":1537702286,
+    "wof:name":"Shaykh Mansur",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54928,
+    37.03485,
+    40.54928,
+    37.03485
+],
+  "geometry": {"coordinates":[40.54928,37.03485],"type":"Point"}
+}

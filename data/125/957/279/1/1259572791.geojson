@@ -1,0 +1,70 @@
+{
+  "id": 1259572791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28067,35.89459,37.28067,35.89459",
+    "geom:latitude":35.89459,
+    "geom:longitude":37.28067,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qafl",
+    "gn:country_code":"SY",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338208,
+    "gn:latitude":35.89459,
+    "gn:longitude":37.28067,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Qafl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338208
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"03d2b0522396d575037a4ca5dc4a5d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1259572791,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259572791,
+    "wof:lastmodified":1537702530,
+    "wof:name":"Al Qafl",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28067,
+    35.89459,
+    37.28067,
+    35.89459
+],
+  "geometry": {"coordinates":[37.28067,35.89459],"type":"Point"}
+}

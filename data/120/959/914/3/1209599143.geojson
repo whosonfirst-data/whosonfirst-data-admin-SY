@@ -1,0 +1,73 @@
+{
+  "id": 1209599143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24688,34.92836,37.24688,34.92836",
+    "geom:latitude":34.92836,
+    "geom:longitude":37.24688,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Jadid",
+    "gn:country_code":"SY",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163694,
+    "gn:latitude":34.92836,
+    "gn:longitude":37.24688,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tall Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062c\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tel Jedid",
+        "Tell Jadid",
+        "Tall Jad\u012bd",
+        "Tel Djedid",
+        "Tell Jd\u00eed",
+        "Tall al Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163694,
+        "wk:page":"Tell_Jadid"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a6be4ddb3eb3d61a2cdba60007509549",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209599143
+        }
+    ],
+    "wof:id":1209599143,
+    "wof:lastmodified":1537701686,
+    "wof:name":"Tall Jadid",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24688,
+    34.92836,
+    37.24688,
+    34.92836
+],
+  "geometry": {"coordinates":[37.24688,34.92836],"type":"Point"}
+}

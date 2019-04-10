@@ -1,0 +1,76 @@
+{
+  "id": 1309795743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26357,36.74907,38.26357,36.74907",
+    "geom:latitude":36.74907,
+    "geom:longitude":38.26357,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kawizk Habib",
+    "gn:country_code":"SY",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9155,
+    "gn:latitude":36.74907,
+    "gn:longitude":38.26357,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"K\u0101wizk \u1e28ab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0648\u0632\u0643 \u062d\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "K\u0101wzak \u1e28ab\u012bb",
+        "K\u0101wizk \u1e28ab\u012bb",
+        "Kawurk Habib",
+        "Kawrik Habib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9155
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"632c956023a4cbabfec206b6052230b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1309795743,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309795743,
+    "wof:lastmodified":1537701566,
+    "wof:name":"Kawizk Habib",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26357,
+    36.74907,
+    38.26357,
+    36.74907
+],
+  "geometry": {"coordinates":[38.26357,36.74907],"type":"Point"}
+}

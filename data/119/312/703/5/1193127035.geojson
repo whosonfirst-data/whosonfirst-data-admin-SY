@@ -1,0 +1,78 @@
+{
+  "id": 1193127035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85733,36.23998,36.85733,36.23998",
+    "geom:latitude":36.23998,
+    "geom:longitude":36.85733,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Suraysirah",
+    "gn:country_code":"SY",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164033,
+    "gn:latitude":36.23998,
+    "gn:longitude":36.85733,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u015euray\u015f\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sr\u00e9s\u00e0re"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0631\u064a\u0635\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sr\u00e9ss\u00eer\u00e9",
+        "Sreser",
+        "\u015euray\u015f\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164033
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1702d51105653a79c24be3805448a088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1193127035,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193127035,
+    "wof:lastmodified":1537701710,
+    "wof:name":"Suraysirah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85733,
+    36.23998,
+    36.85733,
+    36.23998
+],
+  "geometry": {"coordinates":[36.85733,36.23998],"type":"Point"}
+}

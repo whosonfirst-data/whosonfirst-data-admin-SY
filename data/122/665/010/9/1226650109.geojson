@@ -1,0 +1,74 @@
+{
+  "id": 1226650109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85321,36.2222,40.85321,36.2222",
+    "geom:latitude":36.2222,
+    "geom:longitude":40.85321,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dawudiyah",
+    "gn:country_code":"SY",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421011,
+    "gn:latitude":36.2222,
+    "gn:longitude":40.85321,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u0101wud\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u0101w\u016bd\u012byah",
+        "D\u0101wud\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421011
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eb19cea3c0405b6f6b638fe0d36cba7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226650109,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226650109,
+    "wof:lastmodified":1537702461,
+    "wof:name":"Dawudiyah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85321,
+    36.2222,
+    40.85321,
+    36.2222
+],
+  "geometry": {"coordinates":[40.85321,36.2222],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310691091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64375,35.83176,37.64375,35.83176",
+    "geom:latitude":35.83176,
+    "geom:longitude":37.64375,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb al `Ali",
+    "gn:country_code":"SY",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168989,
+    "gn:latitude":35.83176,
+    "gn:longitude":37.64375,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jubb al \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Joubb el A\u00e2li",
+        "Jubb al \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168989
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"521a980f18c9b3ad2326592b0c9f0a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1310691091,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310691091,
+    "wof:lastmodified":1537702038,
+    "wof:name":"Jubb al `Ali",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64375,
+    35.83176,
+    37.64375,
+    35.83176
+],
+  "geometry": {"coordinates":[37.64375,35.83176],"type":"Point"}
+}

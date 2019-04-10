@@ -1,0 +1,75 @@
+{
+  "id": 1310286099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09222,34.8449,37.09222,34.8449",
+    "geom:latitude":34.8449,
+    "geom:longitude":37.09222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rasm at Tuwayliyah",
+    "gn:country_code":"SY",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162259,
+    "gn:latitude":34.8449,
+    "gn:longitude":37.09222,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Rasm a\u0163 \u0162uwayl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0637\u0648\u064a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell ett Taou\u00eel\u00e9",
+        "Tall a\u0163 \u0162aw\u012blah",
+        "Rasm a\u0163 \u0162uwayl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162259
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ebd56d95175f28ac0198c92740a7797c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1310286099,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310286099,
+    "wof:lastmodified":1537701582,
+    "wof:name":"Rasm at Tuwayliyah",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09222000000001,
+    34.8449,
+    37.09222000000001,
+    34.8449
+],
+  "geometry": {"coordinates":[37.09222000000001,34.8449],"type":"Point"}
+}

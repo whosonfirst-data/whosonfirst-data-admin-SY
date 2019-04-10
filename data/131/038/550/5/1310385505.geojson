@@ -1,0 +1,70 @@
+{
+  "id": 1310385505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90417,35.83333,36.90417,35.83333",
+    "geom:latitude":35.83333,
+    "geom:longitude":36.90417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abu al Khassah",
+    "gn:country_code":"SY",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4669,
+    "gn:latitude":35.83333,
+    "gn:longitude":36.90417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b al Khassah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b al Khassah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4669
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ede118feed4596a103fe5bc87d84e798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1310385505,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310385505,
+    "wof:lastmodified":1537701550,
+    "wof:name":"Abu al Khassah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90417,
+    35.83333,
+    36.90417,
+    35.83333
+],
+  "geometry": {"coordinates":[36.90417,35.83333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259860571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83834,34.57272,36.83834,34.57272",
+    "geom:latitude":34.57272,
+    "geom:longitude":36.83834,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al `Awar",
+    "gn:country_code":"SY",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172300,
+    "gn:latitude":34.57272,
+    "gn:longitude":36.83834,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Al \u2018Awar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0639\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Aaouar",
+        "\u2018Awar",
+        "Al \u2018Awar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172300
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef5bd9c5e87e9c129a55d5bcc0e984f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1259860571,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259860571,
+    "wof:lastmodified":1537702264,
+    "wof:name":"Al `Awar",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83834,
+    34.57272,
+    36.83834,
+    34.57272
+],
+  "geometry": {"coordinates":[36.83834,34.57272],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344149411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9107,32.7512,35.9107,32.7512",
+    "geom:latitude":32.7512,
+    "geom:longitude":35.9107,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hayt",
+    "gn:country_code":"SY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169653,
+    "gn:latitude":32.7512,
+    "gn:longitude":35.9107,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u1e28ay\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0637"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "He\u00efte",
+        "Ha\u00eft\u00e9",
+        "\u1e28ay\u0163ah",
+        "\u1e28ay\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169653
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dc552a7d5eaf558a098c6d073de2aa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1344149411,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1344149411,
+    "wof:lastmodified":1537702079,
+    "wof:name":"Hayt",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9107,
+    32.7512,
+    35.9107,
+    32.7512
+],
+  "geometry": {"coordinates":[35.9107,32.7512],"type":"Point"}
+}

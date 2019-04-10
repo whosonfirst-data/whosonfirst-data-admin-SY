@@ -1,0 +1,76 @@
+{
+  "id": 1276220789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91771,35.31028,36.91771,35.31028",
+    "geom:latitude":35.31028,
+    "geom:longitude":36.91771,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fan ash Shamali",
+    "gn:country_code":"SY",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170470,
+    "gn:latitude":35.31028,
+    "gn:longitude":36.91771,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"F\u0101n ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "F\u0101n ash Shim\u0101l\u012b",
+        "F\u00e2ne ech Chim\u00e2li",
+        "F\u00e2ne ech Ch\u00e9m\u00e2li",
+        "F\u0101n ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170470
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"599a7e363f96c430e031ad1313de62b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276220789,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276220789,
+    "wof:lastmodified":1537702125,
+    "wof:name":"Fan ash Shamali",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91771,
+    35.31028,
+    36.91771,
+    35.31028
+],
+  "geometry": {"coordinates":[36.91771,35.31028],"type":"Point"}
+}

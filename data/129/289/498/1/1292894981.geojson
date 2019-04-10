@@ -1,0 +1,80 @@
+{
+  "id": 1292894981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25917,35.37884,36.25917,35.37884",
+    "geom:latitude":35.37884,
+    "geom:longitude":36.25917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bikfilun",
+    "gn:country_code":"SY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171458,
+    "gn:latitude":35.37884,
+    "gn:longitude":36.25917,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bikf\u012bl\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Biklif\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "Bikf\u012bl\u016bn",
+        "\u0628\u0643\u0641\u064a\u0644\u0648\u0646",
+        "\u0639\u064a\u0646 \u0648\u0631\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abou Kla\u00effo\u00fbn",
+        "Beklifo\u00fbn",
+        "\u2018Ayn Wuraydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171458
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c48827f09ba12bbde90f02bfa566e084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1292894981,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292894981,
+    "wof:lastmodified":1537702199,
+    "wof:name":"Bikfilun",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25917000000001,
+    35.37884000000001,
+    36.25917000000001,
+    35.37884000000001
+],
+  "geometry": {"coordinates":[36.25917000000001,35.37884000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209833283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1169,36.88602,41.1169,36.88602",
+    "geom:latitude":36.88602,
+    "geom:longitude":41.1169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Barku Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171766,
+    "gn:latitude":36.88602,
+    "gn:longitude":41.1169,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"B\u0101rk\u016b Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0643\u0648 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "B\u0101rk\u016b Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Barko Taht\u00e2ni",
+        "Bark\u016b at Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171766
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eec5c473aa3df00ffa8dfcc8def8b1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1209833283,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209833283,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barku Tahtani",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1169,
+    36.88602,
+    41.1169,
+    36.88602
+],
+  "geometry": {"coordinates":[41.1169,36.88602],"type":"Point"}
+}

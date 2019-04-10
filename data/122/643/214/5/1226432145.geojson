@@ -1,0 +1,76 @@
+{
+  "id": 1226432145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56857,36.43274,37.56857,36.43274",
+    "geom:latitude":36.43274,
+    "geom:longitude":37.56857,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qabbasin",
+    "gn:country_code":"SY",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166285,
+    "gn:latitude":36.43274,
+    "gn:longitude":37.56857,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qabb\u0101s\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0627\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qoubb\u00e2ss\u00eene",
+        "Koulessine",
+        "Kouliss\u00eene",
+        "Qabb\u0101s\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166285
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2007ff4177614d68e5d28324c95ff2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1226432145,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226432145,
+    "wof:lastmodified":1537701850,
+    "wof:name":"Qabbasin",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56857,
+    36.43274,
+    37.56857,
+    36.43274
+],
+  "geometry": {"coordinates":[37.56857,36.43274],"type":"Point"}
+}

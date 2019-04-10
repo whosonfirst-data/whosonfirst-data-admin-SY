@@ -1,0 +1,77 @@
+{
+  "id": 1327124101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52589,36.57427,38.52589,36.57427",
+    "geom:latitude":36.57427,
+    "geom:longitude":38.52589,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharab `Ashaq",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168314,
+    "gn:latitude":36.57427,
+    "gn:longitude":38.52589,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Khar\u0101b \u2018Ashaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0639\u0634\u0642"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b \u2018Ashak",
+        "Khar\u00e2b Aachek",
+        "Kh\u00e2rab Hachek",
+        "Khar\u0101b \u2018\u0100shiq",
+        "Khar\u0101b \u2018Ashaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168314
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7fdb7d02e0db981d954904400b0fe2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1327124101,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327124101,
+    "wof:lastmodified":1537701983,
+    "wof:name":"Kharab `Ashaq",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52589,
+    36.57427,
+    38.52589,
+    36.57427
+],
+  "geometry": {"coordinates":[38.52589,36.57427],"type":"Point"}
+}

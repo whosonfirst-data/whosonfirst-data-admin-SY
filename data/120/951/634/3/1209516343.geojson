@@ -1,0 +1,68 @@
+{
+  "id": 1209516343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79166,36.53688,38.79166,36.53688",
+    "geom:latitude":36.53688,
+    "geom:longitude":38.79166,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khirbat Faris",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168033,
+    "gn:latitude":36.53688,
+    "gn:longitude":38.79166,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Khirbat F\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0641\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Far\u00e8s",
+        "Khirbat F\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168033
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bf3182bfff08ec94dca4fe4446ec864f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209516343
+        }
+    ],
+    "wof:id":1209516343,
+    "wof:lastmodified":1537701964,
+    "wof:name":"Khirbat Faris",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79166,
+    36.53688,
+    38.79166,
+    36.53688
+],
+  "geometry": {"coordinates":[38.79166,36.53688],"type":"Point"}
+}

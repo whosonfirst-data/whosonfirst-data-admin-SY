@@ -1,0 +1,79 @@
+{
+  "id": 1309693465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85814,34.68021,36.85814,34.68021",
+    "geom:latitude":34.68021,
+    "geom:longitude":36.85814,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ath Thabitiyah",
+    "gn:country_code":"SY",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163259,
+    "gn:latitude":34.68021,
+    "gn:longitude":36.85814,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ath Th\u0101bit\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0627\u0628\u062a\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u0627\u0628\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2bt\u00eey\u00e9",
+        "Th\u0101bit\u012byah",
+        "At T\u0101bit\u012byah",
+        "Ath Th\u0101bit\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163259
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"492ab49ae9bdf75618a6bbcf9c882048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1309693465,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309693465,
+    "wof:lastmodified":1537701644,
+    "wof:name":"Ath Thabitiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85814,
+    34.68021,
+    36.85814,
+    34.68021
+],
+  "geometry": {"coordinates":[36.85814,34.68021],"type":"Point"}
+}

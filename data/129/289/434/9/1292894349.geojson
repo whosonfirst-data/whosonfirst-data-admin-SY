@@ -1,0 +1,73 @@
+{
+  "id": 1292894349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74576,34.68685,36.74576,34.68685",
+    "geom:latitude":34.68685,
+    "geom:longitude":36.74576,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Kasayir",
+    "gn:country_code":"SY",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432197,
+    "gn:latitude":34.68685,
+    "gn:longitude":36.74576,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Kas\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0633\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Kas\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432197
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"591cfdee4cf0329fee84a90027638ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1292894349,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1292894349,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Al Kasayir",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74576,
+    34.68685,
+    36.74576,
+    34.68685
+],
+  "geometry": {"coordinates":[36.74576,34.68685],"type":"Point"}
+}

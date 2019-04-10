@@ -1,0 +1,79 @@
+{
+  "id": 1276746847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91659,34.97109,35.91659,34.97109",
+    "geom:latitude":34.97109,
+    "geom:longitude":35.91659,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Duwayr Taha",
+    "gn:country_code":"SY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170516,
+    "gn:latitude":34.97109,
+    "gn:longitude":35.91659,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Duwayr \u0162\u0101h\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0631 \u0637\u0647"
+    ],
+    "name:und_x_variant":[
+        "Rudar Taha",
+        "Doua\u00efr T\u00e2ha",
+        "Duwayri\u0163ah",
+        "Duwayr \u0162\u0101hah",
+        "Duwayr \u0162\u0101\u1e29\u0101\u2019",
+        "Duwayr \u0162\u0101h\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170516,
+        "wk:page":"Duwayr_Taha"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"43d21d4bfdb9c350c5ff58c16f00c1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276746847,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276746847,
+    "wof:lastmodified":1537702128,
+    "wof:name":"Duwayr Taha",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91659,
+    34.97109,
+    35.91659,
+    34.97109
+],
+  "geometry": {"coordinates":[35.91659,34.97109],"type":"Point"}
+}

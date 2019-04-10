@@ -1,0 +1,75 @@
+{
+  "id": 1343733349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92982,34.92731,35.92982,34.92731",
+    "geom:latitude":34.92731,
+    "geom:longitude":35.92982,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Duwayr ash Shaykh Sa`d",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170526,
+    "gn:latitude":34.92731,
+    "gn:longitude":35.92982,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Duwayr ash Shaykh Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0631 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Doua\u00efr ech Che\u00efkh Saad",
+        "Duwayr ash Shaykh Sa\u2018d",
+        "\u062f\u0648\u064a\u0631 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170526
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"80527830dce61ac7f127f63bd4f289b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343733349,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343733349,
+    "wof:lastmodified":1537702129,
+    "wof:name":"Duwayr ash Shaykh Sa`d",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92982,
+    34.92731,
+    35.92982,
+    34.92731
+],
+  "geometry": {"coordinates":[35.92982,34.92731],"type":"Point"}
+}

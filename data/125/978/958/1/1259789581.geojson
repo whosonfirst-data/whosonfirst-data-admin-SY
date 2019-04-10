@@ -1,0 +1,76 @@
+{
+  "id": 1259789581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57564,35.87171,38.57564,35.87171",
+    "geom:latitude":35.87171,
+    "geom:longitude":38.57564,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Suwaydiyah Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163860,
+    "gn:latitude":35.87171,
+    "gn:longitude":38.57564,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Suwayd\u012byah Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u062f\u064a\u0629 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Soue\u00efd\u00eeyet el K\u00e9b\u00eer\u00e9",
+        "Soue\u00efd\u00eey\u00e9 K\u00e9b\u00eer\u00e9",
+        "Suwayd\u012byat al Kab\u012brah",
+        "Suwayd\u012byah Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163860
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"908e0112c8d7bf8cb1176e461aed449b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1259789581,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259789581,
+    "wof:lastmodified":1537701701,
+    "wof:name":"Suwaydiyah Kabirah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57564,
+    35.87171,
+    38.57564,
+    35.87171
+],
+  "geometry": {"coordinates":[38.57564,35.87171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259885841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29523,35.81127,38.29523,35.81127",
+    "geom:latitude":35.81127,
+    "geom:longitude":38.29523,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Qusur",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837,
+    "gn:latitude":35.81127,
+    "gn:longitude":38.29523,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Qu\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qu\u015f\u016br"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0635\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c4a14c1b044db9e22b7c5679af892097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259885841,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259885841,
+    "wof:lastmodified":1537701557,
+    "wof:name":"Al Qusur",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29523,
+    35.81127,
+    38.29523,
+    35.81127
+],
+  "geometry": {"coordinates":[38.29523,35.81127],"type":"Point"}
+}

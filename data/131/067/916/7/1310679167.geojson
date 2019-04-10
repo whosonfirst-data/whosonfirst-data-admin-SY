@@ -1,0 +1,79 @@
+{
+  "id": 1310679167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31486,34.75488,36.31486,34.75488",
+    "geom:latitude":34.75488,
+    "geom:longitude":36.31486,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"At Tallah",
+    "gn:country_code":"SY",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172348,
+    "gn:latitude":34.75488,
+    "gn:longitude":36.31486,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"At Tallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Et Tall\u00e9",
+        "Tall\u00e9",
+        "At Tallah",
+        "A\u0163 \u0162allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172348
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db3e5e43d2640ac679d43e571361135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1310679167,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310679167,
+    "wof:lastmodified":1537702268,
+    "wof:name":"At Tallah",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31486,
+    34.75488,
+    36.31486,
+    34.75488
+],
+  "geometry": {"coordinates":[36.31486,34.75488],"type":"Point"}
+}

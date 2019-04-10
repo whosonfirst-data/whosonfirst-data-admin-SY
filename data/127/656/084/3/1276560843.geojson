@@ -1,0 +1,70 @@
+{
+  "id": 1276560843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98298,35.70217,35.98298,35.70217",
+    "geom:latitude":35.70217,
+    "geom:longitude":35.98298,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt Samandar",
+    "gn:country_code":"SY",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9076808,
+    "gn:latitude":35.70217,
+    "gn:longitude":35.98298,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bayt Samandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0645\u0646\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9076808
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"66e334b0690b4af09259a67cf485c5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1276560843,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276560843,
+    "wof:lastmodified":1537702590,
+    "wof:name":"Bayt Samandar",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98298,
+    35.70217,
+    35.98298,
+    35.70217
+],
+  "geometry": {"coordinates":[35.98298,35.70217],"type":"Point"}
+}

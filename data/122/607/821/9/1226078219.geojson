@@ -1,0 +1,77 @@
+{
+  "id": 1226078219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84191,36.68116,38.84191,36.68116",
+    "geom:latitude":36.68116,
+    "geom:longitude":38.84191,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aq Kuy",
+    "gn:country_code":"SY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173132,
+    "gn:latitude":36.68116,
+    "gn:longitude":38.84191,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u0100q K\u016by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Aq K\u016by"
+    ],
+    "name:ara_x_variant":[
+        "\u0100q K\u016by",
+        "\u0622\u0642 \u0643\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Aq Keuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173132
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d38a58e044993df4631f923d00f70c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1226078219,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226078219,
+    "wof:lastmodified":1537702313,
+    "wof:name":"Aq Kuy",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84191,
+    36.68116,
+    38.84191,
+    36.68116
+],
+  "geometry": {"coordinates":[38.84191,36.68116],"type":"Point"}
+}

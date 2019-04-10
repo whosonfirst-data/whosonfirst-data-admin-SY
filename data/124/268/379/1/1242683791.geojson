@@ -1,0 +1,74 @@
+{
+  "id": 1242683791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19359,36.23847,38.19359,36.23847",
+    "geom:latitude":36.23847,
+    "geom:longitude":38.19359,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shams ad Din al Wastani",
+    "gn:country_code":"SY",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164523,
+    "gn:latitude":36.23847,
+    "gn:longitude":38.19359,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Shams ad D\u012bn al Was\u0163\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0633 \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0648\u0633\u0637\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Chams ed D\u00eene Ouast\u00e2ni",
+        "Shams ad D\u012bn al Was\u0163\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164523
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"863c284096d19aa2be28cd453c4f5a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1242683791,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1242683791,
+    "wof:lastmodified":1537701740,
+    "wof:name":"Shams ad Din al Wastani",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19359,
+    36.23847,
+    38.19359,
+    36.23847
+],
+  "geometry": {"coordinates":[38.19359,36.23847],"type":"Point"}
+}

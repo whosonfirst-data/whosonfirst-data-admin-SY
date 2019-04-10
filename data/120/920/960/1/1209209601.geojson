@@ -1,0 +1,70 @@
+{
+  "id": 1209209601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29275,35.73518,37.29275,35.73518",
+    "geom:latitude":35.73518,
+    "geom:longitude":37.29275,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Ghubar",
+    "gn:country_code":"SY",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162920,
+    "gn:latitude":35.73518,
+    "gn:longitude":37.29275,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Umm Ghub\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm Ghub\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0645 \u063a\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Oum Rhb\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162920
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a0f564d6d49c753262fb3fe6ee9a65e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209209601
+        }
+    ],
+    "wof:id":1209209601,
+    "wof:lastmodified":1537701624,
+    "wof:name":"Umm Ghubar",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29275,
+    35.73518,
+    37.29275,
+    35.73518
+],
+  "geometry": {"coordinates":[37.29275,35.73518],"type":"Point"}
+}

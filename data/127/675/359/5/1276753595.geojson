@@ -1,0 +1,78 @@
+{
+  "id": 1276753595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21607,36.8081,38.21607,36.8081",
+    "geom:latitude":36.8081,
+    "geom:longitude":38.21607,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kir Marar Awkhan",
+    "gn:country_code":"SY",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167835,
+    "gn:latitude":36.8081,
+    "gn:longitude":38.21607,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kir Mar\u0101r Awkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631 \u0645\u0631\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631 \u0645\u0631\u0627\u0631 \u0623\u0648\u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Guir M\u00e2r\u00e2r",
+        "K\u012br Mar\u0101r",
+        "Kir Mar\u0101r Awkh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167835
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c337fe59d317739b039f653805601ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276753595,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276753595,
+    "wof:lastmodified":1537701945,
+    "wof:name":"Kir Marar Awkhan",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21607,
+    36.8081,
+    38.21607,
+    36.8081
+],
+  "geometry": {"coordinates":[38.21607,36.8081],"type":"Point"}
+}

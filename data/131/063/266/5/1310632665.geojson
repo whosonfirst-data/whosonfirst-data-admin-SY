@@ -1,0 +1,74 @@
+{
+  "id": 1310632665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60674,32.64029,36.60674,32.64029",
+    "geom:latitude":32.64029,
+    "geom:longitude":36.60674,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sahwat al Balatah",
+    "gn:country_code":"SY",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164990,
+    "gn:latitude":32.64029,
+    "gn:longitude":36.60674,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sahwat al Bal\u0101\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0648\u0629 \u0627\u0644\u0628\u0644\u0627\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sahouet el Bl\u00e2ta",
+        "Sahwat al Bal\u0101\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164990
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"af6590bfcb3f483379b3ef4c3d55bd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1310632665,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1310632665,
+    "wof:lastmodified":1537701765,
+    "wof:name":"Sahwat al Balatah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60674,
+    32.64029,
+    36.60674,
+    32.64029
+],
+  "geometry": {"coordinates":[36.60674,32.64029],"type":"Point"}
+}

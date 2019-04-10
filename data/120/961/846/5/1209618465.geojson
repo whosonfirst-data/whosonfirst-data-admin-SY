@@ -1,0 +1,67 @@
+{
+  "id": 1209618465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99577,35.69936,35.99577,35.69936",
+    "geom:latitude":35.69936,
+    "geom:longitude":35.99577,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt Karim",
+    "gn:country_code":"SY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075270,
+    "gn:latitude":35.69936,
+    "gn:longitude":35.99577,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Bayt Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0643\u0631\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bayt Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075270
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8c3f77fbd06e7488c8158eccae7418be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209618465
+        }
+    ],
+    "wof:id":1209618465,
+    "wof:lastmodified":1537702590,
+    "wof:name":"Bayt Karim",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99577,
+    35.69936,
+    35.99577,
+    35.69936
+],
+  "geometry": {"coordinates":[35.99577,35.69936],"type":"Point"}
+}

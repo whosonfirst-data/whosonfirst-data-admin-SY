@@ -1,0 +1,74 @@
+{
+  "id": 421190383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.269935,33.51578,36.269935,33.51578",
+    "geom:latitude":33.51578,
+    "geom:longitude":36.269935,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mezze",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"\u0631\u064a\u0641 \u062f\u0645\u0634\u0642",
+    "qs:photos":1339,
+    "qs:photos_1k":271,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1339,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119536,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1941280,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1941280,
+        "qs:id":1119536
+    },
+    "wof:country":"SY",
+    "wof:created":1459009656,
+    "wof:geomhash":"f19477b46a857a6436c3325a59511ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":421190383,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":421190383,
+    "wof:lastmodified":1496498067,
+    "wof:name":"Mezze",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.269935,
+    33.51578,
+    36.269935,
+    33.51578
+],
+  "geometry": {"coordinates":[36.269935,33.51578],"type":"Point"}
+}

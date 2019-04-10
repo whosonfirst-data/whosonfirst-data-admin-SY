@@ -1,0 +1,78 @@
+{
+  "id": 1293573755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01497,36.66296,37.01497,36.66296",
+    "geom:latitude":36.66296,
+    "geom:longitude":37.01497,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al `Amud",
+    "gn:country_code":"SY",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385195,
+    "gn:latitude":36.66296,
+    "gn:longitude":37.01497,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al \u2018\u0100m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0643\u0645\u0629 \u0637\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0627\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "D\u012bkmah \u0162\u0101sh",
+        "D\u012bkmat \u0162\u0101sh",
+        "Al \u2018\u0100m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385195
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"444ac1e015c63285caa1fdb102db7739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293573755,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293573755,
+    "wof:lastmodified":1537702424,
+    "wof:name":"Al `Amud",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01497,
+    36.66296,
+    37.01497,
+    36.66296
+],
+  "geometry": {"coordinates":[37.01497,36.66296],"type":"Point"}
+}

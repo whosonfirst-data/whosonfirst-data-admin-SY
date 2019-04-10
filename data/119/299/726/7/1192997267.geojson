@@ -1,0 +1,71 @@
+{
+  "id": 1192997267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98664,35.10323,35.98664,35.10323",
+    "geom:latitude":35.10323,
+    "geom:longitude":35.98664,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Ayn ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172174,
+    "gn:latitude":35.10323,
+    "gn:longitude":35.98664,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Ayn ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn ech Charq\u00eey\u00e9",
+        "\u2018Ayn ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172174
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d6de696ffcd188b4d615a9d5a185a90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1192997267,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1192997267,
+    "wof:lastmodified":1537702253,
+    "wof:name":"`Ayn ash Sharqiyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98664,
+    35.10323,
+    35.98664,
+    35.10323
+],
+  "geometry": {"coordinates":[35.98664,35.10323],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193002081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07883,35.33134,37.07883,35.33134",
+    "geom:latitude":35.33134,
+    "geom:longitude":37.07883,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Jayliyah",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340899,
+    "gn:latitude":35.33134,
+    "gn:longitude":37.07883,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al Jayl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jayl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340899
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2e2b10f4c0d627a25c40d5a95670989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1193002081,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193002081,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Al Jayliyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07883,
+    35.33134000000001,
+    37.07883,
+    35.33134000000001
+],
+  "geometry": {"coordinates":[37.07883,35.33134000000001],"type":"Point"}
+}

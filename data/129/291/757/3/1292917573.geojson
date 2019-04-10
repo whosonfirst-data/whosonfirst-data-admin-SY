@@ -1,0 +1,74 @@
+{
+  "id": 1292917573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.74484,35.68512,40.74484,35.68512",
+    "geom:latitude":35.68512,
+    "geom:longitude":40.74484,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hawijat al Quwaylah",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275462,
+    "gn:latitude":35.68512,
+    "gn:longitude":40.74484,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u1e28aw\u012bjat al Quwaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u062c\u0629 \u0627\u0644\u0642\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aw\u012bjat al Quwaylah",
+        "\u1e28uwayjat al Quwaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275462
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"05317268cfbf8df1772f4bb896f12c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1292917573,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1292917573,
+    "wof:lastmodified":1537702519,
+    "wof:name":"Hawijat al Quwaylah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.74484,
+    35.68512,
+    40.74484,
+    35.68512
+],
+  "geometry": {"coordinates":[40.74484,35.68512],"type":"Point"}
+}

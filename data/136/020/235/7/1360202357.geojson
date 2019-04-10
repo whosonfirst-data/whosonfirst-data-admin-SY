@@ -1,0 +1,75 @@
+{
+  "id": 1360202357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.08281,36.64869,41.08281,36.64869",
+    "geom:latitude":36.64869,
+    "geom:longitude":41.08281,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Birak",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163607,
+    "gn:latitude":36.64869,
+    "gn:longitude":41.08281,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Bir\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0631\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "Tell Br\u00e2k",
+        "Tall Bir\u0101k Ta\u1e29t\u0101n\u012b",
+        "Tall Bir\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163607
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d2c981060542c5cef864a80e3e2f5635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1360202357,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360202357,
+    "wof:lastmodified":1537701675,
+    "wof:name":"Tall Birak",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.08281,
+    36.64869,
+    41.08281,
+    36.64869
+],
+  "geometry": {"coordinates":[41.08281,36.64869],"type":"Point"}
+}

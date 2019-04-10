@@ -1,0 +1,74 @@
+{
+  "id": 1326928127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36801,32.41415,36.36801,32.41415",
+    "geom:latitude":32.41415,
+    "geom:longitude":36.36801,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bayt Salman Aman",
+    "gn:country_code":"SY",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5155,
+    "gn:latitude":32.41415,
+    "gn:longitude":36.36801,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bayt Salm\u0101n Am\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0644\u0645\u0627\u0646 \u0623\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Sulaym\u0101n Am\u0101n",
+        "Bayt Salm\u0101n Am\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5155
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d688b827fa89b779dc779248c7d48c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1326928127,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1326928127,
+    "wof:lastmodified":1537701554,
+    "wof:name":"Bayt Salman Aman",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36801,
+    32.41415,
+    36.36801,
+    32.41415
+],
+  "geometry": {"coordinates":[36.36801,32.41415],"type":"Point"}
+}

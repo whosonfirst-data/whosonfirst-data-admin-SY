@@ -1,0 +1,75 @@
+{
+  "id": 1327118217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89409,35.35361,36.89409,35.35361",
+    "geom:latitude":35.35361,
+    "geom:longitude":36.89409,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ash Sha`ta",
+    "gn:country_code":"SY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172812,
+    "gn:latitude":35.35361,
+    "gn:longitude":36.89409,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ash Sha\u2018t\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ech Chaata",
+        "Ash Sha\u2018\u0163ah",
+        "Ash Sha\u2018t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172812
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce61c0c9477a415b579600b2ef0ff671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327118217,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327118217,
+    "wof:lastmodified":1537702291,
+    "wof:name":"Ash Sha`ta",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89409000000001,
+    35.35361,
+    36.89409000000001,
+    35.35361
+],
+  "geometry": {"coordinates":[36.89409000000001,35.35361],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1343673539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93166,33.15668,35.93166,33.15668",
+    "geom:latitude":33.15668,
+    "geom:longitude":35.93166,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Abu Asfanaj",
+    "gn:country_code":"SY",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8505799,
+    "gn:latitude":33.15668,
+    "gn:longitude":35.93166,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Ab\u016b A\u015ffanaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0623\u0635\u0641\u0646\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b A\u015ffanaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505799
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5eb16f8e6de932ab899243dedec388db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1343673539,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343673539,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343673539,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1343673539,
+    "wof:lastmodified":1537702575,
+    "wof:name":"Abu Asfanaj",
+    "wof:parent_id":1108779081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93166,
+    33.15668,
+    35.93166,
+    33.15668
+],
+  "geometry": {"coordinates":[35.93166,33.15668],"type":"Point"}
+}

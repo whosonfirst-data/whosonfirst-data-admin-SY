@@ -1,0 +1,76 @@
+{
+  "id": 1259974183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.27762,36.44854,38.27762,36.44854",
+    "geom:latitude":36.44854,
+    "geom:longitude":38.27762,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Buwat",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":163709,
+    "gn:latitude":36.44854,
+    "gn:longitude":38.27762,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Tall Buw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0648\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Tell el Ban\u00e2te",
+        "Tell Bou\u00e2te",
+        "Tall al Ban\u0101t",
+        "Tall Buw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163709
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"daeeacdc56c52850b3fa7e72f243c8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259974183,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259974183,
+    "wof:lastmodified":1537701687,
+    "wof:name":"Tall Buwat",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.27762,
+    36.44854,
+    38.27762,
+    36.44854
+],
+  "geometry": {"coordinates":[38.27762,36.44854],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226226475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74955,36.68386,36.74955,36.68386",
+    "geom:latitude":36.68386,
+    "geom:longitude":36.74955,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jatal Qabu",
+    "gn:country_code":"SY",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169152,
+    "gn:latitude":36.68386,
+    "gn:longitude":36.74955,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jat\u0101l Q\u0101b\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062a\u0627\u0644 \u0642\u0628\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062a\u0627\u0644 \u0642\u0627\u0628\u0648",
+        "\u0627\u0644\u0628\u0626\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tchat\u00e2l Qapou",
+        "Tchatal Kouyou",
+        "Jat\u0101l Qab\u016b",
+        "Jat\u0101l Q\u0101b\u016b",
+        "Al Bi\u2019rayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169152
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3281896e093df58221fa2a7655d56235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1226226475,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226226475,
+    "wof:lastmodified":1537702049,
+    "wof:name":"Jatal Qabu",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74955,
+    36.68386,
+    36.74955,
+    36.68386
+],
+  "geometry": {"coordinates":[36.74955,36.68386],"type":"Point"}
+}

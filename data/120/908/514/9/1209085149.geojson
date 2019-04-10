@@ -1,0 +1,69 @@
+{
+  "id": 1209085149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95102,35.16479,35.95102,35.16479",
+    "geom:latitude":35.16479,
+    "geom:longitude":35.95102,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bustan an Najjar",
+    "gn:country_code":"SY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171118,
+    "gn:latitude":35.16479,
+    "gn:longitude":35.95102,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bust\u0101n an Najj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u0646\u062c\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Boust\u00e2ne enn Najj\u00e2r",
+        "Bust\u0101n an Najj\u0101r",
+        "An Naj\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"880a8079d8c070846b1179b96c193d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209085149
+        }
+    ],
+    "wof:id":1209085149,
+    "wof:lastmodified":1537702171,
+    "wof:name":"Bustan an Najjar",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95102,
+    35.16479,
+    35.95102,
+    35.16479
+],
+  "geometry": {"coordinates":[35.95102,35.16479],"type":"Point"}
+}

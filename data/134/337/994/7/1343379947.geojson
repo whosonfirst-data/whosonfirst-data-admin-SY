@@ -1,0 +1,73 @@
+{
+  "id": 1343379947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95398,36.40336,36.95398,36.40336",
+    "geom:latitude":36.40336,
+    "geom:longitude":36.95398,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zin`arayratah",
+    "gn:country_code":"SY",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273884,
+    "gn:latitude":36.40336,
+    "gn:longitude":36.95398,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zin\u2018arayratah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u0639\u0631\u064a\u0631\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Zin\u2018arayratah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273884
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a72d1cdefce940face14ec783b60c1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1343379947,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343379947,
+    "wof:lastmodified":1537702511,
+    "wof:name":"Zin`arayratah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95398,
+    36.40336,
+    36.95398,
+    36.40336
+],
+  "geometry": {"coordinates":[36.95398,36.40336],"type":"Point"}
+}

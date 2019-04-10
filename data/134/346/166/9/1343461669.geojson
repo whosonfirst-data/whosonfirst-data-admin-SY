@@ -1,0 +1,75 @@
+{
+  "id": 1343461669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15994,35.3321,36.15994,35.3321",
+    "geom:latitude":35.3321,
+    "geom:longitude":36.15994,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Halbakhu",
+    "gn:country_code":"SY",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170048,
+    "gn:latitude":35.3321,
+    "gn:longitude":36.15994,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28albakh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0628\u062e\u0648"
+    ],
+    "name:und_x_variant":[
+        "Halbakko",
+        "\u1e28albakk\u016b",
+        "\u1e28albakh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170048
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"400fe0c14d9b605f03ae42e1aaab7142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1343461669,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343461669,
+    "wof:lastmodified":1537702105,
+    "wof:name":"Halbakhu",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15994,
+    35.3321,
+    36.15994,
+    35.3321
+],
+  "geometry": {"coordinates":[36.15994,35.3321],"type":"Point"}
+}

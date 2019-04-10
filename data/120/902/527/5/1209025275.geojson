@@ -1,0 +1,74 @@
+{
+  "id": 1209025275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.72113,36.47296,37.72113,36.47296",
+    "geom:latitude":36.47296,
+    "geom:longitude":37.72113,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al `Arimah",
+    "gn:country_code":"SY",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":174043,
+    "gn:latitude":36.47296,
+    "gn:longitude":37.72113,
+    "gn:modification_date":"2016-11-18",
+    "gn:name":"Al \u2018Ar\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u062c\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arime",
+        "Al \u2018Ar\u012bmah",
+        "\u2018Ajam\u012b",
+        "Adjimi",
+        "Aajami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174043
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7aee5fb740fe582af16999c2c58cb659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209025275
+        }
+    ],
+    "wof:id":1209025275,
+    "wof:lastmodified":1537702387,
+    "wof:name":"Al `Arimah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.72113,
+    36.47296,
+    37.72113,
+    36.47296
+],
+  "geometry": {"coordinates":[37.72113,36.47296],"type":"Point"}
+}

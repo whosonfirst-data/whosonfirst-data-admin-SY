@@ -1,0 +1,77 @@
+{
+  "id": 1293854735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1487,35.00388,36.1487,35.00388",
+    "geom:latitude":35.00388,
+    "geom:longitude":36.1487,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tanghari",
+    "gn:country_code":"SY",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163261,
+    "gn:latitude":35.00388,
+    "gn:longitude":36.1487,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tanghar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Tenn\u00e9rhri"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0646\u063a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tanghar\u012b",
+        "Tannighr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163261
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b8d0c46af82c2e21848fad64afc75de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1293854735,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293854735,
+    "wof:lastmodified":1537701644,
+    "wof:name":"Tanghari",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1487,
+    35.00388,
+    36.1487,
+    35.00388
+],
+  "geometry": {"coordinates":[36.1487,35.00388],"type":"Point"}
+}

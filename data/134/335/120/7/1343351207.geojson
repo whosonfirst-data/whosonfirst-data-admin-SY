@@ -1,0 +1,78 @@
+{
+  "id": 1343351207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70449,36.5151,36.70449,36.5151",
+    "geom:latitude":36.5151,
+    "geom:longitude":36.70449,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yakhur",
+    "gn:country_code":"SY",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273810,
+    "gn:latitude":36.5151,
+    "gn:longitude":36.70449,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Y\u0101kh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0643\u064a \u0623\u062e\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ayk\u012b Akh\u016br",
+        "Y\u0101kh\u016br",
+        "\u012ak\u012b Akh\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273810
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9490deb3b35b3cc738b656dcd0531e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343351207,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343351207,
+    "wof:lastmodified":1537702510,
+    "wof:name":"Yakhur",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70449,
+    36.5151,
+    36.70449,
+    36.5151
+],
+  "geometry": {"coordinates":[36.70449,36.5151],"type":"Point"}
+}

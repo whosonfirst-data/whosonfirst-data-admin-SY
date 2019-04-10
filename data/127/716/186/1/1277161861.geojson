@@ -1,0 +1,80 @@
+{
+  "id": 1277161861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84778,36.20507,36.84778,36.20507",
+    "geom:latitude":36.20507,
+    "geom:longitude":36.84778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rihab",
+    "gn:country_code":"SY",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173010,
+    "gn:latitude":36.20507,
+    "gn:longitude":36.84778,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ri\u1e29\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar\u1e29\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u062d\u0627\u0628",
+        "\u0631\u062d\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Irhab",
+        "Erhab",
+        "Ernab",
+        "Ri\u1e29\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173010
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"934aa7e4b845c023d245b2343fa4a766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1277161861,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1277161861,
+    "wof:lastmodified":1537702306,
+    "wof:name":"Rihab",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84778,
+    36.20507,
+    36.84778,
+    36.20507
+],
+  "geometry": {"coordinates":[36.84778,36.20507],"type":"Point"}
+}

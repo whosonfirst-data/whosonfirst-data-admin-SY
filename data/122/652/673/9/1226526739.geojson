@@ -1,0 +1,78 @@
+{
+  "id": 1226526739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66498,36.54199,38.66498,36.54199",
+    "geom:latitude":36.54199,
+    "geom:longitude":38.66498,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qilji Qiran Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167869,
+    "gn:latitude":36.54199,
+    "gn:longitude":38.66498,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Qilj\u012b Q\u012br\u0101n Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u062c\u064a \u0642\u064a\u0631\u0627\u0646 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Guelchi Qir\u00e2ne Taht\u00e2ni",
+        "Guelchi Qir\u0101n Taht\u0101ni",
+        "Guelchi K\u00e9rane Tahtani",
+        "Kilsh\u012b K\u012br\u0101n at Ta\u1e29t\u0101n\u012b",
+        "Qilj\u012b Q\u012br\u0101n Ta\u1e29t\u0101n\u012b",
+        "Qalj\u012b Q\u012br\u0101n Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167869
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9697ff1ed5c80dc7bde54737f63ae3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226526739,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226526739,
+    "wof:lastmodified":1537701951,
+    "wof:name":"Qilji Qiran Tahtani",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66498,
+    36.54199000000001,
+    38.66498,
+    36.54199000000001
+],
+  "geometry": {"coordinates":[38.66498,36.54199000000001],"type":"Point"}
+}

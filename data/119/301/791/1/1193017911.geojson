@@ -1,0 +1,110 @@
+{
+  "id": 1193017911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69106,33.13187,35.69106,33.13187",
+    "geom:latitude":33.13187,
+    "geom:longitude":35.69106,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bruchim Qela' Alon",
+    "gn:country_code":"SY",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794005,
+    "gn:latitude":33.13187,
+    "gn:longitude":35.69106,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"Bruchim Qela' Alon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794005
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6e77a8a7e2fe63ef28bf1b00dae6eea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1193017911,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1193017911,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1193017911,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1193017911,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1193017911,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1193017911,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1193017911,
+    "wof:lastmodified":1549931202,
+    "wof:name":"Bruchim Qela' Alon",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69106,
+    33.13187,
+    35.69106,
+    33.13187
+],
+  "geometry": {"coordinates":[35.69106,33.13187],"type":"Point"}
+}

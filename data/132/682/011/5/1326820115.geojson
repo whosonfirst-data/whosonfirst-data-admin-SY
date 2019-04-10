@@ -1,0 +1,74 @@
+{
+  "id": 1326820115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09093,35.85653,38.09093,35.85653",
+    "geom:latitude":35.85653,
+    "geom:longitude":38.09093,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mashrafat al Bakri",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6824,
+    "gn:latitude":35.85653,
+    "gn:longitude":38.09093,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mashrafat al Bakr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641\u0629 \u0627\u0644\u0628\u0643\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mashrafat al Bakr\u012b",
+        "Mushrifat al Bakr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6824
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b0cd85541501377a621fd3f51cf8592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1326820115,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326820115,
+    "wof:lastmodified":1537701557,
+    "wof:name":"Mashrafat al Bakri",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09093,
+    35.85653,
+    38.09093,
+    35.85653
+],
+  "geometry": {"coordinates":[38.09093,35.85653],"type":"Point"}
+}

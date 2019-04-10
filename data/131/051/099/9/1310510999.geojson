@@ -1,0 +1,77 @@
+{
+  "id": 1310510999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.85131,37.05278,41.85131,37.05278",
+    "geom:latitude":37.05278,
+    "geom:longitude":41.85131,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bayt Hannun Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164963,
+    "gn:latitude":37.05278,
+    "gn:longitude":41.85131,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Bayt \u1e28ann\u016bn Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0646\u0648\u0646 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efgirka Faouq\u00e2ni",
+        "S\u00e9guirka Faouq\u00e2ni",
+        "Sakirka Fawq\u0101nt",
+        "Sakirkah Fawq\u0101n\u012b",
+        "Bayt \u1e28ann\u016bn Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164963
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bceb932357ea05304fb2c3b310df2881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1310510999,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310510999,
+    "wof:lastmodified":1537701764,
+    "wof:name":"Bayt Hannun Fawqani",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.85131,
+    37.05278,
+    41.85131,
+    37.05278
+],
+  "geometry": {"coordinates":[41.85131,37.05278],"type":"Point"}
+}

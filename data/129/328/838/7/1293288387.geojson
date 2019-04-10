@@ -1,0 +1,73 @@
+{
+  "id": 1293288387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29475,35.39601,37.29475,35.39601",
+    "geom:latitude":35.39601,
+    "geom:longitude":37.29475,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm al `Anz",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340938,
+    "gn:latitude":35.39601,
+    "gn:longitude":37.29475,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm al \u2018Anz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0639\u0646\u0632"
+    ],
+    "name:und_x_variant":[
+        "Rasm al \u2018Anz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340938
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eee3069c0f1e1b5afe325d7942b6ea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293288387,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293288387,
+    "wof:lastmodified":1537702539,
+    "wof:name":"Rasm al `Anz",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29475,
+    35.39601,
+    37.29475,
+    35.39601
+],
+  "geometry": {"coordinates":[37.29475,35.39601],"type":"Point"}
+}

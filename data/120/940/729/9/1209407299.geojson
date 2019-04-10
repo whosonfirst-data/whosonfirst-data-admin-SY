@@ -1,0 +1,67 @@
+{
+  "id": 1209407299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45103,33.12114,36.45103,33.12114",
+    "geom:latitude":33.12114,
+    "geom:longitude":36.45103,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hawsh Sharid",
+    "gn:country_code":"SY",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259840,
+    "gn:latitude":33.12114,
+    "gn:longitude":36.45103,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"\u1e28awsh Shar\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0634\u0631\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh Shar\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259840
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8083e6c2457dd4aa532394f6e3a78e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209407299
+        }
+    ],
+    "wof:id":1209407299,
+    "wof:lastmodified":1537702609,
+    "wof:name":"Hawsh Sharid",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45103,
+    33.12114,
+    36.45103,
+    33.12114
+],
+  "geometry": {"coordinates":[36.45103,33.12114],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226422625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08255,35.82468,37.08255,35.82468",
+    "geom:latitude":35.82468,
+    "geom:longitude":37.08255,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al `Ananah",
+    "gn:country_code":"SY",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338117,
+    "gn:latitude":35.82468,
+    "gn:longitude":37.08255,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al \u2018An\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0646\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018An\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338117
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5a8e5e4c73fac0acaa1e5d08e945e061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1226422625,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226422625,
+    "wof:lastmodified":1537702529,
+    "wof:name":"Al `Ananah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08255,
+    35.82468,
+    37.08255,
+    35.82468
+],
+  "geometry": {"coordinates":[37.08255,35.82468],"type":"Point"}
+}

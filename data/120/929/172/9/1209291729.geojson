@@ -1,0 +1,67 @@
+{
+  "id": 1209291729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45432,35.93013,36.45432,35.93013",
+    "geom:latitude":35.93013,
+    "geom:longitude":36.45432,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Ghafar al Qibli",
+    "gn:country_code":"SY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594863,
+    "gn:latitude":35.93013,
+    "gn:longitude":36.45432,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Al Ghafar al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0641\u0631 \u0627\u0644\u0642\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ghafar al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594863
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0836f1ddf6ae41d5c43ec0bbbb06a1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209291729
+        }
+    ],
+    "wof:id":1209291729,
+    "wof:lastmodified":1537702644,
+    "wof:name":"Al Ghafar al Qibli",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45432,
+    35.93013,
+    36.45432,
+    35.93013
+],
+  "geometry": {"coordinates":[36.45432,35.93013],"type":"Point"}
+}

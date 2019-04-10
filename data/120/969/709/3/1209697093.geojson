@@ -1,0 +1,79 @@
+{
+  "id": 1209697093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21749,34.67298,36.21749,34.67298",
+    "geom:latitude":34.67298,
+    "geom:longitude":36.21749,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ash Shubuq",
+    "gn:country_code":"SY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164227,
+    "gn:latitude":34.67298,
+    "gn:longitude":36.21749,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ash Shubuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e9boq",
+        "Shubuq",
+        "Ash Shubuq",
+        "Jubuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164227
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fabba9325f1802f563d7bfc77d8000b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1209697093,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209697093,
+    "wof:lastmodified":1537701724,
+    "wof:name":"Ash Shubuq",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21749000000001,
+    34.67298,
+    36.21749000000001,
+    34.67298
+],
+  "geometry": {"coordinates":[36.21749000000001,34.67298],"type":"Point"}
+}

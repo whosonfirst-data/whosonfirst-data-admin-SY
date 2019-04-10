@@ -1,0 +1,73 @@
+{
+  "id": 1225858013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99907,35.31246,35.99907,35.31246",
+    "geom:latitude":35.31246,
+    "geom:longitude":35.99907,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"At Tal`ah",
+    "gn:country_code":"SY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695585,
+    "gn:latitude":35.31246,
+    "gn:longitude":35.99907,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"A\u0163 \u0162al\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0644\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162al\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695585
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"714c1c8af72ce3294e6e4ac6f21c98e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1225858013,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1225858013,
+    "wof:lastmodified":1537702583,
+    "wof:name":"At Tal`ah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99907,
+    35.31245999999999,
+    35.99907,
+    35.31245999999999
+],
+  "geometry": {"coordinates":[35.99907,35.31245999999999],"type":"Point"}
+}

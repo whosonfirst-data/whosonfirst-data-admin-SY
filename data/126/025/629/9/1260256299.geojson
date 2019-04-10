@@ -1,0 +1,73 @@
+{
+  "id": 1260256299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05962,35.07373,36.05962,35.07373",
+    "geom:latitude":35.07373,
+    "geom:longitude":36.05962,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bamlakha",
+    "gn:country_code":"SY",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171855,
+    "gn:latitude":35.07373,
+    "gn:longitude":36.05962,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"B\u0101ml\u0101kh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101ml\u0101kh\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0645\u0644\u0627\u062e\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171855
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12a2f7bbe8a8c0b39101635dc8357938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1260256299,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260256299,
+    "wof:lastmodified":1537702229,
+    "wof:name":"Bamlakha",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05962,
+    35.07373,
+    36.05962,
+    35.07373
+],
+  "geometry": {"coordinates":[36.05962,35.07373],"type":"Point"}
+}

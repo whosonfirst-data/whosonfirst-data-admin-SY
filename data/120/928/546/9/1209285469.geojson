@@ -1,0 +1,67 @@
+{
+  "id": 1209285469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97598,34.81283,35.97598,34.81283",
+    "geom:latitude":34.81283,
+    "geom:longitude":35.97598,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt ash Shaluf",
+    "gn:country_code":"SY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265773,
+    "gn:latitude":34.81283,
+    "gn:longitude":35.97598,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bayt ash Shal\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0634\u0644\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Bayt ash Shal\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265773
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0efe243988cc168c094d2d0700da2a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209285469
+        }
+    ],
+    "wof:id":1209285469,
+    "wof:lastmodified":1537702500,
+    "wof:name":"Bayt ash Shaluf",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97598,
+    34.81283,
+    35.97598,
+    34.81283
+],
+  "geometry": {"coordinates":[35.97598,34.81283],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1327052941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64166,32.63344,36.64166,32.63344",
+    "geom:latitude":32.63344,
+    "geom:longitude":36.64166,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"172409.0",
+    "gn:asciiname":"Al Kafr",
+    "gn:country_code":"SY",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173667,
+    "gn:latitude":32.63344,
+    "gn:longitude":36.64166,
+    "gn:modification_date":"2014-01-27",
+    "gn:name":"Al Kafr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0641\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0444\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kafr",
+        "El Kafr",
+        "Kafer",
+        "El Kafer",
+        "K\u0101fir",
+        "Al Kafr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173667
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b86cef65f4b5d23174d65b92b3f0be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1327052941,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1327052941,
+    "wof:lastmodified":1537702353,
+    "wof:name":"Al Kafr",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64166,
+    32.63344,
+    36.64166,
+    32.63344
+],
+  "geometry": {"coordinates":[36.64166,32.63344],"type":"Point"}
+}

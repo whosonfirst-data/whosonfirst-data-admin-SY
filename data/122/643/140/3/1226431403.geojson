@@ -1,0 +1,78 @@
+{
+  "id": 1226431403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79941,35.18483,36.79941,35.18483",
+    "geom:latitude":35.18483,
+    "geom:longitude":36.79941,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Qanayah",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264882,
+    "gn:latitude":35.18483,
+    "gn:longitude":36.79941,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Qan\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0627\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0646\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qan\u0101h",
+        "El Qanate",
+        "Al Qan\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264882
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a3aa8983b50dbb9072dc3799a2ecfaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226431403,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226431403,
+    "wof:lastmodified":1537702498,
+    "wof:name":"Al Qanayah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79941,
+    35.18483,
+    36.79941,
+    35.18483
+],
+  "geometry": {"coordinates":[36.79941,35.18483],"type":"Point"}
+}

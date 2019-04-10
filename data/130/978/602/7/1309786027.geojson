@@ -1,0 +1,73 @@
+{
+  "id": 1309786027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48995,36.17689,36.48995,36.17689",
+    "geom:latitude":36.17689,
+    "geom:longitude":36.48995,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Basina",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275167,
+    "gn:latitude":36.17689,
+    "gn:longitude":36.48995,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bas\u012bn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bas\u012bn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275167
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56cbec2472af08bb09f7226b740c52df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1309786027,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1309786027,
+    "wof:lastmodified":1537702514,
+    "wof:name":"Basina",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48995,
+    36.17689,
+    36.48995,
+    36.17689
+],
+  "geometry": {"coordinates":[36.48995,36.17689],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209018489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.52822,36.81415,41.52822,36.81415",
+    "geom:latitude":36.81415,
+    "geom:longitude":41.52822,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Abtakh Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163763,
+    "gn:latitude":36.81415,
+    "gn:longitude":41.52822,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Ab\u0163akh Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0628\u0637\u062e \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Ab\u0163akh Fawq\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Tell Abtakh Faouq\u00e2ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163763
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a695fa58fa6d270a52558e7c98756b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209018489
+        }
+    ],
+    "wof:id":1209018489,
+    "wof:lastmodified":1537701693,
+    "wof:name":"Tall Abtakh Fawqani",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.52822000000001,
+    36.81415,
+    41.52822000000001,
+    36.81415
+],
+  "geometry": {"coordinates":[41.52822000000001,36.81415],"type":"Point"}
+}

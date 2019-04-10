@@ -1,0 +1,74 @@
+{
+  "id": 1343431897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94982,34.91933,35.94982,34.91933",
+    "geom:latitude":34.91933,
+    "geom:longitude":35.94982,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Sultan",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171529,
+    "gn:latitude":34.91933,
+    "gn:longitude":35.94982,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bayt Sul\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Soult\u00e2ne",
+        "Bayt Sul\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171529
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27439509b26303d46436a5b248a9eb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343431897,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343431897,
+    "wof:lastmodified":1537702205,
+    "wof:name":"Bayt Sultan",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94982,
+    34.91933,
+    35.94982,
+    34.91933
+],
+  "geometry": {"coordinates":[35.94982,34.91933],"type":"Point"}
+}

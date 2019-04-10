@@ -1,0 +1,73 @@
+{
+  "id": 1309708075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14105,33.52593,36.14105,33.52593",
+    "geom:latitude":33.52593,
+    "geom:longitude":36.14105,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Muqaybirat",
+    "gn:country_code":"SY",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411715,
+    "gn:latitude":33.52593,
+    "gn:longitude":36.14105,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Muqaybir\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u064a\u0628\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Muqaybir\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411715
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3a49a66f1a03a882229c8f7e74248a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1309708075,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309708075,
+    "wof:lastmodified":1537702558,
+    "wof:name":"Muqaybirat",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14105,
+    33.52593,
+    36.14105,
+    33.52593
+],
+  "geometry": {"coordinates":[36.14105,33.52593],"type":"Point"}
+}

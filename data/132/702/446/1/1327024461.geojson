@@ -1,0 +1,77 @@
+{
+  "id": 1327024461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78978,36.68631,36.78978,36.68631",
+    "geom:latitude":36.68631,
+    "geom:longitude":36.78978,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at `Ashunah",
+    "gn:country_code":"SY",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235553,
+    "gn:latitude":36.68631,
+    "gn:longitude":36.78978,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Mazra\u2018at \u2018Ash\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0627\u0646 \u0643\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0639\u0634\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zaw\u0101n K\u016b",
+        "Mazra\u2018at \u2018Ash\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235553
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d1cd19497f0ba060056e5d2a49473306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1327024461,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327024461,
+    "wof:lastmodified":1537702485,
+    "wof:name":"Mazra`at `Ashunah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78978,
+    36.68631,
+    36.78978,
+    36.68631
+],
+  "geometry": {"coordinates":[36.78978,36.68631],"type":"Point"}
+}

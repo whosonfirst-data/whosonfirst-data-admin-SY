@@ -1,0 +1,79 @@
+{
+  "id": 1343351305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03244,36.62165,37.03244,36.62165",
+    "geom:latitude":36.62165,
+    "geom:longitude":37.03244,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ma`arrin",
+    "gn:country_code":"SY",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167596,
+    "gn:latitude":36.62165,
+    "gn:longitude":37.03244,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Ma\u2018arr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maarr\u00eene",
+        "Ma\u2018arr\u012bn",
+        "Manaq",
+        "Menagh",
+        "Manq",
+        "Meng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167596,
+        "wk:page":"Menagh"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e0182502b718d680999deaf5fc2370f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1343351305,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343351305,
+    "wof:lastmodified":1537701925,
+    "wof:name":"Ma`arrin",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03244,
+    36.62165,
+    37.03244,
+    36.62165
+],
+  "geometry": {"coordinates":[37.03244,36.62165],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327444345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11773,35.45152,36.11773,35.45152",
+    "geom:latitude":35.45152,
+    "geom:longitude":36.11773,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Marran",
+    "gn:country_code":"SY",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167202,
+    "gn:latitude":35.45152,
+    "gn:longitude":36.11773,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Marr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Merr\u00e2n\u00e9",
+        "Marr\u0101nah",
+        "Marr\u0101n",
+        "Merr\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167202
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e0bfb81c3cd71b2dbbc1116f2f058a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1327444345,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327444345,
+    "wof:lastmodified":1537701907,
+    "wof:name":"Marran",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11773,
+    35.45152,
+    36.11773,
+    35.45152
+],
+  "geometry": {"coordinates":[36.11773,35.45152],"type":"Point"}
+}

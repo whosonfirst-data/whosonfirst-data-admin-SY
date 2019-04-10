@@ -1,0 +1,67 @@
+{
+  "id": 1209010547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65486,35.82791,38.65486,35.82791",
+    "geom:latitude":35.82791,
+    "geom:longitude":38.65486,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"`Ibad",
+    "gn:country_code":"SY",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848,
+    "gn:latitude":35.82791,
+    "gn:longitude":38.65486,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Ib\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ib\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cd83324d5a6247aafd62a2b4ad755625",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209010547
+        }
+    ],
+    "wof:id":1209010547,
+    "wof:lastmodified":1537701558,
+    "wof:name":"`Ibad",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65486,
+    35.82791,
+    38.65486,
+    35.82791
+],
+  "geometry": {"coordinates":[38.65486,35.82791],"type":"Point"}
+}

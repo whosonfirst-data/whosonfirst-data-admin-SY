@@ -1,0 +1,73 @@
+{
+  "id": 1276741229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84361,35.19244,38.84361,35.19244",
+    "geom:latitude":35.19244,
+    "geom:longitude":38.84361,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Ayn Bani Muhaysin",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347218,
+    "gn:latitude":35.19244,
+    "gn:longitude":38.84361,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018Ayn Ban\u012b Mu\u1e29aysin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0628\u0646\u064a \u0645\u062c\u064a\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Ban\u012b Mu\u1e29aysin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347218
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53ea3a488226d82f964913e3c56d10ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1276741229,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276741229,
+    "wof:lastmodified":1537702553,
+    "wof:name":"`Ayn Bani Muhaysin",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84361,
+    35.19244000000001,
+    38.84361,
+    35.19244000000001
+],
+  "geometry": {"coordinates":[38.84361,35.19244000000001],"type":"Point"}
+}

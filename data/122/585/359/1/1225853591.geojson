@@ -1,0 +1,78 @@
+{
+  "id": 1225853591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92939,35.3808,35.92939,35.3808",
+    "geom:latitude":35.3808,
+    "geom:longitude":35.92939,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ar Rumaylah",
+    "gn:country_code":"SY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167732,
+    "gn:latitude":35.3808,
+    "gn:longitude":35.92939,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ar Rumaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0643\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tell Kro\u00fbm",
+        "Tall Kur\u016bm",
+        "Ar Rumaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167732
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d20e12c8ef779134211980a6b0e5769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1225853591,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1225853591,
+    "wof:lastmodified":1537701935,
+    "wof:name":"Ar Rumaylah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92939000000001,
+    35.3808,
+    35.92939000000001,
+    35.3808
+],
+  "geometry": {"coordinates":[35.92939000000001,35.3808],"type":"Point"}
+}

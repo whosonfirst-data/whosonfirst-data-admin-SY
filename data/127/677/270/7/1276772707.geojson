@@ -1,0 +1,73 @@
+{
+  "id": 1276772707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95224,36.20861,40.95224,36.20861",
+    "geom:latitude":36.20861,
+    "geom:longitude":40.95224,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Hulwa",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414778,
+    "gn:latitude":36.20861,
+    "gn:longitude":40.95224,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ulw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28ulw\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0644\u0648\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414778
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"29add6b0c9b5311d190ae19e6c5b1d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276772707,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276772707,
+    "wof:lastmodified":1537702434,
+    "wof:name":"Al Hulwa",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95224,
+    36.20861,
+    40.95224,
+    36.20861
+],
+  "geometry": {"coordinates":[40.95224,36.20861],"type":"Point"}
+}

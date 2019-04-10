@@ -1,0 +1,74 @@
+{
+  "id": 1310095185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35687,36.38428,38.35687,36.38428",
+    "geom:latitude":36.38428,
+    "geom:longitude":38.35687,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sayqul",
+    "gn:country_code":"SY",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164703,
+    "gn:latitude":36.38428,
+    "gn:longitude":38.35687,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sayq\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0642\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sa\u00efqo\u00fbl",
+        "Sayq\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164703
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2604966b665e5af0c51131f2e1ea661a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1310095185,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310095185,
+    "wof:lastmodified":1537701749,
+    "wof:name":"Sayqul",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35687,
+    36.38428,
+    38.35687,
+    36.38428
+],
+  "geometry": {"coordinates":[38.35687,36.38428],"type":"Point"}
+}

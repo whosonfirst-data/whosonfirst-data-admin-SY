@@ -1,0 +1,80 @@
+{
+  "id": 1327244273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98837,35.45574,35.98837,35.45574",
+    "geom:latitude":35.45574,
+    "geom:longitude":35.98837,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ra's al Qalluriyah",
+    "gn:country_code":"SY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166166,
+    "gn:latitude":35.45574,
+    "gn:longitude":35.98837,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ra\u2019s al Qall\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0648\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0642\u0644\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kallourhi\u00e9",
+        "Qallo\u00fbr\u00eey\u00e9",
+        "Qall\u016br\u012byah",
+        "Ra\u2019s al Qall\u016br\u012byah",
+        "R\u0101s al Qall\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166166
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95879546824601d487896de0f3c0d9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1327244273,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327244273,
+    "wof:lastmodified":1537701844,
+    "wof:name":"Ra's al Qalluriyah",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98837,
+    35.45574000000001,
+    35.98837,
+    35.45574000000001
+],
+  "geometry": {"coordinates":[35.98837,35.45574000000001],"type":"Point"}
+}

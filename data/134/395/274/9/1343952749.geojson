@@ -1,0 +1,74 @@
+{
+  "id": 1343952749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.67489,35.56533,40.67489,35.56533",
+    "geom:latitude":35.56533,
+    "geom:longitude":40.67489,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghayran",
+    "gn:country_code":"SY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275554,
+    "gn:latitude":35.56533,
+    "gn:longitude":40.67489,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ghayr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ghayr\u0101n",
+        "Gh\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275554
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a7d0f8c55405d57b0bff55d87b42951b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343952749,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343952749,
+    "wof:lastmodified":1537702519,
+    "wof:name":"Ghayran",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.67489000000001,
+    35.56533,
+    40.67489000000001,
+    35.56533
+],
+  "geometry": {"coordinates":[40.67489000000001,35.56533],"type":"Point"}
+}

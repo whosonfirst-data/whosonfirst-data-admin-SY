@@ -1,0 +1,73 @@
+{
+  "id": 1243254313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4134,33.54055,36.4134,33.54055",
+    "geom:latitude":33.54055,
+    "geom:longitude":36.4134,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard as Safsafah",
+    "gn:country_code":"SY",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411399,
+    "gn:latitude":33.54055,
+    "gn:longitude":36.4134,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ar\u1e11 a\u015f \u015eaf\u015f\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0635\u0641\u0635\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 a\u015f \u015eaf\u015f\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411399
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"30701254443607356a4aa8ae2c296ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1243254313,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243254313,
+    "wof:lastmodified":1537702558,
+    "wof:name":"Ard as Safsafah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4134,
+    33.54055,
+    36.4134,
+    33.54055
+],
+  "geometry": {"coordinates":[36.4134,33.54055],"type":"Point"}
+}

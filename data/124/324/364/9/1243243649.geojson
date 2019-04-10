@@ -1,0 +1,67 @@
+{
+  "id": 1243243649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58537,36.17533,36.58537,36.17533",
+    "geom:latitude":36.17533,
+    "geom:longitude":36.58537,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kirkbizeh",
+    "gn:country_code":"SY",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9203823,
+    "gn:latitude":36.17533,
+    "gn:longitude":36.58537,
+    "gn:modification_date":"2014-07-13",
+    "gn:name":"Kirkbizeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9203823
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"636b38d5922355e9f2577252c3a0bca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1243243649,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243243649,
+    "wof:lastmodified":1537094627,
+    "wof:name":"Kirkbizeh",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58537000000001,
+    36.17533,
+    36.58537000000001,
+    36.17533
+],
+  "geometry": {"coordinates":[36.58537000000001,36.17533],"type":"Point"}
+}

@@ -1,0 +1,167 @@
+{
+  "id": 421197089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18382,33.07227,36.18382,33.07227",
+    "geom:latitude":33.07227,
+    "geom:longitude":36.18382,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0645\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0646\u0645\u064a\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u054d\u0561\u0576\u0561\u0574\u0565\u0575\u0576"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015f \u015eanamayn"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u5c14-\u585e\u5948\u8fc8\u56e0"
+    ],
+    "name:dut_x_preferred":[
+        "As-Sanamayn"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Sanamayn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0645\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Sanamayn"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Sanamayn"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da-\u10e1\u10d0\u10dc\u10d0\u10db\u10d4\u10d8\u10dc\u10d8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e1\u05e0\u05de\u05d9\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u054d\u0561\u0576\u0561\u0574\u0565\u0575\u0576"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da-\u10e1\u10d0\u10dc\u10d0\u10db\u10d4\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "As-Sanamayn"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Sanamayn"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0645\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sanamajn"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441-\u0421\u0430\u043d\u0430\u043c\u0430\u0439\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0441-\u0421\u0430\u043d\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Al-Sanamayn"
+    ],
+    "name:swe_x_preferred":[
+        "As-Sanamayn"
+    ],
+    "name:tur_x_preferred":[
+        "El Sanameyn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441-\u0421\u0430\u043d\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Es Sanamein"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0646\u0645\u06cc\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14-\u585e\u5948\u8fc8\u56e0"
+    ],
+    "qs:gn_country":"SY",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":172469,
+    "qs:gn_pop":25702,
+    "qs:name":"As sanamayn",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"Dar'a",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1301115,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1941728,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":640.0,
+    "wd:latitude":33.071111,
+    "wd:longitude":36.184167,
+    "wd:population":26268,
+    "wd:wordcount":1443,
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172469,
+        "gp:id":1941728,
+        "qs:id":1301115,
+        "wd:id":"Q2561767",
+        "wk:page":"Al-Sanamayn"
+    },
+    "wof:country":"SY",
+    "wof:created":1459009902,
+    "wof:geomhash":"7b56a8f9fbea88ad055235d6d32167b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":421197089,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":421197089,
+    "wof:lastmodified":1527716405,
+    "wof:name":"As sanamayn",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:population":26268,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18382,
+    33.07227,
+    36.18382,
+    33.07227
+],
+  "geometry": {"coordinates":[36.18382,33.07227],"type":"Point"}
+}

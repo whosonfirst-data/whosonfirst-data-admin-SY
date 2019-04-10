@@ -1,0 +1,69 @@
+{
+  "id": 1209639567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79229,36.57932,38.79229,36.57932",
+    "geom:latitude":36.57932,
+    "geom:longitude":38.79229,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mashrafah at Tahtaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167106,
+    "gn:latitude":36.57932,
+    "gn:longitude":38.79229,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Mashrafah at Ta\u1e29t\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641\u0629 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherfet ett Taht\u00e2n\u00eey\u00e9",
+        "Mashrafat at Ta\u1e29t\u0101n\u012byah",
+        "Mashrafah at Ta\u1e29t\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167106
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2ca8d0d9f55341372583c0931c58cef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209639567
+        }
+    ],
+    "wof:id":1209639567,
+    "wof:lastmodified":1537701900,
+    "wof:name":"Mashrafah at Tahtaniyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79229,
+    36.57932,
+    38.79229,
+    36.57932
+],
+  "geometry": {"coordinates":[38.79229,36.57932],"type":"Point"}
+}

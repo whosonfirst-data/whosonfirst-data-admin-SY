@@ -1,0 +1,78 @@
+{
+  "id": 1243381157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.28742,37.23015,42.28742,37.23015",
+    "geom:latitude":37.23015,
+    "geom:longitude":42.28742,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Qasr",
+    "gn:country_code":"SY",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420424,
+    "gn:latitude":37.23015,
+    "gn:longitude":42.28742,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Qa\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "\u0642\u06d5\u0633\u0631\u06c6\u0643"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u015fr",
+        "Qesrok",
+        "\u0642\u0633\u0631\u0648\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6d9f59b4ea54cf71fa686bf99c941830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1243381157,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243381157,
+    "wof:lastmodified":1537702446,
+    "wof:name":"Al Qasr",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.28742,
+    37.23015,
+    42.28742,
+    37.23015
+],
+  "geometry": {"coordinates":[42.28742,37.23015],"type":"Point"}
+}

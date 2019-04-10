@@ -1,0 +1,73 @@
+{
+  "id": 1327115599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33645,34.81625,36.33645,34.81625",
+    "geom:latitude":34.81625,
+    "geom:longitude":36.33645,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Harat Mahfud",
+    "gn:country_code":"SY",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176784,
+    "gn:latitude":34.81625,
+    "gn:longitude":36.33645,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u1e28\u0101rat Ma\u1e29f\u016b\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0645\u062d\u0641\u0648\u0636"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat Ma\u1e29f\u016b\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176784
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"388f279e0caa86b9b066704e5d7fed9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1327115599,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327115599,
+    "wof:lastmodified":1537702606,
+    "wof:name":"Harat Mahfud",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33645,
+    34.81625,
+    36.33645,
+    34.81625
+],
+  "geometry": {"coordinates":[36.33645,34.81625],"type":"Point"}
+}

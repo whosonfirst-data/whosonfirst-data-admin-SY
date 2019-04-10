@@ -1,0 +1,67 @@
+{
+  "id": 1209399283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31266,36.56264,37.31266,36.56264",
+    "geom:latitude":36.56264,
+    "geom:longitude":37.31266,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tallat al Baydah",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152470,
+    "gn:latitude":36.56264,
+    "gn:longitude":37.31266,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Tallat al Bay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0629 \u0627\u0644\u0628\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tallat al Bay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152470
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd5ceabcf750ed7a7323819ff23d9605",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209399283
+        }
+    ],
+    "wof:id":1209399283,
+    "wof:lastmodified":1537702596,
+    "wof:name":"Tallat al Baydah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31266,
+    36.56264,
+    37.31266,
+    36.56264
+],
+  "geometry": {"coordinates":[37.31266,36.56264],"type":"Point"}
+}

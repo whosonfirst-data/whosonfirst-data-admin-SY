@@ -1,0 +1,75 @@
+{
+  "id": 1260253361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98883,35.14266,35.98883,35.14266",
+    "geom:latitude":35.14266,
+    "geom:longitude":35.98883,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Usaybah",
+    "gn:country_code":"SY",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162776,
+    "gn:latitude":35.14266,
+    "gn:longitude":35.98883,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018U\u015faybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0635\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aassa\u00efb\u00e9",
+        "Aasse\u00efb\u00e9",
+        "\u2018U\u015faybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162776
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d17340d30adee7fd9a87b96098436257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1260253361,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260253361,
+    "wof:lastmodified":1537701614,
+    "wof:name":"`Usaybah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98883,
+    35.14266,
+    35.98883,
+    35.14266
+],
+  "geometry": {"coordinates":[35.98883,35.14266],"type":"Point"}
+}

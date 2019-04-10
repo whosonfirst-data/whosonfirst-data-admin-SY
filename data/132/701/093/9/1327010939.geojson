@@ -1,0 +1,76 @@
+{
+  "id": 1327010939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21166,34.91896,37.21166,34.91896",
+    "geom:latitude":34.91896,
+    "geom:longitude":37.21166,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tall al Qata",
+    "gn:country_code":"SY",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163683,
+    "gn:latitude":34.91896,
+    "gn:longitude":37.21166,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tall al Qa\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0642\u0637\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tell el Qata",
+        "Tall Qi\u0163\u0163ah",
+        "Tell el Qataa",
+        "Tall al Qa\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163683
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e1af5ee26ed835d5e6aa5cebaac2cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1327010939,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327010939,
+    "wof:lastmodified":1537701684,
+    "wof:name":"Tall al Qata",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21166,
+    34.91896,
+    37.21166,
+    34.91896
+],
+  "geometry": {"coordinates":[37.21166,34.91896],"type":"Point"}
+}

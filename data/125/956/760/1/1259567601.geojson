@@ -1,0 +1,75 @@
+{
+  "id": 1259567601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53127,36.71569,38.53127,36.71569",
+    "geom:latitude":36.71569,
+    "geom:longitude":38.53127,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dar as Salam",
+    "gn:country_code":"SY",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170895,
+    "gn:latitude":36.71569,
+    "gn:longitude":38.53127,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"D\u0101r as Sal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "D\u00e2r es Sal\u00e2m",
+        "D\u00e2r el Sal\u00e2m",
+        "D\u0101r as Sal\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170895
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e6063649b4c59b41369417af2f781e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259567601,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259567601,
+    "wof:lastmodified":1537702156,
+    "wof:name":"Dar as Salam",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53127,
+    36.71569,
+    38.53127,
+    36.71569
+],
+  "geometry": {"coordinates":[38.53127,36.71569],"type":"Point"}
+}

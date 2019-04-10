@@ -1,0 +1,73 @@
+{
+  "id": 1242568407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.90285,33.59513,37.90285,33.59513",
+    "geom:latitude":33.59513,
+    "geom:longitude":37.90285,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bayt Khalaf al `Azli",
+    "gn:country_code":"SY",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407166,
+    "gn:latitude":33.59513,
+    "gn:longitude":37.90285,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bayt Khalaf al \u2018Azl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062e\u0644\u0641 \u0627\u0644\u0639\u0632\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt Khalaf al \u2018Azl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407166
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4dc67e50e41a576d2becdb40117b939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1242568407,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242568407,
+    "wof:lastmodified":1537702432,
+    "wof:name":"Bayt Khalaf al `Azli",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.90285,
+    33.59513,
+    37.90285,
+    33.59513
+],
+  "geometry": {"coordinates":[37.90285,33.59513],"type":"Point"}
+}

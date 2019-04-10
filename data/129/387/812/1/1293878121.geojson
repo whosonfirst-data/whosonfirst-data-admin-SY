@@ -1,0 +1,80 @@
+{
+  "id": 1293878121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91675,36.33273,36.91675,36.33273",
+    "geom:latitude":36.33273,
+    "geom:longitude":36.91675,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kabashin",
+    "gn:country_code":"SY",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168466,
+    "gn:latitude":36.33273,
+    "gn:longitude":36.91675,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kab\u0101sh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kb\u0101sh\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0628\u0627\u0634\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kakrine",
+        "Kb\u00e2ch\u00eene",
+        "Kebichine",
+        "Kab\u0101sh\u012bn",
+        "Kb\u0101sh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168466
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"48a91a49f554dbc466bfdc553cc3f209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293878121,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293878121,
+    "wof:lastmodified":1537701993,
+    "wof:name":"Kabashin",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91675,
+    36.33273,
+    36.91675,
+    36.33273
+],
+  "geometry": {"coordinates":[36.91675,36.33273],"type":"Point"}
+}

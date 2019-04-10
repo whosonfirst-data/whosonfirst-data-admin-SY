@@ -1,0 +1,81 @@
+{
+  "id": 1276328265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.896,35.17901,36.896,35.17901",
+    "geom:latitude":35.17901,
+    "geom:longitude":36.896,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Khulla",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173644,
+    "gn:latitude":35.17901,
+    "gn:longitude":36.896,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Khull\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Khull\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0644\u0651\u0627",
+        "\u0627\u0644\u062e\u0644\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bllah",
+        "Al Khullah",
+        "El Khoulla",
+        "Khoulla",
+        "Al Khal\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173644
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"49ae28a44ba083b25dae913f89590d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276328265,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276328265,
+    "wof:lastmodified":1537702351,
+    "wof:name":"Al Khulla",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.896,
+    35.17901,
+    36.896,
+    35.17901
+],
+  "geometry": {"coordinates":[36.896,35.17901],"type":"Point"}
+}

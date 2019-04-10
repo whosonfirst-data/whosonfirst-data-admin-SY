@@ -1,0 +1,73 @@
+{
+  "id": 1343379337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03731,34.90389,37.03731,34.90389",
+    "geom:latitude":34.90389,
+    "geom:longitude":37.03731,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buraysat as Sunayd",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2432,
+    "gn:latitude":34.90389,
+    "gn:longitude":37.03731,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Buray\u015fat as Sunayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0635\u0629 \u0627\u0644\u0633\u0646\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Buray\u015fat as Sunayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c65a8c7fb15ed66de1d6c089c61140d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343379337,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343379337,
+    "wof:lastmodified":1537701528,
+    "wof:name":"Buraysat as Sunayd",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03731,
+    34.90389,
+    37.03731,
+    34.90389
+],
+  "geometry": {"coordinates":[37.03731,34.90389],"type":"Point"}
+}

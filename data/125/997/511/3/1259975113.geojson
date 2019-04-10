@@ -1,0 +1,81 @@
+{
+  "id": 1259975113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45558,32.41464,36.45558,32.41464",
+    "geom:latitude":32.41464,
+    "geom:longitude":36.45558,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tissia",
+    "gn:country_code":"SY",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163203,
+    "gn:latitude":32.41464,
+    "gn:longitude":36.45558,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tissia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u012bsy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u064a\u0633\u064a\u0627",
+        "\u0637\u064a\u0633\u064a\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0441\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u012bs\u012byah",
+        "\u0162\u012bsiy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163203
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a08b911760514db170c749e4395e880e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1259975113,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259975113,
+    "wof:lastmodified":1537701643,
+    "wof:name":"Tissia",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45558,
+    32.41464000000001,
+    36.45558,
+    32.41464000000001
+],
+  "geometry": {"coordinates":[36.45558,32.41464000000001],"type":"Point"}
+}

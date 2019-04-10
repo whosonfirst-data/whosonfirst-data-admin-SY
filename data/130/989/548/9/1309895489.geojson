@@ -1,0 +1,80 @@
+{
+  "id": 1309895489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67909,36.61155,36.67909,36.61155",
+    "geom:latitude":36.61155,
+    "geom:longitude":36.67909,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dunbali",
+    "gn:country_code":"SY",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273616,
+    "gn:latitude":36.61155,
+    "gn:longitude":36.67909,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"D\u016bnbal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0646\u0628\u0644\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0646\u0628\u0644\u064a",
+        "\u0627\u0644\u0623\u0645\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u016bnball\u012b",
+        "D\u016bnblal\u012b",
+        "D\u016bnbal\u012b",
+        "Al Ums\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273616
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"acb5c12d9f1b51afc13da6f529431f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1309895489,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309895489,
+    "wof:lastmodified":1537702509,
+    "wof:name":"Dunbali",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67909,
+    36.61155,
+    36.67909,
+    36.61155
+],
+  "geometry": {"coordinates":[36.67909,36.61155],"type":"Point"}
+}

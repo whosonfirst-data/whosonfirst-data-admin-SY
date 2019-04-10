@@ -1,0 +1,73 @@
+{
+  "id": 1276573787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3812,33.05319,36.3812,33.05319",
+    "geom:latitude":33.05319,
+    "geom:longitude":36.3812,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Masharif",
+    "gn:country_code":"SY",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259748,
+    "gn:latitude":33.05319,
+    "gn:longitude":36.3812,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al Mash\u0101rif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Mash\u0101rif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259748
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef9715f7f04d350ac310b6406082fa3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1276573787,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276573787,
+    "wof:lastmodified":1537702608,
+    "wof:name":"Al Masharif",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3812,
+    33.05319,
+    36.3812,
+    33.05319
+],
+  "geometry": {"coordinates":[36.3812,33.05319],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193124397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63686,36.07548,36.63686,36.07548",
+    "geom:latitude":36.07548,
+    "geom:longitude":36.63686,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Haranbush",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169900,
+    "gn:latitude":36.07548,
+    "gn:longitude":36.63686,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Haranb\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0646\u0628\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Harbanouche",
+        "Harannbouch",
+        "Haranb\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169900
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d078c9d9d8d952a26126059dd4ef8697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1193124397,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193124397,
+    "wof:lastmodified":1537702096,
+    "wof:name":"Haranbush",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63686,
+    36.07548,
+    36.63686,
+    36.07548
+],
+  "geometry": {"coordinates":[36.63686,36.07548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310006845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.998,36.62954,38.998,36.62954",
+    "geom:latitude":36.62954,
+    "geom:longitude":38.998,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shaninah",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164502,
+    "gn:latitude":36.62954,
+    "gn:longitude":38.998,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Shan\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chn\u00een\u00e9",
+        "Shan\u012bnah",
+        "Shunaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164502
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"239970d538f2211de433e526d59a4992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1310006845,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310006845,
+    "wof:lastmodified":1537701737,
+    "wof:name":"Shaninah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.99800000000001,
+    36.62954000000001,
+    38.99800000000001,
+    36.62954000000001
+],
+  "geometry": {"coordinates":[38.99800000000001,36.62954000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343550973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66565,36.54814,36.66565,36.54814",
+    "geom:latitude":36.54814,
+    "geom:longitude":36.66565,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mi`sarat Juqq",
+    "gn:country_code":"SY",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167154,
+    "gn:latitude":36.54814,
+    "gn:longitude":36.66565,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Mi\u2018\u015farat Juqq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0635\u0631\u0629 \u062c\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maassaradjiq",
+        "Massaradjik",
+        "Ma\u2018\u015far Juqq",
+        "Mi\u2018\u015farat Juqq",
+        "Ma\u2018\u015farat Juqq",
+        "Al Mi\u2018\u015farah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167154
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"37492a67793600e200a8eae05bbe8e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343550973,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343550973,
+    "wof:lastmodified":1537701903,
+    "wof:name":"Mi`sarat Juqq",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66565,
+    36.54814,
+    36.66565,
+    36.54814
+],
+  "geometry": {"coordinates":[36.66565,36.54814],"type":"Point"}
+}

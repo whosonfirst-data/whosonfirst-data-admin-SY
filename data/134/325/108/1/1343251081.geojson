@@ -1,0 +1,86 @@
+{
+  "id": 1343251081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69905,35.05965,36.69905,35.05965",
+    "geom:latitude":35.05965,
+    "geom:longitude":36.69905,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kafr Buhum",
+    "gn:country_code":"SY",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168708,
+    "gn:latitude":35.05965,
+    "gn:longitude":36.69905,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr Buhum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0628\u0647\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0627\u0646\u064a\u0629",
+        "\u0627\u0644\u063a\u0633\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafer Bouhoum",
+        "Kifrabh\u016bm",
+        "Kafar Bihem",
+        "Kafr Abuhum",
+        "Kafr Behoum",
+        "Kafr Beh\u016bm",
+        "Kafr Buhum",
+        "Al Gh\u0101n\u012byah",
+        "Al Ghass\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168708,
+        "wk:page":"Kafr_Buhum"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fca68a9d573e279dd56fc09aafbd0b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343251081,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343251081,
+    "wof:lastmodified":1537702016,
+    "wof:name":"Kafr Buhum",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69905,
+    35.05965,
+    36.69905,
+    35.05965
+],
+  "geometry": {"coordinates":[36.69905,35.05965],"type":"Point"}
+}

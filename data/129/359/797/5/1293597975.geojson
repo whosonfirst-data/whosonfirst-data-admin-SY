@@ -1,0 +1,77 @@
+{
+  "id": 1293597975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12079,35.63314,36.12079,35.63314",
+    "geom:latitude":35.63314,
+    "geom:longitude":36.12079,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dumazin",
+    "gn:country_code":"SY",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170587,
+    "gn:latitude":35.63314,
+    "gn:longitude":36.12079,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"D\u016bmaz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0645\u0632\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kro\u00fbm Aarame",
+        "Doumaz\u00eene",
+        "Kur\u016bm \u2018Aram\u016b",
+        "Kro\u00fbm Arame",
+        "D\u016bmaz\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170587
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"70673d1bf96567e5a8d51a97ec75099d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293597975,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293597975,
+    "wof:lastmodified":1537702134,
+    "wof:name":"Dumazin",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12079,
+    35.63314000000001,
+    36.12079,
+    35.63314000000001
+],
+  "geometry": {"coordinates":[36.12079,35.63314000000001],"type":"Point"}
+}

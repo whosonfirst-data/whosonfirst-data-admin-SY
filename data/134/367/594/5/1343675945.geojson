@@ -1,0 +1,73 @@
+{
+  "id": 1343675945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.86353,35.79662,40.86353,35.79662",
+    "geom:latitude":35.79662,
+    "geom:longitude":40.86353,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khashi",
+    "gn:country_code":"SY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275301,
+    "gn:latitude":35.79662,
+    "gn:longitude":40.86353,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kh\u0101sh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u0101sh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0634\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275301
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"270b249e631e835663e0d5eaf7757157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1343675945,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343675945,
+    "wof:lastmodified":1537702517,
+    "wof:name":"Khashi",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.86353,
+    35.79662000000001,
+    40.86353,
+    35.79662000000001
+],
+  "geometry": {"coordinates":[40.86353,35.79662000000001],"type":"Point"}
+}

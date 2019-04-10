@@ -1,0 +1,75 @@
+{
+  "id": 1293116493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78735,36.87131,41.78735,36.87131",
+    "geom:latitude":36.87131,
+    "geom:longitude":41.78735,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm Kuhayf Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162874,
+    "gn:latitude":36.87131,
+    "gn:longitude":41.78735,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Umm Kuhayf Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0643\u0647\u064a\u0641 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Oum K\u2019 he\u00eff Taht\u00e2ni",
+        "Umm Kunayf Ta\u1e29t\u0101n\u012b",
+        "Umm Kuhayf Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea328f7405e1f55ad2a3de261cc453b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1293116493,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293116493,
+    "wof:lastmodified":1537701620,
+    "wof:name":"Umm Kuhayf Tahtani",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78735,
+    36.87131,
+    41.78735,
+    36.87131
+],
+  "geometry": {"coordinates":[41.78735,36.87131],"type":"Point"}
+}

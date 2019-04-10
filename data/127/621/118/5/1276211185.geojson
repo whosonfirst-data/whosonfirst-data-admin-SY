@@ -1,0 +1,80 @@
+{
+  "id": 1276211185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54928,36.62196,37.54928,36.62196",
+    "geom:latitude":36.62196,
+    "geom:longitude":37.54928,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Muthminah",
+    "gn:country_code":"SY",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164961,
+    "gn:latitude":36.62196,
+    "gn:longitude":37.54928,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Muthminah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062b\u0645\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0643\u0632\u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sekizler",
+        "S\u00e9zizler",
+        "Sakizlar",
+        "Al Muthminah",
+        "Al Mathmanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164961
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b103a791ce0af5bba6dc8d98f7ccfe9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1276211185,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276211185,
+    "wof:lastmodified":1537701763,
+    "wof:name":"Al Muthminah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54928,
+    36.62196,
+    37.54928,
+    36.62196
+],
+  "geometry": {"coordinates":[37.54928,36.62196],"type":"Point"}
+}

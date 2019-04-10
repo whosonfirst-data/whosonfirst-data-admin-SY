@@ -1,0 +1,74 @@
+{
+  "id": 1259391471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95614,35.59389,35.95614,35.59389",
+    "geom:latitude":35.59389,
+    "geom:longitude":35.95614,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sarna",
+    "gn:country_code":"SY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164781,
+    "gn:latitude":35.59389,
+    "gn:longitude":35.95614,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u015earn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Serna",
+        "\u015earn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164781
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82fb0fc3ae39b8d6c89963e093e7f4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1259391471,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259391471,
+    "wof:lastmodified":1537701752,
+    "wof:name":"Sarna",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95614000000001,
+    35.59389,
+    35.95614000000001,
+    35.59389
+],
+  "geometry": {"coordinates":[35.95614000000001,35.59389],"type":"Point"}
+}

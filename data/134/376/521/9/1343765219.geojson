@@ -1,0 +1,79 @@
+{
+  "id": 1343765219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08725,35.60753,36.08725,35.60753",
+    "geom:latitude":35.60753,
+    "geom:longitude":36.08725,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bkhasun",
+    "gn:country_code":"SY",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171343,
+    "gn:latitude":35.60753,
+    "gn:longitude":36.08725,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bkh\u0101\u015f\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bkh\u0101s\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062e\u0627\u0635\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bkh\u00e2sso\u00fbm",
+        "Bhk\u00e2sso\u00fbn",
+        "Bkh\u0101\u015f\u016bn",
+        "Bikh\u0101\u015f\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171343
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d9eeda58189d7042fab1f00c27dde982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343765219,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343765219,
+    "wof:lastmodified":1537702191,
+    "wof:name":"Bkhasun",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08725,
+    35.60753,
+    36.08725,
+    35.60753
+],
+  "geometry": {"coordinates":[36.08725,35.60753],"type":"Point"}
+}

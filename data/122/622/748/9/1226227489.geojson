@@ -1,0 +1,73 @@
+{
+  "id": 1226227489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42585,33.55212,36.42585,33.55212",
+    "geom:latitude":33.55212,
+    "geom:longitude":36.42585,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al `Ubb",
+    "gn:country_code":"SY",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411372,
+    "gn:latitude":33.55212,
+    "gn:longitude":36.42585,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Ar\u1e11 al \u2018Ubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al \u2018Ubb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411372
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95cdf6dd4edbed9ee00862713fa0c4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1226227489,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226227489,
+    "wof:lastmodified":1537702558,
+    "wof:name":"Ard al `Ubb",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42585,
+    33.55212,
+    36.42585,
+    33.55212
+],
+  "geometry": {"coordinates":[36.42585,33.55212],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226346223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91117,36.02118,40.91117,36.02118",
+    "geom:latitude":36.02118,
+    "geom:longitude":40.91117,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"As Sayhah",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414756,
+    "gn:latitude":36.02118,
+    "gn:longitude":40.91117,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Say\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Say\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414756
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"75c957636c133396ba9e13be54f54482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226346223,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226346223,
+    "wof:lastmodified":1537702433,
+    "wof:name":"As Sayhah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91117,
+    36.02118,
+    40.91117,
+    36.02118
+],
+  "geometry": {"coordinates":[40.91117,36.02118],"type":"Point"}
+}

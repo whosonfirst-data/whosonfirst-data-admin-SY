@@ -1,0 +1,71 @@
+{
+  "id": 1209629415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.93963,36.75927,40.93963,36.75927",
+    "geom:latitude":36.75927,
+    "geom:longitude":40.93963,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuwayr Bajnik",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167856,
+    "gn:latitude":36.75927,
+    "gn:longitude":40.93963,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuwayr Bajn\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0631 \u0628\u062c\u0646\u064a\u0643"
+    ],
+    "name:tur_x_preferred":[
+        "K\u012br B\u00e9jnik"
+    ],
+    "name:und_x_variant":[
+        "Guir B\u00e9jn\u00eek",
+        "Kuwayr Bajn\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167856
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"958c80a32d798150a5748042e3a2ab78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209629415
+        }
+    ],
+    "wof:id":1209629415,
+    "wof:lastmodified":1537701949,
+    "wof:name":"Kuwayr Bajnik",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.93963,
+    36.75927,
+    40.93963,
+    36.75927
+],
+  "geometry": {"coordinates":[40.93963,36.75927],"type":"Point"}
+}

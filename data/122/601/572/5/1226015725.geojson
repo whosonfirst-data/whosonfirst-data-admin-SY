@@ -1,0 +1,83 @@
+{
+  "id": 1226015725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97975,34.82795,35.97975,34.82795",
+    "geom:latitude":34.82795,
+    "geom:longitude":35.97975,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Munyah",
+    "gn:country_code":"SY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173428,
+    "gn:latitude":34.82795,
+    "gn:longitude":35.97975,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Al Munyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mina",
+        "Miniyeh",
+        "Minni\u00e9",
+        "Minia",
+        "Munayyah",
+        "Minyah",
+        "Munyah",
+        "Al Munyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173428
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c808163b0da17862f17faf9682c42cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226015725,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226015725,
+    "wof:lastmodified":1537702333,
+    "wof:name":"Al Munyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97975,
+    34.82795,
+    35.97975,
+    34.82795
+],
+  "geometry": {"coordinates":[35.97975,34.82795],"type":"Point"}
+}

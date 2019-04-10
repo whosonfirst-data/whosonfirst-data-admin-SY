@@ -1,0 +1,76 @@
+{
+  "id": 1310489641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59107,34.81588,36.59107,34.81588",
+    "geom:latitude":34.81588,
+    "geom:longitude":36.59107,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Haysah",
+    "gn:country_code":"SY",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169657,
+    "gn:latitude":34.81588,
+    "gn:longitude":36.59107,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al \u1e28ay\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00efssa",
+        "He\u00efssa",
+        "\u1e28aysah",
+        "Al \u1e28ay\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169657
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"74d53cbb99a05e4b5b70e2be2d14ff7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310489641,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310489641,
+    "wof:lastmodified":1537702079,
+    "wof:name":"Al Haysah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59107,
+    34.81588,
+    36.59107,
+    34.81588
+],
+  "geometry": {"coordinates":[36.59107,34.81588],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209399243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.00127,35.72667,38.00127,35.72667",
+    "geom:latitude":35.72667,
+    "geom:longitude":38.00127,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ulaywi al Khalaf",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342118,
+    "gn:latitude":35.72667,
+    "gn:longitude":38.00127,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018Ulayw\u012b al Khalaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0648\u064a \u0627\u0644\u062e\u0644\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ulayw\u012b al Khalaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"62266ccb2cb209f771625cd57a636cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209399243
+        }
+    ],
+    "wof:id":1209399243,
+    "wof:lastmodified":1537702545,
+    "wof:name":"`Ulaywi al Khalaf",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.00127,
+    35.72667,
+    38.00127,
+    35.72667
+],
+  "geometry": {"coordinates":[38.00127,35.72667],"type":"Point"}
+}

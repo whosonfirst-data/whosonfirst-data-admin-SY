@@ -1,0 +1,77 @@
+{
+  "id": 1259963571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18535,35.38395,37.18535,35.38395",
+    "geom:latitude":35.38395,
+    "geom:longitude":37.18535,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Anbaz",
+    "gn:country_code":"SY",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173162,
+    "gn:latitude":35.38395,
+    "gn:longitude":37.18535,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Anbaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ann\u016bz"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0646\u0628\u0632"
+    ],
+    "name:und_x_variant":[
+        "Aanno\u00fbz",
+        "\u2018Anbaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173162
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"29e6d5411b09002924a7936a8ca78a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259963571,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259963571,
+    "wof:lastmodified":1537702314,
+    "wof:name":"`Anbaz",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18535,
+    35.38395,
+    37.18535,
+    35.38395
+],
+  "geometry": {"coordinates":[37.18535,35.38395],"type":"Point"}
+}

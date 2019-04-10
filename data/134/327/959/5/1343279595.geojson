@@ -1,0 +1,77 @@
+{
+  "id": 1343279595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.72616,36.97543,40.72616,36.97543",
+    "geom:latitude":36.97543,
+    "geom:longitude":40.72616,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Bass",
+    "gn:country_code":"SY",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163616,
+    "gn:latitude":36.97543,
+    "gn:longitude":40.72616,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall Ba\u015f\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0635"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Ba\u015f\u015f"
+    ],
+    "name:und_x_variant":[
+        "Tell Bass",
+        "Tall Ba\u015f\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163616
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a809d56ac8af9b2653c5451752485bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1343279595,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343279595,
+    "wof:lastmodified":1537701676,
+    "wof:name":"Tall Bass",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.72616,
+    36.97543,
+    40.72616,
+    36.97543
+],
+  "geometry": {"coordinates":[40.72616,36.97543],"type":"Point"}
+}

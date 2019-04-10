@@ -1,0 +1,74 @@
+{
+  "id": 1210036339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48874,33.51718,36.48874,33.51718",
+    "geom:latitude":33.51718,
+    "geom:longitude":36.48874,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hazrama",
+    "gn:country_code":"SY",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169626,
+    "gn:latitude":33.51718,
+    "gn:longitude":36.48874,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u1e28azram\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0632\u0631\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28azramah",
+        "\u1e28azram\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169626
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cf6ac6ad92aa87fe71e5eb15c7a9d4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1210036339,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210036339,
+    "wof:lastmodified":1537702078,
+    "wof:name":"Hazrama",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48874,
+    33.51718,
+    36.48874,
+    33.51718
+],
+  "geometry": {"coordinates":[36.48874,33.51718],"type":"Point"}
+}

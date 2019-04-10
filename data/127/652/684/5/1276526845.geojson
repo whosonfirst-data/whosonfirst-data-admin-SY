@@ -1,0 +1,79 @@
+{
+  "id": 1276526845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03958,35.19881,36.03958,35.19881",
+    "geom:latitude":35.19881,
+    "geom:longitude":36.03958,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ka`biyat Faris",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170449,
+    "gn:latitude":35.19881,
+    "gn:longitude":36.03958,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ka\u2018b\u012byat F\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0639\u0628\u064a\u0629 \u0641\u0627\u0631\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0631\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "F\u00e2rech Kaab\u00eey\u00e9",
+        "F\u0101rish Ka\u2018b\u012byah",
+        "Ka\u2018b\u012byat F\u0101ris",
+        "Al Ghurz\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170449
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b5782a3732279cce0a244d99df83b01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1276526845,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276526845,
+    "wof:lastmodified":1537702124,
+    "wof:name":"Ka`biyat Faris",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03958,
+    35.19880999999999,
+    36.03958,
+    35.19880999999999
+],
+  "geometry": {"coordinates":[36.03958,35.19880999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226166935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31966,35.67079,39.31966,35.67079",
+    "geom:latitude":35.67079,
+    "geom:longitude":39.31966,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"As Salam `Alaykum",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4311,
+    "gn:latitude":35.67079,
+    "gn:longitude":39.31966,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"As Sal\u0101m \u2018Alaykum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645"
+    ],
+    "name:und_x_variant":[
+        "As Sal\u0101m\u016b \u2018Alaykum",
+        "As Sal\u0101m \u2018Alaykum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4311
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"46c3513f8b08e99d63691fcf507898c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1226166935,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226166935,
+    "wof:lastmodified":1537701539,
+    "wof:name":"As Salam `Alaykum",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31966,
+    35.67079000000001,
+    39.31966,
+    35.67079000000001
+],
+  "geometry": {"coordinates":[39.31966,35.67079000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344163237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28914,36.03892,39.28914,36.03892",
+    "geom:latitude":36.03892,
+    "geom:longitude":39.28914,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abu Wahl",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8384206,
+    "gn:latitude":36.03892,
+    "gn:longitude":39.28914,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ab\u016b Wa\u1e29l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0648\u062d\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Wa\u1e29l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384206
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"14d6f3f3d11229969c139cef60b99e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1344163237,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1344163237,
+    "wof:lastmodified":1537702556,
+    "wof:name":"Abu Wahl",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28914,
+    36.03892000000001,
+    39.28914,
+    36.03892000000001
+],
+  "geometry": {"coordinates":[39.28914,36.03892000000001],"type":"Point"}
+}

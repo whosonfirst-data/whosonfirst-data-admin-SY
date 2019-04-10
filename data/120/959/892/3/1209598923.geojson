@@ -1,0 +1,69 @@
+{
+  "id": 1209598923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95538,34.84619,35.95538,34.84619",
+    "geom:latitude":34.84619,
+    "geom:longitude":35.95538,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Mutahiriyah",
+    "gn:country_code":"SY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166550,
+    "gn:latitude":34.84619,
+    "gn:longitude":35.95538,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Al Mu\u0163\u0101hir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0627\u0647\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mt\u00e2hr\u00eey\u00e9",
+        "Mu\u0163\u0101hir\u012byah",
+        "Al Mu\u0163\u0101hir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166550
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"441fefa94bace557ad1089a116315524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209598923
+        }
+    ],
+    "wof:id":1209598923,
+    "wof:lastmodified":1537701864,
+    "wof:name":"Al Mutahiriyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95538,
+    34.84619,
+    35.95538,
+    34.84619
+],
+  "geometry": {"coordinates":[35.95538,34.84619],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209228661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88064,35.92482,40.88064,35.92482",
+    "geom:latitude":35.92482,
+    "geom:longitude":40.88064,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mawqi` as Sabkhah",
+    "gn:country_code":"SY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266622,
+    "gn:latitude":35.92482,
+    "gn:longitude":40.88064,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Mawqi\u2018 as Sabkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0642\u0639 \u0627\u0644\u0633\u0628\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mawqi\u2018 as Sabkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266622
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9968a17fca69863b50f311db2ffdb701",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209228661
+        }
+    ],
+    "wof:id":1209228661,
+    "wof:lastmodified":1537702503,
+    "wof:name":"Mawqi` as Sabkhah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88064,
+    35.92482000000001,
+    40.88064,
+    35.92482000000001
+],
+  "geometry": {"coordinates":[40.88064,35.92482000000001],"type":"Point"}
+}

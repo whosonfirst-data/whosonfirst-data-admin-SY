@@ -1,0 +1,81 @@
+{
+  "id": 1327024493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94031,36.36736,36.94031,36.36736",
+    "geom:latitude":36.36736,
+    "geom:longitude":36.94031,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Burj al Qas",
+    "gn:country_code":"SY",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171157,
+    "gn:latitude":36.36736,
+    "gn:longitude":36.94031,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Burj al Q\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0642\u0644\u0635"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u062c \u0627\u0644\u0642\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Borj el Q\u00e2s",
+        "Borj el Khass",
+        "Bourj el Qas",
+        "Burj al Q\u0101s",
+        "Burj al Qala\u015f",
+        "Burj al Q\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171157
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"99befeb618176492d7bd1f543b889bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1327024493,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327024493,
+    "wof:lastmodified":1537702174,
+    "wof:name":"Burj al Qas",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94031,
+    36.36736,
+    36.94031,
+    36.36736
+],
+  "geometry": {"coordinates":[36.94031,36.36736],"type":"Point"}
+}

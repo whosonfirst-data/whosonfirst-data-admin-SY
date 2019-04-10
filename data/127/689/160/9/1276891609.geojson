@@ -1,0 +1,77 @@
+{
+  "id": 1276891609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35726,36.63848,40.35726,36.63848",
+    "geom:latitude":36.63848,
+    "geom:longitude":40.35726,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Shamran Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163458,
+    "gn:latitude":36.63848,
+    "gn:longitude":40.35726,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tall Shamr\u0101n Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0634\u0645\u0631\u0627\u0646 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tall Shamr\u0101n",
+        "Tell Chamr\u00e2ne Faouq\u00e2ni",
+        "Tell Chamr\u00e2ne",
+        "Tall Shamr\u0101n al Fawq\u0101n\u012b",
+        "Tall Shamr\u0101n Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163458
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0670e08ad61effc66da587e1e74641e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276891609,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276891609,
+    "wof:lastmodified":1537701659,
+    "wof:name":"Tall Shamran Fawqani",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35726,
+    36.63848,
+    40.35726,
+    36.63848
+],
+  "geometry": {"coordinates":[40.35726,36.63848],"type":"Point"}
+}

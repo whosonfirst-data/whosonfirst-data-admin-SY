@@ -1,0 +1,73 @@
+{
+  "id": 1343453447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99735,33.06339,35.99735,33.06339",
+    "geom:latitude":33.06339,
+    "geom:longitude":35.99735,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ard an Naq'ah",
+    "gn:country_code":"SY",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8464225,
+    "gn:latitude":33.06339,
+    "gn:longitude":35.99735,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ar\u1e11 an Naq\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0646\u0642\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 an Naq\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464225
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b430ba9d72cffc5d500129327ad51ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1343453447,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1343453447,
+    "wof:lastmodified":1537702572,
+    "wof:name":"Ard an Naq'ah",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99735,
+    33.06339000000001,
+    35.99735,
+    33.06339000000001
+],
+  "geometry": {"coordinates":[35.99735,33.06339000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209195541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55911,34.45233,36.55911,34.45233",
+    "geom:latitude":34.45233,
+    "geom:longitude":36.55911,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rablah",
+    "gn:country_code":"SY",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165323,
+    "gn:latitude":34.45233,
+    "gn:longitude":36.55911,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Rablah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rableh",
+        "Rible",
+        "Rabla",
+        "Rablih",
+        "Rabl\u00e9",
+        "Riblah",
+        "Rablah",
+        "Khirbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165323,
+        "wk:page":"Riblah"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e64ea05a2d4b39cb071a77c85cc40b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209195541
+        }
+    ],
+    "wof:id":1209195541,
+    "wof:lastmodified":1537701779,
+    "wof:name":"Rablah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55911,
+    34.45233,
+    36.55911,
+    34.45233
+],
+  "geometry": {"coordinates":[36.55911,34.45233],"type":"Point"}
+}

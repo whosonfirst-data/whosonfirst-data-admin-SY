@@ -1,0 +1,76 @@
+{
+  "id": 1210010413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70856,35.18114,36.70856,35.18114",
+    "geom:latitude":35.18114,
+    "geom:longitude":36.70856,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr al Qusayyah",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162487,
+    "gn:latitude":35.18114,
+    "gn:longitude":36.70856,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zawr al Qusayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0642\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zor el Qsay\u00e9",
+        "Zour el Qsay\u00e9",
+        "Zawr al Qsay\u00e9",
+        "Zawr al Qusayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162487
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fba882d156b084a3e434c504df64219a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1210010413,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210010413,
+    "wof:lastmodified":1537701594,
+    "wof:name":"Zawr al Qusayyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70856,
+    35.18114,
+    36.70856,
+    35.18114
+],
+  "geometry": {"coordinates":[36.70856,35.18114],"type":"Point"}
+}

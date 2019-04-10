@@ -1,0 +1,71 @@
+{
+  "id": 1260074671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59918,36.69235,38.59918,36.69235",
+    "geom:latitude":36.69235,
+    "geom:longitude":38.59918,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bi'r Kannah",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":171402,
+    "gn:latitude":36.69235,
+    "gn:longitude":38.59918,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Bi\u2019r Kannah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "B\u00eer Kanni",
+        "Bi\u2019r Kannah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171402
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"66c4b9c05ec114831155abbf587c3824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260074671,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260074671,
+    "wof:lastmodified":1537702195,
+    "wof:name":"Bi'r Kannah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59918,
+    36.69235,
+    38.59918,
+    36.69235
+],
+  "geometry": {"coordinates":[38.59918,36.69235],"type":"Point"}
+}

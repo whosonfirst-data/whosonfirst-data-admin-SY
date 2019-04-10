@@ -1,0 +1,73 @@
+{
+  "id": 1343954039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.60154,35.28991,37.60154,35.28991",
+    "geom:latitude":35.28991,
+    "geom:longitude":37.60154,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm Abu Sur",
+    "gn:country_code":"SY",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420161,
+    "gn:latitude":35.28991,
+    "gn:longitude":37.60154,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm Ab\u016b S\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0623\u0628\u0648 \u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Rasm Ab\u016b S\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420161
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"320977ec1ca35628b9f74dfb83b02256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343954039,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343954039,
+    "wof:lastmodified":1537702440,
+    "wof:name":"Rasm Abu Sur",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.60154,
+    35.28991,
+    37.60154,
+    35.28991
+],
+  "geometry": {"coordinates":[37.60154,35.28991],"type":"Point"}
+}

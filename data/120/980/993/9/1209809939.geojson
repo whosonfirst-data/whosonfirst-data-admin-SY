@@ -1,0 +1,73 @@
+{
+  "id": 1209809939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16949,36.5161,37.16949,36.5161",
+    "geom:latitude":36.5161,
+    "geom:longitude":37.16949,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at Sandaq",
+    "gn:country_code":"SY",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152433,
+    "gn:latitude":36.5161,
+    "gn:longitude":37.16949,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Mazra\u2018at \u015eandaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0635\u0646\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u015eandaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152433
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56906eb27cc7a0a5c7ca1916e2e96700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1209809939,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209809939,
+    "wof:lastmodified":1537702595,
+    "wof:name":"Mazra`at Sandaq",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16949,
+    36.5161,
+    37.16949,
+    36.5161
+],
+  "geometry": {"coordinates":[37.16949,36.5161],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360162883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76172,34.67435,36.76172,34.67435",
+    "geom:latitude":34.67435,
+    "geom:longitude":36.76172,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ard al Bass",
+    "gn:country_code":"SY",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8339612,
+    "gn:latitude":34.67435,
+    "gn:longitude":36.76172,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Ba\u015f\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0628\u0635"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Ba\u015f\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339612
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"84b4b38a642f5c98a1c4c23f0a69e648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1360162883,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360162883,
+    "wof:lastmodified":1537702531,
+    "wof:name":"Ard al Bass",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76172,
+    34.67435,
+    36.76172,
+    34.67435
+],
+  "geometry": {"coordinates":[36.76172,34.67435],"type":"Point"}
+}

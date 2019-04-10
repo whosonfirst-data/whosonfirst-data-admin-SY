@@ -1,0 +1,73 @@
+{
+  "id": 1242991891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31149,36.27325,37.31149,36.27325",
+    "geom:latitude":36.27325,
+    "geom:longitude":37.31149,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bayt ad Dawud",
+    "gn:country_code":"SY",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7675405,
+    "gn:latitude":36.27325,
+    "gn:longitude":37.31149,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bayt ad D\u0101w\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt ad D\u0101w\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675405
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7ba6fec104dcacecc751080268a2532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1242991891,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1242991891,
+    "wof:lastmodified":1537702472,
+    "wof:name":"Bayt ad Dawud",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31149,
+    36.27325,
+    37.31149,
+    36.27325
+],
+  "geometry": {"coordinates":[37.31149,36.27325],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276209881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20853,35.01706,36.20853,35.01706",
+    "geom:latitude":35.01706,
+    "geom:longitude":36.20853,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jubayta",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169000,
+    "gn:latitude":35.01706,
+    "gn:longitude":36.20853,
+    "gn:modification_date":"2011-09-28",
+    "gn:name":"Jubayt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jba\u00efta",
+        "Jubayt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169000
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"21ff3b044d87753741204621f86f8f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276209881,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276209881,
+    "wof:lastmodified":1537702039,
+    "wof:name":"Jubayta",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20853,
+    35.01706,
+    36.20853,
+    35.01706
+],
+  "geometry": {"coordinates":[36.20853,35.01706],"type":"Point"}
+}

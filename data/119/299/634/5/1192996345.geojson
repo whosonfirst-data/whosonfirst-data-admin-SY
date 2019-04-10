@@ -1,0 +1,73 @@
+{
+  "id": 1192996345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9395,34.72831,36.9395,34.72831",
+    "geom:latitude":34.72831,
+    "geom:longitude":36.9395,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Wus`ah",
+    "gn:country_code":"SY",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338236,
+    "gn:latitude":34.72831,
+    "gn:longitude":36.9395,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Wus\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Wus\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338236
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c92d96ce09094514f85a43d04757598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1192996345,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1192996345,
+    "wof:lastmodified":1537702531,
+    "wof:name":"Al Wus`ah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9395,
+    34.72831,
+    36.9395,
+    34.72831
+],
+  "geometry": {"coordinates":[36.9395,34.72831],"type":"Point"}
+}

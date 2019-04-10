@@ -1,0 +1,75 @@
+{
+  "id": 1193012929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89545,35.52578,39.89545,35.52578",
+    "geom:latitude":35.52578,
+    "geom:longitude":39.89545,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turayf",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163125,
+    "gn:latitude":35.52578,
+    "gn:longitude":39.89545,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u0162urayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Tureif",
+        "Tra\u00eff",
+        "\u0162urayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a673a9d8623a19186e2200aa7a41a3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1193012929,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1193012929,
+    "wof:lastmodified":1537701637,
+    "wof:name":"Turayf",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89545,
+    35.52578,
+    39.89545,
+    35.52578
+],
+  "geometry": {"coordinates":[39.89545,35.52578],"type":"Point"}
+}

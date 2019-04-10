@@ -1,0 +1,70 @@
+{
+  "id": 1327217367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2,35.15833,36.2,35.15833",
+    "geom:latitude":35.15833,
+    "geom:longitude":36.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Balluqa",
+    "gn:country_code":"SY",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4412,
+    "gn:latitude":35.15833,
+    "gn:longitude":36.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ball\u016bq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ball\u016bq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4412
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"84b5286fce164d2a5f7537ea94a8cb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1327217367,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327217367,
+    "wof:lastmodified":1537701541,
+    "wof:name":"Balluqa",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2,
+    35.15833,
+    36.2,
+    35.15833
+],
+  "geometry": {"coordinates":[36.2,35.15833],"type":"Point"}
+}

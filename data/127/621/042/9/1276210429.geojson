@@ -1,0 +1,70 @@
+{
+  "id": 1276210429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52551,35.02151,37.52551,35.02151",
+    "geom:latitude":35.02151,
+    "geom:longitude":37.52551,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mushayrifah",
+    "gn:country_code":"SY",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420129,
+    "gn:latitude":35.02151,
+    "gn:longitude":37.52551,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Mushayrifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420129
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7e9851d76b05eb8f9eb226ec441a3c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276210429,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276210429,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Al Mushayrifah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52551,
+    35.02151,
+    37.52551,
+    35.02151
+],
+  "geometry": {"coordinates":[37.52551,35.02151],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193137801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17217,35.85412,39.17217,35.85412",
+    "geom:latitude":35.85412,
+    "geom:longitude":39.17217,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dalhah",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4289,
+    "gn:latitude":35.85412,
+    "gn:longitude":39.17217,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Dal\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dal\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4289
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"80f1a729c3fd50aad793e15450df6f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1193137801,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1193137801,
+    "wof:lastmodified":1537701538,
+    "wof:name":"Dalhah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17217,
+    35.85412,
+    39.17217,
+    35.85412
+],
+  "geometry": {"coordinates":[39.17217,35.85412],"type":"Point"}
+}

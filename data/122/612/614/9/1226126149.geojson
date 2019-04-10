@@ -1,0 +1,75 @@
+{
+  "id": 1226126149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10269,35.37518,37.10269,35.37518",
+    "geom:latitude":35.37518,
+    "geom:longitude":37.10269,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ad Dab`ah",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171017,
+    "gn:latitude":35.37518,
+    "gn:longitude":37.10269,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"A\u1e11 \u1e10ab\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dabba\u00efy\u00e9",
+        "Dabb\u0101yah",
+        "A\u1e11 \u1e10ab\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171017
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f9321603995986875bf0d9303ad5755d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1226126149,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226126149,
+    "wof:lastmodified":1537702164,
+    "wof:name":"Ad Dab`ah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10269,
+    35.37518,
+    37.10269,
+    35.37518
+],
+  "geometry": {"coordinates":[37.10269,35.37518],"type":"Point"}
+}

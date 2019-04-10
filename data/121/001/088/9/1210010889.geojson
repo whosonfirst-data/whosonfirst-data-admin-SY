@@ -1,0 +1,70 @@
+{
+  "id": 1210010889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.89469,35.89883,37.89469,35.89883",
+    "geom:latitude":35.89883,
+    "geom:longitude":37.89469,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fankhah",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341994,
+    "gn:latitude":35.89883,
+    "gn:longitude":37.89469,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Fankhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u062e\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341994
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"457251f833ae1636d5fb7e8d1009ae5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1210010889,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210010889,
+    "wof:lastmodified":1537702543,
+    "wof:name":"Fankhah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.89469,
+    35.89883,
+    37.89469,
+    35.89883
+],
+  "geometry": {"coordinates":[37.89469,35.89883],"type":"Point"}
+}

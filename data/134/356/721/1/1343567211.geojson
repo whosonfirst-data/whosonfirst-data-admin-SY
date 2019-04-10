@@ -1,0 +1,73 @@
+{
+  "id": 1343567211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33792,35.56119,38.33792,35.56119",
+    "geom:latitude":35.56119,
+    "geom:longitude":38.33792,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir Nabaj",
+    "gn:country_code":"SY",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347088,
+    "gn:latitude":35.56119,
+    "gn:longitude":38.33792,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br Nab\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0646\u0628\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "B\u012br Nab\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347088
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"23fa3fb72f87afc404ed254c432b9637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1343567211,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343567211,
+    "wof:lastmodified":1537702552,
+    "wof:name":"Bir Nabaj",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33792,
+    35.56119,
+    38.33792,
+    35.56119
+],
+  "geometry": {"coordinates":[38.33792,35.56119],"type":"Point"}
+}

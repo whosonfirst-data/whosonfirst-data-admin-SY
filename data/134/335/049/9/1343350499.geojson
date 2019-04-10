@@ -1,0 +1,75 @@
+{
+  "id": 1343350499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.094,35.08874,37.094,35.08874",
+    "geom:latitude":35.08874,
+    "geom:longitude":37.094,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm Tall `Ada",
+    "gn:country_code":"SY",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163770,
+    "gn:latitude":35.08874,
+    "gn:longitude":37.094,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Rasm Tall \u2018Ad\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u062a\u0644 \u0639\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tell Aada",
+        "Tall Aada",
+        "Rasm Tall \u2018Ad\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163770
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c96abd15e3851c4ada63c3bdc09ae426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1343350499,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343350499,
+    "wof:lastmodified":1537701694,
+    "wof:name":"Rasm Tall `Ada",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.094,
+    35.08874,
+    37.094,
+    35.08874
+],
+  "geometry": {"coordinates":[37.094,35.08874],"type":"Point"}
+}

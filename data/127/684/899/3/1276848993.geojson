@@ -1,0 +1,73 @@
+{
+  "id": 1276848993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4754,34.50963,36.4754,34.50963",
+    "geom:latitude":34.50963,
+    "geom:longitude":36.4754,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Suwaydiyah",
+    "gn:country_code":"SY",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427382,
+    "gn:latitude":34.50963,
+    "gn:longitude":36.4754,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Al Suwayd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Suwayd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427382
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0672fcb27fc34c671eb3e8ff526d3cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1276848993,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276848993,
+    "wof:lastmodified":1537702568,
+    "wof:name":"Al Suwaydiyah",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4754,
+    34.50963,
+    36.4754,
+    34.50963
+],
+  "geometry": {"coordinates":[36.4754,34.50963],"type":"Point"}
+}

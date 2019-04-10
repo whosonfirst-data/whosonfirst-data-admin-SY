@@ -1,0 +1,71 @@
+{
+  "id": 1293754613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01667,35.2,36.01667,35.2",
+    "geom:latitude":35.2,
+    "geom:longitude":36.01667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bablutah",
+    "gn:country_code":"SY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171985,
+    "gn:latitude":35.2,
+    "gn:longitude":36.01667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"B\u0101bl\u016b\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e2blo\u00fbta",
+        "B\u0101bl\u016b\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171985
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d08ade15dfe6c17b26fb0dce1e20e564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1293754613,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293754613,
+    "wof:lastmodified":1537702239,
+    "wof:name":"Bablutah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01667,
+    35.2,
+    36.01667,
+    35.2
+],
+  "geometry": {"coordinates":[36.01667,35.2],"type":"Point"}
+}

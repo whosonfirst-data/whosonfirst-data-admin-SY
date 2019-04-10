@@ -1,0 +1,77 @@
+{
+  "id": 1293496355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97639,35.60935,35.97639,35.60935",
+    "geom:latitude":35.60935,
+    "geom:longitude":35.97639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fadrah",
+    "gn:country_code":"SY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170501,
+    "gn:latitude":35.60935,
+    "gn:longitude":35.97639,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Fadrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u062f\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "F\u00e9dr\u00e9",
+        "F\u0101dirah",
+        "Fadrah",
+        "Fadirah",
+        "Fadra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170501
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"406e0c13ce716a9e4c43b4d2e761f1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293496355,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293496355,
+    "wof:lastmodified":1537702127,
+    "wof:name":"Fadrah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97639,
+    35.60935,
+    35.97639,
+    35.60935
+],
+  "geometry": {"coordinates":[35.97639,35.60935],"type":"Point"}
+}

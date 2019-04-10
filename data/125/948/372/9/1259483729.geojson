@@ -1,0 +1,73 @@
+{
+  "id": 1259483729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66462,35.79296,39.66462,35.79296",
+    "geom:latitude":35.79296,
+    "geom:longitude":39.66462,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mat`ab",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4200,
+    "gn:latitude":35.79296,
+    "gn:longitude":39.66462,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Mat\u2018ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mat\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4200
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"645b5da73bd85cc35c5be30ab3a3ad3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1259483729,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259483729,
+    "wof:lastmodified":1537701536,
+    "wof:name":"Mat`ab",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66462,
+    35.79296,
+    39.66462,
+    35.79296
+],
+  "geometry": {"coordinates":[39.66462,35.79296],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293583813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5125,36.71389,38.5125,36.71389",
+    "geom:latitude":36.71389,
+    "geom:longitude":38.5125,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sirr Yahur",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9168,
+    "gn:latitude":36.71389,
+    "gn:longitude":38.5125,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sirr Ya\u1e29\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirr Ya\u1e29\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9168
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72093bfce7149057514c7ddf6b020b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1293583813,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293583813,
+    "wof:lastmodified":1537701568,
+    "wof:name":"Sirr Yahur",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5125,
+    36.71389,
+    38.5125,
+    36.71389
+],
+  "geometry": {"coordinates":[38.5125,36.71389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309900939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43215,34.93046,36.43215,34.93046",
+    "geom:latitude":34.93046,
+    "geom:longitude":36.43215,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Ta`unah",
+    "gn:country_code":"SY",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172340,
+    "gn:latitude":34.93046,
+    "gn:longitude":36.43215,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"At T\u0101\u2018\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0627\u0639\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2o\u00fbn\u00e9",
+        "At T\u0101\u2018\u016bnah",
+        "T\u00e2oun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172340
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"824a2a3d340da1295fabaa3c585aebb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1309900939,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309900939,
+    "wof:lastmodified":1537702268,
+    "wof:name":"At Ta`unah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43215,
+    34.93046,
+    36.43215,
+    34.93046
+],
+  "geometry": {"coordinates":[36.43215,34.93046],"type":"Point"}
+}

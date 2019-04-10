@@ -1,0 +1,75 @@
+{
+  "id": 1259360107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35768,35.86754,36.35768,35.86754",
+    "geom:latitude":35.86754,
+    "geom:longitude":36.35768,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bayt Hal",
+    "gn:country_code":"SY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171572,
+    "gn:latitude":35.86754,
+    "gn:longitude":36.35768,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt H\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0647\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Hl\u00e2l",
+        "Bayt Hil\u0101l",
+        "Bayt H\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171572
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4d0990ea4d67c212329c0c66662ee4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1259360107,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259360107,
+    "wof:lastmodified":1537702210,
+    "wof:name":"Bayt Hal",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35768,
+    35.86754000000001,
+    36.35768,
+    35.86754000000001
+],
+  "geometry": {"coordinates":[36.35768,35.86754000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276250365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98402,36.18646,39.98402,36.18646",
+    "geom:latitude":36.18646,
+    "geom:longitude":39.98402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Asalah",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385396,
+    "gn:latitude":36.18646,
+    "gn:longitude":39.98402,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"A\u015f\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0635\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385396
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4c0e74ad0ee707c269c067d7f556cad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1276250365,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1276250365,
+    "wof:lastmodified":1537702426,
+    "wof:name":"Asalah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98402,
+    36.18646,
+    39.98402,
+    36.18646
+],
+  "geometry": {"coordinates":[39.98402,36.18646],"type":"Point"}
+}

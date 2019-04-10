@@ -1,0 +1,76 @@
+{
+  "id": 1209710153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.04302,36.36976,38.04302,36.36976",
+    "geom:latitude":36.36976,
+    "geom:longitude":38.04302,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ghurrah as Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170248,
+    "gn:latitude":36.36976,
+    "gn:longitude":38.04302,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ghurrah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rharra \u00e9s Serh\u00eer\u00e9",
+        "Gharrah \u015eagh\u012br",
+        "Gharrah a\u015f \u015eagh\u012brah",
+        "Ghurrah a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170248
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f9914430e6491267a0eb62fd815e0908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1209710153,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209710153,
+    "wof:lastmodified":1537702115,
+    "wof:name":"Ghurrah as Saghirah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.04302,
+    36.36976,
+    38.04302,
+    36.36976
+],
+  "geometry": {"coordinates":[38.04302,36.36976],"type":"Point"}
+}

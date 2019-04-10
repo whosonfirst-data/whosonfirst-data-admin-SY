@@ -1,0 +1,70 @@
+{
+  "id": 1209218671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.28581,37.05355,41.28581,37.05355",
+    "geom:latitude":37.05355,
+    "geom:longitude":41.28581,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jumay`ah",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169094,
+    "gn:latitude":37.05355,
+    "gn:longitude":41.28581,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Jumay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u064a\u0639\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Jem\u00e2\u00efy\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Jumay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169094
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a97dee989db79228d58523ec1b912872",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209218671
+        }
+    ],
+    "wof:id":1209218671,
+    "wof:lastmodified":1537702045,
+    "wof:name":"Jumay`ah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.28581,
+    37.05355,
+    41.28581,
+    37.05355
+],
+  "geometry": {"coordinates":[41.28581,37.05355],"type":"Point"}
+}

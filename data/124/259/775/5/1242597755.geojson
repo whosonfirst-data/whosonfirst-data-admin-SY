@@ -1,0 +1,78 @@
+{
+  "id": 1242597755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92144,33.32836,35.92144,33.32836",
+    "geom:latitude":33.32836,
+    "geom:longitude":35.92144,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mazra`at Bayt Jinn",
+    "gn:country_code":"SY",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":166946,
+    "gn:latitude":33.32836,
+    "gn:longitude":35.92144,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mazra\u2018at Bayt Jinn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0628\u064a\u062a \u062c\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazraat Be\u00efn J\u00eenn",
+        "Mazraat Be\u00eft J\u00eenn",
+        "Mazra\u2018at Bay J\u00eenn",
+        "Mazra\u2018at Bayt Jinn",
+        "Mazraat Be\u00eft Jinn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166946,
+        "wk:page":"Mazraat_Beit_Jinn"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9566ed26b59a9c64581d31934e0bf12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1242597755,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242597755,
+    "wof:lastmodified":1537701890,
+    "wof:name":"Mazra`at Bayt Jinn",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92144000000001,
+    33.32836,
+    35.92144000000001,
+    33.32836
+],
+  "geometry": {"coordinates":[35.92144000000001,33.32836],"type":"Point"}
+}

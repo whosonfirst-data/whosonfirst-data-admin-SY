@@ -1,0 +1,81 @@
+{
+  "id": 1293393273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85107,35.58482,35.85107,35.58482",
+    "geom:latitude":35.58482,
+    "geom:longitude":35.85107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sitt Markhu",
+    "gn:country_code":"SY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164063,
+    "gn:latitude":35.58482,
+    "gn:longitude":35.85107,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Sitt Markh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062a \u0645\u0631\u062e\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u062a\u0645\u0631\u062e\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sit Markho",
+        "Sitt Markho",
+        "Sitt Marko",
+        "Sitt Markh\u016b",
+        "Sittmarkh\u016b",
+        "Stamarkho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164063
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0cd075dbc97fe63c20c29a64b73d1db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1293393273,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293393273,
+    "wof:lastmodified":1537701713,
+    "wof:name":"Sitt Markhu",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85107,
+    35.58482,
+    35.85107,
+    35.58482
+],
+  "geometry": {"coordinates":[35.85107,35.58482],"type":"Point"}
+}

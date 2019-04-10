@@ -1,0 +1,73 @@
+{
+  "id": 1344151303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31418,35.29316,39.31418,35.29316",
+    "geom:latitude":35.29316,
+    "geom:longitude":39.31418,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tashshah",
+    "gn:country_code":"SY",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4145,
+    "gn:latitude":35.29316,
+    "gn:longitude":39.31418,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"\u0162ashshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162ashshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4145
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"55a44d12767c3d1cc3ed595c4d59a69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1344151303,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1344151303,
+    "wof:lastmodified":1537701535,
+    "wof:name":"Tashshah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31418,
+    35.29316,
+    39.31418,
+    35.29316
+],
+  "geometry": {"coordinates":[39.31418,35.29316],"type":"Point"}
+}

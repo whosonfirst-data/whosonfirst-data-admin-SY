@@ -1,0 +1,73 @@
+{
+  "id": 1310696439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08987,35.77452,38.08987,35.77452",
+    "geom:latitude":35.77452,
+    "geom:longitude":38.08987,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Qitat",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818,
+    "gn:latitude":35.77452,
+    "gn:longitude":38.08987,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Al Qi\u0163a\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al Qi\u0163a\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"11040a1fdc8eb04e944aa118dc576f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1310696439,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310696439,
+    "wof:lastmodified":1537701556,
+    "wof:name":"Al Qitat",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08987,
+    35.77452,
+    38.08987,
+    35.77452
+],
+  "geometry": {"coordinates":[38.08987,35.77452],"type":"Point"}
+}

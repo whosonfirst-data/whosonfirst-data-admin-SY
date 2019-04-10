@@ -1,0 +1,71 @@
+{
+  "id": 1344165871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10837,35.59254,36.10837,35.59254",
+    "geom:latitude":35.59254,
+    "geom:longitude":36.10837,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"`Ayn al Bum",
+    "gn:country_code":"SY",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172235,
+    "gn:latitude":35.59254,
+    "gn:longitude":36.10837,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Ayn al B\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn el Bo\u00fbm",
+        "\u2018Ayn al B\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172235
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"07736366b44f81a8a5a71fb0c5493542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1344165871,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344165871,
+    "wof:lastmodified":1537702258,
+    "wof:name":"`Ayn al Bum",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10837,
+    35.59254,
+    36.10837,
+    35.59254
+],
+  "geometry": {"coordinates":[36.10837,35.59254],"type":"Point"}
+}

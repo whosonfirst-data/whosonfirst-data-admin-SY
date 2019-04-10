@@ -1,0 +1,68 @@
+{
+  "id": 1209510375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26113,35.63995,36.26113,35.63995",
+    "geom:latitude":35.63995,
+    "geom:longitude":36.26113,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Ayn al Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172226,
+    "gn:latitude":35.63995,
+    "gn:longitude":36.26113,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Hamm\u00e2m",
+        "\u2018Ayn al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172226
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b745f20c8bd6de231dd8906cfbc012c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209510375
+        }
+    ],
+    "wof:id":1209510375,
+    "wof:lastmodified":1537702257,
+    "wof:name":"`Ayn al Hammam",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26113,
+    35.63995,
+    36.26113,
+    35.63995
+],
+  "geometry": {"coordinates":[36.26113,35.63995],"type":"Point"}
+}

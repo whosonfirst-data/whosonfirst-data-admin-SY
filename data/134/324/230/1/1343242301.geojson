@@ -1,0 +1,78 @@
+{
+  "id": 1343242301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89765,35.8029,36.89765,35.8029",
+    "geom:latitude":35.8029,
+    "geom:longitude":36.89765,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bujghas",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171221,
+    "gn:latitude":35.8029,
+    "gn:longitude":36.89765,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bujgh\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bujgh\u0101\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062c\u063a\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Borj Khass",
+        "Borj el H\u00e2s",
+        "Bojrh\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171221
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e21baae74f491172dca641317efa7498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1343242301,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343242301,
+    "wof:lastmodified":1537702178,
+    "wof:name":"Bujghas",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89765,
+    35.8029,
+    36.89765,
+    35.8029
+],
+  "geometry": {"coordinates":[36.89765,35.8029],"type":"Point"}
+}

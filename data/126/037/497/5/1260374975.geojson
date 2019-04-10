@@ -1,0 +1,80 @@
+{
+  "id": 1260374975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97711,36.3102,36.97711,36.3102",
+    "geom:latitude":36.3102,
+    "geom:longitude":36.97711,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bashamrah",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171723,
+    "gn:latitude":36.3102,
+    "gn:longitude":36.97711,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bashamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101shimr\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0634\u0645\u0631\u0629",
+        "\u0628\u0627\u0634\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2chimra",
+        "Bachamra",
+        "Bashamrah",
+        "B\u0101shimrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171723
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eb64d770603197771596313c4fc89dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1260374975,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260374975,
+    "wof:lastmodified":1537702222,
+    "wof:name":"Bashamrah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97711,
+    36.3102,
+    36.97711,
+    36.3102
+],
+  "geometry": {"coordinates":[36.97711,36.3102],"type":"Point"}
+}

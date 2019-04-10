@@ -1,0 +1,70 @@
+{
+  "id": 1209228577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.55354,36.97113,41.55354,36.97113",
+    "geom:latitude":36.97113,
+    "geom:longitude":41.55354,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bayazah",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171668,
+    "gn:latitude":36.97113,
+    "gn:longitude":41.55354,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Bay\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0632\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Bay\u0101zah"
+    ],
+    "name:und_x_variant":[
+        "Bay\u00e2z\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171668
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7cef60ddc641b358f83521011ac3d378",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209228577
+        }
+    ],
+    "wof:id":1209228577,
+    "wof:lastmodified":1537702217,
+    "wof:name":"Bayazah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.55354000000001,
+    36.97113,
+    41.55354000000001,
+    36.97113
+],
+  "geometry": {"coordinates":[41.55354000000001,36.97113],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210000961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91841,35.84871,37.91841,35.84871",
+    "geom:latitude":35.84871,
+    "geom:longitude":37.91841,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Albu Bana",
+    "gn:country_code":"SY",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342027,
+    "gn:latitude":35.84871,
+    "gn:longitude":37.91841,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Alb\u016b Ban\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0628\u0648 \u0628\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Alb\u016b Ban\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342027
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"06c6351bdc083f7e223a2dd5a31a9aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1210000961,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210000961,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Albu Bana",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91841,
+    35.84871,
+    37.91841,
+    35.84871
+],
+  "geometry": {"coordinates":[37.91841,35.84871],"type":"Point"}
+}

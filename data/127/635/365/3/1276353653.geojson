@@ -1,0 +1,73 @@
+{
+  "id": 1276353653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3828,36.24316,40.3828,36.24316",
+    "geom:latitude":36.24316,
+    "geom:longitude":40.3828,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manajid Abu Zara",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420839,
+    "gn:latitude":36.24316,
+    "gn:longitude":40.3828,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Man\u0101j\u012bd Ab\u016b Zar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0627\u062c\u064a\u062f \u0627\u0628\u0648 \u0632\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Man\u0101j\u012bd Ab\u016b Zar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420839
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"18c297ebad3d3a3d7d6f47d5d978205c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276353653,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276353653,
+    "wof:lastmodified":1537702451,
+    "wof:name":"Manajid Abu Zara",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.3828,
+    36.24316,
+    40.3828,
+    36.24316
+],
+  "geometry": {"coordinates":[40.3828,36.24316],"type":"Point"}
+}

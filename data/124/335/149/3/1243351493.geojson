@@ -1,0 +1,80 @@
+{
+  "id": 1243351493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45815,34.57241,36.45815,34.57241",
+    "geom:latitude":34.57241,
+    "geom:longitude":36.45815,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Summaqiyat ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163928,
+    "gn:latitude":34.57241,
+    "gn:longitude":36.45815,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Summ\u0101q\u012by\u0101t ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0642\u064a\u0627\u062a \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0645\u0627\u0642\u064a\u0627\u062a \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Soumaqiyate Charqiye",
+        "Soumm\u00e2q\u00eey\u00e2te ech Charq\u00eey\u00e9",
+        "Soumaqyate",
+        "Summ\u0101q\u012by\u0101t ash Sharq\u012byah",
+        "As Summ\u0101q\u012by\u0101t ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163928
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0b81000c3b9a8beeb8d7e70b3a647953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1243351493,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243351493,
+    "wof:lastmodified":1537701705,
+    "wof:name":"Summaqiyat ash Sharqiyah",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45815,
+    34.57241,
+    36.45815,
+    34.57241
+],
+  "geometry": {"coordinates":[36.45815,34.57241],"type":"Point"}
+}

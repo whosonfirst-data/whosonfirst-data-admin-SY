@@ -1,0 +1,71 @@
+{
+  "id": 1293088269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5784,36.15246,36.5784,36.15246",
+    "geom:latitude":36.15246,
+    "geom:longitude":36.5784,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Kila",
+    "gn:country_code":"SY",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556190,
+    "gn:latitude":36.15246,
+    "gn:longitude":36.5784,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kafr K\u012bl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr K\u012bl\u0101",
+        "\u0643\u0641\u0631 \u0643\u064a\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556190
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"47e6d3a49f20bad36403a98cce0752dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1293088269,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293088269,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Kafr Kila",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5784,
+    36.15246,
+    36.5784,
+    36.15246
+],
+  "geometry": {"coordinates":[36.5784,36.15246],"type":"Point"}
+}

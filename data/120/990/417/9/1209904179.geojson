@@ -1,0 +1,75 @@
+{
+  "id": 1209904179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64901,34.64608,36.64901,34.64608",
+    "geom:latitude":34.64608,
+    "geom:longitude":36.64901,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Mubarakiyah",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173450,
+    "gn:latitude":34.64608,
+    "gn:longitude":36.64901,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Mub\u0101rak\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0627\u0631\u0643\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mb\u00e2rk\u00eey\u00e9",
+        "El Moubareki\u00e9",
+        "Al Mub\u0101rak\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173450
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a245d5be5dabb1761186afb12e4bfb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1209904179,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209904179,
+    "wof:lastmodified":1537702336,
+    "wof:name":"Al Mubarakiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64901,
+    34.64608,
+    36.64901,
+    34.64608
+],
+  "geometry": {"coordinates":[36.64901,34.64608],"type":"Point"}
+}

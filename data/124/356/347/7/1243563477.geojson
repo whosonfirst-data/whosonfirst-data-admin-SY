@@ -1,0 +1,70 @@
+{
+  "id": 1243563477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91743,35.43178,35.91743,35.43178",
+    "geom:latitude":35.43178,
+    "geom:longitude":35.91743,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al Ghanm",
+    "gn:country_code":"SY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697057,
+    "gn:latitude":35.43178,
+    "gn:longitude":35.91743,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Khirbat al Ghanm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u063a\u0646\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697057
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d6dab53c4c24ad1731ccb36a54db4e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1243563477,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243563477,
+    "wof:lastmodified":1537702586,
+    "wof:name":"Khirbat al Ghanm",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91743,
+    35.43178,
+    35.91743,
+    35.43178
+],
+  "geometry": {"coordinates":[35.91743,35.43178],"type":"Point"}
+}

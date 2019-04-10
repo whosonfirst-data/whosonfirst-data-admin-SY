@@ -1,0 +1,75 @@
+{
+  "id": 1260057383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53704,36.19234,36.53704,36.19234",
+    "geom:latitude":36.19234,
+    "geom:longitude":36.53704,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Mu",
+    "gn:country_code":"SY",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168664,
+    "gn:latitude":36.19234,
+    "gn:longitude":36.53704,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kafr M\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kafer Mo",
+        "Kafer Mou",
+        "Kafr M\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168664
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe91c406ae579d36a517b98be3b11f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1260057383,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260057383,
+    "wof:lastmodified":1537702010,
+    "wof:name":"Kafr Mu",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53704000000001,
+    36.19234,
+    36.53704000000001,
+    36.19234
+],
+  "geometry": {"coordinates":[36.53704000000001,36.19234],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326630505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71428,36.65566,38.71428,36.65566",
+    "geom:latitude":36.65566,
+    "geom:longitude":38.71428,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bi'r `Arab",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171429,
+    "gn:latitude":36.65566,
+    "gn:longitude":38.71428,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Bi\u2019r \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00eer Harb",
+        "B\u00eer Aarab",
+        "Bi\u2019r \u2018Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171429
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4297ffa7297c1e20c88372a9c4c4e791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1326630505,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1326630505,
+    "wof:lastmodified":1537702198,
+    "wof:name":"Bi'r `Arab",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71428,
+    36.65566,
+    38.71428,
+    36.65566
+],
+  "geometry": {"coordinates":[38.71428,36.65566],"type":"Point"}
+}

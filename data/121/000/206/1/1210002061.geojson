@@ -1,0 +1,76 @@
+{
+  "id": 1210002061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18763,33.65553,36.18763,33.65553",
+    "geom:latitude":33.65553,
+    "geom:longitude":36.18763,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Afrah",
+    "gn:country_code":"SY",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174188,
+    "gn:latitude":33.65553,
+    "gn:longitude":36.18763,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Afrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0641\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Afr\u00e9",
+        "Afra",
+        "Afrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174188,
+        "wk:page":"Efra%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fa3c3049b3d5a3b1e496ca278918b3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1210002061,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210002061,
+    "wof:lastmodified":1537702396,
+    "wof:name":"Afrah",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18763,
+    33.65553,
+    36.18763,
+    33.65553
+],
+  "geometry": {"coordinates":[36.18763,33.65553],"type":"Point"}
+}

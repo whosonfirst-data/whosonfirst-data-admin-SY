@@ -1,0 +1,73 @@
+{
+  "id": 1344245081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88077,34.86027,36.88077,34.86027",
+    "geom:latitude":34.86027,
+    "geom:longitude":36.88077,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Ayn Husayn Gharbiyah",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051576,
+    "gn:latitude":34.86027,
+    "gn:longitude":36.88077,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Ayn \u1e28usayn Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062d\u0635\u064a\u0646 \u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn \u1e28usayn Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051576
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"87567cf0f04e41dd41b9527b837acf46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1344245081,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1344245081,
+    "wof:lastmodified":1537702479,
+    "wof:name":"`Ayn Husayn Gharbiyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88077,
+    34.86027,
+    36.88077,
+    34.86027
+],
+  "geometry": {"coordinates":[36.88077,34.86027],"type":"Point"}
+}

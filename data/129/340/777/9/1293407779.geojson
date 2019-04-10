@@ -1,0 +1,73 @@
+{
+  "id": 1293407779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0782,36.95902,42.0782,36.95902",
+    "geom:latitude":36.95902,
+    "geom:longitude":42.0782,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"As Sab` Jifar",
+    "gn:country_code":"SY",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383647,
+    "gn:latitude":36.95902,
+    "gn:longitude":42.0782,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"As Sab\u2018 Jif\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0639 \u062c\u0641\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "As Sab\u2018 Jif\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383647
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"613b66c499c96f1f21b66355c9a84267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1293407779,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293407779,
+    "wof:lastmodified":1537702420,
+    "wof:name":"As Sab` Jifar",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0782,
+    36.95902,
+    42.0782,
+    36.95902
+],
+  "geometry": {"coordinates":[42.0782,36.95902],"type":"Point"}
+}

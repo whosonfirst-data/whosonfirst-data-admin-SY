@@ -1,0 +1,79 @@
+{
+  "id": 1343545511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89028,36.22819,36.89028,36.22819",
+    "geom:latitude":36.22819,
+    "geom:longitude":36.89028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Balantah",
+    "gn:country_code":"SY",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171332,
+    "gn:latitude":36.22819,
+    "gn:longitude":36.89028,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Balantah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bl\u012bnt\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u064a\u0646\u062a\u0627",
+        "\u0628\u0644\u0646\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Blinta",
+        "Blinnta",
+        "Balantah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171332
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"55fb26c29976df3803fb2ad453431709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343545511,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343545511,
+    "wof:lastmodified":1537702190,
+    "wof:name":"Balantah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89028,
+    36.22819000000001,
+    36.89028,
+    36.22819000000001
+],
+  "geometry": {"coordinates":[36.89028,36.22819000000001],"type":"Point"}
+}

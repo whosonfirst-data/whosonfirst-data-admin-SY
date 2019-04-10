@@ -1,0 +1,78 @@
+{
+  "id": 1343638641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58378,35.98021,36.58378,35.98021",
+    "geom:latitude":35.98021,
+    "geom:longitude":36.58378,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ba`iba`ah",
+    "gn:country_code":"SY",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171960,
+    "gn:latitude":35.98021,
+    "gn:longitude":36.58378,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ba\u2018\u012bba\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0639\u064a\u0628\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ba\u00e9b\u00e2a",
+        "Ba\u2018\u012bbah",
+        "Ba\u2018\u012bba\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171960
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"76f2081f64c8ef48fdbd311f5093d400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1343638641,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343638641,
+    "wof:lastmodified":1537702238,
+    "wof:name":"Ba`iba`ah",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58378,
+    35.98021,
+    36.58378,
+    35.98021
+],
+  "geometry": {"coordinates":[36.58378,35.98021],"type":"Point"}
+}

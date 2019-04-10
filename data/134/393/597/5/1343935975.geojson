@@ -1,0 +1,67 @@
+{
+  "id": 1343935975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73611,34.88333,36.73611,34.88333",
+    "geom:latitude":34.88333,
+    "geom:longitude":36.73611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khan Kafr Jali",
+    "gn:country_code":"SY",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2907,
+    "gn:latitude":34.88333,
+    "gn:longitude":36.73611,
+    "gn:modification_date":"1998-12-29",
+    "gn:name":"Kh\u0101n Kafr J\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2907
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ede85a19c3f79deabe2ba9ed516ee251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1343935975,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343935975,
+    "wof:lastmodified":1537053114,
+    "wof:name":"Khan Kafr Jali",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73611,
+    34.88333,
+    36.73611,
+    34.88333
+],
+  "geometry": {"coordinates":[36.73611,34.88333],"type":"Point"}
+}

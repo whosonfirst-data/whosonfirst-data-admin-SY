@@ -1,0 +1,76 @@
+{
+  "id": 1226740485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48919,33.42386,36.48919,33.42386",
+    "geom:latitude":33.42386,
+    "geom:longitude":36.48919,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ghasulah",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173877,
+    "gn:latitude":33.42386,
+    "gn:longitude":36.48919,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ghas\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0633\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rhassoul\u00e9",
+        "El Rhasso\u00fbl\u00e9",
+        "Al Ghas\u016blah",
+        "Ghas\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173877
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b3e706ee83f3230480612db40a5247d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1226740485,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226740485,
+    "wof:lastmodified":1537702372,
+    "wof:name":"Ghasulah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48919,
+    33.42386,
+    36.48919,
+    33.42386
+],
+  "geometry": {"coordinates":[36.48919,33.42386],"type":"Point"}
+}

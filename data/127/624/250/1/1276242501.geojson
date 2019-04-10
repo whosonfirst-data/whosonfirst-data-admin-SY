@@ -1,0 +1,77 @@
+{
+  "id": 1276242501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04788,36.84456,41.04788,36.84456",
+    "geom:latitude":36.84456,
+    "geom:longitude":41.04788,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kirkut",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167837,
+    "gn:latitude":36.84456,
+    "gn:longitude":41.04788,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kirk\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0643\u0648\u062a"
+    ],
+    "name:tur_x_preferred":[
+        "Kirk\u016bt"
+    ],
+    "name:und_x_variant":[
+        "Guir Ko\u00fbte",
+        "K\u012br K\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167837
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4cfe030cb6e4ab069e931c807485656f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276242501,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276242501,
+    "wof:lastmodified":1537701945,
+    "wof:name":"Kirkut",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04788,
+    36.84456,
+    41.04788,
+    36.84456
+],
+  "geometry": {"coordinates":[41.04788,36.84456],"type":"Point"}
+}

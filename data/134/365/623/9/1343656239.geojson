@@ -1,0 +1,73 @@
+{
+  "id": 1343656239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.95768,34.66777,39.95768,34.66777",
+    "geom:latitude":34.66777,
+    "geom:longitude":39.95768,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Musay`id",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7897731,
+    "gn:latitude":34.66777,
+    "gn:longitude":39.95768,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Musay\u2018id",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u064a\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Musay\u2018id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7897731
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"324cd7427b2f8bf9feddbbe7f2c62a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1343656239,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343656239,
+    "wof:lastmodified":1537702476,
+    "wof:name":"Musay`id",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.95768,
+    34.66777,
+    39.95768,
+    34.66777
+],
+  "geometry": {"coordinates":[39.95768,34.66777],"type":"Point"}
+}

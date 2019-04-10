@@ -1,0 +1,83 @@
+{
+  "id": 1309996623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33641,33.4466,36.33641,33.4466",
+    "geom:latitude":33.4466,
+    "geom:longitude":36.33641,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qabr as Sitt",
+    "gn:country_code":"SY",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166277,
+    "gn:latitude":33.4466,
+    "gn:longitude":36.33641,
+    "gn:modification_date":"2016-11-12",
+    "gn:name":"Qabr as Sitt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u0627\u0644\u0633\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628"
+    ],
+    "name:und_x_variant":[
+        "Qabr es Sett",
+        "Qabr es Sitt",
+        "Qabr as Sitt",
+        "Sayyidah Zaynab",
+        "As Sayyidah Zaynab",
+        "Set Zaynab",
+        "Sayeda Zainab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166277,
+        "wk:page":"Sayyidah_Zaynab"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a1edb9a399b4a39c4c6977f38a2d7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1309996623,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309996623,
+    "wof:lastmodified":1537701850,
+    "wof:name":"Qabr as Sitt",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33641,
+    33.4466,
+    36.33641,
+    33.4466
+],
+  "geometry": {"coordinates":[36.33641,33.4466],"type":"Point"}
+}

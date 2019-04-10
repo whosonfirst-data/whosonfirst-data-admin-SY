@@ -1,0 +1,79 @@
+{
+  "id": 1259577659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.84054,34.63346,40.84054,34.63346",
+    "geom:latitude":34.63346,
+    "geom:longitude":40.84054,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Jala'",
+    "gn:country_code":"SY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":166597,
+    "gn:latitude":34.63346,
+    "gn:longitude":40.84054,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Jal\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0644\u0651\u062e\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0644\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Musallakhah",
+        "Moussallakha",
+        "Al Musallakhah",
+        "Al Jal\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166597
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ec5d0f612af7b415d4a00a76c3cbe089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1259577659,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1259577659,
+    "wof:lastmodified":1537701868,
+    "wof:name":"Al Jala'",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.84054,
+    34.63346,
+    40.84054,
+    34.63346
+],
+  "geometry": {"coordinates":[40.84054,34.63346],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259870321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19826,33.35898,36.19826,33.35898",
+    "geom:latitude":33.35898,
+    "geom:longitude":36.19826,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mazra`at an Nufur",
+    "gn:country_code":"SY",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166955,
+    "gn:latitude":33.35898,
+    "gn:longitude":36.19826,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Mazra\u2018at an Nuf\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0646\u0641\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mazraat enn Noufo\u00fbr",
+        "Mezraet en Noufo\u00fbr",
+        "Mazra\u2018at an Nuf\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166955
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c4b69b625a3021662f8f9cf7b2475edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1259870321,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259870321,
+    "wof:lastmodified":1537701891,
+    "wof:name":"Mazra`at an Nufur",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19826,
+    33.35898,
+    36.19826,
+    33.35898
+],
+  "geometry": {"coordinates":[36.19826,33.35898],"type":"Point"}
+}

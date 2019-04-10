@@ -1,0 +1,74 @@
+{
+  "id": 1344060301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10481,35.61548,36.10481,35.61548",
+    "geom:latitude":35.61548,
+    "geom:longitude":36.10481,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sarna",
+    "gn:country_code":"SY",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164780,
+    "gn:latitude":35.61548,
+    "gn:longitude":36.10481,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Sarn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u015earn\u0101",
+        "Sarn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164780
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ccac5ecb831b790f9f1aa418a8e83f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1344060301,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1344060301,
+    "wof:lastmodified":1537701752,
+    "wof:name":"Sarna",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10481,
+    35.61548,
+    36.10481,
+    35.61548
+],
+  "geometry": {"coordinates":[36.10481,35.61548],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309986309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65,35.54167,36.65,35.54167",
+    "geom:latitude":35.54167,
+    "geom:longitude":36.65,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Haysh",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4526,
+    "gn:latitude":35.54167,
+    "gn:longitude":36.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28aysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28aysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4526
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cebababadd41d4357a7d1aaf847d868e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1309986309,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1309986309,
+    "wof:lastmodified":1537701544,
+    "wof:name":"Haysh",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65,
+    35.54167,
+    36.65,
+    35.54167
+],
+  "geometry": {"coordinates":[36.65,35.54167],"type":"Point"}
+}

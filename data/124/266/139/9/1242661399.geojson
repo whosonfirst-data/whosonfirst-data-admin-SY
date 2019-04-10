@@ -1,0 +1,76 @@
+{
+  "id": 1242661399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43048,35.28898,37.43048,35.28898",
+    "geom:latitude":35.28898,
+    "geom:longitude":37.43048,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Tinah",
+    "gn:country_code":"SY",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162822,
+    "gn:latitude":35.28898,
+    "gn:longitude":37.43048,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"At T\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Oum Toua\u00efn\u00e9",
+        "Oum Toua\u00efni",
+        "Umm Tuwaynah",
+        "At T\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162822
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7ae49bbf44f0367a905f2004d6eb771e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242661399,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242661399,
+    "wof:lastmodified":1537701617,
+    "wof:name":"At Tinah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43048,
+    35.28898,
+    37.43048,
+    35.28898
+],
+  "geometry": {"coordinates":[37.43048,35.28898],"type":"Point"}
+}

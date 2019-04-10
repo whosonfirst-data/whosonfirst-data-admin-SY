@@ -1,0 +1,73 @@
+{
+  "id": 1293680897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71026,35.61643,40.71026,35.61643",
+    "geom:latitude":35.61643,
+    "geom:longitude":40.71026,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"`Ata Allah",
+    "gn:country_code":"SY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275467,
+    "gn:latitude":35.61643,
+    "gn:longitude":40.71026,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"\u2018A\u0163\u0101 All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018A\u0163\u0101 All\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0637\u0627 \u0627\u0644\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275467
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f637b976ed9c66a86c5c269879f0786f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1293680897,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1293680897,
+    "wof:lastmodified":1537702519,
+    "wof:name":"`Ata Allah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71026,
+    35.61643,
+    40.71026,
+    35.61643
+],
+  "geometry": {"coordinates":[40.71026,35.61643],"type":"Point"}
+}

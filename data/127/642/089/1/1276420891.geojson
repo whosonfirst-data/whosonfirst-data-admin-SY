@@ -1,0 +1,73 @@
+{
+  "id": 1276420891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44939,36.00136,36.44939,36.00136",
+    "geom:latitude":36.00136,
+    "geom:longitude":36.44939,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kharab Sultan",
+    "gn:country_code":"SY",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275194,
+    "gn:latitude":36.00136,
+    "gn:longitude":36.44939,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Khar\u0101b Sul\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b Sul\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275194
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d30f96d8195b1f6814fe2140010784f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276420891,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276420891,
+    "wof:lastmodified":1537702515,
+    "wof:name":"Kharab Sultan",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44939,
+    36.00136,
+    36.44939,
+    36.00136
+],
+  "geometry": {"coordinates":[36.44939,36.00136],"type":"Point"}
+}

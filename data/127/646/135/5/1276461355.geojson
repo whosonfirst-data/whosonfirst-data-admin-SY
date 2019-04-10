@@ -1,0 +1,74 @@
+{
+  "id": 1276461355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19842,36.6886,40.19842,36.6886",
+    "geom:latitude":36.6886,
+    "geom:longitude":40.19842,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall `Arishah",
+    "gn:country_code":"SY",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163665,
+    "gn:latitude":36.6886,
+    "gn:longitude":40.19842,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall \u2018Ar\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0631\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell Aar\u00eecha",
+        "Tall \u2018Ar\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163665
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"524496b6cb74abf8e191b78611dcce72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1276461355,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276461355,
+    "wof:lastmodified":1537701682,
+    "wof:name":"Tall `Arishah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19842,
+    36.6886,
+    40.19842,
+    36.6886
+],
+  "geometry": {"coordinates":[40.19842,36.6886],"type":"Point"}
+}

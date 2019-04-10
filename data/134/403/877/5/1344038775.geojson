@@ -1,0 +1,80 @@
+{
+  "id": 1344038775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58492,34.66656,36.58492,34.66656",
+    "geom:latitude":34.66656,
+    "geom:longitude":36.58492,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Mushahadah",
+    "gn:country_code":"SY",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168062,
+    "gn:latitude":34.66656,
+    "gn:longitude":36.58492,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Mush\u0101hadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0648\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0634\u0627\u0647\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet es Saoud\u00e9",
+        "Kheurbet es Saouda",
+        "Khirbat as Sawd\u0101\u2019",
+        "Khirbat as Sawdah",
+        "Al Mush\u0101hadah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168062
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8fd28d3f4181a74cc0fb894c6192375d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1344038775,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1344038775,
+    "wof:lastmodified":1537701967,
+    "wof:name":"Al Mushahadah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58492,
+    34.66656,
+    36.58492,
+    34.66656
+],
+  "geometry": {"coordinates":[36.58492,34.66656],"type":"Point"}
+}

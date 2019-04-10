@@ -1,0 +1,76 @@
+{
+  "id": 1276562211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.19141,36.95863,41.19141,36.95863",
+    "geom:latitude":36.95863,
+    "geom:longitude":41.19141,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Abu Zuwayl",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163751,
+    "gn:latitude":36.95863,
+    "gn:longitude":41.19141,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tall Ab\u016b Zuwayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0623\u0628\u0648 \u0632\u0648\u064a\u0644"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Ab\u016b Zuwayl"
+    ],
+    "name:und_x_variant":[
+        "Tell Abou Zoue\u00efl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163751
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dbec51c53f13ac8d04dfb1343a3151f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276562211,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276562211,
+    "wof:lastmodified":1537701692,
+    "wof:name":"Tall Abu Zuwayl",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.19141,
+    36.95863,
+    41.19141,
+    36.95863
+],
+  "geometry": {"coordinates":[41.19141,36.95863],"type":"Point"}
+}

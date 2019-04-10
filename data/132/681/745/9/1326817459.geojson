@@ -1,0 +1,74 @@
+{
+  "id": 1326817459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32148,35.78209,36.32148,35.78209",
+    "geom:latitude":35.78209,
+    "geom:longitude":36.32148,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kufayr",
+    "gn:country_code":"SY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167803,
+    "gn:latitude":35.78209,
+    "gn:longitude":36.32148,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kufayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kfa\u00efr",
+        "Kufayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167803
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5f0812f3ae05a61c7066e30b4fdbec9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1326817459,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1326817459,
+    "wof:lastmodified":1537701941,
+    "wof:name":"Kufayr",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32148,
+    35.78209000000001,
+    36.32148,
+    35.78209000000001
+],
+  "geometry": {"coordinates":[36.32148,35.78209000000001],"type":"Point"}
+}

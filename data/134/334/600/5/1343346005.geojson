@@ -1,0 +1,73 @@
+{
+  "id": 1343346005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.79895,35.88158,37.79895,35.88158",
+    "geom:latitude":35.88158,
+    "geom:longitude":37.79895,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ali Uthman",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341996,
+    "gn:latitude":35.88158,
+    "gn:longitude":37.79895,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018Al\u012b Uthm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Al\u012b Uthm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u064a \u0639\u062b\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"89b359353f56ff483ca8452219b20bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343346005,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343346005,
+    "wof:lastmodified":1537702543,
+    "wof:name":"`Ali Uthman",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.79895,
+    35.88158,
+    37.79895,
+    35.88158
+],
+  "geometry": {"coordinates":[37.79895,35.88158],"type":"Point"}
+}

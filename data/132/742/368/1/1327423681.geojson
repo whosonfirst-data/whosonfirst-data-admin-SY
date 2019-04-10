@@ -1,0 +1,88 @@
+{
+  "id": 1327423681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14057,36.74483,38.14057,36.74483",
+    "geom:latitude":36.74483,
+    "geom:longitude":38.14057,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Blink",
+    "gn:country_code":"SY",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9149,
+    "gn:latitude":36.74483,
+    "gn:longitude":38.14057,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Blink",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0646\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0647\u062f\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Bilink"
+    ],
+    "name:kur_x_variant":[
+        "P\u0142ing",
+        "B\u0142ing",
+        "\u067e\u06b5\u0646\u06af",
+        "\u0628\u06b5\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Fahd\u012byah",
+        "Fehediye",
+        "Piling",
+        "Fahd\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9149
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d8e3180a89a3f586466fb20402897a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1327423681,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327423681,
+    "wof:lastmodified":1537701565,
+    "wof:name":"Blink",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14057,
+    36.74483,
+    38.14057,
+    36.74483
+],
+  "geometry": {"coordinates":[38.14057,36.74483],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259771405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39027,34.89091,37.39027,34.89091",
+    "geom:latitude":34.89091,
+    "geom:longitude":37.39027,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm ar Rish",
+    "gn:country_code":"SY",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162959,
+    "gn:latitude":34.89091,
+    "gn:longitude":37.39027,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Umm ar R\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Oum er R\u00eech",
+        "Umm ar R\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f66757f0f27652d96d913d5c51fc7e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1259771405,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259771405,
+    "wof:lastmodified":1537701627,
+    "wof:name":"Umm ar Rish",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39027,
+    34.89091,
+    37.39027,
+    34.89091
+],
+  "geometry": {"coordinates":[37.39027,34.89091],"type":"Point"}
+}

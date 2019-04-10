@@ -1,0 +1,70 @@
+{
+  "id": 1309698723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24272,33.50278,36.24272,33.50278",
+    "geom:latitude":33.50278,
+    "geom:longitude":36.24272,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mazzat Jabal",
+    "gn:country_code":"SY",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7642547,
+    "gn:latitude":33.50278,
+    "gn:longitude":36.24272,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Mazzat Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0629 \u062c\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642547
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"24a656b55b25d26ea4b63d5ae636b486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1309698723,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1309698723,
+    "wof:lastmodified":1537702470,
+    "wof:name":"Mazzat Jabal",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24272,
+    33.50278,
+    36.24272,
+    33.50278
+],
+  "geometry": {"coordinates":[36.24272,33.50278],"type":"Point"}
+}

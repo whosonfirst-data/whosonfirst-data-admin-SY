@@ -1,0 +1,78 @@
+{
+  "id": 1210000435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12263,35.12372,37.12263,35.12372",
+    "geom:latitude":35.12372,
+    "geom:longitude":37.12263,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Sinan",
+    "gn:country_code":"SY",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163637,
+    "gn:latitude":35.12372,
+    "gn:longitude":37.12263,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall Sin\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell Sin\u0101n",
+        "Tell es Sn\u00e2ne",
+        "Tall Sin\u0101n",
+        "Tel Senek",
+        "Tall as Sin\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163637,
+        "wk:page":"Tell_Sinan"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"39981e72cd409e35621370165c9de7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1210000435,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1210000435,
+    "wof:lastmodified":1537701679,
+    "wof:name":"Tall Sinan",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12263,
+    35.12372,
+    37.12263,
+    35.12372
+],
+  "geometry": {"coordinates":[37.12263,35.12372],"type":"Point"}
+}

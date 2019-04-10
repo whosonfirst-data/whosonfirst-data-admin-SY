@@ -1,0 +1,73 @@
+{
+  "id": 1292895799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74794,36.61562,36.74794,36.61562",
+    "geom:latitude":36.61562,
+    "geom:longitude":36.74794,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Yatimah",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433137,
+    "gn:latitude":36.61562,
+    "gn:longitude":36.74794,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Yat\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u062a\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Yat\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433137
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9c58aeeff81a093c2fd4b810f87b5d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1292895799,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292895799,
+    "wof:lastmodified":1537702620,
+    "wof:name":"Al Yatimah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74794,
+    36.61562,
+    36.74794,
+    36.61562
+],
+  "geometry": {"coordinates":[36.74794,36.61562],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343681951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37146,33.69473,36.37146,33.69473",
+    "geom:latitude":33.69473,
+    "geom:longitude":36.37146,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saydnaya",
+    "gn:country_code":"SY",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":164717,
+    "gn:latitude":33.69473,
+    "gn:longitude":36.37146,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u015eaydn\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Seyd Naya",
+        "Said N\u00e2ya",
+        "Seidnaya",
+        "Sednaya",
+        "\u015eaydn\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164717,
+        "wk:page":"Saidnaya"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a67a932bd73fd1c66439b31c218cee04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1343681951,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343681951,
+    "wof:lastmodified":1537701750,
+    "wof:name":"Saydnaya",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37146,
+    33.69473,
+    36.37146,
+    33.69473
+],
+  "geometry": {"coordinates":[36.37146,33.69473],"type":"Point"}
+}

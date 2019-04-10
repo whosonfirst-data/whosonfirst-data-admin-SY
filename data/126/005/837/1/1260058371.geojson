@@ -1,0 +1,79 @@
+{
+  "id": 1260058371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52653,34.52129,36.52653,34.52129",
+    "geom:latitude":34.52129,
+    "geom:longitude":36.52653,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Muh",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162490,
+    "gn:latitude":34.52129,
+    "gn:longitude":36.52653,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al M\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0645\u0648\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0648\u062d"
+    ],
+    "name:und_x_variant":[
+        "El Mo\u00fbh",
+        "Zor el Mo\u00fbh",
+        "Zawr al M\u016b\u1e29",
+        "Al M\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162490
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bfdfe3f402ae2124113c97019fc2d766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1260058371,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260058371,
+    "wof:lastmodified":1537701595,
+    "wof:name":"Al Muh",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52653,
+    34.52129,
+    36.52653,
+    34.52129
+],
+  "geometry": {"coordinates":[36.52653,34.52129],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 890442899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20605,35.08638,36.20605,35.08638",
+    "geom:latitude":35.08638,
+    "geom:longitude":36.20605,
+    "gn:country":"SY",
+    "gn:fcode":"PPL",
+    "gn:pop":3500,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0641 \u0627\u0644\u062c\u0627\u0639"
+    ],
+    "name:dut_x_preferred":[
+        "Kaff al-Jaa"
+    ],
+    "name:eng_x_preferred":[
+        "Kaff al-Jaa"
+    ],
+    "name:ger_x_preferred":[
+        "Kaf al-Dscha\u02bf"
+    ],
+    "name:pol_x_preferred":[
+        "Kaf al-D\u017ca"
+    ],
+    "name:swe_x_preferred":[
+        "Kaff al-Jaa"
+    ],
+    "qs:name":"\u0643\u0627\u0641 \u0627\u0644\u062c\u0627\u0639",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6943439,
+        "gp:id":1941336,
+        "qs:id":653131,
+        "wd:id":"Q1721023"
+    },
+    "wof:country":"SY",
+    "wof:created":1469052386,
+    "wof:geomhash":"3e240a8f25b88754928ab78cd932b840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":890442899,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":890442899,
+    "wof:lastmodified":1514505915,
+    "wof:name":"\u0643\u0627\u0641 \u0627\u0644\u062c\u0627\u0639",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:population":3500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20605,
+    35.08638,
+    36.20605,
+    35.08638
+],
+  "geometry": {"coordinates":[36.20605,35.08638],"type":"Point"}
+}

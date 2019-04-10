@@ -1,0 +1,74 @@
+{
+  "id": 1310598065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.36595,35.61628,40.36595,35.61628",
+    "geom:latitude":35.61628,
+    "geom:longitude":40.36595,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khalaf ash Shawhah",
+    "gn:country_code":"SY",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263755,
+    "gn:latitude":35.61628,
+    "gn:longitude":40.36595,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Khalaf ash Shaw\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0641 \u0627\u0644\u0634\u0648\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khalaf ash Shaw\u1e29ah",
+        "Khalaf ash Sh\u016b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263755
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"04b47210d8ec3a4c07b4a60e2d55b153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1310598065,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1310598065,
+    "wof:lastmodified":1537702493,
+    "wof:name":"Khalaf ash Shawhah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.36595,
+    35.61628,
+    40.36595,
+    35.61628
+],
+  "geometry": {"coordinates":[40.36595,35.61628],"type":"Point"}
+}

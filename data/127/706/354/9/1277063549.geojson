@@ -1,0 +1,75 @@
+{
+  "id": 1277063549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88389,35.58445,36.88389,35.58445",
+    "geom:latitude":35.58445,
+    "geom:longitude":36.88389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abu Sharji",
+    "gn:country_code":"SY",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174354,
+    "gn:latitude":35.58445,
+    "gn:longitude":36.88389,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ab\u016b Sharj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0634\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Abou Charji",
+        "Abou Charj\u00e9",
+        "Ab\u016b Sharj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174354
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5f25e86e97be72f3ac631a3381818ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1277063549,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1277063549,
+    "wof:lastmodified":1537702404,
+    "wof:name":"Abu Sharji",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88389,
+    35.58445,
+    36.88389,
+    35.58445
+],
+  "geometry": {"coordinates":[36.88389,35.58445],"type":"Point"}
+}

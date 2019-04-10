@@ -1,0 +1,73 @@
+{
+  "id": 1276672097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68172,35.97253,40.68172,35.97253",
+    "geom:latitude":35.97253,
+    "geom:longitude":40.68172,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Muyayzah",
+    "gn:country_code":"SY",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264209,
+    "gn:latitude":35.97253,
+    "gn:longitude":40.68172,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al Muyayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al May\u012bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264209
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe3138f1f19226ea04a167157810f65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276672097,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276672097,
+    "wof:lastmodified":1537702496,
+    "wof:name":"Al Muyayzah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68172,
+    35.97253,
+    40.68172,
+    35.97253
+],
+  "geometry": {"coordinates":[40.68172,35.97253],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242974937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03843,36.82399,40.03843,36.82399",
+    "geom:latitude":36.82399,
+    "geom:longitude":40.03843,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Halaf",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163571,
+    "gn:latitude":36.82399,
+    "gn:longitude":40.03843,
+    "gn:modification_date":"2011-01-13",
+    "gn:name":"Tall \u1e28alaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tall \u1e28alaf"
+    ],
+    "name:und_x_variant":[
+        "Tell H\u00e9lef",
+        "Tilhatef",
+        "Tell Halaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163571,
+        "wk:page":"Halaf_culture"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe1273716b8924c70eba9f812852064b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1242974937,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242974937,
+    "wof:lastmodified":1537701671,
+    "wof:name":"Tall Halaf",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03843,
+    36.82399,
+    40.03843,
+    36.82399
+],
+  "geometry": {"coordinates":[40.03843,36.82399],"type":"Point"}
+}

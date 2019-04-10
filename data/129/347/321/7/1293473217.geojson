@@ -1,0 +1,79 @@
+{
+  "id": 1293473217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98541,35.23948,35.98541,35.23948",
+    "geom:latitude":35.23948,
+    "geom:longitude":35.98541,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mahwarti",
+    "gn:country_code":"SY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167461,
+    "gn:latitude":35.23948,
+    "gn:longitude":35.98541,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ma\u1e29wart\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0648\u0631\u062a\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0648\u0631\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9houart\u00e9",
+        "Ma\u1e29wartah",
+        "Ma\u1e29wart\u012b",
+        "Mhorteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167461
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9f20f7e4b40c186433c79ac0702b936c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1293473217,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293473217,
+    "wof:lastmodified":1537701918,
+    "wof:name":"Mahwarti",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98540999999999,
+    35.23948,
+    35.98540999999999,
+    35.23948
+],
+  "geometry": {"coordinates":[35.98540999999999,35.23948],"type":"Point"}
+}

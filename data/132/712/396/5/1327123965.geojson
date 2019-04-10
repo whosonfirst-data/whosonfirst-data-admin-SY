@@ -1,0 +1,81 @@
+{
+  "id": 1327123965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0922,36.34681,37.0922,36.34681",
+    "geom:latitude":36.34681,
+    "geom:longitude":37.0922,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rityan",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165298,
+    "gn:latitude":36.34681,
+    "gn:longitude":37.0922,
+    "gn:modification_date":"2017-12-12",
+    "gn:name":"Rity\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Rity\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u062a\u064a\u0627\u0646",
+        "\u0631\u062a\u064a\u0627\u0646",
+        "Arity\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Riti\u00e2ne",
+        "Arity\u0101n",
+        "Ratyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165298,
+        "wk:page":"Ratyan"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"380353ce4d4c39b3e470cefc7bbea0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1327123965,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327123965,
+    "wof:lastmodified":1537701778,
+    "wof:name":"Rityan",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0922,
+    36.34681,
+    37.0922,
+    36.34681
+],
+  "geometry": {"coordinates":[37.0922,36.34681],"type":"Point"}
+}

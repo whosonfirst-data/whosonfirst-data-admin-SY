@@ -1,0 +1,73 @@
+{
+  "id": 1259698051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.7122,35.97339,40.7122,35.97339",
+    "geom:latitude":35.97339,
+    "geom:longitude":40.7122,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fallah al Jurays",
+    "gn:country_code":"SY",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264212,
+    "gn:latitude":35.97339,
+    "gn:longitude":40.7122,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Fall\u0101\u1e29 al Jurays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0627\u062d \u0627\u0644\u062c\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Fall\u0101\u1e29 al Jurays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264212
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a150ca11cb004d660a0d71c25c668995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259698051,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259698051,
+    "wof:lastmodified":1537702496,
+    "wof:name":"Fallah al Jurays",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.7122,
+    35.97339,
+    40.7122,
+    35.97339
+],
+  "geometry": {"coordinates":[40.7122,35.97339],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310695733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68171,35.09813,37.68171,35.09813",
+    "geom:latitude":35.09813,
+    "geom:longitude":37.68171,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Haddaj",
+    "gn:country_code":"SY",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420170,
+    "gn:latitude":35.09813,
+    "gn:longitude":37.68171,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al \u1e28add\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28add\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420170
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c0c3e88d9f2d8760cf8ea0a825535ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310695733,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310695733,
+    "wof:lastmodified":1537702440,
+    "wof:name":"Al Haddaj",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68171,
+    35.09813,
+    37.68171,
+    35.09813
+],
+  "geometry": {"coordinates":[37.68171,35.09813],"type":"Point"}
+}

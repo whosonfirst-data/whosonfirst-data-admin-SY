@@ -1,0 +1,138 @@
+{
+  "id": 421184049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0399,32.89044,36.0399,32.89044",
+    "geom:latitude":32.89044,
+    "geom:longitude":36.0399,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0649"
+    ],
+    "name:arm_x_preferred":[
+        "\u0546\u0561\u057e\u0561"
+    ],
+    "name:bak_x_preferred":[
+        "\u041d\u0430\u0432\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0432\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5948\u74e6"
+    ],
+    "name:dut_x_preferred":[
+        "Nawa"
+    ],
+    "name:eng_x_preferred":[
+        "Nawa"
+    ],
+    "name:fre_x_preferred":[
+        "Nawa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10d0\u10d5\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Nawa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0646\u0648\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Nawa i Syria"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nawa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Neva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Naoua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u060c \u0634\u0627\u0645"
+    ],
+    "qs:gn_country":"SY",
+    "qs:gn_fcode":"PPLA3",
+    "qs:gn_id":166365,
+    "qs:gn_pop":0,
+    "qs:name":"\u0646\u0648\u0649",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"Dar'a",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988696,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1947181,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166365,
+        "gp:id":1947181,
+        "qs:id":988696,
+        "wd:id":"Q1758024",
+        "wk:page":"Nawa, Syria"
+    },
+    "wof:country":"SY",
+    "wof:created":1459009398,
+    "wof:geomhash":"081e9d09f37710046ed6d968493241f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":421184049,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":421184049,
+    "wof:lastmodified":1514505915,
+    "wof:name":"\u0646\u0648\u0649",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0399,
+    32.89044,
+    36.0399,
+    32.89044
+],
+  "geometry": {"coordinates":[36.0399,32.89044],"type":"Point"}
+}

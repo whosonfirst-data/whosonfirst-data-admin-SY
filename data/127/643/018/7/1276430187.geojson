@@ -1,0 +1,78 @@
+{
+  "id": 1276430187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26027,35.54429,36.26027,35.54429",
+    "geom:latitude":35.54429,
+    "geom:longitude":36.26027,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Harat al Khatib",
+    "gn:country_code":"SY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169893,
+    "gn:latitude":35.54429,
+    "gn:longitude":36.26027,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u1e28\u0101rat al Kha\u0163\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u062e\u0637\u064a\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0628\u0644 \u0627\u0644\u062e\u0637\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2ret el Khat\u00eeb",
+        "\u1e28\u0101rat al Kha\u0163\u012bb",
+        "Nubl al Kha\u0163\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169893
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f69fa3302e658cb801117af6a47e720e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1276430187,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276430187,
+    "wof:lastmodified":1537702095,
+    "wof:name":"Harat al Khatib",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26027,
+    35.54429000000001,
+    36.26027,
+    35.54429000000001
+],
+  "geometry": {"coordinates":[36.26027,35.54429000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343450741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71881,36.38602,36.71881,36.38602",
+    "geom:latitude":36.38602,
+    "geom:longitude":36.71881,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hajilar",
+    "gn:country_code":"SY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553741,
+    "gn:latitude":36.38602,
+    "gn:longitude":36.71881,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28\u0101j\u012blar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u062c\u064a\u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101j\u012blar",
+        "Hadjil\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553741
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e68a8a7866d122a0d709552e516a04b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343450741,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343450741,
+    "wof:lastmodified":1537702626,
+    "wof:name":"Hajilar",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71881,
+    36.38602,
+    36.71881,
+    36.38602
+],
+  "geometry": {"coordinates":[36.71881,36.38602],"type":"Point"}
+}

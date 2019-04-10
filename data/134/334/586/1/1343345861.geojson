@@ -1,0 +1,79 @@
+{
+  "id": 1343345861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77172,36.68463,36.77172,36.68463",
+    "geom:latitude":36.68463,
+    "geom:longitude":36.77172,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ad Dik",
+    "gn:country_code":"SY",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235595,
+    "gn:latitude":36.68463,
+    "gn:longitude":36.77172,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ad D\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0643 \u0627\u0648\u0628\u0647 \u0633\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u064a\u0643",
+        "\u062f\u064a\u0643 \u0627\u0648\u0628\u0627\u0633\u064a"
+    ],
+    "name:und_x_variant":[
+        "D\u012bk \u016abah S\u012b",
+        "Ad D\u012bk",
+        "D\u012bk \u016ab\u0101s\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235595
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e42639b40fcbfadb5a8617e8b4adb32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343345861,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343345861,
+    "wof:lastmodified":1537702488,
+    "wof:name":"Ad Dik",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77172,
+    36.68463,
+    36.77172,
+    36.68463
+],
+  "geometry": {"coordinates":[36.77172,36.68463],"type":"Point"}
+}

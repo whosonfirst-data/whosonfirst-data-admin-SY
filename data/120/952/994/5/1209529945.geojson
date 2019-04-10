@@ -1,0 +1,64 @@
+{
+  "id": 1209529945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.17917,35.99556,41.17917,35.99556",
+    "geom:latitude":35.99556,
+    "geom:longitude":41.17917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hawijah",
+    "gn:country_code":"SY",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443162,
+    "gn:latitude":35.99556,
+    "gn:longitude":41.17917,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u1e28aw\u012bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28aw\u012bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443162
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"22fb8813591679672cbd813a77defc5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209529945
+        }
+    ],
+    "wof:id":1209529945,
+    "wof:lastmodified":1537702463,
+    "wof:name":"Hawijah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.17917,
+    35.99556,
+    41.17917,
+    35.99556
+],
+  "geometry": {"coordinates":[41.17917,35.99556],"type":"Point"}
+}

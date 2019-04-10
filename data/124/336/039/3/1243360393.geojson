@@ -1,0 +1,80 @@
+{
+  "id": 1243360393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56445,33.88495,36.56445,33.88495",
+    "geom:latitude":33.88495,
+    "geom:longitude":36.56445,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"As Sarkhah",
+    "gn:country_code":"SY",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171924,
+    "gn:latitude":33.88495,
+    "gn:longitude":36.56445,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"A\u015f \u015earkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062e\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0631\u0641\u0629",
+        "\u0627\u0644\u0635\u0631\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bakh\u00e2a",
+        "Bakh\u2018ah",
+        "A\u015f \u015eurfah",
+        "A\u015f \u015earkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171924
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dbfc57f371a299dc99b5a04e9d3ed9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1243360393,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243360393,
+    "wof:lastmodified":1537702236,
+    "wof:name":"As Sarkhah",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56445,
+    33.88495,
+    36.56445,
+    33.88495
+],
+  "geometry": {"coordinates":[36.56445,33.88495],"type":"Point"}
+}

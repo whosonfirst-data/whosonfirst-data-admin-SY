@@ -1,0 +1,78 @@
+{
+  "id": 1293078161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38991,35.85495,36.38991,35.85495",
+    "geom:latitude":35.85495,
+    "geom:longitude":36.38991,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Kastan at Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168511,
+    "gn:latitude":35.85495,
+    "gn:longitude":36.38991,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Kastan at Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u062a\u0646\u0629 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0633\u062a\u0646 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kastane Taht\u00e2ni",
+        "Kastanah Ta\u1e29t\u0101n\u012b",
+        "Al Kastan at Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168511
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e942f6602e6dfea87f77ee788e39f2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1293078161,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293078161,
+    "wof:lastmodified":1537701997,
+    "wof:name":"Al Kastan at Tahtani",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38991,
+    35.85495,
+    36.38991,
+    35.85495
+],
+  "geometry": {"coordinates":[36.38991,35.85495],"type":"Point"}
+}

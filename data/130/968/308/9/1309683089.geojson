@@ -1,0 +1,73 @@
+{
+  "id": 1309683089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9998,34.94471,35.9998,34.94471",
+    "geom:latitude":34.94471,
+    "geom:longitude":35.9998,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt al Kafrun",
+    "gn:country_code":"SY",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266753,
+    "gn:latitude":34.94471,
+    "gn:longitude":35.9998,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bayt al Kafr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0643\u0641\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Kafr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266753
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4063f5aa6a69f45137bebf10584ce15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1309683089,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309683089,
+    "wof:lastmodified":1537702503,
+    "wof:name":"Bayt al Kafrun",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9998,
+    34.94471,
+    35.9998,
+    34.94471
+],
+  "geometry": {"coordinates":[35.9998,34.94471],"type":"Point"}
+}

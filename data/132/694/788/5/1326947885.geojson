@@ -1,0 +1,73 @@
+{
+  "id": 1326947885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41436,36.04227,40.41436,36.04227",
+    "geom:latitude":36.04227,
+    "geom:longitude":40.41436,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Safawi",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385476,
+    "gn:latitude":36.04227,
+    "gn:longitude":40.41436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eaf\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u015eaf\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385476
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8444585fd442862bf496ad1faae12b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1326947885,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1326947885,
+    "wof:lastmodified":1537702428,
+    "wof:name":"Safawi",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41436,
+    36.04227,
+    40.41436,
+    36.04227
+],
+  "geometry": {"coordinates":[40.41436,36.04227],"type":"Point"}
+}

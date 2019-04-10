@@ -1,0 +1,74 @@
+{
+  "id": 1226037623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.29673,33.21061,36.29673,33.21061",
+    "geom:latitude":33.21061,
+    "geom:longitude":36.29673,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mankat al Hatab",
+    "gn:country_code":"SY",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259580,
+    "gn:latitude":33.21061,
+    "gn:longitude":36.29673,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Mankat al \u1e28a\u0163ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0643\u062a \u0627\u0644\u062d\u0637\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mankat al \u1e28a\u0163ab",
+        "Mannkat al \u1e28a\u0163ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259580
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5e758417469cb8557b7f733e7926cb6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1226037623,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1226037623,
+    "wof:lastmodified":1537702607,
+    "wof:name":"Mankat al Hatab",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.29673,
+    33.21061,
+    36.29673,
+    33.21061
+],
+  "geometry": {"coordinates":[36.29673,33.21061],"type":"Point"}
+}

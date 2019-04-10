@@ -1,0 +1,73 @@
+{
+  "id": 1360163627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9978,35.18004,35.9978,35.18004",
+    "geom:latitude":35.18004,
+    "geom:longitude":35.9978,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Barmaya",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171765,
+    "gn:latitude":35.18004,
+    "gn:longitude":35.9978,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"B\u0101rm\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101rm\u0101y\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0645\u0627\u064a\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171765
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7adad841c9026689f76b80bcab74ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1360163627,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1360163627,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barmaya",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9978,
+    35.18004000000001,
+    35.9978,
+    35.18004000000001
+],
+  "geometry": {"coordinates":[35.9978,35.18004000000001],"type":"Point"}
+}

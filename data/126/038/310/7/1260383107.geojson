@@ -1,0 +1,74 @@
+{
+  "id": 1260383107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.46498,35.13692,40.46498,35.13692",
+    "geom:latitude":35.13692,
+    "geom:longitude":40.46498,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"An Nab`ah",
+    "gn:country_code":"SY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276382,
+    "gn:latitude":35.13692,
+    "gn:longitude":40.46498,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"An Nab\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "An Nab\u2018ah",
+        "An Nab\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276382
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6acf7113424d13faea369d1be539d648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1260383107,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1260383107,
+    "wof:lastmodified":1537702522,
+    "wof:name":"An Nab`ah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.46498,
+    35.13692,
+    40.46498,
+    35.13692
+],
+  "geometry": {"coordinates":[40.46498,35.13692],"type":"Point"}
+}

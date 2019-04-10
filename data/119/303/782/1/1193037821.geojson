@@ -1,0 +1,71 @@
+{
+  "id": 1193037821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38396,33.3334,36.38396,33.3334",
+    "geom:latitude":33.3334,
+    "geom:longitude":36.38396,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Matallah",
+    "gn:country_code":"SY",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11262044,
+    "gn:latitude":33.3334,
+    "gn:longitude":36.38396,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al Ma\u0163allah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u0163allah",
+        "\u0627\u0644\u0645\u0637\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11262044
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed85a5b7d6bd327159a5d26051293e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779141,
+            "locality_id":1193037821,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1193037821,
+    "wof:lastmodified":1537702613,
+    "wof:name":"Al Matallah",
+    "wof:parent_id":1108779141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38396,
+    33.3334,
+    36.38396,
+    33.3334
+],
+  "geometry": {"coordinates":[36.38396,33.3334],"type":"Point"}
+}

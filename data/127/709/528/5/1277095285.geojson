@@ -1,0 +1,81 @@
+{
+  "id": 1277095285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02787,36.4451,37.02787,36.4451",
+    "geom:latitude":36.4451,
+    "geom:longitude":37.02787,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dayr Jamal",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170809,
+    "gn:latitude":36.4451,
+    "gn:longitude":37.02787,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dayr Jam\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062c\u0645\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Dayr al Jam\u0101l",
+        "De\u00efr el Jamal",
+        "De\u00efr ej Jam\u00e2t",
+        "Deir Djemal",
+        "Deir el Jem\u0101l",
+        "De\u00efr ej Jam\u00e2l",
+        "D\u00efer Djemal",
+        "Dayr al Jim\u0101l",
+        "Dayr Jam\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170809
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cb4141085e1adb0113dcfa497357cf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1277095285,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1277095285,
+    "wof:lastmodified":1537702148,
+    "wof:name":"Dayr Jamal",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02787,
+    36.4451,
+    37.02787,
+    36.4451
+],
+  "geometry": {"coordinates":[37.02787,36.4451],"type":"Point"}
+}

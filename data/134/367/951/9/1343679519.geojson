@@ -1,0 +1,77 @@
+{
+  "id": 1343679519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12911,36.86361,40.12911,36.86361",
+    "geom:latitude":36.86361,
+    "geom:longitude":40.12911,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Uluk Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173304,
+    "gn:latitude":36.86361,
+    "gn:longitude":40.12911,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u2018Ul\u016bk Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0643 \u063a\u0631\u0628\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "\u2018Al\u016bq al Gharb\u012b"
+    ],
+    "name:und_x_variant":[
+        "Aalo\u00fbq Rharbi",
+        "\u2018Ul\u016bk Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173304
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ec4e7c860247173f3324d5e899d6817e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1343679519,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343679519,
+    "wof:lastmodified":1537702323,
+    "wof:name":"`Uluk Gharbi",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12911,
+    36.86361,
+    40.12911,
+    36.86361
+],
+  "geometry": {"coordinates":[40.12911,36.86361],"type":"Point"}
+}

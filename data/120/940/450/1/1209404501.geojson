@@ -1,0 +1,69 @@
+{
+  "id": 1209404501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94503,36.44683,37.94503,36.44683",
+    "geom:latitude":36.44683,
+    "geom:longitude":37.94503,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm `Adasat Firs",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163025,
+    "gn:latitude":36.44683,
+    "gn:longitude":37.94503,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umm \u2018Adasat Firs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0639\u062f\u0633\u0629 \u0641\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Oum Aadasset Firs",
+        "Oum Adass\u00e9 Far\u00e9s",
+        "Umm \u2018Adasat Firs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163025
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"664d97d499441293ee8d94f7d747483c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209404501
+        }
+    ],
+    "wof:id":1209404501,
+    "wof:lastmodified":1537701632,
+    "wof:name":"Umm `Adasat Firs",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94503,
+    36.44683,
+    37.94503,
+    36.44683
+],
+  "geometry": {"coordinates":[37.94503,36.44683],"type":"Point"}
+}

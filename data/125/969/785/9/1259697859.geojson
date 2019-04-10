@@ -1,0 +1,70 @@
+{
+  "id": 1259697859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.34469,36.93248,40.34469,36.93248",
+    "geom:latitude":36.93248,
+    "geom:longitude":40.34469,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mashrafah",
+    "gn:country_code":"SY",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8357715,
+    "gn:latitude":36.93248,
+    "gn:longitude":40.34469,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Mashrafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8357715
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"77388e8ee2e91d5d2232cdebf9ad1767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1259697859,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259697859,
+    "wof:lastmodified":1537702554,
+    "wof:name":"Mashrafah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.34469,
+    36.93248,
+    40.34469,
+    36.93248
+],
+  "geometry": {"coordinates":[40.34469,36.93248],"type":"Point"}
+}

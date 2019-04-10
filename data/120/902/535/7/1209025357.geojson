@@ -1,0 +1,69 @@
+{
+  "id": 1209025357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11023,36.31403,38.11023,36.31403",
+    "geom:latitude":36.31403,
+    "geom:longitude":38.11023,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ar Rummanah",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172915,
+    "gn:latitude":36.31403,
+    "gn:longitude":38.11023,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ar Rumm\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er Roumm\u00e2n\u00e9",
+        "Rumm\u0101nah",
+        "Ar Rumm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172915
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27cdcd0cf41215c81c5149c833a8195e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209025357
+        }
+    ],
+    "wof:id":1209025357,
+    "wof:lastmodified":1537702299,
+    "wof:name":"Ar Rummanah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11023,
+    36.31403,
+    38.11023,
+    36.31403
+],
+  "geometry": {"coordinates":[38.11023,36.31403],"type":"Point"}
+}

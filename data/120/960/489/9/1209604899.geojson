@@ -1,0 +1,69 @@
+{
+  "id": 1209604899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79973,36.4995,36.79973,36.4995",
+    "geom:latitude":36.4995,
+    "geom:longitude":36.79973,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ma`arratah",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167619,
+    "gn:latitude":36.4995,
+    "gn:longitude":36.79973,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ma\u2018arr\u0101tah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0627\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maghata",
+        "Ma\u2018arr\u0101t\u0101",
+        "Ma\u2018arr\u0101tah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167619
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3011fa8fac78335126d81931ee6e8211",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209604899
+        }
+    ],
+    "wof:id":1209604899,
+    "wof:lastmodified":1537701928,
+    "wof:name":"Ma`arratah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79973,
+    36.4995,
+    36.79973,
+    36.4995
+],
+  "geometry": {"coordinates":[36.79973,36.4995],"type":"Point"}
+}

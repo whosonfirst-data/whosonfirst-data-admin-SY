@@ -1,0 +1,70 @@
+{
+  "id": 1310715695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32056,37.17556,42.32056,37.17556",
+    "geom:latitude":37.17556,
+    "geom:longitude":42.32056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Az Zahriyah at Tahtaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420429,
+    "gn:latitude":37.17556,
+    "gn:longitude":42.32056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zahr\u012byah at Ta\u1e29t\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Zahr\u012byah at Ta\u1e29t\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420429
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"be88a78dda23db032bb78298a925bb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1310715695,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310715695,
+    "wof:lastmodified":1537702447,
+    "wof:name":"Az Zahriyah at Tahtaniyah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32056,
+    37.17556,
+    42.32056,
+    37.17556
+],
+  "geometry": {"coordinates":[42.32056,37.17556],"type":"Point"}
+}

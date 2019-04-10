@@ -1,0 +1,85 @@
+{
+  "id": 1360082617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97337,33.65453,35.97337,33.65453",
+    "geom:latitude":33.65453,
+    "geom:longitude":35.97337,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Judaydat Yabus",
+    "gn:country_code":"SY",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168886,
+    "gn:latitude":33.65453,
+    "gn:longitude":35.97337,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Judaydat Y\u0101b\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062f\u0629 \u064a\u0627\u0628\u0648\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yabus",
+        "Jda\u00efd\u00e9 Yabo\u00fbs",
+        "Jda\u00efd\u00e9 Yabo\u00fbss",
+        "Jdeid\u00e9",
+        "Jda\u00efdet Y\u00e2bo\u00fbs",
+        "Jda\u00efdet Yabo\u00fbss",
+        "Judayyat Y\u0101b\u016bs",
+        "Judaydat Y\u0101b\u016bs",
+        "Judaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168886,
+        "wk:page":"Judaydat_Yabus"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e38fe224241ed9c678544ce37f7d271e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1360082617,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360082617,
+    "wof:lastmodified":1537702028,
+    "wof:name":"Judaydat Yabus",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97337,
+    33.65453,
+    35.97337,
+    33.65453
+],
+  "geometry": {"coordinates":[35.97337,33.65453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309977087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99097,35.09007,35.99097,35.09007",
+    "geom:latitude":35.09007,
+    "geom:longitude":35.99097,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Qusaybah",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176853,
+    "gn:latitude":35.09007,
+    "gn:longitude":35.99097,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Al Qu\u015faybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qu\u015faybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176853
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0851f0e6a9e15de54ffd7b3aca331ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1309977087,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1309977087,
+    "wof:lastmodified":1537702606,
+    "wof:name":"Al Qusaybah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99097000000001,
+    35.09007,
+    35.99097000000001,
+    35.09007
+],
+  "geometry": {"coordinates":[35.99097000000001,35.09007],"type":"Point"}
+}

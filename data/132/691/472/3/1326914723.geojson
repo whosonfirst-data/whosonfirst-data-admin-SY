@@ -1,0 +1,77 @@
+{
+  "id": 1326914723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08205,36.32563,38.08205,36.32563",
+    "geom:latitude":36.32563,
+    "geom:longitude":38.08205,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qulayb al Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165730,
+    "gn:latitude":36.32563,
+    "gn:longitude":38.08205,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qulayb al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u064a\u0628 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kulayb al Kab\u012brah",
+        "Qlayb al Kab\u012brih",
+        "Qle\u00efb el K\u00e9b\u00eer",
+        "Qle\u00efb el K\u00e9bir\u00e9",
+        "Qulayb al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165730
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c85790ab3f71108ab3c5f9f87d85061a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1326914723,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326914723,
+    "wof:lastmodified":1537701805,
+    "wof:name":"Qulayb al Kabirah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08205,
+    36.32563,
+    38.08205,
+    36.32563
+],
+  "geometry": {"coordinates":[38.08205,36.32563],"type":"Point"}
+}

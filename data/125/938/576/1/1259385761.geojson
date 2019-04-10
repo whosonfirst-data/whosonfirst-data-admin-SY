@@ -1,0 +1,75 @@
+{
+  "id": 1259385761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78193,35.60084,35.78193,35.60084",
+    "geom:latitude":35.60084,
+    "geom:longitude":35.78193,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ra's at Tamrah",
+    "gn:country_code":"SY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165495,
+    "gn:latitude":35.60084,
+    "gn:longitude":35.78193,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ra\u2019s at Tamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062a\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2ss et Tamra",
+        "R\u00e2s ett Tamra",
+        "Ra\u2019s at Tamrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165495
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd3efa20c52fbe744b65f0dfc2a372b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259385761,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259385761,
+    "wof:lastmodified":1537701789,
+    "wof:name":"Ra's at Tamrah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78193,
+    35.60084000000001,
+    35.78193,
+    35.60084000000001
+],
+  "geometry": {"coordinates":[35.78193,35.60084000000001],"type":"Point"}
+}

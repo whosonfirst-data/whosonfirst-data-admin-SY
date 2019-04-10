@@ -1,0 +1,77 @@
+{
+  "id": 1327452739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5565,36.22699,37.5565,36.22699",
+    "geom:latitude":36.22699,
+    "geom:longitude":37.5565,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Juruf",
+    "gn:country_code":"SY",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168803,
+    "gn:latitude":36.22699,
+    "gn:longitude":37.5565,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jur\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jur\u016bf"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Djourouf",
+        "Jaro\u00fbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168803
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a758d3feb2e16864fd527b7bbccc89f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1327452739,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327452739,
+    "wof:lastmodified":1537702023,
+    "wof:name":"Juruf",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5565,
+    36.22699,
+    37.5565,
+    36.22699
+],
+  "geometry": {"coordinates":[37.5565,36.22699],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209429249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.10167,35.95778,41.10167,35.95778",
+    "geom:latitude":35.95778,
+    "geom:longitude":41.10167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Madinah",
+    "gn:country_code":"SY",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443161,
+    "gn:latitude":35.95778,
+    "gn:longitude":41.10167,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Mad\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mad\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443161
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b7eeab753545f7ce8905ab231a0b387",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209429249
+        }
+    ],
+    "wof:id":1209429249,
+    "wof:lastmodified":1537702463,
+    "wof:name":"Madinah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.10167,
+    35.95778,
+    41.10167,
+    35.95778
+],
+  "geometry": {"coordinates":[41.10167,35.95778],"type":"Point"}
+}

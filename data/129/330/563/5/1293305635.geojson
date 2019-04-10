@@ -1,0 +1,72 @@
+{
+  "id": 1293305635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0166,35.44091,36.0166,35.44091",
+    "geom:latitude":35.44091,
+    "geom:longitude":36.0166,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt ash Shanbur",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171595,
+    "gn:latitude":35.44091,
+    "gn:longitude":36.0166,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Bayt ash Shanb\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft ech Chanbo\u00fbr",
+        "Bait el Shanbour",
+        "Bayt ash Shanb\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171595
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b8f84ec2eb600ae135d1156221ae966a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1293305635,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293305635,
+    "wof:lastmodified":1537702212,
+    "wof:name":"Bayt ash Shanbur",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0166,
+    35.44090999999999,
+    36.0166,
+    35.44090999999999
+],
+  "geometry": {"coordinates":[36.0166,35.44090999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327050133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5156,33.65785,36.5156,33.65785",
+    "geom:latitude":33.65785,
+    "geom:longitude":36.5156,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mahfarah",
+    "gn:country_code":"SY",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346173,
+    "gn:latitude":33.65785,
+    "gn:longitude":36.5156,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ma\u1e29farah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0641\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29farah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346173
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b42145ad7600b2b22ed5debba27b2465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1327050133,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1327050133,
+    "wof:lastmodified":1537702547,
+    "wof:name":"Mahfarah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5156,
+    33.65785,
+    36.5156,
+    33.65785
+],
+  "geometry": {"coordinates":[36.5156,33.65785],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193002687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11294,36.75475,38.11294,36.75475",
+    "geom:latitude":36.75475,
+    "geom:longitude":38.11294,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Uwaynah",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162743,
+    "gn:latitude":36.75475,
+    "gn:longitude":38.11294,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u2018Uwaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaoue\u00efn\u00e9",
+        "Aaoue\u00efni",
+        "\u2018Uwaynah",
+        "\u2018Uwayni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162743
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7631236f9178e054fcc3ab903b8fab6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1193002687,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193002687,
+    "wof:lastmodified":1537701611,
+    "wof:name":"`Uwaynah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11294,
+    36.75475,
+    38.11294,
+    36.75475
+],
+  "geometry": {"coordinates":[38.11294,36.75475],"type":"Point"}
+}

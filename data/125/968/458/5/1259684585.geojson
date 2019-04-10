@@ -1,0 +1,76 @@
+{
+  "id": 1259684585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75803,36.48327,38.75803,36.48327",
+    "geom:latitude":36.48327,
+    "geom:longitude":38.75803,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shumaytan Rafah",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164536,
+    "gn:latitude":36.48327,
+    "gn:longitude":38.75803,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Shumayt\u0101n R\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u064a\u062a\u0627\u0646 \u0631\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chm\u00eet\u00e2ne",
+        "Chm\u00eet\u00e2ne R\u00e2f\u00e9",
+        "Sham\u012bt\u0101n R\u0101fah",
+        "Shumayt\u0101n R\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164536
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fe8e1ea8587c750ec998771290f2da5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1259684585,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259684585,
+    "wof:lastmodified":1537701740,
+    "wof:name":"Shumaytan Rafah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75803,
+    36.48327000000001,
+    38.75803,
+    36.48327000000001
+],
+  "geometry": {"coordinates":[38.75803,36.48327000000001],"type":"Point"}
+}

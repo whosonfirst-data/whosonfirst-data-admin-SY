@@ -1,0 +1,76 @@
+{
+  "id": 1276317663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3736,35.63945,37.3736,35.63945",
+    "geom:latitude":35.63945,
+    "geom:longitude":37.3736,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Awlus",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172287,
+    "gn:latitude":35.63945,
+    "gn:longitude":37.3736,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Awl\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Awl\u016bs"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018All\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172287
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d296672880a589add2b14125af8e7458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276317663,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276317663,
+    "wof:lastmodified":1537702262,
+    "wof:name":"Awlus",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3736,
+    35.63945,
+    37.3736,
+    35.63945
+],
+  "geometry": {"coordinates":[37.3736,35.63945],"type":"Point"}
+}

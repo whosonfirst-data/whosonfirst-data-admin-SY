@@ -1,0 +1,75 @@
+{
+  "id": 1226540987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82499,36.63732,38.82499,36.63732",
+    "geom:latitude":36.63732,
+    "geom:longitude":38.82499,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qutranah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165628,
+    "gn:latitude":36.63732,
+    "gn:longitude":38.82499,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qu\u0163ranah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qotr\u00e2n\u00e9",
+        "Qu\u0163r\u0101nah",
+        "Qu\u0163ranah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165628
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56fd8bdc6109d683f11de924db8a7fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1226540987,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226540987,
+    "wof:lastmodified":1537701796,
+    "wof:name":"Qutranah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82499,
+    36.63732,
+    38.82499,
+    36.63732
+],
+  "geometry": {"coordinates":[38.82499,36.63732],"type":"Point"}
+}

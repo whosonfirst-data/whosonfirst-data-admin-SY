@@ -1,0 +1,73 @@
+{
+  "id": 1276424393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93531,34.81835,35.93531,34.81835",
+    "geom:latitude":34.81835,
+    "geom:longitude":35.93531,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Kurumah",
+    "gn:country_code":"SY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265468,
+    "gn:latitude":34.81835,
+    "gn:longitude":35.93531,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Kur\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kur\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265468
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71cd10a398d33c1e3f8dea2e5370a412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276424393,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276424393,
+    "wof:lastmodified":1537702499,
+    "wof:name":"Al Kurumah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93531,
+    34.81835,
+    35.93531,
+    34.81835
+],
+  "geometry": {"coordinates":[35.93531,34.81835],"type":"Point"}
+}

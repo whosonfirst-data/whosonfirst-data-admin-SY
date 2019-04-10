@@ -1,0 +1,96 @@
+{
+  "id": 1259773183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48422,36.80396,38.48422,36.80396",
+    "geom:latitude":36.80396,
+    "geom:longitude":38.48422,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qabajiq Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166292,
+    "gn:latitude":36.80396,
+    "gn:longitude":38.48422,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Qab\u0101jiq \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0627\u062c\u0642 \u0635\u063a\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u062d\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Qibaciq Bicuk"
+    ],
+    "name:kur_x_variant":[
+        "Qebaciq Bichuk",
+        "Qebaciq Bich\u00fbk",
+        "\u0642\u0628\u0627\u062c\u0642 \u0628\u062c\u0648\u0643",
+        "\u0642\u06d5\u0628\u0627\u062c\u0642 \u0628\u0686\u0648\u0643",
+        "\u0642\u06d5\u0628\u0627\u062c\u0642 \u0628\u0686\u0648\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Qab\u00e2djiq S\u00e9rh\u00eer",
+        "Qab\u0101jiq \u015eagh\u012br",
+        "Daw\u1e29ah \u015eagh\u012brah",
+        "Daw\u1e29at \u015eagh\u012brah",
+        "Dewha Sex\u00eera",
+        "Qibajiq Bijuk",
+        "Dawha Saghira",
+        "Qbaciq Bi\u00e7\u00fbk",
+        "Qabajiq Saghir",
+        "Kabacuxe Picuk",
+        "Kabacoxe Picuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166292
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b9360a9098aaa437e8b74346a141ef68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1259773183,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259773183,
+    "wof:lastmodified":1537701851,
+    "wof:name":"Qabajiq Saghir",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48422,
+    36.80396,
+    38.48422,
+    36.80396
+],
+  "geometry": {"coordinates":[38.48422,36.80396],"type":"Point"}
+}

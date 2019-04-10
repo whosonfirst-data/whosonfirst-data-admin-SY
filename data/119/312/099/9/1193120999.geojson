@@ -1,0 +1,73 @@
+{
+  "id": 1193120999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0707,34.98874,37.0707,34.98874",
+    "geom:latitude":34.98874,
+    "geom:longitude":37.0707,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall `Arak",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472,
+    "gn:latitude":34.98874,
+    "gn:longitude":37.0707,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tall \u2018Arak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Tall \u2018Arak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a121a92b2b15b8cf8f4bebd18a2c1394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1193120999,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193120999,
+    "wof:lastmodified":1537701530,
+    "wof:name":"Tall `Arak",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0707,
+    34.98874,
+    37.0707,
+    34.98874
+],
+  "geometry": {"coordinates":[37.0707,34.98874],"type":"Point"}
+}

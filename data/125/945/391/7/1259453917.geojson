@@ -1,0 +1,74 @@
+{
+  "id": 1259453917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99681,35.11262,35.99681,35.11262",
+    "geom:latitude":35.11262,
+    "geom:longitude":35.99681,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt as Sakhi",
+    "gn:country_code":"SY",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171585,
+    "gn:latitude":35.11262,
+    "gn:longitude":35.99681,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt as Sakh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0633\u062e\u064a"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft es Sakhi",
+        "Bayt as Sakh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171585
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9be8f2f6f92c01a315eea3e63524525f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259453917,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259453917,
+    "wof:lastmodified":1537702211,
+    "wof:name":"Bayt as Sakhi",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99681,
+    35.11262,
+    35.99681,
+    35.11262
+],
+  "geometry": {"coordinates":[35.99681,35.11262],"type":"Point"}
+}

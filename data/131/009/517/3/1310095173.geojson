@@ -1,0 +1,77 @@
+{
+  "id": 1310095173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74192,36.61365,36.74192,36.61365",
+    "geom:latitude":36.61365,
+    "geom:longitude":36.74192,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat ash Shaykh al Aqra`",
+    "gn:country_code":"SY",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433226,
+    "gn:latitude":36.61365,
+    "gn:longitude":36.74192,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Khirbat ash Shaykh al Aqra\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u0627\u0644\u0623\u0642\u0631\u0639"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u0627\u0644\u0623\u0642\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Khirbat ash Shaykh al Aqra\u2018",
+        "Ash Shaykh al Aqra\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433226
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e529ed2370057b7aeac7b8ebc4a00e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1310095173,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310095173,
+    "wof:lastmodified":1537702621,
+    "wof:name":"Khirbat ash Shaykh al Aqra`",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74192,
+    36.61365,
+    36.74192,
+    36.61365
+],
+  "geometry": {"coordinates":[36.74192,36.61365],"type":"Point"}
+}

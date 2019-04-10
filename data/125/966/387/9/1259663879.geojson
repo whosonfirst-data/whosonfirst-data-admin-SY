@@ -1,0 +1,74 @@
+{
+  "id": 1259663879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17597,35.86057,36.17597,35.86057",
+    "geom:latitude":35.86057,
+    "geom:longitude":36.17597,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malinkuz",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322499,
+    "gn:latitude":35.86057,
+    "gn:longitude":36.17597,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Malink\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0646\u0643\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Malink\u016bz",
+        "Melingoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322499
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"77f8da3d83b645394bab2f1b094785e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1259663879,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1259663879,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Malinkuz",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17597,
+    35.86057,
+    36.17597,
+    35.86057
+],
+  "geometry": {"coordinates":[36.17597,35.86057],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192995507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38333,35.75,36.38333,35.75",
+    "geom:latitude":35.75,
+    "geom:longitude":36.38333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sulayy",
+    "gn:country_code":"SY",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4649,
+    "gn:latitude":35.75,
+    "gn:longitude":36.38333,
+    "gn:modification_date":"1998-10-28",
+    "gn:name":"Sulayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4649
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f3fcfef23273ff4fea069e75141200c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1192995507,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1192995507,
+    "wof:lastmodified":1536376294,
+    "wof:name":"Sulayy",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38333,
+    35.75,
+    36.38333,
+    35.75
+],
+  "geometry": {"coordinates":[36.38333,35.75],"type":"Point"}
+}

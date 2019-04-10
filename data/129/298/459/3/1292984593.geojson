@@ -1,0 +1,83 @@
+{
+  "id": 1292984593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25479,35.46537,36.25479,35.46537",
+    "geom:latitude":35.46537,
+    "geom:longitude":36.25479,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Satarkah",
+    "gn:country_code":"SY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172458,
+    "gn:latitude":35.46537,
+    "gn:longitude":36.25479,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"As Satarkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062a\u0631\u0643\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u064a\u062f\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Esterki",
+        "Sa\u0163arkah",
+        "Es Starke",
+        "Es Sterke",
+        "Es Starh\u00e9",
+        "As Sa\u0163arkah",
+        "As Satarkah",
+        "Al \u1e28aydar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172458
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bbb3d2572b6cb44c0f4f255a5b6eb4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1292984593,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292984593,
+    "wof:lastmodified":1537702276,
+    "wof:name":"As Satarkah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25479,
+    35.46537,
+    36.25479,
+    35.46537
+],
+  "geometry": {"coordinates":[36.25479,35.46537],"type":"Point"}
+}

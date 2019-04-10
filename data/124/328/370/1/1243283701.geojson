@@ -1,0 +1,73 @@
+{
+  "id": 1243283701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84933,33.61191,36.84933,33.61191",
+    "geom:latitude":33.61191,
+    "geom:longitude":36.84933,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Misyadat al Ghizlan",
+    "gn:country_code":"SY",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11261225,
+    "gn:latitude":33.61191,
+    "gn:longitude":36.84933,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Mi\u015fyadat al Ghizl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u064a\u062f\u0629 \u0627\u0644\u063a\u0632\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mi\u015fyadat al Ghizl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11261225
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a5fee29de2fdecc33c3e6bd46af42ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243283701,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243283701,
+    "wof:lastmodified":1537702612,
+    "wof:name":"Misyadat al Ghizlan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84933,
+    33.61190999999999,
+    36.84933,
+    33.61190999999999
+],
+  "geometry": {"coordinates":[36.84933,33.61190999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343446427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6623,34.08575,36.6623,34.08575",
+    "geom:latitude":34.08575,
+    "geom:longitude":36.6623,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jarajir",
+    "gn:country_code":"SY",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169175,
+    "gn:latitude":34.08575,
+    "gn:longitude":36.6623,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jar\u0101j\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0627\u062c\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Djeridjir",
+        "Jir\u012bj\u012bn",
+        "Jir\u00e9j\u00eer",
+        "Jerijir",
+        "Jar\u0101j\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169175
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"548a22d597101755d74cb721ea8ac341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779095,
+            "locality_id":1343446427,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1343446427,
+    "wof:lastmodified":1537702050,
+    "wof:name":"Jarajir",
+    "wof:parent_id":1108779095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6623,
+    34.08575,
+    36.6623,
+    34.08575
+],
+  "geometry": {"coordinates":[36.6623,34.08575],"type":"Point"}
+}

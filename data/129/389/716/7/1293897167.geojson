@@ -1,0 +1,78 @@
+{
+  "id": 1293897167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.92966,36.59613,40.92966,36.59613",
+    "geom:latitude":36.59613,
+    "geom:longitude":40.92966,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Bawwab",
+    "gn:country_code":"SY",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173957,
+    "gn:latitude":36.59613,
+    "gn:longitude":40.92966,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Al Baww\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bou\u00e2b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0648\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "El Bou\u00e2b",
+        "Al Baww\u0101b",
+        "Al Buw\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173957
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"937ef981e41393a20d8c7de0c79a7533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1293897167,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293897167,
+    "wof:lastmodified":1537702379,
+    "wof:name":"Al Bawwab",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.92966,
+    36.59613,
+    40.92966,
+    36.59613
+],
+  "geometry": {"coordinates":[40.92966,36.59613],"type":"Point"}
+}

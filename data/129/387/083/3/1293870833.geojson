@@ -1,0 +1,73 @@
+{
+  "id": 1293870833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60795,36.0576,36.60795,36.0576",
+    "geom:latitude":36.0576,
+    "geom:longitude":36.60795,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Bani",
+    "gn:country_code":"SY",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275151,
+    "gn:latitude":36.0576,
+    "gn:longitude":36.60795,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kafr Ban\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0628\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ban\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275151
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8d6e505e2a1768de4deaebd57f66abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1293870833,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293870833,
+    "wof:lastmodified":1537702514,
+    "wof:name":"Kafr Bani",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60795,
+    36.0576,
+    36.60795,
+    36.0576
+],
+  "geometry": {"coordinates":[36.60795,36.0576],"type":"Point"}
+}

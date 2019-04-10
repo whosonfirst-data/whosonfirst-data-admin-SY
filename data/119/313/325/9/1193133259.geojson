@@ -1,0 +1,82 @@
+{
+  "id": 1193133259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70221,36.54877,36.70221,36.54877",
+    "geom:latitude":36.54877,
+    "geom:longitude":36.70221,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baramjah",
+    "gn:country_code":"SY",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171635,
+    "gn:latitude":36.54877,
+    "gn:longitude":36.70221,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Baramjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u062c\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0645\u062c\u0629",
+        "\u0628\u0631\u0645\u0627\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Berimdj\u00e9",
+        "B\u00e9remji",
+        "Bayramjah",
+        "Baramj\u012b",
+        "Baramjah",
+        "Birm\u0101jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171635
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"89ae0f7e5aec9e06cc50fd4fe53afc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1193133259,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193133259,
+    "wof:lastmodified":1537702216,
+    "wof:name":"Baramjah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70221,
+    36.54877000000001,
+    36.70221,
+    36.54877000000001
+],
+  "geometry": {"coordinates":[36.70221,36.54877000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242671321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14733,35.14697,37.14733,35.14697",
+    "geom:latitude":35.14697,
+    "geom:longitude":37.14733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Salihiyah",
+    "gn:country_code":"SY",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340951,
+    "gn:latitude":35.14697,
+    "gn:longitude":37.14733,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"A\u015f \u015e\u0101li\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015e\u0101li\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340951
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cfdd3a3d0786f908d36b2c36549343db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242671321,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242671321,
+    "wof:lastmodified":1537702540,
+    "wof:name":"As Salihiyah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14733,
+    35.14697,
+    37.14733,
+    35.14697
+],
+  "geometry": {"coordinates":[37.14733,35.14697],"type":"Point"}
+}

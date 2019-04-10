@@ -1,0 +1,74 @@
+{
+  "id": 1344241281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16062,36.65523,38.16062,36.65523",
+    "geom:latitude":36.65523,
+    "geom:longitude":38.16062,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Huwayjat Kalkali",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":169432,
+    "gn:latitude":36.65523,
+    "gn:longitude":38.16062,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u1e28uwayjat Kalkal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u062c\u0629 \u0643\u0644\u0643\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Houa\u00efjet Kalkali",
+        "\u1e28uwayjat Kalkal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169432
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0877c174dee8dacc4c931118bc0b1f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1344241281,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344241281,
+    "wof:lastmodified":1537702066,
+    "wof:name":"Huwayjat Kalkali",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16062,
+    36.65523,
+    38.16062,
+    36.65523
+],
+  "geometry": {"coordinates":[38.16062,36.65523],"type":"Point"}
+}

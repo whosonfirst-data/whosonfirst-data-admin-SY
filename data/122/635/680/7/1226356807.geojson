@@ -1,0 +1,77 @@
+{
+  "id": 1226356807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85054,37.04091,40.85054,37.04091",
+    "geom:latitude":37.04091,
+    "geom:longitude":40.85054,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jatal Milliyah",
+    "gn:country_code":"SY",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169153,
+    "gn:latitude":37.04091,
+    "gn:longitude":40.85054,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ja\u0163al Mill\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0637\u0644 \u0645\u0644\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Ja\u0163al Mill\u012byah"
+    ],
+    "name:und_x_variant":[
+        "Tchatal Milli\u00e9",
+        "Ja\u0163al Mill\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169153
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68639f424656a75f98a0a4e8a290720f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226356807,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226356807,
+    "wof:lastmodified":1537702049,
+    "wof:name":"Jatal Milliyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85054,
+    37.04091,
+    40.85054,
+    37.04091
+],
+  "geometry": {"coordinates":[40.85054,37.04091],"type":"Point"}
+}

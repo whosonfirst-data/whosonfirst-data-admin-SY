@@ -1,0 +1,76 @@
+{
+  "id": 1209833297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64479,37.03131,41.64479,37.03131",
+    "geom:latitude":37.03131,
+    "geom:longitude":41.64479,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"As Sa`diyah",
+    "gn:country_code":"SY",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420364,
+    "gn:latitude":37.03131,
+    "gn:longitude":41.64479,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"As Sa\u2018d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0639\u062f\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "As Sa\u2018d\u012byah"
+    ],
+    "name:und_x_variant":[
+        "As Sa\u2018d\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420364
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6a19478d229953a6ecfeee7ec001206a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1209833297,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209833297,
+    "wof:lastmodified":1537702443,
+    "wof:name":"As Sa`diyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64479,
+    37.03131,
+    41.64479,
+    37.03131
+],
+  "geometry": {"coordinates":[41.64479,37.03131],"type":"Point"}
+}

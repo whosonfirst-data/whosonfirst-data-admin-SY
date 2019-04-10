@@ -1,0 +1,77 @@
+{
+  "id": 1343494075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83788,36.44343,38.83788,36.44343",
+    "geom:latitude":36.44343,
+    "geom:longitude":38.83788,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"At Tinah",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163224,
+    "gn:latitude":36.44343,
+    "gn:longitude":38.83788,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"At T\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00een\u00e9",
+        "Tiyne",
+        "T\u00eer\u00e9",
+        "T\u012bnah",
+        "At T\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163224
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d31a83a3b4e5e5c35defb7c49f4eeb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343494075,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343494075,
+    "wof:lastmodified":1537701644,
+    "wof:name":"At Tinah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83788,
+    36.44343,
+    38.83788,
+    36.44343
+],
+  "geometry": {"coordinates":[38.83788,36.44343],"type":"Point"}
+}

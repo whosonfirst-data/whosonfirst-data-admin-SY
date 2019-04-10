@@ -1,0 +1,394 @@
+{
+  "id": 421202167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.14084,35.33588,40.14084,35.33588",
+    "geom:latitude":35.33588,
+    "geom:longitude":40.14084,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:arm_x_preferred":[
+        "\u0534\u0565\u0575\u0580-\u0567\u056c-\u0536\u0578\u0580"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:baq_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u0987\u09b0 \u098f\u09af-\u09af\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0439\u0440 \u0435\u0437-\u0417\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Deir al-Zor"
+    ],
+    "name:ces_x_preferred":[
+        "Dajr az-Zaur"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ee3\u5c14\u7956\u5c14"
+    ],
+    "name:cze_x_preferred":[
+        "Dajr az-Zaur"
+    ],
+    "name:dan_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:dut_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b1\u03bb-\u0396\u03bf\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:eng_x_variant":[
+        "Dayr al-Zawr",
+        "Der Ezzor",
+        "Deir Azzor",
+        "Dayr az Zawr",
+        "Deir al-Zour"
+    ],
+    "name:epo_x_preferred":[
+        "Dair az-Za\u016dr"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Deir ez Zor"
+    ],
+    "name:fre_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10da-\u10d6\u10dd\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b1\u03bb-\u0396\u03bf\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0ac7\u0a87\u0ab0 \u0a8f\u0a9d-\u0a9d\u0acb\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0-\u05d6\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0940\u0930 \u090f\u091c\u093c-\u091c\u093c\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Dajr ez-Zaur"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0567\u0580 \u0536\u0585\u0580, \u0534\u0565\u0580 \u0536\u0578\u0580, Ter Zor"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0565\u0575\u0580-\u0567\u056c-\u0536\u0578\u0580"
+    ],
+    "name:ice_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:ind_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:ita_x_preferred":[
+        "Deir el-Zor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30ea\u30be\u30fc\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Der Zzur"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cc7\u0cb0\u0ccd \u0c87\u0c9c\u0ccd-\u0c9d\u0ccb\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10da-\u10d6\u10dd\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc774\ub974\uc5d0\uc988\uc870\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ub370\uc774\ub974\uc5d0\uc870\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Deira ez Zora"
+    ],
+    "name:lit_x_preferred":[
+        "Deir ez Zoras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u093f\u0905\u0930 \u090f\u091d-\u091d\u094b\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Deir ez- Zor"
+    ],
+    "name:mlt_x_preferred":[
+        "Dar i\u017c-\u017bawr"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:nno_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:nob_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr az-Zaur"
+    ],
+    "name:por_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:rum_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u0440-\u044d\u0437-\u0417\u043e\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u0439\u0440-\u044d\u0437-\u0417\u0430\u0443\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Deir el-Zor"
+    ],
+    "name:sco_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dba\u0dd2\u0dbb\u0dca-\u0d91\u0dc3\u0dca-\u0dc3\u0ddd\u0dbb\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Deir ez-Zur"
+    ],
+    "name:spa_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:swe_x_preferred":[
+        "Dayr az-Zawr"
+    ],
+    "name:syc_x_preferred":[
+        "\u0715\u071d\u072a\u0710 \u0719\u0725\u0718\u072a\u072c\u0710"
+    ],
+    "name:szl_x_preferred":[
+        "Dajr az-Zaur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0baf\u0bbf\u0bb0\u0bcd \u0b8e\u0bb8\u0bcd -\u0bb8\u0bcd\u0b93\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c3f\u0c2f\u0c30\u0c4d \u0c0e\u0c1c\u0c4d-\u0c1c\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e14\u0e35\u0e22 \u0e40\u0e2d\u0e0b-\u0e0b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Deyrizor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0439\u0440-\u0435\u0437-\u0417\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Azaura"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631 \u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Dayr uz-Zur"
+    ],
+    "name:vie_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:war_x_preferred":[
+        "Deir ez-Zor"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10d6-\u10d6\u10d0\u10d5\u10e0\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5c14\u7956\u5c14"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Syria",
+    "ne:ADM0_A3":"SYR",
+    "ne:ADM1NAME":"Dayr Az Zawr",
+    "ne:ADMIN1_COD":7,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":170794,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Dayr az Zawr",
+    "ne:GN_POP":242565,
+    "ne:GTOPO30":194.0,
+    "ne:ISO_A2":"SY",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":35.330387,
+    "ne:LONGITUDE":40.129995,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Dayr az Azwr",
+    "ne:MAX_AREAKM":48.0,
+    "ne:MAX_AREAMI":18.0,
+    "ne:MAX_BBXMAX":40.216667,
+    "ne:MAX_BBXMIN":40.1,
+    "ne:MAX_BBYMAX":35.366667,
+    "ne:MAX_BBYMIN":35.275,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":69.0,
+    "ne:MAX_PERMI":43.0,
+    "ne:MAX_POP10":309141,
+    "ne:MAX_POP20":309141,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":40.159681,
+    "ne:MEAN_BBYC":35.33076,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":48.0,
+    "ne:MIN_AREAMI":18.0,
+    "ne:MIN_BBXMAX":40.216667,
+    "ne:MIN_BBXMIN":40.1,
+    "ne:MIN_BBYMAX":35.366667,
+    "ne:MIN_BBYMIN":35.275,
+    "ne:MIN_PERKM":69.0,
+    "ne:MIN_PERMI":43.0,
+    "ne:NAME":"Dayr az Zawr",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Dayr az Zawr",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":309141,
+    "ne:POP_MIN":242565,
+    "ne:POP_OTHER":308988,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Syria",
+    "ne:SOV_A3":"SYR",
+    "ne:TIMEZONE":"Asia/Damascus",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"SY",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":170794,
+    "qs:gn_pop":242565,
+    "qs:name":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
+    "qs:photos":294,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":294,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":219483,
+    "qs:woe_adm0":23424956,
+    "qs:woe_id":1947119,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170794,
+        "gp:id":1947119,
+        "qs:id":219483,
+        "wd:id":"Q239097",
+        "wk:page":"Deir ez-Zor"
+    },
+    "wof:country":"SY",
+    "wof:created":1459010107,
+    "wof:geomhash":"1106e0a579e0e6adbc597f826fe28f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":421202167,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":421202167,
+    "wof:lastmodified":1514505915,
+    "wof:name":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:population":242565,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.14084,
+    35.33588,
+    40.14084,
+    35.33588
+],
+  "geometry": {"coordinates":[40.14084,35.33588],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259657489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95432,35.08633,35.95432,35.08633",
+    "geom:latitude":35.08633,
+    "geom:longitude":35.95432,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Ayn Abu Suraysah",
+    "gn:country_code":"SY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172265,
+    "gn:latitude":35.08633,
+    "gn:longitude":35.95432,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn Ab\u016b Suraysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0623\u0628\u0648 \u0633\u0631\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Abou Sre\u00efsse",
+        "\u2018Ayn Ab\u016b Suraysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172265
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eb936b7a54632c44099c1d2c68961ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1259657489,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1259657489,
+    "wof:lastmodified":1537702261,
+    "wof:name":"`Ayn Abu Suraysah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95432,
+    35.08633,
+    35.95432,
+    35.08633
+],
+  "geometry": {"coordinates":[35.95432,35.08633],"type":"Point"}
+}

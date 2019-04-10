@@ -1,0 +1,73 @@
+{
+  "id": 1309693485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91307,34.73355,36.91307,34.73355",
+    "geom:latitude":34.73355,
+    "geom:longitude":36.91307,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Mizillah",
+    "gn:country_code":"SY",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338238,
+    "gn:latitude":34.73355,
+    "gn:longitude":36.91307,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Miz\u0327illah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0638\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Miz\u0327illah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338238
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c46c2557fa371cb8721588233ae165b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1309693485,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309693485,
+    "wof:lastmodified":1537702531,
+    "wof:name":"Al Mizillah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91307000000001,
+    34.73355,
+    36.91307000000001,
+    34.73355
+],
+  "geometry": {"coordinates":[36.91307000000001,34.73355],"type":"Point"}
+}

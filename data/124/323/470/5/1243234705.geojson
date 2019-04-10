@@ -1,0 +1,67 @@
+{
+  "id": 1243234705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04167,35.06667,36.04167,35.06667",
+    "geom:latitude":35.06667,
+    "geom:longitude":36.04167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karim",
+    "gn:country_code":"SY",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4373,
+    "gn:latitude":35.06667,
+    "gn:longitude":36.04167,
+    "gn:modification_date":"1998-10-28",
+    "gn:name":"Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4373
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"02f0a6b8c648244bf90c6b48c6e5726d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243234705,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243234705,
+    "wof:lastmodified":1536611367,
+    "wof:name":"Karim",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04167,
+    35.06667,
+    36.04167,
+    35.06667
+],
+  "geometry": {"coordinates":[36.04167,35.06667],"type":"Point"}
+}

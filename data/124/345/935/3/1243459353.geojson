@@ -1,0 +1,80 @@
+{
+  "id": 1243459353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60204,32.67722,36.60204,32.67722",
+    "geom:latitude":32.67722,
+    "geom:longitude":36.60204,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Raha",
+    "gn:country_code":"SY",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172972,
+    "gn:latitude":32.67722,
+    "gn:longitude":36.60204,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Raha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062d\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u062d\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ra\u1e29ah",
+        "Er Raha",
+        "Raha",
+        "Ar Ra\u1e29\u00e1",
+        "Ra\u1e29\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172972
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7153c31d0bf5a585c1b286363539a176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1243459353,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1243459353,
+    "wof:lastmodified":1537702303,
+    "wof:name":"Raha",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60204,
+    32.67722,
+    36.60204,
+    32.67722
+],
+  "geometry": {"coordinates":[36.60204,32.67722],"type":"Point"}
+}

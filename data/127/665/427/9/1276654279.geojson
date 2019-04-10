@@ -1,0 +1,70 @@
+{
+  "id": 1276654279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41122,32.44474,36.41122,32.44474",
+    "geom:latitude":32.44474,
+    "geom:longitude":36.41122,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rasm Kawm Kuqayd",
+    "gn:country_code":"SY",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5100,
+    "gn:latitude":32.44474,
+    "gn:longitude":36.41122,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Rasm Kawm Kuqayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0643\u0648\u0645 \u0643\u0642\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5100
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"48d8d54eff9458b880d1aaa77fb90805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1276654279,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1276654279,
+    "wof:lastmodified":1537701552,
+    "wof:name":"Rasm Kawm Kuqayd",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41122,
+    32.44474,
+    36.41122,
+    32.44474
+],
+  "geometry": {"coordinates":[36.41122,32.44474],"type":"Point"}
+}

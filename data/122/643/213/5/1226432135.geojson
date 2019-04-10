@@ -1,0 +1,70 @@
+{
+  "id": 1226432135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94158,35.77261,37.94158,35.77261",
+    "geom:latitude":35.77261,
+    "geom:longitude":37.94158,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm Wahbah",
+    "gn:country_code":"SY",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342054,
+    "gn:latitude":35.77261,
+    "gn:longitude":37.94158,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm Wahbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0648\u0647\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342054
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19da3a2c7858bdd9b726a721f959cb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226432135,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226432135,
+    "wof:lastmodified":1537702544,
+    "wof:name":"Rasm Wahbah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94158,
+    35.77261,
+    37.94158,
+    35.77261
+],
+  "geometry": {"coordinates":[37.94158,35.77261],"type":"Point"}
+}

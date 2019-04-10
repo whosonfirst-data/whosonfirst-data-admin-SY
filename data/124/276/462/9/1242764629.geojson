@@ -1,0 +1,73 @@
+{
+  "id": 1242764629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32472,35.82228,36.32472,35.82228",
+    "geom:latitude":35.82228,
+    "geom:longitude":36.32472,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zirat Tammurah",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554765,
+    "gn:latitude":35.82228,
+    "gn:longitude":36.32472,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Z\u012brat Tamm\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0631\u0629 \u062a\u0645\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Z\u012brat Tamm\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554765
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ee2225f1d558e308e2f99a2cadf8852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1242764629,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242764629,
+    "wof:lastmodified":1537702633,
+    "wof:name":"Zirat Tammurah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32472,
+    35.82228,
+    36.32472,
+    35.82228
+],
+  "geometry": {"coordinates":[36.32472,35.82228],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292995217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1763,35.64631,37.1763,35.64631",
+    "geom:latitude":35.64631,
+    "geom:longitude":37.1763,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm al Jahsh",
+    "gn:country_code":"SY",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165423,
+    "gn:latitude":35.64631,
+    "gn:longitude":37.1763,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Rasm al Ja\u1e29sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u062c\u062d\u0634"
+    ],
+    "name:und_x_variant":[
+        "Rasm ej Jahch",
+        "Rasm al Ja\u1e29sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165423
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"67cfa7cd4efcf1ae486b3b8a3d88e9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1292995217,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1292995217,
+    "wof:lastmodified":1537701785,
+    "wof:name":"Rasm al Jahsh",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1763,
+    35.64631,
+    37.1763,
+    35.64631
+],
+  "geometry": {"coordinates":[37.1763,35.64631],"type":"Point"}
+}

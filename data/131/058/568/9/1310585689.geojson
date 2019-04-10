@@ -1,0 +1,80 @@
+{
+  "id": 1310585689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8003,36.724,36.8003,36.724",
+    "geom:latitude":36.724,
+    "geom:longitude":36.8003,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barkashah",
+    "gn:country_code":"SY",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235554,
+    "gn:latitude":36.724,
+    "gn:longitude":36.8003,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Barkashah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0643\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0643\u0634\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Berkas\u00ea"
+    ],
+    "name:und_x_variant":[
+        "Barkash",
+        "Barkashah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235554
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"26ca045897bd4fb6d5b98f4dbf1a707c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1310585689,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310585689,
+    "wof:lastmodified":1537702485,
+    "wof:name":"Barkashah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8003,
+    36.724,
+    36.8003,
+    36.724
+],
+  "geometry": {"coordinates":[36.8003,36.724],"type":"Point"}
+}

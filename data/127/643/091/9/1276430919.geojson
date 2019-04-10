@@ -1,0 +1,74 @@
+{
+  "id": 1276430919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42686,35.83391,37.42686,35.83391",
+    "geom:latitude":35.83391,
+    "geom:longitude":37.42686,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jubb at Tinah",
+    "gn:country_code":"SY",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168943,
+    "gn:latitude":35.83391,
+    "gn:longitude":37.42686,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jubb at T\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Joubb ett T\u00een\u00e9",
+        "Jubb at T\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168943
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"09a4b7f3493b80f4683612bf727d755e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1276430919,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276430919,
+    "wof:lastmodified":1537702033,
+    "wof:name":"Jubb at Tinah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42686,
+    35.83391,
+    37.42686,
+    35.83391
+],
+  "geometry": {"coordinates":[37.42686,35.83391],"type":"Point"}
+}

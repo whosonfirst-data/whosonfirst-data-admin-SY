@@ -1,0 +1,75 @@
+{
+  "id": 1293892403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19359,35.55267,36.19359,35.55267",
+    "geom:latitude":35.55267,
+    "geom:longitude":36.19359,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balat",
+    "gn:country_code":"SY",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4514,
+    "gn:latitude":35.55267,
+    "gn:longitude":36.19359,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bal\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Bal\u0101\u0163",
+        "Blat\u2018ah",
+        "Blata\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4514
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"811fa83d824f858def4f2c0d920217bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1293892403,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293892403,
+    "wof:lastmodified":1537701544,
+    "wof:name":"Balat",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19359,
+    35.55267,
+    36.19359,
+    35.55267
+],
+  "geometry": {"coordinates":[36.19359,35.55267],"type":"Point"}
+}

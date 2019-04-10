@@ -1,0 +1,76 @@
+{
+  "id": 1243548219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26976,35.36665,36.26976,35.36665",
+    "geom:latitude":35.36665,
+    "geom:longitude":36.26976,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mashta",
+    "gn:country_code":"SY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173499,
+    "gn:latitude":35.36665,
+    "gn:longitude":36.26976,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Masht\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u062a\u0649"
+    ],
+    "name:und_x_variant":[
+        "El Mo\u00fbch\u00e2ti",
+        "Ett To\u00fbn",
+        "Al Mash\u0101t\u012b",
+        "Al Masht\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173499
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2f9ca4d29739e56e74b77811d3dad515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1243548219,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243548219,
+    "wof:lastmodified":1537702340,
+    "wof:name":"Al Mashta",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26976,
+    35.36665,
+    36.26976,
+    35.36665
+],
+  "geometry": {"coordinates":[36.26976,35.36665],"type":"Point"}
+}

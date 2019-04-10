@@ -1,0 +1,73 @@
+{
+  "id": 1260061219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54118,34.72092,36.54118,34.72092",
+    "geom:latitude":34.72092,
+    "geom:longitude":36.54118,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ram Jabal",
+    "gn:country_code":"SY",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432226,
+    "gn:latitude":34.72092,
+    "gn:longitude":36.54118,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"R\u0101m Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645 \u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "R\u0101m Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432226
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e58ca55c9950e548d02d4313a8adf7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1260061219,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260061219,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Ram Jabal",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54118,
+    34.72092,
+    36.54118,
+    34.72092
+],
+  "geometry": {"coordinates":[36.54118,34.72092],"type":"Point"}
+}

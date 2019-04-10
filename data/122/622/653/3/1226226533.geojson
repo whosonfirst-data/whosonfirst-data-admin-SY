@@ -1,0 +1,79 @@
+{
+  "id": 1226226533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23037,35.59012,37.23037,35.59012",
+    "geom:latitude":35.59012,
+    "geom:longitude":37.23037,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Khanadiq",
+    "gn:country_code":"SY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174444,
+    "gn:latitude":35.59012,
+    "gn:longitude":37.23037,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b Khan\u0101diq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062e\u0646\u0627\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "Abou Khan\u00e2deq",
+        "Abou Khanatidj",
+        "Abou Khan\u00e2tej",
+        "Abu Khanadij",
+        "Ab\u016b Khan\u0101tij",
+        "Abu Khanatidj",
+        "Ab\u016b Khan\u0101diq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174444
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94ccd38997b39b71fa2d5251089c6c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226226533,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226226533,
+    "wof:lastmodified":1537702409,
+    "wof:name":"Abu Khanadiq",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23037,
+    35.59012,
+    37.23037,
+    35.59012
+],
+  "geometry": {"coordinates":[37.23037,35.59012],"type":"Point"}
+}

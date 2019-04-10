@@ -1,0 +1,70 @@
+{
+  "id": 1242687373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.86667,36.05,40.86667,36.05",
+    "geom:latitude":36.05,
+    "geom:longitude":40.86667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jarwan",
+    "gn:country_code":"SY",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169156,
+    "gn:latitude":36.05,
+    "gn:longitude":40.86667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Jarw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169156
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"82178d28bdcfb242da77f173251fa822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1242687373,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1242687373,
+    "wof:lastmodified":1537702049,
+    "wof:name":"Jarwan",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.86667,
+    36.05,
+    40.86667,
+    36.05
+],
+  "geometry": {"coordinates":[40.86667,36.05],"type":"Point"}
+}

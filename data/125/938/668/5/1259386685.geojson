@@ -1,0 +1,73 @@
+{
+  "id": 1259386685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.77802,36.20253,40.77802,36.20253",
+    "geom:latitude":36.20253,
+    "geom:longitude":40.77802,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fayij",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421006,
+    "gn:latitude":36.20253,
+    "gn:longitude":40.77802,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"F\u0101yij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u0101yij"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u064a\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421006
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"85094095af926c8e72fb861caa71c721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259386685,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259386685,
+    "wof:lastmodified":1537702461,
+    "wof:name":"Fayij",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.77802,
+    36.20253,
+    40.77802,
+    36.20253
+],
+  "geometry": {"coordinates":[40.77802,36.20253],"type":"Point"}
+}

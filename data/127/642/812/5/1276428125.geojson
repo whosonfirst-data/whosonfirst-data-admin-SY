@@ -1,0 +1,84 @@
+{
+  "id": 1276428125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94877,35.4813,36.94877,35.4813",
+    "geom:latitude":35.4813,
+    "geom:longitude":36.94877,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mashrafat al Khanazir",
+    "gn:country_code":"SY",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166566,
+    "gn:latitude":35.4813,
+    "gn:longitude":36.94877,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mashrafat al Khan\u0101z\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641\u0629 \u0627\u0644\u062e\u0646\u0627\u0632\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0634\u0631\u0641",
+        "\u0631\u062c\u0645 \u0627\u0644\u0645\u0634\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9cherfet el Khannz\u00eer",
+        "Mishrifit Tall Khanz\u012br",
+        "Mecherfet Tell Khanz\u00eer",
+        "Mechref",
+        "Mushayrifat Tall Khinz\u012br",
+        "Mashrafat al Khan\u0101z\u012br",
+        "Rujm al Mashraf",
+        "Al Mashraf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166566
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6545225b3713ab0dc6a419ed8260e8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1276428125,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276428125,
+    "wof:lastmodified":1537701865,
+    "wof:name":"Mashrafat al Khanazir",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94877,
+    35.4813,
+    36.94877,
+    35.4813
+],
+  "geometry": {"coordinates":[36.94877,35.4813],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209710181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19696,36.02019,37.19696,36.02019",
+    "geom:latitude":36.02019,
+    "geom:longitude":37.19696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sufayrah",
+    "gn:country_code":"SY",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164013,
+    "gn:latitude":36.02019,
+    "gn:longitude":37.19696,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u015eufayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sfe\u00efra",
+        "Souf\u00efre",
+        "\u015eufayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164013
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ca834a0b53fd09316a5e1300f12627f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1209710181,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209710181,
+    "wof:lastmodified":1537701709,
+    "wof:name":"Sufayrah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19696,
+    36.02019,
+    37.19696,
+    36.02019
+],
+  "geometry": {"coordinates":[37.19696,36.02019],"type":"Point"}
+}

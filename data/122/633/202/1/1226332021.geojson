@@ -1,0 +1,73 @@
+{
+  "id": 1226332021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36434,35.7128,37.36434,35.7128",
+    "geom:latitude":35.7128,
+    "geom:longitude":37.36434,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nawarah",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340125,
+    "gn:latitude":35.7128,
+    "gn:longitude":37.36434,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Naw\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Naw\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340125
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4eb1956b3931e43b20e779ab0ab609eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226332021,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226332021,
+    "wof:lastmodified":1537702535,
+    "wof:name":"Nawarah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36434000000001,
+    35.7128,
+    37.36434000000001,
+    35.7128
+],
+  "geometry": {"coordinates":[37.36434000000001,35.7128],"type":"Point"}
+}

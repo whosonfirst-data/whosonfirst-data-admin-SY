@@ -1,0 +1,74 @@
+{
+  "id": 1343757851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35602,35.16152,36.35602,35.16152",
+    "geom:latitude":35.16152,
+    "geom:longitude":36.35602,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Muqaybirah",
+    "gn:country_code":"SY",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173425,
+    "gn:latitude":35.16152,
+    "gn:longitude":36.35602,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Muqaybirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u064a\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mqa\u00efbra",
+        "Al Muqaybirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173425
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1b9b388c27ca7ca81b4643631a232670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1343757851,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343757851,
+    "wof:lastmodified":1537702333,
+    "wof:name":"Al Muqaybirah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35602,
+    35.16152,
+    36.35602,
+    35.16152
+],
+  "geometry": {"coordinates":[36.35602,35.16152],"type":"Point"}
+}

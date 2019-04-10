@@ -1,0 +1,73 @@
+{
+  "id": 1293669355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08895,35.44787,37.08895,35.44787",
+    "geom:latitude":35.44787,
+    "geom:longitude":37.08895,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bashkun",
+    "gn:country_code":"SY",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340584,
+    "gn:latitude":35.44787,
+    "gn:longitude":37.08895,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Bashk\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0643\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bashk\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340584
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae3e895414cabb1f769c0ee3ba8aa17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1293669355,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1293669355,
+    "wof:lastmodified":1537702536,
+    "wof:name":"Bashkun",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08895,
+    35.44787,
+    37.08895,
+    35.44787
+],
+  "geometry": {"coordinates":[37.08895,35.44787],"type":"Point"}
+}

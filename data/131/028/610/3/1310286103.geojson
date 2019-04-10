@@ -1,0 +1,74 @@
+{
+  "id": 1310286103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45096,34.70775,37.45096,34.70775",
+    "geom:latitude":34.70775,
+    "geom:longitude":37.45096,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Manukh",
+    "gn:country_code":"SY",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367,
+    "gn:latitude":34.70775,
+    "gn:longitude":37.45096,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Man\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "Man\u016b\u1e29",
+        "Man\u016bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"49402ce9f09877c3064ec2025cc72d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1310286103,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310286103,
+    "wof:lastmodified":1537701526,
+    "wof:name":"Manukh",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45096,
+    34.70775,
+    37.45096,
+    34.70775
+],
+  "geometry": {"coordinates":[37.45096,34.70775],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1276675955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33597,37.1416,42.33597,37.1416",
+    "geom:latitude":37.1416,
+    "geom:longitude":42.33597,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kharab Rashik",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168295,
+    "gn:latitude":37.1416,
+    "gn:longitude":42.33597,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Khar\u0101b R\u0101shik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0631\u0627\u0634\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0648\u064a\u062f\u064a\u0629 \u0634\u0631\u0642\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Xerab \u1e5eesh\u00eak"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u06d5\u0631\u0627\u0628 \u0695\u06d5\u0634\u06ce\u0643"
+    ],
+    "name:und_x_variant":[
+        "Khar\u00e2b Rachek",
+        "Khar\u0101b Rashak",
+        "Khar\u0101b R\u0101shik",
+        "As Suwayd\u012byah Sharq\u012b",
+        "Xerab Re\u015fik",
+        "\u062e\u0631\u0627\u0628 \u0631\u0634\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168295
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12702433aa2e9aa644e48ccff0f5b09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":1276675955,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276675955,
+    "wof:lastmodified":1537701980,
+    "wof:name":"Kharab Rashik",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33597,
+    37.1416,
+    42.33597,
+    37.1416
+],
+  "geometry": {"coordinates":[42.33597,37.1416],"type":"Point"}
+}

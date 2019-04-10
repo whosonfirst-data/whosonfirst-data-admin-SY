@@ -1,0 +1,85 @@
+{
+  "id": 1360082749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00729,33.6958,36.00729,33.6958",
+    "geom:latitude":33.6958,
+    "geom:longitude":36.00729,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kafr Yabus",
+    "gn:country_code":"SY",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167800,
+    "gn:latitude":33.6958,
+    "gn:longitude":36.00729,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kafr Y\u0101b\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u064a\u0627\u0628\u0648\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u064a\u0631 \u064a\u0627\u0628\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kafr Yabous",
+        "Kufeir\u012bb\u016bs",
+        "Kfair Y\u00e2bouss",
+        "Kefv Yabus",
+        "Kafer Yabous",
+        "Kafr Yab\u016bs",
+        "Kfa\u00efr Y\u00e2bo\u00fbs",
+        "Kefr Yabous",
+        "Kufayr Y\u0101b\u016bs",
+        "Kafr Y\u0101b\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167800
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c644bb4a56c18b0097e1b40e17de331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779087,
+            "locality_id":1360082749,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360082749,
+    "wof:lastmodified":1537701941,
+    "wof:name":"Kafr Yabus",
+    "wof:parent_id":1108779087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00729000000001,
+    33.6958,
+    36.00729000000001,
+    33.6958
+],
+  "geometry": {"coordinates":[36.00729000000001,33.6958],"type":"Point"}
+}

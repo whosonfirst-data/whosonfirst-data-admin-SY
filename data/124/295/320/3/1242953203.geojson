@@ -1,0 +1,73 @@
+{
+  "id": 1242953203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55035,35.85387,36.55035,35.85387",
+    "geom:latitude":35.85387,
+    "geom:longitude":36.55035,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khirbat al Asadiyah",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270159,
+    "gn:latitude":35.85387,
+    "gn:longitude":36.55035,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Khirbat al Asad\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0627\u0633\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Asad\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270159
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ae372584ecabfb820ef2e13ac1df849b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1242953203,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242953203,
+    "wof:lastmodified":1537702507,
+    "wof:name":"Khirbat al Asadiyah",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55035,
+    35.85387,
+    36.55035,
+    35.85387
+],
+  "geometry": {"coordinates":[36.55035,35.85387],"type":"Point"}
+}

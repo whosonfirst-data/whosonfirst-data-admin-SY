@@ -1,0 +1,91 @@
+{
+  "id": 1293597989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8,33.26667,35.8,33.26667",
+    "geom:latitude":33.26667,
+    "geom:longitude":35.8,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Suhayta",
+    "gn:country_code":"SY",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416394,
+    "gn:latitude":33.26667,
+    "gn:longitude":35.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Su\u1e29ayt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u1e29ayt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416394
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7c6662ad96e75485ae1bcfa3196cc510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1293597989,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1293597989,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1293597989,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1293597989,
+    "wof:lastmodified":1537702437,
+    "wof:name":"Suhayta",
+    "wof:parent_id":1108779081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8,
+    33.26667,
+    35.8,
+    33.26667
+],
+  "geometry": {"coordinates":[35.8,33.26667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260165635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52427,36.59118,38.52427,36.59118",
+    "geom:latitude":36.59118,
+    "geom:longitude":38.52427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kubar Munif",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9173,
+    "gn:latitude":36.59118,
+    "gn:longitude":38.52427,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"K\u016bb\u0101r Mun\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016bb\u0101r Mun\u012bf"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0628\u0627\u0631 \u0645\u0646\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "K\u016bb\u0101r Mutayyaf",
+        "Kop\u00e2r Moun\u00eef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9173
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"76f9c67de7a0dce5de024a28ce4e36ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260165635,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260165635,
+    "wof:lastmodified":1537701568,
+    "wof:name":"Kubar Munif",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52427,
+    36.59118,
+    38.52427,
+    36.59118
+],
+  "geometry": {"coordinates":[38.52427,36.59118],"type":"Point"}
+}

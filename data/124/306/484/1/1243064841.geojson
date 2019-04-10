@@ -1,0 +1,84 @@
+{
+  "id": 1243064841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46932,33.49326,36.46932,33.49326",
+    "geom:latitude":33.49326,
+    "geom:longitude":36.46932,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Marj Sultan",
+    "gn:country_code":"SY",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167233,
+    "gn:latitude":33.49326,
+    "gn:longitude":36.46932,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Marj Sul\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0627\u0644\u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u062c \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Nerj Sultan",
+        "Marg es Sultane",
+        "Merdj-es-Soltan",
+        "Marj es Soult\u00e2ne",
+        "Marj es Soultanne",
+        "Marj es Soltan",
+        "Merg Sultan",
+        "Marj as Sul\u0163\u0101n",
+        "Marj Sul\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167233
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"066f3060a5f5fe14b33ba00af6c54ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243064841,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243064841,
+    "wof:lastmodified":1537701909,
+    "wof:name":"Marj Sultan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46932,
+    33.49326,
+    36.46932,
+    33.49326
+],
+  "geometry": {"coordinates":[36.46932,33.49326],"type":"Point"}
+}

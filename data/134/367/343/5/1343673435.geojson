@@ -1,0 +1,121 @@
+{
+  "id": 1343673435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65369,33.0897,35.65369,33.0897",
+    "geom:latitude":33.0897,
+    "geom:longitude":35.65369,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ad Darbashiyah",
+    "gn:country_code":"SY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1764,
+    "gn:latitude":33.0897,
+    "gn:longitude":35.65369,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ad Darb\u0101sh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0628\u0627\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Darb\u0101sh\u012byah",
+        "Ad Dirb\u0101s\u012byah",
+        "Ad Dirb\u0101sh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"59897bd90f8bc7f6ccfeafb71377c10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1343673435,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343673435,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343673435,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1343673435,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343673435,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343673435,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1343673435,
+    "wof:lastmodified":1537701522,
+    "wof:name":"Ad Darbashiyah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65369000000001,
+    33.0897,
+    35.65369000000001,
+    33.0897
+],
+  "geometry": {"coordinates":[35.65369000000001,33.0897],"type":"Point"}
+}

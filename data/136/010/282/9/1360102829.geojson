@@ -1,0 +1,73 @@
+{
+  "id": 1360102829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.13279,36.10812,41.13279,36.10812",
+    "geom:latitude":36.10812,
+    "geom:longitude":41.13279,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Haswah Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414817,
+    "gn:latitude":36.10812,
+    "gn:longitude":41.13279,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Al \u1e28a\u015fwah Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0648\u0629 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28a\u015fwah Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414817
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7d5b8f866b6b71ce97ff1eb13088161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1360102829,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360102829,
+    "wof:lastmodified":1537702436,
+    "wof:name":"Al Haswah Tahtani",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.13279,
+    36.10812,
+    41.13279,
+    36.10812
+],
+  "geometry": {"coordinates":[41.13279,36.10812],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276645817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92338,35.92358,36.92338,35.92358",
+    "geom:latitude":35.92358,
+    "geom:longitude":36.92338,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abbad",
+    "gn:country_code":"SY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174682,
+    "gn:latitude":35.92358,
+    "gn:longitude":36.92338,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Abb\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Abb\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174682
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f67ddc27abc05ea893e2d4a158d388f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276645817,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276645817,
+    "wof:lastmodified":1537702419,
+    "wof:name":"Abbad",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92338,
+    35.92358,
+    36.92338,
+    35.92358
+],
+  "geometry": {"coordinates":[36.92338,35.92358],"type":"Point"}
+}

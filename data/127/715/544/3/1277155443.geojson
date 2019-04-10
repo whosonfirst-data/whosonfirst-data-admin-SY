@@ -1,0 +1,73 @@
+{
+  "id": 1277155443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61492,34.64279,36.61492,34.64279",
+    "geom:latitude":34.64279,
+    "geom:longitude":36.61492,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qanayah",
+    "gn:country_code":"SY",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432240,
+    "gn:latitude":34.64279,
+    "gn:longitude":36.61492,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Qan\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qan\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432240
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f660553ea8ee9d74a92a1a009ee19cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1277155443,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1277155443,
+    "wof:lastmodified":1537702618,
+    "wof:name":"Qanayah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61492,
+    34.64279000000001,
+    36.61492,
+    34.64279000000001
+],
+  "geometry": {"coordinates":[36.61492,34.64279000000001],"type":"Point"}
+}

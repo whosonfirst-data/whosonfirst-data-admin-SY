@@ -1,0 +1,74 @@
+{
+  "id": 1343445513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4103,36.48495,38.4103,36.48495",
+    "geom:latitude":36.48495,
+    "geom:longitude":38.4103,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Zarbah",
+    "gn:country_code":"SY",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167953,
+    "gn:latitude":36.48495,
+    "gn:longitude":38.4103,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khirbat Zarbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0632\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Zerb\u00e9",
+        "Khirbat Zarbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"54551ab58865ab48f76249b7b37d8ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1343445513,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343445513,
+    "wof:lastmodified":1537701957,
+    "wof:name":"Khirbat Zarbah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4103,
+    36.48495,
+    38.4103,
+    36.48495
+],
+  "geometry": {"coordinates":[38.4103,36.48495],"type":"Point"}
+}

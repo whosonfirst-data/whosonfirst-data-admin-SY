@@ -1,0 +1,73 @@
+{
+  "id": 1327222175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5511,34.83412,37.5511,34.83412",
+    "geom:latitude":34.83412,
+    "geom:longitude":37.5511,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al Muhayniyah",
+    "gn:country_code":"SY",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456,
+    "gn:latitude":34.83412,
+    "gn:longitude":37.5511,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Al Muhayn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0647\u064a\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Muhayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7dd9ec9875e6d1ebb7ee9d1eb0124c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1327222175,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327222175,
+    "wof:lastmodified":1537701529,
+    "wof:name":"Al Muhayniyah",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5511,
+    34.83412,
+    37.5511,
+    34.83412
+],
+  "geometry": {"coordinates":[37.5511,34.83412],"type":"Point"}
+}

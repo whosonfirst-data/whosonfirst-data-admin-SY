@@ -1,0 +1,73 @@
+{
+  "id": 1310590241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62002,34.94259,36.62002,34.94259",
+    "geom:latitude":34.94259,
+    "geom:longitude":36.62002,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"At Tabaqah",
+    "gn:country_code":"SY",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432508,
+    "gn:latitude":34.94259,
+    "gn:longitude":36.62002,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"A\u0163 \u0162ab\u0101qah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0628\u0627\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162ab\u0101qah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432508
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b7a8aaa3b4d98431fcea1973b69cd671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310590241,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310590241,
+    "wof:lastmodified":1537702618,
+    "wof:name":"At Tabaqah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62002,
+    34.94259,
+    36.62002,
+    34.94259
+],
+  "geometry": {"coordinates":[36.62002,34.94259],"type":"Point"}
+}

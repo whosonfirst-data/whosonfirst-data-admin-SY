@@ -1,0 +1,75 @@
+{
+  "id": 1277077339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12014,35.40868,36.12014,35.40868",
+    "geom:latitude":35.40868,
+    "geom:longitude":36.12014,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bla`lin",
+    "gn:country_code":"SY",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171340,
+    "gn:latitude":35.40868,
+    "gn:longitude":36.12014,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bla\u2018l\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0639\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Blaal\u00eene",
+        "Bla\u2018l\u012bn",
+        "Bjam\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171340
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"308f620ad1584e4ebcdd108c182560ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1277077339,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1277077339,
+    "wof:lastmodified":1537702190,
+    "wof:name":"Bla`lin",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12014,
+    35.40868,
+    36.12014,
+    35.40868
+],
+  "geometry": {"coordinates":[36.12014,35.40868],"type":"Point"}
+}

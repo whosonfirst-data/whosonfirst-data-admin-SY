@@ -1,0 +1,73 @@
+{
+  "id": 1326501079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96556,35.17193,35.96556,35.17193",
+    "geom:latitude":35.17193,
+    "geom:longitude":35.96556,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Luqayrbi",
+    "gn:country_code":"SY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184863,
+    "gn:latitude":35.17193,
+    "gn:longitude":35.96556,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Luqayrb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0642\u064a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Luqayrb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184863
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e6474b4dc16c8fc0fe664a593e8e6d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1326501079,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1326501079,
+    "wof:lastmodified":1537702482,
+    "wof:name":"Luqayrbi",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96556,
+    35.17193,
+    35.96556,
+    35.17193
+],
+  "geometry": {"coordinates":[35.96556,35.17193],"type":"Point"}
+}

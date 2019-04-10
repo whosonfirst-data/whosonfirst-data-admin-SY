@@ -1,0 +1,73 @@
+{
+  "id": 1260207671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7122,36.05781,39.7122,36.05781",
+    "geom:latitude":36.05781,
+    "geom:longitude":39.7122,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Salulah",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384444,
+    "gn:latitude":36.05781,
+    "gn:longitude":39.7122,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Sal\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sal\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384444
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d8e94e29036af8fdea5f2e5352a22ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1260207671,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1260207671,
+    "wof:lastmodified":1537702557,
+    "wof:name":"Salulah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7122,
+    36.05781,
+    39.7122,
+    36.05781
+],
+  "geometry": {"coordinates":[39.7122,36.05781],"type":"Point"}
+}

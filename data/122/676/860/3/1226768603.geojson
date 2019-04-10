@@ -1,0 +1,77 @@
+{
+  "id": 1226768603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17572,35.92857,37.17572,35.92857",
+    "geom:latitude":35.92857,
+    "geom:longitude":37.17572,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Buraydah",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171804,
+    "gn:latitude":35.92857,
+    "gn:longitude":37.17572,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Buraydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bar\u00e2da",
+        "Bard\u00e9",
+        "Barad\u00e9",
+        "Baradah",
+        "Buraydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171804
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"40ae3823e7b8b0d20f8a54b6e0a84a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1226768603,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226768603,
+    "wof:lastmodified":1537702226,
+    "wof:name":"Buraydah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17572,
+    35.92857,
+    37.17572,
+    35.92857
+],
+  "geometry": {"coordinates":[37.17572,35.92857],"type":"Point"}
+}

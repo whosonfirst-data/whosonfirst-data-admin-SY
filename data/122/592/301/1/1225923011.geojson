@@ -1,0 +1,76 @@
+{
+  "id": 1225923011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04394,35.06588,36.04394,35.06588",
+    "geom:latitude":35.06588,
+    "geom:longitude":36.04394,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kuraym",
+    "gn:country_code":"SY",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173589,
+    "gn:latitude":35.06588,
+    "gn:longitude":36.04394,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kuraym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kra\u00efm",
+        "Al Kuraym",
+        "Kuraym",
+        "Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173589
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6569c73f7d9006bee5f48d6d9239ec7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1225923011,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1225923011,
+    "wof:lastmodified":1537702347,
+    "wof:name":"Kuraym",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04394,
+    35.06588,
+    36.04394,
+    35.06588
+],
+  "geometry": {"coordinates":[36.04394,35.06588],"type":"Point"}
+}

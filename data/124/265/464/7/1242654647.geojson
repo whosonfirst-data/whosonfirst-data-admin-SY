@@ -1,0 +1,78 @@
+{
+  "id": 1242654647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88511,35.40547,36.88511,35.40547",
+    "geom:latitude":35.40547,
+    "geom:longitude":36.88511,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ta`mat al Khalifah",
+    "gn:country_code":"SY",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163411,
+    "gn:latitude":35.40547,
+    "gn:longitude":36.88511,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u0162a\u2018mat al Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0639\u0645\u0629 \u0627\u0644\u062e\u0644\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00e1met el Khal\u00eef\u00e9",
+        "\u0162\u0101qat al Khal\u012bfah",
+        "T\u0101mit al Khal\u012bfih",
+        "\u0162\u0101mat al Khal\u012bfah",
+        "\u0162a\u2018mat al Khal\u012bfah",
+        "\u0162u\u2018mat al Khal\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163411
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"789630d548d3114c8cdb2420e06d3b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1242654647,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242654647,
+    "wof:lastmodified":1537701653,
+    "wof:name":"Ta`mat al Khalifah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88511,
+    35.40547,
+    36.88511,
+    35.40547
+],
+  "geometry": {"coordinates":[36.88511,35.40547],"type":"Point"}
+}

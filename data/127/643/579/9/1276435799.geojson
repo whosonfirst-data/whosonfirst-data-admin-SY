@@ -1,0 +1,80 @@
+{
+  "id": 1276435799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39085,35.41465,36.39085,35.41465",
+    "geom:latitude":35.41465,
+    "geom:longitude":36.39085,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qal`at al Madiq",
+    "gn:country_code":"SY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":166227,
+    "gn:latitude":35.41465,
+    "gn:longitude":36.39085,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qal\u2018at al Ma\u1e11\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u0645\u0636\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Kalat el Mudik",
+        "Qal\u2018at al Mu\u1e11\u012bq",
+        "Kalaat Moudik",
+        "Qal\u2018at el Mudiq",
+        "Kal\u2019at al Madik",
+        "Qal\u2018at el Madhiq",
+        "Qalaat el Moudiq",
+        "Qal\u2018at al Ma\u1e11\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166227
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a99b8930ed74a5322dae68face1f50b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1276435799,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276435799,
+    "wof:lastmodified":1537701847,
+    "wof:name":"Qal`at al Madiq",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39085,
+    35.41465,
+    36.39085,
+    35.41465
+],
+  "geometry": {"coordinates":[36.39085,35.41465],"type":"Point"}
+}

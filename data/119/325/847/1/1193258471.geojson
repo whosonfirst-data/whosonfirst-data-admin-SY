@@ -1,0 +1,74 @@
+{
+  "id": 1193258471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6576,35.82203,36.6576,35.82203",
+    "geom:latitude":35.82203,
+    "geom:longitude":36.6576,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arr Tab`ayn",
+    "gn:country_code":"SY",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167585,
+    "gn:latitude":35.82203,
+    "gn:longitude":36.6576,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ma\u2018arr \u0162ab\u2018ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631 \u0637\u0628\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maar Taba\u00efne",
+        "Ma\u2018arr \u0162ab\u2018ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167585
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"442df63f731a11283bd8c808c3232543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1193258471,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193258471,
+    "wof:lastmodified":1537701924,
+    "wof:name":"Ma`arr Tab`ayn",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6576,
+    35.82203,
+    36.6576,
+    35.82203
+],
+  "geometry": {"coordinates":[36.6576,35.82203],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310389719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13056,35.98056,37.13056,35.98056",
+    "geom:latitude":35.98056,
+    "geom:longitude":37.13056,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hamah",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12975,
+    "gn:latitude":35.98056,
+    "gn:longitude":37.13056,
+    "gn:modification_date":"1998-06-23",
+    "gn:name":"\u1e28am\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12975
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3f4b7a3cc1fc5fcc003b13172c16a782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310389719,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310389719,
+    "wof:lastmodified":1537080869,
+    "wof:name":"Hamah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13056,
+    35.98056,
+    37.13056,
+    35.98056
+],
+  "geometry": {"coordinates":[37.13056,35.98056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293379073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66788,35.31789,36.66788,35.31789",
+    "geom:latitude":35.31789,
+    "geom:longitude":36.66788,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ma`arrkabah",
+    "gn:country_code":"SY",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556210,
+    "gn:latitude":35.31789,
+    "gn:longitude":36.66788,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ma\u2018arrkabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0643\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018arrkabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556210
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"379dc3509dabc4721ff3ab9ca8ba4426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1293379073,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293379073,
+    "wof:lastmodified":1537702639,
+    "wof:name":"Ma`arrkabah",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66788,
+    35.31789000000001,
+    36.66788,
+    35.31789000000001
+],
+  "geometry": {"coordinates":[36.66788,35.31789000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1192995449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57137,35.55783,36.57137,35.55783",
+    "geom:latitude":35.55783,
+    "geom:longitude":36.57137,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arr Zaytah",
+    "gn:country_code":"SY",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167586,
+    "gn:latitude":35.55783,
+    "gn:longitude":36.57137,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ma\u2018arr Zaytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631 \u0632\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maar Za\u00efta",
+        "Maar Ziata",
+        "Ma\u2018arr Zaytah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167586
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c80317acd9f416f8c23d87d48bd54c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1192995449,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1192995449,
+    "wof:lastmodified":1537701924,
+    "wof:name":"Ma`arr Zaytah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57137,
+    35.55783,
+    36.57137,
+    35.55783
+],
+  "geometry": {"coordinates":[36.57137,35.55783],"type":"Point"}
+}

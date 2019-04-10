@@ -1,0 +1,77 @@
+{
+  "id": 1292981993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07694,34.26971,37.07694,34.26971",
+    "geom:latitude":34.26971,
+    "geom:longitude":37.07694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hawarini",
+    "gn:country_code":"SY",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169762,
+    "gn:latitude":34.26971,
+    "gn:longitude":37.07694,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Hawarini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Haouarin",
+        "Hauw\u0101r\u012bn",
+        "Hao\u00fb\u00e2r\u00eene",
+        "\u1e28aw\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169762,
+        "wk:page":"Huwwarin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"30c608e66ed87d2a8147a8fa3965a261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1292981993,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1292981993,
+    "wof:lastmodified":1537702086,
+    "wof:name":"Hawarini",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07694,
+    34.26971,
+    37.07694,
+    34.26971
+],
+  "geometry": {"coordinates":[37.07694,34.26971],"type":"Point"}
+}

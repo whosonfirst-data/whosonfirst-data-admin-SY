@@ -1,0 +1,74 @@
+{
+  "id": 1242991131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39522,35.14337,37.39522,35.14337",
+    "geom:latitude":35.14337,
+    "geom:longitude":37.39522,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sulaytiyah",
+    "gn:country_code":"SY",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420124,
+    "gn:latitude":35.14337,
+    "gn:longitude":37.39522,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u015eulayt\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0644\u064a\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015ealb\u012byah",
+        "\u015eulayt\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420124
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dc8c12f8e7ae210adf9adb222fc26a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242991131,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242991131,
+    "wof:lastmodified":1537702438,
+    "wof:name":"Sulaytiyah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39522,
+    35.14337,
+    37.39522,
+    35.14337
+],
+  "geometry": {"coordinates":[37.39522,35.14337],"type":"Point"}
+}

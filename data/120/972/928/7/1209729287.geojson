@@ -1,0 +1,77 @@
+{
+  "id": 1209729287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.72769,35.71396,40.72769,35.71396",
+    "geom:latitude":35.71396,
+    "geom:longitude":40.72769,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Janna",
+    "gn:country_code":"SY",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169052,
+    "gn:latitude":35.71396,
+    "gn:longitude":40.72769,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Jann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "J\u00eena",
+        "J\u012bnah",
+        "Al Jann\u0101",
+        "Al Jannah",
+        "Al Jin\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169052
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4c686f4e03ef78ba59fbef1c9dbe6521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1209729287,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209729287,
+    "wof:lastmodified":1537702042,
+    "wof:name":"Al Janna",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.72769,
+    35.71396,
+    40.72769,
+    35.71396
+],
+  "geometry": {"coordinates":[40.72769,35.71396],"type":"Point"}
+}

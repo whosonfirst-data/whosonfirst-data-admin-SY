@@ -1,0 +1,74 @@
+{
+  "id": 1327033109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08179,35.85357,36.08179,35.85357",
+    "geom:latitude":35.85357,
+    "geom:longitude":36.08179,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qalaz Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166174,
+    "gn:latitude":35.85357,
+    "gn:longitude":36.08179,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qalaz Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0632 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qalaz Faouq\u00e2ni",
+        "Qalaz Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166174
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fbd93a665e5f34c3f26905b169029698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1327033109,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327033109,
+    "wof:lastmodified":1537701845,
+    "wof:name":"Qalaz Fawqani",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08179000000001,
+    35.85357,
+    36.08179000000001,
+    35.85357
+],
+  "geometry": {"coordinates":[36.08179000000001,35.85357],"type":"Point"}
+}

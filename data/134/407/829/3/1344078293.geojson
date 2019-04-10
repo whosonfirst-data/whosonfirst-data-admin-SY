@@ -1,0 +1,74 @@
+{
+  "id": 1344078293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.945,34.49472,40.945,34.49472",
+    "geom:latitude":34.49472,
+    "geom:longitude":40.945,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"As Safafinah",
+    "gn:country_code":"SY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384695,
+    "gn:latitude":34.49472,
+    "gn:longitude":40.945,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"A\u015f \u015eaf\u0101finah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627\u0641\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaf\u0101qinah",
+        "A\u015f \u015eaf\u0101finah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384695
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"835eaed91364287be55373e994e6ded9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1344078293,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1344078293,
+    "wof:lastmodified":1537702423,
+    "wof:name":"As Safafinah",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.945,
+    34.49472,
+    40.945,
+    34.49472
+],
+  "geometry": {"coordinates":[40.945,34.49472],"type":"Point"}
+}

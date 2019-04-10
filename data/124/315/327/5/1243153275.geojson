@@ -1,0 +1,82 @@
+{
+  "id": 1243153275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28559,34.78769,36.28559,34.78769",
+    "geom:latitude":34.78769,
+    "geom:longitude":36.28559,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"An Nasirah",
+    "gn:country_code":"SY",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173606,
+    "gn:latitude":34.78769,
+    "gn:longitude":36.28559,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"An N\u0101\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u0629",
+        "\u0646\u0627\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khra\u00efb\u00e9",
+        "Kheraibi",
+        "Khuraybah",
+        "Al Khuraybah",
+        "An N\u0101\u015firah",
+        "N\u0101\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173606
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"64816dab67b29cc622eeffa18c000b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1243153275,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243153275,
+    "wof:lastmodified":1537702349,
+    "wof:name":"An Nasirah",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28559,
+    34.78769,
+    36.28559,
+    34.78769
+],
+  "geometry": {"coordinates":[36.28559,34.78769],"type":"Point"}
+}

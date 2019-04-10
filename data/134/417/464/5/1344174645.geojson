@@ -1,0 +1,77 @@
+{
+  "id": 1344174645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76259,36.79486,40.76259,36.79486",
+    "geom:latitude":36.79486,
+    "geom:longitude":40.76259,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Siha Mabshiyah",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164129,
+    "gn:latitude":36.79486,
+    "gn:longitude":40.76259,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u012b\u1e29\u0101 Mabsh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d\u0627 \u0645\u0628\u0634\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "S\u012b\u1e29ah Maysh\u012byah"
+    ],
+    "name:und_x_variant":[
+        "S\u00eeha Me\u00efch\u00eey\u00e9",
+        "S\u012b\u1e29\u0101 Mabsh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164129
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7570b04aa9751f227264f4b824c8e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1344174645,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1344174645,
+    "wof:lastmodified":1537701717,
+    "wof:name":"Siha Mabshiyah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76259,
+    36.79486,
+    40.76259,
+    36.79486
+],
+  "geometry": {"coordinates":[40.76259,36.79486],"type":"Point"}
+}

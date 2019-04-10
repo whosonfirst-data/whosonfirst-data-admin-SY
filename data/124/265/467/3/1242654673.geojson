@@ -1,0 +1,79 @@
+{
+  "id": 1242654673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3148,35.92211,36.3148,35.92211",
+    "geom:latitude":35.92211,
+    "geom:longitude":36.3148,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Ya`qubiyah",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162610,
+    "gn:latitude":35.92211,
+    "gn:longitude":36.3148,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Ya\u2018q\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0639\u0642\u0648\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u064a\u0639\u0642\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yaaqouh\u00eey\u00e9",
+        "Yaaqo\u00fbb\u00eey\u00e9",
+        "Ya\u2018q\u016bb\u012byah",
+        "Al Ya\u2018q\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162610
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4aed9c5d48a9159eec7faf0c9ab7d6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1242654673,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242654673,
+    "wof:lastmodified":1537701602,
+    "wof:name":"Al Ya`qubiyah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3148,
+    35.92211,
+    36.3148,
+    35.92211
+],
+  "geometry": {"coordinates":[36.3148,35.92211],"type":"Point"}
+}

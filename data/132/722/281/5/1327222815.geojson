@@ -1,0 +1,73 @@
+{
+  "id": 1327222815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49219,35.00574,37.49219,35.00574",
+    "geom:latitude":35.00574,
+    "geom:longitude":37.49219,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Huraysha",
+    "gn:country_code":"SY",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340990,
+    "gn:latitude":35.00574,
+    "gn:longitude":37.49219,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Huraysh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u064a\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Huraysh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340990
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27f7029615c7cff5089d0c6207b98c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1327222815,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327222815,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Al Huraysha",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49219,
+    35.00574,
+    37.49219,
+    35.00574
+],
+  "geometry": {"coordinates":[37.49219,35.00574],"type":"Point"}
+}

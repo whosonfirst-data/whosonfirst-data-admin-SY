@@ -1,0 +1,76 @@
+{
+  "id": 1276140061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65854,35.22887,36.65854,35.22887",
+    "geom:latitude":35.22887,
+    "geom:longitude":36.65854,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zawr an Nasiriyah",
+    "gn:country_code":"SY",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162486,
+    "gn:latitude":35.22887,
+    "gn:longitude":36.65854,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zawr an N\u0101\u015fir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zor enn Nasr\u00eey\u00e9",
+        "Zour en Nasry\u00e9",
+        "Zawr an N\u0101\u015fir\u012byah",
+        "Zor enn N\u00e2sriy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162486
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c98ac2a6d2113785d8260e607111c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276140061,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276140061,
+    "wof:lastmodified":1537701594,
+    "wof:name":"Zawr an Nasiriyah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65854,
+    35.22887,
+    36.65854,
+    35.22887
+],
+  "geometry": {"coordinates":[36.65854,35.22887],"type":"Point"}
+}

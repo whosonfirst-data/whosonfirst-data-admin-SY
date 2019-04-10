@@ -1,0 +1,76 @@
+{
+  "id": 1310201115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18393,36.631,37.18393,36.631",
+    "geom:latitude":36.631,
+    "geom:longitude":37.18393,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Ghan",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168697,
+    "gn:latitude":36.631,
+    "gn:longitude":37.18393,
+    "gn:modification_date":"2016-12-11",
+    "gn:name":"Kafr Gh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafer Rh\u00e2ne",
+        "Kefr G\u00e2ni",
+        "Kafr Gh\u0101n",
+        "Kafrghan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168697
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d6743def81e4b0a7460515dea559703e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1310201115,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310201115,
+    "wof:lastmodified":1537702014,
+    "wof:name":"Kafr Ghan",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18393,
+    36.631,
+    37.18393,
+    36.631
+],
+  "geometry": {"coordinates":[37.18393,36.631],"type":"Point"}
+}

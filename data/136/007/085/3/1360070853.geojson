@@ -1,0 +1,81 @@
+{
+  "id": 1360070853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55815,33.99962,36.55815,33.99962",
+    "geom:latitude":33.99962,
+    "geom:longitude":36.55815,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ra's al Ma`arrah",
+    "gn:country_code":"SY",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167614,
+    "gn:latitude":33.99962,
+    "gn:longitude":36.55815,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Ra\u2019s al Ma\u2018arrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0629 \u0627\u0644\u0628\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0645\u0639\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maarret el B\u00e2ch",
+        "Ma\u2018arrat al B\u0101shkurd\u012b",
+        "Ma\u2018arrat B\u0101sh",
+        "Ma\u2018arret el B\u0101shkurdi",
+        "Ma\u2018arrat al B\u0101sh",
+        "Ra\u2019s al Ma\u2018arrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167614
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6efd28196cfb6e50bf4db3fde44b824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1360070853,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1360070853,
+    "wof:lastmodified":1537701927,
+    "wof:name":"Ra's al Ma`arrah",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55815,
+    33.99962,
+    36.55815,
+    33.99962
+],
+  "geometry": {"coordinates":[36.55815,33.99962],"type":"Point"}
+}

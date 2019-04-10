@@ -1,0 +1,77 @@
+{
+  "id": 1327043093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08409,35.22976,36.08409,35.22976",
+    "geom:latitude":35.22976,
+    "geom:longitude":36.08409,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bayt Zaran",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171521,
+    "gn:latitude":35.22976,
+    "gn:longitude":36.08409,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt Zaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0632\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Zarane",
+        "Be\u00eft Zahr\u00e2ne",
+        "Bayt Zahr\u0101n",
+        "Bayt Zaran",
+        "Bayt Wazan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171521
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4002a51c9de2681da7d377821672fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1327043093,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327043093,
+    "wof:lastmodified":1537702204,
+    "wof:name":"Bayt Zaran",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08409,
+    35.22976,
+    36.08409,
+    35.22976
+],
+  "geometry": {"coordinates":[36.08409,35.22976],"type":"Point"}
+}

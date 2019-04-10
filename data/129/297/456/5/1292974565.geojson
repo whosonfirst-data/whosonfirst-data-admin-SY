@@ -1,0 +1,76 @@
+{
+  "id": 1292974565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96912,34.6575,35.96912,34.6575",
+    "geom:latitude":34.6575,
+    "geom:longitude":35.96912,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kharabah",
+    "gn:country_code":"SY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173633,
+    "gn:latitude":34.6575,
+    "gn:longitude":35.96912,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Khar\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khr\u00e2be",
+        "Arab el Kharabe",
+        "Kharabeh",
+        "\u2018Arab al Khar\u0101bah",
+        "Al Khar\u0101bah",
+        "Khar\u0101bah",
+        "\u062e\u0631\u0627\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173633
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2e18553e584ffc8f982806eef6769c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1292974565,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1292974565,
+    "wof:lastmodified":1537702350,
+    "wof:name":"Kharabah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96912000000001,
+    34.6575,
+    35.96912000000001,
+    34.6575
+],
+  "geometry": {"coordinates":[35.96912000000001,34.6575],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209101937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7422,36.73913,37.7422,36.73913",
+    "geom:latitude":36.73913,
+    "geom:longitude":37.7422,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qundarah",
+    "gn:country_code":"SY",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066584,
+    "gn:latitude":36.73913,
+    "gn:longitude":37.7422,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Qundarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u062f\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0646\u062f\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u016bndarah",
+        "Qundarah",
+        "Qundar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066584
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8be3ef5f8a2b6721bb0523a7e6b196c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209101937
+        }
+    ],
+    "wof:id":1209101937,
+    "wof:lastmodified":1537702480,
+    "wof:name":"Qundarah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7422,
+    36.73913,
+    37.7422,
+    36.73913
+],
+  "geometry": {"coordinates":[37.7422,36.73913],"type":"Point"}
+}

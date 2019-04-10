@@ -1,0 +1,64 @@
+{
+  "id": 1209595613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40833,35.84583,36.40833,35.84583",
+    "geom:latitude":35.84583,
+    "geom:longitude":36.40833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tallu",
+    "gn:country_code":"SY",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4651,
+    "gn:latitude":35.84583,
+    "gn:longitude":36.40833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162all\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162all\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4651
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5064b9ec9680bb29d046354ef569b5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209595613
+        }
+    ],
+    "wof:id":1209595613,
+    "wof:lastmodified":1537701549,
+    "wof:name":"Tallu",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40833,
+    35.84583,
+    36.40833,
+    35.84583
+],
+  "geometry": {"coordinates":[36.40833,35.84583],"type":"Point"}
+}

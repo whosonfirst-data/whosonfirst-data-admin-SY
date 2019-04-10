@@ -1,0 +1,74 @@
+{
+  "id": 1260069829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53351,36.49071,38.53351,36.49071",
+    "geom:latitude":36.49071,
+    "geom:longitude":38.53351,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shawkhur",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9119,
+    "gn:latitude":36.49071,
+    "gn:longitude":38.53351,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Shawkh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Shawkh\u016br",
+        "Sh\u016bkh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9119
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fdc0904c6a0d3f7c28c3c6bb154e3de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1260069829,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260069829,
+    "wof:lastmodified":1537701564,
+    "wof:name":"Shawkhur",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53351,
+    36.49071,
+    38.53351,
+    36.49071
+],
+  "geometry": {"coordinates":[38.53351,36.49071],"type":"Point"}
+}

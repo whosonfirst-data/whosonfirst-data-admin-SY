@@ -1,0 +1,67 @@
+{
+  "id": 1276980625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56742,35.9227,38.56742,35.9227",
+    "geom:latitude":35.9227,
+    "geom:longitude":38.56742,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Little Suwaydiya",
+    "gn:country_code":"SY",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427236,
+    "gn:latitude":35.9227,
+    "gn:longitude":38.56742,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Little Suwaydiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427236
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9d59ce3d5b939d6897e78f5d35ffda94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1276980625,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276980625,
+    "wof:lastmodified":1536906430,
+    "wof:name":"Little Suwaydiya",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56742,
+    35.9227,
+    38.56742,
+    35.9227
+],
+  "geometry": {"coordinates":[38.56742,35.9227],"type":"Point"}
+}

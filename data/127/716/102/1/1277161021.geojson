@@ -1,0 +1,79 @@
+{
+  "id": 1277161021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50395,35.27181,36.50395,35.27181",
+    "geom:latitude":35.27181,
+    "geom:longitude":36.50395,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tremseh",
+    "gn:country_code":"SY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9847679,
+    "gn:latitude":35.27181,
+    "gn:longitude":36.50395,
+    "gn:modification_date":"2014-11-14",
+    "gn:name":"Tremseh",
+    "gn:population":6927,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Treimseh",
+        "Al Treimseh",
+        "al-Turaymisah",
+        "Treimsa",
+        "Taramsah",
+        "Taramseh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9847679,
+        "wk:page":"Tremseh"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"57759078eb60a23d7680bf2d715b10a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1277161021,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1277161021,
+    "wof:lastmodified":1537702591,
+    "wof:name":"Tremseh",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:population":6927,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50395,
+    35.27180999999999,
+    36.50395,
+    35.27180999999999
+],
+  "geometry": {"coordinates":[36.50395,35.27180999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243539057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09376,35.90853,38.09376,35.90853",
+    "geom:latitude":35.90853,
+    "geom:longitude":38.09376,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khirbat Huwaydat Umm Hijarah",
+    "gn:country_code":"SY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893,
+    "gn:latitude":35.90853,
+    "gn:longitude":38.09376,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khirbat Huwaydat Umm \u1e28ij\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0647\u0648\u064a\u062f\u0629 \u0623\u0645 \u062d\u062c\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Huwaydat Umm \u1e28ij\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"724de7396d95d8266ef5d6b41cd1673b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243539057,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243539057,
+    "wof:lastmodified":1537701560,
+    "wof:name":"Khirbat Huwaydat Umm Hijarah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09376,
+    35.90853,
+    38.09376,
+    35.90853
+],
+  "geometry": {"coordinates":[38.09376,35.90853],"type":"Point"}
+}

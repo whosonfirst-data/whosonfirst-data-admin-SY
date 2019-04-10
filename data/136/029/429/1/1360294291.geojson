@@ -1,0 +1,79 @@
+{
+  "id": 1360294291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99867,35.27893,35.99867,35.27893",
+    "geom:latitude":35.27893,
+    "geom:longitude":35.99867,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Qasbah",
+    "gn:country_code":"SY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169875,
+    "gn:latitude":35.27893,
+    "gn:longitude":35.99867,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Al Qa\u015fbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0641 \u0639\u0628\u0651\u0648\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0635\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Harf Aabboud",
+        "Harf Abo\u00fbd",
+        "\u1e28arf \u2018Abb\u016bd",
+        "Al Qa\u015fbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169875
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"105d476df35d01b595efccba3b06f746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1360294291,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1360294291,
+    "wof:lastmodified":1537702093,
+    "wof:name":"Al Qasbah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99867000000001,
+    35.27892999999999,
+    35.99867000000001,
+    35.27892999999999
+],
+  "geometry": {"coordinates":[35.99867000000001,35.27892999999999],"type":"Point"}
+}

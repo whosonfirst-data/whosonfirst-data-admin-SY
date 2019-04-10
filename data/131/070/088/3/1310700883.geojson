@@ -1,0 +1,79 @@
+{
+  "id": 1310700883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63822,32.77258,36.63822,32.77258",
+    "geom:latitude":32.77258,
+    "geom:longitude":36.63822,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"172409.0",
+    "gn:asciiname":"Maf`alah",
+    "gn:country_code":"SY",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167531,
+    "gn:latitude":32.77258,
+    "gn:longitude":36.63822,
+    "gn:modification_date":"2014-02-01",
+    "gn:name":"Maf\u2018alah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0641\u0639\u0644\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0444\u044a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mafaal\u00e9",
+        "Maf\u2018alih",
+        "Maf\u2018alah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167531
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"752f2e08a6fabb7c4df04c91482631ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1310700883,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1310700883,
+    "wof:lastmodified":1537701921,
+    "wof:name":"Maf`alah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63822,
+    32.77258,
+    36.63822,
+    32.77258
+],
+  "geometry": {"coordinates":[36.63822,32.77258],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209011989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72076,32.94715,35.72076,32.94715",
+    "geom:latitude":32.94715,
+    "geom:longitude":35.72076,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"At Tayyibah",
+    "gn:country_code":"SY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":172331,
+    "gn:latitude":32.94715,
+    "gn:longitude":35.72076,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"A\u0163 \u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Et Taib\u00e9",
+        "Ta\u00efb\u00e9",
+        "Ett Ta\u00efb\u00e9",
+        "Ta\u00efye",
+        "A\u0163 \u0162ayyibah",
+        "\u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172331
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8659f3f56f74b4f1f07544182d0eba92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209011989
+        }
+    ],
+    "wof:id":1209011989,
+    "wof:lastmodified":1537702266,
+    "wof:name":"At Tayyibah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72076,
+    32.94715,
+    35.72076,
+    32.94715
+],
+  "geometry": {"coordinates":[35.72076,32.94715],"type":"Point"}
+}

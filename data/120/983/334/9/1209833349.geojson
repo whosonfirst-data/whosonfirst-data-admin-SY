@@ -1,0 +1,77 @@
+{
+  "id": 1209833349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.03595,36.85272,41.03595,36.85272",
+    "geom:latitude":36.85272,
+    "geom:longitude":41.03595,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Qawli",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167981,
+    "gn:latitude":36.85272,
+    "gn:longitude":41.03595,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat Qawl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0642\u0648\u0644\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat Qawl\u012b"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Q\u00eal\u00e9",
+        "Khirbat Qawlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167981
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"986426a5871232f06dbe85b47fbe20c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1209833349,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1209833349,
+    "wof:lastmodified":1537701959,
+    "wof:name":"Khirbat Qawli",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.03595,
+    36.85272,
+    41.03595,
+    36.85272
+],
+  "geometry": {"coordinates":[41.03595,36.85272],"type":"Point"}
+}

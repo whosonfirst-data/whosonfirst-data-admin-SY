@@ -1,0 +1,78 @@
+{
+  "id": 1226028265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1416,34.80172,36.1416,34.80172",
+    "geom:latitude":34.80172,
+    "geom:longitude":36.1416,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sahyun",
+    "gn:country_code":"SY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051601,
+    "gn:latitude":34.80172,
+    "gn:longitude":36.1416,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u015eahy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0647\u064a\u0648\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0647\u064a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015eahy\u016bt",
+        "\u015eahy\u016bn",
+        "Sahyo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051601
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"809ca6a790f9887fa78d3650b2892110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1226028265,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226028265,
+    "wof:lastmodified":1537702479,
+    "wof:name":"Sahyun",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1416,
+    34.80172,
+    36.1416,
+    34.80172
+],
+  "geometry": {"coordinates":[36.1416,34.80172],"type":"Point"}
+}

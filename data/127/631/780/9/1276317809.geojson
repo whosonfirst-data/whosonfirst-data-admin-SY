@@ -1,0 +1,73 @@
+{
+  "id": 1276317809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66197,35.71945,37.66197,35.71945",
+    "geom:latitude":35.71945,
+    "geom:longitude":37.66197,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jintasiyat al `Abd",
+    "gn:country_code":"SY",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341931,
+    "gn:latitude":35.71945,
+    "gn:longitude":37.66197,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jint\u0101\u015f\u012byat al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u062a\u0627\u0635\u064a\u0629 \u0627\u0644\u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jint\u0101\u015f\u012byat al \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341931
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd3ddd019eb1c3855d4e004762d3690c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1276317809,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276317809,
+    "wof:lastmodified":1537702542,
+    "wof:name":"Jintasiyat al `Abd",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66197,
+    35.71945,
+    37.66197,
+    35.71945
+],
+  "geometry": {"coordinates":[37.66197,35.71945],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1293479499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58334,36.54397,37.58334,36.54397",
+    "geom:latitude":36.54397,
+    "geom:longitude":37.58334,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Ghattasah",
+    "gn:country_code":"SY",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163836,
+    "gn:latitude":36.54397,
+    "gn:longitude":37.58334,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Gha\u0163\u0163\u0101sah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0629 \u062c\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0637\u0627\u0633\u0629",
+        "\u062a\u0628\u0627 \u062c\u0643"
+    ],
+    "name:und_x_variant":[
+        "T\u00e9p\u00e9djik",
+        "Tabajiq",
+        "Tabbat Jik",
+        "Al Gha\u0163\u0163\u0101sah",
+        "Tubah Jik",
+        "Tabbah Jik",
+        "Tab\u0101 Jik",
+        "Tabb\u0101 Jik",
+        "Tabah Jik",
+        "Tabat Jik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163836
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a8a45f6726d7c08f1bc682b38b3a60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293479499,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293479499,
+    "wof:lastmodified":1537701698,
+    "wof:name":"Al Ghattasah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58334,
+    36.54397,
+    37.58334,
+    36.54397
+],
+  "geometry": {"coordinates":[37.58334,36.54397],"type":"Point"}
+}

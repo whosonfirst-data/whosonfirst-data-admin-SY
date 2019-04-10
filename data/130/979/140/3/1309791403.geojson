@@ -1,0 +1,83 @@
+{
+  "id": 1309791403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48435,33.92333,36.48435,33.92333",
+    "geom:latitude":33.92333,
+    "geom:longitude":36.48435,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Kubri",
+    "gn:country_code":"SY",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173669,
+    "gn:latitude":33.92333,
+    "gn:longitude":36.48435,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al Kubr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016bbr\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0628\u0631\u064a",
+        "\u0627\u0644\u062c\u0633\u0631",
+        "\u0627\u0644\u0643\u0628\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "K\u016bbr\u012b",
+        "Kabri",
+        "Al Kabr\u012b",
+        "Al Jisr",
+        "Al Kubr\u012b",
+        "Kubr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173669
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"afd2f43fccfbd4a451a614b5c840b0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1309791403,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309791403,
+    "wof:lastmodified":1537702353,
+    "wof:name":"Al Kubri",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48435,
+    33.92333,
+    36.48435,
+    33.92333
+],
+  "geometry": {"coordinates":[36.48435,33.92333],"type":"Point"}
+}

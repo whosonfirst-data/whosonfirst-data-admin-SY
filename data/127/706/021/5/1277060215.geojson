@@ -1,0 +1,73 @@
+{
+  "id": 1277060215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30383,35.44493,36.30383,35.44493",
+    "geom:latitude":35.44493,
+    "geom:longitude":36.30383,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Qahirah",
+    "gn:country_code":"SY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556235,
+    "gn:latitude":35.44493,
+    "gn:longitude":36.30383,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Q\u0101hirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0647\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u0101hirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556235
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"da7f7fe9cfc5e8c806f9a6f9d3456302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1277060215,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1277060215,
+    "wof:lastmodified":1537702640,
+    "wof:name":"Al Qahirah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30383,
+    35.44493,
+    36.30383,
+    35.44493
+],
+  "geometry": {"coordinates":[36.30383,35.44493],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226434157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75398,34.71832,40.75398,34.71832",
+    "geom:latitude":34.71832,
+    "geom:longitude":40.75398,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Qaraqol",
+    "gn:country_code":"SY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172483,
+    "gn:latitude":34.71832,
+    "gn:longitude":40.75398,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Qaraqol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "S\u00e2lh\u00eey\u00e9",
+        "Es S\u00e2lh\u00eey\u00e9",
+        "\u015e\u0101li\u1e29\u012byah",
+        "A\u015f \u015e\u0101li\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172483
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e31bdaab3a6ecb29ed70d5da34122e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1226434157,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226434157,
+    "wof:lastmodified":1537702278,
+    "wof:name":"Qaraqol",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75398,
+    34.71832,
+    40.75398,
+    34.71832
+],
+  "geometry": {"coordinates":[40.75398,34.71832],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326801269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97199,35.18087,35.97199,35.18087",
+    "geom:latitude":35.18087,
+    "geom:longitude":35.97199,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ba`amra'il",
+    "gn:country_code":"SY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171853,
+    "gn:latitude":35.18087,
+    "gn:longitude":35.97199,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ba\u2018amr\u0101\u2019\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0645\u0631\u0627\u0626\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Baamra\u00efl",
+        "B\u2018amr\u0101\u2019\u012bl",
+        "Ba\u2018amr\u0101\u2019\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171853
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"acf9089655745a9dd4d6ff3a522b3ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1326801269,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1326801269,
+    "wof:lastmodified":1537702229,
+    "wof:name":"Ba`amra'il",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97199000000001,
+    35.18087,
+    35.97199000000001,
+    35.18087
+],
+  "geometry": {"coordinates":[35.97199000000001,35.18087],"type":"Point"}
+}

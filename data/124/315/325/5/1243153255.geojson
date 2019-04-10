@@ -1,0 +1,78 @@
+{
+  "id": 1243153255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09842,34.68677,37.09842,34.68677",
+    "geom:latitude":34.68677,
+    "geom:longitude":37.09842,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Samuk",
+    "gn:country_code":"SY",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162845,
+    "gn:latitude":34.68677,
+    "gn:longitude":37.09842,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Umm S\u0101m\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm S\u0101m\u016bk"
+    ],
+    "name:ara_x_variant":[
+        "Umm S\u0101m\u016bq",
+        "\u0623\u0645 \u0633\u0627\u0645\u0648\u0642",
+        "\u0623\u0645 \u0633\u0627\u0645\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Oum S\u00e2mo\u00fbk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162845
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d196b02472a8a40dffd7bc7d5e4aa08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1243153255,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243153255,
+    "wof:lastmodified":1537701619,
+    "wof:name":"Umm Samuk",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09842,
+    34.68677,
+    37.09842,
+    34.68677
+],
+  "geometry": {"coordinates":[37.09842,34.68677],"type":"Point"}
+}

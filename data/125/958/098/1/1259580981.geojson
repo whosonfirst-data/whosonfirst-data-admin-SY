@@ -1,0 +1,73 @@
+{
+  "id": 1259580981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37529,33.77361,36.37529,33.77361",
+    "geom:latitude":33.77361,
+    "geom:longitude":36.37529,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Qabbadah",
+    "gn:country_code":"SY",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11260774,
+    "gn:latitude":33.77361,
+    "gn:longitude":36.37529,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al Qabb\u0101\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0627\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qabb\u0101\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11260774
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"60c175067ab58eac1be0698e17bbffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1259580981,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1259580981,
+    "wof:lastmodified":1537702612,
+    "wof:name":"Al Qabbadah",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37529,
+    33.77361,
+    36.37529,
+    33.77361
+],
+  "geometry": {"coordinates":[36.37529,33.77361],"type":"Point"}
+}

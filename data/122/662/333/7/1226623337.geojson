@@ -1,0 +1,84 @@
+{
+  "id": 1226623337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67693,35.6483,36.67693,35.6483",
+    "geom:latitude":35.6483,
+    "geom:longitude":36.67693,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ma`arrat an Nu`man",
+    "gn:country_code":"SY",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":167611,
+    "gn:latitude":35.6483,
+    "gn:longitude":36.67693,
+    "gn:modification_date":"2017-12-12",
+    "gn:name":"Ma\u2018arrat an Nu\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maret en Na\u2018man",
+        "Ma\u2018arret en Nu\u2018m\u0101n",
+        "Mo\u2019aret-Nu\u2019man",
+        "Maaret el Noman",
+        "Maarret enn Naam\u00e2ne",
+        "Ma\u2018arat an Na\u2018m\u0101n",
+        "Ma\u2018arrat an Nu\u2018m\u0101n",
+        "Maarrat al-Nu'man",
+        "Maarat al-Numaan",
+        "al-Ma\u02bfarra",
+        "Ma\u02bfarrat al-Nu\u02bfm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167611,
+        "wk:page":"Maarrat_al-Nu%27man"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa13b2072cc2388654bfe90312ead358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1226623337,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1226623337,
+    "wof:lastmodified":1537701927,
+    "wof:name":"Ma`arrat an Nu`man",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67693,
+    35.6483,
+    36.67693,
+    35.6483
+],
+  "geometry": {"coordinates":[36.67693,35.6483],"type":"Point"}
+}

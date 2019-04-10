@@ -1,0 +1,75 @@
+{
+  "id": 1309690565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68123,34.87385,36.68123,34.87385",
+    "geom:latitude":34.87385,
+    "geom:longitude":36.68123,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat as Sabaliyah",
+    "gn:country_code":"SY",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164680,
+    "gn:latitude":34.87385,
+    "gn:longitude":36.68123,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khirbat as Sabal\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0628\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat as Sbalhi",
+        "Khirbat as Sabal\u012byah",
+        "Khirbat as Sibal\u012bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164680
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a19f38ada573afbc3d07f255b25bae21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1309690565,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309690565,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Khirbat as Sabaliyah",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68123,
+    34.87385,
+    36.68123,
+    34.87385
+],
+  "geometry": {"coordinates":[36.68123,34.87385],"type":"Point"}
+}

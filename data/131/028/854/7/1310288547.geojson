@@ -1,0 +1,71 @@
+{
+  "id": 1310288547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,35.2,35.96667,35.2",
+    "geom:latitude":35.2,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"At Tawilah",
+    "gn:country_code":"SY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172336,
+    "gn:latitude":35.2,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"A\u0163 \u0162aw\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taouil\u00e9",
+        "A\u0163 \u0162aw\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172336
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f42a201664c0dddc87112d860866c12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310288547,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310288547,
+    "wof:lastmodified":1537702267,
+    "wof:name":"At Tawilah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    35.2,
+    35.96667,
+    35.2
+],
+  "geometry": {"coordinates":[35.96667,35.2],"type":"Point"}
+}

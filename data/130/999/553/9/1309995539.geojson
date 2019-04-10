@@ -1,0 +1,73 @@
+{
+  "id": 1309995539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39914,35.63774,37.39914,35.63774",
+    "geom:latitude":35.63774,
+    "geom:longitude":37.39914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Fah",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340127,
+    "gn:latitude":35.63774,
+    "gn:longitude":37.39914,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Tall F\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0641\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Tall F\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340127
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"32fe17b8069ad1f662aabb5b88543413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1309995539,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309995539,
+    "wof:lastmodified":1537702535,
+    "wof:name":"Tall Fah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39914,
+    35.63774,
+    37.39914,
+    35.63774
+],
+  "geometry": {"coordinates":[37.39914,35.63774],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193255561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56636,35.93575,36.56636,35.93575",
+    "geom:latitude":35.93575,
+    "geom:longitude":36.56636,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"`Ayn Martin",
+    "gn:country_code":"SY",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313221,
+    "gn:latitude":35.93575,
+    "gn:longitude":36.56636,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"\u2018Ayn Mart\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0645\u0631\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Mart\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313221
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b985c60061b4d1341db0a19610e1107b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1193255561,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1193255561,
+    "wof:lastmodified":1537702524,
+    "wof:name":"`Ayn Martin",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56636,
+    35.93575,
+    36.56636,
+    35.93575
+],
+  "geometry": {"coordinates":[36.56636,35.93575],"type":"Point"}
+}

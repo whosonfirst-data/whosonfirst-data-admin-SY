@@ -1,0 +1,67 @@
+{
+  "id": 1209603305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71868,34.5818,36.71868,34.5818",
+    "geom:latitude":34.5818,
+    "geom:longitude":36.71868,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dahiyat al Majd",
+    "gn:country_code":"SY",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441082,
+    "gn:latitude":34.5818,
+    "gn:longitude":36.71868,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"\u1e10\u0101\u1e29iyat al Majd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0645\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e10\u0101\u1e29iyat al Majd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441082
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db40e14a63dfd083576b1cf5184046f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209603305
+        }
+    ],
+    "wof:id":1209603305,
+    "wof:lastmodified":1537702621,
+    "wof:name":"Dahiyat al Majd",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71868,
+    34.5818,
+    36.71868,
+    34.5818
+],
+  "geometry": {"coordinates":[36.71868,34.5818],"type":"Point"}
+}

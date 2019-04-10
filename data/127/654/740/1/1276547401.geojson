@@ -1,0 +1,76 @@
+{
+  "id": 1276547401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23369,35.97568,38.23369,35.97568",
+    "geom:latitude":35.97568,
+    "geom:longitude":38.23369,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hawayij Saghir",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":169766,
+    "gn:latitude":35.97568,
+    "gn:longitude":38.23369,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28aw\u0101yij \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u064a\u062c \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Haou\u00e2ej S\u00e9rh\u00eer\u00e9",
+        "Haou\u00e2yej S\u00e9rh\u00eer",
+        "\u1e28aw\u0101\u2019ij a\u015f \u015eagh\u012brah",
+        "\u1e28aw\u0101yij \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169766
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cc73b92da38c8baed37b197987fd5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1276547401,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1276547401,
+    "wof:lastmodified":1537702086,
+    "wof:name":"Hawayij Saghir",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23369,
+    35.97568,
+    38.23369,
+    35.97568
+],
+  "geometry": {"coordinates":[38.23369,35.97568],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209402911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49318,34.51195,36.49318,34.51195",
+    "geom:latitude":34.51195,
+    "geom:longitude":36.49318,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shi`ab ash Sharqiyah",
+    "gn:country_code":"SY",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427381,
+    "gn:latitude":34.51195,
+    "gn:longitude":36.49318,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Shi\u2018\u0101b ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0627\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shi\u2018\u0101b ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427381
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0d271dc41d40f1dbbc3a2958e7b22899",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209402911
+        }
+    ],
+    "wof:id":1209402911,
+    "wof:lastmodified":1537702568,
+    "wof:name":"Shi`ab ash Sharqiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49318,
+    34.51195,
+    36.49318,
+    34.51195
+],
+  "geometry": {"coordinates":[36.49318,34.51195],"type":"Point"}
+}

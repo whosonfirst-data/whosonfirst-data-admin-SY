@@ -1,0 +1,73 @@
+{
+  "id": 1344050939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55835,35.3529,36.55835,35.3529",
+    "geom:latitude":35.3529,
+    "geom:longitude":36.55835,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Arba`in",
+    "gn:country_code":"SY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556204,
+    "gn:latitude":35.3529,
+    "gn:longitude":36.55835,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Arba\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Arba\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556204
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"636c70c555b8ebdaf452d917cdc6735c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1344050939,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344050939,
+    "wof:lastmodified":1537702638,
+    "wof:name":"Al Arba`in",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55835,
+    35.3529,
+    36.55835,
+    35.3529
+],
+  "geometry": {"coordinates":[36.55835,35.3529],"type":"Point"}
+}

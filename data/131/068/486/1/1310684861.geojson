@@ -1,0 +1,73 @@
+{
+  "id": 1310684861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09578,35.3426,37.09578,35.3426",
+    "geom:latitude":35.3426,
+    "geom:longitude":37.09578,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall al Muhasir",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340901,
+    "gn:latitude":35.3426,
+    "gn:longitude":37.09578,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tall al Mu\u1e29a\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0645\u062d\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall al Mu\u1e29a\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340901
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d5300a36c91c4c2a6f33e558b9019f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310684861,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310684861,
+    "wof:lastmodified":1537702537,
+    "wof:name":"Tall al Muhasir",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09578,
+    35.3426,
+    37.09578,
+    35.3426
+],
+  "geometry": {"coordinates":[37.09578,35.3426],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327307755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17873,34.89375,36.17873,34.89375",
+    "geom:latitude":34.89375,
+    "geom:longitude":36.17873,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt al Khatib",
+    "gn:country_code":"SY",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444408,
+    "gn:latitude":34.89375,
+    "gn:longitude":36.17873,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bayt al Kha\u0163\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062e\u0637\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Kha\u0163\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444408
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"99f6c84b9c10096b46dfef4677559bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779145,
+            "locality_id":1327307755,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327307755,
+    "wof:lastmodified":1537702622,
+    "wof:name":"Bayt al Khatib",
+    "wof:parent_id":1108779145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17873,
+    34.89375,
+    36.17873,
+    34.89375
+],
+  "geometry": {"coordinates":[36.17873,34.89375],"type":"Point"}
+}

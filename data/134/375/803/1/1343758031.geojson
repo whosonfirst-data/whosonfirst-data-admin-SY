@@ -1,0 +1,79 @@
+{
+  "id": 1343758031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3432,35.29238,36.3432,35.29238",
+    "geom:latitude":35.29238,
+    "geom:longitude":36.3432,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qashat",
+    "gn:country_code":"SY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166261,
+    "gn:latitude":35.29238,
+    "gn:longitude":36.3432,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Qash\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0647\u0631 \u0627\u0644\u0628\u0627\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qach\u00e2te",
+        "Qash\u0101t",
+        "Qish\u0101b",
+        "Nahr al B\u0101rid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166261
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"59f4c3f2f7f2285d8e5027968cc62917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1343758031,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343758031,
+    "wof:lastmodified":1537701848,
+    "wof:name":"Qashat",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3432,
+    35.29238,
+    36.3432,
+    35.29238
+],
+  "geometry": {"coordinates":[36.3432,35.29238],"type":"Point"}
+}

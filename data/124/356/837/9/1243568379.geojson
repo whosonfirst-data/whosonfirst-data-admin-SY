@@ -1,0 +1,76 @@
+{
+  "id": 1243568379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.30081,36.86051,41.30081,36.86051",
+    "geom:latitude":36.86051,
+    "geom:longitude":41.30081,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tawarij",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163319,
+    "gn:latitude":36.86051,
+    "gn:longitude":41.30081,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"\u0162aw\u0101r\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0627\u0631\u064a\u062c"
+    ],
+    "name:tur_x_preferred":[
+        "\u0162aw\u0101r\u012bj"
+    ],
+    "name:und_x_variant":[
+        "Taou\u00e2r\u00eej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163319
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0e3746c347e92b72734c64e1ea5e568b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1243568379,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243568379,
+    "wof:lastmodified":1537701648,
+    "wof:name":"Tawarij",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.30081,
+    36.86051,
+    41.30081,
+    36.86051
+],
+  "geometry": {"coordinates":[41.30081,36.86051],"type":"Point"}
+}

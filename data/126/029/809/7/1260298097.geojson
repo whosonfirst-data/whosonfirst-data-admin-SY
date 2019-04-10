@@ -1,0 +1,74 @@
+{
+  "id": 1260298097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98313,35.65927,35.98313,35.65927",
+    "geom:latitude":35.65927,
+    "geom:longitude":35.98313,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wata ash Shir",
+    "gn:country_code":"SY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162648,
+    "gn:latitude":35.65927,
+    "gn:longitude":35.98313,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Wa\u0163\u00e1 ash Sh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649 \u0627\u0644\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ouata ech Ch\u00eer",
+        "Wa\u0163\u00e1 ash Sh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162648
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cdea9dd506f5e3670c0c4b39287fcbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1260298097,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1260298097,
+    "wof:lastmodified":1537701605,
+    "wof:name":"Wata ash Shir",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98313,
+    35.65927,
+    35.98313,
+    35.65927
+],
+  "geometry": {"coordinates":[35.98313,35.65927],"type":"Point"}
+}

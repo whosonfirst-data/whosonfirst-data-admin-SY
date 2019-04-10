@@ -1,0 +1,75 @@
+{
+  "id": 1226740557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48231,33.56489,36.48231,33.56489",
+    "geom:latitude":33.56489,
+    "geom:longitude":36.48231,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh al Farah",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169717,
+    "gn:latitude":33.56489,
+    "gn:longitude":36.48231,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u1e28awsh al F\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0627\u0644\u0641\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Haouch el F\u00e2ra",
+        "\u1e28awsh al Fa\u2019rah",
+        "\u1e28awsh al F\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169717
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f37fb0d7f05e5e2cc716a75eab96ff99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1226740557,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1226740557,
+    "wof:lastmodified":1537702084,
+    "wof:name":"Hawsh al Farah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48231,
+    33.56489000000001,
+    36.48231,
+    33.56489000000001
+],
+  "geometry": {"coordinates":[36.48231,33.56489000000001],"type":"Point"}
+}

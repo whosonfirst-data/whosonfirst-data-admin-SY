@@ -1,0 +1,73 @@
+{
+  "id": 1309789499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19345,35.05584,37.19345,35.05584",
+    "geom:latitude":35.05584,
+    "geom:longitude":37.19345,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hasan al Malham",
+    "gn:country_code":"SY",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340973,
+    "gn:latitude":35.05584,
+    "gn:longitude":37.19345,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28asan al Mal\u1e29am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646 \u0627\u0644\u0645\u0644\u062d\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asan al Mal\u1e29am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340973
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa40071b92a0b56f59020f28a4ef65c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1309789499,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309789499,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Hasan al Malham",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19345,
+    35.05584,
+    37.19345,
+    35.05584
+],
+  "geometry": {"coordinates":[37.19345,35.05584],"type":"Point"}
+}

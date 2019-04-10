@@ -1,0 +1,79 @@
+{
+  "id": 1309790345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14574,36.47902,37.14574,36.47902",
+    "geom:latitude":36.47902,
+    "geom:longitude":37.14574,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ash Shaykh `Isa",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172684,
+    "gn:latitude":36.47902,
+    "gn:longitude":37.14574,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ash Shaykh \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0639\u064a\u0633\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u0639\u064a\u0633\u0649"
+    ],
+    "name:und_x_variant":[
+        "Shaykh \u2018\u012as\u00e1",
+        "Che\u00efkh Issa",
+        "Che\u00efkh A\u00efssa",
+        "Ash Shaykh \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172684
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"38a4f67466b1301ba52fcbd4c998a5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1309790345,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309790345,
+    "wof:lastmodified":1537702287,
+    "wof:name":"Ash Shaykh `Isa",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14574,
+    36.47902,
+    37.14574,
+    36.47902
+],
+  "geometry": {"coordinates":[37.14574,36.47902],"type":"Point"}
+}

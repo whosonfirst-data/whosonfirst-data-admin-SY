@@ -1,0 +1,77 @@
+{
+  "id": 1226553673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.33908,36.88184,40.33908,36.88184",
+    "geom:latitude":36.88184,
+    "geom:longitude":40.33908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Busays Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171129,
+    "gn:latitude":36.88184,
+    "gn:longitude":40.33908,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Busays Taht\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0633 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Bu\u015fay\u015f at Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bse\u00efss Taht\u00e2ni",
+        "Busays Taht\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171129
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86b1fad83a6b2e5a0110b9bb59ab6c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1226553673,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226553673,
+    "wof:lastmodified":1537702172,
+    "wof:name":"Busays Tahtani",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.33908,
+    36.88184,
+    40.33908,
+    36.88184
+],
+  "geometry": {"coordinates":[40.33908,36.88184],"type":"Point"}
+}

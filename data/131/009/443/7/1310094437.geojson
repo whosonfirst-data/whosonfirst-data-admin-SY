@@ -1,0 +1,75 @@
+{
+  "id": 1310094437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16434,35.31776,37.16434,35.31776",
+    "geom:latitude":35.31776,
+    "geom:longitude":37.16434,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tiwal ad Dabaghin",
+    "gn:country_code":"SY",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163199,
+    "gn:latitude":35.31776,
+    "gn:longitude":37.16434,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0162iw\u0101l ad Dab\u0101gh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0627\u0644 \u0627\u0644\u062f\u0628\u0627\u063a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tou\u00e2l Dabb\u00e2rh\u00eene",
+        "\u0162iw\u0101l Dabb\u0101gh\u012bn",
+        "\u0162iw\u0101l ad Dab\u0101gh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163199
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19504df7161e5980bd8e616594db357d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310094437,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310094437,
+    "wof:lastmodified":1537701643,
+    "wof:name":"Tiwal ad Dabaghin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16434,
+    35.31776,
+    37.16434,
+    35.31776
+],
+  "geometry": {"coordinates":[37.16434,35.31776],"type":"Point"}
+}

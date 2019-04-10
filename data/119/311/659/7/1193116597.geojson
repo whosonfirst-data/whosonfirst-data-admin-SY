@@ -1,0 +1,70 @@
+{
+  "id": 1193116597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22923,33.51737,36.22923,33.51737",
+    "geom:latitude":33.51737,
+    "geom:longitude":36.22923,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bayn al Jabalayn",
+    "gn:country_code":"SY",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411762,
+    "gn:latitude":33.51737,
+    "gn:longitude":36.22923,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Bayn al Jabalayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646 \u0627\u0644\u062c\u0628\u0644\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411762
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2086ae62491294aff3029f7560157d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1193116597,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1193116597,
+    "wof:lastmodified":1537702559,
+    "wof:name":"Bayn al Jabalayn",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22923,
+    33.51737,
+    36.22923,
+    33.51737
+],
+  "geometry": {"coordinates":[36.22923,33.51737],"type":"Point"}
+}

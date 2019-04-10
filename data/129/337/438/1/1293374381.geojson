@@ -1,0 +1,73 @@
+{
+  "id": 1293374381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36258,36.18541,37.36258,36.18541",
+    "geom:latitude":36.18541,
+    "geom:longitude":37.36258,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Za`lanah",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7674718,
+    "gn:latitude":36.18541,
+    "gn:longitude":37.36258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Za\u2018l\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0639\u0644\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Za\u2018l\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7674718
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd6c48d936dabe4ab526a9d799444345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293374381,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293374381,
+    "wof:lastmodified":1537702470,
+    "wof:name":"Za`lanah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36258,
+    36.18541,
+    37.36258,
+    36.18541
+],
+  "geometry": {"coordinates":[37.36258,36.18541],"type":"Point"}
+}

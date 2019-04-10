@@ -1,0 +1,73 @@
+{
+  "id": 1259474997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35263,35.59484,40.35263,35.59484",
+    "geom:latitude":35.59484,
+    "geom:longitude":40.35263,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shuwayhan",
+    "gn:country_code":"SY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263758,
+    "gn:latitude":35.59484,
+    "gn:longitude":40.35263,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Shuwayh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shuwayh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263758
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b6c3406f8f990230b3834bd01d65454b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1259474997,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1259474997,
+    "wof:lastmodified":1537702493,
+    "wof:name":"Shuwayhan",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35263,
+    35.59484000000001,
+    40.35263,
+    35.59484000000001
+],
+  "geometry": {"coordinates":[40.35263,35.59484000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360169157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54542,36.12816,37.54542,36.12816",
+    "geom:latitude":36.12816,
+    "geom:longitude":37.54542,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Arkilah",
+    "gn:country_code":"SY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162963,
+    "gn:latitude":36.12816,
+    "gn:longitude":37.54542,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umm Ark\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0631\u0643\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Oum Erdj\u00eel\u00e9",
+        "Oum Ark\u00eel\u00e9",
+        "Umm Ark\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162963
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d7ccdfc07ea152be9b725864a8f6019a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1360169157,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360169157,
+    "wof:lastmodified":1537701627,
+    "wof:name":"Umm Arkilah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54542,
+    36.12816,
+    37.54542,
+    36.12816
+],
+  "geometry": {"coordinates":[37.54542,36.12816],"type":"Point"}
+}

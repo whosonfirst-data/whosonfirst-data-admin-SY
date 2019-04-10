@@ -1,0 +1,82 @@
+{
+  "id": 1310188781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6897,35.37615,36.6897,35.37615",
+    "geom:latitude":35.37615,
+    "geom:longitude":36.6897,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Murak",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166640,
+    "gn:latitude":35.37615,
+    "gn:longitude":36.6897,
+    "gn:modification_date":"2015-03-13",
+    "gn:name":"M\u016brak",
+    "gn:population":14307,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00fbrek",
+        "M\u016brak",
+        "Morek",
+        "Murk",
+        "Mork",
+        "Murak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166640,
+        "wk:page":"Murak%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"72d7c22c96818dfa8222669357be405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1310188781,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310188781,
+    "wof:lastmodified":1537701871,
+    "wof:name":"Murak",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:population":14307,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6897,
+    35.37615,
+    36.6897,
+    35.37615
+],
+  "geometry": {"coordinates":[36.6897,35.37615],"type":"Point"}
+}

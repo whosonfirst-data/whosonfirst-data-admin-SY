@@ -1,0 +1,72 @@
+{
+  "id": 1226355479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16667,35.21667,36.16667,35.21667",
+    "geom:latitude":35.21667,
+    "geom:longitude":36.16667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ash Shindakhah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172539,
+    "gn:latitude":35.21667,
+    "gn:longitude":36.16667,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Ash Shindakhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinndakha",
+        "Ash Shindakhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172539
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"35430a44cf2de2c2c732623872faba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226355479,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226355479,
+    "wof:lastmodified":1537702283,
+    "wof:name":"Ash Shindakhah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16667,
+    35.21667,
+    36.16667,
+    35.21667
+],
+  "geometry": {"coordinates":[36.16667,35.21667],"type":"Point"}
+}

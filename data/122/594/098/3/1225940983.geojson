@@ -1,0 +1,74 @@
+{
+  "id": 1225940983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55767,36.73357,38.55767,36.73357",
+    "geom:latitude":36.73357,
+    "geom:longitude":38.55767,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lahinah",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167693,
+    "gn:latitude":36.73357,
+    "gn:longitude":38.55767,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"La\u1e29\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062d\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "L\u00e9h\u00een\u00e9",
+        "La\u1e29\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167693
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ffa48b0055d2a8672115fe82a4f32058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1225940983,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225940983,
+    "wof:lastmodified":1537701933,
+    "wof:name":"Lahinah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55767,
+    36.73357,
+    38.55767,
+    36.73357
+],
+  "geometry": {"coordinates":[38.55767,36.73357],"type":"Point"}
+}

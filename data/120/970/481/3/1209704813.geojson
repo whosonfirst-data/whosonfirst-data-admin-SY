@@ -1,0 +1,73 @@
+{
+  "id": 1209704813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75222,34.95948,36.75222,34.95948",
+    "geom:latitude":34.95948,
+    "geom:longitude":36.75222,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khirbat Umm Sulayman",
+    "gn:country_code":"SY",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322018,
+    "gn:latitude":34.95948,
+    "gn:longitude":36.75222,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khirbat Umm Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0645 \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Umm Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322018
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7057f51f6d2ed4726375978c4756da92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1209704813,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1209704813,
+    "wof:lastmodified":1537702525,
+    "wof:name":"Khirbat Umm Sulayman",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75222,
+    34.95948,
+    36.75222,
+    34.95948
+],
+  "geometry": {"coordinates":[36.75222,34.95948],"type":"Point"}
+}

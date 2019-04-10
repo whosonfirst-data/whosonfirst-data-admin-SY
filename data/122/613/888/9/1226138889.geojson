@@ -1,0 +1,79 @@
+{
+  "id": 1226138889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16923,36.76721,38.16923,36.76721",
+    "geom:latitude":36.76721,
+    "geom:longitude":38.16923,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zakariya",
+    "gn:country_code":"SY",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162562,
+    "gn:latitude":36.76721,
+    "gn:longitude":38.16923,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Zakar\u012by\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0643\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0643\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zakar\u012b",
+        "Z\u00e9kari",
+        "Z\u012bkar\u012b",
+        "Zakar\u012by\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162562
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"98bc9a56847a2493c1c46da077e3f654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1226138889,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226138889,
+    "wof:lastmodified":1537701599,
+    "wof:name":"Zakariya",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16923,
+    36.76721,
+    38.16923,
+    36.76721
+],
+  "geometry": {"coordinates":[38.16923,36.76721],"type":"Point"}
+}

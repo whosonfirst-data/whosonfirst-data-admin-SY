@@ -1,0 +1,75 @@
+{
+  "id": 1310217973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0236,35.40345,36.0236,35.40345",
+    "geom:latitude":35.40345,
+    "geom:longitude":36.0236,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayrutan",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170751,
+    "gn:latitude":35.40345,
+    "gn:longitude":36.0236,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dayr\u016bt\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "De\u00efro\u00fbt\u00e2ne",
+        "Dairutan",
+        "Dayr\u016bt\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170751
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"386ac2de8ea157b2b2a7f40c163ac6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1310217973,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310217973,
+    "wof:lastmodified":1537702143,
+    "wof:name":"Dayrutan",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0236,
+    35.40345,
+    36.0236,
+    35.40345
+],
+  "geometry": {"coordinates":[36.0236,35.40345],"type":"Point"}
+}

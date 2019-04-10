@@ -1,0 +1,84 @@
+{
+  "id": 1343931621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14308,34.74979,36.14308,34.74979",
+    "geom:latitude":34.74979,
+    "geom:longitude":36.14308,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Amlas",
+    "gn:country_code":"SY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169594,
+    "gn:latitude":34.74979,
+    "gn:longitude":36.14308,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Amlas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0644\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628 \u0627\u0644\u0623\u0645\u0644\u0633",
+        "\u062d\u0643\u0631 \u062c\u0628 \u0627\u0644\u0623\u0645\u0644\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kikr Jouob el Amlass",
+        "Jbel Amliss",
+        "Hikr Joubb el Aml\u00e2s",
+        "\u1e28ikr Jubb al Amlas",
+        "Al Amlas",
+        "Jubb al Amlas",
+        "Joub el Aml\u00e2s",
+        "Joubb el Aml\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169594
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4788c97607603ec1e17b27ab323a072d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1343931621,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343931621,
+    "wof:lastmodified":1537702076,
+    "wof:name":"Al Amlas",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14308,
+    34.74979,
+    36.14308,
+    34.74979
+],
+  "geometry": {"coordinates":[36.14308,34.74979],"type":"Point"}
+}

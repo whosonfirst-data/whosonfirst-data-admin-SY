@@ -1,0 +1,76 @@
+{
+  "id": 1343854147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25277,35.83516,37.25277,35.83516",
+    "geom:latitude":35.83516,
+    "geom:longitude":37.25277,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ghurayrifah",
+    "gn:country_code":"SY",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170254,
+    "gn:latitude":35.83516,
+    "gn:longitude":37.25277,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ghurayr\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u064a\u0631\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rh\u00e2r\u00eef\u00e9",
+        "Ghrerif\u00e9",
+        "Ghar\u012bfah",
+        "Ghurayr\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170254
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7dbd16f61ea0239596b00878ad9d2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343854147,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343854147,
+    "wof:lastmodified":1537702116,
+    "wof:name":"Ghurayrifah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25277,
+    35.83515999999999,
+    37.25277,
+    35.83515999999999
+],
+  "geometry": {"coordinates":[37.25277,35.83515999999999],"type":"Point"}
+}

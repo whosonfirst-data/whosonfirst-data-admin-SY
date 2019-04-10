@@ -1,0 +1,76 @@
+{
+  "id": 1225924157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5342,36.13722,36.5342,36.13722",
+    "geom:latitude":36.13722,
+    "geom:longitude":36.5342,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafrantah",
+    "gn:country_code":"SY",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168728,
+    "gn:latitude":36.13722,
+    "gn:longitude":36.5342,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kafrantah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631\u0646\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kefranti",
+        "Kafrannti",
+        "Kafrennti",
+        "Kafrantah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168728
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e8e4cc3dc0b6cbcebb8bb7ef4332ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1225924157,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1225924157,
+    "wof:lastmodified":1537702018,
+    "wof:name":"Kafrantah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5342,
+    36.13722,
+    36.5342,
+    36.13722
+],
+  "geometry": {"coordinates":[36.5342,36.13722],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259579281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36314,35.19707,36.36314,35.19707",
+    "geom:latitude":35.19707,
+    "geom:longitude":36.36314,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Salukiyah",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172478,
+    "gn:latitude":35.19707,
+    "gn:longitude":36.36314,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"As Sal\u016bk\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0648\u0643\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es Slo\u00fbqiy\u00e9",
+        "As Sal\u016bq\u012byah",
+        "As Sal\u016bk\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172478
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9439450ed983b71bc6740a0e9ed34144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1259579281,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259579281,
+    "wof:lastmodified":1537702277,
+    "wof:name":"As Salukiyah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36314,
+    35.19707000000001,
+    36.36314,
+    35.19707000000001
+],
+  "geometry": {"coordinates":[36.36314,35.19707000000001],"type":"Point"}
+}

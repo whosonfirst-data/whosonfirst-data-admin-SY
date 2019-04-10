@@ -1,0 +1,68 @@
+{
+  "id": 1209496299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68359,34.83166,37.68359,34.83166",
+    "geom:latitude":34.83166,
+    "geom:longitude":37.68359,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Huwaysis",
+    "gn:country_code":"SY",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169417,
+    "gn:latitude":34.83166,
+    "gn:longitude":37.68359,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u1e28uways\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0633\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Al Huwaysis",
+        "\u1e28uways\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169417
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"da013c6ff751fdad1620fecff5b96485",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209496299
+        }
+    ],
+    "wof:id":1209496299,
+    "wof:lastmodified":1537702065,
+    "wof:name":"Huwaysis",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68359,
+    34.83166,
+    37.68359,
+    34.83166
+],
+  "geometry": {"coordinates":[37.68359,34.83166],"type":"Point"}
+}

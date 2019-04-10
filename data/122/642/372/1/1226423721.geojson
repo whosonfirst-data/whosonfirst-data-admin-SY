@@ -1,0 +1,70 @@
+{
+  "id": 1226423721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2921,34.45929,37.2921,34.45929",
+    "geom:latitude":34.45929,
+    "geom:longitude":37.2921,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat al Armanah",
+    "gn:country_code":"SY",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374709,
+    "gn:latitude":34.45929,
+    "gn:longitude":37.2921,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Khirbat al Armanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0623\u0631\u0645\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374709
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7874273bfc006d67eef3df75e7bdab7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226423721,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226423721,
+    "wof:lastmodified":1537702555,
+    "wof:name":"Khirbat al Armanah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2921,
+    34.45929,
+    37.2921,
+    34.45929
+],
+  "geometry": {"coordinates":[37.2921,34.45929],"type":"Point"}
+}

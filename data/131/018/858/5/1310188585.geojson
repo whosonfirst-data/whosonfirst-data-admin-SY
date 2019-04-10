@@ -1,0 +1,78 @@
+{
+  "id": 1310188585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05321,34.77821,36.05321,34.77821",
+    "geom:latitude":34.77821,
+    "geom:longitude":36.05321,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muwaysah",
+    "gn:country_code":"SY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166517,
+    "gn:latitude":34.77821,
+    "gn:longitude":36.05321,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Muwaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0633\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Moua\u00efsn\u00e9",
+        "Muwaysinah",
+        "Muwaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166517
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7b7525b1f56767206ed2428746dc9a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1310188585,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310188585,
+    "wof:lastmodified":1537701862,
+    "wof:name":"Muwaysah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05321,
+    34.77820999999999,
+    36.05321,
+    34.77820999999999
+],
+  "geometry": {"coordinates":[36.05321,34.77820999999999],"type":"Point"}
+}

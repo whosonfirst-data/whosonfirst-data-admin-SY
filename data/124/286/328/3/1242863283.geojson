@@ -1,0 +1,75 @@
+{
+  "id": 1242863283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33673,35.27896,37.33673,35.27896",
+    "geom:latitude":35.27896,
+    "geom:longitude":37.33673,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kabbasin as Salaminah",
+    "gn:country_code":"SY",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":168775,
+    "gn:latitude":35.27896,
+    "gn:longitude":37.33673,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Kabb\u0101s\u012bn as Sal\u0101minah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0628\u0627\u0633\u064a\u0646 \u0627\u0644\u0633\u0644\u0627\u0645\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kabb\u00e2ss\u00eene",
+        "Kabb\u0101s\u012bn",
+        "Kabb\u0101s\u012bn as Sal\u0101minah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168775
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3005e0b421eebea30d367b682caef9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242863283,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242863283,
+    "wof:lastmodified":1537702021,
+    "wof:name":"Kabbasin as Salaminah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33673,
+    35.27896,
+    37.33673,
+    35.27896
+],
+  "geometry": {"coordinates":[37.33673,35.27896],"type":"Point"}
+}

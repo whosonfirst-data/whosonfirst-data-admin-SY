@@ -1,0 +1,88 @@
+{
+  "id": 1209025311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.42647,36.86677,38.42647,36.86677",
+    "geom:latitude":36.86677,
+    "geom:longitude":38.42647,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shiran",
+    "gn:country_code":"SY",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164244,
+    "gn:latitude":36.86677,
+    "gn:longitude":38.42647,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sh\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012br\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0631\u0627\u0646",
+        "\u0634\u064a\u0631\u0627\u0646 \u0635\u063a\u064a\u0631",
+        "\u0634\u0631\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00earan"
+    ],
+    "name:kur_x_variant":[
+        "Shiran",
+        "Sheran",
+        "\u0634\u06ce\u0631\u0627\u0646",
+        "\u0634\u06d5\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Chirr\u00e2ne",
+        "Chir\u00e2ne",
+        "\u015e\u00earan",
+        "Sh\u012br\u0101n \u015eagh\u012br",
+        "Shiran Saghir",
+        "Shir\u0101n",
+        "\u015eeran",
+        "Shar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164244
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3403513bbaed840561ecde8115bf3c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209025311
+        }
+    ],
+    "wof:id":1209025311,
+    "wof:lastmodified":1537701725,
+    "wof:name":"Shiran",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.42647,
+    36.86677,
+    38.42647,
+    36.86677
+],
+  "geometry": {"coordinates":[38.42647,36.86677],"type":"Point"}
+}

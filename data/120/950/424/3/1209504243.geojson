@@ -1,0 +1,70 @@
+{
+  "id": 1209504243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7802,35.01087,36.7802,35.01087",
+    "geom:latitude":35.01087,
+    "geom:longitude":36.7802,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tall Qartal",
+    "gn:country_code":"SY",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163482,
+    "gn:latitude":35.01087,
+    "gn:longitude":36.7802,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tall Qar\u0163al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0642\u0631\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tall Kartal",
+        "Tell Qartal",
+        "Tall Qar\u0163al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163482,
+        "wk:page":"Tell_Qartal"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fc2436d62a5985c6a9b641fd3fe0863b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209504243
+        }
+    ],
+    "wof:id":1209504243,
+    "wof:lastmodified":1537701661,
+    "wof:name":"Tall Qartal",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7802,
+    35.01087,
+    36.7802,
+    35.01087
+],
+  "geometry": {"coordinates":[36.7802,35.01087],"type":"Point"}
+}

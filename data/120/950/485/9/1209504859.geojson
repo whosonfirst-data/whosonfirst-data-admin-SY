@@ -1,0 +1,100 @@
+{
+  "id": 1209504859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18808,36.76382,38.18808,36.76382",
+    "geom:latitude":36.76382,
+    "geom:longitude":38.18808,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qawshli Wastani",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165894,
+    "gn:latitude":36.76382,
+    "gn:longitude":38.18808,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Qawshl\u012b Was\u0163\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u062c\u0644\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u062c\u064a\u0629",
+        "\u0642\u0648\u062c\u0644\u0627 \u0632\u064a\u0631",
+        "\u0642\u0648\u0634\u0644\u064a \u0648\u0633\u0637\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Qochela J\u00ear\u00een"
+    ],
+    "name:kur_x_variant":[
+        "Qucila Z\u00eer",
+        "Qocila Z\u00eer",
+        "Qochela Z\u00eer",
+        "Qochela J\u00ear",
+        "\u0642\u06c6\u0686\u06d5\u0644\u0627 \u0698\u06ce\u0631\u064a\u0646",
+        "\u0642\u06c6\u062c\u0644\u0627 \u0632\u064a\u0631",
+        "\u0642\u06c6\u0686\u06d5\u0644\u0627 \u0632\u064a\u0631",
+        "\u0642\u06c6\u0686\u06d5\u0644\u0627 \u0698\u06ce\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kurjal\u012b Ta\u1e29t\u0101n\u012b",
+        "Qodjli Taht\u00e2ni",
+        "Qouchli Taht\u00e2ni",
+        "Q\u016bjal\u012b Ta\u1e29t\u0101n\u012b",
+        "Qawjl\u012b Ta\u1e29t\u0101n\u012b",
+        "Qawjal\u012b Ta\u1e29t\u0101n\u012b",
+        "Qo\u00e7ela J\u00ear\u00een",
+        "T\u0101j\u012byah",
+        "Qawjal\u0101 Z\u012br",
+        "Qawjal\u0101 Zayr",
+        "Q\u016bjal\u0101 Zayr",
+        "T\u0101j\u012bya",
+        "Tajiya",
+        "Qo\u00e7ela J\u00ear",
+        "Taciye",
+        "Qawshl\u012b Was\u0163\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165894
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c5a163190cb67a6bcaa2e70ff392593d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209504859
+        }
+    ],
+    "wof:id":1209504859,
+    "wof:lastmodified":1537701819,
+    "wof:name":"Qawshli Wastani",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18808,
+    36.76382,
+    38.18808,
+    36.76382
+],
+  "geometry": {"coordinates":[38.18808,36.76382],"type":"Point"}
+}

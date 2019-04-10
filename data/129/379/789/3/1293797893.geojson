@@ -1,0 +1,78 @@
+{
+  "id": 1293797893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.46919,37.02445,41.46919,37.02445",
+    "geom:latitude":37.02445,
+    "geom:longitude":41.46919,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hulwah",
+    "gn:country_code":"SY",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169508,
+    "gn:latitude":37.02445,
+    "gn:longitude":41.46919,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"\u1e28ulwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "\u1e28ulwah"
+    ],
+    "name:und_x_variant":[
+        "Al Hilwah",
+        "Halwah",
+        "H\u00e9loua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169508
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"515269174a156c1946fec465836897f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1293797893,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293797893,
+    "wof:lastmodified":1537702071,
+    "wof:name":"Hulwah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.46919000000001,
+    37.02445,
+    41.46919000000001,
+    37.02445
+],
+  "geometry": {"coordinates":[41.46919000000001,37.02445],"type":"Point"}
+}

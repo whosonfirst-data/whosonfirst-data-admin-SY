@@ -1,0 +1,73 @@
+{
+  "id": 1310715787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75598,36.20999,40.75598,36.20999",
+    "geom:latitude":36.20999,
+    "geom:longitude":40.75598,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hardaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421000,
+    "gn:latitude":36.20999,
+    "gn:longitude":40.75598,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ard\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u062f\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ard\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421000
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fc2e76fba7284f4491396153cb914144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1310715787,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310715787,
+    "wof:lastmodified":1537702460,
+    "wof:name":"Hardaniyah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75598,
+    36.20999000000001,
+    40.75598,
+    36.20999000000001
+],
+  "geometry": {"coordinates":[40.75598,36.20999000000001],"type":"Point"}
+}

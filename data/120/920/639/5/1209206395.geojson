@@ -1,0 +1,67 @@
+{
+  "id": 1209206395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56081,35.31771,40.56081,35.31771",
+    "geom:latitude":35.31771,
+    "geom:longitude":40.56081,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al `Aya",
+    "gn:country_code":"SY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275743,
+    "gn:latitude":35.31771,
+    "gn:longitude":40.56081,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al \u2018Ay\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ay\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275743
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"04f482a3d0b440e22d4ce0a66f4e1374",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209206395
+        }
+    ],
+    "wof:id":1209206395,
+    "wof:lastmodified":1537702521,
+    "wof:name":"Al `Aya",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56081,
+    35.31771,
+    40.56081,
+    35.31771
+],
+  "geometry": {"coordinates":[40.56081,35.31771],"type":"Point"}
+}

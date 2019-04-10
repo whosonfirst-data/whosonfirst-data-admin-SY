@@ -1,0 +1,81 @@
+{
+  "id": 1293877311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35772,35.49974,36.35772,35.49974",
+    "geom:latitude":35.49974,
+    "geom:longitude":36.35772,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Huwayz",
+    "gn:country_code":"SY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173752,
+    "gn:latitude":35.49974,
+    "gn:longitude":36.35772,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u1e28uwayz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Huwet",
+        "Huweid",
+        "Houa\u00efz",
+        "Houeiz",
+        "\u1e28uwayz",
+        "Huw\u0101th",
+        "Houa\u00efz el Faouq\u00e2ni",
+        "\u1e28uway\u1e11",
+        "Al \u1e28uwayz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173752
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"30f295f976f399605c5c4bf0fb52f217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1293877311,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293877311,
+    "wof:lastmodified":1537702360,
+    "wof:name":"Huwayz",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35772,
+    35.49974,
+    36.35772,
+    35.49974
+],
+  "geometry": {"coordinates":[36.35772,35.49974],"type":"Point"}
+}

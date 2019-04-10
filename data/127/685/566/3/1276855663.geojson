@@ -1,0 +1,75 @@
+{
+  "id": 1276855663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76024,36.33157,37.76024,36.33157",
+    "geom:latitude":36.33157,
+    "geom:longitude":37.76024,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ja'i`ah",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169118,
+    "gn:latitude":36.33157,
+    "gn:longitude":37.76024,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"J\u0101\u2019i\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0626\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ja\u00efa\u00e2",
+        "Jay\u2018\u0101",
+        "J\u0101\u2019i\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"34299cb670c9f68a159d4ea10f7d85b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276855663,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276855663,
+    "wof:lastmodified":1537702046,
+    "wof:name":"Ja'i`ah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76024,
+    36.33157,
+    37.76024,
+    36.33157
+],
+  "geometry": {"coordinates":[37.76024,36.33157],"type":"Point"}
+}

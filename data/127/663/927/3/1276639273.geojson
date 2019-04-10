@@ -1,0 +1,73 @@
+{
+  "id": 1276639273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95826,34.91551,35.95826,34.91551",
+    "geom:latitude":34.91551,
+    "geom:longitude":35.95826,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Qatlab",
+    "gn:country_code":"SY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266553,
+    "gn:latitude":34.91551,
+    "gn:longitude":35.95826,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Qa\u0163lab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Qa\u0163lab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266553
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"73bdd7adc2ec12e2fc4af4cbf9d62416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276639273,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276639273,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Al Qatlab",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95826,
+    34.91551,
+    35.95826,
+    34.91551
+],
+  "geometry": {"coordinates":[35.95826,34.91551],"type":"Point"}
+}

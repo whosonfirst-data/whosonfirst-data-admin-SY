@@ -1,0 +1,74 @@
+{
+  "id": 1310578521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58369,35.7564,36.58369,35.7564",
+    "geom:latitude":35.7564,
+    "geom:longitude":36.58369,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kafr Haya",
+    "gn:country_code":"SY",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168690,
+    "gn:latitude":35.7564,
+    "gn:longitude":36.58369,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kafr \u1e28\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafer H\u00e2ya",
+        "Kafr \u1e28\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168690
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2083c32e3b1295ac19cb73e02d637612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1310578521,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310578521,
+    "wof:lastmodified":1537702013,
+    "wof:name":"Kafr Haya",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58369,
+    35.7564,
+    36.58369,
+    35.7564
+],
+  "geometry": {"coordinates":[36.58369,35.7564],"type":"Point"}
+}

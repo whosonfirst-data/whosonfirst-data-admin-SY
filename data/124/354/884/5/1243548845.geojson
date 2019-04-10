@@ -1,0 +1,77 @@
+{
+  "id": 1243548845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1493,36.57086,37.1493,36.57086",
+    "geom:latitude":36.57086,
+    "geom:longitude":37.1493,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jariz",
+    "gn:country_code":"SY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169169,
+    "gn:latitude":36.57086,
+    "gn:longitude":37.1493,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"J\u0101riz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u0101riz"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0631\u0632"
+    ],
+    "name:und_x_variant":[
+        "J\u00e2r\u00e8s",
+        "J\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169169
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"97adaa839b1957edaa5d7b37d9203ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1243548845,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243548845,
+    "wof:lastmodified":1537702050,
+    "wof:name":"Jariz",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1493,
+    36.57086,
+    37.1493,
+    36.57086
+],
+  "geometry": {"coordinates":[37.1493,36.57086],"type":"Point"}
+}

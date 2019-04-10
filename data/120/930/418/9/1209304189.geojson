@@ -1,0 +1,69 @@
+{
+  "id": 1209304189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87215,36.06287,36.87215,36.06287",
+    "geom:latitude":36.06287,
+    "geom:longitude":36.87215,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Halab",
+    "gn:country_code":"SY",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168695,
+    "gn:latitude":36.06287,
+    "gn:longitude":36.87215,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kafr \u1e28alab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafer Halab",
+        "Kafr \u1e28alab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168695,
+        "wk:page":"Kafr_Halab"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2bd32863e06bb6d67f7bcb2747a3944d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209304189
+        }
+    ],
+    "wof:id":1209304189,
+    "wof:lastmodified":1537702014,
+    "wof:name":"Kafr Halab",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87215,
+    36.06287,
+    36.87215,
+    36.06287
+],
+  "geometry": {"coordinates":[36.87215,36.06287],"type":"Point"}
+}

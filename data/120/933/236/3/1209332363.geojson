@@ -1,0 +1,67 @@
+{
+  "id": 1209332363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95651,36.99209,40.95651,36.99209",
+    "geom:latitude":36.99209,
+    "geom:longitude":40.95651,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Babu",
+    "gn:country_code":"SY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927190,
+    "gn:latitude":36.99209,
+    "gn:longitude":40.95651,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bab\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bab\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927190
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9f9b52b8a2d5ab85aec9e56ec47e9ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209332363
+        }
+    ],
+    "wof:id":1209332363,
+    "wof:lastmodified":1537702477,
+    "wof:name":"Babu",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95651,
+    36.99209000000001,
+    40.95651,
+    36.99209000000001
+],
+  "geometry": {"coordinates":[40.95651,36.99209000000001],"type":"Point"}
+}

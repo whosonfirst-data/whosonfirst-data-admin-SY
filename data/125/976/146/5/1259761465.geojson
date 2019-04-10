@@ -1,0 +1,77 @@
+{
+  "id": 1259761465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40797,34.84757,36.40797,34.84757",
+    "geom:latitude":34.84757,
+    "geom:longitude":36.40797,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fahil",
+    "gn:country_code":"SY",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170492,
+    "gn:latitude":34.84757,
+    "gn:longitude":36.40797,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"F\u0101\u1e29il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u0101\u1e29il"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u062d\u0644"
+    ],
+    "name:und_x_variant":[
+        "F\u00e2hil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170492,
+        "wk:page":"Fahil"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c50907a2391a1ca42949e587d47babbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1259761465,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1259761465,
+    "wof:lastmodified":1537702126,
+    "wof:name":"Fahil",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40797,
+    34.84757,
+    36.40797,
+    34.84757
+],
+  "geometry": {"coordinates":[36.40797,34.84757],"type":"Point"}
+}

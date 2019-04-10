@@ -1,0 +1,79 @@
+{
+  "id": 1260097805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61443,37.05327,40.61443,37.05327",
+    "geom:latitude":37.05327,
+    "geom:longitude":40.61443,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qarah Maniyah",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166056,
+    "gn:latitude":37.05327,
+    "gn:longitude":40.61443,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qarah M\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Qaram\u0101n\u012byah"
+    ],
+    "name:und_x_variant":[
+        "Qaram\u00e2n\u00eey\u00e9",
+        "Qahram\u0101n\u012byah",
+        "Qarm\u012bn\u012byah",
+        "Qarah M\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166056
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"08d0acce912ffbc1c8e5be95d86d73bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1260097805,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1260097805,
+    "wof:lastmodified":1537701829,
+    "wof:name":"Qarah Maniyah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61443,
+    37.05327,
+    40.61443,
+    37.05327
+],
+  "geometry": {"coordinates":[40.61443,37.05327],"type":"Point"}
+}

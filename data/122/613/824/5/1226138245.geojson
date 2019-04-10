@@ -1,0 +1,73 @@
+{
+  "id": 1226138245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08402,35.13162,37.08402,35.13162",
+    "geom:latitude":35.13162,
+    "geom:longitude":37.08402,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qadiriyah",
+    "gn:country_code":"SY",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420110,
+    "gn:latitude":35.13162,
+    "gn:longitude":37.08402,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Q\u0101dir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u062f\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101dir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420110
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f1086482156adc56b866fe75c34cb80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226138245,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226138245,
+    "wof:lastmodified":1537702437,
+    "wof:name":"Qadiriyah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08402,
+    35.13162,
+    37.08402,
+    35.13162
+],
+  "geometry": {"coordinates":[37.08402,35.13162],"type":"Point"}
+}

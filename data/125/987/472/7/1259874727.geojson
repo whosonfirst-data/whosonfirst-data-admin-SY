@@ -1,0 +1,67 @@
+{
+  "id": 1259874727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.525,35.025,36.525,35.025",
+    "geom:latitude":35.025,
+    "geom:longitude":36.525,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Yaljah",
+    "gn:country_code":"SY",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4387,
+    "gn:latitude":35.025,
+    "gn:longitude":36.525,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Yaljah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4387
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"532efd3ed27b7c88fad917cf48e8ff3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1259874727,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259874727,
+    "wof:lastmodified":1536792163,
+    "wof:name":"Al Yaljah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.525,
+    35.025,
+    36.525,
+    35.025
+],
+  "geometry": {"coordinates":[36.525,35.025],"type":"Point"}
+}

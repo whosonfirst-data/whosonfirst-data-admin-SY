@@ -1,0 +1,76 @@
+{
+  "id": 1276435815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21998,35.26392,37.21998,35.26392",
+    "geom:latitude":35.26392,
+    "geom:longitude":37.21998,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb Razaq",
+    "gn:country_code":"SY",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168916,
+    "gn:latitude":35.26392,
+    "gn:longitude":37.21998,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Jubb Razaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0631\u0632\u0642"
+    ],
+    "name:und_x_variant":[
+        "Arze\u00efj\u00e9",
+        "Joubb Rze\u00efq",
+        "Jubb Ruzayq",
+        "Jubb Razaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168916
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b419d0957d09390cceca4b63c2d49f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276435815,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276435815,
+    "wof:lastmodified":1537702031,
+    "wof:name":"Jubb Razaq",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21998,
+    35.26392,
+    37.21998,
+    35.26392
+],
+  "geometry": {"coordinates":[37.21998,35.26392],"type":"Point"}
+}

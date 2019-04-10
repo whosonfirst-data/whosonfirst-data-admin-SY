@@ -1,0 +1,74 @@
+{
+  "id": 1226146999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.32985,36.68039,40.32985,36.68039",
+    "geom:latitude":36.68039,
+    "geom:longitude":40.32985,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Umm Kahf",
+    "gn:country_code":"SY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163422,
+    "gn:latitude":36.68039,
+    "gn:longitude":40.32985,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Tall Umm Kahf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0623\u0645 \u0643\u0647\u0641"
+    ],
+    "name:und_x_variant":[
+        "Tell Oum Kahf",
+        "Tall Umm Kahf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163422
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9662a88b9d6246fd57fed3e6d07d3691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1226146999,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226146999,
+    "wof:lastmodified":1537701654,
+    "wof:name":"Tall Umm Kahf",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.32985,
+    36.68039,
+    40.32985,
+    36.68039
+],
+  "geometry": {"coordinates":[40.32985,36.68039],"type":"Point"}
+}

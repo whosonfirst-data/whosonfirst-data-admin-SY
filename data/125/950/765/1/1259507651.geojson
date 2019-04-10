@@ -1,0 +1,75 @@
+{
+  "id": 1259507651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4183,35.85681,39.4183,35.85681",
+    "geom:latitude":35.85681,
+    "geom:longitude":39.4183,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Judaydat Mukhayt",
+    "gn:country_code":"SY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168908,
+    "gn:latitude":35.85681,
+    "gn:longitude":39.4183,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Judaydat Mukhay\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062f\u0629 \u0645\u062e\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Jda\u00efd\u00e9",
+        "Judaydah",
+        "Judaydat Mukhay\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168908
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"811b1c0792e2a29117922ec48d203b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1259507651,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259507651,
+    "wof:lastmodified":1537702031,
+    "wof:name":"Judaydat Mukhayt",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4183,
+    35.85681,
+    39.4183,
+    35.85681
+],
+  "geometry": {"coordinates":[39.4183,35.85681],"type":"Point"}
+}

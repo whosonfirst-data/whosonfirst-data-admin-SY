@@ -1,0 +1,74 @@
+{
+  "id": 1310604061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17906,35.71087,36.17906,35.71087",
+    "geom:latitude":35.71087,
+    "geom:longitude":36.17906,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ta`uma",
+    "gn:country_code":"SY",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163326,
+    "gn:latitude":35.71087,
+    "gn:longitude":36.17906,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u0162a\u2018\u016bm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0639\u0648\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tao\u00fbma",
+        "\u0162a\u2018\u016bm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163326
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f13e6b2f6b9dc796f16129dcbeb44f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1310604061,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310604061,
+    "wof:lastmodified":1537701648,
+    "wof:name":"Ta`uma",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17906,
+    35.71087,
+    36.17906,
+    35.71087
+],
+  "geometry": {"coordinates":[36.17906,35.71087],"type":"Point"}
+}

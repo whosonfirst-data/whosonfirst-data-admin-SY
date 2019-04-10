@@ -1,0 +1,77 @@
+{
+  "id": 1259777015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38958,35.4823,36.38958,35.4823",
+    "geom:latitude":35.4823,
+    "geom:longitude":36.38958,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al `Uraymah",
+    "gn:country_code":"SY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173298,
+    "gn:latitude":35.4823,
+    "gn:longitude":36.38958,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al \u2018Uraymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Aram\u00e9",
+        "El Aare\u00efni",
+        "El Aare\u00efmi",
+        "Al \u2018Uraymah",
+        "Al \u2018Ar\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173298
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f4365d7e8c465d46a16b2e97d24a2260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1259777015,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259777015,
+    "wof:lastmodified":1537702322,
+    "wof:name":"Al `Uraymah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38958,
+    35.4823,
+    36.38958,
+    35.4823
+],
+  "geometry": {"coordinates":[36.38958,35.4823],"type":"Point"}
+}

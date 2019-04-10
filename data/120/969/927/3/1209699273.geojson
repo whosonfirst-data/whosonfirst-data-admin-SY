@@ -1,0 +1,73 @@
+{
+  "id": 1209699273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9694,34.84662,35.9694,34.84662",
+    "geom:latitude":34.84662,
+    "geom:longitude":35.9694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zahr Bayt al Qamu`",
+    "gn:country_code":"SY",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265912,
+    "gn:latitude":34.84662,
+    "gn:longitude":35.9694,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Z\u0327ahr Bayt al Q\u0101m\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631 \u0628\u064a\u062a \u0627\u0644\u0642\u0627\u0645\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ahr Bayt al Q\u0101m\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265912
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"883c1ac4a074a996da98cf26a00b121b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1209699273,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1209699273,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Zahr Bayt al Qamu`",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9694,
+    34.84662,
+    35.9694,
+    34.84662
+],
+  "geometry": {"coordinates":[35.9694,34.84662],"type":"Point"}
+}

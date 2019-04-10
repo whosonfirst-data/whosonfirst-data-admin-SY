@@ -1,0 +1,76 @@
+{
+  "id": 1343857427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71106,33.00229,36.71106,33.00229",
+    "geom:latitude":33.00229,
+    "geom:longitude":36.71106,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Haqf",
+    "gn:country_code":"SY",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12794,
+    "gn:latitude":33.00229,
+    "gn:longitude":36.71106,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al \u1e28aqf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u0641"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043a\u0438\u0444"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aqf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12794
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"40ca61cb637975d2e4a6eeefde1ffcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1343857427,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1343857427,
+    "wof:lastmodified":1537701576,
+    "wof:name":"Al Haqf",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71106,
+    33.00229,
+    36.71106,
+    33.00229
+],
+  "geometry": {"coordinates":[36.71106,33.00229],"type":"Point"}
+}

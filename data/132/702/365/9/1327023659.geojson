@@ -1,0 +1,74 @@
+{
+  "id": 1327023659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36666,35.51887,36.36666,35.51887",
+    "geom:latitude":35.51887,
+    "geom:longitude":36.36666,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Huwayjah",
+    "gn:country_code":"SY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173757,
+    "gn:latitude":35.51887,
+    "gn:longitude":36.36666,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al \u1e28uwayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u064a\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Houa\u00efj\u00e9",
+        "Al \u1e28uwayjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173757
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b61423f16bfa64d809b5e9a4e7b73189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1327023659,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327023659,
+    "wof:lastmodified":1537702361,
+    "wof:name":"Al Huwayjah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36666,
+    35.51887,
+    36.36666,
+    35.51887
+],
+  "geometry": {"coordinates":[36.36666,35.51887],"type":"Point"}
+}

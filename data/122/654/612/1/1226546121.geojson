@@ -1,0 +1,70 @@
+{
+  "id": 1226546121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4613,36.09858,39.4613,36.09858",
+    "geom:latitude":36.09858,
+    "geom:longitude":39.4613,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Qarah",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173368,
+    "gn:latitude":36.09858,
+    "gn:longitude":39.4613,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Al Qarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173368
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ca48d5345b7b675cf4e3c3b389054020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1226546121,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1226546121,
+    "wof:lastmodified":1537702328,
+    "wof:name":"Al Qarah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4613,
+    36.09858,
+    39.4613,
+    36.09858
+],
+  "geometry": {"coordinates":[39.4613,36.09858],"type":"Point"}
+}

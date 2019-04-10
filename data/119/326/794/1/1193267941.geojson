@@ -1,0 +1,77 @@
+{
+  "id": 1193267941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78434,36.69588,36.78434,36.69588",
+    "geom:latitude":36.69588,
+    "geom:longitude":36.78434,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ashunah",
+    "gn:country_code":"SY",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235593,
+    "gn:latitude":36.69588,
+    "gn:longitude":36.78434,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"\u2018Ash\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0634\u0648\u0634\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0634\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ash\u016bshah",
+        "\u2018Ash\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235593
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4c7d1ac6681aeff0e5e851638f22e872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1193267941,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193267941,
+    "wof:lastmodified":1537702488,
+    "wof:name":"`Ashunah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78434,
+    36.69588,
+    36.78434,
+    36.69588
+],
+  "geometry": {"coordinates":[36.78434,36.69588],"type":"Point"}
+}

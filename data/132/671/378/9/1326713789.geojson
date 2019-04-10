@@ -1,0 +1,75 @@
+{
+  "id": 1326713789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03835,34.64857,36.03835,34.64857",
+    "geom:latitude":34.64857,
+    "geom:longitude":36.03835,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ransiyah",
+    "gn:country_code":"SY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172959,
+    "gn:latitude":34.64857,
+    "gn:longitude":36.03835,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rans\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0646\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ranns\u00eey\u00e9",
+        "Ar Rans\u012byah",
+        "Rans\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172959
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fec106e664168296c529f3f1848589fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1326713789,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1326713789,
+    "wof:lastmodified":1537702302,
+    "wof:name":"Ransiyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03835,
+    34.64857,
+    36.03835,
+    34.64857
+],
+  "geometry": {"coordinates":[36.03835,34.64857],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309696859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19355,35.83773,37.19355,35.83773",
+    "geom:latitude":35.83773,
+    "geom:longitude":37.19355,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Jafrah",
+    "gn:country_code":"SY",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169255,
+    "gn:latitude":35.83773,
+    "gn:longitude":37.19355,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Jafrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Djafra",
+        "Jafra",
+        "Jafrah",
+        "Al Jafrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169255
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3742125659e4c589ecbe4b6a5900db1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1309696859,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1309696859,
+    "wof:lastmodified":1537702055,
+    "wof:name":"Al Jafrah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19355,
+    35.83773,
+    37.19355,
+    35.83773
+],
+  "geometry": {"coordinates":[37.19355,35.83773],"type":"Point"}
+}

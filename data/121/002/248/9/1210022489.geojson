@@ -1,0 +1,73 @@
+{
+  "id": 1210022489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55346,35.81786,39.55346,35.81786",
+    "geom:latitude":35.81786,
+    "geom:longitude":39.55346,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khass `Ujayl",
+    "gn:country_code":"SY",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4221,
+    "gn:latitude":35.81786,
+    "gn:longitude":39.55346,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Khass \u2018Ujayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0633 \u0639\u062c\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Khass \u2018Ujayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4221
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4469c7b72b432688253dde60f6ba6513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1210022489,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1210022489,
+    "wof:lastmodified":1537701537,
+    "wof:name":"Khass `Ujayl",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55346,
+    35.81786,
+    39.55346,
+    35.81786
+],
+  "geometry": {"coordinates":[39.55346,35.81786],"type":"Point"}
+}

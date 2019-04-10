@@ -1,0 +1,76 @@
+{
+  "id": 1226052215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.23434,36.92363,41.23434,36.92363",
+    "geom:latitude":36.92363,
+    "geom:longitude":41.23434,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khirbat Jammu",
+    "gn:country_code":"SY",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168012,
+    "gn:latitude":36.92363,
+    "gn:longitude":41.23434,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khirbat Jamm\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062c\u0645\u0648"
+    ],
+    "name:tur_x_preferred":[
+        "Khirbat Jamm\u016b"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Jemmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168012
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7cd63a9a37246c450c2d6a769ff7ee8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1226052215,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1226052215,
+    "wof:lastmodified":1537701962,
+    "wof:name":"Khirbat Jammu",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.23434,
+    36.92363,
+    41.23434,
+    36.92363
+],
+  "geometry": {"coordinates":[41.23434,36.92363],"type":"Point"}
+}

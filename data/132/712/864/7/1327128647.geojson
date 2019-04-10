@@ -1,0 +1,79 @@
+{
+  "id": 1327128647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95349,36.17975,36.95349,36.17975",
+    "geom:latitude":36.17975,
+    "geom:longitude":36.95349,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Uwayjil",
+    "gn:country_code":"SY",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162747,
+    "gn:latitude":36.17975,
+    "gn:longitude":36.95349,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018Uwayj\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u064a\u062c\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Oue\u00efdjel",
+        "Aoue\u00efjel",
+        "Ouedjel",
+        "\u2018Uwayjil",
+        "\u2018Uwayj\u012bl",
+        "Awayjil",
+        "Awejel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162747
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"063b726fc4e3d9514402eccba388293e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1327128647,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327128647,
+    "wof:lastmodified":1537701611,
+    "wof:name":"`Uwayjil",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95349,
+    36.17975,
+    36.95349,
+    36.17975
+],
+  "geometry": {"coordinates":[36.95349,36.17975],"type":"Point"}
+}

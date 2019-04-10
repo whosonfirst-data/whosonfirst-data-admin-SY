@@ -1,0 +1,73 @@
+{
+  "id": 1327215037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94962,34.94469,37.94962,34.94469",
+    "geom:latitude":34.94469,
+    "geom:longitude":37.94962,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rasm Hamdawi",
+    "gn:country_code":"SY",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502,
+    "gn:latitude":34.94469,
+    "gn:longitude":37.94962,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Rasm \u1e28amd\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u062d\u0645\u062f\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rasm \u1e28amd\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a34b84ad0499e25d62de163503bd3692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1327215037,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1327215037,
+    "wof:lastmodified":1537701531,
+    "wof:name":"Rasm Hamdawi",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94962,
+    34.94469,
+    37.94962,
+    34.94469
+],
+  "geometry": {"coordinates":[37.94962,34.94469],"type":"Point"}
+}

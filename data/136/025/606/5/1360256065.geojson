@@ -1,0 +1,75 @@
+{
+  "id": 1360256065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09913,35.16791,36.09913,35.16791",
+    "geom:latitude":35.16791,
+    "geom:longitude":36.09913,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Ghunsalah",
+    "gn:country_code":"SY",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173867,
+    "gn:latitude":35.16791,
+    "gn:longitude":36.09913,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Ghunsalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0646\u0633\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Rhonnsl\u00e9",
+        "Al Ghun\u015falah",
+        "Al Ghunsalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173867
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"45d88aa47108be7c33ea1d2a813e89ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1360256065,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1360256065,
+    "wof:lastmodified":1537702371,
+    "wof:name":"Al Ghunsalah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09913,
+    35.16791,
+    36.09913,
+    35.16791
+],
+  "geometry": {"coordinates":[36.09913,35.16791],"type":"Point"}
+}

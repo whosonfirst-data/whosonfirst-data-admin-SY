@@ -1,0 +1,77 @@
+{
+  "id": 1276645777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23826,36.46215,38.23826,36.46215",
+    "geom:latitude":36.46215,
+    "geom:longitude":38.23826,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sandaliyah al Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164852,
+    "gn:latitude":36.46215,
+    "gn:longitude":38.23826,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"\u015eandal\u012byah al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0646\u062f\u0644\u064a\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sanndaliy\u00e9 el K\u00e9bir\u00e9",
+        "Sanndal\u00eeyet el Keb\u00eere",
+        "\u015eandal\u012byah al Kab\u012brah",
+        "\u015eand\u0101l\u012byat al Kubr\u00e1",
+        "\u015eandal\u012byat al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164852
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68099178cdcb98024a0831ca8aebf7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276645777,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276645777,
+    "wof:lastmodified":1537701757,
+    "wof:name":"Sandaliyah al Kabirah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23826,
+    36.46215,
+    38.23826,
+    36.46215
+],
+  "geometry": {"coordinates":[38.23826,36.46215],"type":"Point"}
+}

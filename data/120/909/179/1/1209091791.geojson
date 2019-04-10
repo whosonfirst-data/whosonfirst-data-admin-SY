@@ -1,0 +1,67 @@
+{
+  "id": 1209091791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55266,33.53554,36.55266,33.53554",
+    "geom:latitude":33.53554,
+    "geom:longitude":36.55266,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard as Samasim",
+    "gn:country_code":"SY",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346608,
+    "gn:latitude":33.53554,
+    "gn:longitude":36.55266,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 as Sam\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0633\u0645\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 as Sam\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346608
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"369018996dd3ee5e49b2f28cb1577a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209091791
+        }
+    ],
+    "wof:id":1209091791,
+    "wof:lastmodified":1537702550,
+    "wof:name":"Ard as Samasim",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55266,
+    33.53554,
+    36.55266,
+    33.53554
+],
+  "geometry": {"coordinates":[36.55266,33.53554],"type":"Point"}
+}

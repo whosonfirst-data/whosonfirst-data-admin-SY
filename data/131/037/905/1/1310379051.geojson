@@ -1,0 +1,74 @@
+{
+  "id": 1310379051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93109,35.08467,35.93109,35.08467",
+    "geom:latitude":35.08467,
+    "geom:longitude":35.93109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Jinad",
+    "gn:country_code":"SY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171565,
+    "gn:latitude":35.08467,
+    "gn:longitude":35.93109,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bayt Jin\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0646\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Jn\u00e2d",
+        "Bayt Jin\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171565
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ff2a305af131fde36b743840d5d87626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1310379051,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310379051,
+    "wof:lastmodified":1537702209,
+    "wof:name":"Bayt Jinad",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93109000000001,
+    35.08467,
+    35.93109000000001,
+    35.08467
+],
+  "geometry": {"coordinates":[35.93109000000001,35.08467],"type":"Point"}
+}

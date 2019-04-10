@@ -1,0 +1,75 @@
+{
+  "id": 1310183323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84113,34.92417,36.84113,34.92417",
+    "geom:latitude":34.92417,
+    "geom:longitude":36.84113,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dayr Ful",
+    "gn:country_code":"SY",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170786,
+    "gn:latitude":34.92417,
+    "gn:longitude":36.84113,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Dayr F\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0641\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr Four",
+        "Dayr F\u016br",
+        "Dayr F\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170786
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2d5cd0960d77a841a11e7cbbdcce79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779171,
+            "locality_id":1310183323,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310183323,
+    "wof:lastmodified":1537702147,
+    "wof:name":"Dayr Ful",
+    "wof:parent_id":1108779171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84113,
+    34.92417,
+    36.84113,
+    34.92417
+],
+  "geometry": {"coordinates":[36.84113,34.92417],"type":"Point"}
+}

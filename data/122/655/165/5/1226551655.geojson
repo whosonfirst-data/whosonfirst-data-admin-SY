@@ -1,0 +1,123 @@
+{
+  "id": 1226551655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77591,32.93835,35.77591,32.93835",
+    "geom:latitude":32.93835,
+    "geom:longitude":35.77591,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dayr Mufaddal",
+    "gn:country_code":"SY",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8262934,
+    "gn:latitude":32.93835,
+    "gn:longitude":35.77591,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dayr Mufa\u1e11\u1e11al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u062a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631 \u0645\u0641\u0636\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sabtah",
+        "Dayr Mufa\u1e11\u1e11al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262934
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3df75e21407960dc9cef216ffd9e1f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1226551655,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1226551655,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1226551655,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1226551655,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1226551655,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1226551655,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1226551655,
+    "wof:lastmodified":1537702492,
+    "wof:name":"Dayr Mufaddal",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77591,
+    32.93835,
+    35.77591,
+    32.93835
+],
+  "geometry": {"coordinates":[35.77591,32.93835],"type":"Point"}
+}

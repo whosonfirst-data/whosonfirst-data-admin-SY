@@ -1,0 +1,77 @@
+{
+  "id": 1210030541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.77673,36.76675,40.77673,36.76675",
+    "geom:latitude":36.76675,
+    "geom:longitude":40.77673,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fatimah",
+    "gn:country_code":"SY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170429,
+    "gn:latitude":36.76675,
+    "gn:longitude":40.77673,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u0101\u0163imah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0637\u0645\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "F\u0101\u0163imah"
+    ],
+    "name:und_x_variant":[
+        "Fatm\u00e9",
+        "F\u0101\u0163imah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170429
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e7ebbf5bcee6bc7818f1165ca339d2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1210030541,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1210030541,
+    "wof:lastmodified":1537702123,
+    "wof:name":"Fatimah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.77673,
+    36.76675,
+    40.77673,
+    36.76675
+],
+  "geometry": {"coordinates":[40.77673,36.76675],"type":"Point"}
+}

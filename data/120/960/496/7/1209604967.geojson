@@ -1,0 +1,94 @@
+{
+  "id": 1209604967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13558,36.79639,38.13558,36.79639",
+    "geom:latitude":36.79639,
+    "geom:longitude":38.13558,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Darbazin Tahtani - Huri",
+    "gn:country_code":"SY",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170882,
+    "gn:latitude":36.79639,
+    "gn:longitude":38.13558,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Darb\u0101z\u012bn Ta\u1e29t\u0101n\u012b - H\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628\u0627\u0632\u064a\u0646 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0631\u0628\u0627\u0632\u064a\u0646 \u0627\u0644\u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u062f\u0627\u0631 \u0627\u0644\u0628\u0627\u0632 \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u062f\u0631\u0628\u0627\u0632\u064a\u0646 \u062a\u062d\u062a\u0627\u0646\u064a - \u0647\u0648\u0631\u064a",
+        "\u0647\u0648\u0631\u064a",
+        "\u062f\u0631\u0628\u0627\u0632\u064a\u0646 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Darbazina Zur"
+    ],
+    "name:kur_x_variant":[
+        "Darbazina Jor",
+        "Dar Baz\u00eena Jor",
+        "\u062f\u0627\u0631\u0628\u0627\u0632\u0646\u0627 \u0632\u0648\u0631",
+        "\u062f\u0627\u0631\u0628\u0627\u0632\u0646\u0627 \u0698\u06c6\u0631",
+        "\u062f\u0627\u0631\u0628\u0627\u0632\u064a\u0646\u0627 \u0698\u06c6\u0631",
+        "\u062f\u0627\u0631 \u0628\u0627\u0632\u0646\u0627 \u0698\u06c6\u0631"
+    ],
+    "name:und_x_variant":[
+        "Derb\u00e2z\u00eene Faouq\u00e2ni",
+        "Darb\u0101z\u012bn al Fawq\u0101n\u012b",
+        "Darb\u0101z\u012bn Fawq\u0101n\u012b",
+        "Dar Elbaz Foqan\u00ee",
+        "D\u0101r al B\u0101z Fawq\u0101n\u012b",
+        "Dar Bazina Jor",
+        "Derbaz\u00een Hor\u00ee",
+        "Darb\u0101z\u012bn Ta\u1e29t\u0101n\u012b - H\u016br\u012b",
+        "H\u016br\u012b",
+        "Darb\u0101z\u012bn Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170882
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4300582f227aff50ae0dff9417637c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209604967
+        }
+    ],
+    "wof:id":1209604967,
+    "wof:lastmodified":1537702155,
+    "wof:name":"Darbazin Tahtani - Huri",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13558,
+    36.79639,
+    38.13558,
+    36.79639
+],
+  "geometry": {"coordinates":[38.13558,36.79639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210000975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23442,35.5826,37.23442,35.5826",
+    "geom:latitude":35.5826,
+    "geom:longitude":37.23442,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm `Ibh",
+    "gn:country_code":"SY",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340075,
+    "gn:latitude":35.5826,
+    "gn:longitude":37.23442,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Umm \u2018Ib\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm \u2018Ib\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0639\u0628\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340075
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8ae86634820fc6da13390bfe96fbbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1210000975,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210000975,
+    "wof:lastmodified":1537702534,
+    "wof:name":"Umm `Ibh",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23442,
+    35.5826,
+    37.23442,
+    35.5826
+],
+  "geometry": {"coordinates":[37.23442,35.5826],"type":"Point"}
+}

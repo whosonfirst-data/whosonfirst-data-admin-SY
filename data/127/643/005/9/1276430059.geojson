@@ -1,0 +1,73 @@
+{
+  "id": 1276430059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38193,34.95765,36.38193,34.95765",
+    "geom:latitude":34.95765,
+    "geom:longitude":36.38193,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khirbat Nisaf",
+    "gn:country_code":"SY",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176777,
+    "gn:latitude":34.95765,
+    "gn:longitude":36.38193,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Khirbat N\u012b\u015f\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0646\u064a\u0635\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Khirbat N\u012b\u015f\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176777
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d09fd4246b4a810da21d076a417eb283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276430059,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276430059,
+    "wof:lastmodified":1537702605,
+    "wof:name":"Khirbat Nisaf",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38193,
+    34.95765,
+    36.38193,
+    34.95765
+],
+  "geometry": {"coordinates":[36.38193,34.95765],"type":"Point"}
+}

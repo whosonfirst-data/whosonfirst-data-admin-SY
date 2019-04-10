@@ -1,0 +1,75 @@
+{
+  "id": 1327217339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03154,35.22613,36.03154,35.22613",
+    "geom:latitude":35.22613,
+    "geom:longitude":36.03154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Juwaybat",
+    "gn:country_code":"SY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173672,
+    "gn:latitude":35.22613,
+    "gn:longitude":36.03154,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Juwayb\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u064a\u0628\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Joua\u00efb\u00e2te",
+        "Al Juwayb\u0101t",
+        "Juwayb\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173672
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"58a0803d08c5a5fffbb52840710a427f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1327217339,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1327217339,
+    "wof:lastmodified":1537702353,
+    "wof:name":"Juwaybat",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03154,
+    35.22613,
+    36.03154,
+    35.22613
+],
+  "geometry": {"coordinates":[36.03154,35.22613],"type":"Point"}
+}

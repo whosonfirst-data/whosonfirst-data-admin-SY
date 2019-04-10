@@ -1,0 +1,76 @@
+{
+  "id": 1343831687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10293,35.02009,36.10293,35.02009",
+    "geom:latitude":35.02009,
+    "geom:longitude":36.10293,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bnamrah",
+    "gn:country_code":"SY",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171319,
+    "gn:latitude":35.02009,
+    "gn:longitude":36.10293,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bnamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bnamra",
+        "Bnamrah",
+        "Binamrah",
+        "Banmarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171319
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b4e9b2ff1ff17cb1d5598b1dc9185b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":1343831687,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343831687,
+    "wof:lastmodified":1537702188,
+    "wof:name":"Bnamrah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10293,
+    35.02009,
+    36.10293,
+    35.02009
+],
+  "geometry": {"coordinates":[36.10293,35.02009],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243548255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57634,35.22567,37.57634,35.22567",
+    "geom:latitude":35.22567,
+    "geom:longitude":37.57634,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm at Tinah",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420149,
+    "gn:latitude":35.22567,
+    "gn:longitude":37.57634,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm at T\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rasm at T\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420149
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4235f5490db08863bcd9c784d5a798ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1243548255,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243548255,
+    "wof:lastmodified":1537702439,
+    "wof:name":"Rasm at Tinah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57634,
+    35.22567,
+    37.57634,
+    35.22567
+],
+  "geometry": {"coordinates":[37.57634,35.22567],"type":"Point"}
+}

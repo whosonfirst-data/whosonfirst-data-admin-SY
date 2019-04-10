@@ -1,0 +1,73 @@
+{
+  "id": 1226055499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96734,35.40449,35.96734,35.40449",
+    "geom:latitude":35.40449,
+    "geom:longitude":35.96734,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat Birwas",
+    "gn:country_code":"SY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695953,
+    "gn:latitude":35.40449,
+    "gn:longitude":35.96734,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Khirbat Birw\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0628\u0631\u0648\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Birw\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695953
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3c06d7be1380342c5a5480aeddc9397b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1226055499,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226055499,
+    "wof:lastmodified":1537702586,
+    "wof:name":"Khirbat Birwas",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96734,
+    35.40449,
+    35.96734,
+    35.40449
+],
+  "geometry": {"coordinates":[35.96734,35.40449],"type":"Point"}
+}

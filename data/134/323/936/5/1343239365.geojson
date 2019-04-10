@@ -1,0 +1,73 @@
+{
+  "id": 1343239365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44257,35.85656,36.44257,35.85656",
+    "geom:latitude":35.85656,
+    "geom:longitude":36.44257,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ash Shaykh Muhammad",
+    "gn:country_code":"SY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11555057,
+    "gn:latitude":35.85656,
+    "gn:longitude":36.44257,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ash Shaykh Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaykh Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11555057
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"57b41a57667d7fc471f42637a7c583b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1343239365,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343239365,
+    "wof:lastmodified":1537702636,
+    "wof:name":"Ash Shaykh Muhammad",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44257,
+    35.85655999999999,
+    36.44257,
+    35.85655999999999
+],
+  "geometry": {"coordinates":[36.44257,35.85655999999999],"type":"Point"}
+}

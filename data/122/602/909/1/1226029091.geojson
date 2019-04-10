@@ -1,0 +1,75 @@
+{
+  "id": 1226029091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16692,36.63426,37.16692,36.63426",
+    "geom:latitude":36.63426,
+    "geom:longitude":37.16692,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafr Shush",
+    "gn:country_code":"SY",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168632,
+    "gn:latitude":36.63426,
+    "gn:longitude":37.16692,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kafr Sh\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Kafer Cho\u00fbch",
+        "Kafr Sh\u016bsh",
+        "Kafrsh\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168632
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6e0481c6281f48e30305c812fa0b7dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1226029091,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226029091,
+    "wof:lastmodified":1537702007,
+    "wof:name":"Kafr Shush",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16692000000001,
+    36.63426,
+    37.16692000000001,
+    36.63426
+],
+  "geometry": {"coordinates":[37.16692000000001,36.63426],"type":"Point"}
+}

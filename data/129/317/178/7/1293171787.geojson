@@ -1,0 +1,73 @@
+{
+  "id": 1293171787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87998,34.95141,35.87998,34.95141",
+    "geom:latitude":34.95141,
+    "geom:longitude":35.87998,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Musa al Barudi",
+    "gn:country_code":"SY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8269917,
+    "gn:latitude":34.95141,
+    "gn:longitude":35.87998,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"M\u016bs\u00e1 al B\u0101r\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0649 \u0627\u0644\u0628\u0627\u0631\u0648\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u016bs\u00e1 al B\u0101r\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8269917
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86ac45becaeb9a796f998a2149ff21d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1293171787,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293171787,
+    "wof:lastmodified":1537702505,
+    "wof:name":"Musa al Barudi",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87998,
+    34.95141,
+    35.87998,
+    34.95141
+],
+  "geometry": {"coordinates":[35.87998,34.95141],"type":"Point"}
+}

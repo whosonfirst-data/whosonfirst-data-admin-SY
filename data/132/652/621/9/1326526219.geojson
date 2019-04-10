@@ -1,0 +1,70 @@
+{
+  "id": 1326526219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11991,35.82147,37.11991,35.82147",
+    "geom:latitude":35.82147,
+    "geom:longitude":37.11991,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall al Wazz",
+    "gn:country_code":"SY",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338118,
+    "gn:latitude":35.82147,
+    "gn:longitude":37.11991,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Tall al Wazz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338118
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d405ce0afd15fdc495803be5e05c1733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1326526219,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326526219,
+    "wof:lastmodified":1537702529,
+    "wof:name":"Tall al Wazz",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11991,
+    35.82147,
+    37.11991,
+    35.82147
+],
+  "geometry": {"coordinates":[37.11991,35.82147],"type":"Point"}
+}

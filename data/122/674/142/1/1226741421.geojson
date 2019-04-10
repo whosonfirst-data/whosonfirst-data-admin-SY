@@ -1,0 +1,74 @@
+{
+  "id": 1226741421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37456,35.17703,40.37456,35.17703",
+    "geom:latitude":35.17703,
+    "geom:longitude":40.37456,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"At Tub",
+    "gn:country_code":"SY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275966,
+    "gn:latitude":35.17703,
+    "gn:longitude":40.37456,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"A\u0163 \u0162\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162\u016bb",
+        "A\u0163 \u0162awb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275966
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"206e2956e3bcfc08362fc0f8a353bdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1226741421,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226741421,
+    "wof:lastmodified":1537702521,
+    "wof:name":"At Tub",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37456,
+    35.17703,
+    40.37456,
+    35.17703
+],
+  "geometry": {"coordinates":[40.37456,35.17703],"type":"Point"}
+}

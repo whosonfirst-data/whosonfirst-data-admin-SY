@@ -1,0 +1,78 @@
+{
+  "id": 1259780879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42907,33.19833,36.42907,33.19833",
+    "geom:latitude":33.19833,
+    "geom:longitude":36.42907,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Buwaydan",
+    "gn:country_code":"SY",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171088,
+    "gn:latitude":33.19833,
+    "gn:longitude":36.42907,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Buway\u1e11\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0636\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0432\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Yaqf\u0101n",
+        "Boua\u00efd\u00e2ne",
+        "Buway\u1e11\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171088
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"35bb33679ac82502f917164a0f0295ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1259780879,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259780879,
+    "wof:lastmodified":1537702170,
+    "wof:name":"Buwaydan",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42907,
+    33.19833,
+    36.42907,
+    33.19833
+],
+  "geometry": {"coordinates":[36.42907,33.19833],"type":"Point"}
+}

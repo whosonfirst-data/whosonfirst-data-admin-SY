@@ -1,0 +1,74 @@
+{
+  "id": 1209426475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6948,32.89465,35.6948,32.89465",
+    "geom:latitude":32.89465,
+    "geom:longitude":35.6948,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khirbat al Khawkhah",
+    "gn:country_code":"SY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":168000,
+    "gn:latitude":32.89465,
+    "gn:longitude":35.6948,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Khirbat al Khawkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062e\u0648\u062e\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Khaoukha",
+        "Khirbat Khawkhah",
+        "Khirbat al Khawkhah",
+        "\u1e28u\u015fr",
+        "\u1e28a\u1e11r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168000
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c85b5b6358d61576cbd0febc5c5560a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209426475
+        }
+    ],
+    "wof:id":1209426475,
+    "wof:lastmodified":1537701961,
+    "wof:name":"Khirbat al Khawkhah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6948,
+    32.89465,
+    35.6948,
+    32.89465
+],
+  "geometry": {"coordinates":[35.6948,32.89465],"type":"Point"}
+}

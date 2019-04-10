@@ -1,0 +1,74 @@
+{
+  "id": 1310014749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05768,35.37705,36.05768,35.37705",
+    "geom:latitude":35.37705,
+    "geom:longitude":36.05768,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hawran al Budi",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169730,
+    "gn:latitude":35.37705,
+    "gn:longitude":36.05768,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28awr\u0101n al B\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0631\u0627\u0646 \u0627\u0644\u0628\u0648\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Hour\u00e2ne el Bo\u00fbdi",
+        "\u1e28awr\u0101n al B\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169730
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4f68f7cbaf1befccfa1d368b35639634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1310014749,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310014749,
+    "wof:lastmodified":1537702085,
+    "wof:name":"Hawran al Budi",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05768,
+    35.37705,
+    36.05768,
+    35.37705
+],
+  "geometry": {"coordinates":[36.05768,35.37705],"type":"Point"}
+}

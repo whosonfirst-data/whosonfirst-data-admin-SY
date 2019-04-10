@@ -1,0 +1,73 @@
+{
+  "id": 1293478925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15,35.43333,37.15,35.43333",
+    "geom:latitude":35.43333,
+    "geom:longitude":37.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haouayess Umm Jurah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169918,
+    "gn:latitude":35.43333,
+    "gn:longitude":37.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haou\u00e2yess Umm J\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haou\u00e2yess Oum Joura",
+        "Haou\u00e2yess Oum Journ",
+        "Haou\u00e2yess Umm J\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169918
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e4673a13e6b0d577492407cf5a7b110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293478925,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293478925,
+    "wof:lastmodified":1537702097,
+    "wof:name":"Haouayess Umm Jurah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15,
+    35.43333,
+    37.15,
+    35.43333
+],
+  "geometry": {"coordinates":[37.15,35.43333],"type":"Point"}
+}

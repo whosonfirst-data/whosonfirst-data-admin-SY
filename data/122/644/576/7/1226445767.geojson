@@ -1,0 +1,78 @@
+{
+  "id": 1226445767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02277,35.58056,36.02277,35.58056",
+    "geom:latitude":35.58056,
+    "geom:longitude":36.02277,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dafil",
+    "gn:country_code":"SY",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170999,
+    "gn:latitude":35.58056,
+    "gn:longitude":36.02277,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Daf\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0641\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0634\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Df\u00eel",
+        "Daf\u012bl",
+        "Tishr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170999
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"874c189419fb47b97ce2c27ceb99dcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1226445767,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226445767,
+    "wof:lastmodified":1537702163,
+    "wof:name":"Dafil",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02277,
+    35.58056,
+    36.02277,
+    35.58056
+],
+  "geometry": {"coordinates":[36.02277,35.58056],"type":"Point"}
+}

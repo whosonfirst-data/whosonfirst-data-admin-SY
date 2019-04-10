@@ -1,0 +1,70 @@
+{
+  "id": 1226720953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98074,34.9013,35.98074,34.9013",
+    "geom:latitude":34.9013,
+    "geom:longitude":35.98074,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Jarkas",
+    "gn:country_code":"SY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266534,
+    "gn:latitude":34.9013,
+    "gn:longitude":35.98074,
+    "gn:modification_date":"2014-02-15",
+    "gn:name":"Bayt Jarkas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0631\u0643\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266534
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0ff438c1cee658f82ec0ad9c988851e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226720953,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226720953,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Bayt Jarkas",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98074000000001,
+    34.9013,
+    35.98074000000001,
+    34.9013
+],
+  "geometry": {"coordinates":[35.98074000000001,34.9013],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226426799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68204,36.70076,37.68204,36.70076",
+    "geom:latitude":36.70076,
+    "geom:longitude":37.68204,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at Haydar Basha",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169679,
+    "gn:latitude":36.70076,
+    "gn:longitude":37.68204,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mazra\u2018at \u1e28aydar B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062d\u064a\u062f\u0631 \u0628\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "He\u00efdar Pacha",
+        "\u1e28aydar B\u0101sh\u0101",
+        "Dar",
+        "Mazra\u2018at \u1e28aydar B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169679
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"42d1e86cf134823a420a5795c65cd0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1226426799,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226426799,
+    "wof:lastmodified":1537702081,
+    "wof:name":"Mazra`at Haydar Basha",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68204,
+    36.70076,
+    37.68204,
+    36.70076
+],
+  "geometry": {"coordinates":[37.68204,36.70076],"type":"Point"}
+}

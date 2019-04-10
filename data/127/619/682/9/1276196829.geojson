@@ -1,0 +1,75 @@
+{
+  "id": 1276196829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11318,35.20383,36.11318,35.20383",
+    "geom:latitude":35.20383,
+    "geom:longitude":36.11318,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ad Dardarah",
+    "gn:country_code":"SY",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174251,
+    "gn:latitude":35.20383,
+    "gn:longitude":36.11318,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ad Dard\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Derd\u00e2ra",
+        "Ed Derd\u00e2ra",
+        "Ad Dard\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174251
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c2b38916b03bffb3c2f83c2a379dac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1276196829,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276196829,
+    "wof:lastmodified":1537702400,
+    "wof:name":"Ad Dardarah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11318,
+    35.20383,
+    36.11318,
+    35.20383
+],
+  "geometry": {"coordinates":[36.11318,35.20383],"type":"Point"}
+}

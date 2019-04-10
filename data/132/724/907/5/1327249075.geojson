@@ -1,0 +1,74 @@
+{
+  "id": 1327249075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.53545,36.9648,40.53545,36.9648",
+    "geom:latitude":36.9648,
+    "geom:longitude":40.53545,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Turbah Sibi",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163109,
+    "gn:latitude":36.9648,
+    "gn:longitude":40.53545,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Turbah S\u012bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0628\u0629 \u0633\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Terb\u00e9 Sipi",
+        "Turbah S\u012bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163109
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a450716b44e22c9e8133eb697afd07b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1327249075,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327249075,
+    "wof:lastmodified":1537701637,
+    "wof:name":"Turbah Sibi",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.53545,
+    36.9648,
+    40.53545,
+    36.9648
+],
+  "geometry": {"coordinates":[40.53545,36.9648],"type":"Point"}
+}

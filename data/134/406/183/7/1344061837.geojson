@@ -1,0 +1,80 @@
+{
+  "id": 1344061837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73854,33.00776,36.73854,33.00776",
+    "geom:latitude":33.00776,
+    "geom:longitude":36.73854,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madhbah ad Duruz",
+    "gn:country_code":"SY",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167551,
+    "gn:latitude":33.00776,
+    "gn:longitude":36.73854,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Madhba\u1e29 ad Dur\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0630\u0628\u062d \u0627\u0644\u062f\u0631\u0648\u0632"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Madbah ed Drouze",
+        "Madbah ed Dro\u00fbz",
+        "Madhba\u1e29at ad Dur\u016bz",
+        "Madhba\u1e29 ad Dur\u016bz",
+        "Al Qa\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167551
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"31f31515175dfbed62b0e71eb2a4876a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1344061837,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1344061837,
+    "wof:lastmodified":1537701922,
+    "wof:name":"Madhbah ad Duruz",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73854,
+    33.00776,
+    36.73854,
+    33.00776
+],
+  "geometry": {"coordinates":[36.73854,33.00776],"type":"Point"}
+}

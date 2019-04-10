@@ -1,0 +1,79 @@
+{
+  "id": 1242757913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64167,35.84079,36.64167,35.84079",
+    "geom:latitude":35.84079,
+    "geom:longitude":36.64167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Musibin",
+    "gn:country_code":"SY",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166837,
+    "gn:latitude":35.84079,
+    "gn:longitude":36.64167,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mu\u015f\u012bb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u015f\u012bb\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "Mu\u015f\u012bb\u012bn",
+        "\u0645\u0635\u064a\u0628\u064a\u0646",
+        "Mu\u015fb\u012bn",
+        "\u0645\u0635\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ms\u00eeb\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166837
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b227a4332b10deb4e6066eecc6e1f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1242757913,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1242757913,
+    "wof:lastmodified":1537701882,
+    "wof:name":"Musibin",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64167,
+    35.84079000000001,
+    36.64167,
+    35.84079000000001
+],
+  "geometry": {"coordinates":[36.64167,35.84079000000001],"type":"Point"}
+}

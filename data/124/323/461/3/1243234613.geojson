@@ -1,0 +1,74 @@
+{
+  "id": 1243234613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19178,35.08227,36.19178,35.08227",
+    "geom:latitude":35.08227,
+    "geom:longitude":36.19178,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Muqarmadah",
+    "gn:country_code":"SY",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173426,
+    "gn:latitude":35.08227,
+    "gn:longitude":36.19178,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Muqarmadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0631\u0645\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mqarmad\u00e9",
+        "Al Muqarmadah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173426
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9160c87ab90d09892883b1b391233431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243234613,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243234613,
+    "wof:lastmodified":1537702333,
+    "wof:name":"Al Muqarmadah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19178,
+    35.08227,
+    36.19178,
+    35.08227
+],
+  "geometry": {"coordinates":[36.19178,35.08227],"type":"Point"}
+}

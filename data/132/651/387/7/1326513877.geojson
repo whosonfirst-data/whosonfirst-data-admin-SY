@@ -1,0 +1,77 @@
+{
+  "id": 1326513877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58241,34.95101,36.58241,34.95101",
+    "geom:latitude":34.95101,
+    "geom:longitude":36.58241,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jidrin",
+    "gn:country_code":"SY",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169068,
+    "gn:latitude":34.95101,
+    "gn:longitude":36.58241,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jidr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jidr\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062f\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jidr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169068,
+        "wk:page":"Jidrin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"857312196cba0907e5a4647339fa578d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1326513877,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1326513877,
+    "wof:lastmodified":1537702043,
+    "wof:name":"Jidrin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58241,
+    34.95101,
+    36.58241,
+    34.95101
+],
+  "geometry": {"coordinates":[36.58241,34.95101],"type":"Point"}
+}

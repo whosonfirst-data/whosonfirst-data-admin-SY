@@ -1,0 +1,74 @@
+{
+  "id": 1343379989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02267,35.88496,37.02267,35.88496",
+    "geom:latitude":35.88496,
+    "geom:longitude":37.02267,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Waridah",
+    "gn:country_code":"SY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":166296,
+    "gn:latitude":35.88496,
+    "gn:longitude":37.02267,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"War\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0631\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Our\u00eeda",
+        "War\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166296
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0dfcdb65d73372a49a820b924b919940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343379989,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343379989,
+    "wof:lastmodified":1537701852,
+    "wof:name":"Waridah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02267,
+    35.88496,
+    37.02267,
+    35.88496
+],
+  "geometry": {"coordinates":[37.02267,35.88496],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343645439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54468,35.05439,36.54468,35.05439",
+    "geom:latitude":35.05439,
+    "geom:longitude":36.54468,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Huwayr as Sulayb",
+    "gn:country_code":"SY",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169424,
+    "gn:latitude":35.05439,
+    "gn:longitude":36.54468,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u1e28uwayr a\u015f \u015eulayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0631 \u0627\u0644\u0635\u0644\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Hou\u00e9r\u00e9",
+        "Houa\u00efr es Sla\u00efb",
+        "\u1e28uwayr a\u015f \u015eulayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1136f63f0bcabdcc0127525d7d7299db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343645439,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343645439,
+    "wof:lastmodified":1537702065,
+    "wof:name":"Huwayr as Sulayb",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54468,
+    35.05439000000001,
+    36.54468,
+    35.05439000000001
+],
+  "geometry": {"coordinates":[36.54468,35.05439000000001],"type":"Point"}
+}

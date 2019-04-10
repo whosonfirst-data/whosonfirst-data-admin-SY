@@ -1,0 +1,75 @@
+{
+  "id": 1293134043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69695,36.55091,38.69695,36.55091",
+    "geom:latitude":36.55091,
+    "geom:longitude":38.69695,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Katta",
+    "gn:country_code":"SY",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9127,
+    "gn:latitude":36.55091,
+    "gn:longitude":38.69695,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Katt\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kat\u0101",
+        "Katt\u0101",
+        "Gatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9127
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13bd1f6dedfc0cc956d2f45ead16b92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1293134043,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1293134043,
+    "wof:lastmodified":1537701564,
+    "wof:name":"Katta",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69695,
+    36.55091,
+    38.69695,
+    36.55091
+],
+  "geometry": {"coordinates":[38.69695,36.55091],"type":"Point"}
+}

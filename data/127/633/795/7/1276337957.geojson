@@ -1,0 +1,79 @@
+{
+  "id": 1276337957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15733,35.65544,36.15733,35.65544",
+    "geom:latitude":35.65544,
+    "geom:longitude":36.15733,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sitarbah",
+    "gn:country_code":"SY",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173165,
+    "gn:latitude":35.65544,
+    "gn:longitude":36.15733,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Sitarbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nab\u00e2t\u00e9",
+        "An Nubay\u2018\u0101t",
+        "Sitarbah",
+        "Starb\u00e9",
+        "Starbah",
+        "Qalaat Starb\u00e9",
+        "Qal\u2018at Starb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173165
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b97950c13cc5f82e194bf8863ead1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1276337957,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276337957,
+    "wof:lastmodified":1537702314,
+    "wof:name":"Sitarbah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15733,
+    35.65544000000001,
+    36.15733,
+    35.65544000000001
+],
+  "geometry": {"coordinates":[36.15733,35.65544000000001],"type":"Point"}
+}

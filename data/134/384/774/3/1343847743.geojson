@@ -1,0 +1,80 @@
+{
+  "id": 1343847743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43155,36.01724,37.43155,36.01724",
+    "geom:latitude":36.01724,
+    "geom:longitude":37.43155,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kharab Rash",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168296,
+    "gn:latitude":36.01724,
+    "gn:longitude":37.43155,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kharab R\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0631\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628 \u0631\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Khan el Abrache",
+        "Kharabrach",
+        "Khar\u0101brash",
+        "Kharabrash",
+        "Kharab R\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168296
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"56ebfeb394a6b8c2d7c34ffd0fd437af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1343847743,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343847743,
+    "wof:lastmodified":1537701980,
+    "wof:name":"Kharab Rash",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43155,
+    36.01724,
+    37.43155,
+    36.01724
+],
+  "geometry": {"coordinates":[37.43155,36.01724],"type":"Point"}
+}

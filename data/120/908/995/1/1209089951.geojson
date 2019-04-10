@@ -1,0 +1,78 @@
+{
+  "id": 1209089951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94414,34.98151,35.94414,34.98151",
+    "geom:latitude":34.98151,
+    "geom:longitude":35.94414,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sawda",
+    "gn:country_code":"SY",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172454,
+    "gn:latitude":34.98151,
+    "gn:longitude":35.94414,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"As Sawd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u062f\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0648\u062f\u0629",
+        "\u0627\u0644\u0633\u0648\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Es Soda",
+        "Sawdah",
+        "Saouda",
+        "Sauda",
+        "Sawd\u0101\u2019",
+        "As Sawd\u0101\u2019",
+        "As Sawdah",
+        "As Sawd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172454
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db629273e6ebf0eed83a5652b1b26679",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209089951
+        }
+    ],
+    "wof:id":1209089951,
+    "wof:lastmodified":1537702276,
+    "wof:name":"As Sawda",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94414000000001,
+    34.98151,
+    35.94414000000001,
+    34.98151
+],
+  "geometry": {"coordinates":[35.94414000000001,34.98151],"type":"Point"}
+}

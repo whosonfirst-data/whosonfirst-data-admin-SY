@@ -1,0 +1,78 @@
+{
+  "id": 1226421483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12015,35.06987,36.12015,35.06987",
+    "geom:latitude":35.06987,
+    "geom:longitude":36.12015,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ad Danbiyah",
+    "gn:country_code":"SY",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174258,
+    "gn:latitude":35.06987,
+    "gn:longitude":36.12015,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ad Danb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0646\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ed Dannb\u00eey\u00e9",
+        "Ad Danb\u012byah",
+        "Al Man\u015f\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174258
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f13e41038958db65bec64053504a16da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226421483,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226421483,
+    "wof:lastmodified":1537702401,
+    "wof:name":"Ad Danbiyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12015,
+    35.06987,
+    36.12015,
+    35.06987
+],
+  "geometry": {"coordinates":[36.12015,35.06987],"type":"Point"}
+}

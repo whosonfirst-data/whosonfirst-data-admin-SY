@@ -1,0 +1,67 @@
+{
+  "id": 1343258493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.225,36.65833,37.225,36.65833",
+    "geom:latitude":36.65833,
+    "geom:longitude":37.225,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hiwar Kalas",
+    "gn:country_code":"SY",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12938,
+    "gn:latitude":36.65833,
+    "gn:longitude":37.225,
+    "gn:modification_date":"1998-06-23",
+    "gn:name":"\u1e28iw\u0101r Kalas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12938
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d107c9c1ca9baef4ec9300543ca62f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1343258493,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343258493,
+    "wof:lastmodified":1537036184,
+    "wof:name":"Hiwar Kalas",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.225,
+    36.65833,
+    37.225,
+    36.65833
+],
+  "geometry": {"coordinates":[37.225,36.65833],"type":"Point"}
+}

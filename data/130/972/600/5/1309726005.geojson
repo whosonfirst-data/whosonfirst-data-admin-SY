@@ -1,0 +1,76 @@
+{
+  "id": 1309726005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16003,37.04723,41.16003,37.04723",
+    "geom:latitude":37.04723,
+    "geom:longitude":41.16003,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Himu",
+    "gn:country_code":"SY",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169574,
+    "gn:latitude":37.04723,
+    "gn:longitude":41.16003,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"\u1e28\u012bm\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0645\u0648"
+    ],
+    "name:tur_x_preferred":[
+        "\u1e28\u012bm\u016b"
+    ],
+    "name:und_x_variant":[
+        "H\u00eemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169574
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"057195c6fd1d41f68c1d6421d5e2a20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1309726005,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1309726005,
+    "wof:lastmodified":1537702075,
+    "wof:name":"Himu",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16003,
+    37.04723,
+    41.16003,
+    37.04723
+],
+  "geometry": {"coordinates":[41.16003,37.04723],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277068363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93722,35.47033,39.93722,35.47033",
+    "geom:latitude":35.47033,
+    "geom:longitude":39.93722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shumaytah",
+    "gn:country_code":"SY",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164207,
+    "gn:latitude":35.47033,
+    "gn:longitude":39.93722,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Shumaytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chma\u00eft\u00eey\u00e9",
+        "Shumay\u0163\u012byah",
+        "Shumaytah",
+        "Mashmay\u0163\u012byah Fay\u1e11\u0101t",
+        "Chma\u00eftiy\u00e9",
+        "Chm\u00e9teiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164207
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b07df3837f3b9bc90919f9f134f04d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1277068363,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1277068363,
+    "wof:lastmodified":1537701722,
+    "wof:name":"Shumaytah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93722,
+    35.47033,
+    39.93722,
+    35.47033
+],
+  "geometry": {"coordinates":[39.93722,35.47033],"type":"Point"}
+}

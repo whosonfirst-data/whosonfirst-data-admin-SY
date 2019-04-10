@@ -1,0 +1,74 @@
+{
+  "id": 1293196313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.61741,36.21244,37.61741,36.21244",
+    "geom:latitude":36.21244,
+    "geom:longitude":37.61741,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nasr Allah",
+    "gn:country_code":"SY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166375,
+    "gn:latitude":36.21244,
+    "gn:longitude":37.61741,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Na\u015fr All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0631 \u0622\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Naceur Allah",
+        "Na\u015fr All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166375
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"083215b61b984915f647911c8a52a337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293196313,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293196313,
+    "wof:lastmodified":1537701856,
+    "wof:name":"Nasr Allah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.61741,
+    36.21244,
+    37.61741,
+    36.21244
+],
+  "geometry": {"coordinates":[37.61741,36.21244],"type":"Point"}
+}

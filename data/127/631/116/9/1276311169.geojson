@@ -1,0 +1,76 @@
+{
+  "id": 1276311169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22584,34.644,36.22584,34.644",
+    "geom:latitude":34.644,
+    "geom:longitude":36.22584,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Halat",
+    "gn:country_code":"SY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170056,
+    "gn:latitude":34.644,
+    "gn:longitude":36.22584,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u1e28\u0101l\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101l\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0644\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2l\u00e2te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170056
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d10e1855cd06f445ceba63686e7d5191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1276311169,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276311169,
+    "wof:lastmodified":1537702106,
+    "wof:name":"Halat",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22584000000001,
+    34.644,
+    36.22584000000001,
+    34.644
+],
+  "geometry": {"coordinates":[36.22584000000001,34.644],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276139973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42135,35.15725,36.42135,35.15725",
+    "geom:latitude":35.15725,
+    "geom:longitude":36.42135,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hazzanah",
+    "gn:country_code":"SY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173783,
+    "gn:latitude":35.15725,
+    "gn:longitude":36.42135,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Hazz\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0632\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Hazz\u00e2ni",
+        "Al Hazz\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173783
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3aca5f2dfc191321f53c3d5754439f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276139973,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276139973,
+    "wof:lastmodified":1537702364,
+    "wof:name":"Al Hazzanah",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42135,
+    35.15725,
+    36.42135,
+    35.15725
+],
+  "geometry": {"coordinates":[36.42135,35.15725],"type":"Point"}
+}

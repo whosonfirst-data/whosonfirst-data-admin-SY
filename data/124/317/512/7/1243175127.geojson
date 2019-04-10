@@ -1,0 +1,73 @@
+{
+  "id": 1243175127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07494,35.25114,36.07494,35.25114",
+    "geom:latitude":35.25114,
+    "geom:longitude":36.07494,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bitshah",
+    "gn:country_code":"SY",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556252,
+    "gn:latitude":35.25114,
+    "gn:longitude":36.07494,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bi\u0163sh\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0634\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Bi\u0163sh\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556252
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed4858f2b63fc67a7fc7f0aab7418082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1243175127,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243175127,
+    "wof:lastmodified":1537702641,
+    "wof:name":"Bitshah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07494000000001,
+    35.25114,
+    36.07494000000001,
+    35.25114
+],
+  "geometry": {"coordinates":[36.07494000000001,35.25114],"type":"Point"}
+}

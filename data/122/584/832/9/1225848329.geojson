@@ -1,0 +1,73 @@
+{
+  "id": 1225848329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89783,35.5213,35.89783,35.5213",
+    "geom:latitude":35.5213,
+    "geom:longitude":35.89783,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al Musalla",
+    "gn:country_code":"SY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471044,
+    "gn:latitude":35.5213,
+    "gn:longitude":35.89783,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Khirbat al Mu\u015fall\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0635\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Mu\u015fall\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471044
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b46268f2e52b94433694c2ac1a6baf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1225848329,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1225848329,
+    "wof:lastmodified":1537702573,
+    "wof:name":"Khirbat al Musalla",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89783,
+    35.5213,
+    35.89783,
+    35.5213
+],
+  "geometry": {"coordinates":[35.89783,35.5213],"type":"Point"}
+}

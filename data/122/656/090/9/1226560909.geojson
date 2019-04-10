@@ -1,0 +1,73 @@
+{
+  "id": 1226560909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01676,35.7022,38.01676,35.7022",
+    "geom:latitude":35.7022,
+    "geom:longitude":38.01676,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ali al Haza`",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783,
+    "gn:latitude":35.7022,
+    "gn:longitude":38.01676,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Al\u012b al Haz\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u0647\u0632\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b al Haz\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cfa1f07de9f83730bb519be33af1dc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1226560909,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226560909,
+    "wof:lastmodified":1537701556,
+    "wof:name":"`Ali al Haza`",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01676,
+    35.7022,
+    38.01676,
+    35.7022
+],
+  "geometry": {"coordinates":[38.01676,35.7022],"type":"Point"}
+}

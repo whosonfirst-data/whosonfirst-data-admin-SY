@@ -1,0 +1,73 @@
+{
+  "id": 1344076831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.00818,33.53228,38.00818,33.53228",
+    "geom:latitude":33.53228,
+    "geom:longitude":38.00818,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nahiyat as Sab` Biyar",
+    "gn:country_code":"SY",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7905767,
+    "gn:latitude":33.53228,
+    "gn:longitude":38.00818,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"N\u0101\u1e29iyat as Sab\u2018 Biy\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u0627\u0644\u0633\u0628\u0639 \u0628\u064a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "N\u0101\u1e29iyat as Sab\u2018 Biy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905767
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19390d3def73554e6f3049b76ed2b63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1344076831,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1344076831,
+    "wof:lastmodified":1537702477,
+    "wof:name":"Nahiyat as Sab` Biyar",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.00818,
+    33.53228,
+    38.00818,
+    33.53228
+],
+  "geometry": {"coordinates":[38.00818,33.53228],"type":"Point"}
+}

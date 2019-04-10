@@ -1,0 +1,75 @@
+{
+  "id": 1192998391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4856,35.61,36.4856,35.61",
+    "geom:latitude":35.61,
+    "geom:longitude":36.4856,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fatirah",
+    "gn:country_code":"SY",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173896,
+    "gn:latitude":35.61,
+    "gn:longitude":36.4856,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Fa\u0163\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0637\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fat\u00eer\u00e9",
+        "Al Fa\u0163\u012brah",
+        "Fa\u0163\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173896
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8da86becb2ef049d97c57f75d541b5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1192998391,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1192998391,
+    "wof:lastmodified":1537702373,
+    "wof:name":"Fatirah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4856,
+    35.61,
+    36.4856,
+    35.61
+],
+  "geometry": {"coordinates":[36.4856,35.61],"type":"Point"}
+}

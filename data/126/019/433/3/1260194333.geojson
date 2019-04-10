@@ -1,0 +1,119 @@
+{
+  "id": 1260194333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77074,33.09736,35.77074,33.09736",
+    "geom:latitude":33.09736,
+    "geom:longitude":35.77074,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Al Bajjah",
+    "gn:country_code":"SY",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8559945,
+    "gn:latitude":33.09736,
+    "gn:longitude":35.77074,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Al Bajjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062c\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0628\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Bajjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559945
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ef93bd792f23e00ae6ce214bb018c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1260194333,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1260194333,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1260194333,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1260194333,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1260194333,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1260194333,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1260194333,
+    "wof:lastmodified":1549931202,
+    "wof:name":"Al Bajjah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77074,
+    33.09735999999999,
+    35.77074,
+    33.09735999999999
+],
+  "geometry": {"coordinates":[35.77074,33.09735999999999],"type":"Point"}
+}

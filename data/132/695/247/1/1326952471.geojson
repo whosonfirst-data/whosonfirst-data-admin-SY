@@ -1,0 +1,72 @@
+{
+  "id": 1326952471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45,33.5,36.45,33.5",
+    "geom:latitude":33.5,
+    "geom:longitude":36.45,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh al Matban",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169712,
+    "gn:latitude":33.5,
+    "gn:longitude":36.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u1e28awsh al Matban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haouch el Matbann",
+        "\u1e28awsh al Matban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169712
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"08c83636298324af579f88cfa42943df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1326952471,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1326952471,
+    "wof:lastmodified":1537702084,
+    "wof:name":"Hawsh al Matban",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45,
+    33.5,
+    36.45,
+    33.5
+],
+  "geometry": {"coordinates":[36.45,33.5],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326819475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31638,35.41426,37.31638,35.41426",
+    "geom:latitude":35.41426,
+    "geom:longitude":37.31638,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Turut",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172316,
+    "gn:latitude":35.41426,
+    "gn:longitude":37.31638,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tur\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "At Tur\u016bt"
+    ],
+    "name:ara_x_variant":[
+        "Tur\u016bt",
+        "\u062a\u0631\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ett Tro\u00fbte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172316
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"94054e0e2de6562c464008e10f911da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1326819475,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1326819475,
+    "wof:lastmodified":1537702265,
+    "wof:name":"Turut",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31638,
+    35.41426,
+    37.31638,
+    35.41426
+],
+  "geometry": {"coordinates":[37.31638,35.41426],"type":"Point"}
+}

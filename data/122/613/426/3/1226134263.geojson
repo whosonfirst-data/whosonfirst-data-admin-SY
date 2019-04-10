@@ -1,0 +1,82 @@
+{
+  "id": 1226134263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42716,35.15618,40.42716,35.15618",
+    "geom:latitude":35.15618,
+    "geom:longitude":40.42716,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Busayrah",
+    "gn:country_code":"SY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":173927,
+    "gn:latitude":35.15618,
+    "gn:longitude":40.42716,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Al Bu\u015fayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Circesium",
+        "Bassira",
+        "Bu\u015fayrah",
+        "Bse\u00efra",
+        "Buseire",
+        "Bessireh",
+        "Buseira",
+        "Boussa\u00efra",
+        "Al Bu\u015fayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173927,
+        "wk:page":"Circesium"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7879ed226f8b0a50a731570ca54d22e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1226134263,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1226134263,
+    "wof:lastmodified":1537702376,
+    "wof:name":"Al Busayrah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42716,
+    35.15618,
+    40.42716,
+    35.15618
+],
+  "geometry": {"coordinates":[40.42716,35.15618],"type":"Point"}
+}

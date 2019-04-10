@@ -1,0 +1,76 @@
+{
+  "id": 1344041969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.49854,36.82126,38.49854,36.82126",
+    "geom:latitude":36.82126,
+    "geom:longitude":38.49854,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Buztabbah",
+    "gn:country_code":"SY",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9230,
+    "gn:latitude":36.82126,
+    "gn:longitude":38.49854,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"B\u016bztabbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0632\u062a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u016bztabah",
+        "B\u016bztabbah",
+        "Bawztabbah",
+        "B\u016bz Tabbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9230
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3901747539cd48f1c33e936ec6866844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1344041969,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1344041969,
+    "wof:lastmodified":1537701573,
+    "wof:name":"Buztabbah",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.49854000000001,
+    36.82126,
+    38.49854000000001,
+    36.82126
+],
+  "geometry": {"coordinates":[38.49854000000001,36.82126],"type":"Point"}
+}

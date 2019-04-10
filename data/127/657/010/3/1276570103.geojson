@@ -1,0 +1,72 @@
+{
+  "id": 1276570103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4204,36.39374,38.4204,36.39374",
+    "geom:latitude":36.39374,
+    "geom:longitude":38.4204,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bi'r ad Damm",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171443,
+    "gn:latitude":36.39374,
+    "gn:longitude":38.4204,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bi\u2019r ad Damm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00eer ed Damm",
+        "B\u00e2ch Keuy",
+        "Bi\u2019r ad Damm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171443
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"21ab573fed9e67784c87f8ba95f17be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1276570103,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276570103,
+    "wof:lastmodified":1537702199,
+    "wof:name":"Bi'r ad Damm",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4204,
+    36.39374,
+    38.4204,
+    36.39374
+],
+  "geometry": {"coordinates":[38.4204,36.39374],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193143309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97087,36.33948,38.97087,36.33948",
+    "geom:latitude":36.33948,
+    "geom:longitude":38.97087,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mutqaltah",
+    "gn:country_code":"SY",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166535,
+    "gn:latitude":36.33948,
+    "gn:longitude":38.97087,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Mutqaltah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0642\u0644\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Moutqelta",
+        "Mutqaltah",
+        "Mutaqaltah",
+        "Kal\u0163ah",
+        "Kalta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166535
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ea3d0340ce011a11ef163a6064c817f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1193143309,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1193143309,
+    "wof:lastmodified":1537701863,
+    "wof:name":"Mutqaltah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97087,
+    36.33948,
+    38.97087,
+    36.33948
+],
+  "geometry": {"coordinates":[38.97087,36.33948],"type":"Point"}
+}

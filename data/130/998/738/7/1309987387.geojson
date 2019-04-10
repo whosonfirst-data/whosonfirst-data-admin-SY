@@ -1,0 +1,73 @@
+{
+  "id": 1309987387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77543,34.71705,36.77543,34.71705",
+    "geom:latitude":34.71705,
+    "geom:longitude":36.77543,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ard al Bustan",
+    "gn:country_code":"SY",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8339898,
+    "gn:latitude":34.71705,
+    "gn:longitude":36.77543,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Bust\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Bust\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8339898
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6c630972ced78049b484f96f55657c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1309987387,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309987387,
+    "wof:lastmodified":1537702531,
+    "wof:name":"Ard al Bustan",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77543,
+    34.71705,
+    36.77543,
+    34.71705
+],
+  "geometry": {"coordinates":[36.77543,34.71705],"type":"Point"}
+}

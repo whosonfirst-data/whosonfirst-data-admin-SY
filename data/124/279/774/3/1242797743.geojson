@@ -1,0 +1,79 @@
+{
+  "id": 1242797743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01947,33.28198,36.01947,33.28198",
+    "geom:latitude":33.28198,
+    "geom:longitude":36.01947,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sa`sa`",
+    "gn:country_code":"SY",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":164773,
+    "gn:latitude":33.28198,
+    "gn:longitude":36.01947,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Sa\u2018sa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0639\u0633\u0639"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Saassaa",
+        "Sassa",
+        "Saassa",
+        "Sa\u2018sa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164773
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dc65a550c6c81b57cc79b5d0d94c5470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1242797743,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242797743,
+    "wof:lastmodified":1537701751,
+    "wof:name":"Sa`sa`",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01947,
+    33.28198,
+    36.01947,
+    33.28198
+],
+  "geometry": {"coordinates":[36.01947,33.28198],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225819279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99502,34.78249,35.99502,34.78249",
+    "geom:latitude":34.78249,
+    "geom:longitude":35.99502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al `Uwaykah",
+    "gn:country_code":"SY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8239143,
+    "gn:latitude":34.78249,
+    "gn:longitude":35.99502,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al \u2018Uwaykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uwaykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239143
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4380f77fbbb7bcfbacdd0015f24c3f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1225819279,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1225819279,
+    "wof:lastmodified":1537702492,
+    "wof:name":"Al `Uwaykah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99502000000001,
+    34.78249,
+    35.99502000000001,
+    34.78249
+],
+  "geometry": {"coordinates":[35.99502000000001,34.78249],"type":"Point"}
+}

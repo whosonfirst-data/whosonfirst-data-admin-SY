@@ -1,0 +1,75 @@
+{
+  "id": 1326714699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48957,36.13728,37.48957,36.13728",
+    "geom:latitude":36.13728,
+    "geom:longitude":37.48957,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dakwanah",
+    "gn:country_code":"SY",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170952,
+    "gn:latitude":36.13728,
+    "gn:longitude":37.48957,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Dakw\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0643\u0648\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dagouan\u00e9",
+        "Dekouane",
+        "Dakw\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170952
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e209c9719b1140b863bacee2a295e010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1326714699,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326714699,
+    "wof:lastmodified":1537702160,
+    "wof:name":"Dakwanah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48957,
+    36.13728,
+    37.48957,
+    36.13728
+],
+  "geometry": {"coordinates":[37.48957,36.13728],"type":"Point"}
+}

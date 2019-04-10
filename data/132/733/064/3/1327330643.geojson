@@ -1,0 +1,73 @@
+{
+  "id": 1327330643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98568,34.69236,39.98568,34.69236",
+    "geom:latitude":34.69236,
+    "geom:longitude":39.98568,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Faydat Bin Muwayni`",
+    "gn:country_code":"SY",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7897730,
+    "gn:latitude":34.69236,
+    "gn:longitude":39.98568,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Fay\u1e11at Bin Muwayni\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0636\u0629 \u0628\u0646 \u0645\u0648\u064a\u0646\u0639"
+    ],
+    "name:und_x_variant":[
+        "Fay\u1e11at Bin Muwayni\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7897730
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5ae22d834a2d5164ba4ea0330bb0ffb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779185,
+            "locality_id":1327330643,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1327330643,
+    "wof:lastmodified":1537702476,
+    "wof:name":"Faydat Bin Muwayni`",
+    "wof:parent_id":1108779185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98568,
+    34.69236,
+    39.98568,
+    34.69236
+],
+  "geometry": {"coordinates":[39.98568,34.69236],"type":"Point"}
+}

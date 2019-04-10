@@ -1,0 +1,72 @@
+{
+  "id": 1310379083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0,34.98333,36.0,34.98333",
+    "geom:latitude":34.98333,
+    "geom:longitude":36.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt Balatah al Gharbiyah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171578,
+    "gn:latitude":34.98333,
+    "gn:longitude":36.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayt Bal\u0101\u0163ah al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft Bl\u00e2tet el Rharb\u00eey\u00e9",
+        "Bayt Bal\u0101\u0163ah al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171578
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e00845c492db0af31ffb96c0ba767d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1310379083,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310379083,
+    "wof:lastmodified":1537702210,
+    "wof:name":"Bayt Balatah al Gharbiyah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0,
+    34.98333,
+    36.0,
+    34.98333
+],
+  "geometry": {"coordinates":[36.0,34.98333],"type":"Point"}
+}

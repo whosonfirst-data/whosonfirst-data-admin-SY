@@ -1,0 +1,75 @@
+{
+  "id": 1310590243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54924,35.05103,37.54924,35.05103",
+    "geom:latitude":35.05103,
+    "geom:longitude":37.54924,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Hanutah",
+    "gn:country_code":"SY",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169921,
+    "gn:latitude":35.05103,
+    "gn:longitude":37.54924,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al \u1e28\u0101n\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u0646\u0648\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2no\u00fbt\u00e9",
+        "\u1e28\u0101n\u016btah",
+        "Al \u1e28\u0101n\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169921
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"13e60bd86e00366b8ca82dfee6637219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310590243,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310590243,
+    "wof:lastmodified":1537702097,
+    "wof:name":"Al Hanutah",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54924000000001,
+    35.05103,
+    37.54924000000001,
+    35.05103
+],
+  "geometry": {"coordinates":[37.54924000000001,35.05103],"type":"Point"}
+}

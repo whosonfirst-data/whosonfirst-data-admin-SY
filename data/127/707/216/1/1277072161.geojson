@@ -1,0 +1,75 @@
+{
+  "id": 1277072161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42664,32.62478,36.42664,32.62478",
+    "geom:latitude":32.62478,
+    "geom:longitude":36.42664,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jubayb",
+    "gn:country_code":"SY",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169004,
+    "gn:latitude":32.62478,
+    "gn:longitude":36.42664,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jubayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Jouba\u00efb",
+        "Joube\u00efb",
+        "Jubayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169004
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"de2032258ba8fadcf89b7103f84f400a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1277072161,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1277072161,
+    "wof:lastmodified":1537702039,
+    "wof:name":"Jubayb",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42664,
+    32.62478,
+    36.42664,
+    32.62478
+],
+  "geometry": {"coordinates":[36.42664,32.62478],"type":"Point"}
+}

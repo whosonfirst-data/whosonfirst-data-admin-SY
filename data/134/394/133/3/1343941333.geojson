@@ -1,0 +1,76 @@
+{
+  "id": 1343941333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98145,34.86803,35.98145,34.86803",
+    "geom:latitude":34.86803,
+    "geom:longitude":35.98145,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mashrafat Bayt Basit",
+    "gn:country_code":"SY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166568,
+    "gn:latitude":34.86803,
+    "gn:longitude":35.98145,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mashrafat Bayt B\u0101si\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641\u0629 \u0628\u064a\u062a \u0628\u0627\u0633\u0637"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft B\u00e2ssett",
+        "Mcha\u00efrfet B\u00e2ssett",
+        "Mushayrifat B\u0101si\u0163",
+        "Mashrafat Bayt B\u0101si\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166568
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c7c9b0885faa709b3f926bc012e666ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1343941333,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343941333,
+    "wof:lastmodified":1537701865,
+    "wof:name":"Mashrafat Bayt Basit",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98145,
+    34.86803,
+    35.98145,
+    34.86803
+],
+  "geometry": {"coordinates":[35.98145,34.86803],"type":"Point"}
+}

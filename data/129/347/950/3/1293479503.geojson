@@ -1,0 +1,70 @@
+{
+  "id": 1293479503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08333,36.7,38.08333,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":38.08333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qaw Muluk",
+    "gn:country_code":"SY",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9147,
+    "gn:latitude":36.7,
+    "gn:longitude":38.08333,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Qaw Mul\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaw Mul\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9147
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f7acce34ee875b5404f3cbe116da1e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1293479503,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293479503,
+    "wof:lastmodified":1537701565,
+    "wof:name":"Qaw Muluk",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08333,
+    36.7,
+    38.08333,
+    36.7
+],
+  "geometry": {"coordinates":[38.08333,36.7],"type":"Point"}
+}

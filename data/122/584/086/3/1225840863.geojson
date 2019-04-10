@@ -1,0 +1,73 @@
+{
+  "id": 1225840863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64087,36.64337,38.64087,36.64337",
+    "geom:latitude":36.64337,
+    "geom:longitude":38.64087,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qartal",
+    "gn:country_code":"SY",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166019,
+    "gn:latitude":36.64337,
+    "gn:longitude":38.64087,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qar\u0163al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qar\u0163al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166019
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3d8aeacaa2d408b9c30e4cb3ad804632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1225840863,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225840863,
+    "wof:lastmodified":1537701826,
+    "wof:name":"Qartal",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64087,
+    36.64337,
+    38.64087,
+    36.64337
+],
+  "geometry": {"coordinates":[38.64087,36.64337],"type":"Point"}
+}

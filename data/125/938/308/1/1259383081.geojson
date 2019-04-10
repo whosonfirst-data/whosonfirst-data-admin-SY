@@ -1,0 +1,73 @@
+{
+  "id": 1259383081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.78161,35.53531,38.78161,35.53531",
+    "geom:latitude":35.53531,
+    "geom:longitude":38.78161,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bir Abu al Qalat",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347187,
+    "gn:latitude":35.53531,
+    "gn:longitude":38.78161,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u012br Ab\u016b al Qalat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0650\u0623\u0628\u0648 \u0627\u0644\u0642\u0644\u062a"
+    ],
+    "name:und_x_variant":[
+        "B\u012br Ab\u016b al Qalat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347187
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"286fc075902ad606a47f2396fab108bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259383081,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259383081,
+    "wof:lastmodified":1537702553,
+    "wof:name":"Bir Abu al Qalat",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.78161,
+    35.53531,
+    38.78161,
+    35.53531
+],
+  "geometry": {"coordinates":[38.78161,35.53531],"type":"Point"}
+}

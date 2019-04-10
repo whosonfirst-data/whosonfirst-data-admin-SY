@@ -1,0 +1,75 @@
+{
+  "id": 1309700405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24948,34.84594,37.24948,34.84594",
+    "geom:latitude":34.84594,
+    "geom:longitude":37.24948,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Muntar al Abl",
+    "gn:country_code":"SY",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166667,
+    "gn:latitude":34.84594,
+    "gn:longitude":37.24948,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Mun\u0163\u0101r al Abl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0627\u0631 \u0627\u0644\u0623\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mount\u00e2r el Aabel",
+        "Mun\u0163\u0101r al \u2018Abl",
+        "Mun\u0163\u0101r al Abl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166667
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f3cb04c900178f0f0d29c9cb0a6cf4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1309700405,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1309700405,
+    "wof:lastmodified":1537701873,
+    "wof:name":"Muntar al Abl",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24948,
+    34.84594,
+    37.24948,
+    34.84594
+],
+  "geometry": {"coordinates":[37.24948,34.84594],"type":"Point"}
+}

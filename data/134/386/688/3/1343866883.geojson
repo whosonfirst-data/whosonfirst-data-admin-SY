@@ -1,0 +1,74 @@
+{
+  "id": 1343866883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04042,35.59916,36.04042,35.59916",
+    "geom:latitude":35.59916,
+    "geom:longitude":36.04042,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zanqufah",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162531,
+    "gn:latitude":35.59916,
+    "gn:longitude":36.04042,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Zanq\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u0642\u0648\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zannqo\u00fbf\u00e9",
+        "Zanq\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162531
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"cd847026443be9f548a1ff43f9f6139f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343866883,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343866883,
+    "wof:lastmodified":1537701598,
+    "wof:name":"Zanqufah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04042000000001,
+    35.59916,
+    36.04042000000001,
+    35.59916
+],
+  "geometry": {"coordinates":[36.04042000000001,35.59916],"type":"Point"}
+}

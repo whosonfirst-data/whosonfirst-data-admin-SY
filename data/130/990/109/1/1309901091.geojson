@@ -1,0 +1,71 @@
+{
+  "id": 1309901091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24868,35.49543,36.24868,35.49543",
+    "geom:latitude":35.49543,
+    "geom:longitude":36.24868,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mashta Bayt Darwish",
+    "gn:country_code":"SY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167095,
+    "gn:latitude":35.49543,
+    "gn:longitude":36.24868,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Masht\u00e1 Bayt Darw\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machta Be\u00eft Darou\u00eech",
+        "Masht\u00e1 Bayt Darw\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167095
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"63d1a6c4081cb123915141632c19d8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1309901091,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1309901091,
+    "wof:lastmodified":1537701899,
+    "wof:name":"Mashta Bayt Darwish",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24868,
+    35.49543,
+    36.24868,
+    35.49543
+],
+  "geometry": {"coordinates":[36.24868,35.49543],"type":"Point"}
+}

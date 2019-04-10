@@ -1,0 +1,70 @@
+{
+  "id": 1259672665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54167,35.275,36.54167,35.275",
+    "geom:latitude":35.275,
+    "geom:longitude":36.54167,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Huwayr",
+    "gn:country_code":"SY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4439,
+    "gn:latitude":35.275,
+    "gn:longitude":36.54167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28uwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28uwayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4439
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6b48d47faa37ec504005fcd4510492bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1259672665,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259672665,
+    "wof:lastmodified":1537701542,
+    "wof:name":"Al Huwayr",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54167,
+    35.275,
+    36.54167,
+    35.275
+],
+  "geometry": {"coordinates":[36.54167,35.275],"type":"Point"}
+}

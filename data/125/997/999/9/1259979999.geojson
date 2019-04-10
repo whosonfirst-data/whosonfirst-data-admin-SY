@@ -1,0 +1,74 @@
+{
+  "id": 1259979999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.40648,35.87065,38.40648,35.87065",
+    "geom:latitude":35.87065,
+    "geom:longitude":38.40648,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qurayn Hammud",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6879,
+    "gn:latitude":35.87065,
+    "gn:longitude":38.40648,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qurayn \u1e28amm\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0646 \u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qurayn \u1e28amm\u016bd",
+        "Qar\u012bn \u1e28amm\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e5d814126f1a21a1ffb3123c7deba2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1259979999,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1259979999,
+    "wof:lastmodified":1537701559,
+    "wof:name":"Qurayn Hammud",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.40648,
+    35.87065,
+    38.40648,
+    35.87065
+],
+  "geometry": {"coordinates":[38.40648,35.87065],"type":"Point"}
+}

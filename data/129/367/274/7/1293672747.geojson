@@ -1,0 +1,73 @@
+{
+  "id": 1293672747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18044,34.85655,36.18044,34.85655",
+    "geom:latitude":34.85655,
+    "geom:longitude":36.18044,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al `Udaydah",
+    "gn:country_code":"SY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444424,
+    "gn:latitude":34.85655,
+    "gn:longitude":36.18044,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al \u2018Udaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Udaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"331c404cf7ae3e3fc9698d4a3b7498a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1293672747,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293672747,
+    "wof:lastmodified":1537702623,
+    "wof:name":"Al `Udaydah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18044,
+    34.85655,
+    36.18044,
+    34.85655
+],
+  "geometry": {"coordinates":[36.18044,34.85655],"type":"Point"}
+}

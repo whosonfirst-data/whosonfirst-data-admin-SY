@@ -1,0 +1,73 @@
+{
+  "id": 1260186451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68515,36.00372,40.68515,36.00372",
+    "geom:latitude":36.00372,
+    "geom:longitude":40.68515,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Abu Hajar",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420945,
+    "gn:latitude":36.00372,
+    "gn:longitude":40.68515,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ab\u016b \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420945
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a25f1fb5aa272701d1e5b7ccfea096b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1260186451,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1260186451,
+    "wof:lastmodified":1537702457,
+    "wof:name":"Abu Hajar",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68515,
+    36.00372,
+    40.68515,
+    36.00372
+],
+  "geometry": {"coordinates":[40.68515,36.00372],"type":"Point"}
+}

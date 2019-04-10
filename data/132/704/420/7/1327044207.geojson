@@ -1,0 +1,77 @@
+{
+  "id": 1327044207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09948,36.91251,41.09948,36.91251",
+    "geom:latitude":36.91251,
+    "geom:longitude":41.09948,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khajukah",
+    "gn:country_code":"SY",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168415,
+    "gn:latitude":36.91251,
+    "gn:longitude":41.09948,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kh\u0101j\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u062c\u0648\u0643\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Kh\u0101j\u016bkah"
+    ],
+    "name:und_x_variant":[
+        "Khajawkah",
+        "Khadj\u00f4ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168415
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ac8ee87237c9a40c040e2f6dc6d60779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1327044207,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327044207,
+    "wof:lastmodified":1537701989,
+    "wof:name":"Khajukah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09948,
+    36.91251,
+    41.09948,
+    36.91251
+],
+  "geometry": {"coordinates":[41.09948,36.91251],"type":"Point"}
+}

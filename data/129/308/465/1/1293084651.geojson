@@ -1,0 +1,74 @@
+{
+  "id": 1293084651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2013,34.80355,36.2013,34.80355",
+    "geom:latitude":34.80355,
+    "geom:longitude":36.2013,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Ayn as Sahn",
+    "gn:country_code":"SY",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172169,
+    "gn:latitude":34.80355,
+    "gn:longitude":36.2013,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u2018Ayn a\u015f \u015ea\u1e29n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0635\u062d\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn es Sahn",
+        "\u2018Ayn a\u015f \u015ea\u1e29n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172169
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9bd929ab4d2694bd8284cb88dd312f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1293084651,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1293084651,
+    "wof:lastmodified":1537702253,
+    "wof:name":"`Ayn as Sahn",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2013,
+    34.80355,
+    36.2013,
+    34.80355
+],
+  "geometry": {"coordinates":[36.2013,34.80355],"type":"Point"}
+}

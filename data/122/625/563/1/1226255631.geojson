@@ -1,0 +1,75 @@
+{
+  "id": 1226255631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91567,35.50486,35.91567,35.50486",
+    "geom:latitude":35.50486,
+    "geom:longitude":35.91567,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al Qatriyah",
+    "gn:country_code":"SY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168094,
+    "gn:latitude":35.50486,
+    "gn:longitude":35.91567,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Khirbat al Qa\u0163r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0642\u0637\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet el Qatr\u00eey\u00e9",
+        "Kheurb\u00e9 el Qatri\u00e9",
+        "Khirbat al Qa\u0163r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168094
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d805230f92beaac7992c7acbc7fcfb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226255631,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226255631,
+    "wof:lastmodified":1537701969,
+    "wof:name":"Khirbat al Qatriyah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91567,
+    35.50486,
+    35.91567,
+    35.50486
+],
+  "geometry": {"coordinates":[35.91567,35.50486],"type":"Point"}
+}

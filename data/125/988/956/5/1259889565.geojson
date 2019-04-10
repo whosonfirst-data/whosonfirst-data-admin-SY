@@ -1,0 +1,73 @@
+{
+  "id": 1259889565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02314,36.08135,41.02314,36.08135",
+    "geom:latitude":36.08135,
+    "geom:longitude":41.02314,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Abu Hadid",
+    "gn:country_code":"SY",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414805,
+    "gn:latitude":36.08135,
+    "gn:longitude":41.02314,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Ab\u016b \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28ad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414805
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d28a15fe0de431afbca384fb953948d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259889565,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259889565,
+    "wof:lastmodified":1537702435,
+    "wof:name":"Abu Hadid",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02314000000001,
+    36.08135,
+    41.02314000000001,
+    36.08135
+],
+  "geometry": {"coordinates":[41.02314000000001,36.08135],"type":"Point"}
+}

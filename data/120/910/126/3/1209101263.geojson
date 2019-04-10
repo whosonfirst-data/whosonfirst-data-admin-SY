@@ -1,0 +1,72 @@
+{
+  "id": 1209101263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47217,35.0495,36.47217,35.0495",
+    "geom:latitude":35.0495,
+    "geom:longitude":36.47217,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sawma`ah",
+    "gn:country_code":"SY",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164751,
+    "gn:latitude":35.0495,
+    "gn:longitude":36.47217,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u015eawma\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0645\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u0645\u0639\u0627"
+    ],
+    "name:und_x_variant":[
+        "Saouma\u00e2",
+        "\u015eawma\u2018ah",
+        "\u015eawma\u2018\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164751
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a662783bbb9e9894ed2f3c641d263cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209101263
+        }
+    ],
+    "wof:id":1209101263,
+    "wof:lastmodified":1537701751,
+    "wof:name":"Sawma`ah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47217,
+    35.0495,
+    36.47217,
+    35.0495
+],
+  "geometry": {"coordinates":[36.47217,35.0495],"type":"Point"}
+}

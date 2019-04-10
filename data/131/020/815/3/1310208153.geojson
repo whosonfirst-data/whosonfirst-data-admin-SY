@@ -1,0 +1,75 @@
+{
+  "id": 1310208153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0,35.51667,36.0,35.51667",
+    "geom:latitude":35.51667,
+    "geom:longitude":36.0,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rufayliyah",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165260,
+    "gn:latitude":35.51667,
+    "gn:longitude":36.0,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Rufayl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u064a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rfa\u00efl\u00eey\u00e9",
+        "Rufayl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165260
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ac0fbf829dccd85c18997658c3ec4a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1310208153,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310208153,
+    "wof:lastmodified":1537701774,
+    "wof:name":"Rufayliyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0,
+    35.51667,
+    36.0,
+    35.51667
+],
+  "geometry": {"coordinates":[36.0,35.51667],"type":"Point"}
+}

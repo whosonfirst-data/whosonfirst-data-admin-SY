@@ -1,0 +1,79 @@
+{
+  "id": 1343847891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67285,36.68896,37.67285,36.68896",
+    "geom:latitude":36.68896,
+    "geom:longitude":37.67285,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Humayrah",
+    "gn:country_code":"SY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12921,
+    "gn:latitude":36.68896,
+    "gn:longitude":37.67285,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Al \u1e28umayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0622\u0634\u0643\u062c\u064a\u0629",
+        "\u0622\u0634\u0643\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28umayrah",
+        "\u0100shkaj\u012byah",
+        "\u0100shkaj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12921
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"629727d52b7c3873dfa38328995bd679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779119,
+            "locality_id":1343847891,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343847891,
+    "wof:lastmodified":1537701579,
+    "wof:name":"Al Humayrah",
+    "wof:parent_id":1108779119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67285,
+    36.68896,
+    37.67285,
+    36.68896
+],
+  "geometry": {"coordinates":[37.67285,36.68896],"type":"Point"}
+}

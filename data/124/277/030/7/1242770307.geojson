@@ -1,0 +1,73 @@
+{
+  "id": 1242770307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43472,33.0294,36.43472,33.0294",
+    "geom:latitude":33.0294,
+    "geom:longitude":36.43472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ar Rubayshi",
+    "gn:country_code":"SY",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259768,
+    "gn:latitude":33.0294,
+    "gn:longitude":36.43472,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Ar Rubaysh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u064a\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Rubaysh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259768
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b4230806f0164fdbab17a5cfde01ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1242770307,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1242770307,
+    "wof:lastmodified":1537702609,
+    "wof:name":"Ar Rubayshi",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43472,
+    33.0294,
+    36.43472,
+    33.0294
+],
+  "geometry": {"coordinates":[36.43472,33.0294],"type":"Point"}
+}

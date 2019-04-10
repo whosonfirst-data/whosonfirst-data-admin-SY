@@ -1,0 +1,124 @@
+{
+  "id": 1293002641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77323,33.16689,35.77323,33.16689",
+    "geom:latitude":33.16689,
+    "geom:longitude":35.77323,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"`Uyun al Hajal",
+    "gn:country_code":"SY",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":172228,
+    "gn:latitude":33.16689,
+    "gn:longitude":35.77323,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u2018Uy\u016bn al \u1e28ajal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0648\u0646 \u0627\u0644\u062d\u062c\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u044d\u043b\u044c-\u0425\u0430\u0434\u0436\u0430\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u2019Ain el Hajal",
+        "\u2018Ayn al \u1e28ajal",
+        "\u2018Uy\u016bn al \u1e28ajal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172228
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"266617cc0a3541f944f3c980a63e74ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1293002641,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1293002641,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1293002641,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1293002641,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1293002641,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1293002641,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1293002641,
+    "wof:lastmodified":1537702258,
+    "wof:name":"`Uyun al Hajal",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77323,
+    33.16689,
+    35.77323,
+    33.16689
+],
+  "geometry": {"coordinates":[35.77323,33.16689],"type":"Point"}
+}

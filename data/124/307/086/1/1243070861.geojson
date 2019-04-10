@@ -1,0 +1,73 @@
+{
+  "id": 1243070861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83552,35.62116,35.83552,35.62116",
+    "geom:latitude":35.62116,
+    "geom:longitude":35.83552,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al `Arish",
+    "gn:country_code":"SY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512433,
+    "gn:latitude":35.62116,
+    "gn:longitude":35.83552,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Khirbat al \u2018Ar\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al \u2018Ar\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512433
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"134ae4d8c8f54a260353f6de4e7bd2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1243070861,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243070861,
+    "wof:lastmodified":1537702576,
+    "wof:name":"Khirbat al `Arish",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83552,
+    35.62116,
+    35.83552,
+    35.62116
+],
+  "geometry": {"coordinates":[35.83552,35.62116],"type":"Point"}
+}

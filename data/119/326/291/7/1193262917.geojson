@@ -1,0 +1,79 @@
+{
+  "id": 1193262917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83953,36.71684,36.83953,36.71684",
+    "geom:latitude":36.71684,
+    "geom:longitude":36.83953,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Hajib",
+    "gn:country_code":"SY",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235569,
+    "gn:latitude":36.71684,
+    "gn:longitude":36.83953,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Al \u1e28\u0101jib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101sh \u016ash\u0101gh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0634 \u0627\u0648\u0634\u0627\u063a\u064a",
+        "\u0627\u0644\u062d\u0627\u062c\u0628",
+        "\u0642\u0627\u0634 \u0623\u0648\u063a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101jib",
+        "Q\u0101sh \u016aghl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235569
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6d93c341af9df6158df0fa72708998be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1193262917,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193262917,
+    "wof:lastmodified":1537702487,
+    "wof:name":"Al Hajib",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83953,
+    36.71684000000001,
+    36.83953,
+    36.71684000000001
+],
+  "geometry": {"coordinates":[36.83953,36.71684000000001],"type":"Point"}
+}

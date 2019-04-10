@@ -1,0 +1,77 @@
+{
+  "id": 1293880351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.59388,35.42104,40.59388,35.42104",
+    "geom:latitude":35.42104,
+    "geom:longitude":40.59388,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Jad`ani",
+    "gn:country_code":"SY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275734,
+    "gn:latitude":35.42104,
+    "gn:longitude":40.59388,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Al Jad\u2018\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u0639\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u062f\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Jad\u2018\u0101n\u012b",
+        "Al Jad\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275734
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d1a3e8761a06d207d57f3d269e0b8fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1293880351,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1293880351,
+    "wof:lastmodified":1537702520,
+    "wof:name":"Al Jad`ani",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.59388,
+    35.42104000000001,
+    40.59388,
+    35.42104000000001
+],
+  "geometry": {"coordinates":[40.59388,35.42104000000001],"type":"Point"}
+}

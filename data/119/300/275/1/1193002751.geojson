@@ -1,0 +1,75 @@
+{
+  "id": 1193002751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62481,36.60455,36.62481,36.60455",
+    "geom:latitude":36.60455,
+    "geom:longitude":36.62481,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Umar Ushaghi",
+    "gn:country_code":"SY",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235819,
+    "gn:latitude":36.60455,
+    "gn:longitude":36.62481,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u2018Umar \u016ash\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Umar \u016ash\u0101gh\u012b",
+        "\u0639\u0645\u0631 \u0627\u0648\u0634\u0627\u063a\u064a",
+        "\u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235819
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e479630b1a4239598ba3218537b81cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1193002751,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193002751,
+    "wof:lastmodified":1537702490,
+    "wof:name":"`Umar Ushaghi",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62481,
+    36.60455,
+    36.62481,
+    36.60455
+],
+  "geometry": {"coordinates":[36.62481,36.60455],"type":"Point"}
+}

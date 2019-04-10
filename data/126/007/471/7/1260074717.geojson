@@ -1,0 +1,73 @@
+{
+  "id": 1260074717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24301,36.58149,37.24301,36.58149",
+    "geom:latitude":36.58149,
+    "geom:longitude":37.24301,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ayn al Bayda",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149522,
+    "gn:latitude":36.58149,
+    "gn:longitude":37.24301,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"\u2018Ayn al Bay\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn al Bay\u1e11\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149522
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ef76e8c4623504bcf9a2e4b5a617789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1260074717,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260074717,
+    "wof:lastmodified":1537702594,
+    "wof:name":"`Ayn al Bayda",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24301,
+    36.58149,
+    37.24301,
+    36.58149
+],
+  "geometry": {"coordinates":[37.24301,36.58149],"type":"Point"}
+}

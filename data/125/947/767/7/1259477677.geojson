@@ -1,0 +1,73 @@
+{
+  "id": 1259477677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91043,36.23896,36.91043,36.23896",
+    "geom:latitude":36.23896,
+    "geom:longitude":36.91043,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hayd ad Darkal",
+    "gn:country_code":"SY",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554478,
+    "gn:latitude":36.23896,
+    "gn:longitude":36.91043,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28ayd ad Darkal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f \u0627\u0644\u062f\u0631\u0643\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayd ad Darkal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554478
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4940013a6ec960f437bfaeccbaeae679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259477677,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259477677,
+    "wof:lastmodified":1537702630,
+    "wof:name":"Hayd ad Darkal",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91043,
+    36.23896,
+    36.91043,
+    36.23896
+],
+  "geometry": {"coordinates":[36.91043,36.23896],"type":"Point"}
+}

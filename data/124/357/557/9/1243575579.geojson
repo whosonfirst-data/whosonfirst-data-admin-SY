@@ -1,0 +1,73 @@
+{
+  "id": 1243575579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39705,35.63571,40.39705,35.63571",
+    "geom:latitude":35.63571,
+    "geom:longitude":40.39705,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tamim",
+    "gn:country_code":"SY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263753,
+    "gn:latitude":35.63571,
+    "gn:longitude":40.39705,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Tam\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tam\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263753
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e1c0f5901664377cf0db779f9624cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1243575579,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1243575579,
+    "wof:lastmodified":1537702493,
+    "wof:name":"Tamim",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39705,
+    35.63571,
+    40.39705,
+    35.63571
+],
+  "geometry": {"coordinates":[40.39705,35.63571],"type":"Point"}
+}

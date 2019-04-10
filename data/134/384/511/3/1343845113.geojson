@@ -1,0 +1,73 @@
+{
+  "id": 1343845113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41865,36.05553,36.41865,36.05553",
+    "geom:latitude":36.05553,
+    "geom:longitude":36.41865,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tall `Ammar",
+    "gn:country_code":"SY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887465,
+    "gn:latitude":36.05553,
+    "gn:longitude":36.41865,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Tall \u2018Amm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall \u2018Amm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887465
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"06f2a28ee100f0636825f665e54d3dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1343845113,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343845113,
+    "wof:lastmodified":1537702473,
+    "wof:name":"Tall `Ammar",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41865,
+    36.05553,
+    36.41865,
+    36.05553
+],
+  "geometry": {"coordinates":[36.41865,36.05553],"type":"Point"}
+}

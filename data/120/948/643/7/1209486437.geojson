@@ -1,0 +1,69 @@
+{
+  "id": 1209486437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22412,34.96591,36.22412,34.96591",
+    "geom:latitude":34.96591,
+    "geom:longitude":36.22412,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bshamshah",
+    "gn:country_code":"SY",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171279,
+    "gn:latitude":34.96591,
+    "gn:longitude":36.22412,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bshamshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0645\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bchemch\u00e9",
+        "Bshamshah",
+        "Bishamshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171279
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ddb7eed07d306d97eaf9b6b13edd8929",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209486437
+        }
+    ],
+    "wof:id":1209486437,
+    "wof:lastmodified":1537702184,
+    "wof:name":"Bshamshah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22412,
+    34.96591,
+    36.22412,
+    34.96591
+],
+  "geometry": {"coordinates":[36.22412,34.96591],"type":"Point"}
+}

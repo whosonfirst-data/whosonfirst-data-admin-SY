@@ -1,0 +1,73 @@
+{
+  "id": 1226125877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02707,35.22032,36.02707,35.22032",
+    "geom:latitude":35.22032,
+    "geom:longitude":36.02707,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shafi Ruh",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556268,
+    "gn:latitude":35.22032,
+    "gn:longitude":36.02707,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sh\u0101f\u012b R\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0641\u064a \u0631\u0648\u062d"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101f\u012b R\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556268
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d4522d5679018c1f82c6eab1cdace193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1226125877,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226125877,
+    "wof:lastmodified":1537702642,
+    "wof:name":"Shafi Ruh",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02707,
+    35.22032,
+    36.02707,
+    35.22032
+],
+  "geometry": {"coordinates":[36.02707,35.22032],"type":"Point"}
+}

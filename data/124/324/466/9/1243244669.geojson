@@ -1,0 +1,75 @@
+{
+  "id": 1243244669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00381,34.69656,37.00381,34.69656",
+    "geom:latitude":34.69656,
+    "geom:longitude":37.00381,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tall Shinan",
+    "gn:country_code":"SY",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163649,
+    "gn:latitude":34.69656,
+    "gn:longitude":37.00381,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall Shin\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0634\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell ech Chn\u00e2ne",
+        "Tall ash Shin\u0101n",
+        "Tall Shin\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163649
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"10d80d37cc206087b76561b2d9fa0b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1243244669,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243244669,
+    "wof:lastmodified":1537701680,
+    "wof:name":"Tall Shinan",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00381,
+    34.69656,
+    37.00381,
+    34.69656
+],
+  "geometry": {"coordinates":[37.00381,34.69656],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1260298147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9939,35.54152,35.9939,35.54152",
+    "geom:latitude":35.54152,
+    "geom:longitude":35.9939,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ad Darbashiyah",
+    "gn:country_code":"SY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170888,
+    "gn:latitude":35.54152,
+    "gn:longitude":35.9939,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ad Darb\u0101sh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0628\u0627\u0634\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0631\u0628\u0627\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Derb\u00e2ch\u00eey\u00e9",
+        "Derbachi",
+        "Darb\u0101sh\u012byah",
+        "Dirb\u0101sh\u012byah",
+        "Ad Darb\u0101sh\u012byah",
+        "Derbashiyeh",
+        "Ad Dirb\u0101sh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170888
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7055e7972b53c1b76161ea433129dd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1260298147,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1260298147,
+    "wof:lastmodified":1537702156,
+    "wof:name":"Ad Darbashiyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9939,
+    35.54152,
+    35.9939,
+    35.54152
+],
+  "geometry": {"coordinates":[35.9939,35.54152],"type":"Point"}
+}

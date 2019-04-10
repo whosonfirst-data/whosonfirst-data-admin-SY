@@ -1,0 +1,76 @@
+{
+  "id": 1360303195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.13075,36.82384,41.13075,36.82384",
+    "geom:latitude":36.82384,
+    "geom:longitude":41.13075,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rujm",
+    "gn:country_code":"SY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165245,
+    "gn:latitude":36.82384,
+    "gn:longitude":41.13075,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Rujm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645"
+    ],
+    "name:tur_x_preferred":[
+        "Rujm"
+    ],
+    "name:und_x_variant":[
+        "Rejem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165245
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ed3482c618e35fff1d40c9ef854513d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1360303195,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360303195,
+    "wof:lastmodified":1537701773,
+    "wof:name":"Rujm",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.13075,
+    36.82384,
+    41.13075,
+    36.82384
+],
+  "geometry": {"coordinates":[41.13075,36.82384],"type":"Point"}
+}

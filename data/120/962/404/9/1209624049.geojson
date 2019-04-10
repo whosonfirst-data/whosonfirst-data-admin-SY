@@ -1,0 +1,71 @@
+{
+  "id": 1209624049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15557,35.5866,36.15557,35.5866",
+    "geom:latitude":35.5866,
+    "geom:longitude":36.15557,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Katliyah",
+    "gn:country_code":"SY",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167811,
+    "gn:latitude":35.5866,
+    "gn:longitude":36.15557,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Katl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kt\u00e9l\u00eey\u00e9"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u062a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Katl\u012byah",
+        "Katn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167811
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1a79b5887a5a310e2e7c2826ab62052f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209624049
+        }
+    ],
+    "wof:id":1209624049,
+    "wof:lastmodified":1537701942,
+    "wof:name":"Katliyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15557,
+    35.5866,
+    36.15557,
+    35.5866
+],
+  "geometry": {"coordinates":[36.15557,35.5866],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343646133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09253,36.25917,38.09253,36.25917",
+    "geom:latitude":36.25917,
+    "geom:longitude":38.09253,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazra`at al Hudaydah",
+    "gn:country_code":"SY",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166962,
+    "gn:latitude":36.25917,
+    "gn:longitude":38.09253,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mazra\u2018at al \u1e28udaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062d\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazraat el Had\u00eedi",
+        "Mazraat el Had\u00eed\u00e9",
+        "Mazra\u2018at al \u1e28ad\u012bdah",
+        "Mazra\u2018at al \u1e28udaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166962
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"abb09746ce4de1f7ada86eb3352d0345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1343646133,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343646133,
+    "wof:lastmodified":1537701892,
+    "wof:name":"Mazra`at al Hudaydah",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09253,
+    36.25917000000001,
+    38.09253,
+    36.25917000000001
+],
+  "geometry": {"coordinates":[38.09253,36.25917000000001],"type":"Point"}
+}

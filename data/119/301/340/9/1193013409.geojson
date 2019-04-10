@@ -1,0 +1,77 @@
+{
+  "id": 1193013409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2492,32.93133,36.2492,32.93133",
+    "geom:latitude":32.93133,
+    "geom:longitude":36.2492,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"An Najih",
+    "gn:country_code":"SY",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173189,
+    "gn:latitude":32.93133,
+    "gn:longitude":36.2492,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"An N\u0101ji\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An N\u0101ji\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u062c\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Enn N\u00e2jeh",
+        "N\u00e2jeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173189
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c0a0ee0a08182ebacd961a31350ff708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1193013409,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1193013409,
+    "wof:lastmodified":1537702317,
+    "wof:name":"An Najih",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2492,
+    32.93133,
+    36.2492,
+    32.93133
+],
+  "geometry": {"coordinates":[36.2492,32.93133],"type":"Point"}
+}

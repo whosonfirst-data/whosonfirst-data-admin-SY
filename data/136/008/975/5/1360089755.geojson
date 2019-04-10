@@ -1,0 +1,70 @@
+{
+  "id": 1360089755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54259,32.50939,36.54259,32.50939",
+    "geom:latitude":32.50939,
+    "geom:longitude":36.54259,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Barad",
+    "gn:country_code":"SY",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5161,
+    "gn:latitude":32.50939,
+    "gn:longitude":36.54259,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Barad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5161
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12d5721cc630435723ad79530447b689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1360089755,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1360089755,
+    "wof:lastmodified":1537701554,
+    "wof:name":"Barad",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54259,
+    32.50939,
+    36.54259,
+    32.50939
+],
+  "geometry": {"coordinates":[36.54259,32.50939],"type":"Point"}
+}

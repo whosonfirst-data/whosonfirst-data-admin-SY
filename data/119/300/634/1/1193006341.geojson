@@ -1,0 +1,73 @@
+{
+  "id": 1193006341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85359,35.21971,38.85359,35.21971",
+    "geom:latitude":35.21971,
+    "geom:longitude":38.85359,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"`Ayn Bukhayrat",
+    "gn:country_code":"SY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347220,
+    "gn:latitude":35.21971,
+    "gn:longitude":38.85359,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u2018Ayn Bukhayr\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0628\u062e\u064a\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Bukhayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347220
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8f3b94673dba294f4c7dd233fbb5ddb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1193006341,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1193006341,
+    "wof:lastmodified":1537702553,
+    "wof:name":"`Ayn Bukhayrat",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85359,
+    35.21971,
+    38.85359,
+    35.21971
+],
+  "geometry": {"coordinates":[38.85359,35.21971],"type":"Point"}
+}

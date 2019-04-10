@@ -1,0 +1,75 @@
+{
+  "id": 1343861537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17199,35.64365,36.17199,35.64365",
+    "geom:latitude":35.64365,
+    "geom:longitude":36.17199,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balatah",
+    "gn:country_code":"SY",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174008,
+    "gn:latitude":35.64365,
+    "gn:longitude":36.17199,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bal\u0101\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bl\u00e2ta",
+        "Al Bal\u0101\u0163ah",
+        "Bal\u0101\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174008
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bbf51b4733a072ecef369a4c07987527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1343861537,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343861537,
+    "wof:lastmodified":1537702384,
+    "wof:name":"Balatah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17199,
+    35.64365,
+    36.17199,
+    35.64365
+],
+  "geometry": {"coordinates":[36.17199,35.64365],"type":"Point"}
+}

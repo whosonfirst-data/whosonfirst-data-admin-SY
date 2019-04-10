@@ -1,0 +1,81 @@
+{
+  "id": 1209807209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3166,35.23349,40.3166,35.23349",
+    "geom:latitude":35.23349,
+    "geom:longitude":40.3166,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muh Hasan",
+    "gn:country_code":"SY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":162284,
+    "gn:latitude":35.23349,
+    "gn:longitude":40.3166,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"M\u016b\u1e29 \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062d \u062d\u0633\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mouhassane",
+        "Mu\u1e29assan",
+        "M\u016b\u1e29 \u1e28asan",
+        "Mu\u1e29a\u015f\u015fan",
+        "M\u016b\u1e29asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162284,
+        "wk:page":"Al-Muhasan"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bca75d03583ad1ddf4e5c098a4f4cb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1209807209,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1209807209,
+    "wof:lastmodified":1537701583,
+    "wof:name":"Muh Hasan",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.3166,
+    35.23349,
+    40.3166,
+    35.23349
+],
+  "geometry": {"coordinates":[40.3166,35.23349],"type":"Point"}
+}

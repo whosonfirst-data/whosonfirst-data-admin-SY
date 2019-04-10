@@ -1,0 +1,73 @@
+{
+  "id": 1259869255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32573,35.55437,37.32573,35.55437",
+    "geom:latitude":35.55437,
+    "geom:longitude":37.32573,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm Qurun",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340390,
+    "gn:latitude":35.55437,
+    "gn:longitude":37.32573,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Umm Qur\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm Qur\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0642\u0631\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340390
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c0bb2eeb0079c5c951f4001f38317824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259869255,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259869255,
+    "wof:lastmodified":1537702536,
+    "wof:name":"Umm Qurun",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32573,
+    35.55437,
+    37.32573,
+    35.55437
+],
+  "geometry": {"coordinates":[37.32573,35.55437],"type":"Point"}
+}

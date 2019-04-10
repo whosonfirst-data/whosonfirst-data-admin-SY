@@ -1,0 +1,81 @@
+{
+  "id": 1225826517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55658,34.70122,36.55658,34.70122",
+    "geom:latitude":34.70122,
+    "geom:longitude":36.55658,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat Tin Nur",
+    "gn:country_code":"SY",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":168052,
+    "gn:latitude":34.70122,
+    "gn:longitude":36.55658,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Khirbat T\u012bn N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062a\u064a\u0646 \u0646\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kharabat et Tin",
+        "Khan",
+        "Kheurbet et Tin\u00e9",
+        "Kheurbet ett T\u00eene",
+        "Khirbet et T\u012bn",
+        "Kheurbet Tine Naour",
+        "Kheurbet T\u00eene Naduar",
+        "Khirbat at T\u012bn",
+        "Khirbat T\u012bn N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168052
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8fcabb6925198fc31a5d0a8360febef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1225826517,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1225826517,
+    "wof:lastmodified":1537701966,
+    "wof:name":"Khirbat Tin Nur",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55658,
+    34.70122,
+    36.55658,
+    34.70122
+],
+  "geometry": {"coordinates":[36.55658,34.70122],"type":"Point"}
+}

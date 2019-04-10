@@ -1,0 +1,75 @@
+{
+  "id": 1310188675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9728,34.83001,35.9728,34.83001",
+    "geom:latitude":34.83001,
+    "geom:longitude":35.9728,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Harat al Hajj",
+    "gn:country_code":"SY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169599,
+    "gn:latitude":34.83001,
+    "gn:longitude":35.9728,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"\u1e28\u0101rat al \u1e28ajj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u062c\u062c"
+    ],
+    "name:und_x_variant":[
+        "Hikr el Hajj",
+        "\u1e28ikr al \u1e28\u0101jj",
+        "\u1e28\u0101rat al \u1e28ajj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169599
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"079e35080f19f2dae1ac9cfc94e24797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1310188675,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310188675,
+    "wof:lastmodified":1537702076,
+    "wof:name":"Harat al Hajj",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9728,
+    34.83000999999999,
+    35.9728,
+    34.83000999999999
+],
+  "geometry": {"coordinates":[35.9728,34.83000999999999],"type":"Point"}
+}

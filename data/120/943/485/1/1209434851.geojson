@@ -1,0 +1,78 @@
+{
+  "id": 1209434851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.29009,33.43935,36.29009,33.43935",
+    "geom:latitude":33.43935,
+    "geom:longitude":36.29009,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Asbaynah as Sughra",
+    "gn:country_code":"SY",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164023,
+    "gn:latitude":33.43935,
+    "gn:longitude":36.29009,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Asbaynah a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0646\u0629 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0628\u064a\u0646\u0629 \u0627\u0644\u0635\u063a\u0631\u0649",
+        "\u0627\u0644\u0633\u0628\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sbe\u00efne es Srhrir",
+        "Soube\u00efnet es S\u00e9rh\u00eer\u00e9",
+        "Soube\u00efn\u00e9 S\u00e9rh\u00eer\u00e9",
+        "Soube\u00efne es Serhir\u00e9",
+        "Subaynah a\u015f \u015eagh\u012brah",
+        "Subaynah a\u015f \u015eughr\u00e1",
+        "Asbaynah a\u015f \u015eughr\u00e1",
+        "As Subaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164023
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4093c905d68b06d4e6441a9149210930",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209434851
+        }
+    ],
+    "wof:id":1209434851,
+    "wof:lastmodified":1537701710,
+    "wof:name":"Asbaynah as Sughra",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.29009,
+    33.43935,
+    36.29009,
+    33.43935
+],
+  "geometry": {"coordinates":[36.29009,33.43935],"type":"Point"}
+}

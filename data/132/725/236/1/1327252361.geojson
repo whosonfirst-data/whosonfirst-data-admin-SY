@@ -1,0 +1,73 @@
+{
+  "id": 1327252361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20833,36.66667,37.20833,36.66667",
+    "geom:latitude":36.66667,
+    "geom:longitude":37.20833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Arbah Kasmaz",
+    "gn:country_code":"SY",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12937,
+    "gn:latitude":36.66667,
+    "gn:longitude":37.20833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Arbah Kasm\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u0628\u0629 \u0643\u0633\u0645\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Arbah Kasm\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12937
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c468438966147457612d76e433bd064d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1327252361,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327252361,
+    "wof:lastmodified":1537701580,
+    "wof:name":"Arbah Kasmaz",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20833,
+    36.66667,
+    37.20833,
+    36.66667
+],
+  "geometry": {"coordinates":[37.20833,36.66667],"type":"Point"}
+}

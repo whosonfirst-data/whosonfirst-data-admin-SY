@@ -1,0 +1,82 @@
+{
+  "id": 1293611363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30202,32.74547,36.30202,32.74547",
+    "geom:latitude":32.74547,
+    "geom:longitude":36.30202,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Harik",
+    "gn:country_code":"SY",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173820,
+    "gn:latitude":32.74547,
+    "gn:longitude":36.30202,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Al \u1e28ar\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "El Hra\u00efk",
+        "El Haryek",
+        "El Harayek",
+        "Al \u1e28ar\u0101\u2019ik",
+        "Al \u1e28ar\u012bk",
+        "Al-Hirak",
+        "al-Hrak",
+        "Herak",
+        "Hirak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173820,
+        "wk:page":"Al-Hirak,_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4234ba3d198e03536bc99c2b00f0b494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1293611363,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1293611363,
+    "wof:lastmodified":1537702367,
+    "wof:name":"Al Harik",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30202,
+    32.74547,
+    36.30202,
+    32.74547
+],
+  "geometry": {"coordinates":[36.30202,32.74547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310386611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51923,33.88101,39.51923,33.88101",
+    "geom:latitude":33.88101,
+    "geom:longitude":39.51923,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat Ra's al Wa`r",
+    "gn:country_code":"SY",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167980,
+    "gn:latitude":33.88101,
+    "gn:longitude":39.51923,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Khirbat Ra\u2019s al Wa\u2018r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0631\u0623\u0633 \u0627\u0644\u0648\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ra\u2019s al Wa\u2018r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167980
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a645642f215ab44ee00e9b9491c160df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1310386611,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310386611,
+    "wof:lastmodified":1537701959,
+    "wof:name":"Khirbat Ra's al Wa`r",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51923,
+    33.88101,
+    39.51923,
+    33.88101
+],
+  "geometry": {"coordinates":[39.51923,33.88101],"type":"Point"}
+}

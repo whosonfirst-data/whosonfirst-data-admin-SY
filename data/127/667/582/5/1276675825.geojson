@@ -1,0 +1,74 @@
+{
+  "id": 1276675825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91497,36.19284,40.91497,36.19284",
+    "geom:latitude":36.19284,
+    "geom:longitude":40.91497,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rabud",
+    "gn:country_code":"SY",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414776,
+    "gn:latitude":36.19284,
+    "gn:longitude":40.91497,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rab\u016b\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u0648\u0636"
+    ],
+    "name:und_x_variant":[
+        "Bayy\u016b\u1e11",
+        "Rab\u016b\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414776
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a1fed0c12746e9ed07c1678133ac1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1276675825,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276675825,
+    "wof:lastmodified":1537702434,
+    "wof:name":"Rabud",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91497,
+    36.19284,
+    40.91497,
+    36.19284
+],
+  "geometry": {"coordinates":[40.91497,36.19284],"type":"Point"}
+}

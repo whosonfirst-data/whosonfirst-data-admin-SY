@@ -1,0 +1,74 @@
+{
+  "id": 1343964205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79888,36.5943,38.79888,36.5943",
+    "geom:latitude":36.5943,
+    "geom:longitude":38.79888,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khunayzir",
+    "gn:country_code":"SY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167925,
+    "gn:latitude":36.5943,
+    "gn:longitude":38.79888,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Khunayz\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u064a\u0632\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khne\u012bzir",
+        "Khunayz\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167925
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e5b7f9f3ab4290f7ef6783687a2e9683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1343964205,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1343964205,
+    "wof:lastmodified":1537701955,
+    "wof:name":"Khunayzir",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79888,
+    36.5943,
+    38.79888,
+    36.5943
+],
+  "geometry": {"coordinates":[38.79888,36.5943],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360198641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.69769,37.01953,40.69769,37.01953",
+    "geom:latitude":37.01953,
+    "geom:longitude":40.69769,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qattinah",
+    "gn:country_code":"SY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165905,
+    "gn:latitude":37.01953,
+    "gn:longitude":40.69769,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qa\u0163\u0163\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u064a\u0646\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Qa\u0163\u0163\u012bnah"
+    ],
+    "name:und_x_variant":[
+        "Qatt\u00een\u00e9",
+        "Qa\u0163\u0163\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165905
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a9e3edc9f154e338f52b3fda86c2dc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1360198641,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360198641,
+    "wof:lastmodified":1537701820,
+    "wof:name":"Qattinah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.69769,
+    37.01953,
+    40.69769,
+    37.01953
+],
+  "geometry": {"coordinates":[40.69769,37.01953],"type":"Point"}
+}

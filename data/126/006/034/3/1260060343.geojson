@@ -1,0 +1,78 @@
+{
+  "id": 1260060343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21552,35.93372,36.21552,35.93372",
+    "geom:latitude":35.93372,
+    "geom:longitude":36.21552,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yusufayn",
+    "gn:country_code":"SY",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4671,
+    "gn:latitude":35.93372,
+    "gn:longitude":36.21552,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u016bsufayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0633\u0641\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Y\u016bsufayn",
+        "Al Yusuf\u012byah",
+        "Yousf\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4671
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4a4b94cbd9a81960e7ed770dad907a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1260060343,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1260060343,
+    "wof:lastmodified":1537701550,
+    "wof:name":"Yusufayn",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21552,
+    35.93372,
+    36.21552,
+    35.93372
+],
+  "geometry": {"coordinates":[36.21552,35.93372],"type":"Point"}
+}

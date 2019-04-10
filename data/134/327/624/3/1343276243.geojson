@@ -1,0 +1,77 @@
+{
+  "id": 1343276243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02931,36.66372,41.02931,36.66372",
+    "geom:latitude":36.66372,
+    "geom:longitude":41.02931,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shiha",
+    "gn:country_code":"SY",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164276,
+    "gn:latitude":36.66372,
+    "gn:longitude":41.02931,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sh\u012b\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012b\u1e29\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u062d\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012b\u1e29ah",
+        "Ch\u00eeha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164276
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"24112f17a620b38ae4fac8a732f229cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1343276243,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343276243,
+    "wof:lastmodified":1537701726,
+    "wof:name":"Shiha",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02931,
+    36.66372,
+    41.02931,
+    36.66372
+],
+  "geometry": {"coordinates":[41.02931,36.66372],"type":"Point"}
+}

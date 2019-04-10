@@ -1,0 +1,74 @@
+{
+  "id": 1243056895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86937,35.17054,36.86937,35.17054",
+    "geom:latitude":35.17054,
+    "geom:longitude":36.86937,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rasm al Baghl",
+    "gn:country_code":"SY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165444,
+    "gn:latitude":35.17054,
+    "gn:longitude":36.86937,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Rasm al Baghl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0628\u063a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Rasm el Barhl",
+        "Rasm al Baghl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165444
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68628ea0aaeaab19a06ff1e228adebdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1243056895,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243056895,
+    "wof:lastmodified":1537701787,
+    "wof:name":"Rasm al Baghl",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86937,
+    35.17054,
+    36.86937,
+    35.17054
+],
+  "geometry": {"coordinates":[36.86937,35.17054],"type":"Point"}
+}

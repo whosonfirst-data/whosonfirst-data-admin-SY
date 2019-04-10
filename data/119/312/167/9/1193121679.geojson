@@ -1,0 +1,77 @@
+{
+  "id": 1193121679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38091,36.28368,37.38091,36.28368",
+    "geom:latitude":36.28368,
+    "geom:longitude":37.38091,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarjah Saghirah",
+    "gn:country_code":"SY",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164793,
+    "gn:latitude":36.28368,
+    "gn:longitude":37.38091,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sarjah \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u062c\u0629 \u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sarj\u00e9 es S\u00e9rh\u00eer\u00e9",
+        "Serdj es Seghir",
+        "Serj\u00e9 es Serh\u00eer\u00e9",
+        "Sarjah a\u015f \u015eagh\u012brah",
+        "Sarjah \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164793
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7a6e60ed1050f3fe8238b907586ef4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1193121679,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193121679,
+    "wof:lastmodified":1537701753,
+    "wof:name":"Sarjah Saghirah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38091,
+    36.28368,
+    37.38091,
+    36.28368
+],
+  "geometry": {"coordinates":[37.38091,36.28368],"type":"Point"}
+}

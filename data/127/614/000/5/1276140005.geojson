@@ -1,0 +1,77 @@
+{
+  "id": 1276140005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46977,35.22112,37.46977,35.22112",
+    "geom:latitude":35.22112,
+    "geom:longitude":37.46977,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Amun",
+    "gn:country_code":"SY",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173245,
+    "gn:latitude":35.22112,
+    "gn:longitude":37.46977,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Am\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Amm\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "Am\u016bn",
+        "\u0623\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aammo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173245
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3ead1c68b4d684d02c8aea58a4dd2e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276140005,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276140005,
+    "wof:lastmodified":1537702319,
+    "wof:name":"Amun",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46977,
+    35.22112,
+    37.46977,
+    35.22112
+],
+  "geometry": {"coordinates":[37.46977,35.22112],"type":"Point"}
+}

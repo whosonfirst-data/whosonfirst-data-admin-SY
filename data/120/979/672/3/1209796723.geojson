@@ -1,0 +1,75 @@
+{
+  "id": 1209796723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24656,34.82449,37.24656,34.82449",
+    "geom:latitude":34.82449,
+    "geom:longitude":37.24656,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Duway`ir al Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170533,
+    "gn:latitude":34.82449,
+    "gn:longitude":37.24656,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Duway\u2018ir al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0639\u0631 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Doua\u00efr el Rharbi",
+        "Duwayr al Gharb\u012b",
+        "Duway\u2018ir al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170533
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6f8bdd68dbafd21832db8ee4d76f3e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1209796723,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1209796723,
+    "wof:lastmodified":1537702130,
+    "wof:name":"Duway`ir al Gharbi",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24656,
+    34.82449,
+    37.24656,
+    34.82449
+],
+  "geometry": {"coordinates":[37.24656,34.82449],"type":"Point"}
+}

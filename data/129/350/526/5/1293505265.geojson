@@ -1,0 +1,77 @@
+{
+  "id": 1293505265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.9836,37.03547,40.9836,37.03547",
+    "geom:latitude":37.03547,
+    "geom:longitude":40.9836,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saymatak Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164672,
+    "gn:latitude":37.03547,
+    "gn:longitude":40.9836,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Saymatak Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u062a\u0643 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e9m\u00e9tek Fawq\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9m\u00e9tek Faouq\u00e2ni",
+        "Saymatak Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164672
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"78b63a0b6e2d5693d47f8e541f1326a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1293505265,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293505265,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Saymatak Fawqani",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.9836,
+    37.03547,
+    40.9836,
+    37.03547
+],
+  "geometry": {"coordinates":[40.9836,37.03547],"type":"Point"}
+}

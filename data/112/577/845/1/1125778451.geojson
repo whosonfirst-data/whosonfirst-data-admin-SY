@@ -1,0 +1,163 @@
+{
+  "id": 1125778451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65095,35.44208,36.65095,35.44208",
+    "geom:latitude":35.44208,
+    "geom:longitude":36.65095,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":48975,
+    "gn:population":48975,
+    "iso:country":"SY",
+    "lbl:latitude":35.44208,
+    "lbl:longitude":36.65095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646 \u0634\u064a\u062e\u0648\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u053d\u0561\u0576 \u0547\u0565\u0575\u056d\u0578\u0582\u0576"
+    ],
+    "name:aze_x_preferred":[
+        "Xan-\u015eeyxun"
+    ],
+    "name:bar_x_preferred":[
+        "Chan Schaichun"
+    ],
+    "name:cze_x_preferred":[
+        "Ch\u00e1n \u0160ajch\u00fan"
+    ],
+    "name:dut_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:eng_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:fre_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d0\u10dc-\u10e8\u10d0\u10d8\u10ee\u10e3\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Chan Schaichun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05d0\u05df \u05e9\u05d9\u05d9\u05d7'\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093e\u0928 \u0936\u093e\u092f\u0916\u0941\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:ita_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cbe\u0ca8\u0ccd \u0cb6\u0caf\u0ccd\u0c96\u0cc1\u0ca8\u0ccd"
+    ],
+    "name:may_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062e\u0627\u0646 \u0634\u06cc\u062e\u0648\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0627\u0646 \u0634\u06cc\u062e\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Chan Szajchun"
+    ],
+    "name:por_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d-\u0428\u0435\u0439\u0445\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Jan Sheijun"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u0101n Shaykh\u016bn"
+    ],
+    "name:tur_x_preferred":[
+        "Han \u015eeyhun"
+    ],
+    "name:unk_x_variant":[
+        "Kh\u0101n Sheikh\u016bn"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0646 \u0634\u06cc\u062e\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khan Shaykhun"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":168325,
+    "qs_pg:gn_pop":48975,
+    "qs_pg:name":"Kh\u0101n Shaykh\u016bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":529586,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168325,
+        "qs_pg:id":529586,
+        "wd:id":"Q603516"
+    },
+    "wof:country":"SY",
+    "wof:created":1497290366,
+    "wof:geomhash":"41df7fb54cf5e8c7067542c5166153ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1125778451,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1125778451,
+    "wof:lastmodified":1553816528,
+    "wof:name":"Kh\u0101n Shaykh\u016bn",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:population":48975,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65095,
+    35.44208,
+    36.65095,
+    35.44208
+],
+  "geometry": {"coordinates":[36.65095,35.44208],"type":"Point"}
+}

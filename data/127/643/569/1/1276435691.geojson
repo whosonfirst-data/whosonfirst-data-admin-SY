@@ -1,0 +1,70 @@
+{
+  "id": 1276435691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54709,35.07427,37.54709,35.07427",
+    "geom:latitude":35.07427,
+    "geom:longitude":37.54709,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fakhr",
+    "gn:country_code":"SY",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342627,
+    "gn:latitude":35.07427,
+    "gn:longitude":37.54709,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Fakhr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u062e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342627
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"863157b6e39d250629b2ca30683a1964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276435691,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276435691,
+    "wof:lastmodified":1537702546,
+    "wof:name":"Fakhr",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54709,
+    35.07427,
+    37.54709,
+    35.07427
+],
+  "geometry": {"coordinates":[37.54709,35.07427],"type":"Point"}
+}

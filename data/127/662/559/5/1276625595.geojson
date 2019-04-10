@@ -1,0 +1,74 @@
+{
+  "id": 1276625595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04459,35.18446,36.04459,35.18446",
+    "geom:latitude":35.18446,
+    "geom:longitude":36.04459,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ballutiyah",
+    "gn:country_code":"SY",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171870,
+    "gn:latitude":35.18446,
+    "gn:longitude":36.04459,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ball\u016b\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ballo\u00fbt\u00eey\u00e9",
+        "Ball\u016b\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171870
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d63cadc460bcd665747689e762cc0725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1276625595,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276625595,
+    "wof:lastmodified":1537702231,
+    "wof:name":"Ballutiyah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04459,
+    35.18445999999999,
+    36.04459,
+    35.18445999999999
+],
+  "geometry": {"coordinates":[36.04459,35.18445999999999],"type":"Point"}
+}

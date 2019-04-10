@@ -1,0 +1,74 @@
+{
+  "id": 1260159043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79202,34.82584,36.79202,34.82584",
+    "geom:latitude":34.82584,
+    "geom:longitude":36.79202,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hawsh Hajju",
+    "gn:country_code":"SY",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322748,
+    "gn:latitude":34.82584,
+    "gn:longitude":36.79202,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u1e28awsh \u1e28ajj\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u062d\u062c\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh \u1e28ajj\u016b",
+        "\u1e28awsh \u1e28aj\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322748
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c26c8c90d0507c72c9e85416e5a0a18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1260159043,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1260159043,
+    "wof:lastmodified":1537702526,
+    "wof:name":"Hawsh Hajju",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79202,
+    34.82584,
+    36.79202,
+    34.82584
+],
+  "geometry": {"coordinates":[36.79202,34.82584],"type":"Point"}
+}

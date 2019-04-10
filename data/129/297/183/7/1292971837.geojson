@@ -1,0 +1,73 @@
+{
+  "id": 1292971837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05152,35.14712,36.05152,35.14712",
+    "geom:latitude":35.14712,
+    "geom:longitude":36.05152,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ash Shaybani",
+    "gn:country_code":"SY",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556231,
+    "gn:latitude":35.14712,
+    "gn:longitude":36.05152,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ash Shayb\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u0628\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shayb\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556231
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f62719244009ffb0170dfb049cc0e4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1292971837,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1292971837,
+    "wof:lastmodified":1537702640,
+    "wof:name":"Ash Shaybani",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05152,
+    35.14712,
+    36.05152,
+    35.14712
+],
+  "geometry": {"coordinates":[36.05152,35.14712],"type":"Point"}
+}

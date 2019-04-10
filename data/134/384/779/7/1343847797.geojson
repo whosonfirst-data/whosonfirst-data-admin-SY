@@ -1,0 +1,76 @@
+{
+  "id": 1343847797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32535,35.72085,37.32535,35.72085",
+    "geom:latitude":35.72085,
+    "geom:longitude":37.32535,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall al Ahmar",
+    "gn:country_code":"SY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163720,
+    "gn:latitude":35.72085,
+    "gn:longitude":37.32535,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0623\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Rasm el Ahmar",
+        "Tell Ahmar",
+        "Tall A\u1e29mar",
+        "Tall al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163720
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c42a283fdcea12a42a7214b52ad0e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1343847797,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343847797,
+    "wof:lastmodified":1537701689,
+    "wof:name":"Tall al Ahmar",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32535,
+    35.72085,
+    37.32535,
+    35.72085
+],
+  "geometry": {"coordinates":[37.32535,35.72085],"type":"Point"}
+}

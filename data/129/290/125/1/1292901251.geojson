@@ -1,0 +1,70 @@
+{
+  "id": 1292901251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42487,33.08389,36.42487,33.08389",
+    "geom:latitude":33.08389,
+    "geom:longitude":36.42487,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"As Suwaysah",
+    "gn:country_code":"SY",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259779,
+    "gn:latitude":33.08389,
+    "gn:longitude":36.42487,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"As Suwaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u0633\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259779
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b573cf76e50aa4224e56f4872342712a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1292901251,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1292901251,
+    "wof:lastmodified":1537702609,
+    "wof:name":"As Suwaysah",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42487,
+    33.08389,
+    36.42487,
+    33.08389
+],
+  "geometry": {"coordinates":[36.42487,33.08389],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326514425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38022,36.37443,37.38022,36.37443",
+    "geom:latitude":36.37443,
+    "geom:longitude":37.38022,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"An Nayrabiyah",
+    "gn:country_code":"SY",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166355,
+    "gn:latitude":36.37443,
+    "gn:longitude":37.38022,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"An Nayrab\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u064a\u0631\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ne\u00efrab\u00eey\u00e9",
+        "Neirby\u00e9",
+        "Nayrab\u012byah",
+        "An Nayrab\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166355
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bc171c14b7a20ad115e968b7b6bbcabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1326514425,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326514425,
+    "wof:lastmodified":1537701855,
+    "wof:name":"An Nayrabiyah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38022,
+    36.37443,
+    37.38022,
+    36.37443
+],
+  "geometry": {"coordinates":[37.38022,36.37443],"type":"Point"}
+}

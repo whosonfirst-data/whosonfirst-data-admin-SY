@@ -1,0 +1,73 @@
+{
+  "id": 1210012159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43373,33.56109,36.43373,33.56109",
+    "geom:latitude":33.56109,
+    "geom:longitude":36.43373,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard ar Rayhan",
+    "gn:country_code":"SY",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8541183,
+    "gn:latitude":33.56109,
+    "gn:longitude":36.43373,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ar\u1e11 ar Ray\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u0636 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 ar Ray\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541183
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0031a19b9d9eb7e3de011e9cb094524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1210012159,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1210012159,
+    "wof:lastmodified":1537702577,
+    "wof:name":"Ard ar Rayhan",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43373,
+    33.56109,
+    36.43373,
+    33.56109
+],
+  "geometry": {"coordinates":[36.43373,33.56109],"type":"Point"}
+}

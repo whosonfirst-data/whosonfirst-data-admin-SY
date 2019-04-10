@@ -1,0 +1,71 @@
+{
+  "id": 1209198907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5139,36.16651,37.5139,36.16651",
+    "geom:latitude":36.16651,
+    "geom:longitude":37.5139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kuwayris Burayj Gharbi",
+    "gn:country_code":"SY",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167712,
+    "gn:latitude":36.16651,
+    "gn:longitude":37.5139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuwayris Burayj Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0631\u0633 \u0628\u0631\u064a\u062c \u063a\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Koua\u00efres Gharbi",
+        "Koua\u00efr\u00e9s Bra\u00efj Rharbi",
+        "Koua\u00efr\u00e8s el Rharbi",
+        "Kuwayris Burayj al Gharb\u012b",
+        "Kuwayris Burayj Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167712
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b5ab1e98151962356b8a2a92646189ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209198907
+        }
+    ],
+    "wof:id":1209198907,
+    "wof:lastmodified":1537701934,
+    "wof:name":"Kuwayris Burayj Gharbi",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5139,
+    36.16651,
+    37.5139,
+    36.16651
+],
+  "geometry": {"coordinates":[37.5139,36.16651],"type":"Point"}
+}

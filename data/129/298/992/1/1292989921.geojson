@@ -1,0 +1,78 @@
+{
+  "id": 1292989921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7868,35.1764,36.7868,35.1764",
+    "geom:latitude":35.1764,
+    "geom:longitude":36.7868,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jibrin",
+    "gn:country_code":"SY",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169080,
+    "gn:latitude":35.1764,
+    "gn:longitude":36.7868,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Jibr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jibr\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0628\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jibrine",
+        "J\u00efbr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169080,
+        "wk:page":"Jibrin"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4849e55c1f8cb14ae245641b61f883db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1292989921,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292989921,
+    "wof:lastmodified":1537702044,
+    "wof:name":"Jibrin",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7868,
+    35.1764,
+    36.7868,
+    35.1764
+],
+  "geometry": {"coordinates":[36.7868,35.1764],"type":"Point"}
+}

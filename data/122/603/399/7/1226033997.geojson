@@ -1,0 +1,80 @@
+{
+  "id": 1226033997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31479,35.23545,36.31479,35.23545",
+    "geom:latitude":35.23545,
+    "geom:longitude":36.31479,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Qubays",
+    "gn:country_code":"SY",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174397,
+    "gn:latitude":35.23545,
+    "gn:longitude":36.31479,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b Qubays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0628\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kalaat Abu Kebeis",
+        "Abou Qbe\u00efss",
+        "Qal\u2018at Ab\u016b Qubays",
+        "Abou Qba\u00efss",
+        "Qal\u2018at Abu Qubeis",
+        "Ab\u016b al Qubays",
+        "Ab\u016b Qubays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174397,
+        "wk:page":"Abu_Qubays"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a860fc7b2dcfcbeb20cd8e9dd74282ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1226033997,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226033997,
+    "wof:lastmodified":1537702405,
+    "wof:name":"Abu Qubays",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31479,
+    35.23545,
+    36.31479,
+    35.23545
+],
+  "geometry": {"coordinates":[36.31479,35.23545],"type":"Point"}
+}

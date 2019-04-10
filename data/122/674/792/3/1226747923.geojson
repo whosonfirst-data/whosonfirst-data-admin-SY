@@ -1,0 +1,70 @@
+{
+  "id": 1226747923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.15,35.33333,38.15,35.33333",
+    "geom:latitude":35.33333,
+    "geom:longitude":38.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sawh Abu Fayyad",
+    "gn:country_code":"SY",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6718,
+    "gn:latitude":35.33333,
+    "gn:longitude":38.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Saw\u1e29 Ab\u016b Fayy\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saw\u1e29 Ab\u016b Fayy\u0101\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6718
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"caf6eb1a73760c2dec1ae3d6320a023d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1226747923,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1226747923,
+    "wof:lastmodified":1537701555,
+    "wof:name":"Sawh Abu Fayyad",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.15,
+    35.33333,
+    38.15,
+    35.33333
+],
+  "geometry": {"coordinates":[38.15,35.33333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344045655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99269,34.72624,36.99269,34.72624",
+    "geom:latitude":34.72624,
+    "geom:longitude":36.99269,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"An Nisani",
+    "gn:country_code":"SY",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338246,
+    "gn:latitude":34.72624,
+    "gn:longitude":36.99269,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"An N\u012bs\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An N\u012bs\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u064a\u0633\u0627\u0646\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338246
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f38b3a9ab31b1639fd50c0a24d9c0e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1344045655,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1344045655,
+    "wof:lastmodified":1537702531,
+    "wof:name":"An Nisani",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99269,
+    34.72624,
+    36.99269,
+    34.72624
+],
+  "geometry": {"coordinates":[36.99269,34.72624],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 890449885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3107,33.61033,36.3107,33.61033",
+    "geom:latitude":33.61033,
+    "geom:longitude":36.3107,
+    "gn:country":"SY",
+    "gn:fcode":"PPLA2",
+    "gn:pop":55561,
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u0539\u0565\u056c\u056c"
+    ],
+    "name:dut_x_preferred":[
+        "At-Tall"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Tall"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Tall"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "At-Tall"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062a\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Tall i Syria"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062a\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "At-Tall"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442-\u0422\u0435\u043b\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Al-Tall"
+    ],
+    "name:unk_x_variant":[
+        "Ett Tell"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u060c \u0634\u0627\u0645"
+    ],
+    "qs:name":"At Tall",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172349,
+        "gp:id":1941796,
+        "qs:id":72476,
+        "wd:id":"Q2650067",
+        "wk:page":"Al-Tall"
+    },
+    "wof:country":"SY",
+    "wof:created":1469052715,
+    "wof:geomhash":"48091960166d884f02d647acf595318e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":890449885,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":890449885,
+    "wof:lastmodified":1527727157,
+    "wof:name":"At Tall",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:population":55561,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3107,
+    33.61033,
+    36.3107,
+    33.61033
+],
+  "geometry": {"coordinates":[36.3107,33.61033],"type":"Point"}
+}

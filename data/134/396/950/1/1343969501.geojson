@@ -1,0 +1,116 @@
+{
+  "id": 1343969501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65064,33.06809,35.65064,33.06809",
+    "geom:latitude":33.06809,
+    "geom:longitude":35.65064,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Al Fajir",
+    "gn:country_code":"SY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416419,
+    "gn:latitude":33.06809,
+    "gn:longitude":35.65064,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Al F\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al F\u0101jir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0627\u062c\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416419
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e43ee82eac6fb1113c3fb47f2f248544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343969501,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343969501,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1343969501,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343969501,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343969501,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1343969501,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343969501,
+    "wof:lastmodified":1549931195,
+    "wof:name":"Al Fajir",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65064,
+    33.06809000000001,
+    35.65064,
+    33.06809000000001
+],
+  "geometry": {"coordinates":[35.65064,33.06809000000001],"type":"Point"}
+}

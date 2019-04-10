@@ -1,0 +1,73 @@
+{
+  "id": 1360072331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47694,36.15248,36.47694,36.15248",
+    "geom:latitude":36.15248,
+    "geom:longitude":36.47694,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Hawran",
+    "gn:country_code":"SY",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554083,
+    "gn:latitude":36.15248,
+    "gn:longitude":36.47694,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al \u1e28awr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28awr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554083
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8fceecf6c2174cf3d4870e375ddd92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1360072331,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1360072331,
+    "wof:lastmodified":1537702629,
+    "wof:name":"Al Hawran",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47694,
+    36.15248,
+    36.47694,
+    36.15248
+],
+  "geometry": {"coordinates":[36.47694,36.15248],"type":"Point"}
+}

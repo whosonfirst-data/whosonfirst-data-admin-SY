@@ -1,0 +1,75 @@
+{
+  "id": 1209599061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98389,35.17653,36.98389,35.17653",
+    "geom:latitude":35.17653,
+    "geom:longitude":36.98389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Ali Kasun",
+    "gn:country_code":"SY",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172758,
+    "gn:latitude":35.17653,
+    "gn:longitude":36.98389,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018Al\u012b K\u0101s\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0639\u0644\u064a \u0643\u0627\u0633\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u064a \u0643\u0627\u0633\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sheik \u2018Ali Keyesun",
+        "Che\u00efkh A\u00e4li K\u00e2sso\u00fbn",
+        "Shaykh \u2018Al\u012b K\u0101s\u016bn",
+        "Che\u00efkh Aali K\u00e2sso\u00fbm",
+        "Ash Shaykh \u2018Al\u012b K\u0101s\u016bn",
+        "\u2018Al\u012b K\u0101s\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172758
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3bd7a84d4fc9e1156e5f4a5bacb6de03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209599061
+        }
+    ],
+    "wof:id":1209599061,
+    "wof:lastmodified":1537702290,
+    "wof:name":"`Ali Kasun",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98389,
+    35.17653,
+    36.98389,
+    35.17653
+],
+  "geometry": {"coordinates":[36.98389,35.17653],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259578307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01667,32.98333,36.01667,32.98333",
+    "geom:latitude":32.98333,
+    "geom:longitude":36.01667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bustas",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171114,
+    "gn:latitude":32.98333,
+    "gn:longitude":36.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bust\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bust\u0101s"
+    ],
+    "name:und_x_variant":[
+        "Bost\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171114
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"55fefb5cf16a9c5c31626907950ff3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":1259578307,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259578307,
+    "wof:lastmodified":1537702171,
+    "wof:name":"Bustas",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01667,
+    32.98333,
+    36.01667,
+    32.98333
+],
+  "geometry": {"coordinates":[36.01667,32.98333],"type":"Point"}
+}

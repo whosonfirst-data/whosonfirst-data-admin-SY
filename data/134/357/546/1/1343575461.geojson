@@ -1,0 +1,77 @@
+{
+  "id": 1343575461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63166,36.78009,40.63166,36.78009",
+    "geom:latitude":36.78009,
+    "geom:longitude":40.63166,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tall Khatun",
+    "gn:country_code":"SY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163520,
+    "gn:latitude":36.78009,
+    "gn:longitude":40.63166,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall Kh\u0101t\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062e\u0627\u062a\u0648\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Tall Kh\u0101t\u016bn"
+    ],
+    "name:und_x_variant":[
+        "Tell Kh\u00e2to\u00fbn",
+        "Tall Kh\u0101t\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163520
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"363ecda57c53384503303e2f91979848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1343575461,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343575461,
+    "wof:lastmodified":1537701665,
+    "wof:name":"Tall Khatun",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63166,
+    36.78009,
+    40.63166,
+    36.78009
+],
+  "geometry": {"coordinates":[40.63166,36.78009],"type":"Point"}
+}

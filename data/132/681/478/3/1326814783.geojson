@@ -1,0 +1,82 @@
+{
+  "id": 1326814783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36367,36.35267,37.36367,36.35267",
+    "geom:latitude":36.35267,
+    "geom:longitude":37.36367,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Umm al `Amad",
+    "gn:country_code":"SY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163011,
+    "gn:latitude":36.35267,
+    "gn:longitude":37.36367,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Umm al \u2018Amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0645\u062f \u0627\u0644\u062a\u0644\u0627\u062a\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0627\u0644\u0639\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Oumelilamed",
+        "Umm al \u2018Ubayd Tall T\u012bnah",
+        "Oum el Aamad Telt\u00eene",
+        "Oum el Ahmed",
+        "Umm al \u2018Amad Talt\u012bnah",
+        "Umm al \u2018Amad at Tal\u0101t\u012bn",
+        "Umm al \u2018Amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163011
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"250a5e2963c29fb8cf6aaa06d6f71e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1326814783,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326814783,
+    "wof:lastmodified":1537701630,
+    "wof:name":"Umm al `Amad",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36367,
+    36.35267,
+    37.36367,
+    36.35267
+],
+  "geometry": {"coordinates":[37.36367,36.35267],"type":"Point"}
+}

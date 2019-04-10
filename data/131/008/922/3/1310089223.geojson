@@ -1,0 +1,72 @@
+{
+  "id": 1310089223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16905,34.99991,36.16905,34.99991",
+    "geom:latitude":34.99991,
+    "geom:longitude":36.16905,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Duwayr al Masha'ikh",
+    "gn:country_code":"SY",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170529,
+    "gn:latitude":34.99991,
+    "gn:longitude":36.16905,
+    "gn:modification_date":"2011-09-28",
+    "gn:name":"Duwayr al Mash\u0101\u2019ikh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douair",
+        "Doua\u00efr el Mach\u00e2yekh",
+        "Duwayr al Mash\u0101\u2019ikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170529
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9a0c9a50484f435357c50bfdbecf79f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1310089223,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310089223,
+    "wof:lastmodified":1537702129,
+    "wof:name":"Duwayr al Masha'ikh",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16905,
+    34.99991,
+    36.16905,
+    34.99991
+],
+  "geometry": {"coordinates":[36.16905,34.99991],"type":"Point"}
+}

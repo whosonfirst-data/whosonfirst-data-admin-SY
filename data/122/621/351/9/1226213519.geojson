@@ -1,0 +1,73 @@
+{
+  "id": 1226213519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91912,34.87363,35.91912,34.87363",
+    "geom:latitude":34.87363,
+    "geom:longitude":35.91912,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Marahat",
+    "gn:country_code":"SY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266062,
+    "gn:latitude":34.87363,
+    "gn:longitude":35.91912,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Al Mar\u0101\u1e29\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u062d\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Mar\u0101\u1e29\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266062
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"76ee54c241c7a33d0c8df7ca56f309de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1226213519,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1226213519,
+    "wof:lastmodified":1537702501,
+    "wof:name":"Al Marahat",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91912,
+    34.87363,
+    35.91912,
+    34.87363
+],
+  "geometry": {"coordinates":[35.91912,34.87363],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276865753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.463,35.13634,37.463,35.13634",
+    "geom:latitude":35.13634,
+    "geom:longitude":37.463,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jubb al Abyad",
+    "gn:country_code":"SY",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340966,
+    "gn:latitude":35.13634,
+    "gn:longitude":37.463,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Jubb al Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u0627\u0644\u0623\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Jubb al Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340966
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"db0fd32a734724fee1bdda14a94db15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1276865753,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276865753,
+    "wof:lastmodified":1537702540,
+    "wof:name":"Jubb al Abyad",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.463,
+    35.13634,
+    37.463,
+    35.13634
+],
+  "geometry": {"coordinates":[37.463,35.13634],"type":"Point"}
+}

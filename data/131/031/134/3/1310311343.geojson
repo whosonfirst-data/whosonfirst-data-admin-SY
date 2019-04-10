@@ -1,0 +1,73 @@
+{
+  "id": 1310311343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.44032,35.87951,38.44032,35.87951",
+    "geom:latitude":35.87951,
+    "geom:longitude":38.44032,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Al Qarya",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6878,
+    "gn:latitude":35.87951,
+    "gn:longitude":38.44032,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al Qary\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Qary\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d0201d005d4850043748e08a4549364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1310311343,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1310311343,
+    "wof:lastmodified":1537701559,
+    "wof:name":"Al Qarya",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.44032,
+    35.87951,
+    38.44032,
+    35.87951
+],
+  "geometry": {"coordinates":[38.44032,35.87951],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276645237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48756,35.06791,36.48756,35.06791",
+    "geom:latitude":35.06791,
+    "geom:longitude":36.48756,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qusqus",
+    "gn:country_code":"SY",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165641,
+    "gn:latitude":35.06791,
+    "gn:longitude":36.48756,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qu\u015fqu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qu\u015fqu\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u0642\u0635",
+        "Buq\u015fqu\u015f",
+        "\u0628\u0642\u0635\u0642\u0635"
+    ],
+    "name:und_x_variant":[
+        "Qosqoss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165641
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"856df0fc23279df634977f5da2e53669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276645237,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276645237,
+    "wof:lastmodified":1537701797,
+    "wof:name":"Qusqus",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48756,
+    35.06791,
+    36.48756,
+    35.06791
+],
+  "geometry": {"coordinates":[36.48756,35.06791],"type":"Point"}
+}

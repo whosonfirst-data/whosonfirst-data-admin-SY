@@ -1,0 +1,75 @@
+{
+  "id": 1343565875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39958,32.93125,36.39958,32.93125",
+    "geom:latitude":32.93125,
+    "geom:longitude":36.39958,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jurrayn",
+    "gn:country_code":"SY",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168804,
+    "gn:latitude":32.93125,
+    "gn:longitude":36.39958,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jurrayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jourra\u00efne",
+        "Jra\u00efne",
+        "Jurrayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168804
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a0df463762db23ca596fbeab8231c8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":1343565875,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1343565875,
+    "wof:lastmodified":1537702023,
+    "wof:name":"Jurrayn",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39958,
+    32.93125,
+    36.39958,
+    32.93125
+],
+  "geometry": {"coordinates":[36.39958,32.93125],"type":"Point"}
+}

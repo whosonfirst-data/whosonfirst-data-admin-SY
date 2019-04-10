@@ -1,0 +1,77 @@
+{
+  "id": 1293678875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63957,36.30592,37.63957,36.30592",
+    "geom:latitude":36.30592,
+    "geom:longitude":37.63957,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Jabbar Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174481,
+    "gn:latitude":36.30592,
+    "gn:longitude":37.63957,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ab\u016b Jabb\u0101r Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062c\u0628\u0627\u0631 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Abou Djebbar Kbir",
+        "Abou Jebb\u00e2r K\u00e9bir\u00e9",
+        "Ab\u016b Jabb\u0101r Kab\u012brah",
+        "Ab\u016b Jabb\u0101r al Kab\u012brah",
+        "Ab\u016b Jabb\u0101r Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174481
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53447eec400e61ae31c70d1554f197ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1293678875,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293678875,
+    "wof:lastmodified":1537702411,
+    "wof:name":"Abu Jabbar Kabir",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63957,
+    36.30592,
+    37.63957,
+    36.30592
+],
+  "geometry": {"coordinates":[37.63957,36.30592],"type":"Point"}
+}

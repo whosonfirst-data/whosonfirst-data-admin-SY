@@ -1,0 +1,121 @@
+{
+  "id": 1125978395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60071,33.73848,36.60071,33.73848",
+    "geom:latitude":33.73848,
+    "geom:longitude":36.60071,
+    "gn:gn_country":"SY",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":16118,
+    "gn:population":16118,
+    "iso:country":"SY",
+    "lbl:latitude":33.73848,
+    "lbl:longitude":36.60071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0641\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0637\u064a\u0641\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u053f\u0578\u0582\u057f\u0565\u0575\u0586\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Qutayfah"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Qutayfah"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Qutayfah"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e3\u10e2\u10d0\u10d8\u10e4\u10d0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e7\u05d8\u05d9\u05d9\u05e4\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Qutayfah"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u06cc\u0641\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kutajfa"
+    ],
+    "name:sco_x_preferred":[
+        "Al-Qutayfah"
+    ],
+    "name:unk_x_variant":[
+        "Kutayfa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u06cc\u0641\u06c1"
+    ],
+    "qs_pg:aaroncc":"SY",
+    "qs_pg:gn_country":"SY",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":173312,
+    "qs_pg:gn_pop":16118,
+    "qs_pg:name":"Al Qu\u0163ayfah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":72845,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173312,
+        "qs_pg:id":72845,
+        "wd:id":"Q2920217"
+    },
+    "wof:country":"SY",
+    "wof:created":1497298444,
+    "wof:geomhash":"2e61443461bea68556b186503d21719a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1125978395,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1125978395,
+    "wof:lastmodified":1514505814,
+    "wof:name":"Al Qu\u0163ayfah",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:population":16118,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60071,
+    33.73848,
+    36.60071,
+    33.73848
+],
+  "geometry": {"coordinates":[36.60071,33.73848],"type":"Point"}
+}

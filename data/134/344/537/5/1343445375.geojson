@@ -1,0 +1,75 @@
+{
+  "id": 1343445375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39766,36.37092,37.39766,36.37092",
+    "geom:latitude":36.37092,
+    "geom:longitude":37.39766,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sha`alah",
+    "gn:country_code":"SY",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164661,
+    "gn:latitude":36.37092,
+    "gn:longitude":37.39766,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Sha\u2018\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Cha\u00e2la",
+        "Sha\u2018l\u0101",
+        "Sha\u2018\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164661
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2ef4060028cc94244881e2eef8b14e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779161,
+            "locality_id":1343445375,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343445375,
+    "wof:lastmodified":1537701747,
+    "wof:name":"Sha`alah",
+    "wof:parent_id":1108779161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39766,
+    36.37092,
+    37.39766,
+    36.37092
+],
+  "geometry": {"coordinates":[37.39766,36.37092],"type":"Point"}
+}

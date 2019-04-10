@@ -1,0 +1,78 @@
+{
+  "id": 1242756089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7076,34.80246,36.7076,34.80246",
+    "geom:latitude":34.80246,
+    "geom:longitude":36.7076,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tayr Ma`lah",
+    "gn:country_code":"SY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163285,
+    "gn:latitude":34.80246,
+    "gn:longitude":36.7076,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tayr Ma\u2018lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0631 \u0645\u0639\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Te\u00efr Maaleh",
+        "Ta\u00efr Maal\u00e9",
+        "\u0162ayr Ma\u2018lih",
+        "\u0162ayr Ma\u2018l\u012b",
+        "\u0162ayr Ma\u2018lah",
+        "Tayr Ma\u2018lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163285
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"193ec772e28531ce2cf8b068b5b406df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1242756089,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242756089,
+    "wof:lastmodified":1537701646,
+    "wof:name":"Tayr Ma`lah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7076,
+    34.80246,
+    36.7076,
+    34.80246
+],
+  "geometry": {"coordinates":[36.7076,34.80246],"type":"Point"}
+}

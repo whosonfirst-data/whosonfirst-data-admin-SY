@@ -1,0 +1,76 @@
+{
+  "id": 1293878143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21932,36.4993,38.21932,36.4993",
+    "geom:latitude":36.4993,
+    "geom:longitude":38.21932,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hama Kabir",
+    "gn:country_code":"SY",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170014,
+    "gn:latitude":36.4993,
+    "gn:longitude":38.21932,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u1e28am\u0101 Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28am\u0101 Kab\u012br",
+        "Hama el K\u00e9b\u00eer",
+        "Hama K\u00e9b\u00eer",
+        "\u1e28am\u0101h al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170014
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"38467bed0b3f361e40730e66dd78aab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293878143,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293878143,
+    "wof:lastmodified":1537702103,
+    "wof:name":"Hama Kabir",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21932,
+    36.4993,
+    38.21932,
+    36.4993
+],
+  "geometry": {"coordinates":[38.21932,36.4993],"type":"Point"}
+}

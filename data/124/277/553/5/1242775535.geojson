@@ -1,0 +1,67 @@
+{
+  "id": 1242775535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00138,32.7777,36.00138,32.7777",
+    "geom:latitude":32.7777,
+    "geom:longitude":36.00138,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kafr Thamer",
+    "gn:country_code":"SY",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468360,
+    "gn:latitude":32.7777,
+    "gn:longitude":36.00138,
+    "gn:modification_date":"2017-02-27",
+    "gn:name":"Kafr Thamer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468360
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fa07a54190bf951b7a971f937f64f7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1242775535,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1242775535,
+    "wof:lastmodified":1536779124,
+    "wof:name":"Kafr Thamer",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00138,
+    32.7777,
+    36.00138,
+    32.7777
+],
+  "geometry": {"coordinates":[36.00138,32.7777],"type":"Point"}
+}

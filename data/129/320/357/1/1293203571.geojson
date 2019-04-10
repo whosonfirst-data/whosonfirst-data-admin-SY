@@ -1,0 +1,77 @@
+{
+  "id": 1293203571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14719,35.42228,36.14719,35.42228",
+    "geom:latitude":35.42228,
+    "geom:longitude":36.14719,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bissin",
+    "gn:country_code":"SY",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171356,
+    "gn:latitude":35.42228,
+    "gn:longitude":36.14719,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Biss\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Biss\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bessine",
+        "Bessin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171356
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c154adb2942c6ca7db29c6913a2072d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1293203571,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1293203571,
+    "wof:lastmodified":1537702192,
+    "wof:name":"Bissin",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14719,
+    35.42228,
+    36.14719,
+    35.42228
+],
+  "geometry": {"coordinates":[36.14719,35.42228],"type":"Point"}
+}

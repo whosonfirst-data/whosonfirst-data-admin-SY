@@ -1,0 +1,74 @@
+{
+  "id": 1260287419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13806,35.58283,36.13806,35.58283",
+    "geom:latitude":35.58283,
+    "geom:longitude":36.13806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Daryus",
+    "gn:country_code":"SY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170852,
+    "gn:latitude":35.58283,
+    "gn:longitude":36.13806,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dary\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Dario\u00fbs",
+        "Dary\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170852
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"62405bd792f88097ff10fd44054dd292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1260287419,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1260287419,
+    "wof:lastmodified":1537702151,
+    "wof:name":"Daryus",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13806,
+    35.58283,
+    36.13806,
+    35.58283
+],
+  "geometry": {"coordinates":[36.13806,35.58283],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243548259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.325,35.30417,36.325,35.30417",
+    "geom:latitude":35.30417,
+    "geom:longitude":36.325,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qishab",
+    "gn:country_code":"SY",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4438,
+    "gn:latitude":35.30417,
+    "gn:longitude":36.325,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qish\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qish\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4438
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"215abfa52524675e91b9a19e64ff63c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1243548259,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1243548259,
+    "wof:lastmodified":1537701542,
+    "wof:name":"Qishab",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.325,
+    35.30417,
+    36.325,
+    35.30417
+],
+  "geometry": {"coordinates":[36.325,35.30417],"type":"Point"}
+}

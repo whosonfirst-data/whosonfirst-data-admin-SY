@@ -1,0 +1,74 @@
+{
+  "id": 1243189987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61207,36.191,40.61207,36.191",
+    "geom:latitude":36.191,
+    "geom:longitude":40.61207,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Umm Hafur",
+    "gn:country_code":"SY",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420901,
+    "gn:latitude":36.191,
+    "gn:longitude":40.61207,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Umm \u1e28af\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062d\u0641\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Umm \u1e28af\u016br",
+        "Umm \u1e28aff\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420901
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"960f869c551dbc86bbe738b0618cb8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1243189987,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1243189987,
+    "wof:lastmodified":1537702455,
+    "wof:name":"Umm Hafur",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61207,
+    36.191,
+    40.61207,
+    36.191
+],
+  "geometry": {"coordinates":[40.61207,36.191],"type":"Point"}
+}

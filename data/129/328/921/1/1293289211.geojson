@@ -1,0 +1,101 @@
+{
+  "id": 1293289211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19789,36.83318,38.19789,36.83318",
+    "geom:latitude":36.83318,
+    "geom:longitude":38.19789,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Makintar",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167298,
+    "gn:latitude":36.83318,
+    "gn:longitude":38.19789,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Makint\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u0646\u062a\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0646\u0637\u0627\u0631",
+        "\u062e\u0627\u0646 \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u0645\u0627\u0648\u064a \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u0645\u0627\u0648\u0649 \u0641\u0648\u0642\u0627\u0646\u064a",
+        "\u0645\u0623\u0648\u0649 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Xan\u00eek Zur"
+    ],
+    "name:kur_x_variant":[
+        "Xan\u00eek Jur",
+        "Xan\u00eek Jor",
+        "\u062e\u0627\u0646\u064a\u0643 \u0632\u0648\u0631",
+        "\u062e\u0627\u0646\u064a\u0643 \u0698\u0648\u0631",
+        "\u062e\u0627\u0646\u064a\u0643 \u0698\u06c6\u0631"
+    ],
+    "name:und_x_variant":[
+        "Makinnt\u00e2r",
+        "Maqin\u0163\u0101r",
+        "Makint\u0101r",
+        "Kh\u0101n Fawq\u0101n\u012b",
+        "Khan Fawqani",
+        "M\u0101w\u012b Fawq\u0101n\u012b",
+        "Mawi Fawqani",
+        "Khanik Zur",
+        "Khanik Jor",
+        "M\u0101w\u00e1 Fawq\u0101n\u012b",
+        "Mawa Jor",
+        "Ma\u2019w\u00e1 Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167298
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bf3a79a1ed679306afe2f5c0f4651485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":1293289211,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293289211,
+    "wof:lastmodified":1537701911,
+    "wof:name":"Makintar",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19789,
+    36.83318,
+    38.19789,
+    36.83318
+],
+  "geometry": {"coordinates":[38.19789,36.83318],"type":"Point"}
+}

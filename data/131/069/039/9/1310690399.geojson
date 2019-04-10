@@ -1,0 +1,76 @@
+{
+  "id": 1310690399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25899,35.27908,37.25899,35.27908",
+    "geom:latitude":35.27908,
+    "geom:longitude":37.25899,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Hurayj",
+    "gn:country_code":"SY",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162857,
+    "gn:latitude":35.27908,
+    "gn:longitude":37.25899,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ab\u016b \u1e28urayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0631\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Oum Kra\u00efy\u00e9",
+        "Oumm Kra\u00efy\u00e9",
+        "Umm Qurayyah",
+        "Ab\u016b \u1e28urayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162857
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1c649bcbafdbb757fb3acca9c3b5276e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310690399,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310690399,
+    "wof:lastmodified":1537701619,
+    "wof:name":"Abu Hurayj",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25899,
+    35.27908,
+    37.25899,
+    35.27908
+],
+  "geometry": {"coordinates":[37.25899,35.27908],"type":"Point"}
+}

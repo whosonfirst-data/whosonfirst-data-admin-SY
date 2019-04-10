@@ -1,0 +1,67 @@
+{
+  "id": 1209109235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9697,35.37439,35.9697,35.37439",
+    "geom:latitude":35.37439,
+    "geom:longitude":35.9697,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ard al Hawran",
+    "gn:country_code":"SY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8695852,
+    "gn:latitude":35.37439,
+    "gn:longitude":35.9697,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ar\u1e11 al \u1e28awr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u062d\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al \u1e28awr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695852
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"509eb12515dcbe4af7afba15fe00eebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209109235
+        }
+    ],
+    "wof:id":1209109235,
+    "wof:lastmodified":1537702585,
+    "wof:name":"Ard al Hawran",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9697,
+    35.37439000000001,
+    35.9697,
+    35.37439000000001
+],
+  "geometry": {"coordinates":[35.9697,35.37439000000001],"type":"Point"}
+}

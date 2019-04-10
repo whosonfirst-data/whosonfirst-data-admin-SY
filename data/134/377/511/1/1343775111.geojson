@@ -1,0 +1,75 @@
+{
+  "id": 1343775111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82293,35.57165,35.82293,35.57165",
+    "geom:latitude":35.57165,
+    "geom:longitude":35.82293,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baksa",
+    "gn:country_code":"SY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171917,
+    "gn:latitude":35.57165,
+    "gn:longitude":35.82293,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Baks\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0633\u0627"
+    ],
+    "name:und_x_variant":[
+        "Baks\u0101",
+        "Baksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171917,
+        "wk:page":"Baksa%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"20d085d0135ae11ac6c1ac7470c30325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1343775111,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1343775111,
+    "wof:lastmodified":1537702235,
+    "wof:name":"Baksa",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82293,
+    35.57165,
+    35.82293,
+    35.57165
+],
+  "geometry": {"coordinates":[35.82293,35.57165],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259797587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.77869,36.2213,40.77869,36.2213",
+    "geom:latitude":36.2213,
+    "geom:longitude":40.77869,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hanajiya",
+    "gn:country_code":"SY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421004,
+    "gn:latitude":36.2213,
+    "gn:longitude":40.77869,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Han\u0101jiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u0627\u062c\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Han\u0101jiy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421004
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7140bb9940739223d188527f10f5d0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259797587,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259797587,
+    "wof:lastmodified":1537702460,
+    "wof:name":"Hanajiya",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.77869000000001,
+    36.2213,
+    40.77869000000001,
+    36.2213
+],
+  "geometry": {"coordinates":[40.77869000000001,36.2213],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210034001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1,36.75,41.1,36.75",
+    "geom:latitude":36.75,
+    "geom:longitude":41.1,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chas`a",
+    "gn:country_code":"SY",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164409,
+    "gn:latitude":36.75,
+    "gn:longitude":41.1,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Chas\u2018\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0633\u0639\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "Shas\u2018\u0101"
+    ],
+    "name:und_x_variant":[
+        "Tchessa\u00e2",
+        "Chas\u2018\u0101",
+        "Tshas\u2018\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164409
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"170fafa7541a61c122fdf00160c8dccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1210034001,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1210034001,
+    "wof:lastmodified":1537701732,
+    "wof:name":"Chas`a",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1,
+    36.75,
+    41.1,
+    36.75
+],
+  "geometry": {"coordinates":[41.1,36.75],"type":"Point"}
+}

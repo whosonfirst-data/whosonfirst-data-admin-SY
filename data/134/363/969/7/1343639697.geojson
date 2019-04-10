@@ -1,0 +1,76 @@
+{
+  "id": 1343639697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51872,34.73038,36.51872,34.73038",
+    "geom:latitude":34.73038,
+    "geom:longitude":36.51872,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ram al `Anz",
+    "gn:country_code":"SY",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165555,
+    "gn:latitude":34.73038,
+    "gn:longitude":36.51872,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"R\u0101m al \u2018Anz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645 \u0627\u0644\u0639\u0646\u0632"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2m el Aannz",
+        "Ram el Anz",
+        "R\u00e2m el Aanz",
+        "R\u0101m al \u2018Anz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165555
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ee00edba391c32bdcbaf9c14d333d6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1343639697,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343639697,
+    "wof:lastmodified":1537701793,
+    "wof:name":"Ram al `Anz",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51872,
+    34.73038,
+    36.51872,
+    34.73038
+],
+  "geometry": {"coordinates":[36.51872,34.73038],"type":"Point"}
+}

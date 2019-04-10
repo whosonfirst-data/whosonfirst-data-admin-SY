@@ -1,0 +1,74 @@
+{
+  "id": 1310294627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1159,36.62136,37.1159,36.62136",
+    "geom:latitude":36.62136,
+    "geom:longitude":37.1159,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tatiyah",
+    "gn:country_code":"SY",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163328,
+    "gn:latitude":36.62136,
+    "gn:longitude":37.1159,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"\u0162\u0101\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2tiy\u00e9",
+        "\u0162\u0101\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163328
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a3117bd4138384bf844c57bd66a51367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1310294627,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310294627,
+    "wof:lastmodified":1537701648,
+    "wof:name":"Tatiyah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1159,
+    36.62136,
+    37.1159,
+    36.62136
+],
+  "geometry": {"coordinates":[37.1159,36.62136],"type":"Point"}
+}

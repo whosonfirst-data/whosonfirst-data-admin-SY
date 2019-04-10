@@ -1,0 +1,74 @@
+{
+  "id": 1276860337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96776,35.31341,36.96776,35.31341",
+    "geom:latitude":35.31341,
+    "geom:longitude":36.96776,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Birah",
+    "gn:country_code":"SY",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173961,
+    "gn:latitude":35.31341,
+    "gn:longitude":36.96776,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al B\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El B\u00eer\u00e9",
+        "Al B\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173961
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"eba7b2355355dd79d13aa98513c126eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276860337,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276860337,
+    "wof:lastmodified":1537702379,
+    "wof:name":"Al Birah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96776,
+    35.31341,
+    36.96776,
+    35.31341
+],
+  "geometry": {"coordinates":[36.96776,35.31341],"type":"Point"}
+}

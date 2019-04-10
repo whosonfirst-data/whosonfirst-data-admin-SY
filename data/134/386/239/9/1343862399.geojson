@@ -1,0 +1,77 @@
+{
+  "id": 1343862399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24334,36.90137,40.24334,36.90137",
+    "geom:latitude":36.90137,
+    "geom:longitude":40.24334,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matla",
+    "gn:country_code":"SY",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166549,
+    "gn:latitude":36.90137,
+    "gn:longitude":40.24334,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ma\u0163l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0644\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "Mu\u0163allah"
+    ],
+    "name:und_x_variant":[
+        "Motalla",
+        "Ma\u0163l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166549
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0611084d1c12bd21246148b3cf42775e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1343862399,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1343862399,
+    "wof:lastmodified":1537701864,
+    "wof:name":"Matla",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24334,
+    36.90137,
+    40.24334,
+    36.90137
+],
+  "geometry": {"coordinates":[40.24334,36.90137],"type":"Point"}
+}

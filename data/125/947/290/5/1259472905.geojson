@@ -1,0 +1,85 @@
+{
+  "id": 1259472905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22796,36.17565,37.22796,36.17565",
+    "geom:latitude":36.17565,
+    "geom:longitude":37.22796,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"An Nayrab",
+    "gn:country_code":"SY",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166356,
+    "gn:latitude":36.17565,
+    "gn:longitude":37.22796,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"An Nayrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u064a\u0631\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "An Nayrib",
+        "Na\u00efrab",
+        "Nirab",
+        "Neirab Haleb",
+        "Neirab",
+        "Nayrab",
+        "An Nayrab",
+        "Madafet al-Nairab",
+        "Maddafat al-Nayrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166356,
+        "wk:page":"Al-Nayrab"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d3fd1ae9b3e4080da32319849cc70035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1259472905,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259472905,
+    "wof:lastmodified":1537701855,
+    "wof:name":"An Nayrab",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22796,
+    36.17565,
+    37.22796,
+    36.17565
+],
+  "geometry": {"coordinates":[37.22796,36.17565],"type":"Point"}
+}

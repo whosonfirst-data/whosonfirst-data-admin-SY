@@ -1,0 +1,78 @@
+{
+  "id": 1260064533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94167,36.5588,36.94167,36.5588",
+    "geom:latitude":36.5588,
+    "geom:longitude":36.94167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kafurmuz",
+    "gn:country_code":"SY",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273832,
+    "gn:latitude":36.5588,
+    "gn:longitude":36.94167,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kafurm\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016brt Furm\u016bz"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0631\u062a \u0641\u0631\u0645\u0648\u0632",
+        "\u0643\u0641\u0631\u0645\u0632"
+    ],
+    "name:und_x_variant":[
+        "Kafurm\u016bz",
+        "Kafrm\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273832
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4ba575f68a642d6211d8d1e9efb7b343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260064533,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260064533,
+    "wof:lastmodified":1537702511,
+    "wof:name":"Kafurmuz",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94167,
+    36.5588,
+    36.94167,
+    36.5588
+],
+  "geometry": {"coordinates":[36.94167,36.5588],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326642725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00833,35.425,36.00833,35.425",
+    "geom:latitude":35.425,
+    "geom:longitude":36.00833,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ar Ruways",
+    "gn:country_code":"SY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4473,
+    "gn:latitude":35.425,
+    "gn:longitude":36.00833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Ruways",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4473
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f590f06a73751634ae16fb6a626da44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1326642725,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1326642725,
+    "wof:lastmodified":1536823726,
+    "wof:name":"Ar Ruways",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00833,
+    35.425,
+    36.00833,
+    35.425
+],
+  "geometry": {"coordinates":[36.00833,35.425],"type":"Point"}
+}

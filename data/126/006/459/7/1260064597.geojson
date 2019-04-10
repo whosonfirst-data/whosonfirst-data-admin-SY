@@ -1,0 +1,75 @@
+{
+  "id": 1260064597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77997,36.38381,36.77997,36.38381",
+    "geom:latitude":36.38381,
+    "geom:longitude":36.77997,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zalaqah",
+    "gn:country_code":"SY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162555,
+    "gn:latitude":36.38381,
+    "gn:longitude":36.77997,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Zalaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0644\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zalaqa",
+        "Zalaka",
+        "Zalaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162555
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"61f229054166499485b1481b776debac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260064597,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260064597,
+    "wof:lastmodified":1537701599,
+    "wof:name":"Zalaqah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77997,
+    36.38381,
+    36.77997,
+    36.38381
+],
+  "geometry": {"coordinates":[36.77997,36.38381],"type":"Point"}
+}

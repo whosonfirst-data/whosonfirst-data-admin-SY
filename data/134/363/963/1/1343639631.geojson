@@ -1,0 +1,79 @@
+{
+  "id": 1343639631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80114,34.63034,36.80114,34.63034",
+    "geom:latitude":34.63034,
+    "geom:longitude":36.80114,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tall ash Shih",
+    "gn:country_code":"SY",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163651,
+    "gn:latitude":34.63034,
+    "gn:longitude":36.80114,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tall ash Sh\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0634\u064a\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell ech Ch\u00eeh",
+        "Tell ech Ch\u00eer",
+        "Tall ash Sh\u012b\u1e29",
+        "Judaydah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163651
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"36457b66c59621b22405446663983403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1343639631,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343639631,
+    "wof:lastmodified":1537701680,
+    "wof:name":"Tall ash Shih",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80114,
+    34.63034,
+    36.80114,
+    34.63034
+],
+  "geometry": {"coordinates":[36.80114,34.63034],"type":"Point"}
+}

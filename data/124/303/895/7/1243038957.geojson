@@ -1,0 +1,76 @@
+{
+  "id": 1243038957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20382,35.15915,36.20382,35.15915",
+    "geom:latitude":35.15915,
+    "geom:longitude":36.20382,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baluqa",
+    "gn:country_code":"SY",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171490,
+    "gn:latitude":35.15915,
+    "gn:longitude":36.20382,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bal\u016bq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bdo\u00fbqa",
+        "Bd\u016bqah",
+        "Bal\u016bq\u0101",
+        "Ball\u016bq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171490
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6269a5e2fab6731a6bce7ad8bc653db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243038957,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243038957,
+    "wof:lastmodified":1537702202,
+    "wof:name":"Baluqa",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20382,
+    35.15915,
+    36.20382,
+    35.15915
+],
+  "geometry": {"coordinates":[36.20382,35.15915],"type":"Point"}
+}

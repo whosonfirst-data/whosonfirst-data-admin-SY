@@ -1,0 +1,72 @@
+{
+  "id": 1259391581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08042,35.30295,36.08042,35.30295",
+    "geom:latitude":35.30295,
+    "geom:longitude":36.08042,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Jubayliyah",
+    "gn:country_code":"SY",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173689,
+    "gn:latitude":35.30295,
+    "gn:longitude":36.08042,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Al Jubayl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jba\u00efl\u00eey\u00e9",
+        "Jbal\u2019iya",
+        "Al Jubayl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173689
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1064ceb5b364f93dd9e8492aecfd41e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1259391581,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259391581,
+    "wof:lastmodified":1537702355,
+    "wof:name":"Al Jubayliyah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08042,
+    35.30295,
+    36.08042,
+    35.30295
+],
+  "geometry": {"coordinates":[36.08042,35.30295],"type":"Point"}
+}

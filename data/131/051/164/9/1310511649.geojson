@@ -1,0 +1,70 @@
+{
+  "id": 1310511649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.74696,36.31697,40.74696,36.31697",
+    "geom:latitude":36.31697,
+    "geom:longitude":40.74696,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ad Dughayrat",
+    "gn:country_code":"SY",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":174235,
+    "gn:latitude":36.31697,
+    "gn:longitude":40.74696,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ad Dughayr\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Dughayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174235
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"14c213b560d3ea88e697a8bd59c3c5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1310511649,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1310511649,
+    "wof:lastmodified":1537702399,
+    "wof:name":"Ad Dughayrat",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.74696,
+    36.31697,
+    40.74696,
+    36.31697
+],
+  "geometry": {"coordinates":[40.74696,36.31697],"type":"Point"}
+}

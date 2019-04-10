@@ -1,0 +1,73 @@
+{
+  "id": 1243234709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18911,34.85046,36.18911,34.85046",
+    "geom:latitude":34.85046,
+    "geom:longitude":36.18911,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Balatat Mughayzil",
+    "gn:country_code":"SY",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444700,
+    "gn:latitude":34.85046,
+    "gn:longitude":36.18911,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bal\u0101\u0163at Mughayzil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0637\u0629 \u0645\u063a\u064a\u0632\u0644"
+    ],
+    "name:und_x_variant":[
+        "Bal\u0101\u0163at Mughayzil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444700
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7ee0e40adee8a786a0fd6c46115a8dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1243234709,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243234709,
+    "wof:lastmodified":1537702625,
+    "wof:name":"Balatat Mughayzil",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18911,
+    34.85046,
+    36.18911,
+    34.85046
+],
+  "geometry": {"coordinates":[36.18911,34.85046],"type":"Point"}
+}

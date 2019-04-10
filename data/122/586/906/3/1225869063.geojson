@@ -1,0 +1,73 @@
+{
+  "id": 1225869063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36559,35.78379,39.36559,35.78379",
+    "geom:latitude":35.78379,
+    "geom:longitude":39.36559,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zawr Shammar",
+    "gn:country_code":"SY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4130,
+    "gn:latitude":35.78379,
+    "gn:longitude":39.36559,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Zawr Shamm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631 \u0634\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zawr Shamm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4130
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"edf111dcf3bd4aa1035715bc3db7fe5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1225869063,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1225869063,
+    "wof:lastmodified":1537701535,
+    "wof:name":"Zawr Shammar",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36559000000001,
+    35.78379,
+    39.36559000000001,
+    35.78379
+],
+  "geometry": {"coordinates":[39.36559000000001,35.78379],"type":"Point"}
+}

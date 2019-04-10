@@ -1,0 +1,73 @@
+{
+  "id": 1310199481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.69005,35.58843,40.69005,35.58843",
+    "geom:latitude":35.58843,
+    "geom:longitude":40.69005,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hilalah",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275470,
+    "gn:latitude":35.58843,
+    "gn:longitude":40.69005,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Hil\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hil\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275470
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f55b236ba70d829e45a8806e3c25aad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1310199481,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1310199481,
+    "wof:lastmodified":1537702519,
+    "wof:name":"Hilalah",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.69005,
+    35.58842999999999,
+    40.69005,
+    35.58842999999999
+],
+  "geometry": {"coordinates":[40.69005,35.58842999999999],"type":"Point"}
+}

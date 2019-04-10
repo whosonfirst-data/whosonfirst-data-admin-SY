@@ -1,0 +1,75 @@
+{
+  "id": 1276784527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37362,34.92013,36.37362,34.92013",
+    "geom:latitude":34.92013,
+    "geom:longitude":36.37362,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bayt Natir",
+    "gn:country_code":"SY",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171545,
+    "gn:latitude":34.92013,
+    "gn:longitude":36.37362,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bayt N\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft N\u00e2ter",
+        "Bayt N\u0101\u0163ir",
+        "Be\u00eft Nater"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171545
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"159e50fa95809791b143ab1e100b6e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1276784527,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276784527,
+    "wof:lastmodified":1537702207,
+    "wof:name":"Bayt Natir",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37362,
+    34.92013,
+    36.37362,
+    34.92013
+],
+  "geometry": {"coordinates":[36.37362,34.92013],"type":"Point"}
+}

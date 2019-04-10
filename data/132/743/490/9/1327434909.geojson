@@ -1,0 +1,74 @@
+{
+  "id": 1327434909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10357,35.70216,36.10357,35.70216",
+    "geom:latitude":35.70216,
+    "geom:longitude":36.10357,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurt Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4584,
+    "gn:latitude":35.70216,
+    "gn:longitude":36.10357,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kurt Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062a \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kurt Ta\u1e29t\u0101n\u012b",
+        "Kert Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4584
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3bb78afe16aaef03198efbab64b0c418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1327434909,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1327434909,
+    "wof:lastmodified":1537701546,
+    "wof:name":"Kurt Tahtani",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10357,
+    35.70216,
+    36.10357,
+    35.70216
+],
+  "geometry": {"coordinates":[36.10357,35.70216],"type":"Point"}
+}

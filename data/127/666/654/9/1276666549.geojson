@@ -1,0 +1,75 @@
+{
+  "id": 1276666549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88763,35.87794,35.88763,35.87794",
+    "geom:latitude":35.87794,
+    "geom:longitude":35.88763,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Ummah",
+    "gn:country_code":"SY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166091,
+    "gn:latitude":35.87794,
+    "gn:longitude":35.88763,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Al Ummah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qara Tchodjo\u00fbq",
+        "Qarah J\u016bjuq",
+        "Al Ummah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166091
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a9d170f72d1997e5cb0281e1a2726205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1276666549,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1276666549,
+    "wof:lastmodified":1537701834,
+    "wof:name":"Al Ummah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88763,
+    35.87794,
+    35.88763,
+    35.87794
+],
+  "geometry": {"coordinates":[35.88763,35.87794],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242858031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92594,34.90387,35.92594,34.90387",
+    "geom:latitude":34.90387,
+    "geom:longitude":35.92594,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Judayti",
+    "gn:country_code":"SY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168884,
+    "gn:latitude":34.90387,
+    "gn:longitude":35.92594,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Judayt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062f\u064a\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jde\u00eft\u00e9",
+        "Judaytah",
+        "\u062c\u062f\u064a\u062a\u0629",
+        "Judayt\u00e1",
+        "\u062c\u062f\u064a\u062a\u0649",
+        "Judayt\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168884
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b9547b5f268570a312ccb80489b3fa36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1242858031,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242858031,
+    "wof:lastmodified":1537702028,
+    "wof:name":"Judayti",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92594000000001,
+    34.90387,
+    35.92594000000001,
+    34.90387
+],
+  "geometry": {"coordinates":[35.92594000000001,34.90387],"type":"Point"}
+}

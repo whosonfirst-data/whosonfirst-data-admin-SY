@@ -1,0 +1,70 @@
+{
+  "id": 1193268057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95,36.2,37.95,36.2",
+    "geom:latitude":36.2,
+    "geom:longitude":37.95,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Safa",
+    "gn:country_code":"SY",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165089,
+    "gn:latitude":36.2,
+    "gn:longitude":37.95,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"\u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165089
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"03aba3d97a1807f512c558a53509b026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1193268057,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1193268057,
+    "wof:lastmodified":1537701768,
+    "wof:name":"Safa",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95,
+    36.2,
+    37.95,
+    36.2
+],
+  "geometry": {"coordinates":[37.95,36.2],"type":"Point"}
+}

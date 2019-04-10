@@ -1,0 +1,76 @@
+{
+  "id": 1310327209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36693,32.59642,36.36693,32.59642",
+    "geom:latitude":32.59642,
+    "geom:longitude":36.36693,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sahwat al Qamh",
+    "gn:country_code":"SY",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164988,
+    "gn:latitude":32.59642,
+    "gn:longitude":36.36693,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sahwat al Qam\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0648\u0629 \u0627\u0644\u0642\u0645\u062d"
+    ],
+    "name:und_x_variant":[
+        "Sahwah",
+        "Sahouet el Qameh",
+        "Sahwat al Qami\u1e29",
+        "Sahwat al Qam\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164988
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"51e1a42e8abd18af264ff5a47a54ba8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1310327209,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1310327209,
+    "wof:lastmodified":1537701764,
+    "wof:name":"Sahwat al Qamh",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36693,
+    32.59642,
+    36.36693,
+    32.59642
+],
+  "geometry": {"coordinates":[36.36693,32.59642],"type":"Point"}
+}

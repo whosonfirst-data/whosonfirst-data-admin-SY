@@ -1,0 +1,75 @@
+{
+  "id": 1209935159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25609,35.89198,37.25609,35.89198",
+    "geom:latitude":35.89198,
+    "geom:longitude":37.25609,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarijah",
+    "gn:country_code":"SY",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164795,
+    "gn:latitude":35.89198,
+    "gn:longitude":37.25609,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"S\u0101rijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sarj\u00e9",
+        "Sarjah",
+        "S\u0101rijah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164795
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1ef6c7ff64465cd75a659e477f003e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1209935159,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1209935159,
+    "wof:lastmodified":1537701753,
+    "wof:name":"Sarijah",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25609,
+    35.89198,
+    37.25609,
+    35.89198
+],
+  "geometry": {"coordinates":[37.25609,35.89198],"type":"Point"}
+}

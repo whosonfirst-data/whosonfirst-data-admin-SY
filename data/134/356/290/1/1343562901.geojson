@@ -1,0 +1,121 @@
+{
+  "id": 1343562901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84062,33.034,35.84062,33.034",
+    "geom:latitude":33.034,
+    "geom:longitude":35.84062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Al Juwayzah",
+    "gn:country_code":"SY",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":168781,
+    "gn:latitude":33.034,
+    "gn:longitude":35.84062,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Al Juwayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Joua\u00efz\u00e9",
+        "Juwayzah",
+        "Al Juwayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720811,
+        85678395,
+        85632221,
+        85632413,
+        1108779081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168781
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"25b50942645061c9fff4a9664db23141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1343562901,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343562901,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343562901,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1343562901,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343562901,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343562901,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1343562901,
+    "wof:lastmodified":1537702021,
+    "wof:name":"Al Juwayzah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84062,
+    33.034,
+    35.84062,
+    33.034
+],
+  "geometry": {"coordinates":[35.84062,33.034],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309715165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15105,35.52428,36.15105,35.52428",
+    "geom:latitude":35.52428,
+    "geom:longitude":36.15105,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qaznuriyah",
+    "gn:country_code":"SY",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165872,
+    "gn:latitude":35.52428,
+    "gn:longitude":36.15105,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qazn\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0632\u0646\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qazmo\u00fbl\u00eey\u00e9",
+        "Qazm\u016bl\u012byah",
+        "Qazn\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165872
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"070062c043be75248628ae077cd94901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1309715165,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1309715165,
+    "wof:lastmodified":1537701815,
+    "wof:name":"Qaznuriyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15105,
+    35.52428,
+    36.15105,
+    35.52428
+],
+  "geometry": {"coordinates":[36.15105,35.52428],"type":"Point"}
+}

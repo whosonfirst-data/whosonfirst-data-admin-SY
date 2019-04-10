@@ -1,0 +1,73 @@
+{
+  "id": 1293470931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68776,34.72877,36.68776,34.72877",
+    "geom:latitude":34.72877,
+    "geom:longitude":36.68776,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aradi al Barbariyah",
+    "gn:country_code":"SY",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7637446,
+    "gn:latitude":34.72877,
+    "gn:longitude":36.68776,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar\u0101\u1e11\u012b al Barbar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0628\u0631\u0628\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar\u0101\u1e11\u012b al Barbar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7637446
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d249127dcb630f7151a5e3c8267da89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1293470931,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1293470931,
+    "wof:lastmodified":1537702469,
+    "wof:name":"Aradi al Barbariyah",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68776,
+    34.72877,
+    36.68776,
+    34.72877
+],
+  "geometry": {"coordinates":[36.68776,34.72877],"type":"Point"}
+}

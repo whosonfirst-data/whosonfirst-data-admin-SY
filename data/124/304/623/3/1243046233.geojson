@@ -1,0 +1,74 @@
+{
+  "id": 1243046233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88928,35.2116,38.88928,35.2116",
+    "geom:latitude":35.2116,
+    "geom:longitude":38.88928,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Umm Nutuliyah",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6703,
+    "gn:latitude":35.2116,
+    "gn:longitude":38.88928,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Umm Nut\u016bl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0646\u062a\u0648\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Nut\u016bl\u012byah",
+        "Umm Nu\u0163\u016bl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6703
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3df3794a09e5135cb8e5b76faece397e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":1243046233,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1243046233,
+    "wof:lastmodified":1537701555,
+    "wof:name":"Umm Nutuliyah",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88928,
+    35.2116,
+    38.88928,
+    35.2116
+],
+  "geometry": {"coordinates":[38.88928,35.2116],"type":"Point"}
+}

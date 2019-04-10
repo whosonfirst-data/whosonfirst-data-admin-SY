@@ -1,0 +1,77 @@
+{
+  "id": 1242870905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8181,35.6117,39.8181,35.6117",
+    "geom:latitude":35.6117,
+    "geom:longitude":39.8181,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"At Tibni",
+    "gn:country_code":"SY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":172327,
+    "gn:latitude":35.6117,
+    "gn:longitude":39.8181,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"At Tibn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "At Tibn\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0628\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tibn\u00e9",
+        "Tibnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172327
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"950329640f580b7f02604effab5fbb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1242870905,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1242870905,
+    "wof:lastmodified":1537702266,
+    "wof:name":"At Tibni",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8181,
+    35.6117,
+    39.8181,
+    35.6117
+],
+  "geometry": {"coordinates":[39.8181,35.6117],"type":"Point"}
+}

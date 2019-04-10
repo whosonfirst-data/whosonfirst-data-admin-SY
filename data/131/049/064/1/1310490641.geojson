@@ -1,0 +1,75 @@
+{
+  "id": 1310490641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20096,34.98099,37.20096,34.98099",
+    "geom:latitude":34.98099,
+    "geom:longitude":37.20096,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Barri ash Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":171757,
+    "gn:latitude":34.98099,
+    "gn:longitude":37.20096,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Barr\u012b ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0651\u064a \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Barri Charqi",
+        "Barri ech Charqi",
+        "Barr\u012b ash Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171757
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"deef6d086f4f7d43d9c94ce2db394822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1310490641,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310490641,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barri ash Sharqi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20096,
+    34.98099000000001,
+    37.20096,
+    34.98099000000001
+],
+  "geometry": {"coordinates":[37.20096,34.98099000000001],"type":"Point"}
+}

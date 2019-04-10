@@ -1,0 +1,73 @@
+{
+  "id": 1343767053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41542,32.76614,36.41542,32.76614",
+    "geom:latitude":32.76614,
+    "geom:longitude":36.41542,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Samma",
+    "gn:country_code":"SY",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164863,
+    "gn:latitude":32.76614,
+    "gn:longitude":36.41542,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u015eamm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u015eamm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164863
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2f5430a00d32c5c5479e2d9b59ef11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1343767053,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1343767053,
+    "wof:lastmodified":1537701758,
+    "wof:name":"Samma",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41542000000001,
+    32.76614,
+    36.41542000000001,
+    32.76614
+],
+  "geometry": {"coordinates":[36.41542000000001,32.76614],"type":"Point"}
+}

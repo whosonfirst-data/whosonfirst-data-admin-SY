@@ -1,0 +1,75 @@
+{
+  "id": 1259973975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.98915,36.34059,37.98915,36.34059",
+    "geom:latitude":36.34059,
+    "geom:longitude":37.98915,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Turaykiyat al Humr",
+    "gn:country_code":"SY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163116,
+    "gn:latitude":36.34059,
+    "gn:longitude":37.98915,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Turayk\u012byat al \u1e28umr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0643\u064a\u0629 \u0627\u0644\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Oum Trekiy\u00e9",
+        "Tre\u012bk\u00eeyet el Homr",
+        "Turayk\u012byat al \u1e28umr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163116
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"aa7af2350f871dba2705dd2d82ee710b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1259973975,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259973975,
+    "wof:lastmodified":1537701637,
+    "wof:name":"Turaykiyat al Humr",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.98915,
+    36.34059,
+    37.98915,
+    36.34059
+],
+  "geometry": {"coordinates":[37.98915,36.34059],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242961293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05926,34.39671,37.05926,34.39671",
+    "geom:latitude":34.39671,
+    "geom:longitude":37.05926,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khirbat al Bayda",
+    "gn:country_code":"SY",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285,
+    "gn:latitude":34.39671,
+    "gn:longitude":37.05926,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Khirbat al Bay\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0628\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al Bay\u1e11\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea579c92bc2f073e7c718636917560f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1242961293,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1242961293,
+    "wof:lastmodified":1537701523,
+    "wof:name":"Khirbat al Bayda",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05926,
+    34.39671,
+    37.05926,
+    34.39671
+],
+  "geometry": {"coordinates":[37.05926,34.39671],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1292989873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21004,35.10575,37.21004,35.10575",
+    "geom:latitude":35.10575,
+    "geom:longitude":37.21004,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Aqarib as Safi",
+    "gn:country_code":"SY",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173141,
+    "gn:latitude":35.10575,
+    "gn:longitude":37.21004,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018Aq\u0101rib a\u015f \u015e\u0101f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0627\u0631\u0628 \u0627\u0644\u0635\u0627\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Aaq\u00e2reb es S\u00e2fi",
+        "\u2018Aq\u0101rib",
+        "Aaq\u00e2rib es S\u00e2fi",
+        "Aqareb es S\u00e2fi",
+        "\u2018Aq\u0101rib a\u015f \u015e\u0101f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173141
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95d19bbdfcad5bb2fb80797cd43677b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1292989873,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292989873,
+    "wof:lastmodified":1537702314,
+    "wof:name":"`Aqarib as Safi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21004,
+    35.10575,
+    37.21004,
+    35.10575
+],
+  "geometry": {"coordinates":[37.21004,35.10575],"type":"Point"}
+}

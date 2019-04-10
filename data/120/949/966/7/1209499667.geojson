@@ -1,0 +1,64 @@
+{
+  "id": 1209499667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2832,35.90533,37.2832,35.90533",
+    "geom:latitude":35.90533,
+    "geom:longitude":37.2832,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rasm al Mushayrif",
+    "gn:country_code":"SY",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338201,
+    "gn:latitude":35.90533,
+    "gn:longitude":37.2832,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rasm al Mushayrif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0633\u0645 \u0627\u0644\u0645\u0634\u064a\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338201
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"451ad4e992cc77955da2c3e1725985c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209499667
+        }
+    ],
+    "wof:id":1209499667,
+    "wof:lastmodified":1537702530,
+    "wof:name":"Rasm al Mushayrif",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2832,
+    35.90533,
+    37.2832,
+    35.90533
+],
+  "geometry": {"coordinates":[37.2832,35.90533],"type":"Point"}
+}

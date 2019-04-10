@@ -1,0 +1,68 @@
+{
+  "id": 1209486433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25975,34.85815,36.25975,34.85815",
+    "geom:latitude":34.85815,
+    "geom:longitude":36.25975,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muhayri al Mawarinah",
+    "gn:country_code":"SY",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341779,
+    "gn:latitude":34.85815,
+    "gn:longitude":36.25975,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Muhayr\u012b al Maw\u0101rinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u064a\u0631\u064a \u0627\u0644\u0645\u0648\u0627\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Muhayr\u012b al Maw\u0101rinah",
+        "Mha\u00efr\u00e9 el Maouarn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341779
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fb5bbd2cb17e3361b41b60339ed05172",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209486433
+        }
+    ],
+    "wof:id":1209486433,
+    "wof:lastmodified":1537702541,
+    "wof:name":"Muhayri al Mawarinah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25975,
+    34.85815,
+    36.25975,
+    34.85815
+],
+  "geometry": {"coordinates":[36.25975,34.85815],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242951953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1264,34.72548,36.1264,34.72548",
+    "geom:latitude":34.72548,
+    "geom:longitude":36.1264,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Harat at Tulay`i",
+    "gn:country_code":"SY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169891,
+    "gn:latitude":34.72548,
+    "gn:longitude":36.1264,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u1e28\u0101rat a\u0163 \u0162ulay\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0637\u0644\u064a\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "El H\u00e2ra",
+        "H\u00e2ret ett Tla\u00efa\u00ef",
+        "\u1e28\u0101rat a\u0163 \u0162ulay\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169891
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5eaa99a3b8370bec15e29449a1395068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1242951953,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1242951953,
+    "wof:lastmodified":1537702095,
+    "wof:name":"Harat at Tulay`i",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1264,
+    34.72548,
+    36.1264,
+    34.72548
+],
+  "geometry": {"coordinates":[36.1264,34.72548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293573729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12648,35.74497,37.12648,35.74497",
+    "geom:latitude":35.74497,
+    "geom:longitude":37.12648,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tabarat al Khashir",
+    "gn:country_code":"SY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163818,
+    "gn:latitude":35.74497,
+    "gn:longitude":37.12648,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tab\u0101rat al Khash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0627\u0631\u0629 \u0627\u0644\u062e\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tabb\u00e2ret el Hach\u00eer",
+        "Tabb\u00e2ret al Hach\u00eer",
+        "Tab\u0101rat al Khash\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163818
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"71db7c2b2f8def654dedb0b76d4e125f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1293573729,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293573729,
+    "wof:lastmodified":1537701697,
+    "wof:name":"Tabarat al Khashir",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12648,
+    35.74497,
+    37.12648,
+    35.74497
+],
+  "geometry": {"coordinates":[37.12648,35.74497],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259567015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26386,35.5929,36.26386,35.5929",
+    "geom:latitude":35.5929,
+    "geom:longitude":36.26386,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Ayn Rayhaniyah",
+    "gn:country_code":"SY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172178,
+    "gn:latitude":35.5929,
+    "gn:longitude":36.26386,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn Ray\u1e29\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0631\u064a\u062d\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2019Ain Rih\u00e2niy\u00e9",
+        "\u2018Ayn ar Ray\u1e29\u0101n\u012byah",
+        "\u2018Ayn Ray\u1e29\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172178
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6874085310d1776924a7251569467d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1259567015,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259567015,
+    "wof:lastmodified":1537702253,
+    "wof:name":"`Ayn Rayhaniyah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26386,
+    35.5929,
+    36.26386,
+    35.5929
+],
+  "geometry": {"coordinates":[36.26386,35.5929],"type":"Point"}
+}

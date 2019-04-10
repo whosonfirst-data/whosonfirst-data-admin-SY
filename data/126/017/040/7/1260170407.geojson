@@ -1,0 +1,73 @@
+{
+  "id": 1260170407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35979,35.33383,36.35979,35.33383",
+    "geom:latitude":35.33383,
+    "geom:longitude":36.35979,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Latmah",
+    "gn:country_code":"SY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556238,
+    "gn:latitude":35.33383,
+    "gn:longitude":36.35979,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al La\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al La\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556238
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f1ef8b58a65f29ad4b3655156822aee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1260170407,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1260170407,
+    "wof:lastmodified":1537702641,
+    "wof:name":"Al Latmah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35979,
+    35.33383,
+    36.35979,
+    35.33383
+],
+  "geometry": {"coordinates":[36.35979,35.33383],"type":"Point"}
+}

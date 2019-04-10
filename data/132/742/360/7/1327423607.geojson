@@ -1,0 +1,73 @@
+{
+  "id": 1327423607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36121,36.51911,37.36121,36.51911",
+    "geom:latitude":36.51911,
+    "geom:longitude":37.36121,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Buraydah",
+    "gn:country_code":"SY",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152476,
+    "gn:latitude":36.51911,
+    "gn:longitude":37.36121,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Al Buray\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Buray\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152476
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"15b2670e30f60865884af67f81285918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1327423607,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327423607,
+    "wof:lastmodified":1537702596,
+    "wof:name":"Al Buraydah",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36121,
+    36.51911,
+    37.36121,
+    36.51911
+],
+  "geometry": {"coordinates":[37.36121,36.51911],"type":"Point"}
+}

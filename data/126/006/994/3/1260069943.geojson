@@ -1,0 +1,82 @@
+{
+  "id": 1260069943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86675,36.76682,36.86675,36.76682",
+    "geom:latitude":36.76682,
+    "geom:longitude":36.86675,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Mahmudiyah",
+    "gn:country_code":"SY",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167473,
+    "gn:latitude":36.76682,
+    "gn:longitude":36.86675,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Al Ma\u1e29m\u016bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u0627\u0648\u0628\u0647 \u0633\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0645\u0648\u062f\u064a\u0629",
+        "\u0645\u062d\u0645\u0648\u062f \u0627\u0648\u0628\u0627\u0633\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mahmo\u00fbd Obassi",
+        "Mahoud Obassi",
+        "Mahmoud Ovassi",
+        "Ma\u1e29m\u016bd \u016ab\u0101s\u012b",
+        "Ma\u1e29m\u016bd \u016abah S\u012b",
+        "Al Ma\u1e29m\u016bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167473
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"911c215587f686194c365b4c3abe1ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1260069943,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1260069943,
+    "wof:lastmodified":1537701918,
+    "wof:name":"Al Mahmudiyah",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86675,
+    36.76682,
+    36.86675,
+    36.76682
+],
+  "geometry": {"coordinates":[36.86675,36.76682],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310595429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37982,34.93339,36.37982,34.93339",
+    "geom:latitude":34.93339,
+    "geom:longitude":36.37982,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nisaf",
+    "gn:country_code":"SY",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166338,
+    "gn:latitude":34.93339,
+    "gn:longitude":36.37982,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"N\u012b\u015f\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u012b\u015f\u0101f"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0635\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "N\u00eess\u00e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166338,
+        "wk:page":"Nisaf"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b751430736d69ba5d86955a73658cee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1310595429,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1310595429,
+    "wof:lastmodified":1537701854,
+    "wof:name":"Nisaf",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37982,
+    34.93339,
+    36.37982,
+    34.93339
+],
+  "geometry": {"coordinates":[36.37982,34.93339],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293779603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47913,33.90824,36.47913,33.90824",
+    "geom:latitude":33.90824,
+    "geom:longitude":36.47913,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Jubbah",
+    "gn:country_code":"SY",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168996,
+    "gn:latitude":33.90824,
+    "gn:longitude":36.47913,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Al Jubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Joubb\u00e9",
+        "Jubbah",
+        "Al Jubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ef6227ec3894185d70676c497e0dae29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1293779603,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1293779603,
+    "wof:lastmodified":1537702038,
+    "wof:name":"Al Jubbah",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47913,
+    33.90824,
+    36.47913,
+    33.90824
+],
+  "geometry": {"coordinates":[36.47913,33.90824],"type":"Point"}
+}

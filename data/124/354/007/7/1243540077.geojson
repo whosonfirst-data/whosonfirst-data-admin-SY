@@ -1,0 +1,73 @@
+{
+  "id": 1243540077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6515,33.97978,36.6515,33.97978",
+    "geom:latitude":33.97978,
+    "geom:longitude":36.6515,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"`Aqudhah",
+    "gn:country_code":"SY",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11261623,
+    "gn:latitude":33.97978,
+    "gn:longitude":36.6515,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"\u2018Aq\u016bdhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0648\u0630\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aq\u016bdhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11261623
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e71d61062fafd20321c6204ebc1c597f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779155,
+            "locality_id":1243540077,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243540077,
+    "wof:lastmodified":1537702612,
+    "wof:name":"`Aqudhah",
+    "wof:parent_id":1108779155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6515,
+    33.97978,
+    36.6515,
+    33.97978
+],
+  "geometry": {"coordinates":[36.6515,33.97978],"type":"Point"}
+}

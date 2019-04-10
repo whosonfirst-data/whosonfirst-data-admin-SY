@@ -1,0 +1,76 @@
+{
+  "id": 1327333731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80508,36.51374,38.80508,36.51374",
+    "geom:latitude":36.51374,
+    "geom:longitude":38.80508,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khirbat `Allu",
+    "gn:country_code":"SY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168103,
+    "gn:latitude":36.51374,
+    "gn:longitude":38.80508,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khirbat \u2018All\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0639\u0644\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Aallo",
+        "Khirbat \u2018All\u016b",
+        "Khirbat \u2018Alal\u016b",
+        "Khirbat \u2018Ilal\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168103
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c818d81cfe02826a852d76a5bbfb9e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":1327333731,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1327333731,
+    "wof:lastmodified":1537701969,
+    "wof:name":"Khirbat `Allu",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80508,
+    36.51374000000001,
+    38.80508,
+    36.51374000000001
+],
+  "geometry": {"coordinates":[38.80508,36.51374000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276948797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88251,34.99132,35.88251,34.99132",
+    "geom:latitude":34.99132,
+    "geom:longitude":35.88251,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Basirah",
+    "gn:country_code":"SY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163617,
+    "gn:latitude":34.99132,
+    "gn:longitude":35.88251,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ba\u015f\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0635\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tell Bs\u00eer\u00e9",
+        "Tall Ba\u015f\u012brah",
+        "Ba\u015f\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163617
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"135b4a69271abb80f8124f489994a39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1276948797,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276948797,
+    "wof:lastmodified":1537701676,
+    "wof:name":"Basirah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88251,
+    34.99132,
+    35.88251,
+    34.99132
+],
+  "geometry": {"coordinates":[35.88251,34.99132],"type":"Point"}
+}

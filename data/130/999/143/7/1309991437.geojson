@@ -1,0 +1,73 @@
+{
+  "id": 1309991437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22278,33.41537,36.22278,33.41537",
+    "geom:latitude":33.41537,
+    "geom:longitude":36.22278,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"At Tuwal",
+    "gn:country_code":"SY",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8412905,
+    "gn:latitude":33.41537,
+    "gn:longitude":36.22278,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"A\u0163 \u0162uw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162uw\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412905
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4b5d282b8b800a77617309e6b7ae7266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779109,
+            "locality_id":1309991437,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309991437,
+    "wof:lastmodified":1537702565,
+    "wof:name":"At Tuwal",
+    "wof:parent_id":1108779109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22278,
+    33.41537,
+    36.22278,
+    33.41537
+],
+  "geometry": {"coordinates":[36.22278,33.41537],"type":"Point"}
+}

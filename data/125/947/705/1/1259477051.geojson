@@ -1,0 +1,76 @@
+{
+  "id": 1259477051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.351,35.44492,36.351,35.44492",
+    "geom:latitude":35.44492,
+    "geom:longitude":36.351,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ash Shari`ah",
+    "gn:country_code":"SY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172813,
+    "gn:latitude":35.44492,
+    "gn:longitude":36.351,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ash Shar\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ech Char\u00eea\u00e2",
+        "Char\u00eea\u00e2",
+        "Ash Shar\u012b\u2018\u0101",
+        "Ash Shar\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172813
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b834131cca29b475846d33d04963c639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1259477051,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259477051,
+    "wof:lastmodified":1537702292,
+    "wof:name":"Ash Shari`ah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.351,
+    35.44492,
+    36.351,
+    35.44492
+],
+  "geometry": {"coordinates":[36.351,35.44492],"type":"Point"}
+}

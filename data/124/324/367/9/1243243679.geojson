@@ -1,0 +1,76 @@
+{
+  "id": 1243243679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77563,35.53107,36.77563,35.53107",
+    "geom:latitude":35.53107,
+    "geom:longitude":36.77563,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abu Habbah",
+    "gn:country_code":"SY",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174521,
+    "gn:latitude":35.53107,
+    "gn:longitude":36.77563,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ab\u016b \u1e28abbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kheurbet Abou Khabbi",
+        "Ab\u016b \u1e28abbih",
+        "Abou Habb\u00e9",
+        "Ab\u016b \u1e28abbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174521
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ccc97f7f687cd7c32d84445d895f6561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1243243679,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243243679,
+    "wof:lastmodified":1537702413,
+    "wof:name":"Abu Habbah",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77563,
+    35.53107,
+    36.77563,
+    35.53107
+],
+  "geometry": {"coordinates":[36.77563,35.53107],"type":"Point"}
+}

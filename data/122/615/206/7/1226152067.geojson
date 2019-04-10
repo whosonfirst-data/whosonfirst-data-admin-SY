@@ -1,0 +1,80 @@
+{
+  "id": 1226152067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08033,35.82416,36.08033,35.82416",
+    "geom:latitude":35.82416,
+    "geom:longitude":36.08033,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qarah Jaghiz",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166094,
+    "gn:latitude":35.82416,
+    "gn:longitude":36.08033,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Qarah J\u0101ghiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u062c\u0627\u0639\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0647 \u062c\u0627\u063a\u0632",
+        "\u0627\u0644\u0633\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qarah J\u0101ghiz",
+        "Qara J\u00e2rhez",
+        "Qarah J\u0101\u2018\u012b",
+        "As Sawdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166094
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dce241c30e9a0c322ad0efdb3a7e7e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1226152067,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1226152067,
+    "wof:lastmodified":1537701835,
+    "wof:name":"Qarah Jaghiz",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08033,
+    35.82416,
+    36.08033,
+    35.82416
+],
+  "geometry": {"coordinates":[36.08033,35.82416],"type":"Point"}
+}

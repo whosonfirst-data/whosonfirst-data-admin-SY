@@ -1,0 +1,73 @@
+{
+  "id": 1225829539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64462,36.46011,36.64462,36.46011",
+    "geom:latitude":36.46011,
+    "geom:longitude":36.64462,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khuba Nilu",
+    "gn:country_code":"SY",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273936,
+    "gn:latitude":36.46011,
+    "gn:longitude":36.64462,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kh\u016bb\u0101 Nil\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u016bb\u0101 Nil\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0648\u0628\u0627 \u0646\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273936
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"97b7be29e80533a402368fd9bd712865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1225829539,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1225829539,
+    "wof:lastmodified":1537702513,
+    "wof:name":"Khuba Nilu",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64462,
+    36.46011,
+    36.64462,
+    36.46011
+],
+  "geometry": {"coordinates":[36.64462,36.46011],"type":"Point"}
+}

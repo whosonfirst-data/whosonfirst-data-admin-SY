@@ -1,0 +1,75 @@
+{
+  "id": 1310688367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06989,35.52728,37.06989,35.52728",
+    "geom:latitude":35.52728,
+    "geom:longitude":37.06989,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nabaz al Qibli",
+    "gn:country_code":"SY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340077,
+    "gn:latitude":35.52728,
+    "gn:longitude":37.06989,
+    "gn:modification_date":"2017-12-12",
+    "gn:name":"Nab\u0101z al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0627\u0632 \u0627\u0644\u0642\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Nab\u0101z al Qibl\u012b",
+        "Nibaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340077,
+        "wk:page":"Nibaz"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"96fbb7d656c1b9e8b6acdcb9b13137db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1310688367,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310688367,
+    "wof:lastmodified":1537702534,
+    "wof:name":"Nabaz al Qibli",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06989,
+    35.52728,
+    37.06989,
+    35.52728
+],
+  "geometry": {"coordinates":[37.06989,35.52728],"type":"Point"}
+}

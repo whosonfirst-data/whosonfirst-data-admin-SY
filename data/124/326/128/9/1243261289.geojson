@@ -1,0 +1,73 @@
+{
+  "id": 1243261289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34651,33.1126,36.34651,33.1126",
+    "geom:latitude":33.1126,
+    "geom:longitude":36.34651,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Majannat Abu Sirhan",
+    "gn:country_code":"SY",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259628,
+    "gn:latitude":33.1126,
+    "gn:longitude":36.34651,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Majannat Ab\u016b Sir\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0646\u0629 \u0623\u0628\u0648 \u0633\u0631\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Majannat Ab\u016b Sir\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259628
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fc920e17ad7abbf609787067ce82babb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1243261289,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1243261289,
+    "wof:lastmodified":1537702607,
+    "wof:name":"Majannat Abu Sirhan",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34651,
+    33.1126,
+    36.34651,
+    33.1126
+],
+  "geometry": {"coordinates":[36.34651,33.1126],"type":"Point"}
+}

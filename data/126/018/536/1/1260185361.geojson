@@ -1,0 +1,74 @@
+{
+  "id": 1260185361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1375,35.61865,36.1375,35.61865",
+    "geom:latitude":35.61865,
+    "geom:longitude":36.1375,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dayr Tuma",
+    "gn:country_code":"SY",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170759,
+    "gn:latitude":35.61865,
+    "gn:longitude":36.1375,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dayr T\u016bm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062a\u0648\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "De\u00efr To\u00fbma",
+        "Dayr T\u016bm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170759
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6df059b57da6d31137cb0bc6d3d8f56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1260185361,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1260185361,
+    "wof:lastmodified":1537702144,
+    "wof:name":"Dayr Tuma",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1375,
+    35.61865,
+    36.1375,
+    35.61865
+],
+  "geometry": {"coordinates":[36.1375,35.61865],"type":"Point"}
+}

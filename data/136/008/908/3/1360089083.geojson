@@ -1,0 +1,77 @@
+{
+  "id": 1360089083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39308,36.98161,40.39308,36.98161",
+    "geom:latitude":36.98161,
+    "geom:longitude":40.39308,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Faqirah",
+    "gn:country_code":"SY",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170464,
+    "gn:latitude":36.98161,
+    "gn:longitude":40.39308,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Faq\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0642\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Faq\u012brah"
+    ],
+    "name:und_x_variant":[
+        "Faq\u00eera",
+        "Faq\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170464
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c287f029407bdc71e140e84639b6dc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1360089083,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1360089083,
+    "wof:lastmodified":1537702125,
+    "wof:name":"Faqirah",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39308,
+    36.98161,
+    40.39308,
+    36.98161
+],
+  "geometry": {"coordinates":[40.39308,36.98161],"type":"Point"}
+}

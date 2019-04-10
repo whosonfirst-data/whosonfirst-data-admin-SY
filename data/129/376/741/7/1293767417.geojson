@@ -1,0 +1,76 @@
+{
+  "id": 1293767417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47877,34.96994,36.47877,34.96994",
+    "geom:latitude":34.96994,
+    "geom:longitude":36.47877,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qufaylun",
+    "gn:country_code":"SY",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165745,
+    "gn:latitude":34.96994,
+    "gn:longitude":36.47877,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qufayl\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u064a\u0644\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kf\u00e9lo\u00fbn",
+        "Maay\u00e2ne",
+        "Qufayl\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165745,
+        "wk:page":"Qufaylun"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e168b5e1d63665feb99dd35292676326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1293767417,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1293767417,
+    "wof:lastmodified":1537701806,
+    "wof:name":"Qufaylun",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47877,
+    34.96994,
+    36.47877,
+    34.96994
+],
+  "geometry": {"coordinates":[36.47877,34.96994],"type":"Point"}
+}

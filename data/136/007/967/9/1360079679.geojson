@@ -1,0 +1,73 @@
+{
+  "id": 1360079679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.27458,35.25419,40.27458,35.25419",
+    "geom:latitude":35.25419,
+    "geom:longitude":40.27458,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al `Abd",
+    "gn:country_code":"SY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632457,
+    "gn:latitude":35.25419,
+    "gn:longitude":40.27458,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Abd"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632457
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c1246f5ceeb831b37b71e64bedd60d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1360079679,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1360079679,
+    "wof:lastmodified":1537702466,
+    "wof:name":"Al `Abd",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.27458,
+    35.25419,
+    40.27458,
+    35.25419
+],
+  "geometry": {"coordinates":[40.27458,35.25419],"type":"Point"}
+}

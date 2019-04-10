@@ -1,0 +1,73 @@
+{
+  "id": 1259777877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43872,35.99708,37.43872,35.99708",
+    "geom:latitude":35.99708,
+    "geom:longitude":37.43872,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Musaydah",
+    "gn:country_code":"SY",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888330,
+    "gn:latitude":35.99708,
+    "gn:longitude":37.43872,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Mu\u015faydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mu\u015faydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888330
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e77e3547913eaad9645afb4eba24c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1259777877,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259777877,
+    "wof:lastmodified":1537702475,
+    "wof:name":"Musaydah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43872,
+    35.99708,
+    37.43872,
+    35.99708
+],
+  "geometry": {"coordinates":[37.43872,35.99708],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243348017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.876,35.97631,37.876,35.97631",
+    "geom:latitude":35.97631,
+    "geom:longitude":37.876,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qanawi",
+    "gn:country_code":"SY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341944,
+    "gn:latitude":35.97631,
+    "gn:longitude":37.876,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Qan\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qan\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341944
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f0825351390ef108edf4c4e9e2291b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1243348017,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1243348017,
+    "wof:lastmodified":1537702542,
+    "wof:name":"Qanawi",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.876,
+    35.97631,
+    37.876,
+    35.97631
+],
+  "geometry": {"coordinates":[37.876,35.97631],"type":"Point"}
+}

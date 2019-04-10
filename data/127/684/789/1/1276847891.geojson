@@ -1,0 +1,73 @@
+{
+  "id": 1276847891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33526,35.98747,36.33526,35.98747",
+    "geom:latitude":35.98747,
+    "geom:longitude":36.33526,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Mufidiyah",
+    "gn:country_code":"SY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554859,
+    "gn:latitude":35.98747,
+    "gn:longitude":36.33526,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Muf\u012bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u064a\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Muf\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554859
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ea4a25c6af825724719fc8e1f4f341ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276847891,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276847891,
+    "wof:lastmodified":1537702634,
+    "wof:name":"Al Mufidiyah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33526,
+    35.98747,
+    36.33526,
+    35.98747
+],
+  "geometry": {"coordinates":[36.33526,35.98747],"type":"Point"}
+}

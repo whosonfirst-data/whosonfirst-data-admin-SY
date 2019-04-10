@@ -1,0 +1,73 @@
+{
+  "id": 1226432199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88885,35.55574,37.88885,35.55574",
+    "geom:latitude":35.55574,
+    "geom:longitude":37.88885,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qabr Ja`ar",
+    "gn:country_code":"SY",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342229,
+    "gn:latitude":35.55574,
+    "gn:longitude":37.88885,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Qabr Ja\u2018\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u062c\u0639\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qabr Ja\u2018\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342229
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"77b4f72f071258e4688b6b05a9c8c85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1226432199,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1226432199,
+    "wof:lastmodified":1537702545,
+    "wof:name":"Qabr Ja`ar",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88885,
+    35.55574,
+    37.88885,
+    35.55574
+],
+  "geometry": {"coordinates":[37.88885,35.55574],"type":"Point"}
+}

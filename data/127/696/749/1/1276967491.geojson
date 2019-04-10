@@ -1,0 +1,73 @@
+{
+  "id": 1276967491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46394,34.61224,36.46394,34.61224",
+    "geom:latitude":34.61224,
+    "geom:longitude":36.46394,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abu Jabal",
+    "gn:country_code":"SY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8427414,
+    "gn:latitude":34.61224,
+    "gn:longitude":36.46394,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Ab\u016b Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427414
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2c34f1f1324094cdf13afa915115e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779091,
+            "locality_id":1276967491,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1276967491,
+    "wof:lastmodified":1537702568,
+    "wof:name":"Abu Jabal",
+    "wof:parent_id":1108779091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46394,
+    34.61224,
+    36.46394,
+    34.61224
+],
+  "geometry": {"coordinates":[36.46394,34.61224],"type":"Point"}
+}

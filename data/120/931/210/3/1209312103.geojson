@@ -1,0 +1,70 @@
+{
+  "id": 1209312103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98964,32.75419,35.98964,32.75419",
+    "geom:latitude":32.75419,
+    "geom:longitude":35.98964,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jallayn",
+    "gn:country_code":"SY",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169225,
+    "gn:latitude":32.75419,
+    "gn:longitude":35.98964,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Jallayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jelline",
+        "Jalline",
+        "Jallayn",
+        "Jall\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169225
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"797d5dce161c30ff4812ee4215751bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209312103
+        }
+    ],
+    "wof:id":1209312103,
+    "wof:lastmodified":1537702053,
+    "wof:name":"Jallayn",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98964,
+    32.75419,
+    35.98964,
+    32.75419
+],
+  "geometry": {"coordinates":[35.98964,32.75419],"type":"Point"}
+}

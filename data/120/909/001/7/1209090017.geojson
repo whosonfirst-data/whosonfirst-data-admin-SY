@@ -1,0 +1,74 @@
+{
+  "id": 1209090017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.261,35.68657,36.261,35.68657",
+    "geom:latitude":35.68657,
+    "geom:longitude":36.261,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Safsafah",
+    "gn:country_code":"SY",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165035,
+    "gn:latitude":35.68657,
+    "gn:longitude":36.261,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"A\u015f \u015eaf\u015f\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0635\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Safs\u00e2f\u00e9",
+        "\u015eaf\u015f\u0101fah",
+        "A\u015f \u015eaf\u015f\u0101fah",
+        "Es Safs\u00e2f",
+        "Jubb az Zu\u2018r\u016br",
+        "Joubb ez Zaaro\u00fbr",
+        "El Safsaf",
+        "A\u015f \u015eaf\u015f\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165035
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e54589e7c53a6f289408fa34c5a507a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209090017
+        }
+    ],
+    "wof:id":1209090017,
+    "wof:lastmodified":1537701766,
+    "wof:name":"As Safsafah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.261,
+    35.68657,
+    36.261,
+    35.68657
+],
+  "geometry": {"coordinates":[36.261,35.68657],"type":"Point"}
+}

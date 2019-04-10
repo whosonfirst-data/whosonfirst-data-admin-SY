@@ -1,0 +1,70 @@
+{
+  "id": 1226742413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3092,32.47214,36.3092,32.47214",
+    "geom:latitude":32.47214,
+    "geom:longitude":36.3092,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khirbat al Mushrif",
+    "gn:country_code":"SY",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":5131,
+    "gn:latitude":32.47214,
+    "gn:longitude":36.3092,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khirbat al Mushrif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0634\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5131
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6df372ef9bdb6abde6f83350ca7ee4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1226742413,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1226742413,
+    "wof:lastmodified":1537701553,
+    "wof:name":"Khirbat al Mushrif",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3092,
+    32.47214,
+    36.3092,
+    32.47214
+],
+  "geometry": {"coordinates":[36.3092,32.47214],"type":"Point"}
+}

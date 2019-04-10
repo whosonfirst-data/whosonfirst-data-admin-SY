@@ -1,0 +1,73 @@
+{
+  "id": 1276635615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32541,35.93761,36.32541,35.93761",
+    "geom:latitude":35.93761,
+    "geom:longitude":36.32541,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hayr Takshan",
+    "gn:country_code":"SY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554604,
+    "gn:latitude":35.93761,
+    "gn:longitude":36.32541,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28ayr Taksh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0631 \u062a\u0643\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayr Taksh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554604
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4d9f87fdf557a5c45a31505e4edd02e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1276635615,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276635615,
+    "wof:lastmodified":1537702631,
+    "wof:name":"Hayr Takshan",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32541,
+    35.93761,
+    36.32541,
+    35.93761
+],
+  "geometry": {"coordinates":[36.32541,35.93761],"type":"Point"}
+}

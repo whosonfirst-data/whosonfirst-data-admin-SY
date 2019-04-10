@@ -1,0 +1,82 @@
+{
+  "id": 1210011051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00089,35.99466,37.00089,35.99466",
+    "geom:latitude":35.99466,
+    "geom:longitude":37.00089,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ash Shaykh `Isa",
+    "gn:country_code":"SY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7887800,
+    "gn:latitude":35.99466,
+    "gn:longitude":37.00089,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ash Shaykh \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0639\u064a\u0633\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u062e \u0639\u064a\u0633\u0649",
+        "Al \u2018\u012bs\u00e1",
+        "\u0627\u0644\u0639\u064a\u0633\u0649",
+        "\u0627\u0644\u0639\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaykh \u2018\u012as\u00e1",
+        "Shaykh \u2018\u012as\u00e1",
+        "Al \u2018\u012as",
+        "Al \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7887800
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8ee2687b881e82b939dd1d2ea121877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1210011051,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1210011051,
+    "wof:lastmodified":1537702475,
+    "wof:name":"Ash Shaykh `Isa",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00089000000001,
+    35.99466,
+    37.00089000000001,
+    35.99466
+],
+  "geometry": {"coordinates":[37.00089000000001,35.99466],"type":"Point"}
+}

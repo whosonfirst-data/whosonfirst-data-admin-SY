@@ -1,0 +1,74 @@
+{
+  "id": 1277074915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1811,36.12039,39.1811,36.12039",
+    "geom:latitude":36.12039,
+    "geom:longitude":39.1811,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mu`ayzilah",
+    "gn:country_code":"SY",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385352,
+    "gn:latitude":36.12039,
+    "gn:longitude":39.1811,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Mu\u2018ayz\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u064a\u0632\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018\u012bzilah",
+        "Mu\u2018ayz\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385352
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8481c2b30faf9e1f9a8c0381bc5b0481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":1277074915,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1277074915,
+    "wof:lastmodified":1537702425,
+    "wof:name":"Mu`ayzilah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1811,
+    36.12039,
+    39.1811,
+    36.12039
+],
+  "geometry": {"coordinates":[39.1811,36.12039],"type":"Point"}
+}

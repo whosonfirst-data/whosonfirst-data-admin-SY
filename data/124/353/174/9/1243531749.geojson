@@ -1,0 +1,76 @@
+{
+  "id": 1243531749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85293,35.60616,36.85293,35.60616",
+    "geom:latitude":35.60616,
+    "geom:longitude":36.85293,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Surman",
+    "gn:country_code":"SY",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163897,
+    "gn:latitude":35.60616,
+    "gn:longitude":36.85293,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u015eurm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015eurm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sourm\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163897
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a2ef15ff9bf9ae2277af343a95cda1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779123,
+            "locality_id":1243531749,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1243531749,
+    "wof:lastmodified":1537701702,
+    "wof:name":"Surman",
+    "wof:parent_id":1108779123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85293,
+    35.60616,
+    36.85293,
+    35.60616
+],
+  "geometry": {"coordinates":[36.85293,35.60616],"type":"Point"}
+}

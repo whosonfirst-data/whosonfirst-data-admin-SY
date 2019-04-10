@@ -1,0 +1,81 @@
+{
+  "id": 1310572195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16305,34.79434,36.16305,34.79434",
+    "geom:latitude":34.79434,
+    "geom:longitude":36.16305,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bdadah",
+    "gn:country_code":"SY",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171495,
+    "gn:latitude":34.79434,
+    "gn:longitude":36.16305,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bd\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bd\u0101d\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062f\u0627\u062f\u0629",
+        "\u0628\u062f\u0627\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bid\u0101dah",
+        "Bd\u0101d\u0101",
+        "Bd\u0101dah",
+        "Bid\u0101d\u0101",
+        "Bd\u00e2da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171495
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c8f6dac5ed5cc6cceff9e0472d6f759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":1310572195,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1310572195,
+    "wof:lastmodified":1537702202,
+    "wof:name":"Bdadah",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16305,
+    34.79434000000001,
+    36.16305,
+    34.79434000000001
+],
+  "geometry": {"coordinates":[36.16305,34.79434000000001],"type":"Point"}
+}

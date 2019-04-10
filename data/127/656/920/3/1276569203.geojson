@@ -1,0 +1,76 @@
+{
+  "id": 1276569203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84728,35.15566,36.84728,35.15566",
+    "geom:latitude":35.15566,
+    "geom:longitude":36.84728,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kassun al Jabal",
+    "gn:country_code":"SY",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168509,
+    "gn:latitude":35.15566,
+    "gn:longitude":36.84728,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"K\u0101ss\u016bn al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0633\u0648\u0646 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "K\u00e2sso\u00fbn ej Jebel",
+        "K\u0101s\u016bn al Jabal",
+        "K\u0101ss\u016bn al Jabal",
+        "K\u00e2ssoun ej Jebel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168509
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"781aa03dd905ab40cdc7ad4477a08474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1276569203,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1276569203,
+    "wof:lastmodified":1537701997,
+    "wof:name":"Kassun al Jabal",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84728,
+    35.15566,
+    36.84728,
+    35.15566
+],
+  "geometry": {"coordinates":[36.84728,35.15566],"type":"Point"}
+}

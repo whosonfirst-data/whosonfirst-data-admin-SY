@@ -1,0 +1,75 @@
+{
+  "id": 1276323553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9669,36.03708,36.9669,36.03708",
+    "geom:latitude":36.03708,
+    "geom:longitude":36.9669,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barqum",
+    "gn:country_code":"SY",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171759,
+    "gn:latitude":36.03708,
+    "gn:longitude":36.9669,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Barq\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0642\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Barqo\u00fbm",
+        "Barkoum",
+        "Barq\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171759
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b28807ccdf339823e263672b557b294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1276323553,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276323553,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barqum",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9669,
+    36.03708,
+    36.9669,
+    36.03708
+],
+  "geometry": {"coordinates":[36.9669,36.03708],"type":"Point"}
+}

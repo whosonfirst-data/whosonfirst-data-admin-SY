@@ -1,0 +1,67 @@
+{
+  "id": 1209077061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22485,34.91318,36.22485,34.91318",
+    "geom:latitude":34.91318,
+    "geom:longitude":36.22485,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al `Arus",
+    "gn:country_code":"SY",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444692,
+    "gn:latitude":34.91318,
+    "gn:longitude":36.22485,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al \u2018Ar\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ar\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444692
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"997877c81263f97c1ddad0b75f3b7337",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209077061
+        }
+    ],
+    "wof:id":1209077061,
+    "wof:lastmodified":1537702624,
+    "wof:name":"Al `Arus",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22485,
+    34.91318,
+    36.22485,
+    34.91318
+],
+  "geometry": {"coordinates":[36.22485,34.91318],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259687213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99715,35.41639,35.99715,35.41639",
+    "geom:latitude":35.41639,
+    "geom:longitude":35.99715,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ruwaysat ar Riba`i",
+    "gn:country_code":"SY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172929,
+    "gn:latitude":35.41639,
+    "gn:longitude":35.99715,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ruwaysat ar Rib\u0101\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0627\u0644\u0631\u0628\u0627\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Er Rouass",
+        "Er Roua\u00efss",
+        "Ar Ru\u2019ays",
+        "Ar Ruways",
+        "Ruwaysat ar Rib\u0101\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172929
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"efe777874e445a18f5da0922aa089860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1259687213,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259687213,
+    "wof:lastmodified":1537702300,
+    "wof:name":"Ruwaysat ar Riba`i",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99715,
+    35.41639,
+    35.99715,
+    35.41639
+],
+  "geometry": {"coordinates":[35.99715,35.41639],"type":"Point"}
+}

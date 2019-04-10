@@ -1,0 +1,100 @@
+{
+  "id": 1292914867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6248,32.91356,35.6248,32.91356",
+    "geom:latitude":32.91356,
+    "geom:longitude":35.6248,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"At Tawahin",
+    "gn:country_code":"SY",
+    "gn:dem":-200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722,
+    "gn:latitude":32.91356,
+    "gn:longitude":35.6248,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"A\u0163 \u0162aw\u0101\u1e29\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u062d\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u0101\u1e29\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779187,
+        85632413,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a75d68c5b74a3bd6cba989ef25aad47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1292914867,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779187,
+            "disputed_id":85632221,
+            "locality_id":1292914867,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779187,
+            "locality_id":1292914867,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1292914867,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1292914867,
+    "wof:lastmodified":1549930374,
+    "wof:name":"At Tawahin",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6248,
+    32.91356,
+    35.6248,
+    32.91356
+],
+  "geometry": {"coordinates":[35.6248,32.91356],"type":"Point"}
+}

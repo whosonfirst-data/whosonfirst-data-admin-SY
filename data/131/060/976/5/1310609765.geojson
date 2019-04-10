@@ -1,0 +1,75 @@
+{
+  "id": 1310609765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09415,35.59702,36.09415,35.59702",
+    "geom:latitude":35.59702,
+    "geom:longitude":36.09415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Mu`aysirat",
+    "gn:country_code":"SY",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167002,
+    "gn:latitude":35.59702,
+    "gn:longitude":36.09415,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Mu\u2018aysir\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u0635\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u00efsr\u00e2te",
+        "Maysar\u0101t",
+        "Al Mu\u2018aysir\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167002
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0c6e580e8e900972d3ac8f231a7bbaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1310609765,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310609765,
+    "wof:lastmodified":1537701894,
+    "wof:name":"Al Mu`aysirat",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09415,
+    35.59702,
+    36.09415,
+    35.59702
+],
+  "geometry": {"coordinates":[36.09415,35.59702],"type":"Point"}
+}

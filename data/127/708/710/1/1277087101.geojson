@@ -1,0 +1,74 @@
+{
+  "id": 1277087101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02746,35.24818,36.02746,35.24818",
+    "geom:latitude":35.24818,
+    "geom:longitude":36.02746,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Barqah",
+    "gn:country_code":"SY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171762,
+    "gn:latitude":35.24818,
+    "gn:longitude":36.02746,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Barqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Barqa",
+        "Barqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171762
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8be6e7a453cc07ac87f861954ac1c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":1277087101,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1277087101,
+    "wof:lastmodified":1537702224,
+    "wof:name":"Barqah",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02746,
+    35.24818,
+    36.02746,
+    35.24818
+],
+  "geometry": {"coordinates":[36.02746,35.24818],"type":"Point"}
+}

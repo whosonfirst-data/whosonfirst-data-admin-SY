@@ -1,0 +1,75 @@
+{
+  "id": 1243474379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44022,33.48288,36.44022,33.48288",
+    "geom:latitude":33.48288,
+    "geom:longitude":36.44022,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Buzaynah",
+    "gn:country_code":"SY",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171069,
+    "gn:latitude":33.48288,
+    "gn:longitude":36.44022,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buzaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bz\u00e9n\u00e9",
+        "Bza\u00efn\u00e9",
+        "Buzaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171069
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"180bbffb512027dedcdce10c64b61252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1243474379,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1243474379,
+    "wof:lastmodified":1537702168,
+    "wof:name":"Buzaynah",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44022,
+    33.48288,
+    36.44022,
+    33.48288
+],
+  "geometry": {"coordinates":[36.44022,33.48288],"type":"Point"}
+}

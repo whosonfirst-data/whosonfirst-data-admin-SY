@@ -1,0 +1,69 @@
+{
+  "id": 1209295673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9845,34.41567,36.9845,34.41567",
+    "geom:latitude":34.41567,
+    "geom:longitude":36.9845,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"An Na`amiyah",
+    "gn:country_code":"SY",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166498,
+    "gn:latitude":34.41567,
+    "gn:longitude":36.9845,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"An Na\u2018\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0639\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Na\u00e2m\u00eey\u00e9",
+        "Na\u2018\u0101m\u012byah",
+        "An Na\u2018\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166498
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8e25274ea7cbd482421ead1cb74b6895",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209295673
+        }
+    ],
+    "wof:id":1209295673,
+    "wof:lastmodified":1537701861,
+    "wof:name":"An Na`amiyah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9845,
+    34.41567,
+    36.9845,
+    34.41567
+],
+  "geometry": {"coordinates":[36.9845,34.41567],"type":"Point"}
+}

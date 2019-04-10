@@ -1,0 +1,73 @@
+{
+  "id": 1309996639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71082,33.73963,36.71082,33.73963",
+    "geom:latitude":33.73963,
+    "geom:longitude":36.71082,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Bayyadat",
+    "gn:country_code":"SY",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8345912,
+    "gn:latitude":33.73963,
+    "gn:longitude":36.71082,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Al Bayy\u0101\u1e11\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0627\u0636\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Bayy\u0101\u1e11\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345912
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df2eaece31a87cbb4fcce7bfbc2a204d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779167,
+            "locality_id":1309996639,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1309996639,
+    "wof:lastmodified":1537702547,
+    "wof:name":"Al Bayyadat",
+    "wof:parent_id":1108779167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71082,
+    33.73963,
+    36.71082,
+    33.73963
+],
+  "geometry": {"coordinates":[36.71082,33.73963],"type":"Point"}
+}

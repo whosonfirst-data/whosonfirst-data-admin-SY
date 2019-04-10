@@ -1,0 +1,72 @@
+{
+  "id": 1209102035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05103,36.11696,37.05103,36.11696",
+    "geom:latitude":36.11696,
+    "geom:longitude":37.05103,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khan Tuman",
+    "gn:country_code":"SY",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168323,
+    "gn:latitude":36.11696,
+    "gn:longitude":37.05103,
+    "gn:modification_date":"2016-06-21",
+    "gn:name":"Kh\u0101n \u0162\u016bm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u0101n \u0162\u016bm\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0646 \u0637\u0648\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hani Touman",
+        "Kh\u00e2ne Toum\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168323,
+        "wk:page":"Khan_Tuman"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5399d80d0551931608319aa1d34ff86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209102035
+        }
+    ],
+    "wof:id":1209102035,
+    "wof:lastmodified":1537701984,
+    "wof:name":"Khan Tuman",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05103,
+    36.11696,
+    37.05103,
+    36.11696
+],
+  "geometry": {"coordinates":[37.05103,36.11696],"type":"Point"}
+}

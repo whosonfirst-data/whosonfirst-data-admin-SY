@@ -1,0 +1,74 @@
+{
+  "id": 1344152553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81161,35.10046,36.81161,35.10046",
+    "geom:latitude":35.10046,
+    "geom:longitude":36.81161,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Bahsah",
+    "gn:country_code":"SY",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312735,
+    "gn:latitude":35.10046,
+    "gn:longitude":36.81161,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Al Ba\u1e29\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u1e29\u015fah",
+        "El Bahsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312735
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a7c5c34b8e954f6e7e7bdc6ceb143bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1344152553,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1344152553,
+    "wof:lastmodified":1537702524,
+    "wof:name":"Al Bahsah",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81161,
+    35.10046,
+    36.81161,
+    35.10046
+],
+  "geometry": {"coordinates":[36.81161,35.10046],"type":"Point"}
+}

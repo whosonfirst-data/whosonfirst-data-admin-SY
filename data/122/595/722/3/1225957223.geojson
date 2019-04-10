@@ -1,0 +1,73 @@
+{
+  "id": 1225957223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95728,35.51034,35.95728,35.51034",
+    "geom:latitude":35.51034,
+    "geom:longitude":35.95728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Az Zahiriyah",
+    "gn:country_code":"SY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073343,
+    "gn:latitude":35.51034,
+    "gn:longitude":35.95728,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Az\u0327 Z\u0327\u0101hir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az\u0327 Z\u0327\u0101hir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073343
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3df3d8ba434084d2d87730425b5aa2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1225957223,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1225957223,
+    "wof:lastmodified":1537702588,
+    "wof:name":"Az Zahiriyah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95728,
+    35.51034,
+    35.95728,
+    35.51034
+],
+  "geometry": {"coordinates":[35.95728,35.51034],"type":"Point"}
+}

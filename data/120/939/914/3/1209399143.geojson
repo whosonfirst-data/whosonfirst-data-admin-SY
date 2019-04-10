@@ -1,0 +1,67 @@
+{
+  "id": 1209399143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99222,36.17756,36.99222,36.17756",
+    "geom:latitude":36.17756,
+    "geom:longitude":36.99222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bayt Fattumah",
+    "gn:country_code":"SY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683332,
+    "gn:latitude":36.17756,
+    "gn:longitude":36.99222,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bayt Fa\u0163\u0163\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u0637\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bayt Fa\u0163\u0163\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683332
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"dfd762ee3c6cf049841eae25823e0317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209399143
+        }
+    ],
+    "wof:id":1209399143,
+    "wof:lastmodified":1537702473,
+    "wof:name":"Bayt Fattumah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99222,
+    36.17756,
+    36.99222,
+    36.17756
+],
+  "geometry": {"coordinates":[36.99222,36.17756],"type":"Point"}
+}

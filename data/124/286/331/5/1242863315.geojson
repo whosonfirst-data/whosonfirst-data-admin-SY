@@ -1,0 +1,76 @@
+{
+  "id": 1242863315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45485,34.91,36.45485,34.91",
+    "geom:latitude":34.91,
+    "geom:longitude":36.45485,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qurmus",
+    "gn:country_code":"SY",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165790,
+    "gn:latitude":34.91,
+    "gn:longitude":36.45485,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qurmu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qurmu\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0645\u0635"
+    ],
+    "name:und_x_variant":[
+        "Qormoss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165790
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3780176366d37047c15a1812672f4112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779135,
+            "locality_id":1242863315,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242863315,
+    "wof:lastmodified":1537701809,
+    "wof:name":"Qurmus",
+    "wof:parent_id":1108779135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45485,
+    34.91,
+    36.45485,
+    34.91
+],
+  "geometry": {"coordinates":[36.45485,34.91],"type":"Point"}
+}

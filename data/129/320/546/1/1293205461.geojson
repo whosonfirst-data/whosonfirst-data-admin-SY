@@ -1,0 +1,84 @@
+{
+  "id": 1293205461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56551,32.43842,36.56551,32.43842",
+    "geom:latitude":32.43842,
+    "geom:longitude":36.56551,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"164916.0",
+    "gn:asciiname":"Dhibin",
+    "gn:country_code":"SY",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":170689,
+    "gn:latitude":32.43842,
+    "gn:longitude":36.56551,
+    "gn:modification_date":"2014-01-24",
+    "gn:name":"Dh\u012bb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dibb\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "Dh\u012bb\u012bn",
+        "\u0630\u064a\u0628\u064a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0431\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "D\u012bb\u012bn",
+        "D\u00eeb\u00eene",
+        "Dibb\u00eene",
+        "Dh\u012bbb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170689
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8821dd74009891e46d31656c20efb4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779195,
+            "locality_id":1293205461,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1293205461,
+    "wof:lastmodified":1537702140,
+    "wof:name":"Dhibin",
+    "wof:parent_id":1108779195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56551,
+    32.43842,
+    36.56551,
+    32.43842
+],
+  "geometry": {"coordinates":[36.56551,32.43842],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360074863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93333,36.15,37.93333,36.15",
+    "geom:latitude":36.15,
+    "geom:longitude":37.93333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Tutun",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163424,
+    "gn:latitude":36.15,
+    "gn:longitude":37.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tall T\u016bt\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062a\u0648\u062a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell Touto\u00fbn",
+        "Tell et Totoun",
+        "Tall Tutun",
+        "Tall T\u016bt\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163424
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b664f1b88180483e6c4b30aeb5f758b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1360074863,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1360074863,
+    "wof:lastmodified":1537701655,
+    "wof:name":"Tall Tutun",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93333,
+    36.15,
+    37.93333,
+    36.15
+],
+  "geometry": {"coordinates":[37.93333,36.15],"type":"Point"}
+}

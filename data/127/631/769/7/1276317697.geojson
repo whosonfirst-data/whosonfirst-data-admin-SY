@@ -1,0 +1,74 @@
+{
+  "id": 1276317697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87541,36.11073,37.87541,36.11073",
+    "geom:latitude":36.11073,
+    "geom:longitude":37.87541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mahdum",
+    "gn:country_code":"SY",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167493,
+    "gn:latitude":36.11073,
+    "gn:longitude":37.87541,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mahd\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0647\u062f\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mahdo\u00fbm",
+        "Mahd\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167493
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c4189346db7c784e0cc5aacc55744f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1276317697,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1276317697,
+    "wof:lastmodified":1537701919,
+    "wof:name":"Mahdum",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87541,
+    36.11073,
+    37.87541,
+    36.11073
+],
+  "geometry": {"coordinates":[37.87541,36.11073],"type":"Point"}
+}

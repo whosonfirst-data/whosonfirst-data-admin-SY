@@ -1,0 +1,74 @@
+{
+  "id": 1243172495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32277,35.88547,38.32277,35.88547",
+    "geom:latitude":35.88547,
+    "geom:longitude":38.32277,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nammalah",
+    "gn:country_code":"SY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":166408,
+    "gn:latitude":35.88547,
+    "gn:longitude":38.32277,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Namm\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Namm\u00e2l\u00e9",
+        "Namm\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166408
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b42c9cf767cc415c172a3098bea040c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1243172495,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1243172495,
+    "wof:lastmodified":1537701857,
+    "wof:name":"Nammalah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32277,
+    35.88547,
+    38.32277,
+    35.88547
+],
+  "geometry": {"coordinates":[38.32277,35.88547],"type":"Point"}
+}

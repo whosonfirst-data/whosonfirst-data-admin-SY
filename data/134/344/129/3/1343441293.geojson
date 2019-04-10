@@ -1,0 +1,82 @@
+{
+  "id": 1343441293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75429,36.0459,36.75429,36.0459",
+    "geom:latitude":36.0459,
+    "geom:longitude":36.75429,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zardana",
+    "gn:country_code":"SY",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162522,
+    "gn:latitude":36.0459,
+    "gn:longitude":36.75429,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Zardan\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u062f\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0634\u0647\u062f"
+    ],
+    "name:und_x_variant":[
+        "Zerdane",
+        "Zardanna",
+        "Zardanah",
+        "Zerdena",
+        "Zardan\u0101",
+        "Mashhad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162522,
+        "wk:page":"Zardana"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bb0d5c566324d1b3925496b4a09bba36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1343441293,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1343441293,
+    "wof:lastmodified":1537701597,
+    "wof:name":"Zardana",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75429000000001,
+    36.0459,
+    36.75429000000001,
+    36.0459
+],
+  "geometry": {"coordinates":[36.75429000000001,36.0459],"type":"Point"}
+}

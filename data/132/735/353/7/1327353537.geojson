@@ -1,0 +1,73 @@
+{
+  "id": 1327353537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5125,33.52594,36.5125,33.52594",
+    "geom:latitude":33.52594,
+    "geom:longitude":36.5125,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ard al Maghariq",
+    "gn:country_code":"SY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8346635,
+    "gn:latitude":33.52594,
+    "gn:longitude":36.5125,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ar\u1e11 al Magh\u0101r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0645\u063a\u0627\u0631\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ar\u1e11 al Magh\u0101r\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346635
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b62407073418acd4b6d00dde523067d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779079,
+            "locality_id":1327353537,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1327353537,
+    "wof:lastmodified":1537702550,
+    "wof:name":"Ard al Maghariq",
+    "wof:parent_id":1108779079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5125,
+    33.52594000000001,
+    36.5125,
+    33.52594000000001
+],
+  "geometry": {"coordinates":[36.5125,33.52594000000001],"type":"Point"}
+}

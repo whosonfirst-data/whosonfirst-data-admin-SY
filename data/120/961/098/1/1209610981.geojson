@@ -1,0 +1,75 @@
+{
+  "id": 1209610981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.82213,36.71805,36.82213,36.71805",
+    "geom:latitude":36.71805,
+    "geom:longitude":36.82213,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"At Taghlah",
+    "gn:country_code":"SY",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172012,
+    "gn:latitude":36.71805,
+    "gn:longitude":36.82213,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"A\u0163 \u0162aghlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0628\u0643 \u0627\u0648\u0634\u0627\u063a\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u063a\u0644\u0629",
+        "\u0627\u0644\u0637\u0641\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9b\u00e9k Ouch\u00e2rheu",
+        "B\u00e9b\u00e9k Ouch\u00e2rhi",
+        "Babak \u016ash\u0101gh\u012b",
+        "A\u0163 \u0162aghlah",
+        "A\u0163 \u0162aflah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172012
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bd80a1f922c7cf31a30cfeea52eee63e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209610981
+        }
+    ],
+    "wof:id":1209610981,
+    "wof:lastmodified":1537702242,
+    "wof:name":"At Taghlah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.82213,
+    36.71805,
+    36.82213,
+    36.71805
+],
+  "geometry": {"coordinates":[36.82213,36.71805],"type":"Point"}
+}

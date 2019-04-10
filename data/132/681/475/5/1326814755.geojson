@@ -1,0 +1,74 @@
+{
+  "id": 1326814755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10427,36.6506,37.10427,36.6506",
+    "geom:latitude":36.6506,
+    "geom:longitude":37.10427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tulayl ash Sham",
+    "gn:country_code":"SY",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163158,
+    "gn:latitude":36.6506,
+    "gn:longitude":37.10427,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tulayl ash Sh\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u064a\u0644 \u0627\u0644\u0634\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tle\u00efl ech Ch\u00e2m",
+        "Tulayl ash Sh\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163158
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2d7516a75e532ff9a2c0903032feb126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":1326814755,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1326814755,
+    "wof:lastmodified":1537701640,
+    "wof:name":"Tulayl ash Sham",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10427,
+    36.6506,
+    37.10427,
+    36.6506
+],
+  "geometry": {"coordinates":[37.10427,36.6506],"type":"Point"}
+}

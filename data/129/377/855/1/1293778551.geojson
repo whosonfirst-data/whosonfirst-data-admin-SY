@@ -1,0 +1,80 @@
+{
+  "id": 1293778551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59495,36.42053,36.59495,36.42053",
+    "geom:latitude":36.42053,
+    "geom:longitude":36.59495,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Marwanah Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167181,
+    "gn:latitude":36.42053,
+    "gn:longitude":36.59495,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Marw\u0101nah Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0648\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0648\u0627\u0646\u0629 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9rouan\u00e9",
+        "Merou\u00e2n\u00e9 Taht\u00e2ni",
+        "Marw\u0101nah Ta\u1e29t\u0101n\u012b",
+        "Marw\u0101nah",
+        "M\u00e9rou\u00e2n\u00e9 Ta\u1e29t\u00e2ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167181
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3b0837c1127a8f95a9833e97f5987cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1293778551,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293778551,
+    "wof:lastmodified":1537701905,
+    "wof:name":"Marwanah Tahtani",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59495,
+    36.42053,
+    36.59495,
+    36.42053
+],
+  "geometry": {"coordinates":[36.59495,36.42053],"type":"Point"}
+}

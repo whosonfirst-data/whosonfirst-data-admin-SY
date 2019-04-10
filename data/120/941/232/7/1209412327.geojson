@@ -1,0 +1,70 @@
+{
+  "id": 1209412327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96664,33.30947,35.96664,33.30947",
+    "geom:latitude":33.30947,
+    "geom:longitude":35.96664,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mughr al Mir",
+    "gn:country_code":"SY",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166772,
+    "gn:latitude":33.30947,
+    "gn:longitude":35.96664,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Mughr al M\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u063a\u0631 \u0627\u0644\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mourhr el Mir",
+        "Mughr al M\u012br",
+        "Mourhr el M\u00eer",
+        "Maghar al M\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166772
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b2a7111289c75a774346509843bd98ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209412327
+        }
+    ],
+    "wof:id":1209412327,
+    "wof:lastmodified":1537701878,
+    "wof:name":"Mughr al Mir",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96664000000001,
+    33.30947,
+    35.96664000000001,
+    33.30947
+],
+  "geometry": {"coordinates":[35.96664000000001,33.30947],"type":"Point"}
+}

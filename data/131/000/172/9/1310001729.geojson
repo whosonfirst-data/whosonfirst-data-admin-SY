@@ -1,0 +1,76 @@
+{
+  "id": 1310001729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20854,35.80442,37.20854,35.80442",
+    "geom:latitude":35.80442,
+    "geom:longitude":37.20854,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tall Masih",
+    "gn:country_code":"SY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163585,
+    "gn:latitude":35.80442,
+    "gn:longitude":37.20854,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tall M\u0101si\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0627\u0633\u062d"
+    ],
+    "name:und_x_variant":[
+        "Tell Rhaz\u00e2l",
+        "Tell Rhazel",
+        "Tall Ghaz\u0101l",
+        "Tall M\u0101si\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163585
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9fd1854f6532c8e4709b6fdd1913aaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779121,
+            "locality_id":1310001729,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1310001729,
+    "wof:lastmodified":1537701673,
+    "wof:name":"Tall Masih",
+    "wof:parent_id":1108779121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20854,
+    35.80442,
+    37.20854,
+    35.80442
+],
+  "geometry": {"coordinates":[37.20854,35.80442],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209095349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2869,35.12994,36.2869,35.12994",
+    "geom:latitude":35.12994,
+    "geom:longitude":36.2869,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haylunah",
+    "gn:country_code":"SY",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173792,
+    "gn:latitude":35.12994,
+    "gn:longitude":36.2869,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28ayl\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0644\u0648\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u064a\u0644\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00eflo\u00fbn\u00e9",
+        "Ha\u00efo\u00fbn\u00e9",
+        "Al \u1e28ayl\u016bnah",
+        "\u1e28ayl\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173792
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"98d1d8d555e6d625533a4fb8b40a1378",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209095349
+        }
+    ],
+    "wof:id":1209095349,
+    "wof:lastmodified":1537702364,
+    "wof:name":"Haylunah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2869,
+    35.12994,
+    36.2869,
+    35.12994
+],
+  "geometry": {"coordinates":[36.2869,35.12994],"type":"Point"}
+}

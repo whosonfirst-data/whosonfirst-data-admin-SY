@@ -1,0 +1,81 @@
+{
+  "id": 1343250055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05843,34.24168,37.05843,34.24168",
+    "geom:latitude":34.24168,
+    "geom:longitude":37.05843,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mahin",
+    "gn:country_code":"SY",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":167488,
+    "gn:latitude":34.24168,
+    "gn:longitude":37.05843,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Mah\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9hine",
+        "Meh\u012bn",
+        "Mahire",
+        "Mhine",
+        "Mih\u00eene",
+        "Mah\u012bn",
+        "Mheen",
+        "Maheen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167488,
+        "wk:page":"Mahin%2C_Syria"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"65703711783fcd264daaebff1237f0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1343250055,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1343250055,
+    "wof:lastmodified":1537701919,
+    "wof:name":"Mahin",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05843,
+    34.24168,
+    37.05843,
+    34.24168
+],
+  "geometry": {"coordinates":[37.05843,34.24168],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276309859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50051,35.73551,36.50051,35.73551",
+    "geom:latitude":35.73551,
+    "geom:longitude":36.50051,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Basamis",
+    "gn:country_code":"SY",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171735,
+    "gn:latitude":35.73551,
+    "gn:longitude":36.50051,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Bas\u0101mis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0627\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bass\u0101mis",
+        "Bass\u00e2mess",
+        "Bass\u00e2mes",
+        "Bas\u0101mis",
+        "Bs\u0101mis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171735
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d0364d087864176e6b7c40789d79e0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779097,
+            "locality_id":1276309859,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1276309859,
+    "wof:lastmodified":1537702223,
+    "wof:name":"Basamis",
+    "wof:parent_id":1108779097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50051,
+    35.73551,
+    36.50051,
+    35.73551
+],
+  "geometry": {"coordinates":[36.50051,35.73551],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343444903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26867,35.60336,36.26867,35.60336",
+    "geom:latitude":35.60336,
+    "geom:longitude":36.26867,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"`Ayn Sulaymu",
+    "gn:country_code":"SY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172107,
+    "gn:latitude":35.60336,
+    "gn:longitude":36.26867,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u2018Ayn Sulaym\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0633\u0644\u064a\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Sle\u00efmo",
+        "\u2018Ayn Sulaym\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172107
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b45ff983a29b42ba7d1c4fbc32304f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1343444903,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343444903,
+    "wof:lastmodified":1537702248,
+    "wof:name":"`Ayn Sulaymu",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26867,
+    35.60335999999999,
+    36.26867,
+    35.60335999999999
+],
+  "geometry": {"coordinates":[36.26867,35.60335999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1292912021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.088,35.40623,36.088,35.40623",
+    "geom:latitude":35.40623,
+    "geom:longitude":36.088,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jirmati",
+    "gn:country_code":"SY",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169030,
+    "gn:latitude":35.40623,
+    "gn:longitude":36.088,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Jirm\u0101t\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jirm\u0101t\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u0645\u0627\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jerm\u00e2ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169030
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9a82d89d0e11e7956a348bf733527c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779127,
+            "locality_id":1292912021,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1292912021,
+    "wof:lastmodified":1537702041,
+    "wof:name":"Jirmati",
+    "wof:parent_id":1108779127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.088,
+    35.40623,
+    36.088,
+    35.40623
+],
+  "geometry": {"coordinates":[36.088,35.40623],"type":"Point"}
+}

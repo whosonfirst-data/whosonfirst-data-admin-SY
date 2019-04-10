@@ -1,0 +1,78 @@
+{
+  "id": 1259672853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22447,35.00995,37.22447,35.00995",
+    "geom:latitude":35.00995,
+    "geom:longitude":37.22447,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mafkar ash Sharqi",
+    "gn:country_code":"SY",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166793,
+    "gn:latitude":35.00995,
+    "gn:longitude":37.22447,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mafkar ash Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0641\u0643\u0631 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Mufqar ash Sharq\u012b",
+        "Moufaqqar ech Charq",
+        "Mouffaqqar ech Charqi",
+        "Moufaqqar ech Charqi",
+        "Mufaqqar ash Sharq\u012b",
+        "Mafkar ash Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166793
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"064560f491bc1711030fef8a910379c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1259672853,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1259672853,
+    "wof:lastmodified":1537701879,
+    "wof:name":"Mafkar ash Sharqi",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22447,
+    35.00995,
+    37.22447,
+    35.00995
+],
+  "geometry": {"coordinates":[37.22447,35.00995],"type":"Point"}
+}

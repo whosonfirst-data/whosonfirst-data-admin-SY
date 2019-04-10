@@ -1,0 +1,73 @@
+{
+  "id": 1259575879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48979,33.05229,36.48979,33.05229",
+    "geom:latitude":33.05229,
+    "geom:longitude":36.48979,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Namir",
+    "gn:country_code":"SY",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12805,
+    "gn:latitude":33.05229,
+    "gn:longitude":36.48979,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"N\u0101mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u0101mir"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12805
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"68b0857f3c88c2bca695ec9d7a7388cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":1259575879,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259575879,
+    "wof:lastmodified":1537701576,
+    "wof:name":"Namir",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48979,
+    33.05229,
+    36.48979,
+    33.05229
+],
+  "geometry": {"coordinates":[36.48979,33.05229],"type":"Point"}
+}

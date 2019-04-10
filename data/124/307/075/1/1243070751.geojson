@@ -1,0 +1,77 @@
+{
+  "id": 1243070751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95363,35.63797,35.95363,35.63797",
+    "geom:latitude":35.63797,
+    "geom:longitude":35.95363,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ra's `Awaj",
+    "gn:country_code":"SY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165493,
+    "gn:latitude":35.63797,
+    "gn:longitude":35.95363,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ra\u2019s \u2018Awaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0639\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2s Aouaj",
+        "R\u00e2ss Aouaj",
+        "Ra\u2019s A\u2018waj",
+        "Ra\u2019s \u2018Awaj",
+        "R\u0101s \u2018Awaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165493
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1784b2f5567929f87a6b7ed0d7f6c471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1243070751,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1243070751,
+    "wof:lastmodified":1537701789,
+    "wof:name":"Ra's `Awaj",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95363,
+    35.63797,
+    35.95363,
+    35.63797
+],
+  "geometry": {"coordinates":[35.95363,35.63797],"type":"Point"}
+}

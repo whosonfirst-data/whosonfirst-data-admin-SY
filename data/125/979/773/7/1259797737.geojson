@@ -1,0 +1,76 @@
+{
+  "id": 1259797737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.84522,36.76608,40.84522,36.76608",
+    "geom:latitude":36.76608,
+    "geom:longitude":40.84522,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Awkir Tahtani",
+    "gn:country_code":"SY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420807,
+    "gn:latitude":36.76608,
+    "gn:longitude":40.84522,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awk\u012br Ta\u1e29t\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643\u064a\u0631 \u062a\u062d\u062a\u0627\u0646\u064a"
+    ],
+    "name:tur_x_preferred":[
+        "Awk\u012br Ta\u1e29t\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Awk\u012br Ta\u1e29t\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420807
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f359ff3c312ed066092848e13d662ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1259797737,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1259797737,
+    "wof:lastmodified":1537702450,
+    "wof:name":"Awkir Tahtani",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.84522,
+    36.76608,
+    40.84522,
+    36.76608
+],
+  "geometry": {"coordinates":[40.84522,36.76608],"type":"Point"}
+}

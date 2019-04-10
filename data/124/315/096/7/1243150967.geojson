@@ -1,0 +1,74 @@
+{
+  "id": 1243150967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97445,34.87928,35.97445,34.87928",
+    "geom:latitude":34.87928,
+    "geom:longitude":35.97445,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bayt al Jabal",
+    "gn:country_code":"SY",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171618,
+    "gn:latitude":34.87928,
+    "gn:longitude":35.97445,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bayt al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft ej Jebel",
+        "Bayt al Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171618
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"66d8259c0c8a14000de479ccda003ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":1243150967,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243150967,
+    "wof:lastmodified":1537702214,
+    "wof:name":"Bayt al Jabal",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97445,
+    34.87928,
+    35.97445,
+    34.87928
+],
+  "geometry": {"coordinates":[35.97445,34.87928],"type":"Point"}
+}

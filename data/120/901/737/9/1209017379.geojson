@@ -1,0 +1,61 @@
+{
+  "id": 1209017379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85833,35.72917,35.85833,35.72917",
+    "geom:latitude":35.72917,
+    "geom:longitude":35.85833,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kafr",
+    "gn:country_code":"SY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4576,
+    "gn:latitude":35.72917,
+    "gn:longitude":35.85833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kafr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4576
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0eee3eb0b043ea50895c067d4a1cab2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209017379
+        }
+    ],
+    "wof:id":1209017379,
+    "wof:lastmodified":1536300253,
+    "wof:name":"Kafr",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85833,
+    35.72917,
+    35.85833,
+    35.72917
+],
+  "geometry": {"coordinates":[35.85833,35.72917],"type":"Point"}
+}

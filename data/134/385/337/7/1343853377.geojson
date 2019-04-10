@@ -1,0 +1,76 @@
+{
+  "id": 1343853377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25232,35.26758,36.25232,35.26758",
+    "geom:latitude":35.26758,
+    "geom:longitude":36.25232,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tammazah",
+    "gn:country_code":"SY",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172345,
+    "gn:latitude":35.26758,
+    "gn:longitude":36.25232,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tamm\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ett Temm\u00e2z\u00e9",
+        "Et Temm\u00e2z\u00e9",
+        "At Tamm\u0101zah",
+        "Tamm\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172345
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"442edf123e68263dd8ff7fb6745fcc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779099,
+            "locality_id":1343853377,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343853377,
+    "wof:lastmodified":1537702268,
+    "wof:name":"Tammazah",
+    "wof:parent_id":1108779099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25232000000001,
+    35.26758,
+    36.25232000000001,
+    35.26758
+],
+  "geometry": {"coordinates":[36.25232000000001,35.26758],"type":"Point"}
+}

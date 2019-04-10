@@ -1,0 +1,78 @@
+{
+  "id": 1259605571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19962,32.744,36.19962,32.744",
+    "geom:latitude":32.744,
+    "geom:longitude":36.19962,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kutaybah",
+    "gn:country_code":"SY",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173580,
+    "gn:latitude":32.744,
+    "gn:longitude":36.19962,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kutaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062a\u064a\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u062a\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kteibe",
+        "Al Kutaybah",
+        "Kutaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678399,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173580
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0d6c19449d6b3b1c67f642de27925d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":1259605571,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":1259605571,
+    "wof:lastmodified":1537702346,
+    "wof:name":"Kutaybah",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19962,
+    32.744,
+    36.19962,
+    32.744
+],
+  "geometry": {"coordinates":[36.19962,32.744],"type":"Point"}
+}

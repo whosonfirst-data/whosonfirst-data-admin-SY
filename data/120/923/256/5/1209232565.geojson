@@ -1,0 +1,73 @@
+{
+  "id": 1209232565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.01283,37.01721,41.01283,37.01721",
+    "geom:latitude":37.01721,
+    "geom:longitude":41.01283,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kurdu",
+    "gn:country_code":"SY",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167751,
+    "gn:latitude":37.01721,
+    "gn:longitude":41.01283,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u016brd\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016brd\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0631\u062f\u0648"
+    ],
+    "name:tur_x_preferred":[
+        "Kurd\u016b"
+    ],
+    "name:und_x_variant":[
+        "Kourdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167751
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c6a9803b66277cb6ba610454a23a06ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209232565
+        }
+    ],
+    "wof:id":1209232565,
+    "wof:lastmodified":1537701936,
+    "wof:name":"Kurdu",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.01283,
+    37.01721,
+    41.01283,
+    37.01721
+],
+  "geometry": {"coordinates":[41.01283,37.01721],"type":"Point"}
+}

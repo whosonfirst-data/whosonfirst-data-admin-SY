@@ -1,0 +1,67 @@
+{
+  "id": 1209395125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60737,35.79235,36.60737,35.79235",
+    "geom:latitude":35.79235,
+    "geom:longitude":36.60737,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mazra`at `Ayn Bizzah",
+    "gn:country_code":"SY",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273454,
+    "gn:latitude":35.79235,
+    "gn:longitude":36.60737,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mazra\u2018at \u2018Ayn Bizzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0639\u064a\u0646 \u0628\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u2018Ayn Bizzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273454
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b3c7c0230d027b06bc61b5b1c9b33cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209395125
+        }
+    ],
+    "wof:id":1209395125,
+    "wof:lastmodified":1537702507,
+    "wof:name":"Mazra`at `Ayn Bizzah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60737,
+    35.79235,
+    36.60737,
+    35.79235
+],
+  "geometry": {"coordinates":[36.60737,35.79235],"type":"Point"}
+}

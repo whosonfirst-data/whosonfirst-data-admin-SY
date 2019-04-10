@@ -1,0 +1,74 @@
+{
+  "id": 1343445421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69435,36.4553,36.69435,36.4553",
+    "geom:latitude":36.4553,
+    "geom:longitude":36.69435,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maskah Fawqani",
+    "gn:country_code":"SY",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553776,
+    "gn:latitude":36.4553,
+    "gn:longitude":36.69435,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Maskah Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0643\u0629 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maskah Fawq\u0101n\u012b",
+        "Meski Faouq\u00e2ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553776
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8649a70c6d46207d75d9772a5cf9b7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1343445421,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1343445421,
+    "wof:lastmodified":1537702627,
+    "wof:name":"Maskah Fawqani",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69435,
+    36.4553,
+    36.69435,
+    36.4553
+],
+  "geometry": {"coordinates":[36.69435,36.4553],"type":"Point"}
+}

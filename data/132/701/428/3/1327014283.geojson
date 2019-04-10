@@ -1,0 +1,79 @@
+{
+  "id": 1327014283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61641,36.63731,36.61641,36.63731",
+    "geom:latitude":36.63731,
+    "geom:longitude":36.61641,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Karri",
+    "gn:country_code":"SY",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":168542,
+    "gn:latitude":36.63731,
+    "gn:longitude":36.61641,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Karr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Keri",
+        "Kerri",
+        "Karr\u012b",
+        "An Na\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":168542
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8ab67ca0822e3a8b280a2397ab5df89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":1327014283,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1327014283,
+    "wof:lastmodified":1537702000,
+    "wof:name":"Karri",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61641,
+    36.63731,
+    36.61641,
+    36.63731
+],
+  "geometry": {"coordinates":[36.61641,36.63731],"type":"Point"}
+}

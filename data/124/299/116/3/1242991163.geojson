@@ -1,0 +1,74 @@
+{
+  "id": 1242991163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44227,35.11467,37.44227,35.11467",
+    "geom:latitude":35.11467,
+    "geom:longitude":37.44227,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mukaymin al Qibli",
+    "gn:country_code":"SY",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166724,
+    "gn:latitude":35.11467,
+    "gn:longitude":37.44227,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mukaymin al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u064a\u0645\u0646 \u0627\u0644\u0642\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mke\u00efmenn el Qibli",
+        "Mukaymin al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166724
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f860eb25f1c6c042f11e875c01300dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1242991163,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1242991163,
+    "wof:lastmodified":1537701876,
+    "wof:name":"Mukaymin al Qibli",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44227,
+    35.11467,
+    37.44227,
+    35.11467
+],
+  "geometry": {"coordinates":[37.44227,35.11467],"type":"Point"}
+}

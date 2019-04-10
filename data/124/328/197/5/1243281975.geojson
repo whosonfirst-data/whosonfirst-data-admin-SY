@@ -1,0 +1,73 @@
+{
+  "id": 1243281975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22818,33.48542,36.22818,33.48542",
+    "geom:latitude":33.48542,
+    "geom:longitude":36.22818,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shaqif al Hammam",
+    "gn:country_code":"SY",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8413200,
+    "gn:latitude":33.48542,
+    "gn:longitude":36.22818,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Shaq\u012bf al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u064a\u0641 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Shaq\u012bf al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678403,
+        1108779107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8413200
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3e5163f51ae94400a84f1c3002e77934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":1243281975,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":1243281975,
+    "wof:lastmodified":1537702566,
+    "wof:name":"Shaqif al Hammam",
+    "wof:parent_id":1108779107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22818,
+    33.48542,
+    36.22818,
+    33.48542
+],
+  "geometry": {"coordinates":[36.22818,33.48542],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193262243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4871,35.41008,36.4871,35.41008",
+    "geom:latitude":35.41008,
+    "geom:longitude":36.4871,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Mughayr",
+    "gn:country_code":"SY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":167527,
+    "gn:latitude":35.41008,
+    "gn:longitude":36.4871,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Mughayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Marha\u00efr",
+        "Mrha\u00efr",
+        "Magh\u0101\u2019ir",
+        "Al Mughayr",
+        "Al Muqayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167527
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d1d90d985c2738d5aee083d04631f602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779175,
+            "locality_id":1193262243,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1193262243,
+    "wof:lastmodified":1537701921,
+    "wof:name":"Al Mughayr",
+    "wof:parent_id":1108779175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4871,
+    35.41008,
+    36.4871,
+    35.41008
+],
+  "geometry": {"coordinates":[36.4871,35.41008],"type":"Point"}
+}

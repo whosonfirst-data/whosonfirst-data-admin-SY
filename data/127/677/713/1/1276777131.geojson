@@ -1,0 +1,77 @@
+{
+  "id": 1276777131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.3717,36.92252,41.3717,36.92252",
+    "geom:latitude":36.92252,
+    "geom:longitude":41.3717,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jiha Kabirah",
+    "gn:country_code":"SY",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169065,
+    "gn:latitude":36.92252,
+    "gn:longitude":41.3717,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ji\u1e29\u0101 Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062d\u0627 \u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:tur_x_preferred":[
+        "Ji\u1e29\u0101 Kab\u012brah"
+    ],
+    "name:und_x_variant":[
+        "J\u00eeha K\u00e9b\u00eer\u00e9",
+        "J\u012b\u1e29ah al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169065
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e64f6f61ed9fb1edbb403e17105734ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1276777131,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1276777131,
+    "wof:lastmodified":1537702043,
+    "wof:name":"Jiha Kabirah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.3717,
+    36.92252,
+    41.3717,
+    36.92252
+],
+  "geometry": {"coordinates":[41.3717,36.92252],"type":"Point"}
+}

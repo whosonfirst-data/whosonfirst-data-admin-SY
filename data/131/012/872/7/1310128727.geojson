@@ -1,0 +1,74 @@
+{
+  "id": 1310128727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4411,32.76091,36.4411,32.76091",
+    "geom:latitude":32.76091,
+    "geom:longitude":36.4411,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"At Tirah",
+    "gn:country_code":"SY",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172326,
+    "gn:latitude":32.76091,
+    "gn:longitude":36.4411,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"A\u0163 \u0162\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tir\u00e9",
+        "A\u0163 \u0162\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678385,
+        1108779199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172326
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ddafba631d4f8aab426747630171e8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779199,
+            "locality_id":1310128727,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":1310128727,
+    "wof:lastmodified":1537702266,
+    "wof:name":"At Tirah",
+    "wof:parent_id":1108779199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4411,
+    32.76091,
+    36.4411,
+    32.76091
+],
+  "geometry": {"coordinates":[36.4411,32.76091],"type":"Point"}
+}

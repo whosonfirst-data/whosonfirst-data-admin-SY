@@ -1,0 +1,82 @@
+{
+  "id": 1260360449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,35.25,35.96667,35.25",
+    "geom:latitude":35.25,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bshamman",
+    "gn:country_code":"SY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171280,
+    "gn:latitude":35.25,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bshamm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0645\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0634\u0646\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bchemm\u00e2ne",
+        "Bohenane",
+        "Bchen\u00e2ne",
+        "Bshamm\u0101n",
+        "Bishamm\u0101n",
+        "Bshan\u0101nah",
+        "Bishan\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171280
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ce62e28a1a748b07f74cbe9ccfbef5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1260360449,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1260360449,
+    "wof:lastmodified":1537702184,
+    "wof:name":"Bshamman",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    35.25,
+    35.96667,
+    35.25
+],
+  "geometry": {"coordinates":[35.96667,35.25],"type":"Point"}
+}

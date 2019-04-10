@@ -1,0 +1,74 @@
+{
+  "id": 1310382573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58685,36.21325,36.58685,36.21325",
+    "geom:latitude":36.21325,
+    "geom:longitude":36.58685,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tur Lahah",
+    "gn:country_code":"SY",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330310,
+    "gn:latitude":36.21325,
+    "gn:longitude":36.58685,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Tur La\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631 \u0644\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tur La\u1e29ah",
+        "\u0162\u016br L\u0101h\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330310
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1c3119de6e6ae45a535632dd89c866c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779159,
+            "locality_id":1310382573,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1310382573,
+    "wof:lastmodified":1537702528,
+    "wof:name":"Tur Lahah",
+    "wof:parent_id":1108779159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58685,
+    36.21325,
+    36.58685,
+    36.21325
+],
+  "geometry": {"coordinates":[36.58685,36.21325],"type":"Point"}
+}

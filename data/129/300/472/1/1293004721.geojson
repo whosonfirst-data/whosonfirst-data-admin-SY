@@ -1,0 +1,79 @@
+{
+  "id": 1293004721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15092,36.81007,40.15092,36.81007",
+    "geom:latitude":36.81007,
+    "geom:longitude":40.15092,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chachan",
+    "gn:country_code":"SY",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":164241,
+    "gn:latitude":36.81007,
+    "gn:longitude":40.15092,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u0101ch\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ch\u0101ch\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0686\u0627\u0686\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Sh\u012bsh\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Tchatchanes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164241
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"7d0c34c03add2b4588906ba3f7b1367f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":1293004721,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1293004721,
+    "wof:lastmodified":1537701725,
+    "wof:name":"Chachan",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15092,
+    36.81007,
+    40.15092,
+    36.81007
+],
+  "geometry": {"coordinates":[40.15092,36.81007],"type":"Point"}
+}

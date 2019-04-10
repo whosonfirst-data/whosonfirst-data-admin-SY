@@ -1,0 +1,77 @@
+{
+  "id": 1327148627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91667,36.93333,40.91667,36.93333",
+    "geom:latitude":36.93333,
+    "geom:longitude":40.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Giris",
+    "gn:cc2":"SY",
+    "gn:country_code":"SY",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":170175,
+    "gn:latitude":36.93333,
+    "gn:longitude":40.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Giri\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Giri\u015f"
+    ],
+    "name:und_x_variant":[
+        "J\u012br \u012ash",
+        "Guir E\u00efch",
+        "Kay\u012br \u012ash",
+        "Guir Ech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":170175
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"19aac204eaca3355d5ac4bfb1d98a6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":1327148627,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1327148627,
+    "wof:lastmodified":1537702112,
+    "wof:name":"Giris",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91667,
+    36.93333,
+    40.91667,
+    36.93333
+],
+  "geometry": {"coordinates":[40.91667,36.93333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193143363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.34097,36.16635,38.34097,36.16635",
+    "geom:latitude":36.16635,
+    "geom:longitude":38.34097,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jalib al Hasan",
+    "gn:country_code":"SY",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166168,
+    "gn:latitude":36.16635,
+    "gn:longitude":38.34097,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Jal\u012bb al \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u0628 \u0627\u0644\u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jal\u00eeb el Hass\u00e2ne",
+        "Jal\u012bb al \u1e28asan",
+        "Qal\u012bb al \u1e28ass\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678355,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166168
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"918076c1705354d3e6b1b6679c79e880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":1193143363,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":1193143363,
+    "wof:lastmodified":1537701845,
+    "wof:name":"Jalib al Hasan",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.34097,
+    36.16635,
+    38.34097,
+    36.16635
+],
+  "geometry": {"coordinates":[38.34097,36.16635],"type":"Point"}
+}

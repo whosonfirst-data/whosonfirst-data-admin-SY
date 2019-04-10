@@ -1,0 +1,74 @@
+{
+  "id": 1360166015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.35591,34.86914,37.35591,34.86914",
+    "geom:latitude":34.86914,
+    "geom:longitude":37.35591,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kurayzu",
+    "gn:country_code":"SY",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":167757,
+    "gn:latitude":34.86914,
+    "gn:longitude":37.35591,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Kurayz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kre\u00efzo",
+        "Kurayz\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":167757
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a50f958aabd20d5850bfdb31b19aefee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":1360166015,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1360166015,
+    "wof:lastmodified":1537701937,
+    "wof:name":"Kurayzu",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.35591,
+    34.86914,
+    37.35591,
+    34.86914
+],
+  "geometry": {"coordinates":[37.35591,34.86914],"type":"Point"}
+}

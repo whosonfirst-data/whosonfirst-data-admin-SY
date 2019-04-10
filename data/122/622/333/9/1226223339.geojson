@@ -1,0 +1,73 @@
+{
+  "id": 1226223339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02468,34.29013,37.02468,34.29013",
+    "geom:latitude":34.29013,
+    "geom:longitude":37.02468,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al `Amya",
+    "gn:country_code":"SY",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270,
+    "gn:latitude":34.29013,
+    "gn:longitude":37.02468,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Al \u2018Amy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Amy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0645\u064a\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"ab8db507246564aaeb8e7c7c979e2229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1226223339,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226223339,
+    "wof:lastmodified":1537701523,
+    "wof:name":"Al `Amya",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02468,
+    34.29013,
+    37.02468,
+    34.29013
+],
+  "geometry": {"coordinates":[37.02468,34.29013],"type":"Point"}
+}

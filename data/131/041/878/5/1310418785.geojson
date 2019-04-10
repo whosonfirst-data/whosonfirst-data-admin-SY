@@ -1,0 +1,76 @@
+{
+  "id": 1310418785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96461,35.57027,35.96461,35.57027",
+    "geom:latitude":35.57027,
+    "geom:longitude":35.96461,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Mazra`ah",
+    "gn:country_code":"SY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166949,
+    "gn:latitude":35.57027,
+    "gn:longitude":35.96461,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Al Mazra\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazraat es S\u00e2mi\u00e9",
+        "Mezraet es Samie",
+        "Mazra\u2018at as S\u0101miyah",
+        "Al Mazra\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166949
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"245b6a83d6c40e0f9152673d97335ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1310418785,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1310418785,
+    "wof:lastmodified":1537701890,
+    "wof:name":"Al Mazra`ah",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96461,
+    35.57027,
+    35.96461,
+    35.57027
+],
+  "geometry": {"coordinates":[35.96461,35.57027],"type":"Point"}
+}

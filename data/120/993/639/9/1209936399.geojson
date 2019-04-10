@@ -1,0 +1,75 @@
+{
+  "id": 1209936399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9718,33.23386,35.9718,33.23386",
+    "geom:latitude":33.23386,
+    "geom:longitude":35.9718,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ash Shawkatliyah",
+    "gn:country_code":"SY",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":164379,
+    "gn:latitude":33.23386,
+    "gn:longitude":35.9718,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ash Shawkatl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0643\u062a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chaoukatliy\u00e9",
+        "Shawkatl\u012byah",
+        "Ash Shawkatl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":164379
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3267956a1ed36267ed03925b565c016c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779139,
+            "locality_id":1209936399,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1209936399,
+    "wof:lastmodified":1537701730,
+    "wof:name":"Ash Shawkatliyah",
+    "wof:parent_id":1108779139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9718,
+    33.23386,
+    35.9718,
+    33.23386
+],
+  "geometry": {"coordinates":[35.9718,33.23386],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243346857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06571,35.19503,36.06571,35.19503",
+    "geom:latitude":35.19503,
+    "geom:longitude":36.06571,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al `Annazah",
+    "gn:country_code":"SY",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":174057,
+    "gn:latitude":35.19503,
+    "gn:longitude":36.06571,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al \u2018Ann\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0646\u0627\u0632\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0646\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aun\u0101z",
+        "Aann\u00e2z\u00e9",
+        "\u2018Anzah",
+        "An Nazi",
+        "\u2018Ann\u0101zah",
+        "\u2018Anz",
+        "\u2018Ann\u0101zih",
+        "Al \u2018Ann\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174057
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"df1b71adee1f3857aaa0923fdace2247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1243346857,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1243346857,
+    "wof:lastmodified":1537702388,
+    "wof:name":"Al `Annazah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06571,
+    35.19503,
+    36.06571,
+    35.19503
+],
+  "geometry": {"coordinates":[36.06571,35.19503],"type":"Point"}
+}

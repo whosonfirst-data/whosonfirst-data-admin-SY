@@ -1,0 +1,75 @@
+{
+  "id": 1259467475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11984,36.43806,38.11984,36.43806",
+    "geom:latitude":36.43806,
+    "geom:longitude":38.11984,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abu Qalqal",
+    "gn:country_code":"SY",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":174407,
+    "gn:latitude":36.43806,
+    "gn:longitude":38.11984,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ab\u016b Qalqal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0644\u0642\u0644"
+    ],
+    "name:und_x_variant":[
+        "Abou Qalqal",
+        "Ab\u016b Kalkal",
+        "Ab\u016b Qalqal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174407
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e1c2234aca809d96b9b86cf4bcdc19cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1259467475,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1259467475,
+    "wof:lastmodified":1537702406,
+    "wof:name":"Abu Qalqal",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11984,
+    36.43806,
+    38.11984,
+    36.43806
+],
+  "geometry": {"coordinates":[38.11984,36.43806],"type":"Point"}
+}

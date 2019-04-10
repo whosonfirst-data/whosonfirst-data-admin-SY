@@ -1,0 +1,76 @@
+{
+  "id": 1276843939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14699,35.19115,36.14699,35.19115",
+    "geom:latitude":35.19115,
+    "geom:longitude":36.14699,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"At Tun al Jurd",
+    "gn:country_code":"SY",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163145,
+    "gn:latitude":35.19115,
+    "gn:longitude":36.14699,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"At T\u016bn al Jurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0646 \u0627\u0644\u062c\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "To\u00fbn ej Jourd",
+        "T\u016bn al Jurd",
+        "Alt\u016bn al Jurd",
+        "At T\u016bn al Jurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163145
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0feb51c7f729492514fa1564e1fed18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1276843939,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1276843939,
+    "wof:lastmodified":1537701639,
+    "wof:name":"At Tun al Jurd",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14699,
+    35.19115,
+    36.14699,
+    35.19115
+],
+  "geometry": {"coordinates":[36.14699,35.19115],"type":"Point"}
+}

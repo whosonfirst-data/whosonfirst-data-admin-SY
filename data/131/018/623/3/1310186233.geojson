@@ -1,0 +1,75 @@
+{
+  "id": 1310186233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48272,34.64334,36.48272,34.64334",
+    "geom:latitude":34.64334,
+    "geom:longitude":36.48272,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wajh al Hajar",
+    "gn:country_code":"SY",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162691,
+    "gn:latitude":34.64334,
+    "gn:longitude":36.48272,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Wajh al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062c\u0647 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ouajh el Hajar",
+        "Ouij el Hajar",
+        "Wajh al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162691
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"80ca627b7c0ad62ad64ca31738ecb7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779211,
+            "locality_id":1310186233,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1310186233,
+    "wof:lastmodified":1537701607,
+    "wof:name":"Wajh al Hajar",
+    "wof:parent_id":1108779211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48272,
+    34.64334,
+    36.48272,
+    34.64334
+],
+  "geometry": {"coordinates":[36.48272,34.64334],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277157301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10164,35.79175,37.10164,35.79175",
+    "geom:latitude":35.79175,
+    "geom:longitude":37.10164,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Haymat ad Dayir",
+    "gn:country_code":"SY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169494,
+    "gn:latitude":35.79175,
+    "gn:longitude":37.10164,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Haym\u0101t ad D\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0645\u0627\u062a \u0627\u0644\u062f\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Hma\u00efm\u00e2te ed D\u00e2er",
+        "\u1e28umaym\u0101t ad D\u0101\u2019ir",
+        "Haym\u0101t ad D\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169494
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"547d19dbede12f1c40cf576adce3f85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779173,
+            "locality_id":1277157301,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1277157301,
+    "wof:lastmodified":1537702070,
+    "wof:name":"Haymat ad Dayir",
+    "wof:parent_id":1108779173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10164,
+    35.79175,
+    37.10164,
+    35.79175
+],
+  "geometry": {"coordinates":[37.10164,35.79175],"type":"Point"}
+}

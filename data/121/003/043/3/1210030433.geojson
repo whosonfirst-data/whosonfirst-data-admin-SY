@@ -1,0 +1,76 @@
+{
+  "id": 1210030433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.53883,36.13441,40.53883,36.13441",
+    "geom:latitude":36.13441,
+    "geom:longitude":40.53883,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jinaz",
+    "gn:country_code":"SY",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420865,
+    "gn:latitude":36.13441,
+    "gn:longitude":40.53883,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jin\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jin\u0101z"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0646\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Jin\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678377,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420865
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"fae30dfd91772acc7d777406c26d3450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":1210030433,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":1210030433,
+    "wof:lastmodified":1537702453,
+    "wof:name":"Jinaz",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.53883,
+    36.13441,
+    40.53883,
+    36.13441
+],
+  "geometry": {"coordinates":[40.53883,36.13441],"type":"Point"}
+}

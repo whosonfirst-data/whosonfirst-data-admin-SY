@@ -1,0 +1,75 @@
+{
+  "id": 1327018853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07637,35.299,37.07637,35.299",
+    "geom:latitude":35.299,
+    "geom:longitude":37.07637,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hamrah as Saffaf",
+    "gn:country_code":"SY",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":165503,
+    "gn:latitude":35.299,
+    "gn:longitude":37.07637,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1e28amrah a\u015f \u015eaff\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0631\u0629 \u0627\u0644\u0635\u0641\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "R\u00e2s el Hamra",
+        "Ra\u2019s al \u1e28amr\u0101\u2019",
+        "\u1e28amrah a\u015f \u015eaff\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":165503
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"acc70a1f436c025c9c9b10153b2c999b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1327018853,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1327018853,
+    "wof:lastmodified":1537701790,
+    "wof:name":"Hamrah as Saffaf",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07637,
+    35.299,
+    37.07637,
+    35.299
+],
+  "geometry": {"coordinates":[37.07637,35.299],"type":"Point"}
+}

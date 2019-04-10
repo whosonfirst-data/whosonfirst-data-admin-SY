@@ -1,0 +1,75 @@
+{
+  "id": 1226220427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22348,34.66527,36.22348,34.66527",
+    "geom:latitude":34.66527,
+    "geom:longitude":36.22348,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tall Sarin",
+    "gn:country_code":"SY",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":163466,
+    "gn:latitude":34.66527,
+    "gn:longitude":36.22348,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tall S\u0101r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0627\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tell S\u00e2r\u00eene",
+        "Tall \u015e\u0101r\u012bn",
+        "Tall S\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678367,
+        1108779181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":163466
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a84586f20cf57e58f28a1ed2262239e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779181,
+            "locality_id":1226220427,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":1226220427,
+    "wof:lastmodified":1537701659,
+    "wof:name":"Tall Sarin",
+    "wof:parent_id":1108779181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22348,
+    34.66527,
+    36.22348,
+    34.66527
+],
+  "geometry": {"coordinates":[36.22348,34.66527],"type":"Point"}
+}

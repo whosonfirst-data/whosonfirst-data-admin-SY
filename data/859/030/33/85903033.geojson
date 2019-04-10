@@ -1,0 +1,133 @@
+{
+  "id": 85903033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16677485.740863,
+    "geom:bbox":"36.309312,33.511879,36.309312,33.511879",
+    "geom:latitude":33.511879,
+    "geom:longitude":36.309312,
+    "gn:latitude":33.50731,
+    "gn:longitude":36.29155,
+    "iso:country":"SY",
+    "lbl:latitude":33.511879,
+    "lbl:longitude":36.309312,
+    "mps:latitude":33.522692,
+    "mps:longitude":36.32213,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Al Qanawaat",
+        "Al Qanawat",
+        "El Qanaouat",
+        "Qanawaat",
+        "Qanawat"
+    ],
+    "name:ara_x_preferred":[
+        "Al Qanaw\u00e5t",
+        "\u062d\u064a \u0627\u0644\u0642\u0646\u0648\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "El Qanaou\u00e2t",
+        "Kanawat",
+        "Qanaw\u00e5t",
+        "\u0627\u0644\u0642\u0646\u0648\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Qanawat"
+    ],
+    "name:unk_x_variant":[
+        "Kanawat",
+        "Al Qanaw\u00e5t"
+    ],
+    "qs:gn_adm0_cc":"SY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":170654,
+    "qs:gn_nam_loc":"\u062f\u0645\u0634\u0642, \u062f\u0645\u0634\u0642, SY",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Al Qanaw\u0101t",
+    "qs:local_max":5948,
+    "qs:local_sum":8282,
+    "qs:localhoods":3,
+    "qs:name":"Al Qanaw\u00e5t",
+    "qs:name_adm0":"\u0633\u0648\u0631\u064a\u0627",
+    "qs:name_adm1":"\u062f\u0645\u0634\u0642",
+    "qs:name_local":"\u062f\u0645\u0634\u0642",
+    "qs:photo_max":1053,
+    "qs:photo_sum":5948,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":145,
+    "qs:woe_adm0":23424956,
+    "qs:woe_adm1":2347081,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1947122,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":33.508394,
+    "wd:longitude":36.295111,
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        1108779107,
+        85678403
+    ],
+    "wof:breaches":[
+        85903035
+    ],
+    "wof:concordances":{
+        "gn:id":173372,
+        "gp:id":1947054,
+        "qs:id":890021,
+        "qs_pg:id":890021,
+        "wd:id":"Q7266466",
+        "wk:page":"Qanawat, Damascus"
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bb3d9dce7724c65494eb3334bd988db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779107,
+            "locality_id":-1,
+            "neighbourhood_id":85903033,
+            "region_id":85678403
+        }
+    ],
+    "wof:id":85903033,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935993,
+    "wof:name":"Al Qanaw\u00e5t",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.309312,
+    33.511879,
+    36.309312,
+    33.511879
+],
+  "geometry": {"coordinates":[36.309312,33.511879],"type":"Point"}
+}

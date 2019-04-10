@@ -1,0 +1,71 @@
+{
+  "id": 1343645043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03119,35.08825,36.03119,35.08825",
+    "geom:latitude":35.08825,
+    "geom:longitude":36.03119,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bashishah",
+    "gn:country_code":"SY",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":171720,
+    "gn:latitude":35.08825,
+    "gn:longitude":36.03119,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101sh\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bach\u00eech\u00e9",
+        "B\u0101sh\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678349,
+        1108779133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":171720
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"6ec8d6f231e2cfb75951915df953d63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779133,
+            "locality_id":1343645043,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":1343645043,
+    "wof:lastmodified":1537702221,
+    "wof:name":"Bashishah",
+    "wof:parent_id":1108779133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03119,
+    35.08825,
+    36.03119,
+    35.08825
+],
+  "geometry": {"coordinates":[36.03119,35.08825],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1242781111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98148,35.53651,35.98148,35.53651",
+    "geom:latitude":35.53651,
+    "geom:longitude":35.98148,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Milyu",
+    "gn:country_code":"SY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":166894,
+    "gn:latitude":35.53651,
+    "gn:longitude":35.98148,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mily\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mily\u016b"
+    ],
+    "name:ara_x_variant":[
+        "M\u012bl\u016b",
+        "\u0645\u064a\u0644\u0648",
+        "\u0645\u0644\u064a\u0648"
+    ],
+    "name:und_x_variant":[
+        "Milio",
+        "Miliou",
+        "Milyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166894
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"12e47dd2a136c53cc131514d22dd5d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779163,
+            "locality_id":1242781111,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1242781111,
+    "wof:lastmodified":1537701887,
+    "wof:name":"Milyu",
+    "wof:parent_id":1108779163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98148,
+    35.53651,
+    35.98148,
+    35.53651
+],
+  "geometry": {"coordinates":[35.98148,35.53651],"type":"Point"}
+}

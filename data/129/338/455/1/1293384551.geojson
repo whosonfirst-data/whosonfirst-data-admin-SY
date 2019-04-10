@@ -1,0 +1,79 @@
+{
+  "id": 1293384551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08933,36.54175,38.08933,36.54175",
+    "geom:latitude":36.54175,
+    "geom:longitude":38.08933,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kirsan",
+    "gn:country_code":"SY",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112,
+    "gn:latitude":36.54175,
+    "gn:longitude":38.08933,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kirs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0633\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Kirs\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Kars\u0101n",
+        "Kers\u00e2ne",
+        "Qersane",
+        "Qur\u015f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0ea75908cc38356518e773e8bb295899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779205,
+            "locality_id":1293384551,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293384551,
+    "wof:lastmodified":1537701563,
+    "wof:name":"Kirsan",
+    "wof:parent_id":1108779205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08933,
+    36.54175,
+    38.08933,
+    36.54175
+],
+  "geometry": {"coordinates":[38.08933,36.54175],"type":"Point"}
+}

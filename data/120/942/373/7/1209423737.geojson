@@ -1,0 +1,67 @@
+{
+  "id": 1209423737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98229,35.36078,35.98229,35.36078",
+    "geom:latitude":35.36078,
+    "geom:longitude":35.98229,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aradi Khirbat as Sus",
+    "gn:country_code":"SY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8695849,
+    "gn:latitude":35.36078,
+    "gn:longitude":35.98229,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ar\u0101\u1e11\u012b Khirbat as S\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0636\u064a \u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ar\u0101\u1e11\u012b Khirbat as S\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695849
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1942f73c89293a3ee85f1f8ebed4de68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209423737
+        }
+    ],
+    "wof:id":1209423737,
+    "wof:lastmodified":1537702585,
+    "wof:name":"Aradi Khirbat as Sus",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98229,
+    35.36078,
+    35.98229,
+    35.36078
+],
+  "geometry": {"coordinates":[35.98229,35.36078],"type":"Point"}
+}

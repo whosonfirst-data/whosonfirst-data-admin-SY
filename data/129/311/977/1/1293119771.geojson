@@ -1,0 +1,75 @@
+{
+  "id": 1293119771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47962,35.987,37.47962,35.987",
+    "geom:latitude":35.987,
+    "geom:longitude":37.47962,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al `Anazah",
+    "gn:country_code":"SY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":173169,
+    "gn:latitude":35.987,
+    "gn:longitude":37.47962,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Al \u2018An\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0646\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aann\u00e2z\u00e9",
+        "\u2018Ann\u0101zah",
+        "Al \u2018An\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678359,
+        1108779113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":173169
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8462905988a2d29ad4f798b26a38a28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779113,
+            "locality_id":1293119771,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":1293119771,
+    "wof:lastmodified":1537702315,
+    "wof:name":"Al `Anazah",
+    "wof:parent_id":1108779113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47962,
+    35.98699999999999,
+    37.47962,
+    35.98699999999999
+],
+  "geometry": {"coordinates":[37.47962,35.98699999999999],"type":"Point"}
+}

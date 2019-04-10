@@ -1,0 +1,73 @@
+{
+  "id": 1259992289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8047,35.61601,35.8047,35.61601",
+    "geom:latitude":35.61601,
+    "geom:longitude":35.8047,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khirbat al Hajj `Uthman",
+    "gn:country_code":"SY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512441,
+    "gn:latitude":35.61601,
+    "gn:longitude":35.8047,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Khirbat al \u1e28ajj \u2018Uthm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062d\u062c \u0639\u062b\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat al \u1e28ajj \u2018Uthm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678345,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512441
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a42f7c3db90aaca534d9a03530cfa82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":1259992289,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":1259992289,
+    "wof:lastmodified":1537702576,
+    "wof:name":"Khirbat al Hajj `Uthman",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8047,
+    35.61601,
+    35.8047,
+    35.61601
+],
+  "geometry": {"coordinates":[35.8047,35.61601],"type":"Point"}
+}

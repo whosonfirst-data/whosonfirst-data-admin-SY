@@ -1,0 +1,78 @@
+{
+  "id": 1242673123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27928,33.78581,36.27928,33.78581",
+    "geom:latitude":33.78581,
+    "geom:longitude":36.27928,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawsh `Arana",
+    "gn:country_code":"SY",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":169726,
+    "gn:latitude":33.78581,
+    "gn:longitude":36.27928,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u1e28awsh \u2018Ar\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0634 \u0639\u0631\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awsh Aar\u00e2ni",
+        "Haouch Aarr\u00e2ni",
+        "Haouch Aarani",
+        "Houch Aar\u00e2ni",
+        "\u1e28awsh \u2018Aran\u012b",
+        "\u1e28awsh \u2018Ar\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678391,
+        1108779105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":169726
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"558968fb98430d544af9b7c16894bc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779105,
+            "locality_id":1242673123,
+            "region_id":85678391
+        }
+    ],
+    "wof:id":1242673123,
+    "wof:lastmodified":1537702085,
+    "wof:name":"Hawsh `Arana",
+    "wof:parent_id":1108779105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27928,
+    33.78581,
+    36.27928,
+    33.78581
+],
+  "geometry": {"coordinates":[36.27928,33.78581],"type":"Point"}
+}

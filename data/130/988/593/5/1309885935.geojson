@@ -1,0 +1,70 @@
+{
+  "id": 1309885935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41771,35.97561,36.41771,35.97561",
+    "geom:latitude":35.97561,
+    "geom:longitude":36.41771,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Al Manzilah",
+    "gn:country_code":"SY",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11554874,
+    "gn:latitude":35.97561,
+    "gn:longitude":36.41771,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Al Manzilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0632\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678373,
+        1108779207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11554874
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d7db3a5f486b227d9e9ec93dd2e67151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779207,
+            "locality_id":1309885935,
+            "region_id":85678373
+        }
+    ],
+    "wof:id":1309885935,
+    "wof:lastmodified":1537702634,
+    "wof:name":"Al Manzilah",
+    "wof:parent_id":1108779207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41771,
+    35.97561,
+    36.41771,
+    35.97561
+],
+  "geometry": {"coordinates":[36.41771,35.97561],"type":"Point"}
+}

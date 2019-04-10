@@ -1,0 +1,67 @@
+{
+  "id": 1209017161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9454,35.48166,35.9454,35.48166",
+    "geom:latitude":35.48166,
+    "geom:longitude":35.9454,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Janinah",
+    "gn:country_code":"SY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698808,
+    "gn:latitude":35.48166,
+    "gn:longitude":35.9454,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Jan\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jan\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698808
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"86610ab04372346e95193c78f9d354ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632413,
+            "locality_id":1209017161
+        }
+    ],
+    "wof:id":1209017161,
+    "wof:lastmodified":1537702587,
+    "wof:name":"Janinah",
+    "wof:parent_id":85632413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9454,
+    35.48166,
+    35.9454,
+    35.48166
+],
+  "geometry": {"coordinates":[35.9454,35.48166],"type":"Point"}
+}

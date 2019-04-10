@@ -1,0 +1,75 @@
+{
+  "id": 1292923969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08737,35.19308,37.08737,35.19308",
+    "geom:latitude":35.19308,
+    "geom:longitude":37.08737,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shahba",
+    "gn:country_code":"SY",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":172832,
+    "gn:latitude":35.19308,
+    "gn:longitude":37.08737,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Shahb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ech Chahba",
+        "Ash Shahb\u0101\u2019",
+        "Shahb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":172832
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"61f06917e537f13ed97a4a57c250a9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779101,
+            "locality_id":1292923969,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1292923969,
+    "wof:lastmodified":1537702293,
+    "wof:name":"Shahba",
+    "wof:parent_id":1108779101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08737,
+    35.19308,
+    37.08737,
+    35.19308
+],
+  "geometry": {"coordinates":[37.08737,35.19308],"type":"Point"}
+}

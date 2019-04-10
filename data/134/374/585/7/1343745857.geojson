@@ -1,0 +1,77 @@
+{
+  "id": 1343745857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17818,35.49539,37.17818,35.49539",
+    "geom:latitude":35.49539,
+    "geom:longitude":37.17818,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dalala",
+    "gn:country_code":"SY",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174264,
+    "gn:latitude":35.49539,
+    "gn:longitude":37.17818,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Dalal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ed Dala",
+        "Tell Hal\u00e2ou\u00e9",
+        "Ad Dala",
+        "Dalal\u0101",
+        "Dall\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678363,
+        1108779115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174264
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"717f3c4096e26b90540d139f863a6f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779115,
+            "locality_id":1343745857,
+            "region_id":85678363
+        }
+    ],
+    "wof:id":1343745857,
+    "wof:lastmodified":1537702402,
+    "wof:name":"Dalala",
+    "wof:parent_id":1108779115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17818,
+    35.49539,
+    37.17818,
+    35.49539
+],
+  "geometry": {"coordinates":[37.17818,35.49539],"type":"Point"}
+}

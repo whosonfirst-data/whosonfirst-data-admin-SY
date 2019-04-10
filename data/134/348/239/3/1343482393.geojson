@@ -1,0 +1,73 @@
+{
+  "id": 1343482393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73906,35.96485,39.73906,35.96485",
+    "geom:latitude":35.96485,
+    "geom:longitude":39.73906,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"`Abd al Matni",
+    "gn:country_code":"SY",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4344,
+    "gn:latitude":35.96485,
+    "gn:longitude":39.73906,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u2018Abd al Matn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"SY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0645\u062a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd al Matn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632413,
+        85678381,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4344
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"99ff9f1d4e1f2ba85d7ef5487428ed69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":1343482393,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":1343482393,
+    "wof:lastmodified":1537701540,
+    "wof:name":"`Abd al Matni",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73906,
+    35.96485,
+    39.73906,
+    35.96485
+],
+  "geometry": {"coordinates":[39.73906,35.96485],"type":"Point"}
+}
