@@ -10,6 +10,12 @@
     "geom:latitude":35.714631,
     "geom:longitude":35.928407,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Lattakia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.739686,
     "lbl:longitude":35.946499,
     "meso:adm1_en":"Lattakia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779125,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718736,
     "wof:name":"Lattakia",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

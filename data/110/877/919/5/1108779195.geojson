@@ -10,6 +10,12 @@
     "geom:latitude":32.502702,
     "geom:longitude":36.88406,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Salkhad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.482532,
     "lbl:longitude":36.851357,
     "meso:adm1_en":"As-Sweida",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779195,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718738,
     "wof:name":"Salkhad",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

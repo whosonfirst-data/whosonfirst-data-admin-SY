@@ -10,6 +10,12 @@
     "geom:latitude":33.705815,
     "geom:longitude":36.361508,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "At Tall District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.708892,
     "lbl:longitude":36.349815,
     "meso:adm1_en":"Rural Damascus",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779105,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718735,
     "wof:name":"At Tall",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

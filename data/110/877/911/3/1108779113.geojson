@@ -10,6 +10,12 @@
     "geom:latitude":35.796633,
     "geom:longitude":37.552689,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "As-Safira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.789619,
     "lbl:longitude":37.547146,
     "meso:adm1_en":"Aleppo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779113,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718735,
     "wof:name":"As-Safira",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

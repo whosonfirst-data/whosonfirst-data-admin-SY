@@ -10,6 +10,12 @@
     "geom:latitude":35.890625,
     "geom:longitude":36.79113,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Idleb District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.935355,
     "lbl:longitude":36.761439,
     "meso:adm1_en":"Idleb",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779173,
-    "wof:lastmodified":1536615769,
+    "wof:lastmodified":1553718737,
     "wof:name":"Idleb",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

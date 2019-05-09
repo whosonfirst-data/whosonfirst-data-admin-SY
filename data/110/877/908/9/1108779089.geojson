@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189374,
-    "geom:area_square_m":1880782330.532917,
+    "geom:area_square_m":1880782330.532902,
     "geom:bbox":"36.542538,36.2980803746,37.047663,36.82892175",
     "geom:latitude":36.56401,
     "geom:longitude":36.790137,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Afrin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.573139,
     "lbl:longitude":36.785359,
     "meso:adm1_en":"Aleppo",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108779089,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037247,
     "wof:name":"Afrin",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

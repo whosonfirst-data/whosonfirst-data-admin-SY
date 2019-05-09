@@ -10,6 +10,12 @@
     "geom:latitude":35.556066,
     "geom:longitude":36.794925,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al Ma'ra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.573993,
     "lbl:longitude":36.794893,
     "meso:adm1_en":"Idleb",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779123,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718736,
     "wof:name":"Al Ma'ra",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

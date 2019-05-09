@@ -10,6 +10,12 @@
     "geom:latitude":34.898973,
     "geom:longitude":36.776153,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Ar-Rastan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.881942,
     "lbl:longitude":36.760455,
     "meso:adm1_en":"Homs",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779171,
-    "wof:lastmodified":1536615769,
+    "wof:lastmodified":1553718737,
     "wof:name":"Ar-Rastan",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

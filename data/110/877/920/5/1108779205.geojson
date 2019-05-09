@@ -10,6 +10,12 @@
     "geom:latitude":36.054642,
     "geom:longitude":37.97876,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Menbij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.911876,
     "lbl:longitude":37.923398,
     "meso:adm1_en":"Aleppo",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108779205,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718739,
     "wof:name":"Menbij",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

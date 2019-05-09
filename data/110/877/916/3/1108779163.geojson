@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056639,
-    "geom:area_square_m":569276999.110866,
+    "geom:area_square_m":569276999.11082,
     "geom:bbox":"35.9064139622,35.4841867639,36.2551688855,35.7887628748",
     "geom:latitude":35.62544,
     "geom:longitude":36.104666,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al-Haffa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.62045,
     "lbl:longitude":36.121861,
     "meso:adm1_en":"Lattakia",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108779163,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037245,
     "wof:name":"Al-Haffa",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

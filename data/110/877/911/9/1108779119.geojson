@@ -10,6 +10,12 @@
     "geom:latitude":36.699751,
     "geom:longitude":37.86037,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Jarablus District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.71214,
     "lbl:longitude":37.879113,
     "meso:adm1_en":"Aleppo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779119,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718736,
     "wof:name":"Jarablus",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

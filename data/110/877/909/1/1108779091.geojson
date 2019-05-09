@@ -10,6 +10,12 @@
     "geom:latitude":34.544667,
     "geom:longitude":36.564503,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al-Qusayr District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.538924,
     "lbl:longitude":36.564542,
     "meso:adm1_en":"Homs",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108779091,
-    "wof:lastmodified":1536615766,
+    "wof:lastmodified":1553718735,
     "wof:name":"Al-Qusayr",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

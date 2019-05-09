@@ -10,6 +10,12 @@
     "geom:latitude":35.454433,
     "geom:longitude":40.16979,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Deir-ez-Zor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.535062,
     "lbl:longitude":40.101042,
     "meso:adm1_en":"Deir-ez-Zor",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779157,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718737,
     "wof:name":"Deir-ez-Zor",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":34.810484,
     "geom:longitude":37.495494,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al Makhrim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.76236,
     "lbl:longitude":37.621542,
     "meso:adm1_en":"Homs",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779203,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718738,
     "wof:name":"Al Makhrim",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

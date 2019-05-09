@@ -10,6 +10,12 @@
     "geom:latitude":35.872824,
     "geom:longitude":36.316134,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Jisr-Ash-Shugur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.861331,
     "lbl:longitude":36.31611,
     "meso:adm1_en":"Idleb",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779207,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718739,
     "wof:name":"Jisr-Ash-Shugur",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

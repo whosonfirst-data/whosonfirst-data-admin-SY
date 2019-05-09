@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079677,
-    "geom:area_square_m":806465584.873039,
+    "geom:area_square_m":806465584.873049,
     "geom:bbox":"36.1487017645,34.8564095295,36.5350272106,35.2467537499",
     "geom:latitude":35.059168,
     "geom:longitude":36.368827,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Masyaf District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.063662,
     "lbl:longitude":36.35572,
     "meso:adm1_en":"Hama",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108779135,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037246,
     "wof:name":"Masyaf",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

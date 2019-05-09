@@ -10,6 +10,12 @@
     "geom:latitude":32.832191,
     "geom:longitude":35.735368,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al Fiq District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.829065,
     "lbl:longitude":35.735373,
     "meso:adm1_en":"Quneitra",
@@ -50,9 +56,9 @@
     "statoids:type":"district",
     "wof:belongsto":[
         102191569,
+        85632221,
         85632315,
         85678395,
-        85632221,
         85632413,
         85672545
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108779187,
-    "wof:lastmodified":1549930172,
+    "wof:lastmodified":1553718738,
     "wof:name":"Al Fiq",
     "wof:parent_id":-1,
     "wof:placetype":"county",

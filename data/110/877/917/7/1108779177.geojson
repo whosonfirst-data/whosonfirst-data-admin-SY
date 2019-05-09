@@ -10,6 +10,12 @@
     "geom:latitude":32.874424,
     "geom:longitude":36.180821,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Izra' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.877145,
     "lbl:longitude":36.2393,
     "meso:adm1_en":"Dar'a",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779177,
-    "wof:lastmodified":1536615769,
+    "wof:lastmodified":1553718737,
     "wof:name":"Izra'",
     "wof:parent_id":85678399,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":33.370346,
     "geom:longitude":36.031071,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Qatana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.379212,
     "lbl:longitude":36.01172,
     "meso:adm1_en":"Rural Damascus",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779139,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718737,
     "wof:name":"Qatana",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

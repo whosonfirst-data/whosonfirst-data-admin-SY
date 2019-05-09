@@ -10,6 +10,12 @@
     "geom:latitude":35.465186,
     "geom:longitude":36.333901,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "As-Suqaylabiyah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.434026,
     "lbl:longitude":36.336909,
     "meso:adm1_en":"Hama",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779099,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718735,
     "wof:name":"As-Suqaylabiyah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

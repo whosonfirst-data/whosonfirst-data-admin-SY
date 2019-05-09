@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251926,
-    "geom:area_square_m":2544413718.486114,
+    "geom:area_square_m":2544413718.486001,
     "geom:bbox":"36.4252914378,34.895308957,37.5001763401,35.5602964236",
     "geom:latitude":35.234214,
     "geom:longitude":36.896088,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Hama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.224024,
     "lbl:longitude":36.769791,
     "meso:adm1_en":"Hama",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108779115,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037247,
     "wof:name":"Hama",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.697156,
     "geom:longitude":40.141688,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Ras Al Ain District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.572512,
     "lbl:longitude":39.92025,
     "meso:adm1_en":"Al-Hasakeh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779083,
-    "wof:lastmodified":1536615766,
+    "wof:lastmodified":1553718735,
     "wof:name":"Ras Al Ain",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

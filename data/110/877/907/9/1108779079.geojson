@@ -10,6 +10,12 @@
     "geom:latitude":33.419945,
     "geom:longitude":37.684714,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Duma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.404151,
     "lbl:longitude":37.663672,
     "meso:adm1_en":"Rural Damascus",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108779079,
-    "wof:lastmodified":1536615766,
+    "wof:lastmodified":1553718734,
     "wof:name":"Duma",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

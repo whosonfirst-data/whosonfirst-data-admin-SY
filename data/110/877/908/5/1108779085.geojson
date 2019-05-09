@@ -10,6 +10,12 @@
     "geom:latitude":34.453052,
     "geom:longitude":38.861983,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Tadmor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.564859,
     "lbl:longitude":38.886709,
     "meso:adm1_en":"Homs",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779085,
-    "wof:lastmodified":1536615766,
+    "wof:lastmodified":1553718734,
     "wof:name":"Tadmor",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

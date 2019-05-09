@@ -10,6 +10,12 @@
     "geom:latitude":34.718992,
     "geom:longitude":36.291417,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Tall Kalakh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.715199,
     "lbl:longitude":36.245355,
     "meso:adm1_en":"Homs",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779181,
-    "wof:lastmodified":1536615769,
+    "wof:lastmodified":1553718738,
     "wof:name":"Tall Kalakh",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

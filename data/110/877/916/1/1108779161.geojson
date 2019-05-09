@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204049,
-    "geom:area_square_m":2031579256.231459,
+    "geom:area_square_m":2031579256.231577,
     "geom:bbox":"37.3093680318,36.0692057982,37.8650976039,36.7370344285",
     "geom:latitude":36.37111,
     "geom:longitude":37.559824,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al Bab District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.366271,
     "lbl:longitude":37.564004,
     "meso:adm1_en":"Aleppo",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108779161,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037245,
     "wof:name":"Al Bab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":34.833135,
     "geom:longitude":35.983442,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Tartous District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.860393,
     "lbl:longitude":35.959638,
     "meso:adm1_en":"Tartous",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779153,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718737,
     "wof:name":"Tartous",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

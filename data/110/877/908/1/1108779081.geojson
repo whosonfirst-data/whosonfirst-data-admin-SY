@@ -10,6 +10,12 @@
     "geom:latitude":33.106988,
     "geom:longitude":35.804905,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Quneitra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.105377,
     "lbl:longitude":35.808785,
     "meso:adm1_en":"Quneitra",
@@ -50,11 +56,11 @@
     "statoids:type":"district",
     "wof:belongsto":[
         102191569,
+        85672545,
         85632315,
         136253049,
-        85672545,
-        85678395,
         85632221,
+        85678395,
         85632413
     ],
     "wof:breaches":[],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108779081,
-    "wof:lastmodified":1551727595,
+    "wof:lastmodified":1553718734,
     "wof:name":"Quneitra",
     "wof:parent_id":-1,
     "wof:placetype":"county",

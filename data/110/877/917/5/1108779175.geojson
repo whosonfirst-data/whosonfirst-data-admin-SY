@@ -10,6 +10,12 @@
     "geom:latitude":35.295232,
     "geom:longitude":36.557424,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Muhradah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.295346,
     "lbl:longitude":36.554953,
     "meso:adm1_en":"Hama",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779175,
-    "wof:lastmodified":1536615769,
+    "wof:lastmodified":1553718737,
     "wof:name":"Muhradah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

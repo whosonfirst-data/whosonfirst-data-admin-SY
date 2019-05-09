@@ -10,6 +10,12 @@
     "geom:latitude":33.941722,
     "geom:longitude":36.487516,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Yabroud District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.953123,
     "lbl:longitude":36.473418,
     "meso:adm1_en":"Rural Damascus",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779155,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718737,
     "wof:name":"Yabroud",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

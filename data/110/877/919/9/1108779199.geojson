@@ -10,6 +10,12 @@
     "geom:latitude":32.754396,
     "geom:longitude":36.901945,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "As-Sweida District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.756027,
     "lbl:longitude":36.939181,
     "meso:adm1_en":"As-Sweida",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779199,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718738,
     "wof:name":"As-Sweida",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

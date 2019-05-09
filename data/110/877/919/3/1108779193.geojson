@@ -10,6 +10,12 @@
     "geom:latitude":36.857149,
     "geom:longitude":41.302819,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Quamishli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.856282,
     "lbl:longitude":41.450227,
     "meso:adm1_en":"Al-Hasakeh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779193,
-    "wof:lastmodified":1536615770,
+    "wof:lastmodified":1553718738,
     "wof:name":"Quamishli",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

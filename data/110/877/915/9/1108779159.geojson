@@ -10,6 +10,12 @@
     "geom:latitude":36.152082,
     "geom:longitude":36.574093,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Harim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.152252,
     "lbl:longitude":36.574024,
     "meso:adm1_en":"Idleb",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779159,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718737,
     "wof:name":"Harim",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

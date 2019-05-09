@@ -10,6 +10,12 @@
     "geom:latitude":35.453632,
     "geom:longitude":36.092824,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Al-Qardaha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.461845,
     "lbl:longitude":36.095815,
     "meso:adm1_en":"Lattakia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779127,
-    "wof:lastmodified":1536615767,
+    "wof:lastmodified":1553718736,
     "wof:name":"Al-Qardaha",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

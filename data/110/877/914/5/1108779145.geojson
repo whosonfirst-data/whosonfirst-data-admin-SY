@@ -10,6 +10,12 @@
     "geom:latitude":34.926704,
     "geom:longitude":36.14205,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Dreikish District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.926266,
     "lbl:longitude":36.157645,
     "meso:adm1_en":"Tartous",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108779145,
-    "wof:lastmodified":1536615768,
+    "wof:lastmodified":1553718736,
     "wof:name":"Dreikish",
     "wof:parent_id":85678349,
     "wof:placetype":"county",
