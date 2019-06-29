@@ -19,16 +19,10 @@
     "name:ces_x_preferred":[
         "Ma'agan"
     ],
-    "name:cze_x_preferred":[
-        "Ma'agan"
-    ],
     "name:eng_x_preferred":[
         "Ma'agan"
     ],
     "name:fra_x_preferred":[
-        "Maagan"
-    ],
-    "name:fre_x_preferred":[
         "Maagan"
     ],
     "name:heb_x_preferred":[
@@ -116,7 +110,7 @@
         }
     ],
     "wof:id":421193661,
-    "wof:lastmodified":1549930510,
+    "wof:lastmodified":1561851979,
     "wof:name":"Ma'Agan",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

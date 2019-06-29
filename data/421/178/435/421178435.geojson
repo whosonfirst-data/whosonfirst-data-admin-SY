@@ -19,26 +19,20 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0441\u0435\u0439\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u8cfd\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kusajr"
     ],
-    "name:dut_x_preferred":[
-        "Al-Qusayr"
+    "name:deu_x_preferred":[
+        "Kusseir"
     ],
     "name:eng_x_preferred":[
         "Al-Qusayr"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Qousseir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d9\u10e3\u10e1\u10d0\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kusseir"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e1\u05d9\u05d9\u05e8"
@@ -49,14 +43,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\uff1d\u30af\u30b5\u30a4\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10e3\u10e1\u10d0\u10d8\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc0ac\uc774\ub974"
     ],
+    "name:nld_x_preferred":[
+        "Al-Qusayr"
+    ],
     "name:nno_x_preferred":[
         "Al-Qusayr i Syria"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0635\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Al-Kusajr"
@@ -88,6 +85,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0642\u06cc\u0635\u06cc\u0631\u060c \u0634\u0627\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u8cfd\u723e"
     ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPLA2",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":421178435,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561851980,
     "wof:name":"Al Qusayr",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

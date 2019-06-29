@@ -22,13 +22,13 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0648\u062f"
     ],
-    "name:dut_x_preferred":[
-        "Jayrud"
-    ],
     "name:eng_x_preferred":[
         "Jayrud"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Jayrud"
+    ],
+    "name:nld_x_preferred":[
         "Jayrud"
     ],
     "name:nno_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125967165,
-    "wof:lastmodified":1514505879,
+    "wof:lastmodified":1561851982,
     "wof:name":"Jayr\u016bd",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",

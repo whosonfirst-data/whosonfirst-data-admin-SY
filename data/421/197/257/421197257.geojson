@@ -13,26 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Deraa"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u0631\u0639\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0715\u072a\u0725\u0710"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u057c\u0561\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u062f\u0631\u0639\u0627"
     ],
     "name:aze_x_preferred":[
         "Dera"
-    ],
-    "name:baq_x_preferred":[
-        "Daraa"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0981\u09b0\u09be"
@@ -49,19 +40,13 @@
     "name:ces_x_preferred":[
         "Dar'\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Dar'\u00e1"
-    ],
     "name:dan_x_preferred":[
         "Daraa"
     ],
     "name:deu_x_preferred":[
         "Dar\u02bf\u0101"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Daraa"
     ],
     "name:ell_x_preferred":[
@@ -76,6 +61,9 @@
     "name:est_x_preferred":[
         "Dar\u2018\u0101"
     ],
+    "name:eus_x_preferred":[
+        "Daraa"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0639\u0627"
     ],
@@ -84,18 +72,6 @@
     ],
     "name:fra_x_preferred":[
         "Deraa"
-    ],
-    "name:fre_x_preferred":[
-        "Deraa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Daraa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c1\u03ac\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0ab0\u0abe"
@@ -114,9 +90,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u057c\u0561\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Daraa"
     ],
     "name:ind_x_preferred":[
         "Daraa"
@@ -148,7 +121,7 @@
     "name:mar_x_preferred":[
         "\u0921\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daraa"
     ],
     "name:mzn_x_preferred":[
@@ -165,9 +138,6 @@
     ],
     "name:nor_x_preferred":[
         "Dar\u02bf\u0101"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0639\u0627"
     ],
     "name:pol_x_preferred":[
         "Dara"
@@ -189,6 +159,9 @@
     ],
     "name:spa_x_preferred":[
         "Daraa"
+    ],
+    "name:sqi_x_preferred":[
+        "Deraa"
     ],
     "name:swe_x_preferred":[
         "Dar'a"
@@ -270,7 +243,7 @@
         }
     ],
     "wof:id":421197257,
-    "wof:lastmodified":1527716401,
+    "wof:lastmodified":1561851980,
     "wof:name":"Dar a",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

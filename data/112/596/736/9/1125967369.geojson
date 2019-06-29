@@ -22,44 +22,38 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0628\u0644\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u0561\u0580\u0561\u0562\u0578\u0582\u056c\u0578\u0582\u057d"
-    ],
     "name:azb_x_preferred":[
         "\u062c\u0631\u0627\u0628\u0644\u0648\u0633"
     ],
     "name:cat_x_preferred":[
         "Jarablus"
     ],
-    "name:chi_x_preferred":[
-        "\u8cc8\u62c9\u5e03\u9b6f\u65af"
+    "name:ces_x_preferred":[
+        "D\u017ear\u00e1bulus"
     ],
     "name:ckb_x_preferred":[
         "\u062c\u06d5\u0631\u0627\u0628\u0644\u0648\u0633"
     ],
-    "name:cze_x_preferred":[
-        "D\u017ear\u00e1bulus"
+    "name:deu_x_preferred":[
+        "Dscharabulus"
     ],
     "name:diq_x_preferred":[
         "Cerablus"
     ],
-    "name:dut_x_preferred":[
-        "Jarabulus"
-    ],
     "name:eng_x_preferred":[
         "Jarabulus"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0627\u0628\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "Jarabulus"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jarabulus"
     ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d0\u10e0\u10d0\u10d1\u10e3\u10da\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dscharabulus"
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0580\u0561\u0562\u0578\u0582\u056c\u0578\u0582\u057d"
     ],
     "name:ita_x_preferred":[
         "Jarabulus"
@@ -67,20 +61,23 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30e9\u30fc\u30d6\u30eb\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10e0\u10d0\u10d1\u10e3\u10da\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\ube14\ub8e8\uc2a4"
     ],
     "name:kur_x_preferred":[
         "Cerabl\u00fbs"
     ],
+    "name:nld_x_preferred":[
+        "Jarabulus"
+    ],
     "name:nno_x_preferred":[
         "Jarabulus"
     ],
     "name:nob_x_preferred":[
         "Jarabulus"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0631\u0627\u0628\u0644\u0633"
     ],
     "name:pol_x_preferred":[
         "D\u017carabulus"
@@ -105,6 +102,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0627\u0628\u0644\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cc8\u62c9\u5e03\u9b6f\u65af"
     ],
     "qs_pg:aaroncc":"SY",
     "qs_pg:gn_country":"SY",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1125967369,
-    "wof:lastmodified":1514505879,
+    "wof:lastmodified":1561851982,
     "wof:name":"Jar\u0101bulus",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

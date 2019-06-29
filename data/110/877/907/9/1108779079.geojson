@@ -37,32 +37,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0574\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:chi_x_preferred":[
-        "\u675c\u99ac\u5340"
-    ],
     "name:eng_x_preferred":[
         "Duma"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
         "District de Douma"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10db\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0574\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30fc\u30de\u30fc\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10db\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0648\u0645\u0627"
     ],
     "name:nno_x_preferred":[
         "Douma-distriktet"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Duma"
@@ -81,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0645\u0627 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u99ac\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1108779079,
-    "wof:lastmodified":1553718734,
+    "wof:lastmodified":1561851973,
     "wof:name":"Duma",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

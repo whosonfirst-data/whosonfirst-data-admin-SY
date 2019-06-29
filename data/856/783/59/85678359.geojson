@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.00733,
-    "geom:area_square_m":20023564397.716072,
+    "geom:area_square_m":20023564397.716492,
     "geom:bbox":"36.542538,35.3804636924,38.7091199577,36.924123",
     "geom:latitude":36.221799,
     "geom:longitude":37.640748,
@@ -35,14 +35,8 @@
     "name:arc_x_preferred":[
         "\u071a\u0720\u0712"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u056c\u0565\u057a\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "H\u0259l\u0259b m\u00fchafazas\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Alepo eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u043b\u0435\u0431"
@@ -53,14 +47,11 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Alep"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u52d2\u9887\u7701"
+    "name:ces_x_preferred":[
+        "Aleppsk\u00e1 muh\u00e1faza"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062d\u06d5\u0644\u06d5\u0628"
-    ],
-    "name:cze_x_preferred":[
-        "Aleppsk\u00e1 muh\u00e1faza"
     ],
     "name:dan_x_preferred":[
         "Aleppo"
@@ -68,8 +59,11 @@
     "name:deu_x_preferred":[
         "Aleppo"
     ],
-    "name:dut_x_preferred":[
-        "Aleppo"
+    "name:deu_x_variant":[
+        "Gouvernement Aleppo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ad\u03c0\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "H'alab"
@@ -81,23 +75,20 @@
     "name:epo_x_preferred":[
         "Gubernio Alepo"
     ],
+    "name:eus_x_preferred":[
+        "Alepo eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062d\u0644\u0628"
+    ],
     "name:fin_x_preferred":[
         "Aleppon maakunta"
     ],
     "name:fra_x_preferred":[
         "Alep"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat d'Alep"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d4\u10de\u10dd\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Aleppo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03ad\u03c0\u03c0\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d7\u05dc\u05d1"
@@ -108,6 +99,9 @@
     "name:hun_x_preferred":[
         "Alepp\u00f3 korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056c\u0565\u057a\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Aleppo"
     ],
@@ -116,6 +110,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30e9\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d4\u10de\u10dd\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud560\ub77c\ube0c"
@@ -129,6 +126,9 @@
     "name:mzn_x_preferred":[
         "\u062d\u0644\u0628"
     ],
+    "name:nld_x_preferred":[
+        "Aleppo"
+    ],
     "name:nno_x_preferred":[
         "Aleppo guvernement"
     ],
@@ -137,9 +137,6 @@
     ],
     "name:nor_x_preferred":[
         "Aleppo"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062d\u0644\u0628"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062d\u0644\u0628"
@@ -150,7 +147,7 @@
     "name:por_x_preferred":[
         "Alepo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Alep"
     ],
     "name:rus_x_preferred":[
@@ -195,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u52d2\u9887"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u52d2\u9887\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYR",
@@ -318,7 +318,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561851958,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

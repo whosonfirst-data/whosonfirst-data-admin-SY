@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0627\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0576\u056b\u0561\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0438\u044f\u0441"
     ],
@@ -31,16 +28,7 @@
     "name:ces_x_preferred":[
         "Ban\u00edj\u00e1s"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5c3c\u4e9a\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Ban\u00edj\u00e1s"
-    ],
     "name:deu_x_preferred":[
-        "Baniyas"
-    ],
-    "name:dut_x_preferred":[
         "Baniyas"
     ],
     "name:ell_x_preferred":[
@@ -54,18 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Banias"
-    ],
-    "name:fre_x_preferred":[
-        "Banias"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d8\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Baniyas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03c5\u03ba\u03ac\u03c2-\u0392\u03b1\u03bb\u03b1\u03bd\u03ad\u03b1\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d9\u05d0\u05e1"
@@ -88,10 +64,13 @@
     "name:kab_x_preferred":[
         "Baniyas"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d8\u10d0\u10e1\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Banijasas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Baniyas"
     ],
     "name:nld_x_preferred":[
@@ -99,9 +78,6 @@
     ],
     "name:nno_x_preferred":[
         "Baniyas"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u06cc\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Banijas"
@@ -174,7 +150,7 @@
         }
     ],
     "wof:id":421190435,
-    "wof:lastmodified":1527716397,
+    "wof:lastmodified":1561851980,
     "wof:name":"Baniyas",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

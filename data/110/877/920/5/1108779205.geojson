@@ -37,20 +37,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0645\u0646\u0628\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0576\u0562\u056b\u057b\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:chi_x_preferred":[
-        "\u66fc\u6bd4\u5b63\u5340"
-    ],
     "name:eng_x_preferred":[
         "Manbij"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d1\u10d8\u10ef\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0576\u0562\u056b\u057b\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30d3\u30b8\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d1\u10d8\u10ef\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
     ],
     "name:nno_x_preferred":[
         "Manbij-distriktet"
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0646\u0628\u062c \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u6bd4\u5b63\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1108779205,
-    "wof:lastmodified":1553718739,
+    "wof:lastmodified":1561851974,
     "wof:name":"Menbij",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

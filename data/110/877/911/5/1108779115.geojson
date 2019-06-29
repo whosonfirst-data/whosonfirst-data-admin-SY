@@ -37,32 +37,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062d\u0645\u0627\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0574\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:chi_x_preferred":[
-        "\u54c8\u99ac\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Hama"
-    ],
     "name:eng_x_preferred":[
         "Markaz Hamah"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062d\u0645\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
         "District de Hama"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10db\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30de\u30fc\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10db\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Hama"
+    ],
     "name:nno_x_preferred":[
         "Hama-distriktet"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062d\u0645\u0627\u062a"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u0430"
@@ -81,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "\u0645\u0631\u0643\u0632 \u062d\u0645\u0627\u0629"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1108779115,
-    "wof:lastmodified":1555037247,
+    "wof:lastmodified":1561851974,
     "wof:name":"Hama",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

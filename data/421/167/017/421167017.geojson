@@ -16,20 +16,20 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0631\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Qarah"
-    ],
     "name:eng_x_preferred":[
         "Qarah"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
         "Qara"
+    ],
+    "name:nld_x_preferred":[
+        "Qarah"
     ],
     "name:nno_x_preferred":[
         "Qarah i Syria"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0631\u0629"
     ],
     "name:pol_x_preferred":[
         "Kara"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":421167017,
-    "wof:lastmodified":1527716160,
+    "wof:lastmodified":1561851979,
     "wof:name":"Qarah",
     "wof:parent_id":1108779095,
     "wof:placetype":"locality",

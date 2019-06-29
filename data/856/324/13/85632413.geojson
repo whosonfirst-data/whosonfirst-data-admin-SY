@@ -169,9 +169,6 @@
     "name:cym_x_preferred":[
         "Syria"
     ],
-    "name:cze_x_preferred":[
-        "S\u00fdrie"
-    ],
     "name:dan_x_preferred":[
         "Syrien"
     ],
@@ -609,9 +606,6 @@
     "name:ron_x_preferred":[
         "Siria"
     ],
-    "name:rum_x_preferred":[
-        "Siria"
-    ],
     "name:run_x_preferred":[
         "Siriya"
     ],
@@ -826,8 +820,7 @@
         "\u53d9\u5229\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u6558\u5229\u4e9e",
-        "\u53d9\u5229\u4e9a"
+        "\u6558\u5229\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u6558\u5229\u4e9e"
@@ -967,7 +960,7 @@
     },
     "wof:country":"SY",
     "wof:country_alpha3":"SYR",
-    "wof:geomhash":"7e9f764077aef80a04d46fd541b8c46d",
+    "wof:geomhash":"196c1c8770ecef92afab0fe536fd2614",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -986,7 +979,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1549501882,
+    "wof:lastmodified":1561851958,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

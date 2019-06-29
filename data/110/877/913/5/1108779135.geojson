@@ -37,32 +37,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0645\u0635\u064a\u0627\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u057d\u0575\u0561\u0586\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:chi_x_preferred":[
-        "\u9081\u65af\u4e9e\u592b\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Masyaf"
-    ],
     "name:eng_x_preferred":[
         "Masyaf"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0635\u06cc\u0627\u0641"
+    ],
+    "name:fra_x_preferred":[
         "District de Masyaf"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e1\u10d8\u10d0\u10e4\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u0575\u0561\u0586\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b9\u30e4\u30fc\u30d5\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e1\u10d8\u10d0\u10e4\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Masyaf"
+    ],
     "name:nno_x_preferred":[
         "Masyaf-distriktet"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0635\u06cc\u0627\u0641"
     ],
     "name:sco_x_preferred":[
         "Masyaf Destrict"
@@ -78,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "\u0645\u0635\u064a\u0627\u0641"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u65af\u4e9e\u592b\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1108779135,
-    "wof:lastmodified":1555037246,
+    "wof:lastmodified":1561851973,
     "wof:name":"Masyaf",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

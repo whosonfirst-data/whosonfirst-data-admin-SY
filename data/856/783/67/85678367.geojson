@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.195121,
-    "geom:area_square_m":42761619507.283669,
+    "geom:area_square_m":42761619507.284271,
     "geom:bbox":"36.1173964861,33.5415717295,40.2327747408,35.4000526971",
     "geom:latitude":34.476081,
     "geom:longitude":38.362551,
@@ -34,17 +34,11 @@
         "\u1e28im\u015f",
         "\u062d\u0645\u0635"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0574\u057d\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0645\u0635"
     ],
     "name:aze_x_preferred":[
         "Hims m\u00fchafazas\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Homs eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0425\u043e\u043c\u0441"
@@ -58,20 +52,20 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Homs"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u59c6\u65af\u7701"
+    "name:ces_x_preferred":[
+        "Guvernor\u00e1t Homs"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062d\u0648\u0645\u0633"
     ],
-    "name:cze_x_preferred":[
-        "Guvernor\u00e1t Homs"
-    ],
     "name:dan_x_preferred":[
         "Homs"
     ],
-    "name:dut_x_preferred":[
-        "Homs"
+    "name:deu_x_preferred":[
+        "Gouvernement Homs"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Homs (Hims)"
@@ -84,23 +78,20 @@
     "name:epo_x_preferred":[
         "Gubernio Homs"
     ],
+    "name:eus_x_preferred":[
+        "Homs eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062d\u0645\u0635"
+    ],
     "name:fin_x_preferred":[
         "Homsin maakunta"
     ],
     "name:fra_x_preferred":[
         "Homs"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Homs"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10db\u10e1\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Homs"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03bc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aae\u0acd\u0ab8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -114,11 +105,14 @@
     "name:hun_x_preferred":[
         "Homsz korm\u00e1nyz\u00f3s\u00e1g"
     ],
-    "name:ice_x_preferred":[
-        "Homsh\u00e9ra\u00f0"
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0574\u057d\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Homs"
+    ],
+    "name:isl_x_preferred":[
+        "Homsh\u00e9ra\u00f0"
     ],
     "name:ita_x_preferred":[
         "governatorato di Homs"
@@ -128,6 +122,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb9\u0cbe\u0cae\u0ccd\u0cb8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10db\u10e1\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud648\uc2a4 \uc8fc"
@@ -141,11 +138,14 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u092e\u094d\u0938 \u0917\u094b\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Homs"
     ],
     "name:mzn_x_preferred":[
         "\u062d\u0645\u0635"
+    ],
+    "name:nld_x_preferred":[
+        "Homs"
     ],
     "name:nno_x_preferred":[
         "Homs guvernement"
@@ -156,9 +156,6 @@
     "name:nor_x_preferred":[
         "Homs"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062d\u0645\u0635"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062d\u0645\u0635"
     ],
@@ -168,7 +165,7 @@
     "name:por_x_preferred":[
         "Homs"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Homs"
     ],
     "name:rus_x_preferred":[
@@ -215,6 +212,9 @@
     ],
     "name:vie_x_preferred":[
         "Homs"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u59c6\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYR",
@@ -341,7 +341,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561851959,
     "wof:name":"Homs (Hims)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

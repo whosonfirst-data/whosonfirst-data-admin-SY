@@ -17,23 +17,14 @@
     "name:afr_x_preferred":[
         "Ar-Raqqah"
     ],
-    "name:alb_x_preferred":[
-        "Rakka"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0642\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c-\u054c\u0561\u056f\u056f\u0561"
     ],
     "name:azb_x_preferred":[
         "\u0631\u0642\u0647"
     ],
     "name:aze_x_preferred":[
         "\u018fr-R\u0259qq\u0259"
-    ],
-    "name:baq_x_preferred":[
-        "Ar-Raqqa"
     ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u043a\u0430"
@@ -50,10 +41,7 @@
     "name:cat_x_preferred":[
         "Rakka"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Rakka"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +50,11 @@
     "name:deu_x_preferred":[
         "Ar-Raqqah"
     ],
-    "name:dut_x_preferred":[
-        "Ar-Raqqah"
+    "name:deu_x_variant":[
+        "Ar-Raqqa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ar Raqqah"
@@ -78,20 +69,17 @@
     "name:est_x_preferred":[
         "Ar-Raqqah"
     ],
+    "name:eus_x_preferred":[
+        "Ar-Raqqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0642\u0647"
+    ],
     "name:fin_x_preferred":[
         "Raqqa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Racca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ar-Raqqa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03ba\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Ar-Raqqa"
@@ -111,11 +99,14 @@
     "name:hun_x_preferred":[
         "Rakka"
     ],
-    "name:ice_x_preferred":[
-        "Al-Raqqah"
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u054c\u0561\u056f\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Ar-Raqqah"
+    ],
+    "name:isl_x_preferred":[
+        "Al-Raqqah"
     ],
     "name:ita_x_preferred":[
         "Al-Raqqa"
@@ -125,6 +116,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd-\u0cb0\u0c96\u0c96\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u049b\u049b\u0430"
@@ -144,16 +138,16 @@
     "name:lit_x_preferred":[
         "Raka"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u043a\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d16"
     ],
     "name:mar_x_preferred":[
         "\u0906\u0930-\u0930\u0915\u094d\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Ar-Raqqah"
     ],
     "name:mzn_x_preferred":[
@@ -161,6 +155,9 @@
     ],
     "name:nan_x_preferred":[
         "Al-Raqqah"
+    ],
+    "name:nld_x_preferred":[
+        "Ar-Raqqah"
     ],
     "name:nno_x_preferred":[
         "Ar-Raqqah"
@@ -174,9 +171,6 @@
     "name:oss_x_preferred":[
         "\u042d\u0440-\u0420\u0430\u043a\u043a\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0642\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0631\u0642\u06c1"
     ],
@@ -186,7 +180,7 @@
     "name:por_x_preferred":[
         "Raqqa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rakka"
     ],
     "name:rus_x_preferred":[
@@ -203,6 +197,9 @@
     ],
     "name:spa_x_preferred":[
         "Raqqa"
+    ],
+    "name:sqi_x_preferred":[
+        "Rakka"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u043a\u0430"
@@ -248,6 +245,9 @@
     ],
     "name:zea_x_preferred":[
         "Ar-Raqqah"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Syria",
@@ -388,7 +388,7 @@
         }
     ],
     "wof:id":421172833,
-    "wof:lastmodified":1514505906,
+    "wof:lastmodified":1561851979,
     "wof:name":"\u0627\u0644\u0631\u0642\u0629",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

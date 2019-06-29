@@ -16,17 +16,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u062a\u064a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u76d6\u5c14\u4e9a\u5ef7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Karajt\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Al-Qaryatayn"
+    "name:deu_x_preferred":[
+        "Karjatain"
     ],
     "name:eng_x_preferred":[
         "Al-Qaryatayn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u06cc\u062a\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Al-Qaryatayn"
@@ -37,11 +37,8 @@
     "name:fra_x_preferred":[
         "Quayatein"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Al-Qaryatayn"
-    ],
-    "name:ger_x_preferred":[
-        "Karjatain"
     ],
     "name:ita_x_preferred":[
         "Al-Qaryatayn"
@@ -49,11 +46,11 @@
     "name:kab_x_preferred":[
         "Qariten"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Al-Qaryatayn"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0642\u0631\u06cc\u062a\u06cc\u0646"
+    "name:nno_x_preferred":[
+        "Al-Qaryatayn"
     ],
     "name:pol_x_preferred":[
         "Al-Karjatajn"
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Nezala"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u5c14\u4e9a\u5ef7"
     ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPLA3",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":421170787,
-    "wof:lastmodified":1514505889,
+    "wof:lastmodified":1561851980,
     "wof:name":"Qariateine",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

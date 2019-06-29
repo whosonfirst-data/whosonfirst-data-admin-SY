@@ -25,23 +25,20 @@
     "name:ceb_x_preferred":[
         "Inkhil"
     ],
-    "name:dut_x_preferred":[
-        "Inkhil"
-    ],
     "name:eng_x_preferred":[
         "Inkhil"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u062e\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Inkhil"
+    ],
+    "name:nld_x_preferred":[
         "Inkhil"
     ],
     "name:nno_x_preferred":[
         "Inkhil"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062e\u0644"
     ],
     "name:pol_x_preferred":[
         "Inchil"
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421183843,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1561851980,
     "wof:name":"Inkhil",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

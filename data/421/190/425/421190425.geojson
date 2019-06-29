@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Amrit"
     ],
-    "name:dut_x_preferred":[
-        "Amrit"
-    ],
     "name:eng_x_preferred":[
         "Amrit"
     ],
@@ -35,12 +32,6 @@
         "\u0639\u0645\u0631\u06cc\u062a"
     ],
     "name:fra_x_preferred":[
-        "Amrit"
-    ],
-    "name:fre_x_preferred":[
-        "Amrit"
-    ],
-    "name:ger_x_preferred":[
         "Amrit"
     ],
     "name:hun_x_preferred":[
@@ -54,9 +45,6 @@
     ],
     "name:nld_x_preferred":[
         "Amrit"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u0645\u0631\u06cc\u062a"
     ],
     "name:pol_x_preferred":[
         "Amrit"
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421190425,
-    "wof:lastmodified":1527716390,
+    "wof:lastmodified":1561851979,
     "wof:name":"Amrit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

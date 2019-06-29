@@ -22,35 +22,29 @@
         "\u0635\u0627\u0641\u064a\u062a\u0627",
         "\u0628\u0631\u062c \u0635\u0627\u0641\u064a\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0586\u056b\u0569\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0444\u0438\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Safita"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u83f2\u6cf0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Safita"
     ],
     "name:eng_x_preferred":[
         "Safita"
     ],
-    "name:fre_x_preferred":[
-        "Safita"
+    "name:fas_x_preferred":[
+        "\u0635\u0627\u0641\u06cc\u062a\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e4\u10d8\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Safita"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05e4\u05d9\u05ea\u05d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0586\u056b\u0569\u0561"
     ],
     "name:ita_x_preferred":[
         "Safita"
@@ -58,14 +52,17 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30d5\u30a3\u30fc\u30bf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e4\u10d8\u10e2\u10d0"
+    ],
     "name:lit_x_preferred":[
+        "Safita"
+    ],
+    "name:nld_x_preferred":[
         "Safita"
     ],
     "name:nno_x_preferred":[
         "Safita"
-    ],
-    "name:per_x_preferred":[
-        "\u0635\u0627\u0641\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Safita"
@@ -90,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0641\u0679\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u83f2\u6cf0"
     ],
     "qs:name":"Satita",
     "qs:photos_9r":0,
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890449841,
-    "wof:lastmodified":1514505897,
+    "wof:lastmodified":1561851981,
     "wof:name":"Satita",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

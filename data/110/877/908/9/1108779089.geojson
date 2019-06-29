@@ -37,23 +37,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0639\u0641\u0631\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0586\u0580\u056b\u0576\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u592b\u6797\u533a"
-    ],
     "name:eng_x_preferred":[
         "Afrin"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e4\u10e0\u10d8\u10dc\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    "name:hye_x_preferred":[
+        "\u0531\u0586\u0580\u056b\u0576\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ita_x_preferred":[
         "Distretto di Afrin"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d5\u30ea\u30fc\u30f3\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e4\u10e0\u10d8\u10dc\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
     ],
     "name:nno_x_preferred":[
         "Afrin-distriktet"
@@ -78,6 +75,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u0641\u0631\u06cc\u0646 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u592b\u6797\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1108779089,
-    "wof:lastmodified":1555037247,
+    "wof:lastmodified":1561851973,
     "wof:name":"Afrin",
     "wof:parent_id":85678359,
     "wof:placetype":"county",
