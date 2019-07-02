@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.767013,
-    "geom:area_square_m":17673521482.945057,
+    "geom:area_square_m":17673521482.94471,
     "geom:bbox":"38.0587151266,35.2784918123,39.9017496113,36.7715351511",
     "geom:latitude":36.012193,
     "geom:longitude":38.994668,
@@ -32,14 +32,8 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u0642\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c-\u054c\u0561\u056f\u056f\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "\u018fr-R\u0259qq\u0259 m\u00fchafazas\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Ar-Raqqa eskualdea"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0440-\u0420\u0430\u043a\u043a\u0430"
@@ -47,17 +41,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Ar-Raqq\u00e0"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5361\u7701"
+    "name:ces_x_preferred":[
+        "Guvernor\u00e1t Rakka"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0695\u06d5\u0642\u0642\u06d5"
     ],
-    "name:cze_x_preferred":[
-        "Guvernor\u00e1t Rakka"
+    "name:deu_x_preferred":[
+        "Gouvernement ar-Raqqa"
     ],
-    "name:dut_x_preferred":[
-        "Ar-Raqqah"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1 \u03a1\u03b1\u03ba\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Ar Raqqah"
@@ -70,23 +64,20 @@
     "name:epo_x_preferred":[
         "Gubernio Ar-Raka"
     ],
+    "name:eus_x_preferred":[
+        "Ar-Raqqa eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0642\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al-Raqqan maakunta"
     ],
     "name:fra_x_preferred":[
         "Ar-Raqqa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Racca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da-\u10e0\u10d0\u10d9\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement ar-Raqqa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1 \u03a1\u03b1\u03ba\u03ba\u03ac"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d0-\u05e8\u05e7\u05d4"
@@ -97,6 +88,9 @@
     "name:hun_x_preferred":[
         "Rakka korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u054c\u0561\u056f\u056f\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Ar-Raqqah"
     ],
@@ -105,6 +99,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30c3\u30ab\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da-\u10e0\u10d0\u10d9\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub77d\uae4c \uc8fc"
@@ -115,11 +112,14 @@
     "name:lit_x_preferred":[
         "Rakos muchafaza"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0430\u043a\u0430"
     ],
     "name:mzn_x_preferred":[
         "\u0631\u0642\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Ar-Raqqah"
     ],
     "name:nno_x_preferred":[
         "Ar-Raqqah guvernement"
@@ -130,9 +130,6 @@
     "name:nor_x_preferred":[
         "Ar-Raqqah"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0642\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0631\u0642\u06c1"
     ],
@@ -142,7 +139,7 @@
     "name:por_x_preferred":[
         "Ar-Raqqah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Ar-Raqqa"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +181,9 @@
     ],
     "name:vie_x_preferred":[
         "Ar-Raqqah"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5361\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYR",
@@ -309,7 +309,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561851959,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

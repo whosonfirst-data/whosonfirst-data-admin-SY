@@ -22,23 +22,14 @@
     "name:afr_x_preferred":[
         "Latakia"
     ],
-    "name:alb_x_preferred":[
-        "Latakia"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0627\u0630\u0642\u064a\u0629"
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u057f\u0561\u056f\u056b\u0561"
-    ],
     "name:aze_x_preferred":[
         "\u018fl-Laziqiyy\u0259"
-    ],
-    "name:baq_x_preferred":[
-        "Latakia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0442\u0430\u043a\u0456\u044f"
@@ -55,19 +46,16 @@
     "name:ces_x_preferred":[
         "L\u00e1zik\u00edja"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5854\u57fa\u4e9a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Lat\u00e1kie"
+    ],
+    "name:cym_x_preferred":[
+        "Latakia"
     ],
     "name:dan_x_preferred":[
         "Latakia"
     ],
     "name:deu_x_preferred":[
-        "Latakia"
-    ],
-    "name:dut_x_preferred":[
         "Latakia"
     ],
     "name:ell_x_preferred":[
@@ -94,18 +82,6 @@
     "name:fra_x_preferred":[
         "Lattaqui\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Lattaqui\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d7\u10d0\u10d9\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Latakia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03c4\u03c4\u03ac\u03ba\u03b5\u03b9\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0a9f\u0abe\u0a95\u0abf\u0aaf\u0abe"
     ],
@@ -126,6 +102,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0569\u0561\u056f\u056b\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0561\u057f\u0561\u056f\u056b\u0561"
     ],
     "name:ile_x_preferred":[
         "Latakia"
@@ -169,17 +148,17 @@
     "name:lit_x_preferred":[
         "Latakija"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0442\u0430\u043a\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u091f\u0915\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Latakia"
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0442\u0430\u043a\u0438\u0458\u0430"
     ],
     "name:mon_x_preferred":[
         "\u041b\u0430\u0442\u0430\u043a\u0438\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Latakia"
     ],
     "name:mzn_x_preferred":[
         "\u0644\u0627\u0630\u0642\u06cc\u0647"
@@ -198,9 +177,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041b\u0430\u0442\u0430\u043a\u0438"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0630\u0642\u06cc\u0647"
     ],
     "name:pms_x_preferred":[
         "Laodicea"
@@ -224,6 +200,9 @@
         "Latakija"
     ],
     "name:spa_x_preferred":[
+        "Latakia"
+    ],
+    "name:sqi_x_preferred":[
         "Latakia"
     ],
     "name:srp_x_preferred":[
@@ -263,9 +242,6 @@
         "Latakia"
     ],
     "name:war_x_preferred":[
-        "Latakia"
-    ],
-    "name:wel_x_preferred":[
         "Latakia"
     ],
     "name:xmf_x_preferred":[
@@ -313,7 +289,7 @@
         }
     ],
     "wof:id":1125980503,
-    "wof:lastmodified":1514505882,
+    "wof:lastmodified":1561851982,
     "wof:name":"Latakia",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

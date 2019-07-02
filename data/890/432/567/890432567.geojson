@@ -25,14 +25,8 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u062f\u0644\u0628"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0564\u056c\u056b\u0562"
-    ],
     "name:aze_x_preferred":[
         "\u0130dlib"
-    ],
-    "name:baq_x_preferred":[
-        "Idlib"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0434\u043b\u0456\u0431"
@@ -46,10 +40,7 @@
     "name:cat_x_preferred":[
         "Idlib"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5fb7\u5229\u535c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Idlib"
     ],
     "name:dan_x_preferred":[
@@ -58,13 +49,16 @@
     "name:deu_x_preferred":[
         "Idlib"
     ],
-    "name:dut_x_preferred":[
-        "Idlib"
+    "name:ell_x_preferred":[
+        "\u038a\u03bd\u03c4\u03b9\u03bb\u03b9\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Idlib"
     ],
     "name:epo_x_preferred":[
+        "Idlib"
+    ],
+    "name:eus_x_preferred":[
         "Idlib"
     ],
     "name:fas_x_preferred":[
@@ -76,17 +70,8 @@
     "name:fra_x_preferred":[
         "Idlib"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Idleb"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d3\u10da\u10d8\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Idlib"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03bd\u03c4\u03b9\u03bb\u03b9\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0aa1\u0ab2\u0abf\u0aac"
@@ -100,10 +85,10 @@
     "name:hye_x_preferred":[
         "\u053b\u0564\u056c\u056b\u0562"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Idlib"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Idlib"
     ],
     "name:ita_x_preferred":[
@@ -114,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0ca1\u0ccd\u0cb2\u0cbf\u0cac\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d3\u10da\u10d8\u10d1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc774\ub4e4\ub9ac\ube0c"
@@ -127,11 +115,14 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u0921\u093f\u0932\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Idlib"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u062f\u0644\u0628"
+    ],
+    "name:nld_x_preferred":[
+        "Idlib"
     ],
     "name:nno_x_preferred":[
         "Idlib"
@@ -144,9 +135,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0418\u0434\u043b\u0438\u0431"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u062f\u0644\u0628"
     ],
     "name:pol_x_preferred":[
         "Idlib"
@@ -327,7 +315,7 @@
         }
     ],
     "wof:id":890432567,
-    "wof:lastmodified":1527793032,
+    "wof:lastmodified":1561851982,
     "wof:name":"Idlib",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

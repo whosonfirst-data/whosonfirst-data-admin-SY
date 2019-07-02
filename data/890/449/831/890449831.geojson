@@ -21,26 +21,26 @@
     "name:ara_x_variant":[
         "\u0635\u0648\u0631\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u0580\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u0443\u0440\u0430\u043d"
-    ],
-    "name:dut_x_preferred":[
-        "Suran"
     ],
     "name:eng_x_preferred":[
         "Suran"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0631\u0627\u0646 \u0633\u0648\u0631\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Souran"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0580\u0561\u0576"
+    ],
+    "name:nld_x_preferred":[
+        "Suran"
     ],
     "name:nno_x_preferred":[
         "Suran"
-    ],
-    "name:per_x_preferred":[
-        "\u0635\u0648\u0631\u0627\u0646 \u0633\u0648\u0631\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Suran"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890449831,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561851981,
     "wof:name":"Souran",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

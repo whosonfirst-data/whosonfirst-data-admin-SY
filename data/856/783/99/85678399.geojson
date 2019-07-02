@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375061,
-    "geom:area_square_m":3895937215.867512,
+    "geom:area_square_m":3895937215.867302,
     "geom:bbox":"35.7605052877,32.3599034689,36.5712978701,33.2963956136",
     "geom:latitude":32.85305,
     "geom:longitude":36.223056,
@@ -36,29 +36,23 @@
     "name:arc_x_preferred":[
         "\u0715\u072a\u0725\u0710"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u057c\u0561\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Daraa eskualdea"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0430\u0430"
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Daraa"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9\u7701"
+    "name:ces_x_preferred":[
+        "Guvernor\u00e1t Dar'\u00e1"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062f\u06d5\u0631\u0639\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Guvernor\u00e1t Dar'\u00e1"
+    "name:deu_x_preferred":[
+        "Gouvernement Dar'a"
     ],
-    "name:dut_x_preferred":[
-        "Daraa"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1\u03ac\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dar`a"
@@ -70,29 +64,29 @@
     "name:epo_x_preferred":[
         "Gubernio Daraa"
     ],
+    "name:eus_x_preferred":[
+        "Daraa eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0631\u0639\u0627"
+    ],
     "name:fin_x_preferred":[
         "Dar'an maakunta"
     ],
     "name:fra_x_preferred":[
         "Deraa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Deraa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Dar'a"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c1\u03ac\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d3\u05e8\u05e2\u05d0"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0930\u0906 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057c\u0561\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Daraa"
@@ -103,6 +97,9 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30eb\u30a2\u30fc\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\ub77c \uc8fc"
     ],
@@ -111,6 +108,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0631\u0639\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Daraa"
     ],
     "name:nno_x_preferred":[
         "Daraa guvernement"
@@ -121,9 +121,6 @@
     "name:nor_x_preferred":[
         "Dara"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0631\u0639\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u0631\u0639\u0627"
     ],
@@ -133,7 +130,7 @@
     "name:por_x_preferred":[
         "Dara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Daraa"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05d0\u05e8\u05d0 \u05d2\u05d5\u05d1\u05e2\u05e8\u05e0\u05d9\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYR",
@@ -301,7 +301,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561851959,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

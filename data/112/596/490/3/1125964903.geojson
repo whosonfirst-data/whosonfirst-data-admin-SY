@@ -22,38 +22,35 @@
     "name:ara_x_preferred":[
         "\u0642\u0637\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u057f\u0561\u0576\u0561"
-    ],
     "name:aze_x_preferred":[
         "Katana"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u84cb\u6cf0\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Katana"
-    ],
-    "name:dut_x_preferred":[
-        "Qatana"
     ],
     "name:eng_x_preferred":[
         "Qatana"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0637\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Qatana"
     ],
-    "name:geo_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057f\u0561\u0576\u0561"
+    ],
+    "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e2\u10d0\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Qatana"
     ],
     "name:nno_x_preferred":[
         "Qatana"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0637\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Katana"
@@ -72,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0637\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u6cf0\u7d0d"
     ],
     "qs_pg:aaroncc":"SY",
     "qs_pg:gn_country":"SY",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125964903,
-    "wof:lastmodified":1514505890,
+    "wof:lastmodified":1561851982,
     "wof:name":"Qa\u0163an\u0101",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

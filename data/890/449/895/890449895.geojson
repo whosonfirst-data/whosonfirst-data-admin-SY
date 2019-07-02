@@ -18,17 +18,17 @@
     "name:ara_x_preferred":[
         "\u0647\u062c\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u057b\u056b\u0576"
-    ],
-    "name:dut_x_preferred":[
-        "Hajin"
-    ],
     "name:eng_x_preferred":[
         "Hajin"
     ],
-    "name:geo_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057b\u056b\u0576"
+    ],
+    "name:kat_x_preferred":[
         "\u10ee\u10d0\u10ef\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Hajin"
     ],
     "name:nno_x_preferred":[
         "Hajin"
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890449895,
-    "wof:lastmodified":1514505846,
+    "wof:lastmodified":1561851981,
     "wof:name":"Haj\u012bn",
     "wof:parent_id":1108779185,
     "wof:placetype":"locality",

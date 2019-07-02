@@ -17,9 +17,6 @@
     "name:afr_x_preferred":[
         "Homs"
     ],
-    "name:alb_x_preferred":[
-        "Homs"
-    ],
     "name:ara_x_preferred":[
         "\u062d\u0645\u0635"
     ],
@@ -30,9 +27,6 @@
     "name:arc_x_preferred":[
         "\u071a\u0721\u0728"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0574\u057d"
-    ],
     "name:arz_x_preferred":[
         "\u062d\u0645\u0635"
     ],
@@ -40,9 +34,6 @@
         "\u0425\u0406\u0443\u043c\u0441"
     ],
     "name:aze_x_preferred":[
-        "Homs"
-    ],
-    "name:baq_x_preferred":[
         "Homs"
     ],
     "name:bel_x_preferred":[
@@ -63,11 +54,11 @@
     "name:cat_x_preferred":[
         "Homs"
     ],
+    "name:ces_x_preferred":[
+        "Homs"
+    ],
     "name:che_x_preferred":[
         "\u0425\u044c\u043e\u043c\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u970d\u59c6\u65af"
     ],
     "name:chv_x_preferred":[
         "\u0425\u043e\u043c\u0441"
@@ -75,16 +66,13 @@
     "name:ckb_x_preferred":[
         "\u062d\u0648\u0645\u0633"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Homs"
     ],
     "name:dan_x_preferred":[
         "Homs"
     ],
     "name:deu_x_preferred":[
-        "Homs"
-    ],
-    "name:dut_x_preferred":[
         "Homs"
     ],
     "name:ell_x_historical":[
@@ -120,20 +108,8 @@
     "name:fra_x_preferred":[
         "Homs"
     ],
-    "name:fre_x_preferred":[
-        "Homs"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10db\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Homs"
-    ],
     "name:gle_x_preferred":[
         "Homs"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03bc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aae\u0acd\u0ab8"
@@ -153,13 +129,13 @@
     "name:hye_x_preferred":[
         "\u0540\u0578\u0574\u057d"
     ],
-    "name:ice_x_preferred":[
-        "Homs"
-    ],
     "name:ile_x_preferred":[
         "Homs"
     ],
     "name:ind_x_preferred":[
+        "Homs"
+    ],
+    "name:isl_x_preferred":[
         "Homs"
     ],
     "name:ita_x_preferred":[
@@ -204,7 +180,7 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u092e\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Homs"
     ],
     "name:nan_x_preferred":[
@@ -225,16 +201,13 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a3f\u0a2e\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u0645\u0635"
-    ],
     "name:pol_x_preferred":[
         "Hims"
     ],
     "name:por_x_preferred":[
         "Homs"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Homs"
     ],
     "name:rus_x_preferred":[
@@ -249,10 +222,13 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0ddd\u0db8\u0dca\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Homs"
     ],
     "name:spa_x_preferred":[
+        "Homs"
+    ],
+    "name:sqi_x_preferred":[
         "Homs"
     ],
     "name:srp_x_preferred":[
@@ -295,9 +271,6 @@
         "Homs"
     ],
     "name:war_x_preferred":[
-        "Homs"
-    ],
-    "name:wel_x_preferred":[
         "Homs"
     ],
     "name:zho_x_preferred":[
@@ -442,7 +415,7 @@
         }
     ],
     "wof:id":421168647,
-    "wof:lastmodified":1514505911,
+    "wof:lastmodified":1561851979,
     "wof:name":"\u062d\u0645\u0635",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

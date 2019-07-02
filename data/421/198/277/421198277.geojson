@@ -19,26 +19,23 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0634\u064a\u062e \u0645\u0633\u0643\u064a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u590f\u8d6b\u746a\u65af\u91d1"
-    ],
-    "name:dut_x_preferred":[
-        "Al-Shaykh Maskin"
-    ],
     "name:eng_x_preferred":[
         "Al-Shaykh Maskin"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u06cc\u062e \u0645\u0633\u06a9\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Cheikh Meskin"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d0\u10da-\u10e8\u10d4\u10d8\u10ee-\u10db\u10d0\u10e1\u10e5\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Shaykh Maskin"
     ],
     "name:nno_x_preferred":[
         "Al-Shaykh Maskin"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0634\u06cc\u062e \u0645\u0633\u06a9\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Asz-Szajch Maskin"
@@ -51,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Chikh Meskine"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u590f\u8d6b\u746a\u65af\u91d1"
     ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":421198277,
-    "wof:lastmodified":1514505897,
+    "wof:lastmodified":1561851979,
     "wof:name":"Shaykh Miskin",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

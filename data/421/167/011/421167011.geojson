@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0628\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0570\u0562\u0561"
-    ],
     "name:bre_x_preferred":[
         "Shahba"
     ],
@@ -31,13 +28,7 @@
     "name:ceb_x_preferred":[
         "Shahb\u0101"
     ],
-    "name:chi_x_preferred":[
-        "\u820d\u8d6b\u5df4"
-    ],
     "name:cym_x_preferred":[
-        "Shahba"
-    ],
-    "name:dut_x_preferred":[
         "Shahba"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Chahba"
-    ],
-    "name:fre_x_preferred":[
-        "Chahba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10f0\u10d1\u10d0"
     ],
     "name:hbs_x_preferred":[
         "\u0160ahba"
@@ -70,6 +55,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30cf\u30d0"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10f0\u10d1\u10d0"
+    ],
     "name:lat_x_preferred":[
         "Philippopolis"
     ],
@@ -81,9 +69,6 @@
     ],
     "name:nno_x_preferred":[
         "Shahba"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0628\u0627"
     ],
     "name:pol_x_preferred":[
         "Szahba"
@@ -108,9 +93,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0628\u0627"
-    ],
-    "name:wel_x_preferred":[
-        "Shahba"
     ],
     "name:zho_x_preferred":[
         "\u820d\u8d6b\u5df4"
@@ -165,7 +147,7 @@
         }
     ],
     "wof:id":421167011,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1561851979,
     "wof:name":"Shahba'",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

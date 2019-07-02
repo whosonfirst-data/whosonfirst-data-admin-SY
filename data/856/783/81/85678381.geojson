@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.439493,
-    "geom:area_square_m":24665261672.795448,
+    "geom:area_square_m":24665261672.795979,
     "geom:bbox":"39.2469993176,34.1118700563,41.2785560927,36.3290867219",
     "geom:latitude":35.143936,
     "geom:longitude":40.316752,
@@ -32,17 +32,11 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0575\u0580-\u0567\u056c-\u0536\u0578\u0580\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
     ],
     "name:aze_x_preferred":[
         "Deyr \u0259z-Zor m\u00fchafazas\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Dayr az Zawr eskualdea"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u098f\u09b0 \u098f\u099c-\u099c\u09b0 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
@@ -53,20 +47,20 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Deir ez-Zor"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u5c14\u7956\u5c14\u7701"
+    "name:ces_x_preferred":[
+        "Guvernor\u00e1t Dajr az-Zaur"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062f\u06d5\u06cc\u0631 \u0626\u06d5\u0644\u0632\u06c6\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Guvernor\u00e1t Dajr az-Zaur"
-    ],
     "name:dan_x_preferred":[
         "Deir ez-Zor Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Deir ez-Zor"
+    "name:deu_x_preferred":[
+        "Gouvernement Deir ez-Zor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b5\u03b6-\u0396\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Dayr az Zawr"
@@ -78,23 +72,20 @@
     "name:epo_x_preferred":[
         "Gubernio Dair az-Za\u016dr"
     ],
+    "name:eus_x_preferred":[
+        "Dayr az Zawr eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Dayr al-Zawrin maakunta"
     ],
     "name:fra_x_preferred":[
         "Deir ez-Zor"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Deir ez-Zor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10da-\u10d6\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Deir ez-Zor"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b5\u03b6-\u0396\u03bf\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0a87\u0ab0 \u0a87\u0a9d-\u0a9d\u0acb\u0ab0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -108,6 +99,9 @@
     "name:hun_x_preferred":[
         "Dajr ez-Zaur korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0575\u0580-\u0567\u056c-\u0536\u0578\u0580\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Dayr az-Zawr"
     ],
@@ -119,6 +113,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca1\u0cbf\u0caf\u0cb0\u0ccd \u0c87\u0c9c\u0ccd-\u0c9d\u0ccb\u0cb0\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10da-\u10d6\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub370\uc774\ub974\uc5d0\uc870\ub974 \uc8fc"
@@ -132,11 +129,14 @@
     "name:mar_x_preferred":[
         "\u0926\u0947\u0905\u0930 \u090f\u091d-\u091d\u094b\u0930 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Deir ez-Zor Governorate"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Deir ez-Zor"
     ],
     "name:nno_x_preferred":[
         "Deir ez-Zor guvernement"
@@ -147,9 +147,6 @@
     "name:nor_x_preferred":[
         "Deir ez-Zor"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u06cc\u0631 \u0627\u0632-\u0632\u0648\u0631"
     ],
@@ -159,7 +156,7 @@
     "name:por_x_preferred":[
         "Deir ez-Zor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Deir ez-Zor"
     ],
     "name:rus_x_preferred":[
@@ -213,6 +210,9 @@
     ],
     "name:vie_x_preferred":[
         "Deir ez-Zor"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5c14\u7956\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYR",
@@ -338,7 +338,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561851959,
     "wof:name":"Days Az Zawr",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
