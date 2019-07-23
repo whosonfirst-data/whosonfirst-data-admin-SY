@@ -85,6 +85,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0644\u06a9\u0644\u062e"
     ],
+    "name:vie_x_preferred":[
+        "Talkalakh"
+    ],
     "name:zho_x_preferred":[
         "\u6cf0\u52d2\u51f1\u840a\u8d6b"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421182445,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919066,
     "wof:name":"Tall Kalakh",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

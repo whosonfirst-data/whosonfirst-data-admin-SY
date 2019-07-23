@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16677485.740863,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.309312,33.511879,36.309312,33.511879",
     "geom:latitude":33.511879,
     "geom:longitude":36.309312,
@@ -45,9 +45,15 @@
     "name:eng_x_preferred":[
         "Qanawat"
     ],
+    "name:spa_x_preferred":[
+        "Al-Qanawat"
+    ],
     "name:unk_x_variant":[
         "Kanawat",
         "Al Qanaw\u00e5t"
+    ],
+    "name:vie_x_preferred":[
+        "Qanawat"
     ],
     "qs:gn_adm0_cc":"SY",
     "qs:gn_fcode":"PPLX",
@@ -82,10 +88,10 @@
     "wd:longitude":36.295111,
     "wd:wordcount":219,
     "wof:belongsto":[
+        85678403,
         102191569,
         85632413,
-        1108779107,
-        85678403
+        1108779107
     ],
     "wof:breaches":[
         85903035
@@ -114,7 +120,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935993,
+    "wof:lastmodified":1563918113,
     "wof:name":"Al Qanaw\u00e5t",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

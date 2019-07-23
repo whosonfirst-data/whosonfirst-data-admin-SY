@@ -25,11 +25,17 @@
     "name:cat_x_preferred":[
         "Chahba"
     ],
+    "name:cat_x_variant":[
+        "Shahba"
+    ],
     "name:ceb_x_preferred":[
         "Shahb\u0101"
     ],
     "name:cym_x_preferred":[
         "Shahba"
+    ],
+    "name:deu_x_preferred":[
+        "Schahba"
     ],
     "name:eng_x_preferred":[
         "Shahba"
@@ -42,6 +48,9 @@
     ],
     "name:hbs_x_preferred":[
         "\u0160ahba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d1\u05d4"
     ],
     "name:hun_x_preferred":[
         "Sahba"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":421167011,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919039,
     "wof:name":"Shahba'",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

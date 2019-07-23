@@ -45,8 +45,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0434\u0435\u0444"
     ],
+    "name:tur_x_preferred":[
+        "Tadif"
+    ],
     "name:unk_x_variant":[
         "Teft"
+    ],
+    "name:vie_x_preferred":[
+        "Tadef"
     ],
     "qs:name":"T\u0101dif",
     "qs:photos_9r":0,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890449829,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919067,
     "wof:name":"T\u0101dif",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

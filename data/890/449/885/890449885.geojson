@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Al-Tall"
     ],
+    "name:epo_x_preferred":[
+        "Al-Tall"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u0644"
     ],
@@ -60,6 +63,12 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u062a\u0644\u060c \u0634\u0627\u0645"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u062a\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Tall"
+    ],
     "qs:name":"At Tall",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890449885,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919074,
     "wof:name":"At Tall",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Quneitra"
     ],
+    "name:ceb_x_preferred":[
+        "Al Qunay\u0163irah"
+    ],
     "name:ces_x_preferred":[
         "Kunejtra"
     ],
@@ -100,6 +103,9 @@
     "name:por_x_preferred":[
         "Quneitra"
     ],
+    "name:ron_x_preferred":[
+        "Quneitra"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041a\u0443\u043d\u0435\u0439\u0442\u0440\u0430"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:swe_x_preferred":[
         "Al-Qunaytirah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e01\u0e38\u0e19\u0e31\u0e22\u0e0f\u0e34\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kuneytire"
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":1125979117,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919082,
     "wof:name":"Al Qunay\u0163irah",
     "wof:parent_id":1108779081,
     "wof:placetype":"locality",

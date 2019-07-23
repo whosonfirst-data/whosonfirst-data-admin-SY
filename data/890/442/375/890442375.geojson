@@ -25,11 +25,20 @@
     "name:aze_x_preferred":[
         "Duma"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u043c\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0430"
     ],
     "name:cat_x_preferred":[
         "Duma"
+    ],
+    "name:ceb_x_preferred":[
+        "Douma"
+    ],
+    "name:ces_x_preferred":[
+        "D\u00fam\u00e1"
     ],
     "name:deu_x_preferred":[
         "Duma"
@@ -55,6 +64,12 @@
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0574\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Douma"
+    ],
+    "name:ita_x_preferred":[
+        "Duma"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30fc\u30de\u30fc"
     ],
@@ -76,6 +91,9 @@
     "name:por_x_preferred":[
         "Douma"
     ],
+    "name:ron_x_preferred":[
+        "Douma"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043c\u0430"
     ],
@@ -88,6 +106,9 @@
     "name:swe_x_preferred":[
         "Duma"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e39\u0e21\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Duma"
     ],
@@ -96,6 +117,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0645\u0627\u060c \u0634\u0627\u0645"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Douma"
     ],
     "name:zho_x_preferred":[
         "\u675c\u99ac"
@@ -225,7 +252,7 @@
         }
     ],
     "wof:id":890442375,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919079,
     "wof:name":"Douma",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

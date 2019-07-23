@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Yabrud"
     ],
+    "name:ceb_x_preferred":[
+        "Yabr\u016bd"
+    ],
     "name:deu_x_preferred":[
         "Yabrud"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10d1\u10e0\u10e3\u10d3\u10d8"
+    ],
+    "name:lat_x_preferred":[
+        "Iabruda"
     ],
     "name:nld_x_preferred":[
         "Yabrud"
@@ -78,6 +84,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0628\u0631\u0648\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Yabroud"
     ],
     "name:zho_x_preferred":[
         "\u90a3\u535c\u9b6f\u5fb7"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1125962359,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919083,
     "wof:name":"Yabr\u016bd",
     "wof:parent_id":1108779155,
     "wof:placetype":"locality",

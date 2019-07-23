@@ -20,6 +20,9 @@
     "name:ace_x_preferred":[
         "Damsyik"
     ],
+    "name:ace_x_variant":[
+        "Damaskus"
+    ],
     "name:ady_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
     ],
@@ -50,14 +53,23 @@
     "name:ava_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0448\u043a\u044a"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0645\u0634\u0642"
+    ],
     "name:aze_x_preferred":[
         "D\u0259m\u0259\u015fq"
     ],
     "name:bak_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
     ],
+    "name:bcl_x_preferred":[
+        "Damascus"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0430\u043c\u0430\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09ae\u09c7\u09b8\u09cd\u0995"
@@ -84,6 +96,9 @@
         "Damasc"
     ],
     "name:cdo_x_preferred":[
+        "Damascus"
+    ],
+    "name:ceb_x_preferred":[
         "Damascus"
     ],
     "name:ces_x_preferred":[
@@ -209,6 +224,9 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u0574\u0561\u057d\u056f\u0578\u057d"
     ],
+    "name:hyw_x_preferred":[
+        "\u0534\u0561\u0574\u0561\u057d\u056f\u0578\u057d"
+    ],
     "name:ido_x_preferred":[
         "Damascus"
     ],
@@ -223,6 +241,9 @@
     ],
     "name:ind_x_preferred":[
         "Damaskus"
+    ],
+    "name:inh_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0441\u043a"
     ],
     "name:isl_x_preferred":[
         "Damaskus"
@@ -284,6 +305,9 @@
     "name:lav_x_preferred":[
         "Damaska"
     ],
+    "name:lez_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
     "name:lij_x_preferred":[
         "Damasco"
     ],
@@ -341,6 +365,9 @@
     "name:nan_x_preferred":[
         "Damascus"
     ],
+    "name:nds_x_preferred":[
+        "Damaskus"
+    ],
     "name:nep_x_preferred":[
         "\u0926\u092e\u093f\u0936\u094d\u0915"
     ],
@@ -368,6 +395,9 @@
     "name:oci_x_preferred":[
         "Damasc"
     ],
+    "name:olo_x_preferred":[
+        "Damask"
+    ],
     "name:ori_x_preferred":[
         "\u0b21\u0b3e\u0b2e\u0b3e\u0b38\u0b15\u0b38"
     ],
@@ -379,6 +409,9 @@
     ],
     "name:pap_x_preferred":[
         "Damasco"
+    ],
+    "name:pcd_x_preferred":[
+        "Damasch"
     ],
     "name:pms_x_preferred":[
         "Damasch"
@@ -409,6 +442,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a\u0443\u0441"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c5f\u1c62\u1c5f\u1c65\u1c60\u1c5a\u1c65"
     ],
     "name:scn_x_preferred":[
         "Damascu"
@@ -461,6 +497,9 @@
     "name:tat_x_preferred":[
         "Dim\u00e4\u015fq"
     ],
+    "name:tat_x_variant":[
+        "\u0414\u0438\u043c\u04d9\u0448\u043a\u044a"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c2e\u0c38\u0c4d\u0c15\u0c38\u0c4d"
     ],
@@ -469,6 +508,9 @@
     ],
     "name:tgl_x_preferred":[
         "Damasko"
+    ],
+    "name:tgl_x_variant":[
+        "Damascus"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e21\u0e31\u0e2a\u0e01\u0e31\u0e2a"
@@ -508,6 +550,12 @@
     ],
     "name:war_x_preferred":[
         "Damasko"
+    ],
+    "name:war_x_variant":[
+        "Damascus"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u9a6c\u58eb\u9769"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d0\u10db\u10d0\u10e1\u10d9\u10dd"
@@ -670,7 +718,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919045,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"locality",

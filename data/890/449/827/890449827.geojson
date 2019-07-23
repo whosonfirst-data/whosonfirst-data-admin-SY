@@ -36,6 +36,9 @@
     "name:heb_x_preferred":[
         "\u05ea\u05dc \u05e8\u05d9\u05e4\u05e2\u05ea"
     ],
+    "name:hun_x_preferred":[
+        "Tell Rifaat"
+    ],
     "name:kur_x_preferred":[
         "Til Rifat"
     ],
@@ -56,6 +59,12 @@
     ],
     "name:unk_x_variant":[
         "Tell Arfad"
+    ],
+    "name:vie_x_preferred":[
+        "Tell Rifaat"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u52d2\u91cc\u6cd5\u7279"
     ],
     "qs:name":"Tall Rif\u2018at",
     "qs:photos_9r":0,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890449827,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919066,
     "wof:name":"Tall Rif\u2018at",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

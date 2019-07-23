@@ -19,8 +19,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0633\u0644\u0645\u064a\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0456\u044f"
+    ],
     "name:cat_x_preferred":[
         "Salamiyya"
+    ],
+    "name:ceb_x_preferred":[
+        "As Salam\u012byah"
     ],
     "name:deu_x_preferred":[
         "Salamiyya"
@@ -39,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Salamyeh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05de\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0932\u093e\u092e\u093f\u092f\u092f\u093e\u0939"
@@ -74,6 +83,9 @@
         "Salamiyah"
     ],
     "name:nno_x_preferred":[
+        "Salamiyah"
+    ],
+    "name:nob_x_preferred":[
         "Salamiyah"
     ],
     "name:pol_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":421205163,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919048,
     "wof:name":"Salamiyah",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

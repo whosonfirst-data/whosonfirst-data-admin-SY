@@ -33,8 +33,14 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0637\u0631\u0637\u0648\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Tartus"
+    ],
+    "name:aze_x_variant":[
+        "T\u0259rtus m\u00fchafazas\u0131"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u0441"
@@ -53,6 +59,9 @@
     ],
     "name:ceb_x_preferred":[
         "Tartouss"
+    ],
+    "name:ceb_x_variant":[
+        "Tartus Governorate"
     ],
     "name:ces_x_preferred":[
         "Tart\u00fas"
@@ -84,6 +93,9 @@
     "name:epo_x_preferred":[
         "Tartus"
     ],
+    "name:epo_x_variant":[
+        "Gubernio Tartus"
+    ],
     "name:eus_x_preferred":[
         "Tartus"
     ],
@@ -99,6 +111,9 @@
     "name:fin_x_preferred":[
         "Tartus"
     ],
+    "name:fin_x_variant":[
+        "Tartusin maakunta"
+    ],
     "name:fra_x_preferred":[
         "Tartous"
     ],
@@ -111,6 +126,9 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d8\u05d5\u05e1"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05d8\u05d5\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u0930\u0924\u0942\u0938 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -119,6 +137,9 @@
     ],
     "name:hun_x_preferred":[
         "Tart\u00fasz"
+    ],
+    "name:hun_x_variant":[
+        "Tart\u00fasz korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0580\u057f\u0578\u0582\u057d\u056b \u0574\u0561\u0580\u0566"
@@ -135,6 +156,9 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30eb\u30c8\u30a5\u30fc\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30eb\u30c8\u30a5\u30fc\u30b9\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0cb0\u0ccd\u0c9f\u0cb8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
@@ -144,11 +168,17 @@
     "name:kor_x_preferred":[
         "\ud0c0\ub974\ud22c\uc2a4"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\ub974\ud22c\uc2a4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Tart\u016bsas muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Tartusas"
+    ],
+    "name:lit_x_variant":[
+        "Tartuso muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u094d\u091f\u093e\u0938 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -164,6 +194,9 @@
     ],
     "name:nno_x_preferred":[
         "Tartus"
+    ],
+    "name:nno_x_variant":[
+        "Tartus guvernement"
     ],
     "name:nob_x_preferred":[
         "Tartus"
@@ -195,6 +228,9 @@
     "name:sco_x_preferred":[
         "Tartus"
     ],
+    "name:sco_x_variant":[
+        "Tartus Govrenorate"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dcf\u0dbb\u0dca\u0da7\u0dc3\u0dca \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dba"
     ],
@@ -218,6 +254,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e2d\u0e23\u0e4c\u0e15\u0e39\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e0f\u0e47\u0e2d\u0e23\u0e0f\u0e39\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Tartus"
@@ -371,7 +410,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561851960,
+    "wof:lastmodified":1563918131,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

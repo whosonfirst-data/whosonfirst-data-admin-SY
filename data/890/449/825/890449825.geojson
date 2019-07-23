@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Tartus"
     ],
+    "name:ceb_x_preferred":[
+        "Tartouss"
+    ],
     "name:ces_x_preferred":[
         "Tart\u00fas"
     ],
@@ -55,7 +58,13 @@
     "name:eng_x_preferred":[
         "Tartous"
     ],
+    "name:eng_x_variant":[
+        "Tartus"
+    ],
     "name:epo_x_preferred":[
+        "Tartus"
+    ],
+    "name:est_x_preferred":[
         "Tartus"
     ],
     "name:eus_x_preferred":[
@@ -133,6 +142,9 @@
     "name:pol_x_preferred":[
         "Tartous"
     ],
+    "name:pol_x_variant":[
+        "Tartus"
+    ],
     "name:por_x_preferred":[
         "Tartus"
     ],
@@ -166,6 +178,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e23\u0e4c\u0e17\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e0f\u0e47\u0e2d\u0e23\u0e0f\u0e39\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Tartus"
     ],
@@ -179,6 +194,9 @@
         "\u0637\u0631\u0637\u0648\u0633"
     ],
     "name:vie_x_preferred":[
+        "Tartus"
+    ],
+    "name:war_x_preferred":[
         "Tartus"
     ],
     "name:xmf_x_preferred":[
@@ -310,7 +328,7 @@
         }
     ],
     "wof:id":890449825,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919075,
     "wof:name":"Tartouss",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:spa_x_preferred":[
         "Blud\u00e1n"
     ],
+    "name:vie_x_preferred":[
+        "Bloudan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421190413,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919052,
     "wof:name":"Blodan",
     "wof:parent_id":1108779087,
     "wof:placetype":"locality",

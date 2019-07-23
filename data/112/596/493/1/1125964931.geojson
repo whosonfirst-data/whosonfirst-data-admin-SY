@@ -26,6 +26,9 @@
         "J\u0101sim",
         "\u062c\u0627\u0633\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "J\u0101sim"
+    ],
     "name:eng_x_preferred":[
         "Jasim"
     ],
@@ -80,6 +83,15 @@
     "name:unk_x_variant":[
         "J\u00e2ssem"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0633\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Jasim"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u897f\u59c6"
+    ],
     "qs_pg:aaroncc":"SY",
     "qs_pg:gn_country":"SY",
     "qs_pg:gn_fcode":"PPL",
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125964931,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919085,
     "wof:name":"J\u0101sim",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

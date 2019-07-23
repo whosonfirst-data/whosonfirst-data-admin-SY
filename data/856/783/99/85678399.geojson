@@ -36,11 +36,17 @@
     "name:arc_x_preferred":[
         "\u0715\u072a\u0725\u0710"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0631\u0639\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0430\u0430"
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Daraa"
+    ],
+    "name:ceb_x_preferred":[
+        "Daraa Governorate"
     ],
     "name:ces_x_preferred":[
         "Guvernor\u00e1t Dar'\u00e1"
@@ -103,6 +109,9 @@
     "name:kor_x_preferred":[
         "\ub2e4\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\ub77c\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Daros muchafaza"
     ],
@@ -133,12 +142,16 @@
     "name:ron_x_preferred":[
         "Guvernoratul Daraa"
     ],
+    "name:ron_x_variant":[
+        "Daraa"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0414\u0435\u0440\u044a\u0430"
     ],
     "name:rus_x_variant":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0414\u0430\u0440\u044a\u0430",
-        "\u0414\u0435\u0440\u044a\u0430"
+        "\u0414\u0435\u0440\u044a\u0430",
+        "\u0414\u0430\u0440\u044a\u0430"
     ],
     "name:sco_x_preferred":[
         "Daraa Govrenorate"
@@ -154,6 +167,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u0430\u0440\u044a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e14\u0e31\u0e23\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Dera"
@@ -301,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561851959,
+    "wof:lastmodified":1563918125,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

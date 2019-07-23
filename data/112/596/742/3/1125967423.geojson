@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Gabala"
     ],
+    "name:ceb_x_preferred":[
+        "Jablah"
+    ],
     "name:deu_x_preferred":[
         "Dschabla"
     ],
@@ -124,6 +127,9 @@
     "name:urd_x_preferred":[
         "\u062c\u0628\u0644\u06c1"
     ],
+    "name:vie_x_preferred":[
+        "Jableh"
+    ],
     "name:zho_x_preferred":[
         "\u8cc8\u67cf\u840a"
     ],
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1125967423,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919086,
     "wof:name":"Jablah",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

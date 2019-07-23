@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u06cc\u062f\u0627 \u0627\u06cc\u0633\u062a\u0627\u062f\u06cc\u0648\u0645\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2-\u09b8\u09c1\u09ac\u09be\u09af\u09bc\u09a6\u09be"
     ],
     "name:cat_x_preferred":[
         "As-Suwayda"
+    ],
+    "name:ceb_x_preferred":[
+        "As Suwayd\u0101'"
     ],
     "name:ces_x_preferred":[
         "Suvajda"
@@ -38,6 +44,9 @@
     "name:eng_x_preferred":[
         "As Suwaydah"
     ],
+    "name:eng_x_variant":[
+        "Al-Suwayda"
+    ],
     "name:epo_x_preferred":[
         "As-Su\u016dajda"
     ],
@@ -50,6 +59,9 @@
     "name:fra_x_preferred":[
         "Suweyda"
     ],
+    "name:fra_x_variant":[
+        "Soue\u00efda"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2-\u0ab8\u0ac1\u0ab5\u0ac7\u0aa6\u0abe"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u056c-\u054d\u0578\u0582\u0565\u0575\u0564\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0578\u0582\u0567\u0575\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Al-Suwayda"
@@ -142,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a \u0e0b\u0e38\u0e44\u0e27\u0e14\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e2a\u0e0b\u0e38\u0e27\u0e31\u0e22\u0e14\u0e32\u0e2d\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Al-Suwayda"
@@ -300,7 +318,7 @@
         }
     ],
     "wof:id":421192811,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919037,
     "wof:name":"\u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

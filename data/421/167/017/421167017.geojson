@@ -40,6 +40,9 @@
     "name:unk_x_variant":[
         "Kara"
     ],
+    "name:vie_x_preferred":[
+        "Qara"
+    ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":166111,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421167017,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919039,
     "wof:name":"Qarah",
     "wof:parent_id":1108779095,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0643\u0633\u0648\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Kiswah"
+    ],
     "name:eng_x_preferred":[
         "Al-Kiswah"
     ],
@@ -40,6 +43,9 @@
     "name:hye_x_preferred":[
         "\u0531\u056c-\u0554\u056b\u057d\u057e\u0561"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ad\u30b9\u30ef"
+    ],
     "name:nld_x_preferred":[
         "Al-Kiswah"
     ],
@@ -47,6 +53,9 @@
         "Al-Kiswah"
     ],
     "name:pol_x_preferred":[
+        "Al-Kiswa"
+    ],
+    "name:por_x_preferred":[
         "Al-Kiswa"
     ],
     "name:sco_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Kiswe"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Kiswah"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u65af\u6c83"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1125980727,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919087,
     "wof:name":"Al Kiswah",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

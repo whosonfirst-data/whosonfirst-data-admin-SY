@@ -23,8 +23,14 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0428\u044c\u0430\u043c\u0442\u04d9\u044b\u043b\u0430"
+    ],
     "name:ace_x_preferred":[
         "Suriyah"
+    ],
+    "name:ace_x_variant":[
+        "Suriah"
     ],
     "name:ady_x_preferred":[
         "\u0421\u0438\u0440\u0438\u0435"
@@ -66,6 +72,9 @@
     "name:arz_x_preferred":[
         "\u0633\u0648\u0631\u064a\u0627"
     ],
+    "name:asm_x_preferred":[
+        "\u099b\u09bf\u09f0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ast_x_preferred":[
         "Siria"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u04af\u0440\u0438\u04d9"
+    ],
+    "name:bak_x_variant":[
+        "\u0421\u0438\u0440\u0438\u044f"
     ],
     "name:bam_x_preferred":[
         "Suriya"
@@ -109,6 +121,12 @@
     "name:ben_x_variant":[
         "\u09b8\u09bf\u09b0\u09bf\u09df\u09be"
     ],
+    "name:bgn_x_preferred":[
+        "\u0633\u0648\u0631\u06cc\u0647"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u0940\u0930\u093f\u092f\u093e"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d"
     ],
@@ -120,6 +138,9 @@
     ],
     "name:bre_x_preferred":[
         "Siria"
+    ],
+    "name:brh_x_preferred":[
+        "S\u00edr\u00ed\u00e1"
     ],
     "name:bug_x_preferred":[
         "Suriah"
@@ -142,6 +163,9 @@
     "name:cdo_x_preferred":[
         "Syria"
     ],
+    "name:cdo_x_variant":[
+        "S\u00ea\u0324\u1e73-l\u00e9-\u0101"
+    ],
     "name:ceb_x_preferred":[
         "Siria"
     ],
@@ -162,6 +186,9 @@
     ],
     "name:cor_x_preferred":[
         "Syri"
+    ],
+    "name:cos_x_preferred":[
+        "Siria"
     ],
     "name:crh_x_preferred":[
         "Suriye"
@@ -186,6 +213,9 @@
     ],
     "name:dsb_x_preferred":[
         "Syriska"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u0940\u0930\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c5\u03c1\u03af\u03b1"
@@ -220,6 +250,9 @@
     "name:ext_x_preferred":[
         "Siria"
     ],
+    "name:ext_x_variant":[
+        "S\u00edria"
+    ],
     "name:fao_x_preferred":[
         "S\u00fdria"
     ],
@@ -249,6 +282,9 @@
     ],
     "name:frp_x_preferred":[
         "Sirie"
+    ],
+    "name:frr_x_preferred":[
+        "Syrien"
     ],
     "name:fry_x_preferred":[
         "Syrje"
@@ -283,8 +319,14 @@
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf3e\ud800\udf30"
     ],
+    "name:got_x_variant":[
+        "\ud800\udf43\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf3e\ud800\udf30/Saurja"
+    ],
     "name:grn_x_preferred":[
         "Siria"
+    ],
+    "name:gsw_x_preferred":[
+        "Syrie"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab0\u0abf\u0aaf\u0abe"
@@ -335,6 +377,9 @@
     "name:hye_x_preferred":[
         "\u054d\u056b\u0580\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0578\u0582\u0580\u056b\u0561"
+    ],
     "name:ido_x_preferred":[
         "Siria"
     ],
@@ -378,6 +423,9 @@
     "name:kaa_x_preferred":[
         "Siriya"
     ],
+    "name:kaa_x_variant":[
+        "Suriya"
+    ],
     "name:kab_x_preferred":[
         "Surya"
     ],
@@ -395,6 +443,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0428\u0430\u043c"
+    ],
+    "name:kbp_x_preferred":[
+        "Siirii"
     ],
     "name:khm_x_preferred":[
         "\u179f\u17ca\u17b8\u179a\u17b8"
@@ -426,6 +477,9 @@
     "name:kur_x_variant":[
         "\u0633\u0648\u0648\u0631\u06cc\u0627"
     ],
+    "name:lad_x_preferred":[
+        "Surya"
+    ],
     "name:lao_x_preferred":[
         "\u0e8a\u0eb4\u0ec0\u0ea5\u0e8d"
     ],
@@ -437,6 +491,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0421\u0438\u0440\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Suria"
     ],
     "name:lij_x_preferred":[
         "Sciria"
@@ -450,11 +507,17 @@
     "name:lit_x_preferred":[
         "Sirija"
     ],
+    "name:liv_x_preferred":[
+        "Z\u012bria"
+    ],
     "name:lmo_x_preferred":[
         "Siria"
     ],
     "name:lrc_x_preferred":[
         "\u0633\u0648\u0659\u0631\u06cc\u06d5"
+    ],
+    "name:lrc_x_variant":[
+        "\u0633\u0648\u0631\u06cc\u0647"
     ],
     "name:ltz_x_preferred":[
         "Syrien"
@@ -464,6 +527,12 @@
     ],
     "name:lug_x_preferred":[
         "Siriya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6558\u5229\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0940\u0930\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d31\u0d3f\u0d2f"
@@ -476,6 +545,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0438\u0440\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Suriah"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0440\u0438\u0458\u0430"
@@ -503,6 +575,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u0647"
+    ],
+    "name:nah_x_preferred":[
+        "Siria"
+    ],
+    "name:nan_x_preferred":[
+        "Su-l\u012b-a"
     ],
     "name:nau_x_preferred":[
         "Syria"
@@ -549,6 +627,9 @@
     "name:oci_x_variant":[
         "S\u00faria"
     ],
+    "name:olo_x_preferred":[
+        "Sirii"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b3f\u0b30\u0b3f\u0b06"
     ],
@@ -569,6 +650,9 @@
     ],
     "name:pap_x_preferred":[
         "Syria"
+    ],
+    "name:pcd_x_preferred":[
+        "Sirie"
     ],
     "name:pih_x_preferred":[
         "Siriya"
@@ -606,6 +690,9 @@
     "name:ron_x_preferred":[
         "Siria"
     ],
+    "name:rue_x_preferred":[
+        "\u0421\u0438\u0440\u0438\u044f"
+    ],
     "name:run_x_preferred":[
         "Siriya"
     ],
@@ -624,11 +711,17 @@
     "name:san_x_preferred":[
         "\u0938\u093f\u0930\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c64\u1c68\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Siria"
     ],
     "name:sco_x_preferred":[
         "Sirie"
+    ],
+    "name:sgs_x_preferred":[
+        "S\u0117r\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
@@ -647,6 +740,9 @@
     ],
     "name:sna_x_preferred":[
         "Syria"
+    ],
+    "name:snd_x_preferred":[
+        "\u0634\u0627\u0645"
     ],
     "name:som_x_preferred":[
         "Suuriya"
@@ -706,6 +802,9 @@
     "name:tgl_x_preferred":[
         "Syria"
     ],
+    "name:tgl_x_variant":[
+        "Sirya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e35\u0e40\u0e23\u0e35\u0e22"
     ],
@@ -720,6 +819,12 @@
     ],
     "name:ton_x_preferred":[
         "S\u012blia"
+    ],
+    "name:tpi_x_preferred":[
+        "Syria"
+    ],
+    "name:tso_x_preferred":[
+        "Syria"
     ],
     "name:tuk_x_preferred":[
         "Siri\u00fda"
@@ -783,6 +888,9 @@
     "name:vol_x_preferred":[
         "S\u00fcriy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "S\u00fc\u00fcria"
+    ],
     "name:war_x_preferred":[
         "Sirya"
     ],
@@ -810,8 +918,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Siria"
     ],
+    "name:yue_x_preferred":[
+        "\u6558\u5229\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Syri\u00eb"
+    ],
+    "name:zha_x_preferred":[
+        "Syria"
     ],
     "name:zho_min_nan_x_preferred":[
         "Su-l\u012b-a"
@@ -979,7 +1093,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561851958,
+    "wof:lastmodified":1563918117,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

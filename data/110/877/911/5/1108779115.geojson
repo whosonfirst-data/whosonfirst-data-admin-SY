@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062d\u0645\u0627\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Hama District"
+    ],
     "name:eng_x_preferred":[
         "Markaz Hamah"
+    ],
+    "name:eng_x_variant":[
+        "Hama"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062d\u0645\u0627\u062a"
@@ -60,6 +66,9 @@
     ],
     "name:nno_x_preferred":[
         "Hama-distriktet"
+    ],
+    "name:pol_x_preferred":[
+        "Hama"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u0430"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1108779115,
-    "wof:lastmodified":1561851974,
+    "wof:lastmodified":1563918781,
     "wof:name":"Hama",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

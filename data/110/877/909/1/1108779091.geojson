@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0635\u064a\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Al-Qusayr District"
+    ],
     "name:deu_x_preferred":[
         "Al-Kusair Distrikt"
     ],
@@ -57,6 +60,12 @@
     ],
     "name:nno_x_preferred":[
         "Al-Qusayr-distriktet"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kusajr"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0443\u0441\u0430\u0439\u0440"
     ],
     "name:sco_x_preferred":[
         "Al Qusayr Destrict"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1108779091,
-    "wof:lastmodified":1561851973,
+    "wof:lastmodified":1563918769,
     "wof:name":"Al-Qusayr",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

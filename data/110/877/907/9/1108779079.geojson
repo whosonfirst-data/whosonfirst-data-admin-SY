@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Douma District"
+    ],
     "name:eng_x_preferred":[
         "Duma"
+    ],
+    "name:eng_x_variant":[
+        "Douma District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108779079,
-    "wof:lastmodified":1561851973,
+    "wof:lastmodified":1563918770,
     "wof:name":"Duma",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

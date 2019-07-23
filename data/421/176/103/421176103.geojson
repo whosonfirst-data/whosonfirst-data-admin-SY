@@ -49,6 +49,9 @@
     "name:unk_x_variant":[
         "D\u0101r al \u2018Izzah"
     ],
+    "name:vie_x_preferred":[
+        "Darat Izza"
+    ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":170857,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421176103,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919066,
     "wof:name":"Dar Ta izzah",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",
