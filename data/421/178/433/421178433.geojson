@@ -16,6 +16,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0633\u062a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Al-Rastan"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar Rastan"
+    ],
+    "name:ces_x_preferred":[
+        "Rastan"
+    ],
     "name:deu_x_preferred":[
         "Rastan"
     ],
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":421178433,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919065,
     "wof:name":"Rastane",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0439\u0440-\u044d\u0437-\u0417\u043e\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u0987\u09b0 \u098f\u09af-\u09af\u09b0"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:cat_x_preferred":[
         "Deir al-Zor"
+    ],
+    "name:cat_x_variant":[
+        "Dayr al-Zor"
+    ],
+    "name:ceb_x_preferred":[
+        "Deir ez-Zor"
     ],
     "name:ces_x_preferred":[
         "Dajr az-Zaur"
@@ -43,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b1\u03bb-\u0396\u03bf\u03c1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03ad\u03b9\u03c1 \u03b5\u03b6-\u0396\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Deir ez-Zor"
@@ -96,6 +108,9 @@
     "name:ita_x_preferred":[
         "Deir el-Zor"
     ],
+    "name:jav_x_preferred":[
+        "Deir ez-Zor"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30ea\u30be\u30fc\u30eb"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:lit_x_preferred":[
         "Deir ez Zoras"
+    ],
+    "name:lit_x_variant":[
+        "Deir az Zoras"
     ],
     "name:mar_x_preferred":[
         "\u0926\u093f\u0905\u0930 \u090f\u091d-\u091d\u094b\u0930"
@@ -188,6 +206,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e35\u0e22 \u0e40\u0e2d\u0e0b-\u0e0b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e31\u0e22\u0e23\u0e38\u0e0b\u0e0b\u0e39\u0e23"
     ],
     "name:tur_x_preferred":[
         "Deyrizor"
@@ -355,7 +376,7 @@
         }
     ],
     "wof:id":421202167,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919042,
     "wof:name":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

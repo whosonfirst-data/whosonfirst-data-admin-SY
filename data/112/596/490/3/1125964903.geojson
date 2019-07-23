@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Qa\u0163an\u0101"
+    ],
     "name:ces_x_preferred":[
         "Katana"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0637\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Qatana"
     ],
     "name:zho_x_preferred":[
         "\u84cb\u6cf0\u7d0d"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125964903,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919083,
     "wof:name":"Qa\u0163an\u0101",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

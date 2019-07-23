@@ -25,6 +25,9 @@
     "name:aze_x_preferred":[
         "Dera"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0440\u2019\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0981\u09b0\u09be"
     ],
@@ -34,11 +37,17 @@
     "name:cat_x_preferred":[
         "Dera"
     ],
+    "name:cat_x_variant":[
+        "Daraa"
+    ],
     "name:ceb_x_preferred":[
         "Dar\u2018\u0101"
     ],
     "name:ces_x_preferred":[
         "Dar'\u00e1"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0440\u04c0\u0430"
     ],
     "name:dan_x_preferred":[
         "Daraa"
@@ -60,6 +69,9 @@
     ],
     "name:est_x_preferred":[
         "Dar\u2018\u0101"
+    ],
+    "name:est_x_variant":[
+        "Dar\u02bf\u0101"
     ],
     "name:eus_x_preferred":[
         "Daraa"
@@ -145,6 +157,9 @@
     "name:por_x_preferred":[
         "Daraa"
     ],
+    "name:ron_x_preferred":[
+        "Daraa"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u044a\u0430"
     ],
@@ -174,6 +189,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e23\u0e32\u0e14\u0e39\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e31\u0e23\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Dera"
@@ -243,7 +261,7 @@
         }
     ],
     "wof:id":421197257,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919058,
     "wof:name":"Dar a",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

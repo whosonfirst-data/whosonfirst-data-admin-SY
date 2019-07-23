@@ -11,6 +11,7 @@
     "geom:longitude":36.8659,
     "iso:country":"SY",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062f\u0627\u0631\u0629"
@@ -18,8 +19,50 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646\u062f\u0627\u0631\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Ain Dara"
+    ],
+    "name:deu_x_preferred":[
+        "Tell Ain Dara"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Dara"
+    ],
+    "name:fin_x_preferred":[
+        "Ain Daran temppeli"
+    ],
+    "name:fra_x_preferred":[
+        "Ayn Dara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d3\u05d0\u05e8\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30c0\u30fc\u30e9\u795e\u6bbf"
+    ],
+    "name:kur_x_preferred":[
+        "Gir\u00ea Endar\u00ea"
+    ],
+    "name:nld_x_preferred":[
+        "Ain Dara"
+    ],
+    "name:nob_x_preferred":[
+        "Ain Dara-tempelet"
+    ],
+    "name:pol_x_preferred":[
+        "Qariateine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0414\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0414\u0430\u0440\u0430"
+    ],
     "name:unk_x_variant":[
         "A\u00efne Darah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9054\u62c9\u795e\u5edf"
     ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
@@ -67,7 +110,7 @@
         }
     ],
     "wof:id":421177357,
-    "wof:lastmodified":1501212758,
+    "wof:lastmodified":1563919063,
     "wof:name":"Ayn Darah",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

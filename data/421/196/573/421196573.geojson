@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Izra"
     ],
+    "name:hun_x_preferred":[
+        "Izrah"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u0566\u0580\u0561\u0561"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421196573,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919051,
     "wof:name":"Izra",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

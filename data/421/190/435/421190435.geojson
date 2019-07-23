@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0627\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u0456\u044f\u0441"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0438\u044f\u0441"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ces_x_preferred":[
         "Ban\u00edj\u00e1s"
+    ],
+    "name:cym_x_preferred":[
+        "Baniyas"
     ],
     "name:deu_x_preferred":[
         "Baniyas"
@@ -45,6 +51,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d9\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0928\u093f\u092f\u093e\u0938"
     ],
     "name:hun_x_preferred":[
         "Banijasz"
@@ -100,6 +109,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u06cc\u0627\u0633"
     ],
+    "name:vie_x_preferred":[
+        "Baniyas"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u5c3c\u4e9a\u65af"
     ],
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":421190435,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919057,
     "wof:name":"Baniyas",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

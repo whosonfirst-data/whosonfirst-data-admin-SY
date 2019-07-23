@@ -58,6 +58,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0440\u0456\u0442"
     ],
+    "name:vie_x_preferred":[
+        "Amrit"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421190425,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919052,
     "wof:name":"Amrit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

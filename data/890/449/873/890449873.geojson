@@ -26,6 +26,12 @@
     "name:aze_x_preferred":[
         "Az\u0259z"
     ],
+    "name:cat_x_preferred":[
+        "Azaz"
+    ],
+    "name:ceb_x_preferred":[
+        "I\u2018z\u0101z"
+    ],
     "name:ces_x_preferred":[
         "Azaz"
     ],
@@ -83,6 +89,9 @@
     "name:pol_x_preferred":[
         "Azaz"
     ],
+    "name:ron_x_preferred":[
+        "Azaz"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0437\u0430\u0437"
     ],
@@ -94,6 +103,9 @@
     ],
     "name:sqi_x_preferred":[
         "Azaz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0437\u0430\u0437"
     ],
     "name:swe_x_preferred":[
         "I\u2018z\u0101z"
@@ -109,6 +121,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0639\u0632\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Azaz"
     ],
     "name:zho_x_preferred":[
         "\u963f\u624e\u8332"
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":890449873,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919068,
     "wof:name":"I\u2018z\u0101z",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

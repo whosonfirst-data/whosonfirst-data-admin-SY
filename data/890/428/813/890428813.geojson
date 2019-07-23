@@ -48,6 +48,9 @@
     "name:unk_x_variant":[
         "El Hr\u00e2k"
     ],
+    "name:vie_x_preferred":[
+        "Al-Hirak"
+    ],
     "qs:name":"Al \u1e28ar\u0101k",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890428813,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919077,
     "wof:name":"Al \u1e28ar\u0101k",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

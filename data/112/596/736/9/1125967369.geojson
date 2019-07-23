@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Jarablus"
     ],
+    "name:ceb_x_preferred":[
+        "Jar\u0101bulus"
+    ],
     "name:ces_x_preferred":[
         "D\u017ear\u00e1bulus"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1125967369,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919083,
     "wof:name":"Jar\u0101bulus",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

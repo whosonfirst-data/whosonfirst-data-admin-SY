@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "An Nabk"
+    ],
     "name:deu_x_preferred":[
         "an-Nabk"
     ],
@@ -73,6 +76,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0646\u0628\u06a9"
     ],
+    "name:vie_x_preferred":[
+        "Al-Nabek"
+    ],
     "name:zho_x_preferred":[
         "\u5948\u535c\u514b"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125978283,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919081,
     "wof:name":"An Nabk",
     "wof:parent_id":1108779095,
     "wof:placetype":"locality",

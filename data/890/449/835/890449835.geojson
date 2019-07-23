@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0642\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Salq\u012bn"
+    ],
     "name:deu_x_preferred":[
         "Salqin"
     ],
@@ -57,6 +60,12 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u0642\u06cc\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Salqin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u52d2\u94a6"
+    ],
     "qs:name":"Salq\u012bn",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890449835,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919070,
     "wof:name":"Salq\u012bn",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

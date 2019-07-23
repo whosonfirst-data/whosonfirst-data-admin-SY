@@ -61,6 +61,9 @@
     "name:unk_x_variant":[
         "Noubbol"
     ],
+    "name:vie_x_preferred":[
+        "Nubl"
+    ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":166331,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421178431,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1563919064,
     "wof:name":"Nubul",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

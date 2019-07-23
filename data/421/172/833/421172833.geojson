@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0642\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Al-Raqqa"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0642\u0647"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Rakka"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar Raqqah"
     ],
     "name:ces_x_preferred":[
         "Rakka"
@@ -80,6 +86,9 @@
     ],
     "name:fra_x_preferred":[
         "Racca"
+    ],
+    "name:fra_x_variant":[
+        "Raqqa"
     ],
     "name:gsw_x_preferred":[
         "Ar-Raqqa"
@@ -186,6 +195,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0440-\u0420\u0430\u043a\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u0440-\u0420\u0430\u043a\u043a\u0430"
+    ],
     "name:scn_x_preferred":[
         "Ar-Raqqah"
     ],
@@ -197,6 +209,9 @@
     ],
     "name:spa_x_preferred":[
         "Raqqa"
+    ],
+    "name:spa_x_variant":[
+        "Al Raqa"
     ],
     "name:sqi_x_preferred":[
         "Rakka"
@@ -388,7 +403,7 @@
         }
     ],
     "wof:id":421172833,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919050,
     "wof:name":"\u0627\u0644\u0631\u0642\u0629",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

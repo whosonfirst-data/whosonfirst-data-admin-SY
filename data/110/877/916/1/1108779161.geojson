@@ -40,11 +40,20 @@
     "name:cat_x_preferred":[
         "Al-Bab"
     ],
+    "name:ceb_x_preferred":[
+        "Al-Bab District"
+    ],
     "name:deu_x_preferred":[
         "Al-Bab"
     ],
     "name:eng_x_preferred":[
         "Al-Bab"
+    ],
+    "name:eng_x_variant":[
+        "al-Bab District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0644\u0628\u0627\u0628"
     ],
     "name:fra_x_preferred":[
         "Al-Bab"
@@ -66,6 +75,12 @@
     ],
     "name:nno_x_preferred":[
         "Al-Bab-distriktet"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bab"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Al-Bab"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0411\u0430\u0431"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1108779161,
-    "wof:lastmodified":1561851974,
+    "wof:lastmodified":1563918782,
     "wof:name":"Al Bab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

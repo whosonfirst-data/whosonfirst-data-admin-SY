@@ -63,6 +63,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0642\u06cc\u0644\u0628\u06cc\u06c1"
     ],
+    "name:vie_x_preferred":[
+        "Al-Suqaylabiyah"
+    ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":163921,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421181203,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919050,
     "wof:name":"Suqaylabiyah",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

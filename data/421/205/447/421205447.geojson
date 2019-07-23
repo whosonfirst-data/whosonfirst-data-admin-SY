@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Tafas"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u0641\u0633"
+    ],
     "name:fin_x_preferred":[
         "Tafas"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Tafass"
+    ],
+    "name:vie_x_preferred":[
+        "Tafas"
     ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421205447,
-    "wof:lastmodified":1561851979,
+    "wof:lastmodified":1563919047,
     "wof:name":"Tafas",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

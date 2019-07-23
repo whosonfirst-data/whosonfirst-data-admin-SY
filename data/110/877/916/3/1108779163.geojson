@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0641\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al-Haffah District"
+    ],
     "name:eng_x_preferred":[
         "Al-Haffah"
+    ],
+    "name:eng_x_variant":[
+        "Al-Haffah District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0641\u0629"
@@ -63,6 +69,9 @@
     ],
     "name:nno_x_preferred":[
         "Al-Haffah-distriktet"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Haffa"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0425\u0430\u0444\u0444\u0430"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1108779163,
-    "wof:lastmodified":1561851974,
+    "wof:lastmodified":1563918782,
     "wof:name":"Al-Haffa",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

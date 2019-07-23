@@ -32,6 +32,9 @@
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c1\u03ac\u03ba"
     ],
+    "name:eng_x_preferred":[
+        "Barak"
+    ],
     "name:epo_x_preferred":[
         "Barak"
     ],
@@ -62,8 +65,14 @@
     "name:nld_x_preferred":[
         "Barak"
     ],
+    "name:nob_x_preferred":[
+        "Barak"
+    ],
     "name:nor_x_preferred":[
         "Barak"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u06a9"
     ],
     "name:pol_x_preferred":[
         "Barak"
@@ -74,7 +83,16 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0440\u0430\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Barak"
+    ],
+    "name:swa_x_preferred":[
+        "Barak"
+    ],
     "name:swe_x_preferred":[
+        "Barak"
+    ],
+    "name:tur_x_preferred":[
         "Barak"
     ],
     "name:ukr_x_preferred":[
@@ -82,6 +100,9 @@
     ],
     "name:unk_x_variant":[
         "Barakah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u06a9"
     ],
     "name:wol_x_preferred":[
         "Barag"
@@ -107,10 +128,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":371,
     "wof:belongsto":[
+        85678359,
         102191569,
         85632413,
-        1108779089,
-        85678359
+        1108779089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":421173823,
-    "wof:lastmodified":1531858396,
+    "wof:lastmodified":1563919049,
     "wof:name":"Barak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

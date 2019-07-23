@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Maalula"
     ],
+    "name:ceb_x_preferred":[
+        "Ma\u2018l\u016bl\u0101"
+    ],
     "name:ces_x_preferred":[
         "Mal\u00fala"
     ],
@@ -45,7 +48,16 @@
     "name:fas_x_preferred":[
         "\u0645\u0639\u0644\u0648\u0644\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Maaloula"
+    ],
     "name:fra_x_preferred":[
+        "Maaloula"
+    ],
+    "name:fry_x_preferred":[
+        "Maaloula"
+    ],
+    "name:gle_x_preferred":[
         "Maaloula"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +111,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0430\u043b\u044e\u043b\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0430\u043b\u0443\u043b\u0430"
+    ],
     "name:sco_x_preferred":[
         "Maaloula"
     ],
@@ -122,6 +137,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0639\u0644\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Maaloula"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u76e7\u62c9"
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":890442551,
-    "wof:lastmodified":1561851981,
+    "wof:lastmodified":1563919078,
     "wof:name":"Ma\u2018l\u016bl\u0101",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",

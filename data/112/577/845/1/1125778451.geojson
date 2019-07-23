@@ -28,6 +28,9 @@
     "name:bar_x_preferred":[
         "Chan Schaichun"
     ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101n Shaykh\u016bn"
+    ],
     "name:ces_x_preferred":[
         "Ch\u00e1n \u0160ajch\u00fan"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u0576 \u0547\u0565\u0575\u056d\u0578\u0582\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Khan Shaykhun"
     ],
     "name:ind_x_preferred":[
         "Khan Shaykhun"
@@ -103,6 +109,12 @@
     "name:vie_x_preferred":[
         "Khan Shaykhun"
     ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d0\u10dc-\u10e8\u10d0\u10d8\u10ee\u10e3\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c57\u8b1d\u6d2a"
+    ],
     "qs_pg:aaroncc":"SY",
     "qs_pg:gn_country":"SY",
     "qs_pg:gn_fcode":"PPLA3",
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":1125778451,
-    "wof:lastmodified":1561851982,
+    "wof:lastmodified":1563919089,
     "wof:name":"Kh\u0101n Shaykh\u016bn",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",
