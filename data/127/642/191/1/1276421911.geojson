@@ -28,8 +28,41 @@
     "name:ara_x_preferred":[
         "\u0646\u0628\u064a \u0635\u0627\u0644\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0628\u064a \u0635\u0627\u0644\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:ceb_x_preferred":[
+        "An Nab\u012b \u015e\u0101li\u1e29"
+    ],
+    "name:epo_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u06cc \u0635\u0627\u0644\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d9 \u05e1\u05d0\u05dc\u05d7"
+    ],
+    "name:nno_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:pol_x_preferred":[
+        "An-Nabi Salih"
+    ],
+    "name:spa_x_preferred":[
+        "Nabi Salih"
+    ],
     "name:und_x_variant":[
         "Nab\u012b \u015e\u0101li\u1e29"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0628\u06cc \u0635\u0627\u0644\u062d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1276421911,
-    "wof:lastmodified":1537702523,
+    "wof:lastmodified":1564175701,
     "wof:name":"Nabi Salih",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

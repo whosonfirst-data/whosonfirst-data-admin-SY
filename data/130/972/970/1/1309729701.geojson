@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "K\u0101s\u0101n"
     ],
+    "name:bar_x_preferred":[
+        "Kasan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasan"
+    ],
+    "name:deu_x_preferred":[
+        "Kasan"
+    ],
+    "name:ita_x_preferred":[
+        "Kasan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kasan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "K\u00e2ss\u00e2ne"
     ],
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1309729701,
-    "wof:lastmodified":1537702000,
+    "wof:lastmodified":1564176317,
     "wof:name":"Kasan",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

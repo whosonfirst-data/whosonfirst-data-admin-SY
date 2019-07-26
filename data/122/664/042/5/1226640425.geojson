@@ -31,9 +31,15 @@
     "name:ara_x_variant":[
         "\u062d\u062a\u0644\u0627"
     ],
+    "name:spa_x_preferred":[
+        "Hatla"
+    ],
     "name:und_x_variant":[
         "\u1e28a\u0163lah",
         "\u1e28atl\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Hatla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226640425,
-    "wof:lastmodified":1537702088,
+    "wof:lastmodified":1564176745,
     "wof:name":"Hatla",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

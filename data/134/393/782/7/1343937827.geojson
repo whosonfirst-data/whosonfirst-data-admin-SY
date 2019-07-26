@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0631 \u0634\u0645\u0633\u0648"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0631 \u0634\u0645\u0633\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Bajdar Szamsu"
+    ],
     "name:und_x_variant":[
         "Baydar Shams\u016b"
+    ],
+    "name:vie_x_preferred":[
+        "Baydar Shamsu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343937827,
-    "wof:lastmodified":1537702635,
+    "wof:lastmodified":1564175435,
     "wof:name":"Baydar Shamsu",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

@@ -29,7 +29,14 @@
         "\u0642\u0646\u0627\u0637\u0631"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+        "\u0627\u0644\u0642\u0646\u0627\u0637\u0631",
+        "\u0642\u0646\u0637\u0631\u0629"
+    ],
+    "name:dan_x_preferred":[
+        "El Kantara"
+    ],
+    "name:fra_x_preferred":[
+        "El Kantara"
     ],
     "name:und_x_variant":[
         "El Kanater",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1243258655,
-    "wof:lastmodified":1537701842,
+    "wof:lastmodified":1564176418,
     "wof:name":"Al Qanatir",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

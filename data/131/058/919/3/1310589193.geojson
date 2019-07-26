@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0646\u0627\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Kafr Nan"
+    ],
+    "name:tur_x_preferred":[
+        "Kefer Nen"
+    ],
     "name:und_x_variant":[
         "Kafer N\u00e2ne",
         "Kafr N\u00e2ne",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310589193,
-    "wof:lastmodified":1537702010,
+    "wof:lastmodified":1564176209,
     "wof:name":"Kafr Nan",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

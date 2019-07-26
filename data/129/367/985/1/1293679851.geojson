@@ -31,10 +31,19 @@
     "name:ara_x_variant":[
         "\u062d\u064a\u0646\u0647"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u06cc\u0646\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hina"
+    ],
     "name:und_x_variant":[
         "Hin\u00e9",
         "\u1e28\u012bnah",
         "H\u00een\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Hinah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1293679851,
-    "wof:lastmodified":1537702074,
+    "wof:lastmodified":1564175596,
     "wof:name":"Hinah",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

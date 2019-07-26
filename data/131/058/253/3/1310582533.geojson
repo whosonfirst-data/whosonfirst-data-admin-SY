@@ -32,6 +32,12 @@
         "\u063a\u062c\u0631 \u0627\u0644\u0623\u0645\u064a\u0631",
         "\u063a\u0631\u0646\u0627\u0637\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u063a\u0631\u0646\u0627\u0637\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Gharnata"
+    ],
     "name:und_x_variant":[
         "Rhajar el Am\u00eer",
         "El Ghajar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1310582533,
-    "wof:lastmodified":1537702117,
+    "wof:lastmodified":1564176208,
     "wof:name":"Ghajar Amir",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

@@ -29,13 +29,20 @@
         "\u0633\u0648\u064a\u0631\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0635\u0648\u064a\u0631\u064a"
+        "\u0635\u0648\u064a\u0631\u064a",
+        "\u0627\u0644\u0635\u0648\u064a\u0631\u064a"
+    ],
+    "name:pol_x_preferred":[
+        "Suwajri"
     ],
     "name:und_x_variant":[
         "Soua\u00efri",
         "Sou\u00e9ri",
         "Suwayr\u012b",
         "\u015euwayr\u012b"
+    ],
+    "name:vie_x_preferred":[
+        "Suwayri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1209498927,
-    "wof:lastmodified":1537701700,
+    "wof:lastmodified":1564175883,
     "wof:name":"Suwayri",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -31,11 +31,26 @@
     "name:ara_x_variant":[
         "\u0636\u0627\u062d\u064a\u0629 \u062f\u0645\u0631"
     ],
+    "name:epo_x_preferred":[
+        "Dummar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dummar"
+    ],
+    "name:spa_x_preferred":[
+        "Dummar"
+    ],
     "name:und_x_variant":[
         "Doumar",
         "Doummar",
         "Dummar",
         "\u1e10\u0101\u1e29iyat Dummar"
+    ],
+    "name:vie_x_preferred":[
+        "Dummar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1242860585,
-    "wof:lastmodified":1537702134,
+    "wof:lastmodified":1564176362,
     "wof:name":"Dummar",
     "wof:parent_id":1108779107,
     "wof:placetype":"locality",

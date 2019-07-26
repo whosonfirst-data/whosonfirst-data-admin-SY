@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Rasha"
+    ],
+    "name:glg_x_preferred":[
+        "Rasha"
+    ],
     "name:und_x_variant":[
         "Racha",
         "Rashah",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1242867839,
-    "wof:lastmodified":1537701789,
+    "wof:lastmodified":1564176360,
     "wof:name":"Rasha",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

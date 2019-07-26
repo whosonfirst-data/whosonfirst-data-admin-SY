@@ -31,9 +31,21 @@
     "name:ara_x_variant":[
         "\u0632\u0631\u0632\u0648\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Zarzour"
+    ],
+    "name:pol_x_preferred":[
+        "Zurzur"
+    ],
     "name:und_x_variant":[
         "Zarz\u016br",
         "Zarzo\u00fbr"
+    ],
+    "name:vie_x_preferred":[
+        "Zarzur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1193255463,
-    "wof:lastmodified":1537701585,
+    "wof:lastmodified":1564176009,
     "wof:name":"Zurzur",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

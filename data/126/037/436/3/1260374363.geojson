@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0631\u0627\u0637\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0631\u0627\u0637\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kirata"
+    ],
     "name:und_x_variant":[
         "Q\u00eer\u00e2ta",
         "Q\u012br\u0101\u0163ah"
+    ],
+    "name:vie_x_preferred":[
+        "Qiratah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1260374363,
-    "wof:lastmodified":1537701812,
+    "wof:lastmodified":1564176047,
     "wof:name":"Qiratah",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

@@ -28,6 +28,54 @@
     "name:ara_x_preferred":[
         "\u0643\u0633\u0628"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0441\u0430\u0431"
+    ],
+    "name:ceb_x_preferred":[
+        "Kassab"
+    ],
+    "name:deu_x_preferred":[
+        "Kessab"
+    ],
+    "name:epo_x_preferred":[
+        "Kesabo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0633\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Kessab"
+    ],
+    "name:hun_x_preferred":[
+        "Kesab"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0565\u057d\u0561\u0562"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0565\u057d\u0561\u057a"
+    ],
+    "name:ita_x_preferred":[
+        "Kessab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d4\u10e1\u10d0\u10d1\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Kesab"
+    ],
+    "name:pol_x_preferred":[
+        "Kassab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0430\u0431"
+    ],
+    "name:sco_x_preferred":[
+        "Kesab"
+    ],
+    "name:tur_x_preferred":[
+        "Keseb"
+    ],
     "name:und_x_variant":[
         "Qasab",
         "Keseb",
@@ -54,7 +102,7 @@
         }
     ],
     "wof:id":1209217647,
-    "wof:lastmodified":1537701997,
+    "wof:lastmodified":1564175956,
     "wof:name":"Kassab",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

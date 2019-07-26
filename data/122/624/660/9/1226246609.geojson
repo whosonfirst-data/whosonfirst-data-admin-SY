@@ -34,6 +34,9 @@
     "name:kur_x_variant":[
         "\u06af\u0631\u06ce \u067e\u0631\u0627 \u067e\u0627\u0634\u06ce"
     ],
+    "name:sco_x_preferred":[
+        "Al Qunaytirah"
+    ],
     "name:und_x_variant":[
         "Qna\u00eftra",
         "Qunay\u0163irah",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1226246609,
-    "wof:lastmodified":1537701803,
+    "wof:lastmodified":1564176717,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

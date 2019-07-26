@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u0623\u062d\u0631\u0635"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0631\u0635"
+    ],
+    "name:fra_x_preferred":[
+        "Ahras"
+    ],
+    "name:pol_x_preferred":[
+        "Ahras"
+    ],
     "name:und_x_variant":[
         "Ahrass",
         "A\u1e29ra\u015f"
+    ],
+    "name:vie_x_preferred":[
+        "Ahras"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327323391,
-    "wof:lastmodified":1537702395,
+    "wof:lastmodified":1564175257,
     "wof:name":"Ahras",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

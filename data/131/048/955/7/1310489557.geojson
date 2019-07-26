@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0643\u0645\u0631\u0629"
     ],
+    "name:pol_x_preferred":[
+        "D\u017cankamra"
+    ],
     "name:und_x_variant":[
         "Jennkamra",
+        "Jankamrah"
+    ],
+    "name:vie_x_preferred":[
         "Jankamrah"
     ],
     "src:geom":"geonames",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310489557,
-    "wof:lastmodified":1537702051,
+    "wof:lastmodified":1564176102,
     "wof:name":"Jankamrah",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

@@ -28,10 +28,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u0648\u0646\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Tannuna"
+    ],
     "name:und_x_variant":[
         "Tannouna",
         "Tanno\u00fbn\u00e9",
         "Tann\u016bnah"
+    ],
+    "name:vie_x_preferred":[
+        "Tannunah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293670245,
-    "wof:lastmodified":1537701653,
+    "wof:lastmodified":1564175595,
     "wof:name":"Tannunah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

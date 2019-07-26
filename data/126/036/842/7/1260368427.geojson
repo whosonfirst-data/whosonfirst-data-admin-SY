@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0632\u0631\u0627\u0639\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u0631\u0627\u0639\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0627\u0639\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Zira\u2019a"
+    ],
     "name:und_x_variant":[
         "Zara\u2018a",
         "Zarr\u00e2a",
@@ -37,6 +46,9 @@
         "Zerraa",
         "Zirhagh",
         "Zar'a"
+    ],
+    "name:vie_x_preferred":[
+        "Zira'a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1260368427,
-    "wof:lastmodified":1537701589,
+    "wof:lastmodified":1564176040,
     "wof:name":"Zira`ah",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

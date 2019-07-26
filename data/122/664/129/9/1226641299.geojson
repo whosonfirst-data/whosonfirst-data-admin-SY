@@ -32,9 +32,21 @@
         "\u062c\u0648\u0631\u064a\u0646",
         "\u0639\u064a\u0646 \u062c\u0648\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0631\u06cc\u0646"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u094b\u0930\u093f\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017curin"
+    ],
     "name:und_x_variant":[
         "Jo\u00fbr\u00eene",
         "\u2018Ayn J\u016br\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Jurin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1226641299,
-    "wof:lastmodified":1537702024,
+    "wof:lastmodified":1564176744,
     "wof:name":"Jurin",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

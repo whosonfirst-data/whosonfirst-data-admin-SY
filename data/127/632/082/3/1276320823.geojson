@@ -31,6 +31,27 @@
     "name:ara_x_variant":[
         "\u0628\u0631\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Baris"
+    ],
+    "name:deu_x_preferred":[
+        "Baris"
+    ],
+    "name:fra_x_preferred":[
+        "Baris"
+    ],
+    "name:lit_x_preferred":[
+        "Baris"
+    ],
+    "name:spa_x_preferred":[
+        "Baris"
+    ],
+    "name:swe_x_preferred":[
+        "Baris"
+    ],
+    "name:tur_x_preferred":[
+        "Bar\u0131\u015f"
+    ],
     "name:und_x_variant":[
         "Bariss",
         "Bar\u012bs"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1276320823,
-    "wof:lastmodified":1537702225,
+    "wof:lastmodified":1564175729,
     "wof:name":"Baris",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0645\u062d\u0627\u0646\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u062d\u0627\u0646\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kumhana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0445\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kamkh\u0101nah",
         "Qumkh\u0101ne",
@@ -37,6 +46,9 @@
         "Qim\u1e29\u0101nah",
         "Qum\u1e29\u0101nah",
         "Qoumh\u00e2n\u00e9",
+        "Qamhana"
+    ],
+    "name:vie_x_preferred":[
         "Qamhana"
     ],
     "src:geom":"geonames",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1226431445,
-    "wof:lastmodified":1537701813,
+    "wof:lastmodified":1564176632,
     "wof:name":"Qumhanah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

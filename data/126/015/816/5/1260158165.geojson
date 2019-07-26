@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u062d\u064a\u0644\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Hila"
+    ],
+    "name:fin_x_preferred":[
+        "Hila"
+    ],
+    "name:fra_x_preferred":[
+        "Hila"
+    ],
     "name:und_x_variant":[
         "Ha\u00efla",
         "\u1e28\u00eelah"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1260158165,
-    "wof:lastmodified":1537702075,
+    "wof:lastmodified":1564176028,
     "wof:name":"Hila",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

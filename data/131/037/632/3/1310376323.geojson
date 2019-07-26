@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0642\u0641\u062a\u064a"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0642\u0641\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Karkafti"
+    ],
     "name:und_x_variant":[
         "Qarqaft\u012b"
+    ],
+    "name:vie_x_preferred":[
+        "Qarqafti"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310376323,
-    "wof:lastmodified":1537701827,
+    "wof:lastmodified":1564176142,
     "wof:name":"Qarqafti",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

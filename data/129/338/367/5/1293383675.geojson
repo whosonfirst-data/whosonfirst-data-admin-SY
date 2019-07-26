@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u0647\u0644\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u0647\u0644\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u06cc\u062e \u0647\u0644\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szajch Hilal"
+    ],
     "name:und_x_variant":[
         "Che\u00efkh Hl\u00e2l",
         "Ash Shaykh Hil\u0101l",
         "Shaykh Hil\u0101l"
+    ],
+    "name:vie_x_preferred":[
+        "Shaykh Hilal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293383675,
-    "wof:lastmodified":1537702288,
+    "wof:lastmodified":1564175504,
     "wof:name":"Shaykh Hilal",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

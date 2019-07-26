@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0627\u0646\u0628"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e0\u05d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226729905,
-    "wof:lastmodified":1537702319,
+    "wof:lastmodified":1564176626,
     "wof:name":"Anab",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

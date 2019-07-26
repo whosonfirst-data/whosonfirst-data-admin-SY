@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0646\u062f\u0648\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Kundur"
+    ],
+    "name:nld_x_preferred":[
+        "Kundur"
+    ],
+    "name:swe_x_preferred":[
+        "Kundur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310119959,
-    "wof:lastmodified":1537702477,
+    "wof:lastmodified":1564176158,
     "wof:name":"Kundur",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u064a\u0631 \u0637\u0647"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u06cc\u0631 \u0637\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Duwajr Taha"
+    ],
     "name:und_x_variant":[
         "Rudar Taha",
         "Doua\u00efr T\u00e2ha",
@@ -35,6 +41,9 @@
         "Duwayr \u0162\u0101hah",
         "Duwayr \u0162\u0101\u1e29\u0101\u2019",
         "Duwayr \u0162\u0101h\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Duwayr Taha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1276746847,
-    "wof:lastmodified":1537702128,
+    "wof:lastmodified":1564175709,
     "wof:name":"Duwayr Taha",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

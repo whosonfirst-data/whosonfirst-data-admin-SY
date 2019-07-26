@@ -31,10 +31,19 @@
     "name:ara_x_variant":[
         "\u062a\u0644 \u0645\u0644\u062d"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0645\u0644\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Mallah"
+    ],
     "name:und_x_variant":[
         "Ard Tell el Mal\u00e2h",
         "Tall Mall\u0101\u1e29",
         "Tall Mala\u1e29"
+    ],
+    "name:vie_x_preferred":[
+        "Tell Malah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1242666641,
-    "wof:lastmodified":1537701663,
+    "wof:lastmodified":1564176376,
     "wof:name":"Tall Mallah",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

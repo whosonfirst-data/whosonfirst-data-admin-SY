@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u062e\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Markhu"
+    ],
+    "name:msa_x_preferred":[
+        "Markhu"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0916\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Markhu"
+    ],
     "name:und_x_variant":[
         "Markh\u016b"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344060067,
-    "wof:lastmodified":1537702587,
+    "wof:lastmodified":1564175382,
     "wof:name":"Markhu",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

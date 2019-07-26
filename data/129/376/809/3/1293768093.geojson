@@ -28,12 +28,24 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631\u0635\u063a\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631 \u0635\u063a\u064a\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631 \u0635\u063a\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Saghir"
+    ],
     "name:und_x_variant":[
         "Kafr a\u015f \u015eaf\u012br",
         "Kafer es Saghir",
         "Kafer S\u00e9rh\u00eer",
         "Kafr a\u015f \u015eagh\u012br",
         "Kafr \u015eagh\u012br"
+    ],
+    "name:vie_x_preferred":[
+        "Kafr Saghir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1293768093,
-    "wof:lastmodified":1537702017,
+    "wof:lastmodified":1564175556,
     "wof:name":"Kafr Saghir",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

@@ -29,8 +29,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Al Qurayy\u0101"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Qurayya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Qurayya"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kurajja"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041a\u0443\u0440\u0430\u0439\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c-\u041a\u0430\u0440\u0430\u0439\u044f"
     ],
     "name:und_x_variant":[
         "El Kra\u00efy\u00e9",
@@ -39,6 +57,9 @@
         "El Kreye",
         "Al Qurayyah",
         "Al Qurayy\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Qurayya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1242878867,
-    "wof:lastmodified":1537702325,
+    "wof:lastmodified":1564176355,
     "wof:name":"Al Qurayya",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

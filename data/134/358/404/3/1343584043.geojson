@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u0637\u0631\u0628\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Turba"
+    ],
+    "name:epo_x_preferred":[
+        "Turba"
+    ],
+    "name:fra_x_preferred":[
+        "Turba"
+    ],
+    "name:nld_x_preferred":[
+        "Turba"
+    ],
+    "name:nor_x_preferred":[
+        "Turba"
+    ],
+    "name:por_x_preferred":[
+        "Turba"
+    ],
     "name:und_x_variant":[
         "\u0162ayyibah",
         "Ta\u00efb\u00e9",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1343584043,
-    "wof:lastmodified":1537702267,
+    "wof:lastmodified":1564175428,
     "wof:name":"Turba",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

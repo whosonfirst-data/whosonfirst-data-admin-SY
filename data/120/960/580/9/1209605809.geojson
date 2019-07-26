@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u062f\u0631"
     ],
+    "name:pol_x_preferred":[
+        "Madar"
+    ],
     "name:und_x_variant":[
         "Maadar",
         "Ma\u2018dar"
+    ],
+    "name:vie_x_preferred":[
+        "Maadar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209605809,
-    "wof:lastmodified":1537701923,
+    "wof:lastmodified":1564175913,
     "wof:name":"Ma`dar",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

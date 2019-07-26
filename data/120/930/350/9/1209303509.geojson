@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062e\u0641\u0633\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0641\u0633\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Chafsin"
+    ],
     "name:und_x_variant":[
         "Khafs\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Khafsin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209303509,
-    "wof:lastmodified":1537702642,
+    "wof:lastmodified":1564175843,
     "wof:name":"Khafsin",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

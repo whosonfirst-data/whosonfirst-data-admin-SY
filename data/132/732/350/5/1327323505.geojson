@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062c\u0631\u0627\u0632"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062c\u0631\u0627\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Sid\u017caraz"
+    ],
     "name:und_x_variant":[
         "S\u00eedjar\u00e2z",
         "S\u012bjar\u0101z"
+    ],
+    "name:vie_x_preferred":[
+        "Sijaraz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327323505,
-    "wof:lastmodified":1537701717,
+    "wof:lastmodified":1564175259,
     "wof:name":"Sijaraz",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

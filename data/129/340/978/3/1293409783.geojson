@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u0627\u0643\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0627\u06a9\u0631"
+    ],
+    "name:kab_x_preferred":[
+        "\u010cana\u010der"
+    ],
+    "name:pol_x_preferred":[
+        "Kanakir"
+    ],
     "name:und_x_variant":[
         "Qanaker",
         "Ken\u00e2ker",
         "Kan\u0101kir"
+    ],
+    "name:vie_x_preferred":[
+        "Kanaker"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293409783,
-    "wof:lastmodified":1537702003,
+    "wof:lastmodified":1564175561,
     "wof:name":"Kanakir",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

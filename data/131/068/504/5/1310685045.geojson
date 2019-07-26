@@ -28,8 +28,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0636\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0636\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Buwaydah"
+    ],
+    "name:pol_x_preferred":[
+        "Buwajda"
+    ],
+    "name:por_x_preferred":[
+        "Buwaydah"
+    ],
     "name:und_x_variant":[
         "Buway\u1e11ah"
+    ],
+    "name:vie_x_preferred":[
+        "Buwaydah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u672a\u8fbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310685045,
-    "wof:lastmodified":1537702638,
+    "wof:lastmodified":1564176188,
     "wof:name":"Buwaydah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

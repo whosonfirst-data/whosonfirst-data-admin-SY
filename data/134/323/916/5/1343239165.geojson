@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0632"
     ],
+    "name:ceb_x_preferred":[
+        "Buz"
+    ],
+    "name:deu_x_preferred":[
+        "Buz"
+    ],
+    "name:nld_x_preferred":[
+        "Buz"
+    ],
+    "name:swe_x_preferred":[
+        "Buz"
+    ],
     "name:und_x_variant":[
         "Bo\u00fbz"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1343239165,
-    "wof:lastmodified":1537702168,
+    "wof:lastmodified":1564175403,
     "wof:name":"Buz",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

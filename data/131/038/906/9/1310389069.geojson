@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u064a\u0648\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u064a\u0648\u064a\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06cc\u0648\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Murajwid"
+    ],
     "name:und_x_variant":[
         "Moure\u00efoued",
+        "Muraywid"
+    ],
+    "name:vie_x_preferred":[
         "Muraywid"
     ],
     "src:geom":"geonames",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1310389069,
-    "wof:lastmodified":1537701869,
+    "wof:lastmodified":1564176121,
     "wof:name":"Muraywid",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

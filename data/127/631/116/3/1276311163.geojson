@@ -31,10 +31,16 @@
     "name:ara_x_variant":[
         "\u0623\u0643\u0648\u0645"
     ],
+    "name:pol_x_preferred":[
+        "Akkum"
+    ],
     "name:und_x_variant":[
         "Akam",
         "Akoum",
         "Akko\u00fbm"
+    ],
+    "name:vie_x_preferred":[
+        "Akkum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1276311163,
-    "wof:lastmodified":1537702393,
+    "wof:lastmodified":1564175808,
     "wof:name":"Akkum",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

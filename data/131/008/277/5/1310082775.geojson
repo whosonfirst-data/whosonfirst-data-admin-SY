@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0631\u064a\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Kurin"
+    ],
+    "name:pol_x_preferred":[
+        "Kure\u0144"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0435\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0456\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Kour\u00eene"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310082775,
-    "wof:lastmodified":1537701936,
+    "wof:lastmodified":1564176140,
     "wof:name":"Kurin",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

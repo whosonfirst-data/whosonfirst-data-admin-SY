@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u064a\u0646\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u06cc\u0646\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cunajna"
+    ],
     "name:und_x_variant":[
         "Jna\u00efn\u00e9",
+        "Junaynah"
+    ],
+    "name:vie_x_preferred":[
         "Junaynah"
     ],
     "src:geom":"geonames",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326801263,
-    "wof:lastmodified":1537702026,
+    "wof:lastmodified":1564175197,
     "wof:name":"Junaynah",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

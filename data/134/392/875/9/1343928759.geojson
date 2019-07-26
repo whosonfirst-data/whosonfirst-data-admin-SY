@@ -31,9 +31,18 @@
     "name:ara_x_variant":[
         "\u0637\u064a\u0631\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "\u0162\u012br\u016b"
+    ],
+    "name:pol_x_preferred":[
+        "Tiru"
+    ],
     "name:und_x_variant":[
         "T\u00eero",
         "\u0162ayr\u016b"
+    ],
+    "name:vie_x_preferred":[
+        "Tayru"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343928759,
-    "wof:lastmodified":1537701643,
+    "wof:lastmodified":1564175418,
     "wof:name":"Tiru",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

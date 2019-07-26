@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0638\u0644\u0648\u0645"
     ],
+    "name:bos_x_preferred":[
+        "Mazlum"
+    ],
     "name:und_x_variant":[
         "Mazlo\u00fbm",
         "Maz\u0327l\u016bm"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242865977,
-    "wof:lastmodified":1537701893,
+    "wof:lastmodified":1564176360,
     "wof:name":"Mazlum",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

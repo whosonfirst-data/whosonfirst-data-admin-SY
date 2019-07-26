@@ -25,6 +25,9 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kawas"
+    ],
     "name:und_x_variant":[
         "Kaw\u0101s"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1226756405,
-    "wof:lastmodified":1549931218,
+    "wof:lastmodified":1564176629,
     "wof:name":"Kawas",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

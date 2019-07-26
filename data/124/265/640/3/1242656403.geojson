@@ -28,10 +28,52 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u064a\u0643\u0634"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0631\u064a\u0643\u064a\u0634"
+    ],
+    "name:ceb_x_preferred":[
+        "Durayk\u012bsh"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u06a9\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Duraykish"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u057c\u0565\u0575\u0584\u056b\u0577"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e0\u10d4\u10d8\u10e5\u10d8\u10e8\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Duraykish"
+    ],
+    "name:pol_x_preferred":[
+        "Durajkisz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u0435\u0439\u043a\u0438\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Duraykish"
+    ],
+    "name:swe_x_preferred":[
+        "Durayk\u012bsh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u0439\u043a\u0456\u0448"
+    ],
     "name:und_x_variant":[
         "Dra\u00efk\u00eech",
         "Dreikeesh",
         "Durayk\u012bsh",
+        "Duraykish"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0631\u06cc\u06a9\u06cc\u0634"
+    ],
+    "name:vie_x_preferred":[
         "Duraykish"
     ],
     "src:geom":"geonames",
@@ -57,7 +99,7 @@
         }
     ],
     "wof:id":1242656403,
-    "wof:lastmodified":1537702132,
+    "wof:lastmodified":1564176465,
     "wof:name":"Duraykish",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u0635\u0627\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Saya"
+    ],
+    "name:deu_x_preferred":[
+        "Saya"
+    ],
+    "name:fra_x_preferred":[
+        "Saya"
+    ],
+    "name:ind_x_preferred":[
+        "Saya"
+    ],
+    "name:spa_x_preferred":[
+        "Saya"
+    ],
+    "name:swe_x_preferred":[
+        "Saya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343635171,
-    "wof:lastmodified":1537701750,
+    "wof:lastmodified":1564175357,
     "wof:name":"Saya",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

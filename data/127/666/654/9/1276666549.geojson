@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0645\u0629"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bcd \u0b89\u0bae\u0bcd\u0bae\u0bbe"
+    ],
     "name:und_x_variant":[
         "Qara Tchodjo\u00fbq",
         "Qarah J\u016bjuq",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276666549,
-    "wof:lastmodified":1537701834,
+    "wof:lastmodified":1564175734,
     "wof:name":"Al Ummah",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

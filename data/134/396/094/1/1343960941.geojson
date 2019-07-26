@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062d\u062c\u0631"
     ],
+    "name:aze_x_preferred":[
+        "H\u0259c\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Hajar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Al \u1e28ajar",
         "\u1e28ajar"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343960941,
-    "wof:lastmodified":1537702370,
+    "wof:lastmodified":1564175338,
     "wof:name":"Hajar",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

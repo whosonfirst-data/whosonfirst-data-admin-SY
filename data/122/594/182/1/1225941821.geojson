@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0645\u0646\u064a\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Manin"
+    ],
     "name:und_x_variant":[
         "Mn\u00eene",
         "Menin",
         "Man\u012bn",
         "Min\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Manin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1225941821,
-    "wof:lastmodified":1537701913,
+    "wof:lastmodified":1564176617,
     "wof:name":"Manin",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

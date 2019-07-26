@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0643\u0633\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Baksa"
+    ],
+    "name:sco_x_preferred":[
+        "Baksa"
+    ],
     "name:und_x_variant":[
         "Baks\u0101",
+        "Baksa"
+    ],
+    "name:vie_x_preferred":[
         "Baksa"
     ],
     "src:geom":"geonames",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343775111,
-    "wof:lastmodified":1537702235,
+    "wof:lastmodified":1564175392,
     "wof:name":"Baksa",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

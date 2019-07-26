@@ -28,12 +28,21 @@
     "name:ara_x_preferred":[
         "\u062e\u0646\u064a\u0641\u0633"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u06cc\u0641\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Chunajfis"
+    ],
     "name:und_x_variant":[
         "Khunefis",
         "Khuneif\u012bs",
         "Hn\u00e9fis",
         "Khna\u00effess",
         "Khounefiss",
+        "Khunayfis"
+    ],
+    "name:vie_x_preferred":[
         "Khunayfis"
     ],
     "src:geom":"geonames",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1276317055,
-    "wof:lastmodified":1537701956,
+    "wof:lastmodified":1564175809,
     "wof:name":"Khunayfis",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0641\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0641\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Karfa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0444\u0430"
+    ],
     "name:und_x_variant":[
         "Karfa",
         "Qarfa",
         "Qarfah",
         "Qarf\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Qarfa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343756933,
-    "wof:lastmodified":1537701827,
+    "wof:lastmodified":1564175481,
     "wof:name":"Qarfa",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

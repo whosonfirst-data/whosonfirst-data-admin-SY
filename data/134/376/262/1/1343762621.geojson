@@ -33,11 +33,26 @@
         "Sul\u016bq",
         "\u0633\u0644\u0648\u0642"
     ],
+    "name:deu_x_preferred":[
+        "Suluk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056c\u0578\u0582\u0584"
+    ],
+    "name:pol_x_preferred":[
+        "Suluk"
+    ],
     "name:und_x_variant":[
         "Sloug",
         "Slo\u00fbq",
         "Sul\u016bk",
         "Sal\u016bq"
+    ],
+    "name:vie_x_preferred":[
+        "Suluk"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u8def\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1343762621,
-    "wof:lastmodified":1537701760,
+    "wof:lastmodified":1564175407,
     "wof:name":"Suluk",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",

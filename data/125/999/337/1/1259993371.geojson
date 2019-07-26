@@ -38,6 +38,9 @@
     "name:kur_x_variant":[
         "\u06af\u0627 \u0695\u06d5\u0634\u0627\u0646\u06ce"
     ],
+    "name:nno_x_preferred":[
+        "Ash Shamiyah"
+    ],
     "name:und_x_variant":[
         "G\u00e2ratch\u00e2ne",
         "K\u0101ratsh\u0101n",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1259993371,
-    "wof:lastmodified":1537702002,
+    "wof:lastmodified":1564176525,
     "wof:name":"Ash Shamiyah",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

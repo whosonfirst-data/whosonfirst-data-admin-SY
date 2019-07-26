@@ -31,12 +31,27 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0628\u0635\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u0627\u062d"
+    ],
+    "name:nno_x_preferred":[
+        "Al Bassah"
+    ],
+    "name:sco_x_preferred":[
+        "Al Bassah"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Bassah"
+    ],
     "name:und_x_variant":[
         "El Bassa",
         "Ba\u015f\u015fah",
         "Al Ba\u015f\u015f\u0101",
         "Al Ba\u015f\u015fah",
         "Basa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1360193411,
-    "wof:lastmodified":1537702381,
+    "wof:lastmodified":1564176262,
     "wof:name":"Al Bassah",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

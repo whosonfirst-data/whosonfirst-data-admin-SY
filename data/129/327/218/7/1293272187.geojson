@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0633\u0644\u0647\u0628"
     ],
+    "name:cat_x_preferred":[
+        "Salhab"
+    ],
     "name:und_x_variant":[
         "Sal\u1e29ab",
         "Salhab"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293272187,
-    "wof:lastmodified":1537701762,
+    "wof:lastmodified":1564175619,
     "wof:name":"Salhab",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

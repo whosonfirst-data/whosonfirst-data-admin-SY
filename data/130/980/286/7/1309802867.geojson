@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0645\u0631\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Nimra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043c\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "N\u00eemra",
         "Nemra",
         "Nimre",
         "Nimrah"
+    ],
+    "name:vie_x_preferred":[
+        "Nimreh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1309802867,
-    "wof:lastmodified":1537701854,
+    "wof:lastmodified":1564176305,
     "wof:name":"Nimrah",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

@@ -33,12 +33,18 @@
         "\u0632\u0631\u0643",
         "\u0632\u0631"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30ea\u30c1\u30e5"
+    ],
     "name:kur_x_preferred":[
         "Zirik"
     ],
     "name:kur_x_variant":[
         "Zerik",
         "\u0632\u06d5\u0631\u0643"
+    ],
+    "name:ron_x_preferred":[
+        "Zarich"
     ],
     "name:und_x_variant":[
         "Zar\u012bk",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1259973957,
-    "wof:lastmodified":1537701591,
+    "wof:lastmodified":1564176524,
     "wof:name":"Zarik",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

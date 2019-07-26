@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0645\u0648\u0631\u064a\u0646"
     ],
+    "name:fra_x_preferred":[
+        "Murin"
+    ],
+    "name:slk_x_preferred":[
+        "Murin"
+    ],
     "name:und_x_variant":[
         "Mo\u00fbr\u00eene"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226623333,
-    "wof:lastmodified":1537701869,
+    "wof:lastmodified":1564176755,
     "wof:name":"Murin",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

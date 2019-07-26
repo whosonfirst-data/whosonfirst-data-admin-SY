@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0633"
     ],
+    "name:ces_x_preferred":[
+        "Halas"
+    ],
+    "name:deu_x_preferred":[
+        "Halas"
+    ],
+    "name:fra_x_preferred":[
+        "Halas"
+    ],
+    "name:slv_x_preferred":[
+        "Halas"
+    ],
+    "name:spa_x_preferred":[
+        "Halas"
+    ],
     "name:und_x_variant":[
         "\u1e28alas"
     ],
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":1259981423,
-    "wof:lastmodified":1537702106,
+    "wof:lastmodified":1564176509,
     "wof:name":"Halas",
     "wof:parent_id":1108779081,
     "wof:placetype":"locality",

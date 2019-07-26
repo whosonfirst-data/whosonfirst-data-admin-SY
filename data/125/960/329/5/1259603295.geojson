@@ -32,6 +32,21 @@
         "\u0628\u0628\u064a\u0644\u0627",
         "\u0628\u0627\u0628 \u0628\u064a\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Babila"
+    ],
+    "name:ita_x_preferred":[
+        "Babila"
+    ],
+    "name:msa_x_preferred":[
+        "Babila"
+    ],
+    "name:spa_x_preferred":[
+        "Babila"
+    ],
+    "name:swe_x_preferred":[
+        "Babila"
+    ],
     "name:und_x_variant":[
         "Bab\u012bl\u0101"
     ],
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1259603295,
-    "wof:lastmodified":1537702240,
+    "wof:lastmodified":1564176588,
     "wof:name":"Babila",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

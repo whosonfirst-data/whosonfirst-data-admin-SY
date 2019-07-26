@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0634 \u0646\u0635\u0631\u064a"
     ],
+    "name:pol_x_preferred":[
+        "Hausz Nasri"
+    ],
     "name:und_x_variant":[
         "Haouch Nasr",
         "Haouch Nassri",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243259603,
-    "wof:lastmodified":1537702082,
+    "wof:lastmodified":1564176417,
     "wof:name":"Hawsh Nasri",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

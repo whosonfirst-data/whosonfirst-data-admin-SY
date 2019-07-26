@@ -29,12 +29,22 @@
         "\u0623\u0631\u0632\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0636\u0628\u0639\u0629"
+        "\u0627\u0644\u0636\u0628\u0639\u0629",
+        "\u0623\u0631\u0632\u0629 \u0627\u0644\u0636\u0628\u0639\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0632\u0647 \u0627\u0644\u0636\u0628\u0639\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Arza"
     ],
     "name:und_x_variant":[
         "Arz\u00e9",
         "Arzah",
         "A\u1e11 \u1e10ab\u2018ah"
+    ],
+    "name:vie_x_preferred":[
+        "Arzah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1209610435,
-    "wof:lastmodified":1537702295,
+    "wof:lastmodified":1564175898,
     "wof:name":"Arzah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

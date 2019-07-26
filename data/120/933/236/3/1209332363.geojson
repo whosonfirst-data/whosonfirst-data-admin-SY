@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0628\u0628\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Babu"
+    ],
+    "name:deu_x_preferred":[
+        "Babu"
+    ],
+    "name:fra_x_preferred":[
+        "Babu"
+    ],
+    "name:mlg_x_preferred":[
+        "Babu"
+    ],
+    "name:pol_x_preferred":[
+        "Babu"
+    ],
+    "name:por_x_preferred":[
+        "Babu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Babu"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c2c\u0c41"
+    ],
     "name:und_x_variant":[
         "Bab\u016b"
     ],
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1209332363,
-    "wof:lastmodified":1537702477,
+    "wof:lastmodified":1564175925,
     "wof:name":"Babu",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

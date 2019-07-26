@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0644\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Desa Julah"
+    ],
+    "name:ind_x_preferred":[
+        "Julah"
+    ],
+    "name:jav_x_preferred":[
+        "Julah"
+    ],
+    "name:msa_x_preferred":[
+        "Julah"
+    ],
+    "name:nld_x_preferred":[
+        "Julah"
+    ],
+    "name:sun_x_preferred":[
+        "Julah"
+    ],
+    "name:swe_x_preferred":[
+        "Desa Julah"
+    ],
     "name:tur_x_preferred":[
         "Sh\u016blah"
     ],
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1243468569,
-    "wof:lastmodified":1537701723,
+    "wof:lastmodified":1564176397,
     "wof:name":"Julah",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

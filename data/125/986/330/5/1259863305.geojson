@@ -31,6 +31,30 @@
     "name:ara_x_variant":[
         "\u0635\u0648\u062d\u0627"
     ],
+    "name:bos_x_preferred":[
+        "Suha"
+    ],
+    "name:ceb_x_preferred":[
+        "Suha"
+    ],
+    "name:fra_x_preferred":[
+        "Suha"
+    ],
+    "name:hrv_x_preferred":[
+        "Suha"
+    ],
+    "name:pol_x_preferred":[
+        "Suha"
+    ],
+    "name:slv_x_preferred":[
+        "Suha"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Suha"
+    ],
     "name:und_x_variant":[
         "So\u00fbha",
         "S\u016b\u1e29ah"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1259863305,
-    "wof:lastmodified":1537701709,
+    "wof:lastmodified":1564176609,
     "wof:name":"Suha",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

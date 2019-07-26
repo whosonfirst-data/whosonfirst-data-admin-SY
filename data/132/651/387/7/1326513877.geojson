@@ -31,8 +31,17 @@
     "name:ara_x_variant":[
         "\u062c\u062f\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u062f\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cidrin"
+    ],
     "name:und_x_variant":[
         "Jidr\u00eene"
+    ],
+    "name:vie_x_preferred":[
+        "Jidrin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1326513877,
-    "wof:lastmodified":1537702043,
+    "wof:lastmodified":1564175206,
     "wof:name":"Jidrin",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

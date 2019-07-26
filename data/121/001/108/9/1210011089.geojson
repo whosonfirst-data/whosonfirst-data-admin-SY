@@ -28,11 +28,32 @@
     "name:ara_x_preferred":[
         "\u062e\u0646\u0627\u0635\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Khan\u0101\u015fir"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0627\u0635\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Khanasser"
+    ],
+    "name:nno_x_preferred":[
+        "Khanasir"
+    ],
+    "name:pol_x_preferred":[
+        "Chanasir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0441\u0441\u0435\u0440"
+    ],
     "name:und_x_variant":[
         "Qun\u0101sira",
         "Khamassir",
         "Khan\u00e2sser",
         "Khan\u0101\u015fir",
+        "Khanasir"
+    ],
+    "name:vie_x_preferred":[
         "Khanasir"
     ],
     "src:geom":"geonames",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1210011089,
-    "wof:lastmodified":1537701986,
+    "wof:lastmodified":1564175979,
     "wof:name":"Khanasir",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

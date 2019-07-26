@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0641\u0627\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0631\u0641\u0627\u0648\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0641\u0627\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "At-Tarfawi"
+    ],
     "name:und_x_variant":[
         "Terf\u00e2oui",
         "\u0162arf\u0101w\u012b"
+    ],
+    "name:vie_x_preferred":[
+        "Tarfawi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209202797,
-    "wof:lastmodified":1537701582,
+    "wof:lastmodified":1564175936,
     "wof:name":"Tarfawi",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
         "T\u0101b\u0101n",
         "\u062a\u0627\u0628\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Taban"
+    ],
+    "name:deu_x_preferred":[
+        "Taban"
+    ],
+    "name:hun_x_preferred":[
+        "Tab\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Taban"
+    ],
+    "name:tur_x_preferred":[
+        "Taban"
+    ],
     "name:und_x_variant":[
         "T\u00e2b\u00e2ne"
     ],
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1310419961,
-    "wof:lastmodified":1537701698,
+    "wof:lastmodified":1564176100,
     "wof:name":"Taban",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

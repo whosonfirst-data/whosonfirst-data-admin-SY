@@ -31,8 +31,14 @@
     "name:ara_x_variant":[
         "\u062f\u064a\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Dilli"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dilli"
     ],
     "name:und_x_variant":[
         "Dill\u00e9"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1310197533,
-    "wof:lastmodified":1537702138,
+    "wof:lastmodified":1564176172,
     "wof:name":"Dilli",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

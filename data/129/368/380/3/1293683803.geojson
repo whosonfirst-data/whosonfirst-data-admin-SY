@@ -28,8 +28,35 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u0644"
     ],
+    "name:cat_x_preferred":[
+        "Khalil"
+    ],
+    "name:deu_x_preferred":[
+        "Khalil"
+    ],
+    "name:fra_x_preferred":[
+        "Khalil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05dc\u05d9\u05dc"
+    ],
+    "name:kur_x_preferred":[
+        "Xel\u00eel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Khalil"
+    ],
+    "name:swe_x_preferred":[
+        "Khalil"
+    ],
     "name:und_x_variant":[
         "Khal\u012bl"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5229\u52d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293683803,
-    "wof:lastmodified":1537702556,
+    "wof:lastmodified":1564175581,
     "wof:name":"Khalil",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

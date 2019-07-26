@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Dabba"
+    ],
+    "name:deu_x_preferred":[
+        "Dabba"
+    ],
     "name:und_x_variant":[
         "Dabb\u0101",
         "Daba"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259892863,
-    "wof:lastmodified":1537702165,
+    "wof:lastmodified":1564176601,
     "wof:name":"Dabba",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

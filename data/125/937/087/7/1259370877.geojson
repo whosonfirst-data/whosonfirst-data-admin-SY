@@ -31,11 +31,23 @@
     "name:ara_x_variant":[
         "\u0622\u0628\u0644"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0438\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Abil"
+    ],
     "name:und_x_variant":[
         "Abeul",
         "Abel",
         "Abil",
         "\u0100bil"
+    ],
+    "name:vie_x_preferred":[
+        "Abil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1259370877,
-    "wof:lastmodified":1537702417,
+    "wof:lastmodified":1564176521,
     "wof:name":"Abil",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

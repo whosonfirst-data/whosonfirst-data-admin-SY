@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0648\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u0644\u0648\u0632"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0644\u0648\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Halluz"
+    ],
     "name:und_x_variant":[
         "Hallo\u00fbz",
         "\u1e28all\u016bz"
+    ],
+    "name:vie_x_preferred":[
+        "Halluz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276955637,
-    "wof:lastmodified":1537702104,
+    "wof:lastmodified":1564175736,
     "wof:name":"Halluz",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

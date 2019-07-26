@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0637\u064a\u0631 \u062c\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u06cc\u0631 \u062c\u0628\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Tajr D\u017cubba"
+    ],
     "name:und_x_variant":[
         "Ta\u00efr Joubb\u00e9",
         "\u0162ayr Jubbah"
+    ],
+    "name:vie_x_preferred":[
+        "Tayr Jubbah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1327222687,
-    "wof:lastmodified":1537701646,
+    "wof:lastmodified":1564175225,
     "wof:name":"Tayr Jubbah",
     "wof:parent_id":1108779135,
     "wof:placetype":"locality",

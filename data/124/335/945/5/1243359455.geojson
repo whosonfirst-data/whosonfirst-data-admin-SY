@@ -31,6 +31,36 @@
     "name:ara_x_variant":[
         "\u0639\u0644\u064a\u0635\u0627"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1lassa"
+    ],
+    "name:deu_x_preferred":[
+        "Alassa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03b1\u03c3\u03c3\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c1lassa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0561\u057d\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Alasa"
+    ],
+    "name:slv_x_preferred":[
+        "Alassa"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1lassa"
+    ],
     "name:und_x_variant":[
         "Aal\u00eessa",
         "Alassa",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1243359455,
-    "wof:lastmodified":1537702359,
+    "wof:lastmodified":1564176428,
     "wof:name":"Alassa",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

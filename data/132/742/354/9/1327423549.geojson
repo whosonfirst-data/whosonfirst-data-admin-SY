@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0642"
     ],
+    "name:ceb_x_preferred":[
+        "M\u012bnaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Minaq"
+    ],
+    "name:swe_x_preferred":[
+        "M\u012bnaq"
+    ],
     "name:und_x_variant":[
         "Minnik",
         "Minnakh",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1327423549,
-    "wof:lastmodified":1537701887,
+    "wof:lastmodified":1564175315,
     "wof:name":"Minaq",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

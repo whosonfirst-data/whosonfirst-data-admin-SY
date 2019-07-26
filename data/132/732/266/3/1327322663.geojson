@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u062d"
     ],
+    "name:ceb_x_preferred":[
+        "Qarah"
+    ],
+    "name:sco_x_preferred":[
+        "Qarah"
+    ],
+    "name:swe_x_preferred":[
+        "Qarah"
+    ],
     "name:und_x_variant":[
         "Qr\u00e2h",
         "Qar\u0101\u1e29"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327322663,
-    "wof:lastmodified":1537701837,
+    "wof:lastmodified":1564175259,
     "wof:name":"Qarah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

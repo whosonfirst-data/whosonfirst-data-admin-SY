@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0634\u0648\u064a\u062d\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Ash Shuwayhah"
+    ],
     "name:und_x_variant":[
         "Ghoue\u00efhat Chidar",
         "Shuway\u1e29ah",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343758643,
-    "wof:lastmodified":1537701720,
+    "wof:lastmodified":1564175484,
     "wof:name":"Ash Shuwayhah",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

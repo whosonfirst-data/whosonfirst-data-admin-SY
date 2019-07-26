@@ -36,6 +36,12 @@
         "Y\u00e2bo\u00fbs",
         "Kufayr Y\u0101b\u016bs"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0628\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5e03\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1309697943,
-    "wof:lastmodified":1537701604,
+    "wof:lastmodified":1564176300,
     "wof:name":"Yabus",
     "wof:parent_id":1108779087,
     "wof:placetype":"locality",

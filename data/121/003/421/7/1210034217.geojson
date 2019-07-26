@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "Y\u0101f\u0101"
     ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0641\u0639"
+    ],
+    "name:cat_x_preferred":[
+        "Yafi"
+    ],
+    "name:nno_x_preferred":[
+        "Yafa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1210034217,
-    "wof:lastmodified":1537702464,
+    "wof:lastmodified":1564175983,
     "wof:name":"Yafa",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

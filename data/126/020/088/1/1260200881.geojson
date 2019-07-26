@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u064a\u0648\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631 \u0623\u064a\u0648\u0628"
+    ],
     "name:kur_x_preferred":[
         "D\u00earuna Qulinga"
     ],
     "name:kur_x_variant":[
         "\u062f\u06ce\u0631\u0648\u0646\u0627 \u0642\u0648\u0644\u0646\u06af\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Ajjub"
     ],
     "name:und_x_variant":[
         "Dayr Ayy\u016bb",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1260200881,
-    "wof:lastmodified":1537702442,
+    "wof:lastmodified":1564176058,
     "wof:name":"Dayr Ayyub",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

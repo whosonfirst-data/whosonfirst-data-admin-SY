@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Banan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Ben\u0101n",
         "Bn\u0101n",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226132377,
-    "wof:lastmodified":1537702229,
+    "wof:lastmodified":1564176696,
     "wof:name":"Banan",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

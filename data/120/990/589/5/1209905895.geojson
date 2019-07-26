@@ -31,6 +31,15 @@
     "name:eng_x_preferred":[
         "Khan al-Assal"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0639\u0633\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Khan al-Assal"
+    ],
+    "name:pol_x_preferred":[
+        "Chan al-Asal"
+    ],
     "name:und_x_variant":[
         "Khane el Assal",
         "Kh\u00e2ne el Aassal",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1209905895,
-    "wof:lastmodified":1537701987,
+    "wof:lastmodified":1564175849,
     "wof:name":"Khan al `Asal",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

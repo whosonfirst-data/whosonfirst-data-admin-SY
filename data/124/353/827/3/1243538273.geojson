@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062c\u0635\u064a\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Jasin"
+    ],
+    "name:fra_x_preferred":[
+        "Jasin"
+    ],
+    "name:nld_x_preferred":[
+        "Jasin"
+    ],
+    "name:pol_x_preferred":[
+        "Jasin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Djassine",
         "Jass\u00eene",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1243538273,
-    "wof:lastmodified":1537702049,
+    "wof:lastmodified":1564176341,
     "wof:name":"Jasin",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

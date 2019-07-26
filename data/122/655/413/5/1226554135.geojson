@@ -28,6 +28,36 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0631\u0628\u0629 \u062d\u0633\u064a\u0646\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b0\u09ac\u09be\u09b9"
+    ],
+    "name:epo_x_preferred":[
+        "Mohro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Turbah"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0582\u0580\u0562\u0561\u0570"
+    ],
+    "name:ind_x_preferred":[
+        "Turbah"
+    ],
+    "name:msa_x_preferred":[
+        "Turbah"
+    ],
+    "name:ron_x_preferred":[
+        "Turbah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "\u0162urbah"
     ],
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1226554135,
-    "wof:lastmodified":1537702497,
+    "wof:lastmodified":1564176736,
     "wof:name":"Turbah",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

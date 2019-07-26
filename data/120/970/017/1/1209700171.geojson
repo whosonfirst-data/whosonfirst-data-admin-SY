@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0645\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0645\u062f"
+    ],
     "name:und_x_variant":[
         "Sam\u0101d",
         "\u015eamad"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209700171,
-    "wof:lastmodified":1537701759,
+    "wof:lastmodified":1564175861,
     "wof:name":"Samad",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

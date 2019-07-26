@@ -30,10 +30,23 @@
     ],
     "name:ara_x_variant":[
         "J\u016bz\u012bf",
-        "\u062c\u0648\u0632\u064a\u0641"
+        "\u062c\u0648\u0632\u064a\u0641",
+        "\u062c\u0648\u0632\u0641"
+    ],
+    "name:deu_x_preferred":[
+        "Juzif"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0632\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cuzif"
     ],
     "name:und_x_variant":[
         "Jo\u00fbzef"
+    ],
+    "name:vie_x_preferred":[
+        "Juzif"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1276320687,
-    "wof:lastmodified":1537702021,
+    "wof:lastmodified":1564175732,
     "wof:name":"Juzif",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

@@ -32,6 +32,15 @@
         "Q\u0101\u1e29",
         "\u0642\u0627\u062d"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Kah"
+    ],
+    "name:vie_x_preferred":[
+        "Qah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1193114369,
-    "wof:lastmodified":1537701848,
+    "wof:lastmodified":1564176020,
     "wof:name":"Kah",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

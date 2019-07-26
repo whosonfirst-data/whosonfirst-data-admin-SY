@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645 \u062d\u0645\u062f\u0627\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645 \u062d\u0645\u062f\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ram Hamdan"
+    ],
     "name:und_x_variant":[
         "R\u00e2m Hamd\u00e2ne",
         "R\u0101m \u1e28amd\u0101n"
+    ],
+    "name:vie_x_preferred":[
+        "Ram Hamdan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343739475,
-    "wof:lastmodified":1537701793,
+    "wof:lastmodified":1564175470,
     "wof:name":"Ram Hamdan",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

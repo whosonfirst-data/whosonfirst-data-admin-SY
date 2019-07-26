@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u0647\u0631\u0642\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0647\u0631\u0642\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0642\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Harkal"
+    ],
     "name:und_x_variant":[
         "Ha\u00efrqal",
         "Hayrqal",
+        "Harqal"
+    ],
+    "name:vie_x_preferred":[
         "Harqal"
     ],
     "src:geom":"geonames",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310193183,
-    "wof:lastmodified":1537702092,
+    "wof:lastmodified":1564176175,
     "wof:name":"Harqal",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

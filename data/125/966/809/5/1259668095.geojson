@@ -32,6 +32,12 @@
         "\u015e\u012br\u016b",
         "\u0635\u064a\u0631\u0648"
     ],
+    "name:ita_x_preferred":[
+        "Siro"
+    ],
+    "name:spa_x_preferred":[
+        "Siro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259668095,
-    "wof:lastmodified":1537701714,
+    "wof:lastmodified":1564176574,
     "wof:name":"Siro",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

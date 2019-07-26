@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0642\u064a\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0642\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Nakir"
+    ],
     "name:und_x_variant":[
         "Naq\u012br"
+    ],
+    "name:vie_x_preferred":[
+        "Naqir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226225923,
-    "wof:lastmodified":1537702622,
+    "wof:lastmodified":1564176698,
     "wof:name":"Naqir",
     "wof:parent_id":1108779135,
     "wof:placetype":"locality",

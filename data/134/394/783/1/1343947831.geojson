@@ -28,10 +28,34 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Jund"
+    ],
+    "name:deu_x_preferred":[
+        "Dschund"
+    ],
+    "name:fra_x_preferred":[
+        "Jund"
+    ],
+    "name:ind_x_preferred":[
+        "Jund"
+    ],
+    "name:ita_x_preferred":[
+        "Jund"
+    ],
+    "name:por_x_preferred":[
+        "Junde"
+    ],
+    "name:spa_x_preferred":[
+        "Yund"
+    ],
     "name:und_x_variant":[
         "Djin\u00e2te",
         "Jinnd",
         "Jund"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1343947831,
-    "wof:lastmodified":1537702025,
+    "wof:lastmodified":1564175438,
     "wof:name":"Jund",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

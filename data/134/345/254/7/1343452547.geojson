@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0632\u0644\u0627"
     ],
+    "name:nld_x_preferred":[
+        "Zila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343452547,
-    "wof:lastmodified":1537701535,
+    "wof:lastmodified":1564175468,
     "wof:name":"Zila",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u062e\u0631\u0628\u0629"
     ],
+    "name:nor_x_preferred":[
+        "Ribla"
+    ],
     "name:und_x_variant":[
         "Rableh",
         "Rible",
@@ -40,6 +43,9 @@
         "Riblah",
         "Rablah",
         "Khirbah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u6bd4\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1209195541,
-    "wof:lastmodified":1537701779,
+    "wof:lastmodified":1564175954,
     "wof:name":"Rablah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

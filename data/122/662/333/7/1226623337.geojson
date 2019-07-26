@@ -28,6 +28,96 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0631\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "M\u0259arrat \u0259n-Numan"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u0430\u0442 \u0430\u043d-\u041d\u0443\u043c\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Maarat an-Numan"
+    ],
+    "name:ces_x_preferred":[
+        "Ma'arat an-Num\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Maarat an-Numan"
+    ],
+    "name:eus_x_preferred":[
+        "Maarrat al-Numan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u0631\u0647 \u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Maarrat an-Numan"
+    ],
+    "name:fra_x_preferred":[
+        "Maarat al-Nouman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05e8\u05ea \u05d0-\u05e0\u05d5\u05e2\u05de\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Maarrat an-Num\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0561\u0580\u0580\u0561\u0569 \u0561\u056c-\u0546\u0578\u0582\u0574\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Ma'arrat al-Nu'man"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a2\u30c3\u30e9\u30c8\u30fb\u30a2\u30f3\uff1d\u30cc\u30a6\u30de\u30fc\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d0\u10e0\u10d0\u10d7-\u10d4\u10da-\u10dc\u10e3\u10e3\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Maarat an Numanas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0639\u0631\u0647 \u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Ma'arrat al-Numan"
+    ],
+    "name:nno_x_preferred":[
+        "Maarrat al-Nu'man"
+    ],
+    "name:nor_x_preferred":[
+        "Maarrat al-Numan"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019arrat an-Numan"
+    ],
+    "name:por_x_preferred":[
+        "Maarate Anumane"
+    ],
+    "name:ron_x_preferred":[
+        "Maarrat al-Numan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u0440\u0430\u0442-\u044d\u043d-\u041d\u0443\u0443\u043c\u0430\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Marat an-Numan"
+    ],
+    "name:spa_x_preferred":[
+        "Maarat an-Numan"
+    ],
+    "name:sqi_x_preferred":[
+        "Marrat el-Numan"
+    ],
+    "name:swe_x_preferred":[
+        "Ma'arrat an-Nu'man"
+    ],
+    "name:tur_x_preferred":[
+        "Ma'arret\u00fc'n-Nu'man"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0430\u0440\u0440\u0435\u0442-\u0435\u043d-\u041d\u0443\u0443\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Maret en Na\u2018man",
         "Ma\u2018arret en Nu\u2018m\u0101n",
@@ -40,6 +130,15 @@
         "Maarat al-Numaan",
         "al-Ma\u02bfarra",
         "Ma\u02bfarrat al-Nu\u02bfm\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0639\u0631\u06c3 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Maarrat al-Nu'man"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u963f\u8cf4\u52aa\u963f\u66fc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +164,7 @@
         }
     ],
     "wof:id":1226623337,
-    "wof:lastmodified":1537701927,
+    "wof:lastmodified":1564176755,
     "wof:name":"Ma`arrat an Nu`man",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

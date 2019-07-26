@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0631\u0646\u0627\u0632"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0646\u0627\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Szahranaz"
+    ],
     "name:und_x_variant":[
         "Chahran\u00e2z",
         "Shahran\u0101z"
+    ],
+    "name:vie_x_preferred":[
+        "Shahranaz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259856751,
-    "wof:lastmodified":1537701744,
+    "wof:lastmodified":1564176550,
     "wof:name":"Shahranaz",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0634\u0645\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Shama"
+    ],
+    "name:deu_x_preferred":[
+        "Shama"
+    ],
+    "name:fra_x_preferred":[
+        "Shama"
+    ],
+    "name:swe_x_preferred":[
+        "Shama"
+    ],
     "name:und_x_variant":[
         "Chamma",
         "Sham\u0101"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243181803,
-    "wof:lastmodified":1537702166,
+    "wof:lastmodified":1564176472,
     "wof:name":"Shama",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

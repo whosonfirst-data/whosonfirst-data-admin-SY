@@ -31,6 +31,45 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0643\u0631\u0645\u0629"
     ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0440\u0434\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Mhardeh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0631\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mhardeh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0570\u0580\u0561\u0564\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10f0\u10d0\u10e0\u10d3\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Mhard\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Mhardeh"
+    ],
+    "name:nno_x_preferred":[
+        "Mhardeh"
+    ],
+    "name:pol_x_preferred":[
+        "Maharda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0440\u0430\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Maharda"
+    ],
+    "name:spa_x_preferred":[
+        "Muhrada"
+    ],
     "name:und_x_variant":[
         "Ma\u1e29ardah",
         "Muhardeh",
@@ -38,6 +77,12 @@
         "Ma\u1e29ardih",
         "Mu\u1e29radah",
         "Al Karmah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0631\u062f\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Mahardah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1292989737,
-    "wof:lastmodified":1537701877,
+    "wof:lastmodified":1564175603,
     "wof:name":"Muhradah",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

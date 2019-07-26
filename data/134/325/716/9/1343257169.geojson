@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u06cc\u0628\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Dunajba"
+    ],
     "name:und_x_variant":[
         "Koma Danaba",
         "Dunaybah",
@@ -35,6 +41,9 @@
         "Dna\u00efb\u00e9",
         "Deneib\u00e9",
         "Dhunaybah"
+    ],
+    "name:vie_x_preferred":[
+        "Dunaybah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343257169,
-    "wof:lastmodified":1537702141,
+    "wof:lastmodified":1564175414,
     "wof:name":"Dunaybah",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

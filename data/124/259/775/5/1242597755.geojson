@@ -28,12 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0639\u0629 \u0628\u064a\u062a \u062c\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Mazra\u2019at Bajt D\u017cinn"
+    ],
     "name:und_x_variant":[
         "Mazraat Be\u00efn J\u00eenn",
         "Mazraat Be\u00eft J\u00eenn",
         "Mazra\u2018at Bay J\u00eenn",
         "Mazra\u2018at Bayt Jinn",
         "Mazraat Be\u00eft Jinn"
+    ],
+    "name:vie_x_preferred":[
+        "Mazraat Beit Jinn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1242597755,
-    "wof:lastmodified":1537701890,
+    "wof:lastmodified":1564176379,
     "wof:name":"Mazra`at Bayt Jinn",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

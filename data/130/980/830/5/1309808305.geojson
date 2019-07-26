@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0162urb\u0101"
     ],
+    "name:deu_x_preferred":[
+        "Turba"
+    ],
+    "name:epo_x_preferred":[
+        "Turba"
+    ],
+    "name:fra_x_preferred":[
+        "Turba"
+    ],
+    "name:nld_x_preferred":[
+        "Turba"
+    ],
+    "name:nor_x_preferred":[
+        "Turba"
+    ],
+    "name:por_x_preferred":[
+        "Turba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1309808305,
-    "wof:lastmodified":1537701552,
+    "wof:lastmodified":1564176306,
     "wof:name":"Turba",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

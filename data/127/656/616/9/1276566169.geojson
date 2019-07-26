@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0648\u0649"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0637\u0648\u06c1"
+    ],
     "name:und_x_variant":[
         "Ma\u0163w\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0679\u0648\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276566169,
-    "wof:lastmodified":1537702579,
+    "wof:lastmodified":1564175720,
     "wof:name":"Matwa",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

@@ -29,7 +29,20 @@
         "Bz\u0101\u2018\u0101"
     ],
     "name:ara_x_variant":[
-        "\u0628\u0632\u0627\u063a\u0629"
+        "\u0628\u0632\u0627\u063a\u0629",
+        "\u0628\u0632\u0627\u0639\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Biza\u02bfa"
+    ],
+    "name:pol_x_preferred":[
+        "Biza\u2019a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0437\u0430\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Biz\u00e2h"
     ],
     "name:und_x_variant":[
         "Bizaa",
@@ -42,6 +55,9 @@
         "Bizeaa",
         "Beza'\u0101h",
         "Bza\u2019a"
+    ],
+    "name:vie_x_preferred":[
+        "Bizaah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +83,7 @@
         }
     ],
     "wof:id":1226561039,
-    "wof:lastmodified":1537702167,
+    "wof:lastmodified":1564176670,
     "wof:name":"Bizaghah",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Mushayrifah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Mushayrifah"
+    ],
     "name:und_x_variant":[
         "El Mcha\u00efr",
         "El Mcha\u00efrf\u00e9",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1226623283,
-    "wof:lastmodified":1537702331,
+    "wof:lastmodified":1564176756,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

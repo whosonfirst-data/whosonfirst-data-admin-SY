@@ -29,7 +29,26 @@
         "A\u015f \u015e\u0101fi\u1e29"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0635\u0627\u0641\u062d"
+        "\u0627\u0644\u0635\u0627\u0641\u062d",
+        "\u0635\u0641\u0627\u0621"
+    ],
+    "name:ceb_x_preferred":[
+        "Safa"
+    ],
+    "name:deu_x_preferred":[
+        "Safa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Safa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0444\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Safa"
     ],
     "name:und_x_variant":[
         "Es S\u00e2feh",
@@ -60,7 +79,7 @@
         }
     ],
     "wof:id":1209733329,
-    "wof:lastmodified":1537702280,
+    "wof:lastmodified":1564175940,
     "wof:name":"Safa",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

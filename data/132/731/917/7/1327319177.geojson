@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0645\u0627\u0643\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631 \u0645\u0627\u06a9\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Makir"
+    ],
     "name:und_x_variant":[
         "De\u00efr M\u00e2ker",
         "Dayr M\u0101kir"
+    ],
+    "name:vie_x_preferred":[
+        "Deir Maker"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1327319177,
-    "wof:lastmodified":1537702146,
+    "wof:lastmodified":1564175186,
     "wof:name":"Dayr Makir",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

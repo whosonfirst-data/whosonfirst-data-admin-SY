@@ -25,6 +25,18 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ramat Mag\u0161imim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05ea \u05de\u05d2\u05e9\u05d9\u05de\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Ramat Magshimim"
+    ],
+    "name:vie_x_preferred":[
+        "Ramat Magshimim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85678395,
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1243472579,
-    "wof:lastmodified":1549931196,
+    "wof:lastmodified":1564176411,
     "wof:name":"Ramat Magshimim",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

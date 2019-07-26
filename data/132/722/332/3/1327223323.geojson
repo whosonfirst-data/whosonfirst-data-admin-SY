@@ -31,9 +31,24 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0627\u0646\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0646\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bayanoun"
+    ],
+    "name:pol_x_preferred":[
+        "Bijanun"
+    ],
+    "name:sco_x_preferred":[
+        "Bayanoun"
+    ],
     "name:und_x_variant":[
         "Bi\u00e2noun",
         "Bianoune",
+        "Bayanoun"
+    ],
+    "name:vie_x_preferred":[
         "Bayanoun"
     ],
     "src:geom":"geonames",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1327223323,
-    "wof:lastmodified":1537702192,
+    "wof:lastmodified":1564175225,
     "wof:name":"Biyanun",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0628\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0644\u064a\u0628\u064a\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u06cc\u0628\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Halibijja"
+    ],
     "name:und_x_variant":[
         "\u1e28alab\u012byah"
+    ],
+    "name:vie_x_preferred":[
+        "Halabiyah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1292997399,
-    "wof:lastmodified":1537702106,
+    "wof:lastmodified":1564175610,
     "wof:name":"Halabiyah",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

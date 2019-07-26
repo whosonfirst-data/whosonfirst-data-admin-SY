@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0628\u062d\u0648\u0631\u062a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062d\u0648\u0631\u062a\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bahwarta"
+    ],
     "name:und_x_variant":[
         "Bahourt\u00e9",
         "Ba\u1e29wart\u00e9",
@@ -38,6 +44,9 @@
         "Ba\u1e29r\u016btah",
         "Bahouerte",
         "Ba\u1e29\u016brtah"
+    ],
+    "name:vie_x_preferred":[
+        "Bahwartah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1293190519,
-    "wof:lastmodified":1537702236,
+    "wof:lastmodified":1564175652,
     "wof:name":"Bahwartah",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

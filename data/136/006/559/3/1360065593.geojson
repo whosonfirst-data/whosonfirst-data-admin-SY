@@ -32,9 +32,21 @@
         "\u0645\u0644\u064a\u0633",
         "\u0645\u0644\u0633"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Millis"
+    ],
+    "name:pol_x_preferred":[
+        "Millis"
+    ],
     "name:und_x_variant":[
         "Malis",
         "Melis",
+        "Millis"
+    ],
+    "name:vie_x_preferred":[
         "Millis"
     ],
     "src:geom":"geonames",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1360065593,
-    "wof:lastmodified":1537701887,
+    "wof:lastmodified":1564176228,
     "wof:name":"Millis",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

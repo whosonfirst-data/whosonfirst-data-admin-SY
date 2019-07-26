@@ -30,11 +30,36 @@
         "D\u012bb\u0101n"
     ],
     "name:ara_x_variant":[
-        "\u062f\u064a\u0628\u0627\u0646"
+        "\u062f\u064a\u0628\u0627\u0646",
+        "\u0630\u064a\u0628\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0630\u06cc\u0628\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Diban"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u056b\u0562\u0561\u0576"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Diban"
+    ],
+    "name:pol_x_preferred":[
+        "Ziban"
+    ],
+    "name:por_x_preferred":[
+        "D\u00edbon"
     ],
     "name:und_x_variant":[
         "Dabyan",
         "D\u00eeb\u00e2ne"
+    ],
+    "name:vie_x_preferred":[
+        "Diban"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +85,7 @@
         }
     ],
     "wof:id":1327330569,
-    "wof:lastmodified":1537702141,
+    "wof:lastmodified":1564175257,
     "wof:name":"Diban",
     "wof:parent_id":1108779151,
     "wof:placetype":"locality",

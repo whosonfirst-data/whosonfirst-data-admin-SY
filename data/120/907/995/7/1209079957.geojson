@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062d\u0646\u062c\u0648\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0646\u062c\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Hand\u017cur"
+    ],
     "name:und_x_variant":[
         "\u1e28anj\u016br"
+    ],
+    "name:vie_x_preferred":[
+        "Hanjur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209079957,
-    "wof:lastmodified":1537702624,
+    "wof:lastmodified":1564175826,
     "wof:name":"Hanjur",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

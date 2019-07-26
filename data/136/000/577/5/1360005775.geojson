@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0641\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u0641\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Harfa"
+    ],
     "name:und_x_variant":[
         "\u1e28arfah",
         "\u1e28arf\u0101",
+        "Harfa"
+    ],
+    "name:vie_x_preferred":[
         "Harfa"
     ],
     "src:geom":"geonames",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1360005775,
-    "wof:lastmodified":1537702094,
+    "wof:lastmodified":1564176217,
     "wof:name":"Harfa",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

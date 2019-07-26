@@ -28,12 +28,24 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0644\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0637\u0644\u0639"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0637\u0644\u0639"
+    ],
     "name:tur_x_preferred":[
         "Mu\u0163allah"
+    ],
+    "name:tur_x_variant":[
+        "Matla"
     ],
     "name:und_x_variant":[
         "Motalla",
         "Ma\u0163l\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0637\u0644\u0639"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343862399,
-    "wof:lastmodified":1537701864,
+    "wof:lastmodified":1564175486,
     "wof:name":"Matla",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

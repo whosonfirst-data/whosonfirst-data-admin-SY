@@ -28,12 +28,48 @@
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Saidnaya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u06cc\u062f\u0646\u0627\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Seidnaya"
+    ],
+    "name:fry_x_preferred":[
+        "Saidnaya"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0575\u0564\u0576\u0561\u0575\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Saydnaya"
+    ],
+    "name:nno_x_preferred":[
+        "Saidnaya"
+    ],
+    "name:pol_x_preferred":[
+        "Sajdnaja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439\u0435\u0434\u043d\u0430\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Saidnaya"
+    ],
+    "name:spa_x_preferred":[
+        "Saydnaya"
+    ],
     "name:und_x_variant":[
         "Seyd Naya",
         "Said N\u00e2ya",
         "Seidnaya",
         "Sednaya",
         "\u015eaydn\u0101y\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u0646\u0627\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +95,7 @@
         }
     ],
     "wof:id":1343681951,
-    "wof:lastmodified":1537701750,
+    "wof:lastmodified":1564175420,
     "wof:name":"Saydnaya",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

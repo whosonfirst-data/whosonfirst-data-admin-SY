@@ -28,8 +28,41 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Jaba"
+    ],
+    "name:deu_x_preferred":[
+        "Jaba"
+    ],
+    "name:fra_x_preferred":[
+        "Jaba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d1\u05e2"
+    ],
+    "name:hun_x_preferred":[
+        "Jaba"
+    ],
+    "name:ita_x_preferred":[
+        "Jaba"
+    ],
+    "name:nld_x_preferred":[
+        "Jaba"
+    ],
+    "name:pol_x_preferred":[
+        "Jaba"
+    ],
+    "name:por_x_preferred":[
+        "Jab\u00e1"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0431\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Jaba"
     ],
     "name:und_x_variant":[
         "Jabah",
@@ -79,7 +112,7 @@
         }
     ],
     "wof:id":1360196285,
-    "wof:lastmodified":1537702059,
+    "wof:lastmodified":1564176262,
     "wof:name":"Jaba",
     "wof:parent_id":1108779081,
     "wof:placetype":"locality",

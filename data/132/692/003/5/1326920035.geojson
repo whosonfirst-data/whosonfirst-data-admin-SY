@@ -44,7 +44,8 @@
         "\u0643\u0648\u0631\u0643\u0649 \u0698\u064a\u0631",
         "\u0643\u0648\u0631\u0643\u0649 \u0698\u06ce\u0631",
         "\u0643\u0648\u0631\u0643\u06ce \u0698\u06ce\u0631",
-        "\u0643\u06c6\u0631\u0643\u06ce \u0698\u06ce\u0631"
+        "\u0643\u06c6\u0631\u0643\u06ce \u0698\u06ce\u0631",
+        "Kurik"
     ],
     "name:und_x_variant":[
         "Kawrak",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1326920035,
-    "wof:lastmodified":1537701571,
+    "wof:lastmodified":1564175216,
     "wof:name":"Kurik",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

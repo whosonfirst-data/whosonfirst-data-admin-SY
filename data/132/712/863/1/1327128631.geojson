@@ -32,6 +32,9 @@
         "\u0634\u0627\u062f\u0631",
         "\u0634\u0632\u0627\u0631"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d6\u05e8"
+    ],
     "name:und_x_variant":[
         "Ch\u00e2dar",
         "Shad\u0101d",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327128631,
-    "wof:lastmodified":1537701746,
+    "wof:lastmodified":1564175238,
     "wof:name":"Shazar",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

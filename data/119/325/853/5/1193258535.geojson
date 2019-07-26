@@ -31,10 +31,25 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0645\u0628\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0645\u0628\u0644"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0570\u0561\u0574\u0562\u0561\u056c"
+    ],
+    "name:pol_x_preferred":[
+        "Muhambal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u043c\u0431\u0430\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Mhannbel",
         "Mu\u1e29anbal",
         "Mu\u1e29ambal"
+    ],
+    "name:vie_x_preferred":[
+        "Muhambal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1193258535,
-    "wof:lastmodified":1537701878,
+    "wof:lastmodified":1564176009,
     "wof:name":"Muhambal",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

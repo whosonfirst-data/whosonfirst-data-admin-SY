@@ -31,11 +31,20 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn al-Bajda"
+    ],
     "name:und_x_variant":[
         "A\u00efn el Beida",
         "\u2018Ayn al Bay\u1e11ah",
         "\u2018Ayn al Bay\u1e11\u0101\u2019",
         "\u2018Ayn al Bay\u1e11\u0101",
+        "Ein El-Bayda"
+    ],
+    "name:vie_x_preferred":[
         "Ein El-Bayda"
     ],
     "src:geom":"geonames",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1293896239,
-    "wof:lastmodified":1537702259,
+    "wof:lastmodified":1564175632,
     "wof:name":"`Ayn al Bayda",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

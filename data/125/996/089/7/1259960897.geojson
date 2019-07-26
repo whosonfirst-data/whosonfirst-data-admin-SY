@@ -28,11 +28,29 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u062f\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u062f\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Zaidal"
+    ],
+    "name:pol_x_preferred":[
+        "Zajdal"
+    ],
+    "name:spa_x_preferred":[
+        "Zeidal"
+    ],
+    "name:tur_x_preferred":[
+        "Zeydal"
+    ],
     "name:und_x_variant":[
         "Zidali",
         "Za\u00efdal",
         "Zeidan",
         "Zaydal"
+    ],
+    "name:vie_x_preferred":[
+        "Zaidal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259960897,
-    "wof:lastmodified":1537701593,
+    "wof:lastmodified":1564176515,
     "wof:name":"Zaydal",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

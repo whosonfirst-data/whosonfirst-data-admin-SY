@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0632\u064a\u0644\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Ghuzajla"
+    ],
+    "name:vie_x_preferred":[
+        "Ghuzaylah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326713997,
-    "wof:lastmodified":1537701530,
+    "wof:lastmodified":1564175272,
     "wof:name":"Ghuzaylah",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

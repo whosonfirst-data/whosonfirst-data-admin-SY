@@ -34,6 +34,9 @@
         "\u0627\u0644\u0631\u0648\u0627\u0628\u064a",
         "\u0627\u0644\u062e\u0636\u0631"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043f'\u044f\u0445"
+    ],
     "name:und_x_variant":[
         "B\u016br",
         "Bo\u00fbr",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293399041,
-    "wof:lastmodified":1537702377,
+    "wof:lastmodified":1564175529,
     "wof:name":"Bur",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

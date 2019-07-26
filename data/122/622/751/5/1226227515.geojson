@@ -28,10 +28,25 @@
     "name:ara_x_preferred":[
         "\u0632\u0628\u062f\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u062f\u06cc\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Zabdin"
+    ],
+    "name:pol_x_preferred":[
+        "Zabdin"
+    ],
     "name:und_x_variant":[
         "Zibdine",
         "Zebd\u00eene",
         "Zabd\u012bn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u062f\u06cc\u06ba"
+    ],
+    "name:vie_x_preferred":[
+        "Zabdin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226227515,
-    "wof:lastmodified":1537701600,
+    "wof:lastmodified":1564176700,
     "wof:name":"Zabdin",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

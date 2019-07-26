@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u0643\u0645\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Kamin"
+    ],
+    "name:deu_x_preferred":[
+        "Kamin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043d"
+    ],
+    "name:nor_x_preferred":[
+        "Kamin"
+    ],
+    "name:pol_x_preferred":[
+        "Kamin"
+    ],
+    "name:swe_x_preferred":[
+        "Kamin"
+    ],
     "name:und_x_variant":[
         "K\u00eem\u00eene",
         "Kam\u012bn"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326933473,
-    "wof:lastmodified":1537701950,
+    "wof:lastmodified":1564175213,
     "wof:name":"Kamin",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

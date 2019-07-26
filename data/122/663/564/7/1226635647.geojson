@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Bal\u016bs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0633"
+    ],
+    "name:swe_x_preferred":[
+        "Bal\u016bs"
+    ],
     "name:und_x_variant":[
         "Belas",
         "Bl\u00e2s",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226635647,
-    "wof:lastmodified":1537702234,
+    "wof:lastmodified":1564176748,
     "wof:name":"Balas",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

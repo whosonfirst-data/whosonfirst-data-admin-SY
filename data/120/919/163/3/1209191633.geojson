@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u062f\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062f\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Sardin"
+    ],
     "name:und_x_variant":[
         "Sardine",
         "Sard\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Sardin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209191633,
-    "wof:lastmodified":1537701754,
+    "wof:lastmodified":1564175953,
     "wof:name":"Sardin",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

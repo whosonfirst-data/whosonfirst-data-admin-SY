@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0631\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0642"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0642"
+    ],
+    "name:pol_x_preferred":[
+        "Minak"
+    ],
+    "name:tur_x_preferred":[
+        "Minek"
+    ],
     "name:und_x_variant":[
         "Maarr\u00eene",
         "Ma\u2018arr\u012bn",
@@ -35,6 +47,9 @@
         "Menagh",
         "Manq",
         "Meng"
+    ],
+    "name:vie_x_preferred":[
+        "Menagh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1343351305,
-    "wof:lastmodified":1537701925,
+    "wof:lastmodified":1564175424,
     "wof:name":"Ma`arrin",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

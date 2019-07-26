@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0631\u062d\u0649"
     ],
+    "name:ceb_x_preferred":[
+        "Raha"
+    ],
+    "name:deu_x_preferred":[
+        "Raha"
+    ],
+    "name:est_x_preferred":[
+        "Raha"
+    ],
+    "name:fin_x_preferred":[
+        "Raha"
+    ],
+    "name:fra_x_preferred":[
+        "Raha"
+    ],
+    "name:swe_x_preferred":[
+        "Raha"
+    ],
     "name:und_x_variant":[
         "Ra\u1e29ah",
         "Er Raha",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1243459353,
-    "wof:lastmodified":1537702303,
+    "wof:lastmodified":1564176483,
     "wof:name":"Raha",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

@@ -31,8 +31,17 @@
     "name:ara_x_variant":[
         "\u0632\u0645\u0631\u064a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Zimrin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u0440\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Zimr\u00eene"
+    ],
+    "name:vie_x_preferred":[
+        "Zimrin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326827603,
-    "wof:lastmodified":1537701589,
+    "wof:lastmodified":1564175269,
     "wof:name":"Zimrin",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

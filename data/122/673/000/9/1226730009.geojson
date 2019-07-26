@@ -31,8 +31,23 @@
     "name:ara_x_variant":[
         "\u0634\u0646\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Shin\u0101n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Chnan"
+    ],
+    "name:pol_x_preferred":[
+        "Szinan"
+    ],
     "name:und_x_variant":[
         "Chn\u00e2ne"
+    ],
+    "name:vie_x_preferred":[
+        "Shinan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226730009,
-    "wof:lastmodified":1537701726,
+    "wof:lastmodified":1564176650,
     "wof:name":"Shinan",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

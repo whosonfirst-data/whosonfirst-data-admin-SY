@@ -28,7 +28,28 @@
     "name:ara_x_preferred":[
         "\u0634\u0642\u0651\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0642\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaqq\u0101"
+    ],
+    "name:deu_x_preferred":[
+        "Schaqqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0642\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Shaqqa"
+    ],
+    "name:pol_x_preferred":[
+        "Szakka"
+    ],
     "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0430\u043a\u043a\u0430"
     ],
     "name:und_x_variant":[
@@ -37,6 +58,9 @@
         "Chaqqa",
         "Shaqqah",
         "Shaqq\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Shaqqa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1293132701,
-    "wof:lastmodified":1537701736,
+    "wof:lastmodified":1564175571,
     "wof:name":"Shaqqa",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

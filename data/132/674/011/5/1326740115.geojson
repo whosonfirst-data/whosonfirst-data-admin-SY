@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u062f\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Kundak"
+    ],
+    "name:swe_x_preferred":[
+        "Kundak"
+    ],
     "name:tur_x_preferred":[
         "Kundak"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1326740115,
-    "wof:lastmodified":1537701939,
+    "wof:lastmodified":1564175199,
     "wof:name":"Kundak",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

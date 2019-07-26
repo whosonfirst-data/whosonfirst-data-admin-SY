@@ -31,6 +31,30 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u0631\u064a\u062a"
     ],
+    "name:deu_x_preferred":[
+        "Marit"
+    ],
+    "name:fra_x_preferred":[
+        "Marit"
+    ],
+    "name:isl_x_preferred":[
+        "Marit"
+    ],
+    "name:nld_x_preferred":[
+        "Marit"
+    ],
+    "name:nno_x_preferred":[
+        "Marit"
+    ],
+    "name:nor_x_preferred":[
+        "Marit"
+    ],
+    "name:spa_x_preferred":[
+        "Marit"
+    ],
+    "name:swe_x_preferred":[
+        "Marit"
+    ],
     "name:tur_x_preferred":[
         "M\u0101r\u012bt"
     ],
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1243558597,
-    "wof:lastmodified":1537701909,
+    "wof:lastmodified":1564176352,
     "wof:name":"Marit",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

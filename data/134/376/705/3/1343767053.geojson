@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0645\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Samma"
+    ],
     "name:und_x_variant":[
         "\u015eamm\u0101"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343767053,
-    "wof:lastmodified":1537701758,
+    "wof:lastmodified":1564175406,
     "wof:name":"Samma",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

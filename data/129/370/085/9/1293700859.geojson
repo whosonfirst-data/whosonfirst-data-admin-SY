@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0686\u0648\u0644"
     ],
+    "name:ceb_x_preferred":[
+        "Chul"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0644"
+    ],
+    "name:swe_x_preferred":[
+        "Chul"
+    ],
     "name:und_x_variant":[
         "Tsh\u016bl",
         "Sh\u016bl"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293700859,
-    "wof:lastmodified":1537702581,
+    "wof:lastmodified":1564175548,
     "wof:name":"Chul",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

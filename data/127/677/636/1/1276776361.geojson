@@ -31,13 +31,44 @@
     "name:ara_x_variant":[
         "\u062f\u0645\u0627\u062a",
         "A\u1e11 \u1e10\u0101m\u0101t",
-        "\u0627\u0644\u0636\u0627\u0645\u0627\u062a"
+        "\u0627\u0644\u0636\u0627\u0645\u0627\u062a",
+        "\u062f\u0627\u0645\u0627\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Damad"
+    ],
+    "name:deu_x_preferred":[
+        "Damad"
+    ],
+    "name:fin_x_preferred":[
+        "Damat"
+    ],
+    "name:fra_x_preferred":[
+        "Damad"
+    ],
+    "name:ita_x_preferred":[
+        "Damat"
+    ],
+    "name:pol_x_preferred":[
+        "Damat"
+    ],
+    "name:snd_x_preferred":[
+        "\u0684\u0627\u067d\u0648"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Damat"
     ],
     "name:und_x_variant":[
         "D\u00e2m\u00e2te",
         "Dam\u00e2d",
         "Dam\u0101t",
         "Damat"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0645\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +93,7 @@
         }
     ],
     "wof:id":1276776361,
-    "wof:lastmodified":1537702158,
+    "wof:lastmodified":1564175775,
     "wof:name":"Damat",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0623\u0648\u062a\u0627\u064a\u0627"
     ],
+    "name:che_x_preferred":[
+        "\u0423\u0442\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u0430\u044f"
+    ],
     "name:und_x_variant":[
         "Out\u00e2ya",
         "Otay\u00e2"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1277096297,
-    "wof:lastmodified":1537701613,
+    "wof:lastmodified":1564175670,
     "wof:name":"Utaya",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

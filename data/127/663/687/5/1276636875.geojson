@@ -32,6 +32,51 @@
         "H\u012bt",
         "\u0647\u064a\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Hit"
+    ],
+    "name:dan_x_preferred":[
+        "Hit"
+    ],
+    "name:deu_x_preferred":[
+        "Hit"
+    ],
+    "name:fry_x_preferred":[
+        "Hit"
+    ],
+    "name:hun_x_preferred":[
+        "Hit"
+    ],
+    "name:nld_x_preferred":[
+        "Hit"
+    ],
+    "name:pol_x_preferred":[
+        "Hit"
+    ],
+    "name:por_x_preferred":[
+        "Hit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Hit"
+    ],
+    "name:spa_x_preferred":[
+        "Hit"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Hit"
+    ],
+    "name:tur_x_preferred":[
+        "Hit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u0442"
+    ],
     "name:und_x_variant":[
         "H\u00eete",
         "H\u012bte",
@@ -60,7 +105,7 @@
         }
     ],
     "wof:id":1276636875,
-    "wof:lastmodified":1537702362,
+    "wof:lastmodified":1564175790,
     "wof:name":"Hit",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

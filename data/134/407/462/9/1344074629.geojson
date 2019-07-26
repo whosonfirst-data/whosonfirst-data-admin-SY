@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u062a\u064a\u0646\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Abu Tina"
+    ],
     "name:und_x_variant":[
         "Abou T\u00een\u00e9",
         "Ab\u016b T\u012bnah"
+    ],
+    "name:vie_x_preferred":[
+        "Abu Tinah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1344074629,
-    "wof:lastmodified":1537702403,
+    "wof:lastmodified":1564175384,
     "wof:name":"Abu Tinah",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

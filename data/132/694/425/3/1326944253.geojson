@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0635\u064a\u0631"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0441\u0435\u0439\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0435\u0439\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Quseir"
+    ],
     "name:tur_x_preferred":[
         "Qu\u015fayr"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326944253,
-    "wof:lastmodified":1537701798,
+    "wof:lastmodified":1564175207,
     "wof:name":"Qusayr",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

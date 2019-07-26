@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0631\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0631\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Kajrun"
+    ],
     "name:und_x_variant":[
         "Qa\u00efro\u00fbn",
         "Qayr\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Qayrun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1242666497,
-    "wof:lastmodified":1537701816,
+    "wof:lastmodified":1564176376,
     "wof:name":"Qayrun",
     "wof:parent_id":1108779135,
     "wof:placetype":"locality",

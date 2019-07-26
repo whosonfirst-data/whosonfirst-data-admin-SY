@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0647\u0646\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631 \u0647\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Hind"
+    ],
     "name:und_x_variant":[
         "Kafer Hend",
         "Kafer Hinnd Faouq\u00e2ni",
         "Kafr Hind al Fawq\u0101n\u012b",
+        "Kafr Hind"
+    ],
+    "name:vie_x_preferred":[
         "Kafr Hind"
     ],
     "src:geom":"geonames",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326617237,
-    "wof:lastmodified":1537702013,
+    "wof:lastmodified":1564175219,
     "wof:name":"Kafr Hind",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

@@ -32,13 +32,22 @@
     "name:ara_x_variant":[
         "\u062e\u0631\u0628\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Charaba"
+    ],
     "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0431\u0430"
     ],
     "name:und_x_variant":[
         "Kharabah",
         "Kharab\u0101",
         "Khar\u0101b\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Kharaba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1293223445,
-    "wof:lastmodified":1537701984,
+    "wof:lastmodified":1564175572,
     "wof:name":"Kharaba",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

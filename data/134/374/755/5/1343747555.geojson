@@ -31,6 +31,18 @@
     "name:eng_x_preferred":[
         "Al-Nashabiyah"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0646\u0634\u0627\u0628\u06cc\u0647"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u0546\u0561\u0577\u0561\u0562\u056b\u0561"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Nashabiyah"
+    ],
+    "name:pol_x_preferred":[
+        "An-Naszszabijja"
+    ],
     "name:und_x_variant":[
         "Nechaby\u00e9",
         "An Nashsh\u0101b\u012byah",
@@ -41,6 +53,9 @@
         "Nash\u0101b\u012bye",
         "An Nash\u0101b\u012byah",
         "Nashabieh"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Nashabiyah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1343747555,
-    "wof:lastmodified":1537702316,
+    "wof:lastmodified":1564175475,
     "wof:name":"An Nashabiyah",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

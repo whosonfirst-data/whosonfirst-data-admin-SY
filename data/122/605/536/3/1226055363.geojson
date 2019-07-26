@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u062d\u0641\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Mushayrifah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Mushayrifah"
+    ],
     "name:und_x_variant":[
         "El M\u00e9cherf\u00e9",
         "El Mcherfi",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1226055363,
-    "wof:lastmodified":1537702331,
+    "wof:lastmodified":1564176667,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

@@ -28,12 +28,24 @@
     "name:ara_x_preferred":[
         "\u0634\u0645\u0633\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Shams\u012bn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0633\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Szamsin"
+    ],
     "name:und_x_variant":[
         "Chams\u00eene",
         "Shemsin",
         "Chams\u012bn",
         "Shamsayn",
         "Shams\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Shamsin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310383531,
-    "wof:lastmodified":1537701739,
+    "wof:lastmodified":1564176121,
     "wof:name":"Shamsin",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

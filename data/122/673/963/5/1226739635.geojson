@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0628"
     ],
+    "name:ceb_x_preferred":[
+        "Gharib"
+    ],
+    "name:deu_x_preferred":[
+        "Gharib"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0631\u06cc\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Gharib"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0438\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Gharib"
+    ],
     "name:und_x_variant":[
         "Rhar\u00eeb",
         "Ghar\u012bb"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226739635,
-    "wof:lastmodified":1537702116,
+    "wof:lastmodified":1564176648,
     "wof:name":"Gharib",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

@@ -31,10 +31,19 @@
     "name:ara_x_variant":[
         "\u0643\u0646\u064a\u0633\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u06cc\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kunajsa"
+    ],
     "name:und_x_variant":[
         "Kna\u00efss\u00e9",
         "Kunayyisah",
         "Al Kunaysah",
+        "Kunaysah"
+    ],
+    "name:vie_x_preferred":[
         "Kunaysah"
     ],
     "src:geom":"geonames",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1193125341,
-    "wof:lastmodified":1537701939,
+    "wof:lastmodified":1564175997,
     "wof:name":"Al Kunaysah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

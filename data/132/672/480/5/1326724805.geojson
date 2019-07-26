@@ -32,11 +32,35 @@
         "\u0627\u0646\u0628\u0627\u0631\u0644\u064a",
         "\u0623\u0646\u0628\u0627\u0631"
     ],
+    "name:aze_x_preferred":[
+        "Anbar"
+    ],
+    "name:ceb_x_preferred":[
+        "Anbar"
+    ],
+    "name:deu_x_preferred":[
+        "Anbar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Anbar"
+    ],
+    "name:pol_x_preferred":[
+        "Anbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0431\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Annbarli",
         "Ambarli",
         "\u2018Anbarl\u012b",
         "Anb\u0101r"
+    ],
+    "name:uzb_x_preferred":[
+        "Anbar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1326724805,
-    "wof:lastmodified":1537702318,
+    "wof:lastmodified":1564175191,
     "wof:name":"Anbar",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

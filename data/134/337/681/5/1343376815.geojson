@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u062e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062e"
+    ],
     "name:tur_x_preferred":[
         "K\u016bkh"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343376815,
-    "wof:lastmodified":1537701940,
+    "wof:lastmodified":1564175346,
     "wof:name":"Kukh",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

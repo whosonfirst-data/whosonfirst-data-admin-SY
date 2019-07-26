@@ -28,8 +28,41 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u062f\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:fra_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:ind_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:jav_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30cf\u30de\u30c7\u30a3\u30e4"
+    ],
+    "name:min_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:msa_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:por_x_preferred":[
+        "Muhammadiyah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u043c\u043c\u0430\u0434\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "Mu\u1e29ammad\u012byah"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7f55\u9a6c\u8fea\u4e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1360281507,
-    "wof:lastmodified":1537701529,
+    "wof:lastmodified":1564176252,
     "wof:name":"Muhammadiyah",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

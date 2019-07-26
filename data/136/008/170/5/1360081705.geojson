@@ -31,10 +31,19 @@
     "name:ara_x_variant":[
         "\u062c\u0628\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cibrin"
+    ],
     "name:und_x_variant":[
         "Djibrine",
         "Jibr\u00eene",
         "Jibr\u00eer"
+    ],
+    "name:vie_x_preferred":[
+        "Jibrin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1360081705,
-    "wof:lastmodified":1537702044,
+    "wof:lastmodified":1564176227,
     "wof:name":"Jibrin",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",
