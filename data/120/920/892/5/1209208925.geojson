@@ -31,11 +31,20 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u062a\u0644\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0644\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Kajtalun"
+    ],
     "name:und_x_variant":[
         "Tch\u00e9\u00eftalo\u00fbn",
         "Shaytal\u016bn",
         "Tshaytal\u016bn",
         "Kaytal\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Kaytalun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209208925,
-    "wof:lastmodified":1537701728,
+    "wof:lastmodified":1564175934,
     "wof:name":"Kaytalun",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

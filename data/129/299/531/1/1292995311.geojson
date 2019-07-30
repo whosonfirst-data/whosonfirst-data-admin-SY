@@ -31,11 +31,32 @@
     "name:ara_x_variant":[
         "\u0642\u0627\u0637\u0645\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Katma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0637\u0645\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Qitm\u00ea"
+    ],
+    "name:pol_x_preferred":[
+        "Katma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Katma"
+    ],
     "name:und_x_variant":[
         "Katra",
         "Katma",
         "Qa\u0163mah",
         "Q\u0101\u0163imah"
+    ],
+    "name:vie_x_preferred":[
+        "Qatma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1292995311,
-    "wof:lastmodified":1537701821,
+    "wof:lastmodified":1564175613,
     "wof:name":"Qatimah",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

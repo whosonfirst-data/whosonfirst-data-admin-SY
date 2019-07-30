@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0633\u062f\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Sadan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d3\u05df"
+    ],
+    "name:swe_x_preferred":[
+        "Sadan"
+    ],
     "name:tur_x_preferred":[
         "Sad\u0101n"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1343876079,
-    "wof:lastmodified":1537701769,
+    "wof:lastmodified":1564175474,
     "wof:name":"Sadan",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

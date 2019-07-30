@@ -28,8 +28,29 @@
     "name:ara_x_preferred":[
         "\u0635\u062d\u0646\u0627\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Sahnaiya"
+    ],
+    "name:epo_x_preferred":[
+        "Sahnaja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u062d\u0646\u0627\u06cc\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Sahnaya"
+    ],
+    "name:pol_x_preferred":[
+        "Sahnaja"
+    ],
     "name:und_x_variant":[
         "\u015ea\u1e29n\u0101y\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0646\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Sahnaya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226065015,
-    "wof:lastmodified":1537701765,
+    "wof:lastmodified":1564176752,
     "wof:name":"Sahnaiya",
     "wof:parent_id":1108779109,
     "wof:placetype":"locality",

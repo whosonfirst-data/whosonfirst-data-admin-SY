@@ -25,6 +25,18 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u062f\u064a\u062a\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u062f\u06cc\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Abdita"
+    ],
+    "name:vie_x_preferred":[
+        "Abdita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226727097,
-    "wof:lastmodified":1536742198,
+    "wof:lastmodified":1564176626,
     "wof:name":"Abdita",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

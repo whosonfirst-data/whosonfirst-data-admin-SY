@@ -37,7 +37,8 @@
     "name:kur_x_variant":[
         "Girk\u00ea Menle",
         "\u0643\u0631\u0643\u064a \u0645\u0646\u0644\u0627",
-        "\u06af\u0631\u0643\u06ce \u0645\u06d5\u0646\u0644\u06d5"
+        "\u06af\u0631\u0643\u06ce \u0645\u06d5\u0646\u0644\u06d5",
+        "Kurik"
     ],
     "name:und_x_variant":[
         "Al Karak",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1293508753,
-    "wof:lastmodified":1537701572,
+    "wof:lastmodified":1564175577,
     "wof:name":"Kurik",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

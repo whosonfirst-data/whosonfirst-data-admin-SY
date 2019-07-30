@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0634\u0631\u0641\u064a\u0629 \u0635\u062d\u0646\u0627\u064a\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0631\u0641\u06cc\u0647 \u0635\u062d\u0646\u0627\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Aszrafijjat Sahnaja"
+    ],
+    "name:spa_x_preferred":[
+        "Ashrafiat Sahnaya"
+    ],
     "name:und_x_variant":[
         "Achrafiyet Sahn\u00e2ya",
         "Achrafiyet Sanaya",
         "Achrafi\u00e9",
         "Ashraf\u012byat \u015ea\u1e29n\u0101y\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Ashrafiyat Sahnaya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1309825771,
-    "wof:lastmodified":1537702294,
+    "wof:lastmodified":1564176294,
     "wof:name":"Ashrafiyat Sahnaya",
     "wof:parent_id":1108779109,
     "wof:placetype":"locality",

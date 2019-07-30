@@ -32,6 +32,27 @@
         "\u0100l\u016b",
         "\u0622\u0644\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Alo"
+    ],
+    "name:deu_x_preferred":[
+        "Alo"
+    ],
+    "name:fra_x_preferred":[
+        "Alo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Alo"
+    ],
+    "name:spa_x_preferred":[
+        "Alo"
+    ],
+    "name:swe_x_preferred":[
+        "Alo"
+    ],
     "name:und_x_variant":[
         "Alaw"
     ],
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1276457547,
-    "wof:lastmodified":1537702323,
+    "wof:lastmodified":1564175698,
     "wof:name":"Alo",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

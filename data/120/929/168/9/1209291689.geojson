@@ -31,6 +31,33 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0631\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Bura"
+    ],
+    "name:deu_x_preferred":[
+        "Bura"
+    ],
+    "name:fra_x_preferred":[
+        "Bura"
+    ],
+    "name:hrv_x_preferred":[
+        "Bura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "Bura"
+    ],
+    "name:swe_x_preferred":[
+        "Bura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Bura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632413
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1209291689,
-    "wof:lastmodified":1537702480,
+    "wof:lastmodified":1564175930,
     "wof:name":"Bura",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

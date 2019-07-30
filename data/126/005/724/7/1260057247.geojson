@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0642\u0644\u064a\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0642\u0644\u06cc\u062f"
+    ],
     "name:und_x_variant":[
         "Baql\u012bd"
+    ],
+    "name:vie_x_preferred":[
+        "Baqlid"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260057247,
-    "wof:lastmodified":1537702635,
+    "wof:lastmodified":1564176081,
     "wof:name":"Baqlid",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

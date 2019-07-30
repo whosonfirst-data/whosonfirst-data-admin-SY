@@ -32,11 +32,17 @@
         "\u0628\u0631\u0647\u0644\u064a\u0646",
         "\u0628\u0631\u0644\u0647\u064a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Barlahin"
+    ],
     "name:und_x_variant":[
         "Berlhe\u00efne",
         "Barhal\u012bn",
         "Berl\u00e9h\u00eene",
         "Barlah\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Barlahin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1193268073,
-    "wof:lastmodified":1537702202,
+    "wof:lastmodified":1564176027,
     "wof:name":"Barlahin",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

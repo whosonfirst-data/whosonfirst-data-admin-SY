@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u062a\u0648\u0631\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Masturah"
+    ],
     "name:und_x_variant":[
         "Mast\u016brah"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242687503,
-    "wof:lastmodified":1537702434,
+    "wof:lastmodified":1564176370,
     "wof:name":"Masturah",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

@@ -28,12 +28,21 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0646\u0635\u0631\u064a"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0646\u0635\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Nasri"
+    ],
     "name:und_x_variant":[
         "Nasri",
         "Tall N\u0101\u015fir\u012b",
         "Tell Nasseur",
         "Tell Nasri",
         "Tall Na\u015fr\u012b"
+    ],
+    "name:vie_x_preferred":[
+        "Tell Nasri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1243081669,
-    "wof:lastmodified":1537701662,
+    "wof:lastmodified":1564176347,
     "wof:name":"Tall Nasri",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

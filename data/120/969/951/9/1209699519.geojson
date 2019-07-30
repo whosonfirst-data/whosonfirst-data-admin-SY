@@ -31,9 +31,18 @@
     "name:ara_x_variant":[
         "\u0637\u0631\u0627\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u0627\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Tirad"
+    ],
     "name:und_x_variant":[
         "\u0162ar\u0101d",
         "Tr\u00e2d"
+    ],
+    "name:vie_x_preferred":[
+        "Tirad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1209699519,
-    "wof:lastmodified":1537701644,
+    "wof:lastmodified":1564175917,
     "wof:name":"Tirad",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

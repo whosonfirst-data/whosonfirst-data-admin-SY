@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u0646\u062c\u0627\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0646\u062c\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Cheikh Najjar"
+    ],
+    "name:pol_x_preferred":[
+        "Szajch Nad\u017cd\u017car"
+    ],
     "name:und_x_variant":[
         "Che\u00efkh Nadjar",
         "Che\u00efkh Najj\u00e2r",
@@ -35,6 +44,9 @@
         "Shaykh Najj\u0101r",
         "Sheikh Najjar Industrial City",
         "Sheikh Nejar"
+    ],
+    "name:vie_x_preferred":[
+        "Shaykh Najjar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1259863985,
-    "wof:lastmodified":1537702285,
+    "wof:lastmodified":1564176609,
     "wof:name":"Shaykh Najjar",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

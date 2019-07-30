@@ -28,6 +28,81 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0634"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0627\u0634"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Balash"
+    ],
+    "name:ces_x_preferred":[
+        "Valga\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Balasch"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Valash"
+    ],
+    "name:hrv_x_preferred":[
+        "Bala\u0161"
+    ],
+    "name:ind_x_preferred":[
+        "Balash"
+    ],
+    "name:ita_x_preferred":[
+        "Balash"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0\u10e8\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc1c\ub77c\uc2dc"
+    ],
+    "name:nld_x_preferred":[
+        "Valash"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0644\u0627\u0634"
+    ],
+    "name:por_x_preferred":[
+        "Balas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448"
+    ],
+    "name:slk_x_preferred":[
+        "Valga\u0161"
+    ],
+    "name:spa_x_preferred":[
+        "Balash"
+    ],
+    "name:srp_x_preferred":[
+        "Bala\u0161"
+    ],
+    "name:swe_x_preferred":[
+        "Balash"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u043b\u043e\u0448"
+    ],
+    "name:tur_x_preferred":[
+        "Bel\u00e2\u015f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u4ec0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +126,7 @@
         }
     ],
     "wof:id":1193269841,
-    "wof:lastmodified":1537701539,
+    "wof:lastmodified":1564176024,
     "wof:name":"Balash",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

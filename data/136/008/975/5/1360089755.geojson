@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Barad"
+    ],
+    "name:deu_x_preferred":[
+        "Barad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d3"
+    ],
+    "name:pol_x_preferred":[
+        "Barad"
+    ],
+    "name:swe_x_preferred":[
+        "Barad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1360089755,
-    "wof:lastmodified":1537701554,
+    "wof:lastmodified":1564176228,
     "wof:name":"Barad",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

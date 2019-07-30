@@ -28,12 +28,27 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0643"
     ],
+    "name:fra_x_preferred":[
+        "Morek"
+    ],
+    "name:pol_x_preferred":[
+        "Murak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0435\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Morek"
+    ],
     "name:und_x_variant":[
         "Mo\u00fbrek",
         "M\u016brak",
         "Morek",
         "Murk",
         "Mork",
+        "Murak"
+    ],
+    "name:vie_x_preferred":[
         "Murak"
     ],
     "src:geom":"geonames",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1310188781,
-    "wof:lastmodified":1537701871,
+    "wof:lastmodified":1564176156,
     "wof:name":"Murak",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

@@ -28,11 +28,29 @@
     "name:ara_x_preferred":[
         "\u0635\u0628\u0648\u0631\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0628\u0648\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Sabburah"
+    ],
+    "name:pol_x_preferred":[
+        "Sabbura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0431\u0443\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Sabura",
         "Sabbo\u00fbra",
         "\u015eabb\u016brah",
         "\u015eab\u016brah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0628\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Sabburah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1343345225,
-    "wof:lastmodified":1537701770,
+    "wof:lastmodified":1564175445,
     "wof:name":"Sabburah",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0646\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tasnin"
+    ],
     "name:und_x_variant":[
         "Tasn\u012bn",
         "Tesn\u00eene"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226420763,
-    "wof:lastmodified":1537701531,
+    "wof:lastmodified":1564176642,
     "wof:name":"Tasnin",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

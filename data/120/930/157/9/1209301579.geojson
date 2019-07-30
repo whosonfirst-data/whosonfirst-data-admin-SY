@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Baljun"
+    ],
     "name:und_x_variant":[
         "B\u00e9lio\u00fbn",
         "Baly\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Balyun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209301579,
-    "wof:lastmodified":1537702229,
+    "wof:lastmodified":1564175842,
     "wof:name":"Balyun",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09c1\u09b0\u09be\u09b9"
+    ],
+    "name:ita_x_preferred":[
+        "Furah"
+    ],
+    "name:nno_x_preferred":[
+        "Furah"
+    ],
     "name:und_x_variant":[
         "F\u016brah"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293119139,
-    "wof:lastmodified":1537702643,
+    "wof:lastmodified":1564175625,
     "wof:name":"Furah",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

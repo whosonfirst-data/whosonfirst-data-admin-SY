@@ -32,6 +32,18 @@
         "\u0628\u0627\u0644\u0648",
         "\u0628\u0642\u0637\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Balu"
+    ],
+    "name:deu_x_preferred":[
+        "Balu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Balu"
+    ],
     "name:und_x_variant":[
         "Balo\u00fb",
         "Baq\u0163\u016b"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1193261881,
-    "wof:lastmodified":1537702230,
+    "wof:lastmodified":1564176024,
     "wof:name":"Balu",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

@@ -31,8 +31,23 @@
     "name:arc_x_preferred":[
         "\u071f\u0712\u0712"
     ],
+    "name:ben_x_preferred":[
+        "\u0996\u09ac\u09be\u09ac"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0431"
+    ],
+    "name:cat_x_preferred":[
+        "Khabab"
+    ],
+    "name:ceb_x_preferred":[
+        "Khabab"
+    ],
+    "name:cym_x_preferred":[
+        "Khabab"
+    ],
+    "name:dan_x_preferred":[
+        "Khabab"
     ],
     "name:deu_x_preferred":[
         "Chabab"
@@ -43,26 +58,74 @@
     "name:epo_x_preferred":[
         "\u0124abab"
     ],
+    "name:est_x_preferred":[
+        "Khabab"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0628\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "Khabab"
+    ],
+    "name:fra_x_preferred":[
+        "Khabab"
+    ],
+    "name:gle_x_preferred":[
+        "Khabab"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d1\u05d1"
     ],
+    "name:heb_x_variant":[
+        "\u05d7'\u05d1\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u0916\u093e\u092c\u093e\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Habab"
     ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u0562\u0561\u0562"
     ],
+    "name:ile_x_preferred":[
+        "Khabab"
+    ],
+    "name:ind_x_preferred":[
+        "Khabab"
+    ],
+    "name:ita_x_preferred":[
+        "Khabab"
+    ],
     "name:jpn_x_preferred":[
         "\u30cf\u30d0\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10d1\u10d0\u10d1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud558\ubc25"
     ],
+    "name:kor_x_variant":[
+        "\ud558\ubc14\ube0c"
+    ],
+    "name:lat_x_preferred":[
+        "Khabab"
+    ],
+    "name:lit_x_preferred":[
+        "Chababas"
+    ],
+    "name:nld_x_preferred":[
+        "Khabab"
+    ],
+    "name:nno_x_preferred":[
+        "Khabab"
+    ],
     "name:nov_x_preferred":[
         "Kabab"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a16\u0a2c\u0a2c"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u0628\u0628"
@@ -70,14 +133,35 @@
     "name:pol_x_preferred":[
         "Chabab"
     ],
+    "name:por_x_preferred":[
+        "Khabab"
+    ],
+    "name:ron_x_preferred":[
+        "Khabab"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0431"
+    ],
+    "name:sco_x_preferred":[
+        "Khabab"
     ],
     "name:spa_x_preferred":[
         "Jabab"
     ],
+    "name:sqi_x_preferred":[
+        "Habab"
+    ],
+    "name:swe_x_preferred":[
+        "Khabab"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e32\u0e1a\u0e32\u0e1a"
+    ],
     "name:tur_x_preferred":[
         "Habap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0431\u0430\u0431"
     ],
     "name:und_x_variant":[
         "Hebab",
@@ -86,6 +170,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0628\u0628"
+    ],
+    "name:vol_x_preferred":[
+        "Khabab"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u5df4\u5e03"
@@ -114,7 +201,7 @@
         }
     ],
     "wof:id":1242675175,
-    "wof:lastmodified":1537701992,
+    "wof:lastmodified":1564176387,
     "wof:name":"Khabab",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

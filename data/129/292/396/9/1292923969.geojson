@@ -28,10 +28,79 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0628\u0627"
     ],
+    "name:bre_x_preferred":[
+        "Shahba"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0445\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Chahba"
+    ],
+    "name:ceb_x_preferred":[
+        "Shahb\u0101"
+    ],
+    "name:cym_x_preferred":[
+        "Shahba"
+    ],
+    "name:deu_x_preferred":[
+        "Schahba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Chahba"
+    ],
+    "name:hun_x_preferred":[
+        "Sahba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0570\u0562\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Shahba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10f0\u10d1\u10d0"
+    ],
+    "name:lat_x_preferred":[
+        "Philippopolis"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ahba"
+    ],
+    "name:nld_x_preferred":[
+        "Shahba"
+    ],
+    "name:nno_x_preferred":[
+        "Shahba"
+    ],
+    "name:pol_x_preferred":[
+        "Szahba"
+    ],
+    "name:sco_x_preferred":[
+        "Shahba"
+    ],
+    "name:spa_x_preferred":[
+        "Shahba"
+    ],
+    "name:swe_x_preferred":[
+        "Shahb\u0101"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0445\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Ech Chahba",
         "Ash Shahb\u0101\u2019",
         "Shahb\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06c1\u0628\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u8d6b\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1292923969,
-    "wof:lastmodified":1537702293,
+    "wof:lastmodified":1564175533,
     "wof:name":"Shahba",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

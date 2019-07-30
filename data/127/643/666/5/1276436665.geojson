@@ -31,6 +31,57 @@
     "name:ara_x_variant":[
         "\u0645\u064a\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Mil"
+    ],
+    "name:bre_x_preferred":[
+        "Mil"
+    ],
+    "name:bul_x_preferred":[
+        "MIL"
+    ],
+    "name:cat_x_preferred":[
+        "Mil"
+    ],
+    "name:ceb_x_preferred":[
+        "Mil"
+    ],
+    "name:deu_x_preferred":[
+        "Mil"
+    ],
+    "name:fra_x_preferred":[
+        "Mil"
+    ],
+    "name:glg_x_preferred":[
+        "Mil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05dc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Mil"
+    ],
+    "name:nno_x_preferred":[
+        "Mil"
+    ],
+    "name:pol_x_preferred":[
+        "Mil"
+    ],
+    "name:rus_x_preferred":[
+        "Mil"
+    ],
+    "name:spa_x_preferred":[
+        "Mil"
+    ],
+    "name:tur_x_preferred":[
+        "Mil"
+    ],
+    "name:ukr_x_preferred":[
+        "Mil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1276436665,
-    "wof:lastmodified":1537701887,
+    "wof:lastmodified":1564175683,
     "wof:name":"Mil",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

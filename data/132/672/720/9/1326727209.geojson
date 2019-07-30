@@ -31,8 +31,53 @@
     "name:ara_x_variant":[
         "\u062c\u0627\u0633\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "J\u0101sim"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0633\u0645"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093e\u0938\u093f\u092e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u057d\u056b\u0574"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10e1\u10d8\u10db\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Jasim"
+    ],
+    "name:nor_x_preferred":[
+        "Jasim"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017casim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0441\u0438\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Jasim"
+    ],
+    "name:swe_x_preferred":[
+        "J\u0101sim"
+    ],
+    "name:tur_x_preferred":[
+        "Casem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u0441\u0456\u043c"
+    ],
     "name:und_x_variant":[
         "Q\u0101sim"
+    ],
+    "name:vie_x_preferred":[
+        "Jasim"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u897f\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +102,7 @@
         }
     ],
     "wof:id":1326727209,
-    "wof:lastmodified":1537702519,
+    "wof:lastmodified":1564175192,
     "wof:name":"Jasim",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

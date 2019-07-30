@@ -40,6 +40,9 @@
         "\u0643\u0648\u0632\u0643",
         "\u0643\u06c6\u0632\u0643"
     ],
+    "name:slk_x_preferred":[
+        "Kazik"
+    ],
     "name:und_x_variant":[
         "K\u00e2zek",
         "Kazikan",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1243353071,
-    "wof:lastmodified":1537701994,
+    "wof:lastmodified":1564176425,
     "wof:name":"Kazik",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

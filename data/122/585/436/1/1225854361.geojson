@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u064a"
     ],
+    "name:deu_x_preferred":[
+        "Ghali"
+    ],
+    "name:fra_x_preferred":[
+        "Ghali"
+    ],
+    "name:ita_x_preferred":[
+        "Ghali"
+    ],
     "name:tur_x_preferred":[
         "Gh\u0101l\u012b"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1225854361,
-    "wof:lastmodified":1537702117,
+    "wof:lastmodified":1564176772,
     "wof:name":"Ghali",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

@@ -31,6 +31,27 @@
     "name:ara_x_variant":[
         "\u0642\u064a\u0631\u0648"
     ],
+    "name:aym_x_preferred":[
+        "Qiru"
+    ],
+    "name:fra_x_preferred":[
+        "Qero"
+    ],
+    "name:ita_x_preferred":[
+        "Quero"
+    ],
+    "name:oci_x_preferred":[
+        "Quero"
+    ],
+    "name:que_x_preferred":[
+        "Qiru"
+    ],
+    "name:spa_x_preferred":[
+        "Quero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1343776141,
-    "wof:lastmodified":1537702431,
+    "wof:lastmodified":1564175392,
     "wof:name":"Qiru",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

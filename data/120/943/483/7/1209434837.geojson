@@ -28,11 +28,29 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062c\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt Jinn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u062c\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d2'\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Jinn"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt D\u017cinn"
+    ],
     "name:und_x_variant":[
         "Beit Jenn",
         "Beit Jann",
         "Be\u00eft Jinn",
         "Bayt Jinn"
+    ],
+    "name:vie_x_preferred":[
+        "Beit Jinn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209434837,
-    "wof:lastmodified":1537702209,
+    "wof:lastmodified":1564175965,
     "wof:name":"Bayt Jinn",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

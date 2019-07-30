@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u064a\u062d\u0645\u0648\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Y\u0259hmul"
+    ],
+    "name:pol_x_preferred":[
+        "Jahmul"
+    ],
     "name:und_x_variant":[
         "Yahmo\u00fbl",
         "Ya\u1e29m\u016bl"
+    ],
+    "name:vie_x_preferred":[
+        "Yahmul"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293768229,
-    "wof:lastmodified":1537701603,
+    "wof:lastmodified":1564175556,
     "wof:name":"Yahmul",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

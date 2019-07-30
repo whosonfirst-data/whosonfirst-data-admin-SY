@@ -32,6 +32,9 @@
         "\u0627\u0644\u062d\u062c\u0631",
         "\u062f\u064a\u0631 \u0627\u0644\u062d\u062c\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Al Hajar"
+    ],
     "name:und_x_variant":[
         "Mouassiaa",
         "Houa\u00efss\u00eey\u00e9",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209699285,
-    "wof:lastmodified":1537702065,
+    "wof:lastmodified":1564175917,
     "wof:name":"Al Hajar",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u062a\u0644\u064a\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u0644\u06cc\u0644"
+    ],
     "name:und_x_variant":[
         "T\u00e9lil",
         "\u0162al\u012bl",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293270283,
-    "wof:lastmodified":1537701642,
+    "wof:lastmodified":1564175622,
     "wof:name":"Talil",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

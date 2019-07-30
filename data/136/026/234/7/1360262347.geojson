@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062a\u0648\u0633\u0637\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0648\u0633\u0637\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Mutawassita"
+    ],
     "name:und_x_variant":[
         "Moutouasta",
         "Mutawassi\u0163ah",
         "Al Mutawassi\u0163ah",
+        "Mutawaseta"
+    ],
+    "name:vie_x_preferred":[
         "Mutawaseta"
     ],
     "src:geom":"geonames",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1360262347,
-    "wof:lastmodified":1537701864,
+    "wof:lastmodified":1564176258,
     "wof:name":"Al Mutawassitah",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

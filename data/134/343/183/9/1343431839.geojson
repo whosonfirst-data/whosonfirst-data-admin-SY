@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u062c\u0646\u064a\u0646\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Janin"
+    ],
+    "name:deu_x_preferred":[
+        "Janin"
+    ],
+    "name:fra_x_preferred":[
+        "Janin"
+    ],
+    "name:nld_x_preferred":[
+        "Janin"
+    ],
+    "name:pol_x_preferred":[
+        "Janin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Jan\u00eene",
         "Jn\u00eene",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1343431839,
-    "wof:lastmodified":1537702051,
+    "wof:lastmodified":1564175493,
     "wof:name":"Janin",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

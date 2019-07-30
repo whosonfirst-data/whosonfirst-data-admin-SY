@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u062f\u064a\u062e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062f\u06cc\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Mardich"
+    ],
     "name:und_x_variant":[
         "Mard\u012bkh"
+    ],
+    "name:vie_x_preferred":[
+        "Mardikh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1360161959,
-    "wof:lastmodified":1537701909,
+    "wof:lastmodified":1564176243,
     "wof:name":"Mardikh",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

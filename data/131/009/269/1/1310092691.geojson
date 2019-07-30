@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0628\u062a\u0627"
     ],
+    "name:kur_x_preferred":[
+        "Kabta"
+    ],
     "name:und_x_variant":[
         "Kebta",
         "Kabt\u0101",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310092691,
-    "wof:lastmodified":1537702020,
+    "wof:lastmodified":1564176130,
     "wof:name":"Kabta",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

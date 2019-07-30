@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0631\u064a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "D\u017camrin"
+    ],
     "name:und_x_variant":[
         "Jamrine",
         "Jamr\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Jamrin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226771967,
-    "wof:lastmodified":1537702052,
+    "wof:lastmodified":1564176735,
     "wof:name":"Jamrin",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

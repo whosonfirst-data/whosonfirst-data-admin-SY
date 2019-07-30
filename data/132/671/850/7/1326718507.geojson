@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u063a\u0632\u064a\u0644\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Ghuzajla"
+    ],
     "name:und_x_variant":[
         "Rhza\u00efl\u00e9",
         "Ghze\u00efl\u00e9",
+        "Ghuzaylah"
+    ],
+    "name:vie_x_preferred":[
         "Ghuzaylah"
     ],
     "src:geom":"geonames",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326718507,
-    "wof:lastmodified":1537702112,
+    "wof:lastmodified":1564175273,
     "wof:name":"Ghuzaylah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

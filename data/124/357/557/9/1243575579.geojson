@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u064a\u0645"
     ],
+    "name:cat_x_preferred":[
+        "Tamim"
+    ],
+    "name:ceb_x_preferred":[
+        "Tamim"
+    ],
+    "name:deu_x_preferred":[
+        "Tamim"
+    ],
+    "name:fra_x_preferred":[
+        "Tamim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0438\u043c"
+    ],
     "name:und_x_variant":[
         "Tam\u012bm"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1243575579,
-    "wof:lastmodified":1537702493,
+    "wof:lastmodified":1564176419,
     "wof:name":"Tamim",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

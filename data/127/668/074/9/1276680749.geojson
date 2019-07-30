@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0646\u0645\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Nimr"
+    ],
+    "name:rus_x_preferred":[
+        "Nimr"
+    ],
     "name:und_x_variant":[
         "An N\u0101mir",
         "Namr",
         "N\u00e2mer",
         "Nimr"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u806f\u914b\u864e\u5f0f\u904b\u8f38\u8eca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276680749,
-    "wof:lastmodified":1537702316,
+    "wof:lastmodified":1564175737,
     "wof:name":"Nimr",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

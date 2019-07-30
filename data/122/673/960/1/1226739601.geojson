@@ -30,7 +30,23 @@
     ],
     "name:ara_x_variant":[
         "\u0634\u064a\u0631\u0627\u0646 \u0643\u0628\u064a\u0631",
-        "\u0627\u0644\u0641\u0631\u0632\u062f\u0642"
+        "\u0627\u0644\u0641\u0631\u0632\u062f\u0642",
+        "\u062d\u062f\u0627\u062a\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Arslan Tash"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u062f\u0627\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Arslan Tash"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e1\u05dc\u05d0\u05df \u05d8\u05d0\u05e9"
+    ],
+    "name:ita_x_preferred":[
+        "Arslan Tash"
     ],
     "name:kur_x_preferred":[
         "Sh\u00earan"
@@ -43,6 +59,12 @@
         "\u0634\u06d5\u0631\u0627\u0646",
         "Ferezideq",
         "\u0641\u06d5\u0631\u06d5\u0632\u062f\u06d5\u0642"
+    ],
+    "name:pol_x_preferred":[
+        "Arslan Tash"
+    ],
+    "name:spa_x_preferred":[
+        "Arslan Tash"
     ],
     "name:und_x_variant":[
         "Arsl\u00e2ne T\u00e2ch",
@@ -82,7 +104,7 @@
         }
     ],
     "wof:id":1226739601,
-    "wof:lastmodified":1537702298,
+    "wof:lastmodified":1564176651,
     "wof:name":"Arsalan Tash",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

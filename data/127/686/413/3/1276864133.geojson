@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u062f\u0644"
     ],
+    "name:nld_x_preferred":[
+        "Mandal"
+    ],
     "name:und_x_variant":[
         "Manndal",
         "Manndel",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276864133,
-    "wof:lastmodified":1537701913,
+    "wof:lastmodified":1564175675,
     "wof:name":"Mandal",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

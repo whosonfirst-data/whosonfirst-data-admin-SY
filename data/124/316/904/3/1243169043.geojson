@@ -28,6 +28,39 @@
     "name:ara_x_preferred":[
         "\u0644\u062c\u0627"
     ],
+    "name:bre_x_preferred":[
+        "Laja"
+    ],
+    "name:ceb_x_preferred":[
+        "Laja"
+    ],
+    "name:deu_x_preferred":[
+        "Laja"
+    ],
+    "name:eus_x_preferred":[
+        "Laja"
+    ],
+    "name:fra_x_preferred":[
+        "Laja"
+    ],
+    "name:ita_x_preferred":[
+        "Laja"
+    ],
+    "name:nld_x_preferred":[
+        "Laja"
+    ],
+    "name:pol_x_preferred":[
+        "Laja"
+    ],
+    "name:por_x_preferred":[
+        "Laja"
+    ],
+    "name:spa_x_preferred":[
+        "Laja"
+    ],
+    "name:swe_x_preferred":[
+        "Laja"
+    ],
     "name:und_x_variant":[
         "Laj\u0101"
     ],
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1243169043,
-    "wof:lastmodified":1537701537,
+    "wof:lastmodified":1564176480,
     "wof:name":"Laja",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

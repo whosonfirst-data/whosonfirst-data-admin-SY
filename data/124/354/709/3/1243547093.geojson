@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u0628"
     ],
+    "name:cat_x_preferred":[
+        "Ayyub"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0628"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243547093,
-    "wof:lastmodified":1537702479,
+    "wof:lastmodified":1564176335,
     "wof:name":"Ayyub",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

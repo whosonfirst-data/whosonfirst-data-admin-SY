@@ -31,9 +31,27 @@
     "name:ara_x_variant":[
         "\u062e\u0627\u0646 \u0637\u0648\u0645\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101n \u0162\u016bm\u0101n"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0637\u0648\u0645\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Khan Touman"
+    ],
+    "name:pol_x_preferred":[
+        "Chan Tuman"
+    ],
+    "name:sco_x_preferred":[
+        "Khan Tuman"
+    ],
     "name:und_x_variant":[
         "Hani Touman",
         "Kh\u00e2ne Toum\u00e2ne"
+    ],
+    "name:vie_x_preferred":[
+        "Khan Tuman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209102035,
-    "wof:lastmodified":1537701984,
+    "wof:lastmodified":1564175962,
     "wof:name":"Khan Tuman",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

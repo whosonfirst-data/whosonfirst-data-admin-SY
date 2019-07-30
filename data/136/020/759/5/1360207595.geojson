@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u0627\u062f"
     ],
+    "name:deu_x_preferred":[
+        "Massad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05d3"
+    ],
     "name:und_x_variant":[
         "Ma\u015f\u015f\u0101d"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360207595,
-    "wof:lastmodified":1537701898,
+    "wof:lastmodified":1564176234,
     "wof:name":"Massad",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

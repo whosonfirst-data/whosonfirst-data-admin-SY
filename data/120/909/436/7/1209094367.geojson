@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u0633\u064a\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Kissin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0441\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Kissine"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209094367,
-    "wof:lastmodified":1537701943,
+    "wof:lastmodified":1564175820,
     "wof:name":"Kissin",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

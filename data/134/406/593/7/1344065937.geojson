@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Kirs"
+    ],
+    "name:swe_x_preferred":[
+        "Kirs"
+    ],
+    "name:tgl_x_preferred":[
+        "Kirs"
+    ],
     "name:und_x_variant":[
         "Kers",
         "Kirs"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1344065937,
-    "wof:lastmodified":1537701993,
+    "wof:lastmodified":1564175380,
     "wof:name":"Kirs",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

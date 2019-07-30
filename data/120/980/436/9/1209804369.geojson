@@ -31,11 +31,20 @@
     "name:ara_x_variant":[
         "\u062a\u0642\u0633\u064a\u0633"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0642\u0633\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Taksis"
+    ],
     "name:und_x_variant":[
         "Tas\u012bs",
         "Taqs\u012bs",
         "Zawr az Ziy\u0101rah",
         "Taqs\u00eess"
+    ],
+    "name:vie_x_preferred":[
+        "Taqsis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1209804369,
-    "wof:lastmodified":1537701652,
+    "wof:lastmodified":1564175941,
     "wof:name":"Taqsis",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

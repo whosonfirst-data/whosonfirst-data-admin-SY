@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0623\u0645\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Amri"
+    ],
+    "name:deu_x_preferred":[
+        "Amri"
+    ],
+    "name:fra_x_preferred":[
+        "Amri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632413
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209332397,
-    "wof:lastmodified":1537701523,
+    "wof:lastmodified":1564175925,
     "wof:name":"Amri",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

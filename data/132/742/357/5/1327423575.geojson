@@ -28,10 +28,31 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Bar\u0101d"
+    ],
+    "name:deu_x_preferred":[
+        "Brad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Berad\u00ea"
+    ],
+    "name:pol_x_preferred":[
+        "Barad"
+    ],
+    "name:tur_x_preferred":[
+        "Barad"
+    ],
     "name:und_x_variant":[
         "Br\u00e2te",
         "Braat",
         "Bar\u0101d"
+    ],
+    "name:vie_x_preferred":[
+        "Barad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1327423575,
-    "wof:lastmodified":1537702226,
+    "wof:lastmodified":1564175317,
     "wof:name":"Barad",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

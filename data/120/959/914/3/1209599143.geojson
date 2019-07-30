@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u062c\u062f\u064a\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u062c\u062f\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Tall D\u017cadid"
+    ],
     "name:und_x_variant":[
         "Tel Jedid",
         "Tell Jadid",
@@ -35,6 +41,9 @@
         "Tel Djedid",
         "Tell Jd\u00eed",
         "Tall al Jad\u012bd"
+    ],
+    "name:vie_x_preferred":[
+        "Tell Jadid"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209599143,
-    "wof:lastmodified":1537701686,
+    "wof:lastmodified":1564175904,
     "wof:name":"Tall Jadid",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

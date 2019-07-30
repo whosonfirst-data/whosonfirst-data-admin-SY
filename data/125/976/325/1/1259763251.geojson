@@ -31,6 +31,27 @@
     "name:ara_x_variant":[
         "\u0642\u0644\u0628\u0644\u0648\u0632\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Qalb Loze"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0628 \u0644\u0648\u0632\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Qalb Lozeh"
+    ],
+    "name:ita_x_preferred":[
+        "Qalb Lozeh"
+    ],
+    "name:nld_x_preferred":[
+        "Kalb Lose"
+    ],
+    "name:pol_x_preferred":[
+        "Kalb Lauza"
+    ],
+    "name:por_x_preferred":[
+        "Qalb Loze"
+    ],
     "name:und_x_variant":[
         "Kalbloz\u00e9",
         "Qalb\u016b Lawzah",
@@ -39,6 +60,9 @@
         "Qalb Loz\u00e9",
         "Qalb Lawzah",
         "Qalablawzah"
+    ],
+    "name:vie_x_preferred":[
+        "Qalb Loze"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +88,7 @@
         }
     ],
     "wof:id":1259763251,
-    "wof:lastmodified":1537701845,
+    "wof:lastmodified":1564176556,
     "wof:name":"Qalb Lawzah",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

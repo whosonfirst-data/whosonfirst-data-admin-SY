@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Badda"
+    ],
     "name:und_x_variant":[
         "Bedda",
         "Badd\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Badda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1243474341,
-    "wof:lastmodified":1537702239,
+    "wof:lastmodified":1564176412,
     "wof:name":"Badda",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

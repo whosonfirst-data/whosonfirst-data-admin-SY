@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u062c\u062f\u064a\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Jadin"
+    ],
+    "name:fra_x_preferred":[
+        "Jadin"
+    ],
+    "name:swe_x_preferred":[
+        "Jadin"
+    ],
     "name:und_x_variant":[
         "Jidin",
         "Jd\u00een\u00e9",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1259882857,
-    "wof:lastmodified":1537702045,
+    "wof:lastmodified":1564176606,
     "wof:name":"Jadin",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

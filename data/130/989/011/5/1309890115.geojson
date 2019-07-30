@@ -31,12 +31,18 @@
     "name:ara_x_variant":[
         "\u0627\u0633\u0646\u0628\u0644"
     ],
+    "name:pol_x_preferred":[
+        "Asunbul"
+    ],
     "name:und_x_variant":[
         "Sounbol",
         "Snibbol",
         "Sunbul",
         "Asanbal",
         "Asunbul"
+    ],
+    "name:vie_x_preferred":[
+        "Sunbul"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309890115,
-    "wof:lastmodified":1537701704,
+    "wof:lastmodified":1564176310,
     "wof:name":"Sunbul",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

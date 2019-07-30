@@ -26,6 +26,15 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shurak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Shurak"
+    ],
     "name:tur_x_preferred":[
         "Sh\u016brak"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310423165,
-    "wof:lastmodified":1537701721,
+    "wof:lastmodified":1564176150,
     "wof:name":"Shurak",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

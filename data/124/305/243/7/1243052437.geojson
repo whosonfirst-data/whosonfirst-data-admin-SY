@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0642 \u0645\u063a\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u063a\u0627\u064a\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kirk Maghar"
+    ],
     "name:und_x_variant":[
         "Qiriq Mrh\u00e2r",
         "Qiriq Marh\u00e2r",
         "Qirq Magh\u0101r"
+    ],
+    "name:vie_x_preferred":[
+        "Qirq Maghar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1243052437,
-    "wof:lastmodified":1537701811,
+    "wof:lastmodified":1564176437,
     "wof:name":"Qirq Maghar",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

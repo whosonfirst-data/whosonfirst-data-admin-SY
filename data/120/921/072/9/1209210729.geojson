@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0628\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0628\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Halbun"
+    ],
     "name:und_x_variant":[
         "Helbon",
         "Halbo\u00fbn",
         "\u1e28alb\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Halboun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209210729,
-    "wof:lastmodified":1537702105,
+    "wof:lastmodified":1564175959,
     "wof:name":"Halbun",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

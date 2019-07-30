@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u0639\u0648\u062f"
     ],
+    "name:nno_x_preferred":[
+        "Mas`ud"
+    ],
     "name:und_x_variant":[
         "Massao\u00fbd",
         "Mas\u2018\u016bd"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259874883,
-    "wof:lastmodified":1537701897,
+    "wof:lastmodified":1564176597,
     "wof:name":"Mas`ud",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

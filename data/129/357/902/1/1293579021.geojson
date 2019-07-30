@@ -31,12 +31,24 @@
     "name:ara_x_variant":[
         "\u0648\u0631\u062f\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Wardak"
+    ],
+    "name:deu_x_preferred":[
+        "Wardak"
+    ],
+    "name:fra_x_preferred":[
+        "Wardak"
+    ],
     "name:kur_x_preferred":[
         "Wirdik"
     ],
     "name:kur_x_variant":[
         "Werdek",
         "\u0648\u06d5\u0631\u062f\u06d5\u0643"
+    ],
+    "name:swe_x_preferred":[
+        "Wardak"
     ],
     "name:und_x_variant":[
         "Ouardak",
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1293579021,
-    "wof:lastmodified":1537701606,
+    "wof:lastmodified":1564175585,
     "wof:name":"Wardak",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

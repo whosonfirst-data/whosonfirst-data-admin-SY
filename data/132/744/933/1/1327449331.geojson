@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u062c\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "S\u0101rj\u012bn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u062c\u06cc\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0101rj\u012bn"
+    ],
     "name:und_x_variant":[
         "Sarj\u012bn"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327449331,
-    "wof:lastmodified":1537702517,
+    "wof:lastmodified":1564175305,
     "wof:name":"Sarjin",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

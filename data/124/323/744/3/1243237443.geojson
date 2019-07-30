@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0632\u0627\u0647\u062f"
     ],
+    "name:nor_x_preferred":[
+        "Zahid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0438\u0434"
+    ],
     "name:und_x_variant":[
         "Z\u00e2hed"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243237443,
-    "wof:lastmodified":1537701600,
+    "wof:lastmodified":1564176404,
     "wof:name":"Zahid",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

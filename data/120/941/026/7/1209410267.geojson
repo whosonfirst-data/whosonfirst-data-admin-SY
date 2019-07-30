@@ -30,7 +30,11 @@
     ],
     "name:ara_x_variant":[
         "\u062e\u0631\u0628\u0629 \u062e\u0646\u0632\u064a\u0631",
-        "\u062e\u0646\u0632\u064a\u0631"
+        "\u062e\u0646\u0632\u064a\u0631",
+        "\u0627\u0644\u0623\u0634\u0631\u0641\u064a\u0629 \u062e\u0646\u0627\u0632\u064a\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0631\u0641\u06cc\u0647 \u062e\u0646\u0627\u0632\u06cc\u0631"
     ],
     "name:und_x_variant":[
         "Khan\u00e2z\u00eer",
@@ -38,6 +42,9 @@
         "Khan\u0101z\u012br",
         "Khirbat Khanz\u012br",
         "Khanz\u012br"
+    ],
+    "name:vie_x_preferred":[
+        "Khanazir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1209410267,
-    "wof:lastmodified":1537702350,
+    "wof:lastmodified":1564175870,
     "wof:name":"Khanazir",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

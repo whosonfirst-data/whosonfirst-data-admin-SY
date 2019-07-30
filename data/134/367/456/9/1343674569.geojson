@@ -29,11 +29,72 @@
         "Luqm\u0101n"
     ],
     "name:ara_x_variant":[
-        "\u0644\u0642\u0645\u0627\u0646"
+        "\u0644\u0642\u0645\u0627\u0646",
+        "\u0644\u0642\u0645\u0627\u0646 \u0627\u0644\u062d\u0643\u064a\u0645"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u043a\u044a\u043c\u0430\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0644\u0648\u0642\u0645\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Luqman"
+    ],
+    "name:diq_x_preferred":[
+        "Lokman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0642\u0645\u0627\u0646 \u062d\u06a9\u06cc\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Luqman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e7\u05de\u05d0\u05df \u05d4\u05d7\u05db\u05dd"
+    ],
+    "name:ind_x_preferred":[
+        "Luqman al-Hakim"
+    ],
+    "name:ita_x_preferred":[
+        "Luqman"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u04b1\u049b\u043c\u0430\u043d"
+    ],
+    "name:kur_x_preferred":[
+        "Loqman"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a41\u0a15\u0a2e\u0a3e\u0a28"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u043c\u0430\u043d"
+    ],
+    "name:som_x_preferred":[
+        "Luqmaan Alxakiim"
+    ],
+    "name:spa_x_preferred":[
+        "Locman"
+    ],
+    "name:sqi_x_preferred":[
+        "Llokman"
+    ],
+    "name:swe_x_preferred":[
+        "Lukman"
+    ],
+    "name:tur_x_preferred":[
+        "Lokman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Loqm\u00e2n\u00e9",
         "Luqm\u0101nah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u06a9\u06cc\u0645 \u0644\u0642\u0645\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +119,7 @@
         }
     ],
     "wof:id":1343674569,
-    "wof:lastmodified":1537701930,
+    "wof:lastmodified":1564175432,
     "wof:name":"Luqman",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

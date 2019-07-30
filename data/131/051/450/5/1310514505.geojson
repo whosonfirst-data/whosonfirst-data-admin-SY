@@ -28,10 +28,118 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u062a\u0632\u06cc\u0646\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0446\u0446\u044b\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Mazzin"
+    ],
+    "name:ceb_x_preferred":[
+        "Mazzin"
+    ],
+    "name:deu_x_preferred":[
+        "Mazzin"
+    ],
+    "name:epo_x_preferred":[
+        "Mazzin"
+    ],
+    "name:est_x_preferred":[
+        "Mazzin"
+    ],
+    "name:eus_x_preferred":[
+        "Mazzin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0632\u06cc\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mazzin"
+    ],
+    "name:hun_x_preferred":[
+        "Mazzin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0581\u056b\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Mazzin"
+    ],
+    "name:ita_x_preferred":[
+        "Mazzin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30c4\u30a3\u30fc\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0446\u0446\u0438\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Mazzinum"
+    ],
+    "name:lmo_x_preferred":[
+        "Mazzin"
+    ],
+    "name:msa_x_preferred":[
+        "Mazzin"
+    ],
+    "name:nap_x_preferred":[
+        "Mazzin"
+    ],
+    "name:nld_x_preferred":[
+        "Mazzin"
+    ],
+    "name:nor_x_preferred":[
+        "Mazin"
+    ],
+    "name:pms_x_preferred":[
+        "Mazzin"
+    ],
+    "name:pol_x_preferred":[
+        "Mazzin"
+    ],
+    "name:por_x_preferred":[
+        "Mazzin"
+    ],
+    "name:ron_x_preferred":[
+        "Mazzin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0446\u0446\u0438\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Mazzin"
+    ],
+    "name:spa_x_preferred":[
+        "Mazzin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0446\u0438\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Mazzin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0446\u0446\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Mazz\u00eene",
         "Mazz\u012bn",
         "Faz\u012bn"
+    ],
+    "name:uzb_x_preferred":[
+        "Mazzin"
+    ],
+    "name:vie_x_preferred":[
+        "Mazzin"
+    ],
+    "name:vol_x_preferred":[
+        "Mazzin"
+    ],
+    "name:war_x_preferred":[
+        "Mazzin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +164,7 @@
         }
     ],
     "wof:id":1310514505,
-    "wof:lastmodified":1537701888,
+    "wof:lastmodified":1564176201,
     "wof:name":"Mazzin",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

@@ -28,6 +28,36 @@
     "name:ara_x_preferred":[
         "\u064a\u062d\u0645\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0644\u0639\u0629 \u064a\u062d\u0645\u0648\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0442\u0435\u043b \u0420\u0443\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Castell Roig"
+    ],
+    "name:deu_x_preferred":[
+        "Yahmur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u06cc\u062d\u0645\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Chastel Rouge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e1\u05d8\u05dc \u05e8\u05d5\u05d6'"
+    ],
+    "name:ita_x_preferred":[
+        "Chastel Rouge"
+    ],
+    "name:nld_x_preferred":[
+        "Chastel Rouge"
+    ],
+    "name:spa_x_preferred":[
+        "Castillo Rouge"
+    ],
     "name:und_x_variant":[
         "Yahmo\u00fbr",
         "Ya\u1e29m\u016br"
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1310572155,
-    "wof:lastmodified":1537701603,
+    "wof:lastmodified":1564176187,
     "wof:name":"Yahmur",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0643\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0631\u064a\u0643\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "Buraykah"
+    ],
     "name:und_x_variant":[
         "Bre\u00efk\u00e9",
         "Braykah",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1276154935,
-    "wof:lastmodified":1537702175,
+    "wof:lastmodified":1564175767,
     "wof:name":"Buraykah",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

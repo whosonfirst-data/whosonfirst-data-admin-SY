@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0646\u062f\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Nadda"
+    ],
     "name:und_x_variant":[
         "Nadda",
+        "Naddah"
+    ],
+    "name:vie_x_preferred":[
         "Naddah"
     ],
     "src:geom":"geonames",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226438449,
-    "wof:lastmodified":1537701861,
+    "wof:lastmodified":1564176631,
     "wof:name":"Naddah",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

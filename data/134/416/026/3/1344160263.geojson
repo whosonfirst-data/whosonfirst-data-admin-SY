@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062a\u0631\u0628\u0629"
     ],
+    "name:nno_x_preferred":[
+        "At Turbah"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442-\u0422\u0443\u0440\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Tirbah",
         "Terb\u00e9",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1344160263,
-    "wof:lastmodified":1537701545,
+    "wof:lastmodified":1564175454,
     "wof:name":"At Turbah",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

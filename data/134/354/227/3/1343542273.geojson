@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u0648\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0648\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tannurin"
+    ],
     "name:und_x_variant":[
         "Tanno\u00fbr\u00eey\u00e9",
         "Tanno\u00fbrin\u00e9",
         "Tann\u016br\u012bn",
         "Tannour\u00eene"
+    ],
+    "name:vie_x_preferred":[
+        "Tannurin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1343542273,
-    "wof:lastmodified":1537701653,
+    "wof:lastmodified":1564175340,
     "wof:name":"Tannurin",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

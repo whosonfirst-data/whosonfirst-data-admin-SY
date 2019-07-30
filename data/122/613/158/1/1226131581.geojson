@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0644\u0637\u0645\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0637\u0645\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Latmin"
+    ],
     "name:und_x_variant":[
         "Latm\u00eene",
         "La\u0163m\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Latmin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1226131581,
-    "wof:lastmodified":1537701932,
+    "wof:lastmodified":1564176693,
     "wof:name":"Latmin",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "Kirs\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Kirsan"
+    ],
     "name:und_x_variant":[
         "Kars\u0101n",
         "Kers\u00e2ne",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293384551,
-    "wof:lastmodified":1537701563,
+    "wof:lastmodified":1564175503,
     "wof:name":"Kirsan",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

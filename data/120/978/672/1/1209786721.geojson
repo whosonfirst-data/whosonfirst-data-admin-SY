@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d"
     ],
+    "name:ceb_x_preferred":[
+        "Marah"
+    ],
+    "name:deu_x_preferred":[
+        "Marah"
+    ],
+    "name:swe_x_preferred":[
+        "Marah"
+    ],
     "name:und_x_variant":[
         "Mr\u00e2h",
         "Mar\u00e2h",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209786721,
-    "wof:lastmodified":1537702341,
+    "wof:lastmodified":1564175877,
     "wof:name":"Marah",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

@@ -28,11 +28,35 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0627\u0631\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0648\u0627\u0631\u06cc\u0648\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u0627\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Huwwarin"
+    ],
+    "name:ita_x_preferred":[
+        "Huwwarin"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e24uwwerin"
+    ],
+    "name:pol_x_preferred":[
+        "Hawarin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0432\u0430\u0440\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Haouarin",
         "Hauw\u0101r\u012bn",
         "Hao\u00fb\u00e2r\u00eene",
         "\u1e28aw\u0101r\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Huwwarin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1292981993,
-    "wof:lastmodified":1537702086,
+    "wof:lastmodified":1564175602,
     "wof:name":"Hawarini",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

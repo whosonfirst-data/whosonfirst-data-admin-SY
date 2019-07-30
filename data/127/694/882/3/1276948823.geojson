@@ -25,6 +25,18 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sumur"
+    ],
+    "name:glg_x_preferred":[
+        "Sumur"
+    ],
+    "name:pol_x_preferred":[
+        "Sumur"
+    ],
+    "name:slv_x_preferred":[
+        "Tell Kazel"
+    ],
     "name:und_x_variant":[
         "Tell Kazel",
         "Tall Kazel",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276948823,
-    "wof:lastmodified":1537701666,
+    "wof:lastmodified":1564175722,
     "wof:name":"Tall Kazal",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

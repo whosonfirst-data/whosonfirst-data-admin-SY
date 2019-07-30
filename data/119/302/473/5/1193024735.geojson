@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u062d\u0631\u0628\u0648\u0642"
     ],
+    "name:nno_x_preferred":[
+        "Ar Rabwah"
+    ],
     "name:und_x_variant":[
         "\u1e28arb\u016bq"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1193024735,
-    "wof:lastmodified":1537702640,
+    "wof:lastmodified":1564176014,
     "wof:name":"Ar Rabwah",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

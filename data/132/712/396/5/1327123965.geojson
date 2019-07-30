@@ -33,9 +33,18 @@
         "\u0631\u062a\u064a\u0627\u0646",
         "Arity\u0101n"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u062a\u06cc\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ritjan"
+    ],
     "name:und_x_variant":[
         "Riti\u00e2ne",
         "Arity\u0101n",
+        "Ratyan"
+    ],
+    "name:vie_x_preferred":[
         "Ratyan"
     ],
     "src:geom":"geonames",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1327123965,
-    "wof:lastmodified":1537701778,
+    "wof:lastmodified":1564175234,
     "wof:name":"Rityan",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
         "\u062a\u0644\u062f\u0648",
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u062f\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10da\u10d3\u10e3"
+    ],
+    "name:nno_x_preferred":[
+        "Taldou"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Daww"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u043b\u044c-\u0414\u0443"
+    ],
     "name:und_x_variant":[
         "Tell Daou",
         "Tall Daww",
@@ -39,6 +54,12 @@
         "Khirbat N\u0101\u015fir\u012byah",
         "Khirbat an N\u0101\u015fir\u012byah",
         "Kheurbet N\u00e2sriy\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0644\u062f\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Taldou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1226120725,
-    "wof:lastmodified":1537701674,
+    "wof:lastmodified":1564176725,
     "wof:name":"Talldaww",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

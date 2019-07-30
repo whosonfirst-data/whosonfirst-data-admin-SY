@@ -31,6 +31,45 @@
     "name:ara_x_variant":[
         "\u0634\u062c\u0631 \u0642\u0635\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Xaizar"
+    ],
+    "name:ceb_x_preferred":[
+        "Shayzar"
+    ],
+    "name:deu_x_preferred":[
+        "Schaizar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03ca\u03b6\u03ac\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0632\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Shaizar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d9\u05d6\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Shayzar"
+    ],
+    "name:nld_x_preferred":[
+        "Shaizar"
+    ],
+    "name:pol_x_preferred":[
+        "Szajzar"
+    ],
+    "name:por_x_preferred":[
+        "Xaizar"
+    ],
+    "name:spa_x_preferred":[
+        "Shaizar"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eayzar"
+    ],
     "name:und_x_variant":[
         "Larissa",
         "S\u00e9jar",
@@ -65,7 +104,7 @@
         }
     ],
     "wof:id":1277060107,
-    "wof:lastmodified":1537701728,
+    "wof:lastmodified":1564175665,
     "wof:name":"Shayzar",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

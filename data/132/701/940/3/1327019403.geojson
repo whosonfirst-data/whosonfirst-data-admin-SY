@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0637\u0644\u0637\u0644"
     ],
+    "name:pol_x_preferred":[
+        "Abu Taltal"
+    ],
     "name:und_x_variant":[
         "Abou Taltal",
         "Ab\u016b \u0162al\u0163al"
+    ],
+    "name:vie_x_preferred":[
+        "Abu Taltal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327019403,
-    "wof:lastmodified":1537702404,
+    "wof:lastmodified":1564175179,
     "wof:name":"Abu Taltal",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

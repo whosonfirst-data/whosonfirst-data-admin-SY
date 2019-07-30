@@ -28,8 +28,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0645\u0644\u0643\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u0644\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Zamalka"
+    ],
+    "name:sco_x_preferred":[
+        "Zamalka"
+    ],
+    "name:tur_x_preferred":[
+        "Zemelka"
+    ],
     "name:und_x_variant":[
         "Zamalk\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Zamalka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1344252549,
-    "wof:lastmodified":1537701599,
+    "wof:lastmodified":1564175364,
     "wof:name":"Zamalka",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

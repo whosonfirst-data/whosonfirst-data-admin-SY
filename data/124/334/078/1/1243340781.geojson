@@ -28,10 +28,31 @@
     "name:ara_x_preferred":[
         "\u062a\u0641\u062a\u0646\u0627\u0632"
     ],
+    "name:ces_x_preferred":[
+        "Taftan\u00e1z"
+    ],
+    "name:deu_x_preferred":[
+        "Taftanaz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0641\u062a\u0646\u0627\u0632"
+    ],
+    "name:nno_x_preferred":[
+        "Taftanaz"
+    ],
+    "name:pol_x_preferred":[
+        "Taftanaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0444\u0442\u0430\u043d\u0430\u0437"
+    ],
     "name:und_x_variant":[
         "Teftenaz",
         "Teftan\u00e2z",
         "Taftan\u0101z"
+    ],
+    "name:vie_x_preferred":[
+        "Taftanaz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1243340781,
-    "wof:lastmodified":1537701695,
+    "wof:lastmodified":1564176432,
     "wof:name":"Taftanaz",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

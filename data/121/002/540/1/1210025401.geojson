@@ -31,9 +31,21 @@
     "name:ara_x_variant":[
         "\u0643\u0646\u0643\u0648\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Kunkuri"
+    ],
+    "name:spa_x_preferred":[
+        "Kunkuri"
+    ],
+    "name:swe_x_preferred":[
+        "Kunkuri"
+    ],
     "name:und_x_variant":[
         "Gunngo\u00fbr\u00eene",
         "Kunk\u016br\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0646\u06a9\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1210025401,
-    "wof:lastmodified":1537701939,
+    "wof:lastmodified":1564175987,
     "wof:name":"Kunkuri",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

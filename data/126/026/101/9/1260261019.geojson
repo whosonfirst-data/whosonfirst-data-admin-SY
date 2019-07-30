@@ -31,10 +31,19 @@
     "name:ara_x_variant":[
         "\u0628\u062d\u0632\u064a\u0646\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062d\u0632\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bahzina"
+    ],
     "name:und_x_variant":[
         "Bahz\u00eena",
         "Ba\u1e29z\u012bnah",
         "Ba\u1e29z\u012bn\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Bahzinah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1260261019,
-    "wof:lastmodified":1537702236,
+    "wof:lastmodified":1564176077,
     "wof:name":"Bahzinah",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

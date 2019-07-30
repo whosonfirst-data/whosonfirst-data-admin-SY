@@ -32,11 +32,23 @@
         "\u0645\u0639\u0632\u0648\u0641\u0629",
         "\u0645\u0639\u0631 \u0632\u0627\u0641"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u0631\u0632\u0627\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019arrzaf"
+    ],
     "name:und_x_variant":[
         "Maarz\u00e2f",
         "Ma\u2018arr Z\u0101f",
         "Ma\u2018arrz\u0101f",
         "Ma\u2018azz\u016bfah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0632\u0627\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "Maarzaf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1226437639,
-    "wof:lastmodified":1537701924,
+    "wof:lastmodified":1564176630,
     "wof:name":"Ma`arrzaf",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

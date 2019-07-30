@@ -31,6 +31,30 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u0647 \u0632\u06cc\u0646\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "Sayyidah Zaynab"
+    ],
+    "name:fra_x_preferred":[
+        "Sayyida Zeinab"
+    ],
+    "name:nno_x_preferred":[
+        "Sayyidah Zaynab"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u062f\u06c1 \u0632\u06cc\u0646\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sajjida Zajnab"
+    ],
+    "name:por_x_preferred":[
+        "Sayyidah Zaynab"
+    ],
+    "name:sco_x_preferred":[
+        "Sayyidah Zaynab"
+    ],
     "name:und_x_variant":[
         "Qabr es Sett",
         "Qabr es Sitt",
@@ -39,6 +63,12 @@
         "As Sayyidah Zaynab",
         "Set Zaynab",
         "Sayeda Zainab"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06c1 \u0632\u06cc\u0646\u0628"
+    ],
+    "name:vie_x_preferred":[
+        "Sayyidah Zaynab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +94,7 @@
         }
     ],
     "wof:id":1309996623,
-    "wof:lastmodified":1537701850,
+    "wof:lastmodified":1564176278,
     "wof:name":"Qabr as Sitt",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

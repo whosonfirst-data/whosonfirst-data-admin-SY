@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0644\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Fajlun"
+    ],
     "name:und_x_variant":[
         "Fa\u00eflo\u00fbn",
         "Fayl\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Faylun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293272359,
-    "wof:lastmodified":1537702122,
+    "wof:lastmodified":1564175620,
     "wof:name":"Faylun",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

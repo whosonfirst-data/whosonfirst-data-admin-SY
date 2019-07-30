@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0648\u0644"
     ],
+    "name:dan_x_preferred":[
+        "Jabbul"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cabbul"
+    ],
     "name:und_x_variant":[
         "Djabboul",
         "Jabbo\u00fbl",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243438721,
-    "wof:lastmodified":1537702058,
+    "wof:lastmodified":1564176497,
     "wof:name":"Jabbul",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u062c\u0646\u0627\u0632"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u062c\u0646\u0627\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017card\u017canaz"
+    ],
     "name:und_x_variant":[
         "Jarjan\u0101z"
+    ],
+    "name:vie_x_preferred":[
+        "Jarjnaz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276417627,
-    "wof:lastmodified":1537702050,
+    "wof:lastmodified":1564175767,
     "wof:name":"Jarjanaz",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

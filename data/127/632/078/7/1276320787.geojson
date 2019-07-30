@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0632\u0627\u0646\u0648"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0632\u0627\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Hazzanu"
+    ],
     "name:und_x_variant":[
         "Hazz\u0101no",
         "\u1e28azz\u0101n\u016b"
+    ],
+    "name:vie_x_preferred":[
+        "Hizano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276320787,
-    "wof:lastmodified":1537702077,
+    "wof:lastmodified":1564175729,
     "wof:name":"Hazzanu",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

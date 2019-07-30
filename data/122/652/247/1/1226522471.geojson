@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0646\u062a\u0648\u062a\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0646\u062a\u0648\u062a\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Hantutin"
+    ],
     "name:und_x_variant":[
         "Hannto\u00fbtine",
         "\u1e28ant\u016bt\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Hantutin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226522471,
-    "wof:lastmodified":1537702097,
+    "wof:lastmodified":1564176742,
     "wof:name":"Hantutin",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

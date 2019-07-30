@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0633\u0631\u0627\u062c"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09b0\u09be\u099c"
+    ],
     "name:und_x_variant":[
         "Sr\u00e2j"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1360288717,
-    "wof:lastmodified":1537701715,
+    "wof:lastmodified":1564176254,
     "wof:name":"Siraj",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

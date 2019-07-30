@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0644\u0627\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0644\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Dablan"
+    ],
     "name:und_x_variant":[
         "Dibl\u00e2ne",
         "Dabl\u0101nah",
@@ -35,6 +41,12 @@
         "Deblane",
         "Daby\u0101n",
         "Dabl\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0644\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Dablan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293286819,
-    "wof:lastmodified":1537702164,
+    "wof:lastmodified":1564175640,
     "wof:name":"Dablan",
     "wof:parent_id":1108779151,
     "wof:placetype":"locality",

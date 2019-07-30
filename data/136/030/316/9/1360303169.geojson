@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0642\u064a\u0631\u0627\u0646"
     ],
+    "name:nno_x_preferred":[
+        "Qiran"
+    ],
     "name:tur_x_preferred":[
         "Qir\u0101n"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360303169,
-    "wof:lastmodified":1537701813,
+    "wof:lastmodified":1564176222,
     "wof:name":"Qiran",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

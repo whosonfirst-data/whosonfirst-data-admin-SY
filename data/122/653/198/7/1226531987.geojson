@@ -31,6 +31,21 @@
     "name:ara_x_variant":[
         "\u0642\u0628\u0627\u0633\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0628\u0627\u0633\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Qabasin"
+    ],
+    "name:pol_x_preferred":[
+        "Kabbasin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u0441\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u015fk\u00f6y"
+    ],
     "name:und_x_variant":[
         "Qabb\u00e2ss\u00eene",
         "Kheurbet es Saouda",
@@ -38,6 +53,9 @@
         "Khirbat as Sawdah",
         "Qabb\u0101s\u012bn",
         "Qab\u0101s\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Qabasin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1226531987,
-    "wof:lastmodified":1537701967,
+    "wof:lastmodified":1564176760,
     "wof:name":"Qabbasin",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

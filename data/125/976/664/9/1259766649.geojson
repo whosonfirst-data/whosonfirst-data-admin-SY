@@ -32,6 +32,9 @@
         "\u0632\u0627\u0631\u0627",
         "\u0632\u0627\u0631\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Zarah"
+    ],
     "name:und_x_variant":[
         "Z\u00e2ra",
         "Z\u0101rah"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259766649,
-    "wof:lastmodified":1537701598,
+    "wof:lastmodified":1564176558,
     "wof:name":"Zarah",
     "wof:parent_id":1108779145,
     "wof:placetype":"locality",

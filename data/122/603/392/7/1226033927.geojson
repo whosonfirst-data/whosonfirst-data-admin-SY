@@ -31,12 +31,21 @@
     "name:ara_x_variant":[
         "\u0623\u0628\u0648 \u0631\u0628\u064a\u0635"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0631\u0628\u06cc\u0635"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Rubajs"
+    ],
     "name:und_x_variant":[
         "Abou Roube\u00efs",
         "Abou Roube\u00efss",
         "Abou Rbeis",
         "Ab\u016b Rubay\u015f",
         "Tall Ab\u016b Rubay\u015f"
+    ],
+    "name:vie_x_preferred":[
+        "Abu Rubays"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1226033927,
-    "wof:lastmodified":1537702405,
+    "wof:lastmodified":1564176676,
     "wof:name":"Tall Abu Rubays",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

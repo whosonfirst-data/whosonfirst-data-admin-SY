@@ -28,10 +28,16 @@
     "name:ara_x_preferred":[
         "\u064a\u0631\u062a"
     ],
+    "name:pol_x_preferred":[
+        "Jarta"
+    ],
     "name:und_x_variant":[
         "Yart\u00e9",
         "Yartah",
         "Yart"
+    ],
+    "name:vie_x_preferred":[
+        "Yarte"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226649201,
-    "wof:lastmodified":1537701602,
+    "wof:lastmodified":1564176746,
     "wof:name":"Yart",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

@@ -28,10 +28,28 @@
     "name:ara_x_preferred":[
         "\u063a\u0635\u0645"
     ],
+    "name:deu_x_preferred":[
+        "Ghasam"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0635\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Ghasm"
+    ],
+    "name:sco_x_preferred":[
+        "Ghasm"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0441\u043c"
+    ],
     "name:und_x_variant":[
         "Rhasm",
         "Rasm",
         "Gha\u015fm"
+    ],
+    "name:vie_x_preferred":[
+        "Ghasm"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1343559011,
-    "wof:lastmodified":1537702115,
+    "wof:lastmodified":1564175350,
     "wof:name":"Ghasm",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

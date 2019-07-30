@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u062d\u0648\u0637"
     ],
+    "name:pol_x_preferred":[
+        "Hut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Hout"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632413
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209538393,
-    "wof:lastmodified":1537702067,
+    "wof:lastmodified":1564175828,
     "wof:name":"Houte",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

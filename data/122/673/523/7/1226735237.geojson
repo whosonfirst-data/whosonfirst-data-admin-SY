@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "Min\u012bn"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Minin"
+    ],
+    "name:deu_x_preferred":[
+        "Minin"
+    ],
+    "name:fra_x_preferred":[
+        "Minine"
+    ],
+    "name:ita_x_preferred":[
+        "Minin"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0430 \u041c\u0438\u043d\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1226735237,
-    "wof:lastmodified":1537701886,
+    "wof:lastmodified":1564176652,
     "wof:name":"Minin",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

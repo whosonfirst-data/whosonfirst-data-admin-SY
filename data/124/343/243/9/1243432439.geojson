@@ -31,9 +31,18 @@
     "name:ara_x_variant":[
         "\u0635\u0641\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Sufr"
+    ],
     "name:und_x_variant":[
         "Soufor",
         "Sufur"
+    ],
+    "name:vie_x_preferred":[
+        "Sufr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1243432439,
-    "wof:lastmodified":1537701531,
+    "wof:lastmodified":1564176497,
     "wof:name":"Sufr",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0641\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0622\u0641\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0641\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Afis"
+    ],
     "name:und_x_variant":[
         "Afess",
         "Afis",
         "Afes",
         "Affes"
+    ],
+    "name:vie_x_preferred":[
+        "Afs"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1293469897,
-    "wof:lastmodified":1537702396,
+    "wof:lastmodified":1564175539,
     "wof:name":"Afis",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

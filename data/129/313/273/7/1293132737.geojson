@@ -30,10 +30,32 @@
         "Imt\u0101n"
     ],
     "name:ara_x_variant":[
+        "\u0627\u0645\u062a\u0627\u0646",
+        "\u0625\u0645\u062a\u0627\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043c\u0442\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
         "\u0627\u0645\u062a\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Imtan"
+    ],
+    "name:nno_x_preferred":[
+        "Imtan"
+    ],
+    "name:pol_x_preferred":[
+        "Imtan"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0442\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130mtan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043c\u0442\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Al Mutayn",
@@ -42,6 +64,9 @@
         "Imt\u00e2ne",
         "Mut\u1e29\u0101nah",
         "Imth\u0101n"
+    ],
+    "name:vie_x_preferred":[
+        "Imtan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +92,7 @@
         }
     ],
     "wof:id":1293132737,
-    "wof:lastmodified":1537702062,
+    "wof:lastmodified":1564175570,
     "wof:name":"Imtan",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

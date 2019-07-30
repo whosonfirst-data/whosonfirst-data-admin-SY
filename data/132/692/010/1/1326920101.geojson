@@ -29,13 +29,26 @@
         "\u064a\u0648\u0633\u0640\u0640\u0640\u0640\u0640\u0640\u0641 \u0628\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u064a\u0643"
     ],
     "name:ara_x_variant":[
-        "\u0642\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0631\u064a\u0629 \u064a\u0648\u0633\u0640\u0640\u0640\u0640\u0640\u0640\u0641 \u0628\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u064a\u0643"
+        "\u0642\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0631\u064a\u0629 \u064a\u0648\u0633\u0640\u0640\u0640\u0640\u0640\u0640\u0641 \u0628\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u064a\u0643",
+        "\u064a\u0648\u0633\u0641 \u0628\u0643"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0633\u0641 \u0628\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Jusuf Bak"
+    ],
+    "name:tur_x_preferred":[
+        "Yusufbey"
     ],
     "name:und_x_variant":[
         "Yo\u00fbssef Bey",
         "Y\u016bsuf Bayk",
         "Qaryat Y\u016bsuf Bayk",
         "Y\u016bsuf Bayg"
+    ],
+    "name:vie_x_preferred":[
+        "Yusuf Bayk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1326920101,
-    "wof:lastmodified":1537701601,
+    "wof:lastmodified":1564175216,
     "wof:name":"Yusuf Bayk",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Mushayrifah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Mushayrifah"
+    ],
     "name:und_x_variant":[
         "Ou\u00e2di ech Charr\u00eefa",
         "Oum el Cherif\u00e9",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1292985501,
-    "wof:lastmodified":1537701608,
+    "wof:lastmodified":1564175600,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

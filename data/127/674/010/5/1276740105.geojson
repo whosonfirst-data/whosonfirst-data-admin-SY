@@ -31,10 +31,25 @@
     "name:ara_x_variant":[
         "\u0633\u0646\u062c\u0627\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u0627\u0631"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u057b\u0561\u0580"
+    ],
+    "name:pol_x_preferred":[
+        "Sind\u017car"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u0436\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Senj\u0101r",
         "Sendjar",
         "Sinnj\u00e2r"
+    ],
+    "name:vie_x_preferred":[
+        "Sinjar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276740105,
-    "wof:lastmodified":1537701715,
+    "wof:lastmodified":1564175708,
     "wof:name":"Sinjar",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

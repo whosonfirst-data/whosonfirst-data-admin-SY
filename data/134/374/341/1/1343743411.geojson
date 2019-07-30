@@ -34,12 +34,18 @@
         "\u0628\u0633\u0627\u0633 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
         "\u0628\u0633\u0627\u0633 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Bisas"
+    ],
     "name:und_x_variant":[
         "Bs\u0101s",
         "Bs\u0101s al Qad\u012bmah",
         "Bs\u0101s al Jad\u012bdah",
         "Bis\u0101s al Qad\u012bmah",
         "Bis\u0101s al Jad\u012bdah"
+    ],
+    "name:vie_x_preferred":[
+        "Bisas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1343743411,
-    "wof:lastmodified":1537702185,
+    "wof:lastmodified":1564175476,
     "wof:name":"Bsas",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

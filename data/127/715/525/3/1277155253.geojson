@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0631\u0628\u0627\u062d"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0628\u0627\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Rabah"
+    ],
     "name:und_x_variant":[
         "Rab\u0101\u1e29",
+        "Rabah"
+    ],
+    "name:vie_x_preferred":[
         "Rabah"
     ],
     "src:geom":"geonames",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1277155253,
-    "wof:lastmodified":1537701795,
+    "wof:lastmodified":1564175742,
     "wof:name":"Rabah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

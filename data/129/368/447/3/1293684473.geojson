@@ -28,8 +28,29 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u064a\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Tasil"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10e1\u10d8\u10da\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Tasil"
+    ],
+    "name:pol_x_preferred":[
+        "Tasil"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0441\u0438\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0441\u0438\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0441\u0456\u043b"
     ],
     "name:und_x_variant":[
         "Ts\u00eel",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293684473,
-    "wof:lastmodified":1537701648,
+    "wof:lastmodified":1564175581,
     "wof:name":"Tasil",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

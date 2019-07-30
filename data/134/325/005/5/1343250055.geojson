@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0645\u0647\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u06cc\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Mahin"
+    ],
+    "name:kab_x_preferred":[
+        "Mhin"
+    ],
+    "name:pol_x_preferred":[
+        "Mahin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "M\u00e9hine",
         "Meh\u012bn",
@@ -37,6 +52,9 @@
         "Mah\u012bn",
         "Mheen",
         "Maheen"
+    ],
+    "name:vie_x_preferred":[
+        "Mahin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1343250055,
-    "wof:lastmodified":1537701919,
+    "wof:lastmodified":1564175414,
     "wof:name":"Mahin",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

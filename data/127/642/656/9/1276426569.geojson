@@ -31,11 +31,20 @@
     "name:ara_x_variant":[
         "\u0641\u0644\u064a\u0637\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u06cc\u0637\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Falita"
+    ],
     "name:und_x_variant":[
         "Fal\u012b\u0163ah",
         "Fal\u012bt\u0101",
         "Fl\u012btah",
         "Al Mashrafah"
+    ],
+    "name:vie_x_preferred":[
+        "Flitah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1276426569,
-    "wof:lastmodified":1537702126,
+    "wof:lastmodified":1564175700,
     "wof:name":"Al Mashrafah",
     "wof:parent_id":1108779095,
     "wof:placetype":"locality",

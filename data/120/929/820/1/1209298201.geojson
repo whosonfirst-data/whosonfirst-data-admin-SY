@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0634\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0634\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Barszin"
+    ],
     "name:und_x_variant":[
         "Barchine",
         "Barsh\u012bn",
         "Barch\u00eene"
+    ],
+    "name:vie_x_preferred":[
+        "Barshin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209298201,
-    "wof:lastmodified":1537702223,
+    "wof:lastmodified":1564175930,
     "wof:name":"Barshin",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

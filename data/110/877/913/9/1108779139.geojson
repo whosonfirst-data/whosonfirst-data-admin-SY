@@ -34,11 +34,62 @@
     "mps:longitude":36.01172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u0259t\u0259na"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Qa\u0163an\u0101"
+    ],
     "name:eng_x_preferred":[
+        "Qatana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0637\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Qatana"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057f\u0561\u0576\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e2\u10d0\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Qatana"
+    ],
+    "name:nno_x_preferred":[
+        "Qatana"
+    ],
+    "name:pol_x_preferred":[
+        "Katana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Qatana"
+    ],
+    "name:swe_x_preferred":[
         "Qatana"
     ],
     "name:und_x_variant":[
         "\u0642\u0637\u0646\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0637\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Qatana"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u6cf0\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +126,7 @@
         }
     ],
     "wof:id":1108779139,
-    "wof:lastmodified":1553718737,
+    "wof:lastmodified":1564176087,
     "wof:name":"Qatana",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

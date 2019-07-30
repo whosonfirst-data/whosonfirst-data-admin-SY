@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "B\u012bj\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Bijan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0698\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bijan"
+    ],
+    "name:swe_x_preferred":[
+        "Bijan"
+    ],
     "name:und_x_variant":[
         "B\u00eej\u00e2ne",
         "Bidjane"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1309824949,
-    "wof:lastmodified":1537702200,
+    "wof:lastmodified":1564176292,
     "wof:name":"Bijan",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

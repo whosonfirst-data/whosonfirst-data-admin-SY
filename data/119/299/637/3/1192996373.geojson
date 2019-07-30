@@ -34,6 +34,24 @@
         "\u1e28isy\u0101\u2019",
         "\u062d\u0633\u064a\u0627\u0621"
     ],
+    "name:ceb_x_preferred":[
+        "Hisya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0627\u0621"
+    ],
+    "name:fra_x_preferred":[
+        "Hisyah"
+    ],
+    "name:nno_x_preferred":[
+        "Hisyah"
+    ],
+    "name:pol_x_preferred":[
+        "Hisja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0441\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Hassy\u00e9",
         "Hisya",
@@ -42,6 +60,9 @@
         "Hassi\u00e9",
         "\u1e28asyah",
         "\u1e28isyah"
+    ],
+    "name:vie_x_preferred":[
+        "Hisyah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1192996373,
-    "wof:lastmodified":1537702074,
+    "wof:lastmodified":1564176017,
     "wof:name":"Hisya",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

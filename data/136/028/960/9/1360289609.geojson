@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "J\u0101m"
     ],
+    "name:tur_x_preferred":[
+        "Re\u00e7el"
+    ],
     "name:und_x_variant":[
         "Dj\u00eamo"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360289609,
-    "wof:lastmodified":1537702053,
+    "wof:lastmodified":1564176253,
     "wof:name":"Jam",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

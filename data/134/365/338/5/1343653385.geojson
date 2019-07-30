@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tiszrin"
+    ],
     "name:und_x_variant":[
         "Tishr\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Tishrin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343653385,
-    "wof:lastmodified":1537702593,
+    "wof:lastmodified":1564175331,
     "wof:name":"Tishrin",
     "wof:parent_id":1108779151,
     "wof:placetype":"locality",

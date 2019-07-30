@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u062c\u064a\u0632\u0627"
     ],
+    "name:sco_x_preferred":[
+        "Al Jizah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jizah"
+    ],
     "name:und_x_variant":[
         "J\u00eez\u00e9",
         "J\u012bzah",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293611237,
-    "wof:lastmodified":1537702040,
+    "wof:lastmodified":1564175573,
     "wof:name":"Al Jizah",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

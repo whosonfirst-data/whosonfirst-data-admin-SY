@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0633\u0627"
     ],
+    "name:ava_x_preferred":[
+        "\u041a\u044a\u0435\u0445I\u0440\u043e\u0441\u0443 \u0436\u0430\u043c\u0430\u0433I\u0430\u0442"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u06cc\u0633\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Qaysa"
+    ],
+    "name:ceb_x_preferred":[
+        "Qaysa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ca\u03c3\u03ac"
+    ],
+    "name:ita_x_preferred":[
+        "Qaysa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d8\u10e1\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qaysa"
+    ],
+    "name:swe_x_preferred":[
+        "Qaysa"
+    ],
     "name:und_x_variant":[
         "Qays\u0101"
     ],
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1360182331,
-    "wof:lastmodified":1537702432,
+    "wof:lastmodified":1564176239,
     "wof:name":"Qaysa",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

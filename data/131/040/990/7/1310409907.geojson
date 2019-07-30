@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0634\u0631\u064a\u0641\u0644\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Shar\u012bfl\u016b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u06cc\u0641\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Shariflu"
+    ],
+    "name:swe_x_preferred":[
+        "Shar\u012bfl\u016b"
+    ],
     "name:tur_x_preferred":[
         "Shar\u012bfl\u016b"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310409907,
-    "wof:lastmodified":1537701733,
+    "wof:lastmodified":1564176116,
     "wof:name":"Shariflu",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

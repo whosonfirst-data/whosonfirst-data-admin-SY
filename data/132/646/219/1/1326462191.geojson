@@ -29,7 +29,43 @@
     "name:ara_x_preferred":[
         "\u0635\u0644\u062e\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Salkhad"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015ealkhad"
+    ],
+    "name:deu_x_preferred":[
+        "Salchad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0644\u062e\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Salkhad"
+    ],
+    "name:fra_x_preferred":[
+        "Salkhad"
+    ],
+    "name:ita_x_preferred":[
+        "Salkhad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10ee\u10d0\u10d3\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Salkhad"
+    ],
+    "name:pol_x_preferred":[
+        "Salchad"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0445\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Salkhad"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0445\u0430\u0434"
     ],
     "name:und_x_variant":[
@@ -39,6 +75,15 @@
         "\u015eal\u0101khad",
         "Sal\u00e2khed",
         "\u015ealkhad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0644\u062e\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Salkhad"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u52d2\u6d77\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +109,7 @@
         }
     ],
     "wof:id":1326462191,
-    "wof:lastmodified":1537701761,
+    "wof:lastmodified":1564175277,
     "wof:name":"Salkhad",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

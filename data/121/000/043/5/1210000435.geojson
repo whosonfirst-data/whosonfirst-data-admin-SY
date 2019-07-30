@@ -28,12 +28,21 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0633\u0646\u0627\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0633\u0646\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Sinan"
+    ],
     "name:und_x_variant":[
         "Tell Sin\u0101n",
         "Tell es Sn\u00e2ne",
         "Tall Sin\u0101n",
         "Tel Senek",
         "Tall as Sin\u0101n"
+    ],
+    "name:vie_x_preferred":[
+        "Tell Sinan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1210000435,
-    "wof:lastmodified":1537701679,
+    "wof:lastmodified":1564175975,
     "wof:name":"Tall Sinan",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

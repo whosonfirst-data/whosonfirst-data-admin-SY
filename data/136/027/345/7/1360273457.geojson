@@ -31,11 +31,23 @@
     "name:ara_x_variant":[
         "\u0634\u0646\u0634\u0627\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Schinschar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0634\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Szinszar"
+    ],
     "name:und_x_variant":[
         "Chenchar",
         "Shanshar",
         "Chinnch\u00e2r",
         "Shansh\u0101r"
+    ],
+    "name:vie_x_preferred":[
+        "Shinshar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1360273457,
-    "wof:lastmodified":1537701725,
+    "wof:lastmodified":1564176237,
     "wof:name":"Shinshar",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u0631\u062d\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u062d\u064a\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Ruhajja"
+    ],
     "name:und_x_variant":[
         "R\u2019ha\u00efy\u00e9",
         "Ru\u1e29ayyah"
+    ],
+    "name:vie_x_preferred":[
+        "Ruhayyah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1259772491,
-    "wof:lastmodified":1537701774,
+    "wof:lastmodified":1564176534,
     "wof:name":"Ruhayyah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

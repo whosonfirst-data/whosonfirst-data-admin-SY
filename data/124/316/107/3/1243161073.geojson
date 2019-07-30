@@ -33,9 +33,18 @@
         "\u062a\u064a\u0632\u064a\u0646",
         "\u0627\u0644\u0632\u064a\u0646\u064a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0632\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tizin"
+    ],
     "name:und_x_variant":[
         "T\u00eez\u00eene",
         "Az Zayn\u012byah"
+    ],
+    "name:vie_x_preferred":[
+        "Tayzin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1243161073,
-    "wof:lastmodified":1537702265,
+    "wof:lastmodified":1564176479,
     "wof:name":"Tizin",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

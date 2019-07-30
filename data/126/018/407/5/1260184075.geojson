@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0643\u062a\u0633\u064a\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt Kats\u012br"
+    ],
+    "name:ces_x_preferred":[
+        "Tel Kacir"
+    ],
+    "name:fra_x_preferred":[
+        "Tel-Qatzir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05e7\u05e6\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tel Katzir"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Kacir"
+    ],
     "name:und_x_variant":[
         "Beit Qatsir",
         "Tel Katsir",
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":1260184075,
-    "wof:lastmodified":1549930342,
+    "wof:lastmodified":1564176063,
     "wof:name":"Bayt Katsir",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

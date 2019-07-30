@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0644\u0633"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0644\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Muklus"
+    ],
     "name:und_x_variant":[
         "Moqloss",
+        "Muqlus"
+    ],
+    "name:vie_x_preferred":[
         "Muqlus"
     ],
     "src:geom":"geonames",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309786951,
-    "wof:lastmodified":1537701871,
+    "wof:lastmodified":1564176287,
     "wof:name":"Muqlus",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

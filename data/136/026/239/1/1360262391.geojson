@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0623\u0637\u0645\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0637\u0645\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "Atmeh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0637\u0645\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Atima"
+    ],
     "name:und_x_variant":[
         "Atma",
         "Atmih",
@@ -35,6 +47,9 @@
         "\u0100\u0163imah",
         "A\u0163mah",
         "A\u0163imah"
+    ],
+    "name:vie_x_preferred":[
+        "Atme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1360262391,
-    "wof:lastmodified":1537702270,
+    "wof:lastmodified":1564176260,
     "wof:name":"Atmah",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

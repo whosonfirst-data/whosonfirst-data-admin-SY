@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0631\u0648\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0648\u0645\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631\u0648\u0645\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Ruma"
+    ],
     "name:und_x_variant":[
         "Kafer Ro\u00fbma",
         "Kafr R\u016bmah",
         "Kafr R\u016bm\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Kafr Rumah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209401899,
-    "wof:lastmodified":1537702008,
+    "wof:lastmodified":1564175875,
     "wof:name":"Kafr Ruma",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

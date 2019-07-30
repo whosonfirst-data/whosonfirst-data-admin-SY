@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0628\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0628\u0644"
+    ],
+    "name:nld_x_preferred":[
+        "Bulbul"
+    ],
+    "name:pol_x_preferred":[
+        "Bulbul"
+    ],
+    "name:ron_x_preferred":[
+        "Bulbul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u043b\u044c\u0431\u044e\u043b\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00fclb\u00fcl"
+    ],
+    "name:vie_x_preferred":[
+        "Bulbul"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1260171169,
-    "wof:lastmodified":1537702177,
+    "wof:lastmodified":1564176071,
     "wof:name":"Bulbul",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

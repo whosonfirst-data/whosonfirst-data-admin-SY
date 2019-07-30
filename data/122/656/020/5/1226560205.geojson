@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0632\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0632\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Zajzun"
+    ],
     "name:und_x_variant":[
         "Zayz\u016bn"
+    ],
+    "name:vie_x_preferred":[
+        "Zayzun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226560205,
-    "wof:lastmodified":1537702642,
+    "wof:lastmodified":1564176671,
     "wof:name":"Zayzun",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

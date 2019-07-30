@@ -31,6 +31,21 @@
     "name:ara_x_variant":[
         "\u062c\u062f\u0648\u062a"
     ],
+    "name:ces_x_preferred":[
+        "Gadot"
+    ],
+    "name:fra_x_preferred":[
+        "Gadot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d3\u05d5\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Gadot"
+    ],
+    "name:pol_x_preferred":[
+        "Gadot"
+    ],
     "name:und_x_variant":[
         "Ha-Goverim",
         "Gadot",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1243371245,
-    "wof:lastmodified":1549930474,
+    "wof:lastmodified":1564176347,
     "wof:name":"Ka`ush al Jadidah",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0633\u0647\u0644"
     ],
+    "name:dan_x_preferred":[
+        "Sahl"
+    ],
+    "name:deu_x_preferred":[
+        "Sahl"
+    ],
+    "name:epo_x_preferred":[
+        "Sahl"
+    ],
+    "name:nld_x_preferred":[
+        "Sahl"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0445\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "As Sahl"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276898295,
-    "wof:lastmodified":1537701582,
+    "wof:lastmodified":1564175704,
     "wof:name":"Sahl",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

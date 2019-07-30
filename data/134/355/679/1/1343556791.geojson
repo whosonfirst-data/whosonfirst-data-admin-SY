@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u062d\u0643\u0641\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u062d\u0643\u0641\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u06a9\u0641\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Hakfa"
+    ],
     "name:und_x_variant":[
         "Ab\u016b \u1e28akf\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Abu Hakfa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343556791,
-    "wof:lastmodified":1537702439,
+    "wof:lastmodified":1564175353,
     "wof:name":"Abu Hakfa",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

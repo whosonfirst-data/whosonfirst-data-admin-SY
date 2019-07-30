@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0648\u0642\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Schawki"
+    ],
     "name:und_x_variant":[
         "Shawk\u012b",
         "Shaw\u0163\u012b",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310507547,
-    "wof:lastmodified":1537701568,
+    "wof:lastmodified":1564176184,
     "wof:name":"Shawki",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",

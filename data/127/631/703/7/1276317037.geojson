@@ -31,11 +31,17 @@
     "name:ara_x_variant":[
         "\u0635\u0645\u0627\u062e"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0645\u0627\u062e"
+    ],
     "name:und_x_variant":[
         "Sm\u00e2kh",
         "\u015eam\u0101kh",
         "As Sam\u0101kh",
         "Sam\u0101kh"
+    ],
+    "name:vie_x_preferred":[
+        "Smakh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1276317037,
-    "wof:lastmodified":1537702277,
+    "wof:lastmodified":1564175809,
     "wof:name":"Samakh",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

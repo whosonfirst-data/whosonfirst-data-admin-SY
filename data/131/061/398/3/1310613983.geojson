@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u0648\u0647\u064a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Bajt Suhin"
+    ],
     "name:und_x_variant":[
         "Be\u00eft So\u00fbhine",
         "Bayt S\u016bh\u012bn"
+    ],
+    "name:vie_x_preferred":[
+        "Bayt Suhin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1310613983,
-    "wof:lastmodified":1537702205,
+    "wof:lastmodified":1564176178,
     "wof:name":"Bayt Suhin",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

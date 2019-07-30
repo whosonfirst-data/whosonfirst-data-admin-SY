@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u0648\u062c"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0648\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Surud\u017c"
+    ],
     "name:tur_x_preferred":[
         "Sur\u016bj"
     ],
     "name:und_x_variant":[
         "Souro\u00fbj"
+    ],
+    "name:vie_x_preferred":[
+        "Suruj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1343565185,
-    "wof:lastmodified":1537701702,
+    "wof:lastmodified":1564175426,
     "wof:name":"Suruj",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

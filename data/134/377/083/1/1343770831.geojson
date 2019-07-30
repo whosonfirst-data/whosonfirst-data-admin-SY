@@ -28,10 +28,85 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u064a\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0456\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Salamiyya"
+    ],
+    "name:ceb_x_preferred":[
+        "As Salam\u012byah"
+    ],
+    "name:deu_x_preferred":[
+        "Salamiyya"
+    ],
+    "name:epo_x_preferred":[
+        "Salamija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0645\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Salamiyya"
+    ],
+    "name:fra_x_preferred":[
+        "Salamyeh"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0561\u0574\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Salamiyah"
+    ],
+    "name:ita_x_preferred":[
+        "Salamiyya"
+    ],
+    "name:kab_x_preferred":[
+        "Salamiyye"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d0\u10db\u10d8\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Salamija"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0644\u0645\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Salamiyah"
+    ],
+    "name:nno_x_preferred":[
+        "Salamiyah"
+    ],
+    "name:nor_x_preferred":[
+        "Salamiyah"
+    ],
+    "name:pol_x_preferred":[
+        "As-Salamijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Salam\u00ede"
+    ],
+    "name:swe_x_preferred":[
+        "As-Salamiyya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Salm\u00eey\u00e9",
         "Salm\u012byah",
         "Salam\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0645\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u840a\u7c73\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1343770831,
-    "wof:lastmodified":1537701760,
+    "wof:lastmodified":1564175390,
     "wof:name":"Salamiyah",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

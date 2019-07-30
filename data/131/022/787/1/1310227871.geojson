@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0628\u0647\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "Baham"
+    ],
+    "name:deu_x_preferred":[
+        "Baham"
+    ],
+    "name:fra_x_preferred":[
+        "Baham"
+    ],
+    "name:ltz_x_preferred":[
+        "Baham"
+    ],
+    "name:spa_x_preferred":[
+        "Baham"
+    ],
+    "name:swe_x_preferred":[
+        "Baham"
+    ],
     "name:und_x_variant":[
         "B\u00e9hem",
         "Baham"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310227871,
-    "wof:lastmodified":1537702236,
+    "wof:lastmodified":1564176109,
     "wof:name":"Baham",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

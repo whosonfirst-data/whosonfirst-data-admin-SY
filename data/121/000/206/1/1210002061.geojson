@@ -28,10 +28,28 @@
     "name:ara_x_preferred":[
         "\u0627\u0641\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0641\u0631\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Efra"
+    ],
+    "name:pol_x_preferred":[
+        "Afra"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0444\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Afr\u00e9",
         "Afra",
         "Afrah"
+    ],
+    "name:vie_x_preferred":[
+        "Efra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1210002061,
-    "wof:lastmodified":1537702396,
+    "wof:lastmodified":1564175976,
     "wof:name":"Afrah",
     "wof:parent_id":1108779087,
     "wof:placetype":"locality",

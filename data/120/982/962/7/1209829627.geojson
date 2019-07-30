@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0645"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0648\u064a\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u06cc\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Tuwajm"
+    ],
+    "name:vie_x_preferred":[
+        "Tuwaym"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209829627,
-    "wof:lastmodified":1537702423,
+    "wof:lastmodified":1564175885,
     "wof:name":"Tuwaym",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

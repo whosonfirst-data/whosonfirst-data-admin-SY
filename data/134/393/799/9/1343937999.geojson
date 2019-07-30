@@ -28,12 +28,21 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Hawa"
+    ],
     "name:und_x_variant":[
         "Hao\u00fba",
         "\u1e28aw\u0101",
         "Raw\u1e11at Haw\u0101\u2019",
         "Raoudet Haoua",
         "Raoudet Haoura",
+        "Hawa"
+    ],
+    "name:vie_x_preferred":[
         "Hawa"
     ],
     "src:geom":"geonames",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1343937999,
-    "wof:lastmodified":1537702087,
+    "wof:lastmodified":1564175433,
     "wof:name":"Huwa",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a\u0645\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09bf\u09ae\u09c1"
+    ],
     "name:tur_x_preferred":[
         "\u1e28\u012bm\u016b"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1309726005,
-    "wof:lastmodified":1537702075,
+    "wof:lastmodified":1564176318,
     "wof:name":"Himu",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

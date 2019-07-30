@@ -31,10 +31,46 @@
     "name:ara_x_variant":[
         "\u0645\u0633\u0643\u0646\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Maskanah"
+    ],
+    "name:deu_x_preferred":[
+        "Maskanah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u06a9\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Maskanah"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u0584\u0561\u0576\u0561"
+    ],
+    "name:nno_x_preferred":[
+        "Maskanah"
+    ],
+    "name:pol_x_preferred":[
+        "Maskana"
+    ],
+    "name:por_x_preferred":[
+        "Mascana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u043a\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Maskanah"
+    ],
+    "name:tur_x_preferred":[
+        "Meskene"
+    ],
     "name:und_x_variant":[
         "Tell Mesken",
         "Tell Mesk\u00e8ne",
         "Tall Maskan",
+        "Maskanah"
+    ],
+    "name:vie_x_preferred":[
         "Maskanah"
     ],
     "src:geom":"geonames",
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":1259965263,
-    "wof:lastmodified":1537701663,
+    "wof:lastmodified":1564176513,
     "wof:name":"Maskanah",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

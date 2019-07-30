@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062f\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u062f\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eidi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Shidi"
+    ],
     "name:tur_x_preferred":[
         "Sh\u012bd\u012b"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1209918113,
-    "wof:lastmodified":1537701727,
+    "wof:lastmodified":1564175830,
     "wof:name":"Shidi",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

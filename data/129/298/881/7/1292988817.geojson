@@ -31,9 +31,18 @@
     "name:ara_x_variant":[
         "\u0639\u0631\u062c\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u062c\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ard\u017cun"
+    ],
     "name:und_x_variant":[
         "Aarjo\u00fbn",
         "Arjoune",
+        "Arjoun"
+    ],
+    "name:vie_x_preferred":[
         "Arjoun"
     ],
     "src:geom":"geonames",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1292988817,
-    "wof:lastmodified":1537702305,
+    "wof:lastmodified":1564175600,
     "wof:name":"`Arjun",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

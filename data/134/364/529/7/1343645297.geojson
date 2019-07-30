@@ -25,14 +25,132 @@
     "iso:country":"SY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Buraq"
+    ],
+    "name:afr_x_preferred":[
+        "Boerak"
+    ],
     "name:ara_x_preferred":[
         "Bur\u0101q"
     ],
     "name:ara_x_variant":[
+        "\u0628\u0631\u0627\u0642",
+        "\u0627\u0644\u0628\u0631\u0627\u0642"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Buraq"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b0\u09be\u0995"
+    ],
+    "name:bos_x_preferred":[
+        "Burak"
+    ],
+    "name:cat_x_preferred":[
+        "Buraq"
+    ],
+    "name:ces_x_preferred":[
+        "Bur\u00e1k"
+    ],
+    "name:dan_x_preferred":[
+        "Buraq"
+    ],
+    "name:deu_x_preferred":[
+        "Buraq"
+    ],
+    "name:diq_x_preferred":[
+        "Buraq"
+    ],
+    "name:fas_x_preferred":[
         "\u0628\u0631\u0627\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Buraq"
+    ],
+    "name:fra_x_preferred":[
+        "Bouraq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d1\u05d5\u05e8\u05d0\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Burak"
+    ],
+    "name:hun_x_preferred":[
+        "Bur\u00e1k"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u0532\u0578\u0582\u0580\u0561\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Buraq"
+    ],
+    "name:ita_x_preferred":[
+        "Buraq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Buraq"
+    ],
+    "name:nld_x_preferred":[
+        "Buraq"
+    ],
+    "name:nor_x_preferred":[
+        "Borak"
+    ],
+    "name:pol_x_preferred":[
+        "Burak"
+    ],
+    "name:por_x_preferred":[
+        "Buraque"
+    ],
+    "name:ron_x_preferred":[
+        "Buraq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Alburak"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0631\u0627\u0642"
+    ],
+    "name:spa_x_preferred":[
+        "Buraq"
+    ],
+    "name:sqi_x_preferred":[
+        "Buraku"
+    ],
+    "name:swe_x_preferred":[
+        "Buraq"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e38\u0e23\u0e47\u0e2d\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Burak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Br\u00e2q"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0627\u0642"
+    ],
+    "name:uzb_x_preferred":[
+        "Buroq"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +175,7 @@
         }
     ],
     "wof:id":1343645297,
-    "wof:lastmodified":1537702176,
+    "wof:lastmodified":1564175361,
     "wof:name":"Buraq",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

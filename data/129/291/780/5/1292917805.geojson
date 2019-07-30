@@ -28,8 +28,50 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0627\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Taran"
+    ],
+    "name:deu_x_preferred":[
+        "Taran"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Taran"
+    ],
+    "name:nds_x_preferred":[
+        "Taran"
+    ],
+    "name:pol_x_preferred":[
+        "Taran"
+    ],
+    "name:por_x_preferred":[
+        "Taran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Taran"
+    ],
+    "name:swe_x_preferred":[
+        "Taran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "\u0162ar\u0101n"
+    ],
+    "name:uzb_x_preferred":[
+        "Taran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1292917805,
-    "wof:lastmodified":1537702495,
+    "wof:lastmodified":1564175607,
     "wof:name":"Taran",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

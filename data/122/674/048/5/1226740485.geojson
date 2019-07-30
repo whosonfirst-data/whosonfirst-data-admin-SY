@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0633\u0648\u0644\u0629"
     ],
+    "name:pol_x_preferred":[
+        "Ghasula"
+    ],
     "name:und_x_variant":[
         "Rhassoul\u00e9",
         "El Rhasso\u00fbl\u00e9",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226740485,
-    "wof:lastmodified":1537702372,
+    "wof:lastmodified":1564176646,
     "wof:name":"Ghasulah",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

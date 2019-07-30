@@ -28,11 +28,35 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0648\u0632\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u0648\u0632\u0647 \u0633\u0648\u0631\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Fayruzah"
+    ],
+    "name:nno_x_preferred":[
+        "Fairouzeh"
+    ],
+    "name:pol_x_preferred":[
+        "Fajruza"
+    ],
+    "name:spa_x_preferred":[
+        "Feiruzy"
+    ],
+    "name:tur_x_preferred":[
+        "Feyruze"
+    ],
     "name:und_x_variant":[
         "Fayr\u016bz",
         "Fa\u00efrouz\u00e9",
         "Feiruze",
         "Fayr\u016bzah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0626\u0631\u0648\u0632\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Fairouzeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1259771365,
-    "wof:lastmodified":1537702122,
+    "wof:lastmodified":1564176533,
     "wof:name":"Fayruzah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

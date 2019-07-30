@@ -28,12 +28,18 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u062c\u0628\u0627\u0631"
     ],
+    "name:pol_x_preferred":[
+        "Abu D\u017cabbar"
+    ],
     "name:und_x_variant":[
         "Kheurbet Kay\u00e2r",
         "Abou Jebb\u00e2r Serh\u00eere",
         "Abou Djebbar Sghir",
         "Ab\u016b Jabb\u0101r a\u015f \u015eagh\u012brah",
         "Ab\u016b Jabb\u0101r"
+    ],
+    "name:vie_x_preferred":[
+        "Abu Jabbar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293474371,
-    "wof:lastmodified":1537702410,
+    "wof:lastmodified":1564175565,
     "wof:name":"Abu Jabbar",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

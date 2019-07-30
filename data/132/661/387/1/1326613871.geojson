@@ -32,6 +32,12 @@
         "B\u016blu\u015f",
         "\u0628\u0648\u0644\u0635"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u043b\u0443\u0441"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u0443\u043b\u0443\u0443\u0441"
+    ],
     "name:und_x_variant":[
         "Buloz",
         "Bo\u00fblos",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1326613871,
-    "wof:lastmodified":1537702177,
+    "wof:lastmodified":1564175221,
     "wof:name":"Bulus",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

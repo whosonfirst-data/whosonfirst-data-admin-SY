@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u0628\u0631\u0643\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u064a\u062e \u0628\u0631\u0643\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0628\u0631\u06a9\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szajch Baraka"
+    ],
     "name:und_x_variant":[
         "Che\u00efkh Barak\u00e9",
         "Ash Shaykh Barakah",
         "Shaykh Barakah",
+        "Sheikh Barakeh"
+    ],
+    "name:vie_x_preferred":[
         "Sheikh Barakeh"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209602341,
-    "wof:lastmodified":1537702289,
+    "wof:lastmodified":1564175913,
     "wof:name":"Shaykh Barakah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

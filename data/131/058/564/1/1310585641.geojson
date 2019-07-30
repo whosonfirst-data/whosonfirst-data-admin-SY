@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0628\u0637\u062d\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Batha"
+    ],
+    "name:ces_x_preferred":[
+        "Batha"
+    ],
+    "name:fra_x_preferred":[
+        "Batha"
+    ],
+    "name:ita_x_preferred":[
+        "Batha"
+    ],
+    "name:pol_x_preferred":[
+        "Batha"
+    ],
+    "name:swe_x_preferred":[
+        "Batha"
+    ],
     "name:und_x_variant":[
         "Ba\u0163\u1e29\u0101"
     ],
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310585641,
-    "wof:lastmodified":1537702541,
+    "wof:lastmodified":1564176207,
     "wof:name":"Batha",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

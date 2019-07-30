@@ -28,12 +28,24 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u064a\u0631 \u0644\u0627\u0628\u062f\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u064a\u0645\u0631 \u0644\u0627\u0628\u062f\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u06cc\u0645\u0631 \u0644\u0627\u0628\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hajmar Labida"
+    ],
     "name:und_x_variant":[
         "Houmour Labba",
         "\u1e28am\u012br L\u0101yidah",
         "H\u00e2m\u00eer",
         "Ham\u00eer L\u00e2bda",
         "\u1e28am\u012br L\u0101bidah"
+    ],
+    "name:vie_x_preferred":[
+        "Hamir Labidah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1327318283,
-    "wof:lastmodified":1537702101,
+    "wof:lastmodified":1564175183,
     "wof:name":"Hamir Labidah",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",
