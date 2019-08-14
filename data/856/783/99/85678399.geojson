@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DR"
+    ],
     "lbl:latitude":32.80729,
     "lbl:longitude":36.161725,
     "meso:name_loc":"\u062f\u0631\u0639\u0627",
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85678399,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -317,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918125,
+    "wof:lastmodified":1565736777,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

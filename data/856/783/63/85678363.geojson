@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":35.237812,
     "lbl:longitude":37.291256,
     "meso:name_loc":"\u062d\u0645\u0627\u0629",
@@ -348,9 +351,6 @@
         }
     ],
     "wof:id":85678363,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -359,7 +359,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918127,
+    "wof:lastmodified":1565736778,
     "wof:name":"Hamah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

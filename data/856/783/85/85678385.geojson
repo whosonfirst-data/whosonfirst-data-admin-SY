@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":32.733524,
     "lbl:longitude":36.836158,
     "meso:name_loc":"\u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621",
@@ -336,9 +339,6 @@
         }
     ],
     "wof:id":85678385,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -347,7 +347,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918129,
+    "wof:lastmodified":1565736778,
     "wof:name":"As Suwayda'",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

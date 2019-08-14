@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":35.602776,
     "lbl:longitude":36.015909,
     "meso:name_loc":"\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
@@ -421,9 +424,6 @@
         }
     ],
     "wof:id":85678345,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -432,7 +432,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918122,
+    "wof:lastmodified":1565736777,
     "wof:name":"Lattakia",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

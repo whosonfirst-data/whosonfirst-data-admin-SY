@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ID"
+    ],
     "lbl:latitude":35.768427,
     "lbl:longitude":36.67172,
     "meso:name_loc":"\u0625\u062f\u0644\u0628",
@@ -410,9 +413,6 @@
         }
     ],
     "wof:id":85678373,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -421,7 +421,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918123,
+    "wof:lastmodified":1565736777,
     "wof:name":"Idlib",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QU"
+    ],
     "lbl:latitude":33.034659,
     "lbl:longitude":35.791868,
     "meso:name_loc":"\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629",
@@ -337,9 +340,6 @@
         }
     ],
     "wof:id":85678395,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -348,7 +348,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918119,
+    "wof:lastmodified":1565736776,
     "wof:name":"Quneitra",
     "wof:parent_id":85632221,
     "wof:placetype":"region",

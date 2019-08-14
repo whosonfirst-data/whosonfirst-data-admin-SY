@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RA"
+    ],
     "lbl:latitude":35.966891,
     "lbl:longitude":39.069195,
     "meso:name_loc":"\u0627\u0644\u0631\u0642\u0629",
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85678355,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -328,7 +328,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563918126,
+    "wof:lastmodified":1565736777,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RD"
+    ],
     "lbl:latitude":33.41145,
     "lbl:longitude":37.633311,
     "meso:name_loc":"\u0631\u064a\u0641 \u062f\u0645\u0634\u0642",
@@ -166,9 +169,6 @@
         }
     ],
     "wof:id":85678391,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -177,7 +177,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550562,
+    "wof:lastmodified":1565736777,
     "wof:name":"Rif Dimashq",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
