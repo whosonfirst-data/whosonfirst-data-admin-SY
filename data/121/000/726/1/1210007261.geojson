@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.26645,33.27722,36.30645,33.31722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "M\u0101jid"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Maj\u00eed\u00eey\u00e9",
         "Majdy\u00e9",
-        "Al M\u0101jid\u012byah",
-        "M\u0101jid"
+        "Al M\u0101jid\u012byah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1210007261,
-    "wof:lastmodified":1537701916,
+    "wof:lastmodified":1566651902,
     "wof:name":"Al Majidiyah",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

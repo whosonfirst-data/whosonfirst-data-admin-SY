@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.71214,
     "lbl:longitude":37.879113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aleppo",
     "meso:adm1_loc":"\u062d\u0644\u0628",
     "meso:adm2_gaul":"Jarablus",
@@ -34,6 +36,7 @@
     "mps:longitude":37.879113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jarabulus"
     ],
@@ -41,9 +44,9 @@
         "\u062c\u0631\u0627\u0628\u0644\u0633"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Jarabulus",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779119,
-    "wof:lastmodified":1553718736,
+    "wof:lastmodified":1566652000,
     "wof:name":"Jarablus",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

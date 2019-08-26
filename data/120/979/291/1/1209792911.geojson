@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.78993,36.03412,36.82993,36.07412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Kity\u0101n"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209792911,
-    "wof:lastmodified":1537701943,
+    "wof:lastmodified":1566651810,
     "wof:name":"Kityan",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

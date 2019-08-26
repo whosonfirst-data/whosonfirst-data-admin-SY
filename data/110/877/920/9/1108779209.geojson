@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.810151,
     "lbl:longitude":36.137094,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tartous",
     "meso:adm1_loc":"\u0637\u0631\u0637\u0648\u0633",
     "meso:adm2_gaul":"Safita",
@@ -34,6 +36,7 @@
     "mps:longitude":36.137094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0635\u0627\u0641\u064a\u062a\u0627"
     ],
@@ -106,9 +109,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0444\u0456\u0442\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0635\u0627\u0641\u064a\u062a\u0627"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0627\u0641\u06cc\u062a\u0627"
     ],
@@ -119,9 +119,9 @@
         "\u85a9\u83f2\u6cf0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Safita",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":1108779209,
-    "wof:lastmodified":1564176090,
+    "wof:lastmodified":1566652002,
     "wof:name":"Safita",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

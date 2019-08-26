@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.72794,36.59562,36.76794,36.63562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u062a\u064a\u0645\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292895799,
-    "wof:lastmodified":1537702620,
+    "wof:lastmodified":1566651517,
     "wof:name":"Al Yatimah",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

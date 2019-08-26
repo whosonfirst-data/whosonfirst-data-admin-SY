@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.01825,35.76656,36.05825,35.80656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Kibill\u012b"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209618543,
-    "wof:lastmodified":1537701952,
+    "wof:lastmodified":1566651839,
     "wof:name":"Rabi`ah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

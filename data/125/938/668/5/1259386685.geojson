@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.75802,36.18253,40.79802,36.22253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "F\u0101yij"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259386685,
-    "wof:lastmodified":1537702461,
+    "wof:lastmodified":1566652381,
     "wof:name":"Fayij",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

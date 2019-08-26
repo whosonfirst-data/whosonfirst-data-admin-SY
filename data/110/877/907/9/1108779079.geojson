@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.404151,
     "lbl:longitude":37.663672,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Rural Damascus",
     "meso:adm1_loc":"\u0631\u064a\u0641 \u062f\u0645\u0634\u0642",
     "meso:adm2_gaul":"Duma",
@@ -34,6 +36,7 @@
     "mps:longitude":37.663672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0648\u0645\u0627"
     ],
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043c\u0430"
     ],
-    "name:und_x_variant":[
-        "\u062f\u0648\u0645\u0627"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0645\u0627 \u0636\u0644\u0639"
     ],
@@ -89,9 +89,9 @@
         "\u675c\u99ac\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Duma",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108779079,
-    "wof:lastmodified":1563918770,
+    "wof:lastmodified":1566651994,
     "wof:name":"Duma",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.572512,
     "lbl:longitude":39.92025,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Al-Hasakeh",
     "meso:adm1_loc":"\u0627\u0644\u062d\u0633\u0643\u0629",
     "meso:adm2_gaul":"Ras_Al_Ain",
@@ -34,6 +36,7 @@
     "mps:longitude":39.92025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ra's-al-Ayn"
     ],
@@ -41,9 +44,9 @@
         "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Ra's-al-'Ayn",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779083,
-    "wof:lastmodified":1553718735,
+    "wof:lastmodified":1566651996,
     "wof:name":"Ras Al Ain",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

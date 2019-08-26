@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.02767,35.33325,36.06767,35.37325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0627\u064a\u0639"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276875903,
-    "wof:lastmodified":1537702329,
+    "wof:lastmodified":1566651669,
     "wof:name":"Qalayi`",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

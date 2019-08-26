@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.90982,34.90731,35.94982,34.94731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u064a\u0631 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
     ],
     "name:und_x_variant":[
         "Doua\u00efr ech Che\u00efkh Saad",
-        "Duwayr ash Shaykh Sa\u2018d",
-        "\u062f\u0648\u064a\u0631 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
+        "Duwayr ash Shaykh Sa\u2018d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343733349,
-    "wof:lastmodified":1537702129,
+    "wof:lastmodified":1566651458,
     "wof:name":"Duwayr ash Shaykh Sa`d",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

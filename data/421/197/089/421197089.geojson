@@ -10,8 +10,12 @@
     "geom:latitude":33.07227,
     "geom:longitude":36.18382,
     "iso:country":"SY",
+    "lbl:bbox":"36.16382,33.05227,36.20382,33.09227",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0646\u0645\u064a\u0646"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441-\u0421\u0430\u043d\u0430\u043c\u0435\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Es Sanamein"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":172469,
         "gp:id":1941728,
-        "qs:id":1301115,
+        "qs_pg:id":1301115,
         "wd:id":"Q2561767",
         "wk:page":"Al-Sanamayn"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421197089,
-    "wof:lastmodified":1561851980,
+    "wof:lastmodified":1566652208,
     "wof:name":"As sanamayn",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.87475,36.8169,40.91475,36.8569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u062e\u0646\u0632\u064a\u0631"
     ],
@@ -32,8 +36,7 @@
         "Tall Khinz\u012br"
     ],
     "name:und_x_variant":[
-        "Tell Khannz\u00eer",
-        "Tall Khinz\u012br"
+        "Tell Khannz\u00eer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1360094615,
-    "wof:lastmodified":1537701664,
+    "wof:lastmodified":1566652114,
     "wof:name":"Tall Khinzir",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

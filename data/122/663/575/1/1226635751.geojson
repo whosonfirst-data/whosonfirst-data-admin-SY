@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.27121,36.37576,38.31121,36.41576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0642\u0648\u0637"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226635751,
-    "wof:lastmodified":1537701857,
+    "wof:lastmodified":1566652598,
     "wof:name":"Naqut",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

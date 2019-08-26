@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.51905,35.13737,36.55905,35.17737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Tuw\u0101m"
     ],
@@ -43,8 +47,7 @@
         "Tou\u00e8m",
         "Tou\u00e2m",
         "Toueme",
-        "At Tuwaym",
-        "Tuwaym"
+        "At Tuwaym"
     ],
     "name:vie_x_preferred":[
         "Tuwaym"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209604175,
-    "wof:lastmodified":1564175914,
+    "wof:lastmodified":1566651852,
     "wof:name":"Tuwam",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16400171.942305,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.286311,33.492473,36.286311,33.492473",
     "geom:latitude":33.492473,
     "geom:longitude":36.286311,
     "gn:id":"",
     "iso:country":"SY",
+    "lbl:bbox":"36.281311,33.487473,36.291311,33.497473",
     "lbl:latitude":33.492473,
     "lbl:longitude":36.286311,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.497128,
     "mps:longitude":36.279683,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     "name:ara_x_variant":[
         "Meid\u00e5n",
         "M\u012bd\u0101n"
-    ],
-    "name:unk_x_variant":[
-        "Mayd\u00e5n"
     ],
     "qs:gn_adm0_cc":"SY",
     "qs:gn_id":0,
@@ -68,17 +67,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85678403,
         102191569,
         85632413,
-        1108779107,
-        85678403
+        1108779107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947059,
-        "qs:id":1119557,
         "qs_pg:id":1119557
     },
     "wof:country":"SY",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935994,
+    "wof:lastmodified":1566651480,
     "wof:name":"Mayd\u00e5n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

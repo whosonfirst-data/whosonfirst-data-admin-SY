@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.5934,36.53712,36.6334,36.57712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u062c\u0642\u0627\u0644\u0644\u064a"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343351303,
-    "wof:lastmodified":1537702509,
+    "wof:lastmodified":1566651417,
     "wof:name":"Tall ath Tha`alib",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

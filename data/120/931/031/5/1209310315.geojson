@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.84504,36.14687,36.88504,36.18687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ibizm\u016b"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Ibezmou",
         "Ibizmou",
-        "Ibizm\u016b",
         "Abzimo",
         "Abzemow",
         "Abzemo",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209310315,
-    "wof:lastmodified":1537702063,
+    "wof:lastmodified":1566651772,
     "wof:name":"Al Izmu",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

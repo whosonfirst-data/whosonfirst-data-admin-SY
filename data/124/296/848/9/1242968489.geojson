@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.90916,32.86117,35.94916,32.90117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0643\u0627\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242968489,
-    "wof:lastmodified":1537702601,
+    "wof:lastmodified":1566652341,
     "wof:name":"Al Bakkar",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

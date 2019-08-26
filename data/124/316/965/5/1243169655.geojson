@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.9764,33.03474,36.0164,33.07474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0642\u0639 \u0643\u0631\u0645 \u0627\u0644\u062c\u0627\u0645\u0639"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243169655,
-    "wof:lastmodified":1537702572,
+    "wof:lastmodified":1566652354,
     "wof:name":"Mawqi` Karm al Jami`",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

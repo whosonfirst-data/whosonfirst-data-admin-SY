@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.25867,34.65594,36.29867,34.69594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qn\u016bt\u0101"
     ],
@@ -35,7 +39,6 @@
     "name:und_x_variant":[
         "Qno\u00fbta",
         "Qan\u016bt\u0101",
-        "Qn\u016bt\u0101",
         "Qan\u016btah"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276311143,
-    "wof:lastmodified":1537701809,
+    "wof:lastmodified":1566651763,
     "wof:name":"Qanuta",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.07892,33.50233,36.11892,33.54233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0644\u0627\u064a\u0644"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242574795,
-    "wof:lastmodified":1537702559,
+    "wof:lastmodified":1566652257,
     "wof:name":"Al Kalayil",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.16394,35.70322,37.20394,35.74322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Umm W\u0101d\u012b"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209810031,
-    "wof:lastmodified":1537701616,
+    "wof:lastmodified":1566651895,
     "wof:name":"Umm Wadi",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

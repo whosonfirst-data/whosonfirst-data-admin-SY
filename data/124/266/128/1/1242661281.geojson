@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.92059,34.94669,36.96059,34.98669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0645\u0627\u0644\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242661281,
-    "wof:lastmodified":1537702528,
+    "wof:lastmodified":1566652263,
     "wof:name":"Al Jamali",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

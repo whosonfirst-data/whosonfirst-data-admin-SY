@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.039,33.06569,36.079,33.10569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0639\u0648\u0633\u062c"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209713209,
-    "wof:lastmodified":1537701630,
+    "wof:lastmodified":1566651825,
     "wof:name":"Umm al `Awsaj",
     "wof:parent_id":1108779137,
     "wof:placetype":"locality",

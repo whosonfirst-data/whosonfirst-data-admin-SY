@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.58964,35.79374,36.62964,35.83374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ar\u012b\u1e29\u0101"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293760771,
-    "wof:lastmodified":1537702305,
+    "wof:lastmodified":1566651534,
     "wof:name":"Ariha",
     "wof:parent_id":1108779097,
     "wof:placetype":"locality",

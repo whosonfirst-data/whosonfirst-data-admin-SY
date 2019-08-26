@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.65693,35.6283,36.69693,35.6683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0631\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
     ],
@@ -126,7 +130,6 @@
         "Maarret enn Naam\u00e2ne",
         "Ma\u2018arat an Na\u2018m\u0101n",
         "Ma\u2018arrat an Nu\u2018m\u0101n",
-        "Maarrat al-Nu'man",
         "Maarat al-Numaan",
         "al-Ma\u02bfarra",
         "Ma\u02bfarrat al-Nu\u02bfm\u0101n"
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1226623337,
-    "wof:lastmodified":1564176755,
+    "wof:lastmodified":1566652604,
     "wof:name":"Ma`arrat an Nu`man",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

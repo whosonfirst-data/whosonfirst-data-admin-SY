@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.43211,36.00005,36.47211,36.04005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al F\u0101s\u016bt"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293760819,
-    "wof:lastmodified":1537702515,
+    "wof:lastmodified":1566651537,
     "wof:name":"Al Fasuq",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

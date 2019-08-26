@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.66518,32.86901,35.70518,32.90901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u2018ale Gamla"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1327449531,
-    "wof:lastmodified":1549931199,
+    "wof:lastmodified":1566651314,
     "wof:name":"Ma`ale Gamla",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

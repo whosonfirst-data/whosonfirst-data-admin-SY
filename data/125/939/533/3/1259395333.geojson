@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.81043,35.53932,35.85043,35.57932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Sq\u016bb\u012bn"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259395333,
-    "wof:lastmodified":1537701711,
+    "wof:lastmodified":1566652390,
     "wof:name":"Squbin",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.64494,36.56284,38.68494,36.60284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u016brtuk"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326714855,
-    "wof:lastmodified":1537701944,
+    "wof:lastmodified":1566651286,
     "wof:name":"Kurtuk",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

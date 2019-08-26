@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.25838,36.28889,38.29838,36.32889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0633\u0641\u0627\u064a\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1225840831,
-    "wof:lastmodified":1537702405,
+    "wof:lastmodified":1566652624,
     "wof:name":"Abu Safayah",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

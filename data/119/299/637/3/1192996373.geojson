@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.73867,34.39197,36.77867,34.43197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0633\u064a\u0629"
     ],
@@ -54,7 +58,6 @@
     ],
     "name:und_x_variant":[
         "Hassy\u00e9",
-        "Hisya",
         "Hasiya",
         "\u1e28is\u012byah",
         "Hassi\u00e9",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1192996373,
-    "wof:lastmodified":1564176017,
+    "wof:lastmodified":1566651936,
     "wof:name":"Hisya",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.78,36.23,36.82,36.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qat\u016brah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309689457,
-    "wof:lastmodified":1537701820,
+    "wof:lastmodified":1566652179,
     "wof:name":"Qaturah",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

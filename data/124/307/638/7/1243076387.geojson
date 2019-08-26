@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.88297,35.64823,35.92297,35.68823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0634\u0642\u064a\u062a\u0627"
     ],
@@ -45,9 +49,7 @@
         "Mashk\u012bt\u0101",
         "Mechqita",
         "Machqita",
-        "Mashq\u012btah",
-        "Mashq\u012bt\u0101",
-        "Mashqita"
+        "Mashq\u012btah"
     ],
     "name:vie_x_preferred":[
         "Mashqita"
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1243076387,
-    "wof:lastmodified":1564176329,
+    "wof:lastmodified":1566652222,
     "wof:name":"Mashqita",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

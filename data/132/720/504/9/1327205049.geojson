@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.20579,34.80077,36.24579,34.84077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0635\u0631\u0635\u0631"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327205049,
-    "wof:lastmodified":1537702185,
+    "wof:lastmodified":1566651331,
     "wof:name":"Bsarsar",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

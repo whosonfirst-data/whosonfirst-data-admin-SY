@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.98158,37.01041,42.02158,37.05041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u0643\u0646\u062f\u0631\u0646\u0629"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327148737,
-    "wof:lastmodified":1537702578,
+    "wof:lastmodified":1566651249,
     "wof:name":"Iskandarunah",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

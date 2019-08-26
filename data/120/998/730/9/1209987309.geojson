@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.16998,34.90751,36.20998,34.94751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Mr\u00e2j"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:nor_x_preferred":[
         "Miraj"
-    ],
-    "name:und_x_variant":[
-        "Mr\u00e2j"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u062c"
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1209987309,
-    "wof:lastmodified":1564175829,
+    "wof:lastmodified":1566651777,
     "wof:name":"Miraj",
     "wof:parent_id":1108779145,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"42.09209,36.96342,42.13209,37.00342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u0630\u0647\u0628"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260084245,
-    "wof:lastmodified":1537702420,
+    "wof:lastmodified":1566651958,
     "wof:name":"Tall adh Dhahab",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

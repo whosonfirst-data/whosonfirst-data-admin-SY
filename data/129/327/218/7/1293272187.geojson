@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.27747,35.95882,36.31747,35.99882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u062d\u0628"
     ],
@@ -35,8 +39,7 @@
         "Salhab"
     ],
     "name:und_x_variant":[
-        "Sal\u1e29ab",
-        "Salhab"
+        "Sal\u1e29ab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293272187,
-    "wof:lastmodified":1564175619,
+    "wof:lastmodified":1566651589,
     "wof:name":"Salhab",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

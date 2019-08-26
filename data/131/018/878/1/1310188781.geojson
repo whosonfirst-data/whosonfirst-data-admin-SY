@@ -23,8 +23,12 @@
     "gn:population":14307,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.6697,35.35615,36.7097,35.39615",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0643"
     ],
@@ -43,10 +47,8 @@
     "name:und_x_variant":[
         "Mo\u00fbrek",
         "M\u016brak",
-        "Morek",
         "Murk",
-        "Mork",
-        "Murak"
+        "Mork"
     ],
     "name:vie_x_preferred":[
         "Murak"
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1310188781,
-    "wof:lastmodified":1564176156,
+    "wof:lastmodified":1566652058,
     "wof:name":"Murak",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

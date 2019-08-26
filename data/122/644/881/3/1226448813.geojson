@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.82573,35.8943,38.86573,35.9343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u0627\u0645"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226448813,
-    "wof:lastmodified":1537702552,
+    "wof:lastmodified":1566652495,
     "wof:name":"Hammam",
     "wof:parent_id":1108779103,
     "wof:placetype":"locality",

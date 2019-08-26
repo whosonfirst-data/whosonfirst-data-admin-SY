@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.79547,32.5404,36.83547,32.5804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0645"
     ],
@@ -47,8 +51,7 @@
         "Baham"
     ],
     "name:und_x_variant":[
-        "B\u00e9hem",
-        "Baham"
+        "B\u00e9hem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1310227871,
-    "wof:lastmodified":1564176109,
+    "wof:lastmodified":1566652017,
     "wof:name":"Baham",
     "wof:parent_id":1108779195,
     "wof:placetype":"locality",

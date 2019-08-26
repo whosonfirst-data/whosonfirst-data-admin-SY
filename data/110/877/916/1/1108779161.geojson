@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.366271,
     "lbl:longitude":37.564004,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aleppo",
     "meso:adm1_loc":"\u062d\u0644\u0628",
     "meso:adm2_gaul":"Al_Bab",
@@ -34,6 +36,7 @@
     "mps:longitude":37.564004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u0628"
     ],
@@ -107,9 +110,9 @@
         "\u5df4\u535c\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Al-Bab",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108779161,
-    "wof:lastmodified":1563918782,
+    "wof:lastmodified":1566652002,
     "wof:name":"Al Bab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

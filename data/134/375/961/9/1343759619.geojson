@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.07262,33.56739,36.11262,33.60739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ad D\u012bm\u0101s"
     ],
@@ -52,8 +56,7 @@
         "Al-Dimas"
     ],
     "name:und_x_variant":[
-        "Khan Dimez",
-        "D\u012bm\u0101s"
+        "Khan Dimez"
     ],
     "name:vie_x_preferred":[
         "Al-Dimas"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1343759619,
-    "wof:lastmodified":1564175483,
+    "wof:lastmodified":1566651470,
     "wof:name":"Ad Dimas",
     "wof:parent_id":1108779087,
     "wof:placetype":"locality",

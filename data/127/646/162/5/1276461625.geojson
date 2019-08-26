@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.00884,37.03806,41.04884,37.07806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628 \u0627\u0644\u062e\u064a\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276461625,
-    "wof:lastmodified":1537702241,
+    "wof:lastmodified":1566651723,
     "wof:name":"Bab al Khayr",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

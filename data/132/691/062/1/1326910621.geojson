@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.23924,35.94061,36.27924,35.98061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u0101wur K\u016by"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326910621,
-    "wof:lastmodified":1537701995,
+    "wof:lastmodified":1566651306,
     "wof:name":"An Nasirah",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

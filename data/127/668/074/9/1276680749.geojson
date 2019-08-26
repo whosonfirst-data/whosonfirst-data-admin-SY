@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.00605,33.00231,36.04605,33.04231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0645\u0631"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "An N\u0101mir",
         "Namr",
-        "N\u00e2mer",
-        "Nimr"
+        "N\u00e2mer"
     ],
     "name:zho_x_preferred":[
         "\u963f\u806f\u914b\u864e\u5f0f\u904b\u8f38\u8eca"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276680749,
-    "wof:lastmodified":1564175737,
+    "wof:lastmodified":1566651694,
     "wof:name":"Nimr",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

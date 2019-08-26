@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.68239,36.4869,37.72239,36.5269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qur\u0163 W\u012br\u0101n"
     ],
@@ -38,7 +42,6 @@
         "Qourt Vir\u00e2ne",
         "Qourte V\u00eer\u00e2ne",
         "Q\u016brt Wayr\u0101n",
-        "Qur\u0163 W\u012br\u0101n",
         "Al Qur\u0163",
         "Q\u016brt W\u012br\u0101n"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209511003,
-    "wof:lastmodified":1537701799,
+    "wof:lastmodified":1566651858,
     "wof:name":"Al Qurt",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

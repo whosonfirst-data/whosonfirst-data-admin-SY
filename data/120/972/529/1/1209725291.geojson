@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.58561,36.78795,40.62561,36.82795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u0648\u0631 \u062a\u062d\u062a\u0627\u0646\u064a"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209725291,
-    "wof:lastmodified":1537701749,
+    "wof:lastmodified":1566651896,
     "wof:name":"Saykur Tahtani",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

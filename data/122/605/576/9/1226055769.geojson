@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.00846,35.40666,36.04846,35.44666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Btirgh\u0101m\u016b"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1226055769,
-    "wof:lastmodified":1537702180,
+    "wof:lastmodified":1566652525,
     "wof:name":"Btirghamu",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

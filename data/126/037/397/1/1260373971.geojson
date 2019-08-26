@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.9629,34.69915,36.0029,34.73915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jamm\u00e2ss\u00e9",
         "Djmmach\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260373971,
-    "wof:lastmodified":1537702358,
+    "wof:lastmodified":1566651960,
     "wof:name":"Al Jammasah",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

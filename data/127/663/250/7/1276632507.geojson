@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.36343,35.717,36.40343,35.757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0623\u0639\u0648\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276632507,
-    "wof:lastmodified":1537701678,
+    "wof:lastmodified":1566651741,
     "wof:name":"Tall A`war",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

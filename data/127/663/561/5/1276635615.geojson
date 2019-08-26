@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.30541,35.91761,36.34541,35.95761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u064a\u0631 \u062a\u0643\u0634\u0627\u0646"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276635615,
-    "wof:lastmodified":1537702631,
+    "wof:lastmodified":1566651740,
     "wof:name":"Hayr Takshan",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

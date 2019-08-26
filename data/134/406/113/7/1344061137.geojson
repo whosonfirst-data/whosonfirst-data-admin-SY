@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.60164,36.94437,40.64164,36.98437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0633"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344061137,
-    "wof:lastmodified":1537701977,
+    "wof:lastmodified":1566651383,
     "wof:name":"Khass",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

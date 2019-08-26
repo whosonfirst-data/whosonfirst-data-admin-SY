@@ -10,10 +10,14 @@
     "geom:latitude":33.125664,
     "geom:longitude":35.823591,
     "iso:country":"SY",
+    "lbl:bbox":"35.8035908597,33.1056640819,35.8435908597,33.1456640819",
     "lbl:latitude":33.125664,
     "lbl:longitude":35.823591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sco_x_preferred":[
         "Al Qunaytirah"
     ],
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":1141906991,
-    "wof:lastmodified":1564176782,
+    "wof:lastmodified":1566652631,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":1108779081,
     "wof:placetype":"locality",

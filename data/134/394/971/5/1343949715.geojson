@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"39.9149,35.96267,39.9549,36.00267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u2018Azm\u0101n"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343949715,
-    "wof:lastmodified":1537701540,
+    "wof:lastmodified":1566651430,
     "wof:name":"`Azman",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

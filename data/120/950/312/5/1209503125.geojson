@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.44191,34.63635,36.48191,34.67635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Lift\u0101y\u0101"
     ],
@@ -43,8 +47,7 @@
         "Liftaja"
     ],
     "name:und_x_variant":[
-        "Leftaya",
-        "Lift\u0101y\u0101"
+        "Leftaya"
     ],
     "name:vie_x_preferred":[
         "Liftaya"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209503125,
-    "wof:lastmodified":1564175893,
+    "wof:lastmodified":1566651835,
     "wof:name":"Al Fitaya",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

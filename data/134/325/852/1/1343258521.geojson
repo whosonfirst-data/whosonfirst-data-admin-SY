@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.46376,36.4958,37.50376,36.5358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u062c\u0631\u062c\u064a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343258521,
-    "wof:lastmodified":1537701667,
+    "wof:lastmodified":1566651409,
     "wof:name":"Tall Jurji",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

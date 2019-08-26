@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.602776,
     "lbl:longitude":36.015909,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
     "mps:latitude":35.575186,
     "mps:longitude":36.031334,
@@ -283,12 +284,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0442\u0430\u043a\u0456\u044f"
     ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
-    ],
-    "name:unk_x_variant":[
-        "Latakia"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0630\u0642\u06cc\u06c1"
     ],
@@ -382,9 +377,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"2,297",
     "statoids:area_mi":"887",
     "statoids:as_of_date":"2004-09-22",
@@ -411,7 +406,7 @@
         "gp:id":2347070,
         "hasc:id":"SY.LA",
         "iso:id":"SY-LA",
-        "qs:id":1135343,
+        "qs_pg:id":1135343,
         "wd:id":"Q233236"
     },
     "wof:country":"SY",
@@ -432,11 +427,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736777,
+    "wof:lastmodified":1566651484,
     "wof:name":"Lattakia",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":879551,
     "wof:population_rank":11,

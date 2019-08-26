@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.24697,35.56022,36.28697,35.60022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fra\u00efk\u00e9",
         "Mazraat ech Ch\u00e9m\u00e2li",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226426191,
-    "wof:lastmodified":1537701891,
+    "wof:lastmodified":1566652502,
     "wof:name":"Mazra`at ash Shamali",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":33.699493,
     "geom:longitude":36.374702,
     "iso:country":"SY",
+    "lbl:bbox":"36.354702,33.679493,36.394702,33.719493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947205,
-        "qs:id":1119577,
+        "qs_pg:id":1119577,
         "wd:id":"Q2031428"
     },
     "wof:country":"SY",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421190461,
-    "wof:lastmodified":1563919056,
+    "wof:lastmodified":1566652208,
     "wof:name":"Saydnaya",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

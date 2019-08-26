@@ -10,8 +10,12 @@
     "geom:latitude":32.73564,
     "geom:longitude":36.06694,
     "iso:country":"SY",
+    "lbl:bbox":"36.04694,32.71564,36.08694,32.75564",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0641\u0633"
@@ -46,7 +50,7 @@
     "name:tur_x_preferred":[
         "Tafas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tafass"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":163806,
         "gp:id":1947215,
-        "qs:id":263195,
+        "qs_pg:id":263195,
         "wd:id":"Q4120104",
         "wk:page":"Tafas"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421205447,
-    "wof:lastmodified":1563919047,
+    "wof:lastmodified":1566652204,
     "wof:name":"Tafas",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.479199,
     "lbl:longitude":38.458587,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aleppo",
     "meso:adm1_loc":"\u062d\u0644\u0628",
     "meso:adm2_gaul":"Ain_Al_Arab",
@@ -34,6 +36,7 @@
     "mps:longitude":38.458587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ayn al-'Arab"
     ],
@@ -41,9 +44,9 @@
         "\u0639\u064a\u0646 \u0627\u0644\u0639\u0631\u0628"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Ayn al-'Arab",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779073,
-    "wof:lastmodified":1553718734,
+    "wof:lastmodified":1566651995,
     "wof:name":"Ain Al Arab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

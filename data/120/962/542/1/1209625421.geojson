@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"SY",
+    "lbl:bbox":"35.74669,32.80291,35.78669,32.84291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85678395,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1209625421,
-    "wof:lastmodified":1549931219,
+    "wof:lastmodified":1566651781,
     "wof:name":"Avne Etan",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.215699,
     "lbl:longitude":37.619796,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062d\u0644\u0628",
     "mps:latitude":36.088299,
     "mps:longitude":37.513209,
@@ -206,9 +207,6 @@
         "\u0425\u0430\u043b\u0435\u0431"
     ],
     "name:und_x_variant":[
-        "\u062d\u0644\u0628"
-    ],
-    "name:unk_x_variant":[
         "Mu\u1e29\u0101faz\u0327at \u1e28alab"
     ],
     "name:urd_x_preferred":[
@@ -295,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"18,498",
     "statoids:area_mi":"7,142",
     "statoids:as_of_date":"2004-09-22",
@@ -321,7 +319,7 @@
         "gp:id":2347077,
         "hasc:id":"SY.HL",
         "iso:id":"SY-HL",
-        "qs:id":900759,
+        "qs_pg:id":900759,
         "wd:id":"Q214064"
     },
     "wof:country":"SY",
@@ -342,11 +340,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736776,
+    "wof:lastmodified":1566651483,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":4045166,
     "wof:population_rank":12,

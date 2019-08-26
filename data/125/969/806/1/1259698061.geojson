@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.93047,36.98658,41.97047,37.02658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0642\u0648\u0644 \u0627\u0644\u0631\u0645\u064a\u0644\u0627\u0646"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259698061,
-    "wof:lastmodified":1537702581,
+    "wof:lastmodified":1566652459,
     "wof:name":"Huqul ar Rumaylan",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

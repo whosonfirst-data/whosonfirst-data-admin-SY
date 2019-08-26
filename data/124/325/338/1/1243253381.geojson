@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.10265,36.30792,37.14265,36.34792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "B\u0101sh K\u016by"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "B\u00e2ch Keuy",
         "B\u0101sh K\u0101y",
-        "Bach Keui",
-        "B\u0101sh K\u016by"
+        "Bach Keui"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243253381,
-    "wof:lastmodified":1537702221,
+    "wof:lastmodified":1566652296,
     "wof:name":"Bashkuy",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.35576,33.19866,36.39576,33.23866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0639\u0648\u0627\u0645\u064a\u062f"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360082713,
-    "wof:lastmodified":1537701630,
+    "wof:lastmodified":1566652119,
     "wof:name":"Umm al `Awamid",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

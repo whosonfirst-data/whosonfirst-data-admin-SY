@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.60116,36.20524,40.64116,36.24524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u062d\u062c\u0627\u0631\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327033931,
-    "wof:lastmodified":1537702455,
+    "wof:lastmodified":1566651278,
     "wof:name":"Umm Hijarah",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

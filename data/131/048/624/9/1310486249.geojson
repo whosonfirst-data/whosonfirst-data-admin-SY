@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.59662,36.38879,37.63662,36.42879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Zurz\u016br"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Zarzo\u00fbr",
-        "Zarz\u016br",
-        "Zurz\u016br"
+        "Zarz\u016br"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310486249,
-    "wof:lastmodified":1537701585,
+    "wof:lastmodified":1566652013,
     "wof:name":"Zurzur",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

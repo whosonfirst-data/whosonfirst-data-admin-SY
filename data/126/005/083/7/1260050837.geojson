@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.99839,34.82281,36.03839,34.86281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0643\u0631 \u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u0648\u062f"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260050837,
-    "wof:lastmodified":1537702625,
+    "wof:lastmodified":1566651991,
     "wof:name":"Hikr ash Shaykh Mahmud",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

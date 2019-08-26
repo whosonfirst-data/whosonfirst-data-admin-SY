@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.43256,36.90352,40.47256,36.94352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u062f\u064a\u062f\u0629 \u062d\u0631\u0628"
     ],
@@ -32,8 +36,7 @@
         "Judaydat \u1e28arb"
     ],
     "name:und_x_variant":[
-        "Jda\u00efdet Harb",
-        "Judaydat \u1e28arb"
+        "Jda\u00efdet Harb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209927993,
-    "wof:lastmodified":1537702028,
+    "wof:lastmodified":1566651840,
     "wof:name":"Judaydat Harb",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

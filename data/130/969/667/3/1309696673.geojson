@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.05983,36.54484,38.09983,36.58484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joubb el Kelb K\u00e9b\u00eer",
         "Jubb al Kalb al Kab\u012br"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309696673,
-    "wof:lastmodified":1537702036,
+    "wof:lastmodified":1566652181,
     "wof:name":"Jubb al Kalb al Kabir",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

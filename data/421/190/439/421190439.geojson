@@ -10,8 +10,12 @@
     "geom:latitude":33.492533,
     "geom:longitude":36.237341,
     "iso:country":"SY",
+    "lbl:bbox":"36.217341,33.472533,36.257341,33.512533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0627"
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947118,
-        "qs:id":1119568,
+        "qs_pg:id":1119568,
         "wd:id":"Q1033066"
     },
     "wof:country":"SY",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421190439,
-    "wof:lastmodified":1563919053,
+    "wof:lastmodified":1566652206,
     "wof:name":"Daraya",
     "wof:parent_id":1108779107,
     "wof:placetype":"locality",

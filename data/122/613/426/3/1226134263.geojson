@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.40716,35.13618,40.44716,35.17618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0635\u064a\u0631\u0629"
     ],
@@ -50,7 +54,6 @@
         "\u041a\u0438\u0440\u043a\u0435\u0441\u0438\u0443\u043c"
     ],
     "name:und_x_variant":[
-        "Circesium",
         "Bassira",
         "Bu\u015fayrah",
         "Bse\u00efra",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1226134263,
-    "wof:lastmodified":1564176695,
+    "wof:lastmodified":1566652551,
     "wof:name":"Al Busayrah",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

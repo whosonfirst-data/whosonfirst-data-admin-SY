@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.86365,36.46722,38.90365,36.50722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "J\u016bt\u0101m\u0101"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226248993,
-    "wof:lastmodified":1537702022,
+    "wof:lastmodified":1566652574,
     "wof:name":"Jutama",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",

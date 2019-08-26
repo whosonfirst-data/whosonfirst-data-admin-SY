@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.8334,34.81299,36.8734,34.85299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0631\u0641\u0629"
     ],
@@ -96,7 +100,6 @@
         "\u041a\u0430\u0442\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Qatna",
         "Mashrafah",
         "Mecherfeh",
         "M\u00e9cherf\u00e9",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1209593779,
-    "wof:lastmodified":1564175904,
+    "wof:lastmodified":1566651844,
     "wof:name":"Al Mashrafah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.789619,
     "lbl:longitude":37.547146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aleppo",
     "meso:adm1_loc":"\u062d\u0644\u0628",
     "meso:adm2_gaul":"As_Safira",
@@ -34,6 +36,7 @@
     "mps:longitude":37.547146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0641\u064a\u0631\u0629"
     ],
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0444\u0456\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0633\u0641\u064a\u0631\u0629"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0633\u0641\u06cc\u0631\u06c1"
     ],
@@ -104,9 +104,9 @@
         "\u585e\u83f2\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"As-Safirah",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1108779113,
-    "wof:lastmodified":1564176089,
+    "wof:lastmodified":1566652001,
     "wof:name":"As-Safira",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

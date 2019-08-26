@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.25027,36.84626,38.29027,36.88626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u012br M\u016bm\u0101n"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1226833537,
-    "wof:lastmodified":1537701945,
+    "wof:lastmodified":1566652583,
     "wof:name":"Kur Muman",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":40.61749,
     "gn:country":"SY",
     "gn:fcode":"PPL",
-    "gn:pop":3,
+    "gn:population":3,
     "iso:country":"SY",
+    "lbl:bbox":"40.59749,35.98074,40.63749,36.02074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sulaym\u0101n"
     ],
     "qs:name":"Salm\u0101n",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":420874,
         "gp:id":1941603,
-        "qs:id":548069
+        "qs_pg:id":548069
     },
     "wof:country":"SY",
     "wof:created":1469052971,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890455659,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566652214,
     "wof:name":"Salm\u0101n",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

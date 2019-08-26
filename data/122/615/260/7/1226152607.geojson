@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.38068,36.97278,41.42068,37.01278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0632\u0646\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226152607,
-    "wof:lastmodified":1537701975,
+    "wof:lastmodified":1566652578,
     "wof:name":"Khaznah",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.046852,
     "lbl:longitude":40.38531,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
     "mps:latitude":35.070192,
     "mps:longitude":40.296242,
@@ -218,9 +219,6 @@
         "\u0414\u0430\u0439\u0440-\u0430\u0437-\u0417\u0430\u0443\u0440"
     ],
     "name:und_x_variant":[
-        "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
-    ],
-    "name:unk_x_variant":[
         "Al Fur\u0101t"
     ],
     "name:urd_x_preferred":[
@@ -304,9 +302,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"33,060",
     "statoids:area_mi":"12,765",
     "statoids:as_of_date":"2004-09-22",
@@ -331,7 +329,7 @@
         "gp:id":2347075,
         "hasc:id":"SY.DY",
         "iso:id":"SY-DY",
-        "qs:id":1135345,
+        "qs_pg:id":1135345,
         "unlc:id":"SY-DY",
         "wd:id":"Q232387"
     },
@@ -353,11 +351,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736777,
+    "wof:lastmodified":1566651485,
     "wof:name":"Days Az Zawr",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1004747,
     "wof:population_rank":12,

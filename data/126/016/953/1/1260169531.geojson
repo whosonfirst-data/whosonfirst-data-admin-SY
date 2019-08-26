@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.03,34.44667,37.07,34.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joubb ech Chami",
         "Jubb ash Sh\u0101m\u012b"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260169531,
-    "wof:lastmodified":1537702034,
+    "wof:lastmodified":1566651976,
     "wof:name":"Jubb ash Shami",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.87566,35.51697,35.91566,35.55697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0644\u0641\u0627\u0637\u064a\u0629"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309812465,
-    "wof:lastmodified":1537701726,
+    "wof:lastmodified":1566652197,
     "wof:name":"Ash Shilfatiyah",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

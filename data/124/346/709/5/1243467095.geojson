@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.01135,35.36482,36.05135,35.40482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tell Tbarj\u00e9",
         "Tall \u0162abarjah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243467095,
-    "wof:lastmodified":1537701656,
+    "wof:lastmodified":1566652282,
     "wof:name":"Tall Tabarjah",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.67565,37.09194,41.71565,37.13194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644 \u0627\u0644\u062d\u0633\u0646\u0627\u0643"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360099149,
-    "wof:lastmodified":1537702581,
+    "wof:lastmodified":1566652114,
     "wof:name":"Kul al Hasanak",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

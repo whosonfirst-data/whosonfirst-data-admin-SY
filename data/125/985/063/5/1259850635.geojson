@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.98856,35.02446,36.02856,35.06446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0642\u0627\u0633\u0645\u064a\u0629"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259850635,
-    "wof:lastmodified":1537702206,
+    "wof:lastmodified":1566652420,
     "wof:name":"Bayt Qasimiyah",
     "wof:parent_id":1108779149,
     "wof:placetype":"locality",

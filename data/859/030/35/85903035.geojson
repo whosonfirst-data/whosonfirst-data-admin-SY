@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16663683.222288,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.297339,33.516229,36.297339,33.516229",
     "geom:latitude":33.516229,
     "geom:longitude":36.297339,
     "gn:id":"",
     "iso:country":"SY",
+    "lbl:bbox":"36.292339,33.511229,36.302339,33.521229",
     "lbl:latitude":33.516229,
     "lbl:longitude":36.297339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.528372,
     "mps:longitude":36.29278,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:ara_x_variant":[
         "Amarh Juwwaniyah"
-    ],
-    "name:unk_x_variant":[
-        "\u2018Am\u0101rah al Juww\u0101n\u012byah"
     ],
     "qs:gn_adm0_cc":"SY",
     "qs:gn_id":0,
@@ -64,17 +63,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85678403,
         102191569,
         85632413,
-        1108779107,
-        85678403
+        1108779107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947055,
-        "qs:id":1119560,
         "qs_pg:id":1119560
     },
     "wof:country":"SY",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935994,
+    "wof:lastmodified":1566651480,
     "wof:name":"\u2018Am\u0101rah al Juww\u0101n\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

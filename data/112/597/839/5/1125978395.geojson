@@ -9,15 +9,18 @@
     "geom:bbox":"36.60071,33.73848,36.60071,33.73848",
     "geom:latitude":33.73848,
     "geom:longitude":36.60071,
-    "gn:gn_country":"SY",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":16118,
+    "gn:country":"SY",
+    "gn:fcode":"PPLA2",
     "gn:population":16118,
     "iso:country":"SY",
+    "lbl:bbox":"36.58071,33.71848,36.62071,33.75848",
     "lbl:latitude":33.73848,
     "lbl:longitude":36.60071,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0637\u064a\u0641\u0629"
@@ -55,7 +58,7 @@
     "name:sco_x_preferred":[
         "Al-Qutayfah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutayfa"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":72845,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125978395,
-    "wof:lastmodified":1563919082,
+    "wof:lastmodified":1566652216,
     "wof:name":"Al Qu\u0163ayfah",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",

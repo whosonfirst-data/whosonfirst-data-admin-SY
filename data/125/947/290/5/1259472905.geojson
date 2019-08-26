@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.20796,36.15565,37.24796,36.19565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u064a\u0631\u0628"
     ],
@@ -48,8 +52,6 @@
         "Na\u00efrab",
         "Nirab",
         "Neirab Haleb",
-        "Neirab",
-        "Nayrab",
         "An Nayrab",
         "Madafet al-Nairab",
         "Maddafat al-Nayrab"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1259472905,
-    "wof:lastmodified":1564176549,
+    "wof:lastmodified":1566652418,
     "wof:name":"An Nayrab",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

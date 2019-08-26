@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.89023,36.62912,37.93023,36.66912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0644\u0648\u0627\u0646\u062c\u064a"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243448747,
-    "wof:lastmodified":1537702103,
+    "wof:lastmodified":1566652367,
     "wof:name":"Halwanji",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

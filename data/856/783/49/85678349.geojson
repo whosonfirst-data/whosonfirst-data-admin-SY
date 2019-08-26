@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.918161,
     "lbl:longitude":36.022794,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0637\u0631\u0637\u0648\u0633",
     "mps:latitude":34.913274,
     "mps:longitude":36.022997,
@@ -247,7 +248,7 @@
         "Tartus"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c38\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -268,9 +269,6 @@
         "\u0422\u0430\u0440\u0442\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "\u0637\u0631\u0637\u0648\u0633"
-    ],
-    "name:unk_x_variant":[
         "\u0162ar\u0163\u016bs"
     ],
     "name:urd_x_preferred":[
@@ -357,9 +355,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"1,896",
     "statoids:area_mi":"732",
     "statoids:as_of_date":"2004-09-22",
@@ -388,7 +386,7 @@
         "gp:id":2347082,
         "hasc:id":"SY.TA",
         "iso:id":"SY-TA",
-        "qs:id":215765,
+        "qs_pg:id":215765,
         "unlc:id":"SY-TA",
         "wd:id":"Q232382"
     },
@@ -410,11 +408,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736778,
+    "wof:lastmodified":1566651488,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":115769,
     "wof:population_rank":11,

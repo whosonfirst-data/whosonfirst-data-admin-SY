@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":33.145384,
     "lbl:longitude":35.864592,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.145384,
     "mps:longitude":35.864592,
     "mz:hierarchy_label":1,
@@ -179,7 +180,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2554,
     "wof:belongsto":[
         102191575,
@@ -194,7 +195,7 @@
         "gn:id":0,
         "gp:id":23424997,
         "hasc:id":"SY",
-        "qs:id":134870,
+        "qs_pg:id":134870,
         "wd:id":"Q1428532"
     },
     "wof:country":"SY",
@@ -222,7 +223,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736778,
+    "wof:lastmodified":1566651488,
     "wof:name":"United Nations Disengagement Observer Force",
     "wof:parent_id":85632711,
     "wof:placetype":"region",

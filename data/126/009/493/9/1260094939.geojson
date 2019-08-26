@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"SY",
+    "lbl:bbox":"35.73336,32.83353,35.77336,32.87353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Natur"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1260094939,
-    "wof:lastmodified":1564176039,
+    "wof:lastmodified":1566651955,
     "wof:name":"Natur",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

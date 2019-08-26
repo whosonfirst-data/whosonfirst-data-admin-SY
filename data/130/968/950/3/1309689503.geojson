@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.22543,35.89432,36.26543,35.93432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Adh\u0101r"
     ],
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1309689503,
-    "wof:lastmodified":1564176295,
+    "wof:lastmodified":1566652179,
     "wof:name":"Adar",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

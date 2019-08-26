@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.01614,34.85627,36.05614,34.89627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631\u0627\u0646"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209794551,
-    "wof:lastmodified":1564175864,
+    "wof:lastmodified":1566651809,
     "wof:name":"Kafran",
     "wof:parent_id":1108779209,
     "wof:placetype":"locality",

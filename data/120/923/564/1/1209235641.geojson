@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.40755,35.0138,40.44755,35.0538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al B\u0101\u2018\u016bm"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209235641,
-    "wof:lastmodified":1537702381,
+    "wof:lastmodified":1566651817,
     "wof:name":"Al Ba`um",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.0594,34.88122,37.0994,34.92122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u062c\u0631\u0646"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310083815,
-    "wof:lastmodified":1537701621,
+    "wof:lastmodified":1566652046,
     "wof:name":"Umm Jurn",
     "wof:parent_id":1108779203,
     "wof:placetype":"locality",

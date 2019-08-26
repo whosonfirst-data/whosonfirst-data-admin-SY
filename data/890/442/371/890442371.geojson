@@ -11,10 +11,14 @@
     "geom:longitude":36.71219,
     "gn:country":"SY",
     "gn:fcode":"PPL",
-    "gn:pop":29259,
+    "gn:population":29259,
     "iso:country":"SY",
+    "lbl:bbox":"36.69219,35.24592,36.73219,35.28592",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0637\u064a\u0628\u0629 \u0627\u0644\u0627\u0645\u0627\u0645"
     ],
@@ -42,7 +46,7 @@
     "name:spa_x_preferred":[
         "Taybat al-Imam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0162aybat al Im\u0101m \u2018Al\u012b"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":163270,
         "gp:id":1946124,
-        "qs:id":528163,
+        "qs_pg:id":528163,
         "wd:id":"Q7689761",
         "wk:page":"Taybat al-Imam"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890442371,
-    "wof:lastmodified":1563919078,
+    "wof:lastmodified":1566652215,
     "wof:name":"\u0162ayyibat al Im\u0101m",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

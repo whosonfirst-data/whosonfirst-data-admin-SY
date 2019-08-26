@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.68417,34.72259,36.72417,34.76259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0631\u0627\u0645"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276526049,
-    "wof:lastmodified":1537702469,
+    "wof:lastmodified":1566651734,
     "wof:name":"As Sawram",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

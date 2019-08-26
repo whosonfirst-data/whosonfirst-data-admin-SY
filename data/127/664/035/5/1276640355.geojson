@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.26105,36.63187,37.30105,36.67187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0647 \u0645\u0632\u0631\u0639\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276640355,
-    "wof:lastmodified":1537701833,
+    "wof:lastmodified":1566651737,
     "wof:name":"Qarah Mazra`ah",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

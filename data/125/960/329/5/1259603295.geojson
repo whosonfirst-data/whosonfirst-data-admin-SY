@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.31076,33.45101,36.35076,33.49101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "B\u0101b B\u012bl\u0101"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259603295,
-    "wof:lastmodified":1564176588,
+    "wof:lastmodified":1566652453,
     "wof:name":"Babila",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.50782,33.68326,36.54782,33.72326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0636 \u0627\u0644\u0632\u0639\u062a\u0631\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209701193,
-    "wof:lastmodified":1537702547,
+    "wof:lastmodified":1566651805,
     "wof:name":"Ard az Za`tarah",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",
