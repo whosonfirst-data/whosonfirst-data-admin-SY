@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.09776,35.67955,37.13776,35.71955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0639\u064a\u0629 \u0635\u063a\u064a\u0631\u0629"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209611117,
-    "wof:lastmodified":1537702203,
+    "wof:lastmodified":1566651839,
     "wof:name":"Bayya`iyah Saghirah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

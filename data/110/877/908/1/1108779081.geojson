@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.105377,
     "lbl:longitude":35.808785,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Quneitra",
     "meso:adm1_loc":"\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629",
     "meso:adm2_gaul":"Al_Qunaytirah",
@@ -34,6 +36,7 @@
     "mps:longitude":35.808785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u041a\u044a\u0443\u043d\u0435\u0442\u0440\u044d"
     ],
@@ -152,9 +155,9 @@
         "\u5eab\u5948\u7279\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Al-Qunaytrah",
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1108779081,
-    "wof:lastmodified":1564176084,
+    "wof:lastmodified":1566651996,
     "wof:name":"Quneitra",
     "wof:parent_id":-1,
     "wof:placetype":"county",

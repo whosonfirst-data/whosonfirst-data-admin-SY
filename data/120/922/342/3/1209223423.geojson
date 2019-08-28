@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.86161,35.61347,35.90161,35.65347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ar Ruw\u0101s"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209223423,
-    "wof:lastmodified":1537701775,
+    "wof:lastmodified":1566651833,
     "wof:name":"Ar Ruwas",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

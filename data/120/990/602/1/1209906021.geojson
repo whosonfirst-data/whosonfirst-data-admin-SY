@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.89667,36.78,37.93667,36.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "D\u016bknuk"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209906021,
-    "wof:lastmodified":1537702136,
+    "wof:lastmodified":1566651794,
     "wof:name":"Duknuk",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

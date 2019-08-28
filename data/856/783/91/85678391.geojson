@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.41145,
     "lbl:longitude":37.633311,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0631\u064a\u0641 \u062f\u0645\u0634\u0642",
     "mps:latitude":33.579284,
     "mps:longitude":36.990127,
@@ -52,9 +53,6 @@
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0414\u0430\u043c\u0430\u0441\u043a"
     ],
     "name:und_x_variant":[
-        "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
-    ],
-    "name:unk_x_variant":[
         "Mu\u1e29\u0101faz\u0327at Dimashq"
     ],
     "ne:abbrev":"",
@@ -129,9 +127,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"18,018",
     "statoids:area_mi":"6,957",
     "statoids:as_of_date":"2004-09-22",
@@ -156,7 +154,7 @@
         "gp:id":2347076,
         "hasc:id":"SY.RD",
         "iso:id":"SY-RD",
-        "qs:id":1135346,
+        "qs_pg:id":1135346,
         "unlc:id":"SY-RD"
     },
     "wof:country":"SY",
@@ -177,11 +175,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736777,
+    "wof:lastmodified":1566651486,
     "wof:name":"Rif Dimashq",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2273074,
     "wof:population_rank":12,

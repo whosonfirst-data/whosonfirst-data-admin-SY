@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.93812,36.5331,38.97812,36.5731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0646\u0628\u0642"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326530409,
-    "wof:lastmodified":1537701598,
+    "wof:lastmodified":1566651310,
     "wof:name":"Zanbaq",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",

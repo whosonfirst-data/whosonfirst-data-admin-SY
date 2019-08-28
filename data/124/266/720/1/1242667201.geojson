@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.4362,35.79037,37.4762,35.83037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Jubb Q\u0101sim"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242667201,
-    "wof:lastmodified":1537702031,
+    "wof:lastmodified":1566652265,
     "wof:name":"Jubb Jasim",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

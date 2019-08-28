@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.37094,35.74376,36.41094,35.78376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u064a\u0631"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "El Mcha\u00efr",
         "El Mcha\u00efrf\u00e9",
-        "Al Mushayrifah",
         "Al Mushayr",
         "Al Mush\u012br"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226623283,
-    "wof:lastmodified":1564176756,
+    "wof:lastmodified":1566652605,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

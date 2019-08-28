@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.96752,35.40682,36.00752,35.44682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u1e28im\u00e1"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226045873,
-    "wof:lastmodified":1537701777,
+    "wof:lastmodified":1566652530,
     "wof:name":"Al Hami",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

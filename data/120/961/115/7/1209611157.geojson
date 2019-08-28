@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.74232,36.08726,37.78232,36.12726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0641\u064a\u0631\u0629 \u0645\u0646\u0635\u0648\u0631"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209611157,
-    "wof:lastmodified":1537702056,
+    "wof:lastmodified":1566651840,
     "wof:name":"Jafirat Mansur",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

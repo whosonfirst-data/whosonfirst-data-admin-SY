@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":35.00845,
     "lbl:longitude":38.288461,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":35.00845,
     "mps:longitude":38.288461,
     "mz:hierarchy_label":1,
@@ -856,14 +858,8 @@
     "name:und_x_colloquial":[
         "Syrland"
     ],
-    "name:und_x_preferred":[
-        "Suriyah",
-        "S\u00fdrland"
-    ],
     "name:und_x_variant":[
-        "Sirska arabska republika"
-    ],
-    "name:unk_x_variant":[
+        "Sirska arabska republika",
         "Al Jumh\u016br\u012byah al \u2018Arab\u012byah as S\u016br\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -1023,7 +1019,6 @@
         "meso",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"963",
@@ -1069,7 +1064,7 @@
         "mzb:id":"syria",
         "ne:adm0_a3":"SYR",
         "nyt:id":"66221058408652472321",
-        "qs:id":70134,
+        "qs_pg:id":70134,
         "uncrt:id":"SYR",
         "wd:id":"Q858",
         "wk:page":"Syria",
@@ -1093,7 +1088,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736776,
+    "wof:lastmodified":1566651481,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

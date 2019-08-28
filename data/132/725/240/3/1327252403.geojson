@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.24056,36.40972,38.28056,36.44972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abou Darhm\u00e9",
         "Ab\u016b Daghmah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327252403,
-    "wof:lastmodified":1537702414,
+    "wof:lastmodified":1566651247,
     "wof:name":"Abu Daghmah",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

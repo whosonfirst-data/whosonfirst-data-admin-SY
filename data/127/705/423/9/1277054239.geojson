@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.46333,34.54667,37.50333,34.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hanno\u00fbra",
         "\u1e28ann\u016brah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277054239,
-    "wof:lastmodified":1537702097,
+    "wof:lastmodified":1566651699,
     "wof:name":"Hannurah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

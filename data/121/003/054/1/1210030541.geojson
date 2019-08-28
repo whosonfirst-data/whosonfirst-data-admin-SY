@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.75673,36.74675,40.79673,36.78675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Fathimah az-Zahara"
     ],
@@ -188,8 +192,7 @@
         "\u0424\u0430\u0442\u0456\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "Fatm\u00e9",
-        "F\u0101\u0163imah"
+        "Fatm\u00e9"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0637\u0645\u06c1 \u0632\u06c1\u0631\u0627"
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":1210030541,
-    "wof:lastmodified":1564175982,
+    "wof:lastmodified":1566651905,
     "wof:name":"Fatimah",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

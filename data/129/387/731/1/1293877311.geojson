@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.33772,35.47974,36.37772,35.51974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u064a\u0632"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293877311,
-    "wof:lastmodified":1537702360,
+    "wof:lastmodified":1566651603,
     "wof:name":"Huwayz",
     "wof:parent_id":1108779099,
     "wof:placetype":"locality",

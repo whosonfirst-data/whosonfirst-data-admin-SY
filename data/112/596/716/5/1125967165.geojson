@@ -9,15 +9,18 @@
     "geom:bbox":"36.74036,33.8074,36.74036,33.8074",
     "geom:latitude":33.8074,
     "geom:longitude":36.74036,
-    "gn:gn_country":"SY",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":32352,
+    "gn:country":"SY",
+    "gn:fcode":"PPLA3",
     "gn:population":32352,
     "iso:country":"SY",
+    "lbl:bbox":"36.72036,33.7874,36.76036,33.8274",
     "lbl:latitude":33.8074,
     "lbl:longitude":36.74036,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0648\u062f"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Jayr\u016bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Djerud"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":71086,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125967165,
-    "wof:lastmodified":1563919086,
+    "wof:lastmodified":1566652219,
     "wof:name":"Jayr\u016bd",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",

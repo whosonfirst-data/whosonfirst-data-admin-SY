@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.45369,36.13153,36.49369,36.17153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Isq\u0101\u0163"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226419751,
-    "wof:lastmodified":1564176731,
+    "wof:lastmodified":1566652582,
     "wof:name":"Isqat",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.23,35.76333,36.27,35.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafer Qatt\u00e2r",
         "Kafr Qa\u0163\u0163\u0101r"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259370021,
-    "wof:lastmodified":1537702008,
+    "wof:lastmodified":1566652394,
     "wof:name":"Kafr Qattar",
     "wof:parent_id":1108779207,
     "wof:placetype":"locality",

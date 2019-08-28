@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.89792,34.81755,35.93792,34.85755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0639\u0641\u0635\u0629"
     ],
     "name:und_x_variant":[
         "Abou Aafs\u00e9",
         "Abou Aafsa",
-        "Ab\u016b \u2018Af\u015fah",
-        "\u0623\u0628\u0648 \u0639\u0641\u0635\u0629"
+        "Ab\u016b \u2018Af\u015fah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293468671,
-    "wof:lastmodified":1537702416,
+    "wof:lastmodified":1566651522,
     "wof:name":"Abu `Afsah",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",

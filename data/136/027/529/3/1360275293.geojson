@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.52139,35.80753,37.56139,35.84753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0631\u0627\u0647\u0628"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360275293,
-    "wof:lastmodified":1537701891,
+    "wof:lastmodified":1566652127,
     "wof:name":"Mazra`at ar Rahib",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

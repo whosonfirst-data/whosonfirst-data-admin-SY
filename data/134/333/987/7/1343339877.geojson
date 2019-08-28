@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.92682,34.77203,36.96682,34.81203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u064a\u062f\u0627\u0646"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343339877,
-    "wof:lastmodified":1537702576,
+    "wof:lastmodified":1566651437,
     "wof:name":"Al Maydan",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

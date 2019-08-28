@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.9721,35.66249,36.0121,35.70249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Zgh\u0101r\u016b"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209728463,
-    "wof:lastmodified":1537701591,
+    "wof:lastmodified":1566651896,
     "wof:name":"Zigharu",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.46917,35.17674,36.50917,35.21674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "A\u015f\u012bl\u012b"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1210005835,
-    "wof:lastmodified":1564175978,
+    "wof:lastmodified":1566651902,
     "wof:name":"Asili",
     "wof:parent_id":1108779135,
     "wof:placetype":"locality",

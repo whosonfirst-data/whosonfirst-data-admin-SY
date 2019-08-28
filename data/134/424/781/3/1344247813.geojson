@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.3357,33.47293,36.3757,33.51293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0645\u064a\u0646"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344247813,
-    "wof:lastmodified":1537702560,
+    "wof:lastmodified":1566651377,
     "wof:name":"Al Haramayn",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

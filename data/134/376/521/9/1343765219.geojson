@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.06725,35.58753,36.10725,35.62753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Bkh\u0101s\u016bn"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343765219,
-    "wof:lastmodified":1537702191,
+    "wof:lastmodified":1566651402,
     "wof:name":"Bkhasun",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

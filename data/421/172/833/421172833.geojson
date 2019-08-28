@@ -10,6 +10,9 @@
     "geom:latitude":35.95283,
     "geom:longitude":39.00788,
     "iso:country":"SY",
+    "lbl:bbox":"38.98788,35.93283,39.02788,35.97283",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -240,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nicephorium"
     ],
     "name:urd_x_preferred":[
@@ -386,7 +389,7 @@
     "wof:concordances":{
         "gn:id":172955,
         "gp:id":1947089,
-        "qs:id":479214,
+        "qs_pg:id":479214,
         "wd:id":"Q283368",
         "wk:page":"Al-Raqqah"
     },
@@ -403,7 +406,7 @@
         }
     ],
     "wof:id":421172833,
-    "wof:lastmodified":1563919050,
+    "wof:lastmodified":1566652204,
     "wof:name":"\u0627\u0644\u0631\u0642\u0629",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

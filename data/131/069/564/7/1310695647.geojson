@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.82135,35.06318,36.86135,35.10318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Jinan"
     ],
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":1310695647,
-    "wof:lastmodified":1564176197,
+    "wof:lastmodified":1566652094,
     "wof:name":"Jinan",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

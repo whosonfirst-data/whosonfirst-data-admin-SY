@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.96052,
     "lbl:longitude":41.954077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Al-Hasakeh",
     "meso:adm1_loc":"\u0627\u0644\u062d\u0633\u0643\u0629",
     "meso:adm2_gaul":"Al_Malika",
@@ -34,6 +36,7 @@
     "mps:longitude":41.954077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al-Malikiyah"
     ],
@@ -41,9 +44,9 @@
         "\u0627\u0644\u0645\u0627\u0644\u0643\u064a\u0629"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Al-Malikiyah",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779191,
-    "wof:lastmodified":1553718738,
+    "wof:lastmodified":1566652005,
     "wof:name":"Al-Malikeyyeh",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

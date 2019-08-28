@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.77394,36.58857,38.81394,36.62857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0628\u0648 \u062e\u0646\u064a\u0632\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259885831,
-    "wof:lastmodified":1537702408,
+    "wof:lastmodified":1566652470,
     "wof:name":"Abu Khunayzah",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",

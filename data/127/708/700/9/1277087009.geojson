@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.90517,35.63279,35.94517,35.67279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u0635\u0627\u0641"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Safs\u00e2f",
-        "A\u015f \u015eaf\u015f\u0101f",
-        "Sefsaf"
+        "A\u015f \u015eaf\u015f\u0101f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1277087009,
-    "wof:lastmodified":1564175667,
+    "wof:lastmodified":1566651633,
     "wof:name":"Sefsaf",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

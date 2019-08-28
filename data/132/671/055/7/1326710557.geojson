@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.66936,36.16517,36.70936,36.20517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0631\u0641\u0648\u062f"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326710557,
-    "wof:lastmodified":1537701754,
+    "wof:lastmodified":1566651287,
     "wof:name":"Sarfud",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.68249,36.84183,40.72249,36.88183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u064a\u0631\u0639\u0629"
     ],
@@ -32,8 +36,7 @@
         "Muzayri\u2018ah"
     ],
     "name:und_x_variant":[
-        "Mza\u00efra\u00e2",
-        "Muzayri\u2018ah"
+        "Mza\u00efra\u00e2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226452021,
-    "wof:lastmodified":1537701862,
+    "wof:lastmodified":1566652499,
     "wof:name":"Muzayri`ah",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.73498,36.60991,36.77498,36.64991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u016bbik"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343751603,
-    "wof:lastmodified":1537702491,
+    "wof:lastmodified":1566651467,
     "wof:name":"Kubak",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

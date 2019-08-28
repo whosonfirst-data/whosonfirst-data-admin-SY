@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.80556,36.97688,40.84556,37.01688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0628\u0648 \u0641\u0648\u0642\u0627\u0646\u064a"
     ],
     "name:tur_x_preferred":[
-        "\u0162\u016bb\u016b Fawq\u0101n\u012b"
-    ],
-    "name:und_x_variant":[
         "\u0162\u016bb\u016b Fawq\u0101n\u012b"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276349911,
-    "wof:lastmodified":1537702449,
+    "wof:lastmodified":1566651674,
     "wof:name":"Tubu Fawqani",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

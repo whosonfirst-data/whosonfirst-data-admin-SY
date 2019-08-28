@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.85609,32.85622,35.89609,32.89622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0627"
     ],
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1276450189,
-    "wof:lastmodified":1564175699,
+    "wof:lastmodified":1566651658,
     "wof:name":"Sayda",
     "wof:parent_id":1108779187,
     "wof:placetype":"locality",

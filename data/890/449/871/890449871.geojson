@@ -11,10 +11,14 @@
     "geom:longitude":35.94871,
     "gn:country":"SY",
     "gn:fcode":"PPLA2",
-    "gn:pop":39066,
+    "gn:population":39066,
     "iso:country":"SY",
+    "lbl:bbox":"35.92871,35.16188,35.96871,35.20188",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "B\u0101niy\u0101s"
     ],
@@ -111,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0456\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e2ni\u00e2s"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":171830,
         "gp:id":1947104,
-        "qs:id":72291,
+        "qs_pg:id":72291,
         "wd:id":"Q263922",
         "wk:page":"Baniyas District"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890449871,
-    "wof:lastmodified":1563919073,
+    "wof:lastmodified":1566652213,
     "wof:name":"B\u0101niy\u0101s",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

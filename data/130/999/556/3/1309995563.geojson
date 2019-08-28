@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.05567,36.83411,38.09567,36.87411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u064a\u062e\u0644\u064a \u062a\u062d\u062a\u0627\u0646\u064a"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1309995563,
-    "wof:lastmodified":1537701569,
+    "wof:lastmodified":1566652160,
     "wof:name":"Jarqili Saghir",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

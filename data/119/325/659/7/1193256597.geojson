@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.28,34.71333,36.32,34.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sa\u00efy\u00e2d\u00e9",
         "Sa\u00efyd\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193256597,
-    "wof:lastmodified":1537701748,
+    "wof:lastmodified":1566651929,
     "wof:name":"Sayyadah",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

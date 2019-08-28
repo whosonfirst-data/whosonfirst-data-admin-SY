@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.92784,36.17893,37.96784,36.21893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u0649 \u0635\u0641\u0627"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343450635,
-    "wof:lastmodified":1537701760,
+    "wof:lastmodified":1566651456,
     "wof:name":"Salma Safa",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

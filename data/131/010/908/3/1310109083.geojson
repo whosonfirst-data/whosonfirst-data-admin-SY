@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.8341,35.73962,35.8741,35.77962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0646\u062c\u0629"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1310109083,
-    "wof:lastmodified":1537701636,
+    "wof:lastmodified":1566652071,
     "wof:name":"Umm at Tuyur",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

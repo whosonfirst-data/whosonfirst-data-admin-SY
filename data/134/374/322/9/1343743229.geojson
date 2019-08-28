@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.34184,34.63646,36.38184,34.67646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
     ],
@@ -42,7 +46,6 @@
         "Mcha\u00efrfet ej Jebel",
         "Mushayrifat al Jabal",
         "Mche\u00efref\u00e9",
-        "Al Mushayrifah",
         "Al Mushayrifah ash Sharq\u012byah"
     ],
     "src:geom":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343743229,
-    "wof:lastmodified":1564175476,
+    "wof:lastmodified":1566651464,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

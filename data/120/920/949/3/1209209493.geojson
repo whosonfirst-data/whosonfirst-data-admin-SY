@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.94004,35.6695,37.98004,35.7095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u062d\u0645\u064a\u062f"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209209493,
-    "wof:lastmodified":1537702545,
+    "wof:lastmodified":1566651870,
     "wof:name":"Khirbat Hamid",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

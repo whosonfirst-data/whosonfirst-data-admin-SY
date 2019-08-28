@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.02165,35.94577,38.06165,35.98577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0643\u0646\u0629"
     ],
@@ -69,8 +73,7 @@
         "Meshseneh",
         "Maskanih",
         "Mesk\u00e9n\u00e9",
-        "Meskeneh",
-        "Maskanah"
+        "Meskeneh"
     ],
     "name:vie_x_preferred":[
         "Maskanah"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1209504851,
-    "wof:lastmodified":1564175891,
+    "wof:lastmodified":1566651834,
     "wof:name":"Maskanah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.88854,35.44425,35.92854,35.48425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0642\u0631\u0627\u0642\u064a\u0635"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293797037,
-    "wof:lastmodified":1537702570,
+    "wof:lastmodified":1566651524,
     "wof:name":"Aradi al Qaraqis",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

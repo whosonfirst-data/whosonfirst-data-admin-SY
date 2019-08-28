@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.28292,36.41606,37.32292,36.45606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u064a\u0633"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242672059,
-    "wof:lastmodified":1537701635,
+    "wof:lastmodified":1566652273,
     "wof:name":"At Tuways",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

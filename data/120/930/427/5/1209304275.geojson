@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.3768,35.84409,37.4168,35.88409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u1e28\u0101jib"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209304275,
-    "wof:lastmodified":1537702370,
+    "wof:lastmodified":1566651790,
     "wof:name":"Al Hajib",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

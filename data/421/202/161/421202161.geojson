@@ -10,6 +10,9 @@
     "geom:latitude":35.13179,
     "geom:longitude":36.75783,
     "iso:country":"SY",
+    "lbl:bbox":"36.73783,35.11179,36.77783,35.15179",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -224,7 +227,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamath"
     ],
     "name:urd_x_preferred":[
@@ -364,7 +367,7 @@
     "wof:concordances":{
         "gn:id":170017,
         "gp:id":1947135,
-        "qs:id":219480,
+        "qs_pg:id":219480,
         "wd:id":"Q173545",
         "wk:page":"Hama"
     },
@@ -381,7 +384,7 @@
         }
     ],
     "wof:id":421202161,
-    "wof:lastmodified":1563919041,
+    "wof:lastmodified":1566652203,
     "wof:name":"\u062d\u0645\u0627\u0647",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

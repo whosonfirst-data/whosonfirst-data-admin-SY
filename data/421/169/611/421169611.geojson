@@ -10,8 +10,12 @@
     "geom:latitude":33.469938,
     "geom:longitude":36.320114,
     "iso:country":"SY",
+    "lbl:bbox":"36.300114,33.449938,36.340114,33.489938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0631\u0645\u0627\u0646\u0627"
@@ -107,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1943482,
-        "qs:id":221537,
+        "qs_pg:id":221537,
         "wd:id":"Q195531"
     },
     "wof:country":"SY",
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421169611,
-    "wof:lastmodified":1563919040,
+    "wof:lastmodified":1566652202,
     "wof:name":"Jaramanah",
     "wof:parent_id":1108779141,
     "wof:placetype":"locality",

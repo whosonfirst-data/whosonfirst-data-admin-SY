@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.560975,
     "lbl:longitude":38.905573,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062d\u0645\u0635",
     "mps:latitude":34.238636,
     "mps:longitude":38.607249,
@@ -211,7 +212,7 @@
         "Homs"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bcb\u0bae\u0bcd\u0bb8\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0bb9\u0bcb\u0bae\u0bcd\u0bb8\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c2e\u0c4d\u0c38\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -230,9 +231,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043c\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Homs"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062d\u0645\u0635"
@@ -315,9 +313,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"40,940",
     "statoids:area_mi":"15,807",
     "statoids:as_of_date":"2004-09-22",
@@ -342,7 +340,7 @@
         "gp:id":2347079,
         "hasc:id":"SY.HI",
         "iso:id":"SY-HI",
-        "qs:id":424034,
+        "qs_pg:id":424034,
         "unlc:id":"SY-HI",
         "wd:id":"Q214094",
         "wk:page":"Homs Governorate"
@@ -365,11 +363,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736776,
+    "wof:lastmodified":1566651484,
     "wof:name":"Homs (Hims)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1529402,
     "wof:population_rank":12,

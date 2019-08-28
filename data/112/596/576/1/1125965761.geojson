@@ -9,20 +9,23 @@
     "geom:bbox":"37.78725,36.52297,37.78725,36.52297",
     "geom:latitude":36.52297,
     "geom:longitude":37.78725,
-    "gn:gn_country":"SY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2,
+    "gn:country":"SY",
+    "gn:fcode":"PPL",
     "gn:population":2,
     "iso:country":"SY",
+    "lbl:bbox":"37.76725,36.50297,37.80725,36.54297",
     "lbl:latitude":36.52297,
     "lbl:longitude":37.78725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u064a\u0627\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kheurbet ech Chi\u00e2b"
     ],
     "qs_pg:aaroncc":"SY",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":70826,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125965761,
-    "wof:lastmodified":1509403645,
+    "wof:lastmodified":1566652219,
     "wof:name":"Khirbat ash Shiy\u0101b",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

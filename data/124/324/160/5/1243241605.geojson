@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.49059,34.52657,36.53059,34.56657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0636\u0648\u0627\u0646\u064a\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243241605,
-    "wof:lastmodified":1537702616,
+    "wof:lastmodified":1566652285,
     "wof:name":"Ar Radwaniyah",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

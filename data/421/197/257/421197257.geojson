@@ -10,8 +10,12 @@
     "geom:latitude":32.61889,
     "geom:longitude":36.10213,
     "iso:country":"SY",
+    "lbl:bbox":"36.08213,32.59889,36.12213,32.63889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0631\u0639\u0627"
@@ -199,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adraa"
     ],
     "name:urd_x_preferred":[
@@ -244,7 +248,7 @@
     "wof:concordances":{
         "gn:id":170905,
         "gp:id":1942680,
-        "qs:id":279677,
+        "qs_pg:id":279677,
         "wd:id":"Q238217",
         "wk:page":"Daraa"
     },
@@ -261,7 +265,7 @@
         }
     ],
     "wof:id":421197257,
-    "wof:lastmodified":1563919058,
+    "wof:lastmodified":1566652208,
     "wof:name":"Dar a",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

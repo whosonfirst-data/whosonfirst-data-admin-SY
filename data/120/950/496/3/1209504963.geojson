@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.50222,36.7425,38.54222,36.7825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632413
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209504963,
-    "wof:lastmodified":1536285063,
+    "wof:lastmodified":1566651835,
     "wof:name":"Tall al Hajar Tahtani",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

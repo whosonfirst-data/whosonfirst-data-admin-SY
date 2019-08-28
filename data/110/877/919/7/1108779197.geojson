@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.479551,
     "lbl:longitude":39.397679,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ar-Raqqa",
     "meso:adm1_loc":"\u0627\u0644\u0631\u0642\u0629",
     "meso:adm2_gaul":"Tell_Abiad",
@@ -34,6 +36,7 @@
     "mps:longitude":39.397679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tall Abyad"
     ],
@@ -41,9 +44,9 @@
         "\u062a\u0644 \u0623\u0628\u064a\u0636"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Tall Abyad",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779197,
-    "wof:lastmodified":1553718739,
+    "wof:lastmodified":1566652005,
     "wof:name":"Tell Abiad",
     "wof:parent_id":85678355,
     "wof:placetype":"county",

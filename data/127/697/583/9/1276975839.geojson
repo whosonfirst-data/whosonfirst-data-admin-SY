@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.0808,36.46656,38.1208,36.50656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u062c\u064a\u0641 \u0642\u0631\u0648\u0627\u0644\u064a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276975839,
-    "wof:lastmodified":1537701744,
+    "wof:lastmodified":1566651740,
     "wof:name":"Shujayf Qirwali",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",

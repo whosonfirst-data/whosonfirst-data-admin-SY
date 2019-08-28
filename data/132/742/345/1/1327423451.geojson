@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.34566,36.42867,37.38566,36.46867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u064a\u0631"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1327423451,
-    "wof:lastmodified":1537702130,
+    "wof:lastmodified":1566651326,
     "wof:name":"Duwayr al Hawa",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

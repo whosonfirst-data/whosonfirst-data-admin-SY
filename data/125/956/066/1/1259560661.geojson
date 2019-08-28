@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.70868,35.45129,36.74868,35.49129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "S\u012bd\u012b \u2018Al\u012b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259560661,
-    "wof:lastmodified":1537702527,
+    "wof:lastmodified":1566652455,
     "wof:name":"Sidi `Ali",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

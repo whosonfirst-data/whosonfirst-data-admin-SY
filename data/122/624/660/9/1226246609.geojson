@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.86516,37.0085,41.90516,37.0485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1226246609,
-    "wof:lastmodified":1564176717,
+    "wof:lastmodified":1566652571,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",

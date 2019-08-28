@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.00751,32.69084,36.04751,32.73084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0632\u064a\u0631\u064a\u0628"
     ],
@@ -52,8 +56,7 @@
         "Muzeir\u012bb",
         "Mz\u00e9rib",
         "Mza\u00efr\u00eeb",
-        "Muzayr\u012bb",
-        "Al Muzayr\u012bb"
+        "Muzayr\u012bb"
     ],
     "name:vie_x_preferred":[
         "Muzayrib"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1276331757,
-    "wof:lastmodified":1564175715,
+    "wof:lastmodified":1566651673,
     "wof:name":"Al Muzayrib",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

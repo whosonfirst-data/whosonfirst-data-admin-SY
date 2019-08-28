@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.499527,
     "lbl:longitude":40.758408,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u062d\u0633\u0643\u0629",
     "mps:latitude":36.505044,
     "mps:longitude":40.762188,
@@ -226,7 +227,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0430\u0441\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Jaz\u012brah"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +311,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"23,334",
     "statoids:area_mi":"9,009",
     "statoids:as_of_date":"2004-09-22",
@@ -336,7 +337,7 @@
         "gp:id":2347069,
         "hasc:id":"SY.HA",
         "iso:id":"SY-HA",
-        "qs:id":229385,
+        "qs_pg:id":229385,
         "wd:id":"Q233914",
         "wk:page":"Al-Hasakah Governorate"
     },
@@ -358,11 +359,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736778,
+    "wof:lastmodified":1566651487,
     "wof:name":"Hasaka (Al Haksa)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1275118,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.95014,35.1147,35.99014,35.1547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ms\u00eel",
         "Be\u00eft el Ms\u00eel",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293071875,
-    "wof:lastmodified":1537702213,
+    "wof:lastmodified":1566651489,
     "wof:name":"Bayt al Masil",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

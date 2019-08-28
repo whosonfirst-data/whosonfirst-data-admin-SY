@@ -11,10 +11,14 @@
     "geom:longitude":37.37251,
     "gn:country":"SY",
     "gn:fcode":"PPLA2",
-    "gn:pop":95832,
+    "gn:population":95832,
     "iso:country":"SY",
+    "lbl:bbox":"37.35251,36.05696,37.39251,36.09696",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0641\u064a\u0631\u0629"
     ],
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0444\u0456\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015eaf\u012br"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":172503,
         "gp:id":1947094,
-        "qs:id":72552,
+        "qs_pg:id":72552,
         "wd:id":"Q575774"
     },
     "wof:country":"SY",
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":890449889,
-    "wof:lastmodified":1563919067,
+    "wof:lastmodified":1566652211,
     "wof:name":"Saf\u012brah",
     "wof:parent_id":1108779113,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":32.70896,
     "geom:longitude":36.56951,
     "iso:country":"SY",
+    "lbl:bbox":"36.54951,32.68896,36.58951,32.72896",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441-\u0421\u0443\u0432\u0435\u0439\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dionysia"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":172408,
         "gp:id":1941765,
-        "qs:id":1175341,
+        "qs_pg:id":1175341,
         "wd:id":"Q311099",
         "wk:page":"As-Suwayda"
     },
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":421192811,
-    "wof:lastmodified":1563919037,
+    "wof:lastmodified":1566652201,
     "wof:name":"\u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

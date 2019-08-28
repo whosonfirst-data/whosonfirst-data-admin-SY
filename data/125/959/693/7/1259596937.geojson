@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.06507,36.7182,40.10507,36.7582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u062c\u0646\u064a\u062f\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259596937,
-    "wof:lastmodified":1537701667,
+    "wof:lastmodified":1566652441,
     "wof:name":"Tall Junaydiyah",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",

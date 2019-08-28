@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.35572,36.87978,41.39572,36.91978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0631\u0645\u0648\u062e"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193150967,
-    "wof:lastmodified":1537701732,
+    "wof:lastmodified":1566651916,
     "wof:name":"Sharmukh",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

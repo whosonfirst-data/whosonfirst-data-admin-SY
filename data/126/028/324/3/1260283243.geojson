@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.76475,32.76706,36.80475,32.80706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Umm Ruw\u0101q"
     ],
@@ -35,7 +39,6 @@
         "Oumm Rou\u00e2q",
         "Umm Ruwak",
         "Oum Rou\u00e2q",
-        "Umm Ruw\u0101q",
         "Oum Rouak",
         "Umm er Ruw\u0101q",
         "Umm ar Ruw\u0101q",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1260283243,
-    "wof:lastmodified":1537701627,
+    "wof:lastmodified":1566651985,
     "wof:name":"Umm Ruwaq",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

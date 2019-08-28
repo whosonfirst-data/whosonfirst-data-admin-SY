@@ -10,6 +10,9 @@
     "geom:latitude":34.56077,
     "geom:longitude":38.28055,
     "iso:country":"SY",
+    "lbl:bbox":"38.26055,34.54077,38.30055,34.58077",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -236,9 +239,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Palmyre"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u062f\u0645\u0631"
     ],
@@ -383,7 +383,7 @@
         "gn:id":163808,
         "gp:id":1947214,
         "loc:id":"n85334076",
-        "qs:id":273726,
+        "qs_pg:id":273726,
         "wd:id":"Q5747",
         "wk:page":"Palmyra"
     },
@@ -400,7 +400,7 @@
         }
     ],
     "wof:id":421197935,
-    "wof:lastmodified":1563919060,
+    "wof:lastmodified":1566652208,
     "wof:name":"\u062a\u062f\u0645\u0631",
     "wof:parent_id":1108779085,
     "wof:placetype":"locality",

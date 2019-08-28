@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.16661,35.61065,36.20661,35.65065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakro\u00fbq",
         "Al Baqr\u016bqah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292916427,
-    "wof:lastmodified":1537702383,
+    "wof:lastmodified":1566651576,
     "wof:name":"Al Baqruqah",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

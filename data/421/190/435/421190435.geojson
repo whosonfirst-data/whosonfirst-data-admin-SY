@@ -10,8 +10,12 @@
     "geom:latitude":35.154722,
     "geom:longitude":35.951385,
     "iso:country":"SY",
+    "lbl:bbox":"35.931385,35.134722,35.971385,35.174722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0627\u0633"
@@ -146,7 +150,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947104,
-        "qs:id":1119565,
+        "qs_pg:id":1119565,
         "wd:id":"Q263922"
     },
     "wof:country":"SY",
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":421190435,
-    "wof:lastmodified":1563919057,
+    "wof:lastmodified":1566652208,
     "wof:name":"Baniyas",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

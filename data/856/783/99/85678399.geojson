@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.80729,
     "lbl:longitude":36.161725,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062f\u0631\u0639\u0627",
     "mps:latitude":32.806158,
     "mps:longitude":36.148072,
@@ -180,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haur\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -267,9 +268,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"3,730",
     "statoids:area_mi":"1,440",
     "statoids:as_of_date":"2004-09-22",
@@ -294,7 +295,7 @@
         "gp:id":2347074,
         "hasc:id":"SY.DR",
         "iso:id":"SY-DR",
-        "qs:id":211651,
+        "qs_pg:id":211651,
         "unlc:id":"SY-DR",
         "wd:id":"Q1689560",
         "wk:page":"Daraa Governorate"
@@ -317,11 +318,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736777,
+    "wof:lastmodified":1566651486,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":843478,
     "wof:population_rank":11,

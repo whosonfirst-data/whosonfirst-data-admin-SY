@@ -10,7 +10,12 @@
     "geom:latitude":35.629953,
     "geom:longitude":38.757705,
     "iso:country":"SY",
+    "lbl:bbox":"38.737705,35.609953,38.777705,35.649953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947090,
-        "qs:id":221546
+        "qs_pg:id":221546
     },
     "wof:country":"SY",
     "wof:created":1459010115,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421202365,
-    "wof:lastmodified":1496498066,
+    "wof:lastmodified":1566652202,
     "wof:name":"Ar Rasafah",
     "wof:parent_id":1108779103,
     "wof:placetype":"locality",

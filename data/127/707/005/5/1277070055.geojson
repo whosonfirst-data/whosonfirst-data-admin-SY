@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.24198,33.41993,36.28198,33.45993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u0634 \u0628\u0644\u0627\u0633"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277070055,
-    "wof:lastmodified":1537702084,
+    "wof:lastmodified":1566651639,
     "wof:name":"Hawsh Balas",
     "wof:parent_id":1108779109,
     "wof:placetype":"locality",

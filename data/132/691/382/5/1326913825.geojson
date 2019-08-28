@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.91121,35.06077,35.95121,35.10077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0639\u0628\u0631\u064a\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326913825,
-    "wof:lastmodified":1537702333,
+    "wof:lastmodified":1566651307,
     "wof:name":"Muqa`bariyah",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

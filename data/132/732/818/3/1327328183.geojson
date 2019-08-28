@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.44839,36.11954,37.48839,36.15954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0644\u0628\u064a\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327328183,
-    "wof:lastmodified":1537702106,
+    "wof:lastmodified":1566651273,
     "wof:name":"Al Halabiyah",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

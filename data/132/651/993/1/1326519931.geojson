@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.11235,35.57248,37.15235,35.61248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0633\u0645 \u0627\u0644\u062e\u0634\u0648\u0641"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326519931,
-    "wof:lastmodified":1537702533,
+    "wof:lastmodified":1566651227,
     "wof:name":"Rasm al Khashuf",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

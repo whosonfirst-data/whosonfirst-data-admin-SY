@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.16254,34.63132,36.20254,34.67132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ab\u016b M\u012bkh\u0101\u2019\u012bl"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209396135,
-    "wof:lastmodified":1537702406,
+    "wof:lastmodified":1566651787,
     "wof:name":"Abu al Masha`ib",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

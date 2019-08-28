@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.67864,35.15531,36.71864,35.19531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0632\u0629"
     ],
@@ -40,7 +44,6 @@
     ],
     "name:und_x_variant":[
         "Arz\u00e9",
-        "Arzah",
         "A\u1e11 \u1e10ab\u2018ah"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209610435,
-    "wof:lastmodified":1564175898,
+    "wof:lastmodified":1566651839,
     "wof:name":"Arzah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

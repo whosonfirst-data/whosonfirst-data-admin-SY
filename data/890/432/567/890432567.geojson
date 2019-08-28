@@ -11,8 +11,11 @@
     "geom:longitude":36.63393,
     "gn:country":"SY",
     "gn:fcode":"PPLA",
-    "gn:pop":128840,
+    "gn:population":128840,
     "iso:country":"SY",
+    "lbl:bbox":"36.61393,35.91062,36.65393,35.95062",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -187,9 +190,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0434\u043b\u0456\u0431"
     ],
-    "name:unk_x_variant":[
-        "Idleb"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u0644\u0628"
     ],
@@ -316,7 +316,7 @@
     "wof:concordances":{
         "gn:id":169389,
         "gp:id":1947143,
-        "qs:id":71514,
+        "qs_pg:id":71514,
         "wd:id":"Q504657",
         "wk:page":"Idlib"
     },
@@ -333,7 +333,7 @@
         }
     ],
     "wof:id":890432567,
-    "wof:lastmodified":1563919080,
+    "wof:lastmodified":1566652215,
     "wof:name":"Idlib",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

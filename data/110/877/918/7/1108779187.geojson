@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.829065,
     "lbl:longitude":35.735373,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Quneitra",
     "meso:adm1_loc":"\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629",
     "meso:adm2_gaul":"Al_Fiq",
@@ -34,6 +36,7 @@
     "mps:longitude":35.735373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Fiq Zawiyah"
     ],
@@ -41,9 +44,9 @@
         "\u0641\u064a\u0642"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Fiq",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108779187,
-    "wof:lastmodified":1553718738,
+    "wof:lastmodified":1566652004,
     "wof:name":"Al Fiq",
     "wof:parent_id":-1,
     "wof:placetype":"county",

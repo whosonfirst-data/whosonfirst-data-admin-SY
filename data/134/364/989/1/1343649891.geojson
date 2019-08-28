@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.73855,34.91113,36.77855,34.95113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u062c\u0644 \u0627\u0644\u062d\u0645\u0631\u0627\u062a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343649891,
-    "wof:lastmodified":1537702528,
+    "wof:lastmodified":1566651363,
     "wof:name":"Al `Ajal al Humrat",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

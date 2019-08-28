@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.42589,34.65797,36.46589,34.69797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qizl\u0101khir"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209084429,
-    "wof:lastmodified":1537701810,
+    "wof:lastmodified":1566651792,
     "wof:name":"Qizlakhir",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

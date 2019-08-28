@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.35146,33.67473,36.39146,33.71473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
     ],
@@ -64,7 +68,6 @@
     "name:und_x_variant":[
         "Seyd Naya",
         "Said N\u00e2ya",
-        "Seidnaya",
         "Sednaya",
         "\u015eaydn\u0101y\u0101"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1343681951,
-    "wof:lastmodified":1564175420,
+    "wof:lastmodified":1566651413,
     "wof:name":"Saydnaya",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

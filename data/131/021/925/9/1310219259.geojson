@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.52643,35.89122,40.56643,35.93122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Mur\u0101d"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1310219259,
-    "wof:lastmodified":1564176176,
+    "wof:lastmodified":1566652077,
     "wof:name":"Murad",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

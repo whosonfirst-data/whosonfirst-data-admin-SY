@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.89375,35.05204,35.93375,35.09204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0632\u0627\u0642"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326501085,
-    "wof:lastmodified":1537702203,
+    "wof:lastmodified":1566651242,
     "wof:name":"Ar Rawdah",
     "wof:parent_id":1108779133,
     "wof:placetype":"locality",

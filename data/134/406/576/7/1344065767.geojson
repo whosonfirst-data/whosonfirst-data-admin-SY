@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.09667,35.41333,36.13667,35.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sherta\u2019an",
         "Chertaane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344065767,
-    "wof:lastmodified":1537702166,
+    "wof:lastmodified":1566651383,
     "wof:name":"Chertaane",
     "wof:parent_id":1108779127,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.111138,
     "lbl:longitude":36.270406,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Dar'a",
     "meso:adm1_loc":"\u062f\u0631\u0639\u0627",
     "meso:adm2_gaul":"As_Sanamayn",
@@ -34,6 +36,7 @@
     "mps:longitude":36.270406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "As-Sanamayn"
     ],
@@ -41,9 +44,9 @@
         "\u0627\u0644\u0635\u0646\u0645\u064a\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"As-Sanamayn",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108779137,
-    "wof:lastmodified":1553718736,
+    "wof:lastmodified":1566651999,
     "wof:name":"As-Sanamayn",
     "wof:parent_id":85678399,
     "wof:placetype":"county",

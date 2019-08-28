@@ -11,10 +11,14 @@
     "geom:longitude":36.29713,
     "gn:country":"SY",
     "gn:fcode":"PPL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"SY",
+    "lbl:bbox":"36.27713,32.96133,36.31713,33.00133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0630\u0628\u0627\u0628\u064a\u0631"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":5138,
         "gp:id":1941139,
-        "qs:id":544418
+        "qs_pg:id":544418
     },
     "wof:country":"SY",
     "wof:created":1469052110,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436407,
-    "wof:lastmodified":1505343553,
+    "wof:lastmodified":1566652214,
     "wof:name":"Khirbat adh Dhab\u0101b\u012br",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

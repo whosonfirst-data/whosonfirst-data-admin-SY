@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.03949,34.92483,36.07949,34.96483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0628\u0633\u0648"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343828921,
-    "wof:lastmodified":1537702111,
+    "wof:lastmodified":1566651403,
     "wof:name":"Habsu",
     "wof:parent_id":1108779145,
     "wof:placetype":"locality",

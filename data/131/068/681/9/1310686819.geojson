@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.40499,33.35678,36.44499,33.39678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0639\u0629 \u0642\u0631\u0645\u0634\u064a\u0629"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310686819,
-    "wof:lastmodified":1537702562,
+    "wof:lastmodified":1566652089,
     "wof:name":"Mazra`at Qarmashiyah",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

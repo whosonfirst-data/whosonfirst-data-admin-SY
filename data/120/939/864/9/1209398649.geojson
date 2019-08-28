@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.55731,35.00643,36.59731,35.04643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al M\u016b\u2018\u0101"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209398649,
-    "wof:lastmodified":1537702336,
+    "wof:lastmodified":1566651787,
     "wof:name":"Al Mu`ah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.63191,36.04443,36.67191,36.08443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u062d\u0631\u0646\u0648\u0634"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243350481,
-    "wof:lastmodified":1537702528,
+    "wof:lastmodified":1566652306,
     "wof:name":"Khirbat Harnush",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

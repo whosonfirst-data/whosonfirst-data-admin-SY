@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.1287,34.98388,36.1687,35.02388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Tenn\u00e9rhri"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293854735,
-    "wof:lastmodified":1537701644,
+    "wof:lastmodified":1566651534,
     "wof:name":"Tanghari",
     "wof:parent_id":1108779149,
     "wof:placetype":"locality",

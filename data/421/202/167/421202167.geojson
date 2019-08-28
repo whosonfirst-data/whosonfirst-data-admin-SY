@@ -10,6 +10,9 @@
     "geom:latitude":35.33588,
     "geom:longitude":40.14084,
     "iso:country":"SY",
+    "lbl:bbox":"40.12084,35.31588,40.16084,35.35588",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -216,7 +219,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0439\u0440-\u0435\u0437-\u0417\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azaura"
     ],
     "name:urd_x_preferred":[
@@ -359,7 +362,7 @@
     "wof:concordances":{
         "gn:id":170794,
         "gp:id":1947119,
-        "qs:id":219483,
+        "qs_pg:id":219483,
         "wd:id":"Q239097",
         "wk:page":"Deir ez-Zor"
     },
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":421202167,
-    "wof:lastmodified":1563919042,
+    "wof:lastmodified":1566652203,
     "wof:name":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

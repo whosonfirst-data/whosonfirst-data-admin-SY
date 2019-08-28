@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"38.69764,35.54207,38.73764,35.58207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u062c\u0627\u064a\u0641"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209920375,
-    "wof:lastmodified":1537702553,
+    "wof:lastmodified":1566651842,
     "wof:name":"Bir al Jayif",
     "wof:parent_id":1108779103,
     "wof:placetype":"locality",

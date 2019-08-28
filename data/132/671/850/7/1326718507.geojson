@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.46816,34.70138,36.50816,34.74138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0632\u064a\u0644\u0629"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Rhza\u00efl\u00e9",
-        "Ghze\u00efl\u00e9",
-        "Ghuzaylah"
+        "Ghze\u00efl\u00e9"
     ],
     "name:vie_x_preferred":[
         "Ghuzaylah"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326718507,
-    "wof:lastmodified":1564175273,
+    "wof:lastmodified":1566651286,
     "wof:name":"Ghuzaylah",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.3966,36.15675,36.4366,36.19675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0632\u0646\u0637\u064a \u0627\u0644\u0632\u0631\u0642\u0627"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259560613,
-    "wof:lastmodified":1537702627,
+    "wof:lastmodified":1566652455,
     "wof:name":"Nuzanti az Zarqa",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

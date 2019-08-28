@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.98118,34.87761,36.02118,34.91761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Shub\u0101\u0163"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209288297,
-    "wof:lastmodified":1537701724,
+    "wof:lastmodified":1566651889,
     "wof:name":"Shubat",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

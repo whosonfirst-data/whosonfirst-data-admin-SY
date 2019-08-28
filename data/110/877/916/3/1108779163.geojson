@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.62045,
     "lbl:longitude":36.121861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Lattakia",
     "meso:adm1_loc":"\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
     "meso:adm2_gaul":"Al_Hafa",
@@ -34,6 +36,7 @@
     "mps:longitude":36.121861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0641\u0629"
     ],
@@ -95,9 +98,9 @@
         "\u54c8\u6cd5\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-22",
     "statoids:capital":"Al-Haffah",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108779163,
-    "wof:lastmodified":1563918782,
+    "wof:lastmodified":1566652002,
     "wof:name":"Al-Haffa",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

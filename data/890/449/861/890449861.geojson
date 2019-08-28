@@ -11,10 +11,14 @@
     "geom:longitude":36.23256,
     "gn:country":"SY",
     "gn:fcode":"PPLA2",
-    "gn:pop":71596,
+    "gn:population":71596,
     "iso:country":"SY",
+    "lbl:bbox":"36.21256,33.43834,36.25256,33.47834",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0651\u0627"
     ],
@@ -84,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430\u0439\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0101reiya"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":170892,
         "gp:id":1942687,
-        "qs:id":72054,
+        "qs_pg:id":72054,
         "wd:id":"Q1033066",
         "wk:page":"Darayya District"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890449861,
-    "wof:lastmodified":1563919070,
+    "wof:lastmodified":1566652212,
     "wof:name":"D\u0101rayy\u0101",
     "wof:parent_id":1108779109,
     "wof:placetype":"locality",

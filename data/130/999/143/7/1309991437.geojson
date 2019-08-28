@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"36.20278,33.39537,36.24278,33.43537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "A\u0163 \u0162uw\u0101l"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1309991437,
-    "wof:lastmodified":1564176276,
+    "wof:lastmodified":1566652162,
     "wof:name":"At Tuwal",
     "wof:parent_id":1108779109,
     "wof:placetype":"locality",

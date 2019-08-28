@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.237812,
     "lbl:longitude":37.291256,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062d\u0645\u0627\u0629",
     "mps:latitude":35.241681,
     "mps:longitude":37.355466,
@@ -205,7 +206,7 @@
         "Guvernementet Hamah"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bae\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0bb9\u0bae\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c2e\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -225,7 +226,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu\u1e29\u0101faz\u0327at \u1e28am\u0101h"
     ],
     "name:urd_x_preferred":[
@@ -309,9 +310,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-22",
+    "src:population_date":"2004-09-22",
     "statoids:area_km":"10,163",
     "statoids:area_mi":"3,924",
     "statoids:as_of_date":"2004-09-22",
@@ -336,7 +337,7 @@
         "gp:id":2347078,
         "hasc:id":"SY.HM",
         "iso:id":"SY-HM",
-        "qs:id":424021,
+        "qs_pg:id":424021,
         "unlc:id":"SY-HM",
         "wd:id":"Q232355",
         "wk:page":"Hama Governorate"
@@ -359,11 +360,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565736778,
+    "wof:lastmodified":1566651487,
     "wof:name":"Hamah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1384953,
     "wof:population_rank":12,

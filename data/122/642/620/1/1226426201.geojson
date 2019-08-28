@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"37.19667,35.48,37.23667,35.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Massa\u00e2d\u00e9",
         "Mas\u2018adah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226426201,
-    "wof:lastmodified":1537701904,
+    "wof:lastmodified":1566652502,
     "wof:name":"Mas`adah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

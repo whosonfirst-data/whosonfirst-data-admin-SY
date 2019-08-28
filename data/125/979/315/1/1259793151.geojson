@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"41.07606,36.68049,41.11606,36.72049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u064a\u062d\u0627\u0646"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259793151,
-    "wof:lastmodified":1537701706,
+    "wof:lastmodified":1566652407,
     "wof:name":"Sumayhan",
     "wof:parent_id":1108779189,
     "wof:placetype":"locality",

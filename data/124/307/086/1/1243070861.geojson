@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"35.81552,35.60116,35.85552,35.64116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0639\u0631\u064a\u0634"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243070861,
-    "wof:lastmodified":1537702576,
+    "wof:lastmodified":1566652222,
     "wof:name":"Khirbat al `Arish",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",

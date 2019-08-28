@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"39.6922,36.03781,39.7322,36.07781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0644\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260207671,
-    "wof:lastmodified":1537702557,
+    "wof:lastmodified":1566651970,
     "wof:name":"Salulah",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

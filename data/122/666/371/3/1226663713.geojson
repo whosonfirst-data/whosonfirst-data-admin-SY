@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Damascus",
     "iso:country":"SY",
+    "lbl:bbox":"40.53393,36.96295,40.57393,37.00295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0628\u0648\u0645"
     ],
     "name:tur_x_preferred":[
-        "Tall B\u016bm"
-    ],
-    "name:und_x_variant":[
         "Tall B\u016bm"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1226663713,
-    "wof:lastmodified":1537702450,
+    "wof:lastmodified":1566652541,
     "wof:name":"Tall Bum",
     "wof:parent_id":1108779083,
     "wof:placetype":"locality",
