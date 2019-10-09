@@ -1,10 +1,12 @@
 {
   "id": 85678377,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-sy",
+  "properties": {
+    "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
-    "wof:geomhash":"0a4bb0f1d26b614ec1e860e67c513794",
-    "wof:id":85678377
+    "wof:geomhash":"17c10febd7bae9f7dd5d81327f2a27be",
+    "wof:id":85678377,
+    "wof:repo":"whosonfirst-data-admin-sy"
 },
   "bbox": [
     39.44170763330067,
