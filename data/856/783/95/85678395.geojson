@@ -322,6 +322,9 @@
         "wd:id":"Q219690"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b47b1989ca72117c139d74f8190420b",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651482,
+    "wof:lastmodified":1582344837,
     "wof:name":"Quneitra",
     "wof:parent_id":85632221,
     "wof:placetype":"region",

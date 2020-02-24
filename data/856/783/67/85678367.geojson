@@ -346,6 +346,9 @@
         "wk:page":"Homs Governorate"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62dc45ac2c5d7e142016cac3bff26498",
     "wof:hierarchy":[
         {
@@ -363,7 +366,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651484,
+    "wof:lastmodified":1582344837,
     "wof:name":"Homs (Hims)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

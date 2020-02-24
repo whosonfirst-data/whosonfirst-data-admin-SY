@@ -76,6 +76,10 @@
         "qs_pg:id":1119560
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3236dc747252f0ec93dfa60a6ef938dc",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566651480,
+    "wof:lastmodified":1582344835,
     "wof:name":"\u2018Am\u0101rah al Juww\u0101n\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

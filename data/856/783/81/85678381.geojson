@@ -334,6 +334,9 @@
         "wd:id":"Q232387"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9f844122fff7ff7d89174223ed27d57",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651485,
+    "wof:lastmodified":1582344837,
     "wof:name":"Days Az Zawr",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

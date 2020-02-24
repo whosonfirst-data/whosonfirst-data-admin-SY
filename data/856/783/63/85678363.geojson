@@ -343,6 +343,9 @@
         "wk:page":"Hama Governorate"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c7d717c7cc169b254aeee58408584c3",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651487,
+    "wof:lastmodified":1582344838,
     "wof:name":"Hamah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

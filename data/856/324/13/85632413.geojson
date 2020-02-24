@@ -1015,9 +1015,10 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "naturalearth",
-        "meso",
-        "quattroshapes"
+        "naturalearth",
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1072,6 +1073,12 @@
     },
     "wof:country":"SY",
     "wof:country_alpha3":"SYR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"196c1c8770ecef92afab0fe536fd2614",
     "wof:hierarchy":[
         {
@@ -1088,7 +1095,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651481,
+    "wof:lastmodified":1582344836,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

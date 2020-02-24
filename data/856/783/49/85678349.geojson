@@ -391,6 +391,9 @@
         "wd:id":"Q232382"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0186c4ac34a71ac61c4f765d0ab40797",
     "wof:hierarchy":[
         {
@@ -408,7 +411,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651488,
+    "wof:lastmodified":1582344838,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
