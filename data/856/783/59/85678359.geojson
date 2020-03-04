@@ -323,6 +323,9 @@
         "wd:id":"Q214064"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55c93e2acb9bdc0662e6e147d6691189",
     "wof:hierarchy":[
         {
@@ -340,7 +343,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651483,
+    "wof:lastmodified":1582344837,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

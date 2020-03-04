@@ -309,6 +309,9 @@
         "wd:id":"Q235563"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57906299f05f23be1e30b577a2086703",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651487,
+    "wof:lastmodified":1582344838,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

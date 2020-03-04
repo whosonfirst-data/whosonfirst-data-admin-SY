@@ -102,6 +102,10 @@
         "wk:page":"Qanawat, Damascus"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb3d9dce7724c65494eb3334bd988db6",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566651480,
+    "wof:lastmodified":1582344835,
     "wof:name":"Al Qanaw\u00e5t",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

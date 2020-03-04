@@ -342,6 +342,9 @@
         "wk:page":"Al-Hasakah Governorate"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02980d4353bf81dc454bc9857d874c3e",
     "wof:hierarchy":[
         {
@@ -359,7 +362,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651487,
+    "wof:lastmodified":1582344838,
     "wof:name":"Hasaka (Al Haksa)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

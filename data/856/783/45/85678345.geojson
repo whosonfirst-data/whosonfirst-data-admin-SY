@@ -410,6 +410,9 @@
         "wd:id":"Q233236"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0646ae020c05fc2bb17297135f695e2",
     "wof:hierarchy":[
         {
@@ -427,7 +430,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651484,
+    "wof:lastmodified":1582344837,
     "wof:name":"Lattakia",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

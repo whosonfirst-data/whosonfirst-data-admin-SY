@@ -80,6 +80,10 @@
         "qs_pg:id":1119557
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff7a51fdce93411f7a649adbe81a7d30",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566651480,
+    "wof:lastmodified":1582344836,
     "wof:name":"Mayd\u00e5n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

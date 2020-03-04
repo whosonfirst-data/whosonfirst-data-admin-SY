@@ -301,6 +301,9 @@
         "wk:page":"Daraa Governorate"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2ebd2e4c32dba2bedad8435d2d9b172",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651486,
+    "wof:lastmodified":1582344838,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

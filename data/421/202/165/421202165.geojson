@@ -706,6 +706,9 @@
     ],
     "wof:country":"SY",
     "wof:created":1459010107,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb4f33152cad8f4ef0a4c32f58681958",
     "wof:hierarchy":[
         {
@@ -717,7 +720,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1566652203,
+    "wof:lastmodified":1582344848,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"locality",

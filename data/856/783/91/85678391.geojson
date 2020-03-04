@@ -158,6 +158,9 @@
         "unlc:id":"SY-RD"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5df42f7f3f02484a57d41233f3a7e667",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651486,
+    "wof:lastmodified":1582344838,
     "wof:name":"Rif Dimashq",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

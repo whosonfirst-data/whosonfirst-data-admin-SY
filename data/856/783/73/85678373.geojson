@@ -402,6 +402,9 @@
         "wd:id":"Q233218"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d5502f366d91ea9cde0477ebbbc6595",
     "wof:hierarchy":[
         {
@@ -419,7 +422,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651485,
+    "wof:lastmodified":1582344837,
     "wof:name":"Idlib",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

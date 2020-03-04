@@ -331,6 +331,9 @@
         "wk:page":"As-Suwayda Governorate"
     },
     "wof:country":"SY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a93d0efcd15a77c8c5ca149bd7faa880",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651488,
+    "wof:lastmodified":1582344838,
     "wof:name":"As Suwayda'",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
