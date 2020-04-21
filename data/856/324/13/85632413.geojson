@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.410431,
-    "geom:area_square_m":186373559402.991516,
+    "geom:area_square_m":186373559071.565155,
     "geom:bbox":"35.713585,32.311136,42.376309,37.320569",
     "geom:latitude":35.029764,
     "geom:longitude":38.514595,
@@ -73,6 +73,9 @@
     ],
     "name:arg_x_preferred":[
         "Siria"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u0648\u0631\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0648\u0631\u064a\u0627"
@@ -204,6 +207,12 @@
     "name:dan_x_preferred":[
         "Syrien"
     ],
+    "name:deu_at_x_preferred":[
+        "Syrien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Syrien"
+    ],
     "name:deu_x_preferred":[
         "Syrien"
     ],
@@ -227,6 +236,12 @@
     ],
     "name:ell_x_variant":[
         "\u03a3\u03c5\u03c1\u03af\u03b1, \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Syria"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Syria"
     ],
     "name:eng_x_preferred":[
         "Syria"
@@ -299,6 +314,9 @@
     ],
     "name:gag_x_preferred":[
         "Siriya"
+    ],
+    "name:gcr_x_preferred":[
+        "Siri"
     ],
     "name:gla_x_preferred":[
         "Siria"
@@ -569,6 +587,9 @@
     "name:mon_x_preferred":[
         "\u0421\u0438\u0440\u0438"
     ],
+    "name:mri_x_preferred":[
+        "Hiria"
+    ],
     "name:msa_x_preferred":[
         "Syria"
     ],
@@ -677,6 +698,9 @@
     "name:pol_x_preferred":[
         "Syria"
     ],
+    "name:por_br_x_preferred":[
+        "S\u00edria"
+    ],
     "name:por_x_preferred":[
         "S\u00edria"
     ],
@@ -768,6 +792,12 @@
     "name:srd_x_preferred":[
         "Siria"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0421\u0438\u0440\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Sirija"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0440\u0438\u0458\u0430"
     ],
@@ -788,6 +818,9 @@
     ],
     "name:szl_x_preferred":[
         "Syryjo"
+    ],
+    "name:szy_x_preferred":[
+        "Syria"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
@@ -926,8 +959,20 @@
     "name:zha_x_preferred":[
         "Syria"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u53d9\u5229\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6558\u5229\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Su-l\u012b-a"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u53d9\u5229\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6558\u5229\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u53d9\u5229\u4e9a"
@@ -1095,7 +1140,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583797436,
+    "wof:lastmodified":1587428011,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
