@@ -16,6 +16,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0643\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Akkar"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -63,8 +69,8 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1529541195,
-    "wof:name":"\u0639\u0643\u0627\u0631",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Akkar",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-sy",
