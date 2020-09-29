@@ -10,6 +10,12 @@
     "geom:latitude":34.900738,
     "geom:longitude":35.8889,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Tartus Governate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governate"
+    ],
     "lbl:bbox":"35.8689,34.880738,35.9089,34.920738",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -21,7 +27,10 @@
         "\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633"
     ],
     "name:eng_x_preferred":[
-        "Tartus Governorate"
+        "Tartus"
+    ],
+    "name:eng_x_variant":[
+        "Tartus Governate"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -66,8 +75,8 @@
         }
     ],
     "wof:id":421182331,
-    "wof:lastmodified":1601068400,
-    "wof:name":"Tartus Governorate",
+    "wof:lastmodified":1601339397,
+    "wof:name":"Tartus",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
