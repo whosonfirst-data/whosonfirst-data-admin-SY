@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        85678363,
-        1108779175
+        1108779175,
+        85678363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190449,
-    "wof:lastmodified":1601068400,
+    "wof:lastmodified":1601423091,
     "wof:name":"Murada",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",

@@ -10,12 +10,6 @@
     "geom:latitude":34.900738,
     "geom:longitude":35.8889,
     "iso:country":"SY",
-    "label:eng_x_preferred_longname":[
-        "Tartus Governate"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "governate"
-    ],
     "lbl:bbox":"35.8689,34.880738,35.9089,34.920738",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -54,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        85678349,
-        1108779153
+        1108779153,
+        85678349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +69,7 @@
         }
     ],
     "wof:id":421182331,
-    "wof:lastmodified":1601339397,
+    "wof:lastmodified":1601423056,
     "wof:name":"Tartus",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",
