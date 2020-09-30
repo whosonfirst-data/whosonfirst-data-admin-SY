@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0634\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Rashaya"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"SY",
     "wof:created":1459009542,
-    "wof:geomhash":"db9555c52db01a288fba7a2120ac531f",
+    "wof:geomhash":"b6916a344d35a10e5bec92e80473dd62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421188347,
-    "wof:lastmodified":1481738377,
-    "wof:name":"\u0631\u0627\u0634\u064a\u0627",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Rashaya",
     "wof:parent_id":85678391,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-sy",

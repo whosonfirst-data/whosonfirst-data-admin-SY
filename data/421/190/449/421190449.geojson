@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0627\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Murada"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        85678363,
-        1108779175
+        1108779175,
+        85678363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190449,
-    "wof:lastmodified":1566652205,
-    "wof:name":"\u0645\u0639\u0631\u0627\u062f\u0629",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Murada",
     "wof:parent_id":1108779175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",

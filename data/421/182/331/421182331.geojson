@@ -17,6 +17,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Tartus"
+    ],
+    "name:eng_x_variant":[
+        "Tartus Governate"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        85678349,
-        1108779153
+        1108779153,
+        85678349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":421182331,
-    "wof:lastmodified":1566652210,
-    "wof:name":"\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633",
+    "wof:lastmodified":1601423056,
+    "wof:name":"Tartus",
     "wof:parent_id":1108779153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
