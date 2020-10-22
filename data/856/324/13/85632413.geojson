@@ -9,7 +9,6 @@
     "geom:bbox":"35.713585,32.311136,42.376309,37.320569",
     "geom:latitude":35.029764,
     "geom:longitude":38.514595,
-    "gn:id":"",
     "gn:population":22198110,
     "iso:country":"SY",
     "itu:country_code":[
@@ -1140,7 +1139,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1587428011,
+    "wof:lastmodified":1603256455,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

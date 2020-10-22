@@ -9,7 +9,6 @@
     "geom:bbox":"39.2469993176,34.1118700563,41.2785560927,36.3290867219",
     "geom:latitude":35.143936,
     "geom:longitude":40.316752,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Days Az Zawr Province"
@@ -354,7 +353,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344837,
+    "wof:lastmodified":1603256456,
     "wof:name":"Days Az Zawr",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

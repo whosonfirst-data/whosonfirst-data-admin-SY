@@ -9,7 +9,6 @@
     "geom:bbox":"35.81557,32.6662056304,39.1144796185,34.2406706229",
     "geom:latitude":33.493541,
     "geom:longitude":37.388037,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Rif Dimashq Province"
@@ -178,7 +177,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344838,
+    "wof:lastmodified":1603256456,
     "wof:name":"Rif Dimashq",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

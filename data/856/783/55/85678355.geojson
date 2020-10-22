@@ -9,7 +9,6 @@
     "geom:bbox":"38.0587151266,35.2784918123,39.9017496113,36.7715351511",
     "geom:latitude":36.012193,
     "geom:longitude":38.994668,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Ar Raqqah Province"
@@ -329,7 +328,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344838,
+    "wof:lastmodified":1603256457,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

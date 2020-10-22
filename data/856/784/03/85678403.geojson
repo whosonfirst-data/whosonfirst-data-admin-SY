@@ -9,7 +9,6 @@
     "geom:bbox":"36.1973026118,33.4625039018,36.3518104607,33.5653598166",
     "geom:latitude":33.515847,
     "geom:longitude":36.281452,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Damascus Province"
@@ -715,7 +714,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344839,
+    "wof:lastmodified":1603256457,
     "wof:name":"Damascus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"35.863834381,34.62741,36.3281580795,35.2702364413",
     "geom:latitude":34.958931,
     "geom:longitude":36.073444,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Tartus Province"
@@ -411,7 +410,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344838,
+    "wof:lastmodified":1603256457,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

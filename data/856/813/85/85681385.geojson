@@ -9,7 +9,6 @@
     "geom:bbox":"35.7575903488,32.7443468583,35.9238326425,33.4312421672",
     "geom:latitude":33.157363,
     "geom:longitude":35.845068,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_shortcode":[
         "SY"
@@ -223,7 +222,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566651488,
+    "wof:lastmodified":1603256457,
     "wof:name":"United Nations Disengagement Observer Force",
     "wof:parent_id":85632711,
     "wof:placetype":"region",

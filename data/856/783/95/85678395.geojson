@@ -9,7 +9,6 @@
     "geom:bbox":"35.586898,32.677555,35.996324702,33.3548689157",
     "geom:latitude":33.040003,
     "geom:longitude":35.787954,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Quneitra Province"
@@ -349,7 +348,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344837,
+    "wof:lastmodified":1603256455,
     "wof:name":"Quneitra",
     "wof:parent_id":85632221,
     "wof:placetype":"region",

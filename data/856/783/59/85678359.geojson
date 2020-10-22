@@ -9,7 +9,6 @@
     "geom:bbox":"36.542538,35.3804636924,38.7091199577,36.924123",
     "geom:latitude":36.221799,
     "geom:longitude":37.640748,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Aleppo Province"
@@ -343,7 +342,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344837,
+    "wof:lastmodified":1603256456,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

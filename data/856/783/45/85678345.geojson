@@ -9,7 +9,6 @@
     "geom:bbox":"35.7135849,35.2216066264,36.2551688855,35.940862",
     "geom:latitude":35.573705,
     "geom:longitude":36.021124,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Lattakia Province"
@@ -430,7 +429,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344837,
+    "wof:lastmodified":1603256456,
     "wof:name":"Lattakia",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

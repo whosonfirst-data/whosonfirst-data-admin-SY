@@ -9,7 +9,6 @@
     "geom:bbox":"36.297339,33.516229,36.297339,33.516229",
     "geom:latitude":33.516229,
     "geom:longitude":36.297339,
-    "gn:id":"",
     "iso:country":"SY",
     "lbl:bbox":"36.292339,33.511229,36.302339,33.521229",
     "lbl:latitude":33.516229,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85903035,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582344835,
+    "wof:lastmodified":1603256455,
     "wof:name":"\u2018Am\u0101rah al Juww\u0101n\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

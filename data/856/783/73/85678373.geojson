@@ -9,7 +9,6 @@
     "geom:bbox":"36.1474138452,35.3790932768,37.2016944492,36.3392991791",
     "geom:latitude":35.78763,
     "geom:longitude":36.679719,
-    "gn:id":"",
     "iso:country":"SY",
     "label:eng_x_preferred_longname":[
         "Idlib Province"
@@ -422,7 +421,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344837,
+    "wof:lastmodified":1603256456,
     "wof:name":"Idlib",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
