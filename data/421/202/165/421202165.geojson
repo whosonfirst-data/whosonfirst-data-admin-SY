@@ -726,7 +726,9 @@
         85678403
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632413,
+    "wof:capital_of":[
+        85632413
+    ],
     "wof:concordances":{
         "gn:id":170654,
         "gp:id":1947122,
@@ -753,7 +755,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1587428014,
+    "wof:lastmodified":1607390891,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"locality",
