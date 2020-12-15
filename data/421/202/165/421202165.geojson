@@ -737,7 +737,8 @@
         "wk:page":"Damascus"
     },
     "wof:coterminous":[
-        85678403
+        85678403,
+        1108779107
     ],
     "wof:country":"SY",
     "wof:created":1459010107,
@@ -755,7 +756,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1607980693,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"locality",
