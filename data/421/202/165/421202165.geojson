@@ -732,6 +732,7 @@
     "wof:concordances":{
         "gn:id":170654,
         "gp:id":1947122,
+        "ne:id":1159151269,
         "qs_pg:id":219482,
         "wd:id":"Q3766",
         "wk:page":"Damascus"
@@ -756,7 +757,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1608675982,
+    "wof:lastmodified":1608677545,
     "wof:megacity":1,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
