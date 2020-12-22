@@ -756,7 +756,8 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1607980693,
+    "wof:lastmodified":1608675982,
+    "wof:megacity":1,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"locality",
