@@ -421,13 +421,14 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        85678367,
-        1108779211
+        1108779211,
+        85678367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":169577,
         "gp:id":1947140,
+        "ne:id":1159147871,
         "qs_pg:id":1221275,
         "wd:id":"Q131301",
         "wk:page":"Homs"
@@ -445,7 +446,8 @@
         }
     ],
     "wof:id":421168647,
-    "wof:lastmodified":1566652201,
+    "wof:lastmodified":1608688167,
+    "wof:megacity":1,
     "wof:name":"\u062d\u0645\u0635",
     "wof:parent_id":1108779211,
     "wof:placetype":"locality",

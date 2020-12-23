@@ -514,6 +514,7 @@
     "wof:concordances":{
         "gn:id":170063,
         "gp:id":1947132,
+        "ne:id":1159151267,
         "qs_pg:id":219481,
         "wd:id":"Q41183",
         "wk:page":"Aleppo"
@@ -531,7 +532,8 @@
         }
     ],
     "wof:id":421202163,
-    "wof:lastmodified":1587428015,
+    "wof:lastmodified":1608688183,
+    "wof:megacity":1,
     "wof:name":"\u062d\u0644\u0628",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",
