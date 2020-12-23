@@ -1,0 +1,18 @@
+{
+  "id": 421168647,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"quattroshapes",
+    "src:geom":"quattroshapes",
+    "wof:geomhash":"1572d0391111df09f799592bfa40d59e",
+    "wof:id":421168647,
+    "wof:repo":"whosonfirst-data-admin-sy"
+},
+  "bbox": [
+    36.72339,
+    34.72682,
+    36.72339,
+    34.72682
+],
+  "geometry": {"coordinates":[36.72339,34.72682],"type":"Point"}
+}
