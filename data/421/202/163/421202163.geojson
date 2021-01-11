@@ -10,7 +10,6 @@
     "geom:latitude":36.203685,
     "geom:longitude":37.172617,
     "iso:country":"SY",
-    "lbl:bbox":"37.14117,36.18124,37.18117,36.22124",
     "lbl:latitude":36.202439,
     "lbl:longitude":37.151825,
     "lbl:max_zoom":13.0,
@@ -543,7 +542,7 @@
         }
     ],
     "wof:id":421202163,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610153038,
     "wof:megacity":1,
     "wof:name":"\u062d\u0644\u0628",
     "wof:parent_id":1108779121,
