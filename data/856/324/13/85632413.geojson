@@ -1126,7 +1126,8 @@
     "src:geom_alt":[
         "quattroshapes",
         "naturalearth",
-        "meso"
+        "meso",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1187,7 +1188,8 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "meso"
+        "meso",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"921d62ef003c26fbc76db3f7f765c9c5",
     "wof:hierarchy":[
@@ -1205,7 +1207,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1617827484,
+    "wof:lastmodified":1618362675,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
