@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Tadmur"
     ],
+    "name:fra_x_preferred":[
+        "Tadmor"
+    ],
     "name:und_x_variant":[
         "\u062a\u062f\u0645\u0631"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779085,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1627522807,
     "wof:name":"Tadmor",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

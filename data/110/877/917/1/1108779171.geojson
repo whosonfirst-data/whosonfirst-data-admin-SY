@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Ar-Rastan"
     ],
+    "name:fra_x_preferred":[
+        "Rastane"
+    ],
     "name:und_x_variant":[
         "\u0627\u0644\u0631\u0633\u062a\u0646"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779171,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522807,
     "wof:name":"Ar-Rastan",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

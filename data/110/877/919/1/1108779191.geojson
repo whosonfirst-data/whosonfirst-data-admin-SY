@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Al-Malikiyah"
     ],
+    "name:fra_x_preferred":[
+        "Al-Malikiyah"
+    ],
     "name:und_x_variant":[
         "\u0627\u0644\u0645\u0627\u0644\u0643\u064a\u0629"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779191,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522804,
     "wof:name":"Al-Malikeyyeh",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

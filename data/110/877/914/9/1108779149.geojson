@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Ash-Shaykh Badr"
     ],
+    "name:fra_x_preferred":[
+        "Sheikh Badr"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d9\u05d7' \u05d1\u05d0\u05d3\u05e8"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108779149,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522807,
     "wof:name":"Sheikh Badr",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

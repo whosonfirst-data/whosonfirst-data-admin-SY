@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Fiq Zawiyah"
     ],
+    "name:fra_x_preferred":[
+        "Fiq"
+    ],
     "name:und_x_variant":[
         "\u0641\u064a\u0642"
     ],
@@ -59,8 +62,8 @@
     "statoids:type":"district",
     "wof:belongsto":[
         102191569,
-        85632315,
         85632221,
+        85632315,
         85678395,
         85632413,
         85672545
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108779187,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522805,
     "wof:name":"Al Fiq",
     "wof:parent_id":-1,
     "wof:placetype":"county",

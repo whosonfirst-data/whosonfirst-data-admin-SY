@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "As-Saqlabiyah"
     ],
+    "name:fra_x_preferred":[
+        "Al-Suqaylabiyya"
+    ],
     "name:und_x_variant":[
         "\u0627\u0644\u0633\u0642\u064a\u0644\u0628\u064a\u0629"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779099,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522804,
     "wof:name":"As-Suqaylabiyah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

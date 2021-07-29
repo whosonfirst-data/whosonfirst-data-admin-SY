@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Muhradah"
     ],
+    "name:fra_x_preferred":[
+        "Mhardeh"
+    ],
     "name:und_x_variant":[
         "\u0645\u062d\u0631\u062f\u0629"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779175,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522806,
     "wof:name":"Muhradah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

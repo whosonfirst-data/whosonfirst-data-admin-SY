@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Markaz Al-Ladhiqiyah"
     ],
+    "name:fra_x_preferred":[
+        "Lattaqui\u00e9"
+    ],
     "name:und_x_variant":[
         "\u0645\u0631\u0643\u0632 \u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779125,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522806,
     "wof:name":"Lattakia",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

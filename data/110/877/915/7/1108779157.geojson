@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Markaz Dayr az-Zawr"
     ],
+    "name:fra_x_preferred":[
+        "Deir ez-Zor"
+    ],
     "name:und_x_variant":[
         "\u0645\u0631\u0643\u0632 \u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779157,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522805,
     "wof:name":"Deir-ez-Zor",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

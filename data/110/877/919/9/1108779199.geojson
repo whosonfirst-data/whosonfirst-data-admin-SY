@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Markaz As-Suwayda"
     ],
+    "name:fra_x_preferred":[
+        "Soue\u00efda"
+    ],
     "name:und_x_variant":[
         "\u0645\u0631\u0643\u0632 \u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779199,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522807,
     "wof:name":"As-Sweida",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

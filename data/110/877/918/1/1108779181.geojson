@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Tall Kalakh"
     ],
+    "name:fra_x_preferred":[
+        "Tall Kalakh"
+    ],
     "name:und_x_variant":[
         "\u062a\u0644\u0643\u0644\u062e"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779181,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522807,
     "wof:name":"Tall Kalakh",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

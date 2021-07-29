@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "An-Nabk"
     ],
+    "name:fra_x_preferred":[
+        "An-Nabk"
+    ],
     "name:und_x_variant":[
         "\u0627\u0644\u0646\u0628\u0643"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779095,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522804,
     "wof:name":"An Nabk",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

@@ -49,6 +49,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0645\u0646\u0628\u062c"
     ],
+    "name:fra_x_preferred":[
+        "Manbij"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u0562\u056b\u057b\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108779205,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522806,
     "wof:name":"Menbij",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

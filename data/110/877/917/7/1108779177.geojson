@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Izra'"
     ],
+    "name:fra_x_preferred":[
+        "Izra"
+    ],
     "name:und_x_variant":[
         "\u0627\u0632\u0631\u0639"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779177,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522805,
     "wof:name":"Izra'",
     "wof:parent_id":85678399,
     "wof:placetype":"county",

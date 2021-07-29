@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Ma'arrat an-Nu'man"
     ],
+    "name:fra_x_preferred":[
+        "Qaldoun al-Marah"
+    ],
     "name:und_x_variant":[
         "\u0645\u0639\u0631\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779123,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522806,
     "wof:name":"Al Ma'ra",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

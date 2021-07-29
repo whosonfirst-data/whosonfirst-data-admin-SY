@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Tall Abyad"
     ],
+    "name:fra_x_preferred":[
+        "Tell Abyad"
+    ],
     "name:und_x_variant":[
         "\u062a\u0644 \u0623\u0628\u064a\u0636"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779197,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1627522807,
     "wof:name":"Tell Abiad",
     "wof:parent_id":85678355,
     "wof:placetype":"county",

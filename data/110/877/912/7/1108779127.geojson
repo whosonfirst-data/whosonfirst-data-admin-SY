@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Qardahah"
     ],
+    "name:fra_x_preferred":[
+        "Qardaha"
+    ],
     "name:und_x_variant":[
         "\u0627\u0644\u0642\u0631\u062f\u0627\u062d\u0629"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779127,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522806,
     "wof:name":"Al-Qardaha",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

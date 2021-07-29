@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Markaz Tartus"
     ],
+    "name:fra_x_preferred":[
+        "Tartous"
+    ],
     "name:und_x_variant":[
         "\u0645\u0631\u0643\u0632 \u0637\u0631\u0637\u0648\u0633"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779153,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522807,
     "wof:name":"Tartous",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

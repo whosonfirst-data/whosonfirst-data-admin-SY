@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Ayn al-'Arab"
     ],
+    "name:fra_x_preferred":[
+        "Koban\u00e9"
+    ],
     "name:und_x_variant":[
         "\u0639\u064a\u0646 \u0627\u0644\u0639\u0631\u0628"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779073,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1627522806,
     "wof:name":"Ain Al Arab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

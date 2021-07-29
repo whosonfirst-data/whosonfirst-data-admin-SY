@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Duraykish"
     ],
+    "name:fra_x_preferred":[
+        "Duraykish"
+    ],
     "name:und_x_variant":[
         "\u062f\u0631\u064a\u0643\u064a\u0634"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779145,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1627522805,
     "wof:name":"Dreikish",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

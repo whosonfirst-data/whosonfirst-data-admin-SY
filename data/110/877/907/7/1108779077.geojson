@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Markaz Dar'a"
     ],
+    "name:fra_x_preferred":[
+        "Deraa"
+    ],
     "name:und_x_variant":[
         "\u062f\u0631\u0639\u0627"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108779077,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1627522805,
     "wof:name":"Dar'a",
     "wof:parent_id":85678399,
     "wof:placetype":"county",
