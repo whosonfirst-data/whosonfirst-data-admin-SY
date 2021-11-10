@@ -110,6 +110,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0938-\u0938\u0941\u0935\u0948\u0926\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "As-Suwayda'"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c-\u054d\u0578\u0582\u0565\u0575\u0564\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
@@ -352,7 +355,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896096,
+    "wof:lastmodified":1636500544,
     "wof:name":"As Suwayda'",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

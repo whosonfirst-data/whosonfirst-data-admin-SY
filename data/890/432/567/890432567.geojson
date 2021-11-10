@@ -88,6 +88,9 @@
     "name:hin_x_preferred":[
         "\u0907\u0926\u0932\u093f\u092c"
     ],
+    "name:hun_x_preferred":[
+        "Idlib"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u0564\u056c\u056b\u0562"
     ],
@@ -333,7 +336,7 @@
         }
     ],
     "wof:id":890432567,
-    "wof:lastmodified":1566652215,
+    "wof:lastmodified":1636500550,
     "wof:name":"Idlib",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

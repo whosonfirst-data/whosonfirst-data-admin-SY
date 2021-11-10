@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u062f\u0629"
     ],
+    "name:hun_x_preferred":[
+        "Buraydah"
+    ],
     "name:und_x_variant":[
         "Bar\u00e2da",
         "Bard\u00e9",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226768603,
-    "wof:lastmodified":1566652562,
+    "wof:lastmodified":1636500552,
     "wof:name":"Buraydah",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

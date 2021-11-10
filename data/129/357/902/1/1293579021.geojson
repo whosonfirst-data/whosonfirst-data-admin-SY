@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Wardak"
     ],
+    "name:hun_x_preferred":[
+        "Wardak"
+    ],
     "name:kur_x_preferred":[
         "Wirdik"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1293579021,
-    "wof:lastmodified":1566651562,
+    "wof:lastmodified":1636500546,
     "wof:name":"Wardak",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

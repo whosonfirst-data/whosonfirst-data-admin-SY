@@ -35,11 +35,59 @@
     "name:ara_x_variant":[
         "\u0622\u0631\u0627\u0643"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u0995"
+    ],
+    "name:deu_x_preferred":[
+        "Arak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03ba"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u0627\u06a9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Arak"
+    ],
+    "name:ind_x_preferred":[
+        "Arak"
+    ],
+    "name:ita_x_preferred":[
+        "Arak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30c3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub77c\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Arak"
+    ],
     "name:pol_x_preferred":[
         "Arak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0443\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Arak"
+    ],
+    "name:swe_x_preferred":[
+        "Arak"
+    ],
+    "name:tur_x_preferred":[
+        "Arak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Rekk\u00e9",
@@ -47,8 +95,17 @@
         "Reka",
         "Qubbat Arak"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0627\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Arak"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62c9\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62c9\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +125,7 @@
         }
     ],
     "wof:id":1209192447,
-    "wof:lastmodified":1566651883,
+    "wof:lastmodified":1636500547,
     "wof:name":"Arak",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",

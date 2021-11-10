@@ -569,6 +569,9 @@
         "Damask"
     ],
     "name:vie_x_preferred":[
+        "Damascus"
+    ],
+    "name:vie_x_variant":[
         "Damas"
     ],
     "name:vol_x_preferred":[
@@ -722,8 +725,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        1108779107,
-        85678403
+        85678403,
+        1108779107
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -757,7 +760,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1608688183,
+    "wof:lastmodified":1636500550,
     "wof:megacity":1,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,

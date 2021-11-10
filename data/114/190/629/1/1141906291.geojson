@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.9563288968,36.5266451203,37.9563288968,36.5266451203",
+    "geom:bbox":"37.956329,36.526645,37.956329,36.526645",
     "geom:latitude":36.526645,
     "geom:longitude":37.956329,
     "gn:country":"SY",
@@ -77,6 +77,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0928\u092c\u093f\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Manbij"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u0562\u056b\u057b"
@@ -308,7 +311,7 @@
     },
     "wof:country":"SY",
     "wof:created":1499130567,
-    "wof:geomhash":"db02d9b00d1c37b0e2eecbb6ec1f6276",
+    "wof:geomhash":"f331b3a70fc4826d19c9a1cc3671ec6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":1141906291,
-    "wof:lastmodified":1566652630,
+    "wof:lastmodified":1636500553,
     "wof:name":"Manbij",
     "wof:parent_id":1108779205,
     "wof:placetype":"locality",
@@ -333,10 +336,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.95632889684919,
-    36.52664512027974,
-    37.95632889684919,
-    36.52664512027974
+    37.956329,
+    36.526645,
+    37.956329,
+    36.526645
 ],
-  "geometry": {"coordinates":[37.95632889684919,36.52664512027974],"type":"Point"}
+  "geometry": {"coordinates":[37.956329,36.526645],"type":"Point"}
 }

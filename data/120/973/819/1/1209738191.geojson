@@ -41,6 +41,9 @@
     "name:azb_x_preferred":[
         "\u0646\u062c\u0631\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cd\u09af\u09be\u099c\u09b0\u09be\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Najran"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u091c\u0930\u093e\u0928 \u0936\u0939\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Najran"
     ],
     "name:ind_x_preferred":[
         "Najran"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1209738191,
-    "wof:lastmodified":1566651872,
+    "wof:lastmodified":1636500547,
     "wof:name":"Najran",
     "wof:parent_id":1108779199,
     "wof:placetype":"locality",

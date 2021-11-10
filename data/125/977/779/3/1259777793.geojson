@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0643"
     ],
+    "name:hun_x_preferred":[
+        "Birak"
+    ],
     "name:und_x_variant":[
         "B\u00eerek",
         "B\u012brak",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259777793,
-    "wof:lastmodified":1566652403,
+    "wof:lastmodified":1636500552,
     "wof:name":"Birak",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",

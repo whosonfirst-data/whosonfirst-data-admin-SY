@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0645\u0634\u0644\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0995\u09be\u09ae\u09bf\u09b6\u09b2\u09bf"
+    ],
     "name:deu_x_preferred":[
         "Qamischli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03b1\u03bc\u03b9\u03c3\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Al-Qamishli"
@@ -43,6 +49,9 @@
     ],
     "name:fin_x_preferred":[
         "Kamishli"
+    ],
+    "name:ind_x_preferred":[
+        "Al Qamishli"
     ],
     "name:ita_x_preferred":[
         "Kamishli\u00e9"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1225958399,
-    "wof:lastmodified":1566652485,
+    "wof:lastmodified":1636500552,
     "wof:name":"Al Qamishli",
     "wof:parent_id":1108779193,
     "wof:placetype":"locality",

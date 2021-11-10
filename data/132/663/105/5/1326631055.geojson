@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f\u0627"
     ],
+    "name:hun_x_preferred":[
+        "As Suwayda"
+    ],
     "name:und_x_variant":[
         "As Suwayd\u0101\u2019",
         "As Suwayd\u0101"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326631055,
-    "wof:lastmodified":1566651300,
+    "wof:lastmodified":1636500542,
     "wof:name":"As Suwayda",
     "wof:parent_id":1108779169,
     "wof:placetype":"locality",

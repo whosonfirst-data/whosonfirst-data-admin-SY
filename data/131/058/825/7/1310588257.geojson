@@ -35,8 +35,41 @@
     "name:ara_x_variant":[
         "\u0633\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "San"
+    ],
+    "name:ind_x_preferred":[
+        "San"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0"
+    ],
+    "name:tur_x_preferred":[
+        "San"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Sa\u00e2n\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":1310588257,
-    "wof:lastmodified":1566652104,
+    "wof:lastmodified":1636500549,
     "wof:name":"San",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0414\u0443\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cc\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0430"
     ],
@@ -64,6 +67,12 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05de\u05d0"
     ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u090a\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Douma"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0574\u0561"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10e3\u10db\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub450\ub9c8"
     ],
     "name:lit_x_preferred":[
         "D\u016bma"
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":890442375,
-    "wof:lastmodified":1566652215,
+    "wof:lastmodified":1636500550,
     "wof:name":"Douma",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

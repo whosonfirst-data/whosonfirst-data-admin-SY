@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.0440848376,36.5887860301,37.0440848376,36.5887860301",
+    "geom:bbox":"37.044085,36.588786,37.044085,36.588786",
     "geom:latitude":36.588786,
     "geom:longitude":37.044085,
     "iso:country":"SY",
@@ -18,6 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u099c\u09be\u099c"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b6\u03ac\u03b6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d6\u05d0\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u091c\u093c\u093e\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Izaz"
+    ],
+    "name:ind_x_preferred":[
+        "Izaz"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc790\uc988"
+    ],
+    "name:por_x_preferred":[
+        "Azaz"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Syria",
     "ne:ADM0_A3":"SYR",
@@ -124,7 +148,7 @@
     "wof:concordances":{},
     "wof:country":"SY",
     "wof:created":1499130567,
-    "wof:geomhash":"0b70cf750723f56834e6baee592aca9f",
+    "wof:geomhash":"8f641d95bff7a64edf75002c4ae807f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +159,7 @@
         }
     ],
     "wof:id":1141906289,
-    "wof:lastmodified":1566652630,
+    "wof:lastmodified":1636500553,
     "wof:name":"Izaz",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",
@@ -145,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.04408483760074,
-    36.58878603011067,
-    37.04408483760074,
-    36.58878603011067
+    37.044085,
+    36.588786,
+    37.044085,
+    36.588786
 ],
-  "geometry": {"coordinates":[37.04408483760074,36.58878603011067],"type":"Point"}
+  "geometry": {"coordinates":[37.044085,36.588786],"type":"Point"}
 }

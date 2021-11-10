@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0645\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cc\u09ae\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Douma"
     ],
@@ -49,6 +52,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05de\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u090a\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Douma"
+    ],
+    "name:kor_x_preferred":[
+        "\ub450\ub9c8"
     ],
     "name:nld_x_preferred":[
         "Douma"
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1327265527,
-    "wof:lastmodified":1566651318,
+    "wof:lastmodified":1636500542,
     "wof:name":"Douma",
     "wof:parent_id":1108779179,
     "wof:placetype":"locality",

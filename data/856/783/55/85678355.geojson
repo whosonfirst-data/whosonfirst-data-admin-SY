@@ -45,6 +45,9 @@
     "name:aze_x_preferred":[
         "\u018fr-R\u0259qq\u0259 m\u00fchafazas\u0131"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09be\u0995\u09cd\u0995\u09be\u09b9"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440-\u0420\u0430\u043a\u043a\u0430"
     ],
@@ -329,7 +332,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896095,
+    "wof:lastmodified":1636500544,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

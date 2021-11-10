@@ -46,6 +46,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0431\u0443-\u041a\u0435\u043c\u0430\u043b\u044c"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09c1 \u0995\u09be\u09ae\u09be\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "\u0100lb\u016b Kam\u0101l"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Abu Kamal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03cd \u039a\u03b1\u03bc\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Abu-Kamal"
@@ -73,8 +79,17 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d1\u05d5\u05db\u05de\u05d0\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u092c\u0941 \u0915\u092e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Abu Kamal"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0562\u0578\u0582 \u0554\u0561\u0574\u0561\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Abu Kamal"
     ],
     "name:ita_x_preferred":[
         "Abu Kamal"
@@ -139,6 +154,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0628\u0648 \u06a9\u0645\u0627\u0644"
     ],
+    "name:vie_x_preferred":[
+        "Abu Kamal"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u51f1\u99ac\u52d2"
     ],
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":1108779185,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1636500548,
     "wof:name":"Abu Kamal",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

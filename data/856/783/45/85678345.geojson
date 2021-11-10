@@ -52,6 +52,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0442\u0430\u043a\u0456\u044f"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09a4\u09cd\u09a4\u09be\u0995\u09bf\u09df\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0442\u0430\u043a\u0438\u044f"
     ],
@@ -430,7 +433,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896095,
+    "wof:lastmodified":1636500543,
     "wof:name":"Lattakia",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
