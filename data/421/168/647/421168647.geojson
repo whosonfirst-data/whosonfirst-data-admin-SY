@@ -42,6 +42,9 @@
     "name:ava_x_preferred":[
         "\u0425\u0406\u0443\u043c\u0441"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0645\u0635"
+    ],
     "name:aze_x_preferred":[
         "Homs"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:che_x_preferred":[
         "\u0425\u044c\u043e\u043c\u0441"
+    ],
+    "name:che_x_variant":[
+        "\u0425\u044c\u0430\u043c\u0441"
     ],
     "name:chv_x_preferred":[
         "\u0425\u043e\u043c\u0441"
@@ -150,6 +156,9 @@
     "name:hyw_x_preferred":[
         "\u0540\u0578\u0574\u057d"
     ],
+    "name:ido_x_preferred":[
+        "Homs"
+    ],
     "name:ile_x_preferred":[
         "Homs"
     ],
@@ -225,6 +234,9 @@
     "name:nor_x_preferred":[
         "Homs"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u043e\u043c\u0441"
+    ],
     "name:pan_x_preferred":[
         "\u0a39\u0a3f\u0a2e\u0a38"
     ],
@@ -252,6 +264,12 @@
     "name:slk_x_preferred":[
         "Homs"
     ],
+    "name:slv_x_preferred":[
+        "Homs"
+    ],
+    "name:som_x_preferred":[
+        "Ximsa"
+    ],
     "name:spa_x_preferred":[
         "Homs"
     ],
@@ -260,6 +278,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043c\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Homs"
     ],
     "name:swe_x_preferred":[
         "Homs"
@@ -276,6 +297,9 @@
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c2e\u0c4d\u0c38\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b2\u043e\u043c\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Homs"
     ],
@@ -284,6 +308,9 @@
     ],
     "name:tur_x_preferred":[
         "Humus"
+    ],
+    "name:uig_x_preferred":[
+        "\u06be\u0649\u0645\u0633"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043c\u0441"
@@ -294,6 +321,9 @@
     "name:uzb_x_preferred":[
         "Hims"
     ],
+    "name:vec_x_preferred":[
+        "Homs"
+    ],
     "name:vep_x_preferred":[
         "Homs"
     ],
@@ -303,8 +333,14 @@
     "name:war_x_preferred":[
         "Homs"
     ],
+    "name:wuu_x_preferred":[
+        "\u970d\u59c6\u65af"
+    ],
     "name:xmf_x_preferred":[
         "\u10f0\u10dd\u10db\u10e1\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u8377\u59c6\u65af"
     ],
     "name:zho_x_preferred":[
         "\u970d\u59c6\u65af"
@@ -428,8 +464,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        1108779211,
-        85678367
+        85678367,
+        1108779211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -456,7 +492,7 @@
         }
     ],
     "wof:id":421168647,
-    "wof:lastmodified":1610153038,
+    "wof:lastmodified":1690867861,
     "wof:megacity":1,
     "wof:name":"\u062d\u0645\u0635",
     "wof:parent_id":1108779211,

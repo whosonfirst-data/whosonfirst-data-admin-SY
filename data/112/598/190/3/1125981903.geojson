@@ -28,6 +28,15 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0628\u0627\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "al-Bab"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u0431"
+    ],
     "name:cat_x_preferred":[
         "Al-Bab"
     ],
@@ -37,8 +46,14 @@
     "name:ces_x_preferred":[
         "Al-B\u00e1b"
     ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0644\u0628\u0627\u0628"
+    ],
     "name:deu_x_preferred":[
         "Al-Bab"
+    ],
+    "name:diq_x_preferred":[
+        "El-Bab"
     ],
     "name:eng_x_preferred":[
         "al-Bab"
@@ -54,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Al-Bab"
+    ],
+    "name:gle_x_preferred":[
+        "al-Bab"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d1\u05d0\u05d1"
@@ -115,6 +133,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0628"
     ],
+    "name:vec_x_preferred":[
+        "Al-Bab"
+    ],
     "name:vie_x_preferred":[
         "Al-Bab"
     ],
@@ -160,7 +181,7 @@
         }
     ],
     "wof:id":1125981903,
-    "wof:lastmodified":1566652219,
+    "wof:lastmodified":1690867882,
     "wof:name":"Al B\u0101b",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0627\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u1e28ar\u0101k"
+    ],
     "name:eng_x_preferred":[
         "Al-Hirak"
     ],
@@ -43,6 +49,9 @@
     "name:pol_x_preferred":[
         "Al-Harak"
     ],
+    "name:swe_x_preferred":[
+        "Al \u1e28ar\u0101k"
+    ],
     "name:tur_x_preferred":[
         "Hirak"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:und_x_variant":[
         "El Hr\u00e2k"
+    ],
+    "name:uzb_x_preferred":[
+        "Harakatchanlik"
     ],
     "name:vie_x_preferred":[
         "Al-Hirak"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":890428813,
-    "wof:lastmodified":1566652215,
+    "wof:lastmodified":1690867877,
     "wof:name":"Al \u1e28ar\u0101k",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

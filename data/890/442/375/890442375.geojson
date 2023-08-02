@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Douma"
+    ],
     "name:aze_x_preferred":[
         "Duma"
     ],
@@ -46,8 +52,17 @@
     "name:ces_x_preferred":[
         "D\u00fam\u00e1"
     ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Duma"
+    ],
     "name:deu_x_preferred":[
         "Duma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Douma"
@@ -62,6 +77,9 @@
         "Duma"
     ],
     "name:fra_x_preferred":[
+        "Douma"
+    ],
+    "name:gle_x_preferred":[
         "Douma"
     ],
     "name:heb_x_preferred":[
@@ -100,6 +118,9 @@
     "name:nno_x_preferred":[
         "Douma i Syria"
     ],
+    "name:nob_x_preferred":[
+        "Douma"
+    ],
     "name:pol_x_preferred":[
         "Duma"
     ],
@@ -135,6 +156,9 @@
     ],
     "name:urd_x_variant":[
         "\u062f\u0648\u0645\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Duma"
     ],
     "name:vie_x_preferred":[
         "Douma"
@@ -267,7 +291,7 @@
         }
     ],
     "wof:id":890442375,
-    "wof:lastmodified":1636500550,
+    "wof:lastmodified":1690867878,
     "wof:name":"Douma",
     "wof:parent_id":1108779079,
     "wof:placetype":"locality",

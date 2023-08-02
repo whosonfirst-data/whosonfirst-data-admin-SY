@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u064a\u062f\u0646\u0627\u064a\u0627"
+    ],
     "name:deu_x_preferred":[
         "Saidnaya"
     ],
@@ -29,11 +32,17 @@
     "name:fas_x_preferred":[
         "\u0635\u06cc\u062f\u0646\u0627\u06cc\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Saidnaya"
+    ],
     "name:fra_x_preferred":[
         "Seidnaya"
     ],
     "name:fry_x_preferred":[
         "Saidnaya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e2\u05d9\u05d3\u05e0\u05d0\u05d9\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0575\u0564\u0576\u0561\u0575\u0561"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421190461,
-    "wof:lastmodified":1566652208,
+    "wof:lastmodified":1690867868,
     "wof:name":"Saydnaya",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

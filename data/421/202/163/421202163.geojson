@@ -50,6 +50,9 @@
     "name:aze_x_preferred":[
         "H\u0259l\u0259b"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u043b\u0435\u043f\u043f\u043e"
+    ],
     "name:bcl_x_preferred":[
         "Aleppo"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0410\u043b\u0435\u043f\u043f\u043e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062d\u06d5\u0644\u06d5\u0628"
     ],
     "name:cym_x_preferred":[
         "Aleppo"
@@ -151,6 +157,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0ac7\u0aaa\u0acd\u0aaa\u0acb"
+    ],
+    "name:hau_x_preferred":[
+        "Aleppo"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d0\u05dc\u05d1"
@@ -248,8 +257,14 @@
     "name:mar_x_preferred":[
         "\u0905\u0932\u0947\u092a\u094d\u092a\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043b\u044d\u043f\u043f\u043e"
+    ],
     "name:mhr_x_preferred":[
         "\u0425\u0430\u043b\u0435\u0431"
+    ],
+    "name:mlt_x_preferred":[
+        "Aleppo"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u043b\u0435\u0431 \u0445\u043e\u0442"
@@ -260,8 +275,14 @@
     "name:mya_x_preferred":[
         "\u1021\u101a\u103a\u101c\u1000\u103a\u1015\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:mzn_x_preferred":[
+        "\u062d\u0644\u0628"
+    ],
     "name:nan_x_preferred":[
         "Aleppo"
+    ],
+    "name:nav_x_preferred":[
+        "H\u00f3k\u02bc\u0105\u0301\u0105\u0301\u02bc Bine\u02bcadziihii"
     ],
     "name:nld_x_preferred":[
         "Aleppo"
@@ -280,6 +301,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0425\u0430\u043b\u0435\u0431"
+    ],
+    "name:oss_x_variant":[
+        "\u0410\u043b\u0435\u043f\u043f\u043e"
     ],
     "name:pan_x_preferred":[
         "\u0a39\u0a32\u0a2c"
@@ -307,6 +331,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043f\u043f\u043e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c5e\u1c6e\u1c6f\u1c6f\u1c73"
     ],
     "name:scn_x_preferred":[
         "Aleppu"
@@ -362,8 +389,14 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e30\u0e40\u0e25\u0e1b\u0e42\u0e1b"
     ],
+    "name:tuk_x_preferred":[
+        "Halap"
+    ],
     "name:tur_x_preferred":[
         "Halep"
+    ],
+    "name:uig_x_preferred":[
+        "\u06be\u06d5\u0644\u06d5\u0628"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043f\u043f\u043e"
@@ -373,6 +406,9 @@
     ],
     "name:uzb_x_preferred":[
         "Halab"
+    ],
+    "name:vec_x_preferred":[
+        "Aleppo"
     ],
     "name:vie_x_preferred":[
         "Aleppo"
@@ -514,8 +550,8 @@
     "wof:belongsto":[
         102191569,
         85632413,
-        1108779121,
-        85678359
+        85678359,
+        1108779121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -542,7 +578,7 @@
         }
     ],
     "wof:id":421202163,
-    "wof:lastmodified":1610153038,
+    "wof:lastmodified":1690867864,
     "wof:megacity":1,
     "wof:name":"\u062d\u0644\u0628",
     "wof:parent_id":1108779121,

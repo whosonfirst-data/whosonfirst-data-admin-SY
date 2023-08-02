@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0631\u0641\u0639\u062a"
     ],
+    "name:ceb_x_preferred":[
+        "Tall Rif\u2018at"
+    ],
     "name:deu_x_preferred":[
         "Tall Rifaat"
     ],
@@ -43,6 +46,12 @@
     "name:hun_x_preferred":[
         "Tell Rifaat"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u056c-\u054c\u056b\u0586\u0561\u0564"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30fb\u30ea\u30d5\u30a1\u30fc\u30c8"
+    ],
     "name:kur_x_preferred":[
         "Til Rifat"
     ],
@@ -57,6 +66,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u043b\u044c-\u0420\u0438\u0444\u044a\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Tal Rifaat"
+    ],
+    "name:swe_x_preferred":[
+        "Tall Rif\u2018at"
     ],
     "name:tur_x_preferred":[
         "Tel R\u0131f'at"
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":890449827,
-    "wof:lastmodified":1566652210,
+    "wof:lastmodified":1690867872,
     "wof:name":"Tall Rif\u2018at",
     "wof:parent_id":1108779117,
     "wof:placetype":"locality",

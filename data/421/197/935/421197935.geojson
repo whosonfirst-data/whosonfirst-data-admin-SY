@@ -23,11 +23,17 @@
     "name:ara_x_preferred":[
         "\u062a\u062f\u0645\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u062f\u0645\u0631"
+    ],
     "name:ast_x_preferred":[
         "Palmira"
     ],
     "name:aze_x_preferred":[
         "Palmira"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
@@ -59,6 +65,9 @@
     "name:cym_x_preferred":[
         "Palmyra"
     ],
+    "name:dag_x_preferred":[
+        "Palmyra"
+    ],
     "name:dan_x_preferred":[
         "Palmyra"
     ],
@@ -77,11 +86,17 @@
     "name:epo_x_variant":[
         "Palmira"
     ],
+    "name:est_x_preferred":[
+        "Palmyra"
+    ],
     "name:eus_x_preferred":[
         "Palmira"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
+    "name:fat_x_preferred":[
+        "Palmyra"
     ],
     "name:fin_x_preferred":[
         "Palmyra"
@@ -89,11 +104,17 @@
     "name:fra_x_preferred":[
         "Palmyre"
     ],
+    "name:frp_x_preferred":[
+        "Palmyra"
+    ],
     "name:gle_x_preferred":[
         "Palmyra"
     ],
     "name:glg_x_preferred":[
         "Palmira"
+    ],
+    "name:gur_x_preferred":[
+        "Palmyra"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05d3\u05de\u05d5\u05e8"
@@ -113,8 +134,17 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u056c\u0574\u056b\u0580\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0561\u056c\u0574\u056b\u0580\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Palmyra"
+    ],
     "name:ind_x_preferred":[
         "Palmyra"
+    ],
+    "name:ind_x_variant":[
+        "Tadmur"
     ],
     "name:isl_x_preferred":[
         "Palm\u00fdra"
@@ -137,6 +167,9 @@
     "name:kor_x_preferred":[
         "\ud314\ubbf8\ub77c"
     ],
+    "name:kur_x_preferred":[
+        "Palm\u00eera"
+    ],
     "name:lat_x_preferred":[
         "Palmyra"
     ],
@@ -157,6 +190,9 @@
     ],
     "name:mlg_x_preferred":[
         "Palmyra"
+    ],
+    "name:msa_x_preferred":[
+        "Tadmur"
     ],
     "name:mya_x_preferred":[
         "\u1015\u102b\u1038\u101c\u103a\u1019\u102d\u102f\u1004\u103a\u101a\u102c\u1019\u103c\u102d\u102f\u1037"
@@ -182,6 +218,9 @@
     "name:nob_x_preferred":[
         "Palmyra"
     ],
+    "name:oci_x_preferred":[
+        "Palmira"
+    ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a3e\u0a32\u0a2e\u0a40\u0a30\u0a3e"
     ],
@@ -199,6 +238,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c5e\u1c62\u1c5f\u1c6d\u1c68\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Palmira"
@@ -236,6 +278,9 @@
     "name:tur_x_preferred":[
         "Palmira"
     ],
+    "name:twi_x_preferred":[
+        "Palmyra"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
     ],
@@ -254,8 +299,14 @@
     "name:war_x_preferred":[
         "Palmyra"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c14\u7c73\u62c9"
+    ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e15\u7c73\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u7c73\u62c9"
@@ -400,7 +451,7 @@
         }
     ],
     "wof:id":421197935,
-    "wof:lastmodified":1566652208,
+    "wof:lastmodified":1690867869,
     "wof:name":"\u062a\u062f\u0645\u0631",
     "wof:parent_id":1108779085,
     "wof:placetype":"locality",

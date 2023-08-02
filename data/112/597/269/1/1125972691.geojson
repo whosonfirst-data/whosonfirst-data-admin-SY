@@ -25,8 +25,20 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062d\u0627\u0641\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u062d\u0627\u0641\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Dayr Hafir"
+    ],
+    "name:cat_x_preferred":[
+        "Dair Hafir"
+    ],
     "name:ceb_x_preferred":[
         "Dayr \u1e28\u0101fir"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06ce\u0631 \u062d\u0627\u0641\u0631"
     ],
     "name:deu_x_preferred":[
         "Dair Hafir"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125972691,
-    "wof:lastmodified":1566652216,
+    "wof:lastmodified":1690867879,
     "wof:name":"Dayr \u1e28\u0101fir",
     "wof:parent_id":1108779161,
     "wof:placetype":"locality",

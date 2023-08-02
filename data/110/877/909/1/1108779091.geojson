@@ -64,6 +64,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10da-\u10d9\u10e3\u10e1\u10d4\u10d8\u10e0\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
     ],
+    "name:nan_x_preferred":[
+        "Al-Qusayr Ko\u0101n"
+    ],
     "name:nno_x_preferred":[
         "Al-Qusayr-distriktet"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108779091,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1690867857,
     "wof:name":"Al-Qusayr",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

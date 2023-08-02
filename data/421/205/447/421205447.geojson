@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0641\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u0641\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Tafas"
+    ],
     "name:ceb_x_preferred":[
         "\u0162afas"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0444\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Tafas"
     ],
     "name:swe_x_preferred":[
         "\u0162afas"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421205447,
-    "wof:lastmodified":1566652204,
+    "wof:lastmodified":1690867864,
     "wof:name":"Tafas",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

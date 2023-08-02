@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0641\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0641\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Haffah"
+    ],
     "name:eng_x_preferred":[
         "Al-Haffah"
     ],
@@ -74,6 +80,9 @@
     "name:vie_x_preferred":[
         "Al-Haffah"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u6cd5\u9547"
+    ],
     "qs:gn_country":"SY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":4544,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421192437,
-    "wof:lastmodified":1566652201,
+    "wof:lastmodified":1690867861,
     "wof:name":"Al haffah",
     "wof:parent_id":1108779163,
     "wof:placetype":"locality",

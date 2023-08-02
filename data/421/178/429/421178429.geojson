@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0644\u0628\u064a\u0633\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644\u0628\u064a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Tallb\u012bsah"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421178429,
-    "wof:lastmodified":1566652210,
+    "wof:lastmodified":1690867871,
     "wof:name":"Talbisah",
     "wof:parent_id":1108779171,
     "wof:placetype":"locality",

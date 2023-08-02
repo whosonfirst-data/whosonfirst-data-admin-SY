@@ -25,20 +25,38 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Nabek"
+    ],
     "name:ceb_x_preferred":[
         "An Nabk"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0644\u0646\u06d5\u0628\u06a9"
     ],
     "name:deu_x_preferred":[
         "an-Nabk"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd-\u039d\u03b1\u03bc\u03c0\u03ba"
+    ],
     "name:eng_x_preferred":[
         "An-Nabk"
+    ],
+    "name:eng_x_variant":[
+        "Al-Nabek"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0646\u0628\u06a9"
     ],
     "name:fra_x_preferred":[
         "An-Nabk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e0\u05d0\u05d1\u05e7"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056c-\u0546\u0561\u0562\u0584"
@@ -63,6 +81,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u043d-\u041d\u0435\u0431\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u043d-\u041d\u0430\u0431\u043a"
     ],
     "name:sco_x_preferred":[
         "An-Nabk"
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":1125978283,
-    "wof:lastmodified":1636500551,
+    "wof:lastmodified":1690867879,
     "wof:name":"An Nabk",
     "wof:parent_id":1108779095,
     "wof:placetype":"locality",

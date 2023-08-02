@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "District de Masyaf"
     ],
+    "name:hrv_x_preferred":[
+        "Masyaf"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u057d\u0575\u0561\u0586\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e1\u10d8\u10d0\u10e4\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Masyaf Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Masyaf"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108779135,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1690867858,
     "wof:name":"Masyaf",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

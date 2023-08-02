@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Tell Ain Dara"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u0390\u03bd \u039d\u03c4\u03ac\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ain Dara"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421177357,
-    "wof:lastmodified":1566652209,
+    "wof:lastmodified":1690867870,
     "wof:name":"Ayn Darah",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",

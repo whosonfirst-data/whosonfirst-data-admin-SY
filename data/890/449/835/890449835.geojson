@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0642\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0642\u064a\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Salq\u012bn"
     ],
     "name:deu_x_preferred":[
         "Salqin"
+    ],
+    "name:deu_x_variant":[
+        "Salkin"
     ],
     "name:eng_x_preferred":[
         "Salqin"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890449835,
-    "wof:lastmodified":1566652212,
+    "wof:lastmodified":1690867874,
     "wof:name":"Salq\u012bn",
     "wof:parent_id":1108779159,
     "wof:placetype":"locality",

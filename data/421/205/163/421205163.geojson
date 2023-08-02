@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0633\u0644\u0645\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0645\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Salamiyah"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0456\u044f"
     ],
@@ -32,8 +38,14 @@
     "name:ceb_x_preferred":[
         "As Salam\u012byah"
     ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06d5\u0644\u06d5\u0645\u06cc\u06d5"
+    ],
     "name:deu_x_preferred":[
         "Salamiyya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03b1\u03bc\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Salamiyah"
@@ -49,6 +61,9 @@
     ],
     "name:fra_x_preferred":[
         "Salamyeh"
+    ],
+    "name:gle_x_preferred":[
+        "Salamiyah"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05de\u05d9\u05d4"
@@ -104,6 +119,9 @@
     "name:spa_x_preferred":[
         "Salamiyeh"
     ],
+    "name:spa_x_variant":[
+        "Salam\u00ede"
+    ],
     "name:swe_x_preferred":[
         "as-Salamiyya"
     ],
@@ -112,6 +130,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0645\u06cc\u06c1"
+    ],
+    "name:vec_x_preferred":[
+        "Salamiyya"
     ],
     "name:zho_x_preferred":[
         "\u585e\u840a\u7c73\u8036"
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":421205163,
-    "wof:lastmodified":1566652204,
+    "wof:lastmodified":1690867864,
     "wof:name":"Salamiyah",
     "wof:parent_id":1108779101,
     "wof:placetype":"locality",

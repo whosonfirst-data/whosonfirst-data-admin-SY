@@ -39,6 +39,9 @@
     "name:arc_x_preferred":[
         "\u071a\u0720\u0712"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0644\u0628"
+    ],
     "name:ast_x_preferred":[
         "Gobernaci\u00f3n d'Aleppo"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:aze_x_preferred":[
         "H\u0259l\u0259b m\u00fchafazas\u0131"
+    ],
+    "name:aze_x_variant":[
+        "H\u0259l\u0259b m\u00fchaf\u0259z\u0259si"
     ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u043b\u0435\u0431"
@@ -94,6 +100,9 @@
     "name:epo_x_preferred":[
         "Gubernio Alepo"
     ],
+    "name:epo_x_variant":[
+        "Gubernio Halepo"
+    ],
     "name:eus_x_preferred":[
         "Alepo eskualdea"
     ],
@@ -115,11 +124,17 @@
     "name:hin_x_preferred":[
         "\u0939\u0932\u092c \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Pokrajina Alep"
+    ],
     "name:hun_x_preferred":[
         "Alepp\u00f3 korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u056c\u0565\u057a\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0561\u056c\u0567\u057a\u056b \u0546\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Aleppo"
@@ -153,6 +168,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062d\u0644\u0628"
+    ],
+    "name:nan_x_preferred":[
+        "Aleppo S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Aleppo"
@@ -197,6 +215,9 @@
     "name:swe_x_preferred":[
         "Aleppo"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bc6\u0baa\u0bcd\u0baa\u0bcb \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b2\u0430\u043b\u0430\u0431"
     ],
@@ -217,6 +238,9 @@
     ],
     "name:vie_x_preferred":[
         "Aleppo"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u52d2\u9817"
     ],
     "name:zho_x_preferred":[
         "\u963f\u52d2\u9887"
@@ -346,7 +370,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636500543,
+    "wof:lastmodified":1690867851,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

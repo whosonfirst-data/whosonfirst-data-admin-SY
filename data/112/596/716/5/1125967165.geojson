@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0648\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0631\u0648\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Jayrud"
+    ],
     "name:ceb_x_preferred":[
         "Jayr\u016bd"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06d5\u06cc\u0631\u0648\u062f"
     ],
     "name:eng_x_preferred":[
         "Jayrud"
@@ -36,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Jayrud"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0575\u0580\u0578\u0582\u0564"
     ],
     "name:nld_x_preferred":[
         "Jayrud"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1125967165,
-    "wof:lastmodified":1566652219,
+    "wof:lastmodified":1690867882,
     "wof:name":"Jayr\u016bd",
     "wof:parent_id":1108779167,
     "wof:placetype":"locality",

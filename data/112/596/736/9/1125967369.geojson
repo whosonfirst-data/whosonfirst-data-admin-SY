@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0628\u0644\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u0628\u0644\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Jarabulus"
+    ],
     "name:azb_x_preferred":[
         "\u062c\u0631\u0627\u0628\u0644\u0648\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u044d\u0440\u0430\u0431\u043b\u0443\u0441"
     ],
     "name:cat_x_preferred":[
         "Jarablus"
@@ -45,6 +54,9 @@
     ],
     "name:diq_x_preferred":[
         "Cerablus"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03c1\u03ac\u03bc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Jarabulus"
@@ -151,7 +163,7 @@
         }
     ],
     "wof:id":1125967369,
-    "wof:lastmodified":1566652217,
+    "wof:lastmodified":1690867880,
     "wof:name":"Jar\u0101bulus",
     "wof:parent_id":1108779119,
     "wof:placetype":"locality",

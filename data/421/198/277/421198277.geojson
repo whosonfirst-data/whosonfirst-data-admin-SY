@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0634\u064a\u062e \u0645\u0633\u0643\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0645\u0633\u0643\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Ash Shaykh Misk\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Al-Shaykh Maskin"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:rus_x_variant":[
         "\u0428\u0430\u0439\u0445-\u041c\u0430\u0441\u043a\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ash Shaykh Misk\u012bn"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0448-\u0428\u0435\u0439\u0445-\u041c\u0430\u0441\u043a\u0456\u043d"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421198277,
-    "wof:lastmodified":1566652204,
+    "wof:lastmodified":1690867865,
     "wof:name":"Shaykh Miskin",
     "wof:parent_id":1108779177,
     "wof:placetype":"locality",

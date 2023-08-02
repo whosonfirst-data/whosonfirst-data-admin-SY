@@ -25,14 +25,29 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Jableh"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259bl\u0259"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0436\u0435\u0431\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "Gabala"
     ],
+    "name:cat_x_variant":[
+        "Jableh"
+    ],
     "name:ceb_x_preferred":[
         "Jablah"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06d5\u0628\u0644\u06d5"
     ],
     "name:deu_x_preferred":[
         "Dschabla"
@@ -82,8 +97,14 @@
     "name:kor_x_preferred":[
         "\uc790\ube14\ub77c"
     ],
+    "name:lat_x_preferred":[
+        "Gabala"
+    ],
     "name:lit_x_preferred":[
         "D\u017eebla"
+    ],
+    "name:msa_x_preferred":[
+        "Jableh"
     ],
     "name:mzn_x_preferred":[
         "\u062c\u0628\u0644\u0647"
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1125967423,
-    "wof:lastmodified":1566652219,
+    "wof:lastmodified":1690867882,
     "wof:name":"Jablah",
     "wof:parent_id":1108779131,
     "wof:placetype":"locality",

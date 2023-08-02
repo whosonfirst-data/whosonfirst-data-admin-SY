@@ -37,6 +37,9 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633",
         "\u0645\u064f\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u0637\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0647 \u0637\u0631\u0637\u0648\u0633"
+    ],
     "name:azb_x_preferred":[
         "\u0637\u0631\u0637\u0648\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -44,7 +47,8 @@
         "Tartus"
     ],
     "name:aze_x_variant":[
-        "T\u0259rtus m\u00fchafazas\u0131"
+        "T\u0259rtus m\u00fchafazas\u0131",
+        "T\u0259rtus m\u00fchaf\u0259z\u0259si"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0440\u0442\u0443\u0441"
@@ -99,6 +103,9 @@
     ],
     "name:epo_x_variant":[
         "Gubernio Tartus"
+    ],
+    "name:est_x_preferred":[
+        "\u0162ar\u0163\u016bsi provints"
     ],
     "name:eus_x_preferred":[
         "Tartus"
@@ -193,6 +200,9 @@
     "name:mzn_x_preferred":[
         "\u0637\u0631\u0637\u0648\u0633"
     ],
+    "name:nan_x_preferred":[
+        "Tartus S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Tartous"
     ],
@@ -250,6 +260,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbe\u0bb0\u0bcd\u0b9f\u0bb8\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c38\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
@@ -276,6 +289,9 @@
     ],
     "name:vie_x_preferred":[
         "Tartus"
+    ],
+    "name:yue_x_preferred":[
+        "\u4ed6\u5716\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5c14\u56fe\u65af"
@@ -411,7 +427,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896096,
+    "wof:lastmodified":1690867854,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

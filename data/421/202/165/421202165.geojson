@@ -43,6 +43,9 @@
     "name:arg_x_preferred":[
         "Dom\u00e1s"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u064a\u0645\u0634\u0642"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0645\u0634\u0642"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0448\u043a\u044a"
+    ],
+    "name:awa_x_preferred":[
+        "\u0926\u092e\u093f\u0936\u094d\u0915"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0645\u0634\u0642"
@@ -123,6 +129,12 @@
     ],
     "name:cor_x_preferred":[
         "Damask"
+    ],
+    "name:cos_x_preferred":[
+        "Damascu"
+    ],
+    "name:crh_x_preferred":[
+        "Dime\u015fq"
     ],
     "name:cym_x_preferred":[
         "Damascus"
@@ -237,6 +249,9 @@
     ],
     "name:hsb_x_preferred":[
         "Damask"
+    ],
+    "name:hsb_x_variant":[
+        "Damaskus"
     ],
     "name:hun_x_preferred":[
         "Damaszkusz"
@@ -358,8 +373,14 @@
     "name:mar_x_preferred":[
         "\u0926\u092e\u093e\u0938\u094d\u0915\u0938"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
+    "name:min_x_preferred":[
+        "Damaskus"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
@@ -367,8 +388,14 @@
     "name:mlg_x_preferred":[
         "Damaskosy"
     ],
+    "name:mlt_x_preferred":[
+        "Damask"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
+    "name:mri_x_preferred":[
+        "Ramahiku"
     ],
     "name:msa_x_preferred":[
         "Damsyik"
@@ -387,6 +414,9 @@
     ],
     "name:nan_x_preferred":[
         "Damascus"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3niy\u0119\u0119sh\u00ed"
     ],
     "name:nds_x_preferred":[
         "Damaskus"
@@ -487,6 +517,9 @@
     "name:sin_x_preferred":[
         "\u0daf\u0db8\u0dc3\u0dca\u0d9a\u0dc3\u0dca"
     ],
+    "name:skr_x_preferred":[
+        "\u062f\u0645\u0634\u0642"
+    ],
     "name:slk_x_preferred":[
         "Damask"
     ],
@@ -510,6 +543,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
+    "name:sun_x_preferred":[
+        "Damaskus"
     ],
     "name:swa_x_preferred":[
         "Dameski"
@@ -553,6 +589,9 @@
     "name:twi_x_preferred":[
         "Damascus"
     ],
+    "name:udm_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    ],
     "name:uig_x_preferred":[
         "\u062f\u06d5\u0645\u06d5\u0634\u0649\u0642"
     ],
@@ -564,6 +603,9 @@
     ],
     "name:uzb_x_preferred":[
         "Damashq"
+    ],
+    "name:vec_x_preferred":[
+        "Damasco"
     ],
     "name:vep_x_preferred":[
         "Damask"
@@ -582,6 +624,9 @@
     ],
     "name:war_x_variant":[
         "Damascus"
+    ],
+    "name:wln_x_preferred":[
+        "Damasse"
     ],
     "name:wuu_x_preferred":[
         "\u5927\u9a6c\u58eb\u9769"
@@ -760,7 +805,7 @@
         }
     ],
     "wof:id":421202165,
-    "wof:lastmodified":1636500550,
+    "wof:lastmodified":1690867863,
     "wof:megacity":1,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
