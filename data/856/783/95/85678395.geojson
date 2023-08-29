@@ -36,11 +36,17 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0647 \u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0646\u06cc\u0637\u0631\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "\u018fl-Q\u00fcneytr\u0259 m\u00fchafazas\u0131"
+    ],
+    "name:aze_x_variant":[
+        "\u018fl-Q\u00fcneytir\u0259 m\u00fchaf\u0259z\u0259si"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a8\u09bf\u09a4\u09cd\u09b0\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
@@ -101,6 +107,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093c\u0941\u0928\u0947\u0907\u0924\u094d\u0930\u093e\u0939\u200b \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Quneitra"
+    ],
     "name:hun_x_preferred":[
         "Quneitra"
     ],
@@ -142,6 +151,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0646\u06cc\u0637\u0631\u0647"
+    ],
+    "name:nan_x_preferred":[
+        "Quneitra S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Quneitra"
@@ -215,8 +227,17 @@
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0642\u0646\u06cc\u0637\u0631\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0642\u0646\u06cc\u0637\u0631\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Quneitra"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u5948\u7279\u62c9\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u53e4\u5948\u7279\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5e93\u5948\u7279\u62c9\u7701"
@@ -352,7 +373,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636500543,
+    "wof:lastmodified":1690867851,
     "wof:name":"Quneitra",
     "wof:parent_id":85632221,
     "wof:placetype":"region",

@@ -23,11 +23,20 @@
     "name:arc_x_preferred":[
         "\u0715\u072a\u0725\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0639\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Daraa"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0631\u0639\u0627"
     ],
     "name:aze_x_preferred":[
         "Dera"
+    ],
+    "name:aze_x_variant":[
+        "D\u0259ra"
     ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u0440\u2019\u0430"
@@ -52,6 +61,9 @@
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u0440\u04c0\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06d5\u0631\u0639\u0627"
     ],
     "name:dan_x_preferred":[
         "Daraa"
@@ -88,6 +100,9 @@
     ],
     "name:fra_x_preferred":[
         "Deraa"
+    ],
+    "name:gle_x_preferred":[
+        "Daraa"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0ab0\u0abe"
@@ -155,6 +170,9 @@
     "name:nor_x_preferred":[
         "Dar\u02bf\u0101"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0430\u0440\u044a\u0430"
+    ],
     "name:pol_x_preferred":[
         "Dara"
     ],
@@ -191,6 +209,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c30\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u0440\u044a\u043e"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e23\u0e32\u0e14\u0e39\u0e19"
     ],
@@ -200,6 +221,9 @@
     "name:tur_x_preferred":[
         "Dera"
     ],
+    "name:uig_x_preferred":[
+        "\u062f\u06d5\u0631\u0626\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430"
     ],
@@ -208,6 +232,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0631\u0639\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Dar\u02bco"
+    ],
+    "name:vec_x_preferred":[
+        "Dar'a"
     ],
     "name:vie_x_preferred":[
         "Daraa"
@@ -265,7 +295,7 @@
         }
     ],
     "wof:id":421197257,
-    "wof:lastmodified":1566652208,
+    "wof:lastmodified":1690867869,
     "wof:name":"Dar a",
     "wof:parent_id":1108779077,
     "wof:placetype":"locality",

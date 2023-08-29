@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u062f\u0627\u0631\u0629 \u0639\u0632\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0631\u0629 \u0639\u0632\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Darat Izza"
+    ],
+    "name:deu_x_preferred":[
+        "Dar Taizzah"
+    ],
     "name:eng_x_preferred":[
         "Darat Izza"
     ],
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421176103,
-    "wof:lastmodified":1566652210,
+    "wof:lastmodified":1690867872,
     "wof:name":"Dar Ta izzah",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",

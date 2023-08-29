@@ -67,6 +67,9 @@
     "name:mzn_x_preferred":[
         "\u062f\u0648\u0645\u0627"
     ],
+    "name:nan_x_preferred":[
+        "Douma Ko\u0101n"
+    ],
     "name:nno_x_preferred":[
         "Douma-distriktet"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108779079,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1690867857,
     "wof:name":"Duma",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

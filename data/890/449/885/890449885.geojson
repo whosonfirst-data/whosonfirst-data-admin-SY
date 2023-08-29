@@ -22,6 +22,21 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Tall"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Tall"
+    ],
+    "name:ceb_x_preferred":[
+        "At Tall"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0644\u062a\u06d5\u0644"
+    ],
     "name:deu_x_preferred":[
         "At-Tall"
     ],
@@ -61,6 +76,15 @@
     "name:sco_x_preferred":[
         "Al-Tall"
     ],
+    "name:swe_x_preferred":[
+        "At Tall"
+    ],
+    "name:szl_x_preferred":[
+        "At-Tall"
+    ],
+    "name:tur_x_preferred":[
+        "El-Tel"
+    ],
     "name:und_x_variant":[
         "Ett Tell"
     ],
@@ -72,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Al-Tall"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14-\u6cf0\u52d2"
     ],
     "qs:name":"At Tall",
     "qs:photos_9r":0,
@@ -106,7 +133,7 @@
         }
     ],
     "wof:id":890449885,
-    "wof:lastmodified":1566652213,
+    "wof:lastmodified":1690867876,
     "wof:name":"At Tall",
     "wof:parent_id":1108779105,
     "wof:placetype":"locality",

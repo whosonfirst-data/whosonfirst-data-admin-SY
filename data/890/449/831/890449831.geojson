@@ -52,6 +52,9 @@
     "name:pol_x_preferred":[
         "Suran"
     ],
+    "name:ron_x_preferred":[
+        "Suran"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0440\u0430\u043d"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890449831,
-    "wof:lastmodified":1566652214,
+    "wof:lastmodified":1690867877,
     "wof:name":"Souran",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",

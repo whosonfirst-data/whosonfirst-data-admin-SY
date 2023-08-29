@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0646\u06cc\u0637\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Quneitra"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0646\u06cc\u0637\u0631\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u00fcneytir\u0259"
     ],
     "name:cat_x_preferred":[
         "Quneitra"
@@ -40,11 +49,17 @@
     "name:ces_x_preferred":[
         "Kunejtra"
     ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0648\u0646\u06d5\u06cc\u062a\u0631\u06d5"
+    ],
     "name:dan_x_preferred":[
         "Al-Qunaytirah"
     ],
     "name:deu_x_preferred":[
         "Quneitra"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03ad\u03b9\u03c4\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Quneitra"
@@ -100,6 +115,9 @@
     "name:nob_x_preferred":[
         "Quneitra"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u044a\u0443\u044b\u043d\u0435\u0442\u0440\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Al-Kunajtira"
     ],
@@ -124,11 +142,17 @@
     "name:swe_x_preferred":[
         "Al-Qunaytirah"
     ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0443\u043d\u0430\u0439\u0442\u0438\u0440\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e01\u0e38\u0e19\u0e31\u0e22\u0e0f\u0e34\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kuneytire"
+    ],
+    "name:uig_x_preferred":[
+        "\u0642\u06c7\u0646\u06d5\u064a\u062a\u0649\u0631\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0443\u043d\u0435\u0439\u0442\u0440\u0430"
@@ -138,6 +162,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0646\u06cc\u0637\u0631\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0642\u0646\u06cc\u0637\u0631\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Qunaytira"
+    ],
+    "name:yue_x_preferred":[
+        "\u53e4\u5948\u7279\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u5948\u7279\u62c9"
@@ -202,7 +235,7 @@
         }
     ],
     "wof:id":1125979117,
-    "wof:lastmodified":1566652217,
+    "wof:lastmodified":1690867880,
     "wof:name":"Al Qunay\u0163irah",
     "wof:parent_id":1108779081,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:arz_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Deir ez-Zor"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0631\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Deyr \u0259z-Z\u00f6vr"
     ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u0439\u0440-\u044d\u0437-\u0417\u043e\u0440"
@@ -46,6 +52,9 @@
     ],
     "name:ces_x_preferred":[
         "Dajr az-Zaur"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06ce\u0631\u06d5\u0632\u0648\u0648\u0631"
     ],
     "name:dan_x_preferred":[
         "Deir ez-Zor"
@@ -84,6 +93,9 @@
     "name:fra_x_preferred":[
         "Deir ez-Zor"
     ],
+    "name:gle_x_preferred":[
+        "Deir ez-Zor"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac7\u0a87\u0ab0 \u0a8f\u0a9d-\u0a9d\u0acb\u0ab0"
     ],
@@ -101,6 +113,9 @@
     ],
     "name:hye_x_variant":[
         "\u0534\u0565\u0575\u0580-\u0567\u056c-\u0536\u0578\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054f\u0567\u0580 \u0536\u0585\u0580 \u0554\u0561\u0572\u0561\u0584"
     ],
     "name:ind_x_preferred":[
         "Deir ez-Zor"
@@ -207,6 +222,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c2f\u0c30\u0c4d \u0c0e\u0c1c\u0c4d-\u0c1c\u0c4b\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u0439\u0440-\u0443\u0437-\u0417\u0430\u0432\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e35\u0e22 \u0e40\u0e2d\u0e0b-\u0e0b\u0e2d\u0e23\u0e4c"
     ],
@@ -215,6 +233,9 @@
     ],
     "name:tur_x_preferred":[
         "Deyrizor"
+    ],
+    "name:uig_x_preferred":[
+        "\u062f\u06d5\u064a\u0631\u06c7\u0632\u0632\u06d5\u06cb\u0631"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0439\u0440-\u0435\u0437-\u0417\u043e\u0440"
@@ -228,14 +249,26 @@
     "name:uzb_x_preferred":[
         "Dayr uz-Zur"
     ],
+    "name:uzb_x_variant":[
+        "Dayr uz-Zavr"
+    ],
+    "name:vec_x_preferred":[
+        "Deir el-Zor"
+    ],
     "name:vie_x_preferred":[
         "Deir ez-Zor"
     ],
     "name:war_x_preferred":[
         "Deir ez-Zor"
     ],
+    "name:wuu_x_preferred":[
+        "\u4ee3\u5c14\u7956\u5c14"
+    ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d4\u10d8\u10e0-\u10d4\u10d6-\u10d6\u10d0\u10d5\u10e0\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u4ee3\u723e\u7956\u723e"
     ],
     "name:zho_x_preferred":[
         "\u4ee3\u5c14\u7956\u5c14"
@@ -379,7 +412,7 @@
         }
     ],
     "wof:id":421202167,
-    "wof:lastmodified":1566652203,
+    "wof:lastmodified":1690867863,
     "wof:name":"\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
     "wof:parent_id":1108779157,
     "wof:placetype":"locality",

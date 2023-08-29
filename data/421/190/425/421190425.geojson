@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0645\u0631\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0645\u0631\u064a\u062a"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0440\u0438\u0442"
     ],
@@ -29,6 +32,9 @@
     "name:deu_x_preferred":[
         "Amrit"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03b8\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Amrit"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Amrit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05ea"
     ],
     "name:hun_x_preferred":[
         "Amr\u00edt"
@@ -55,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Marathos"
+    ],
+    "name:spa_x_variant":[
+        "Amrit"
     ],
     "name:swe_x_preferred":[
         "Amrit"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421190425,
-    "wof:lastmodified":1566652205,
+    "wof:lastmodified":1690867866,
     "wof:name":"Amrit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

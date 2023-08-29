@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0637\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0637\u0646\u0627"
+    ],
     "name:aze_x_preferred":[
         "Katana"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Qatana"
+    ],
+    "name:tur_x_preferred":[
+        "Katana"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0637\u0646\u0627"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125964903,
-    "wof:lastmodified":1566652217,
+    "wof:lastmodified":1690867880,
     "wof:name":"Qa\u0163an\u0101",
     "wof:parent_id":1108779139,
     "wof:placetype":"locality",

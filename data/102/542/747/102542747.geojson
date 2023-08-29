@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Kamishli"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Qamishli"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Qamischli"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Kameshli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e7\u05de\u05d9\u05e9\u05dc\u05d9"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u056b\u0577\u056c\u056b\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":102542747,
-    "wof:lastmodified":1631749912,
+    "wof:lastmodified":1690867849,
     "wof:name":"Kamishly Airport",
     "wof:parent_id":85678377,
     "wof:placetype":"campus",

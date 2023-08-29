@@ -67,6 +67,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10da-\u10f0\u10d0\u10e4\u10d8\u10e1 \u10db\u10d8\u10dc\u10e2\u10d0\u10d9\u10d0"
     ],
+    "name:nan_x_preferred":[
+        "Al-Haffah Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Al-Haffah"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108779163,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1690867859,
     "wof:name":"Al-Haffa",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

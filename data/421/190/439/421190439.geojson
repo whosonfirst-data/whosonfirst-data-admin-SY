@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Darayya"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u06cc\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Darayya"
     ],
     "name:ceb_x_preferred":[
         "D\u0101rayy\u0101"
@@ -29,8 +38,14 @@
     "name:ces_x_preferred":[
         "Dar\u00e1ja"
     ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u0631\u06d5\u06cc\u0627"
+    ],
     "name:deu_x_preferred":[
         "Darayya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Darayya"
@@ -52,6 +67,9 @@
     ],
     "name:ita_x_preferred":[
         "Darayya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30fc\u30e9\u30a4\u30e4\u30fc"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d0\u10e0\u10d0\u10d8\u10d0"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":421190439,
-    "wof:lastmodified":1566652206,
+    "wof:lastmodified":1690867867,
     "wof:name":"Daraya",
     "wof:parent_id":1108779107,
     "wof:placetype":"locality",

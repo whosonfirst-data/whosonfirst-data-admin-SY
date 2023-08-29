@@ -41,6 +41,9 @@
     "name:arc_x_preferred":[
         "\u071a\u0721\u072c"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0647 \u062d\u0645\u0627\u0647"
+    ],
     "name:ast_x_preferred":[
         "Gobernaci\u00f3n d'Hama"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:aze_x_preferred":[
         "H\u0259ma m\u00fchafazas\u0131"
+    ],
+    "name:aze_x_variant":[
+        "H\u0259ma m\u00fchaf\u0259z\u0259si"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
@@ -115,6 +121,9 @@
     "name:hin_x_preferred":[
         "\u0939\u092e\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Hama"
+    ],
     "name:hun_x_preferred":[
         "Ham\u00e1 korm\u00e1nyz\u00f3s\u00e1g"
     ],
@@ -159,6 +168,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062d\u0645\u0627\u0647"
+    ],
+    "name:nan_x_preferred":[
+        "Hama S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Hama"
@@ -208,11 +220,17 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bae\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
+    "name:tam_x_variant":[
+        "\u0bb9\u0bae\u0bbe \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c2e\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b2\u0430\u043c\u043e\u04b3"
+    ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b2\u0430\u043c\u043e"
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e32\u0e21\u0e32\u0e2b\u0e4c"
@@ -234,6 +252,9 @@
     ],
     "name:vie_x_preferred":[
         "Hama"
+    ],
+    "name:yue_x_preferred":[
+        "\u54c8\u99ac"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u99ac\u7701"
@@ -363,7 +384,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896095,
+    "wof:lastmodified":1690867853,
     "wof:name":"Hamah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

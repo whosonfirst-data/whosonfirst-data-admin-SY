@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646 \u0634\u064a\u062e\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0627\u0646 \u0634\u064a\u062e\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Khan Shaykhun"
+    ],
     "name:aze_x_preferred":[
         "Xan-\u015eeyxun"
     ],
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1125778451,
-    "wof:lastmodified":1566652220,
+    "wof:lastmodified":1690867883,
     "wof:name":"Kh\u0101n Shaykh\u016bn",
     "wof:parent_id":1108779123,
     "wof:placetype":"locality",

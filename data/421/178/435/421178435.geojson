@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Qusayr"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0441\u0435\u0439\u0440"
     ],
     "name:cat_x_preferred":[
         "Al-Qusayr"
     ],
+    "name:ceb_x_preferred":[
+        "Al Qu\u015fayr"
+    ],
     "name:ces_x_preferred":[
         "Kusajr"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0648\u0633\u06d5\u06cc\u0631"
     ],
     "name:deu_x_preferred":[
         "Kusseir"
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":421178435,
-    "wof:lastmodified":1566652210,
+    "wof:lastmodified":1690867871,
     "wof:name":"Al Qusayr",
     "wof:parent_id":1108779091,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u062a\u0644 \u0643\u0644\u062e"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644\u0643\u0644\u062e"
+    ],
+    "name:ast_x_preferred":[
+        "Talkalakh"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0445"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Tallkalakh"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06d5\u0644\u06a9\u06d5\u0644\u06d5\u062e"
     ],
     "name:deu_x_preferred":[
         "Tell Kalach"
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":421182445,
-    "wof:lastmodified":1566652210,
+    "wof:lastmodified":1690867872,
     "wof:name":"Tall Kalakh",
     "wof:parent_id":1108779181,
     "wof:placetype":"locality",

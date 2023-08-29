@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u0634"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043d\u0438\u0448"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Binnish"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05e9"
     ],
     "name:hye_x_preferred":[
         "\u0532\u056b\u0576\u0576\u056b\u0577"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890449869,
-    "wof:lastmodified":1566652212,
+    "wof:lastmodified":1690867874,
     "wof:name":"Binnish",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",

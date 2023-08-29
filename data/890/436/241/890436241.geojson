@@ -25,8 +25,23 @@
     "name:ara_x_variant":[
         "\u0639\u0641\u0631\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0641\u0631\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Afrin"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0641\u0631\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u018ffrin"
+    ],
+    "name:bar_x_preferred":[
+        "Afrin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0444\u0440\u044b\u043d"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0444\u0440\u0438\u043d"
@@ -49,6 +64,9 @@
     "name:deu_x_preferred":[
         "Afrin"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03c1\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Afrin"
     ],
@@ -66,6 +84,9 @@
     ],
     "name:fra_x_preferred":[
         "Afrin"
+    ],
+    "name:fra_x_variant":[
+        "Koban\u00ee"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e4\u05e8\u05d9\u05df"
@@ -88,8 +109,14 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e4\u10e0\u10d8\u10dc\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uc544\ud504\ub9b0"
+    ],
     "name:kur_x_preferred":[
         "Efr\u00een"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0444\u0440\u0438\u043d"
     ],
     "name:mzn_x_preferred":[
         "\u0639\u0641\u0631\u06cc\u0646"
@@ -181,7 +208,7 @@
         }
     ],
     "wof:id":890436241,
-    "wof:lastmodified":1566652214,
+    "wof:lastmodified":1690867877,
     "wof:name":"\u2018Afr\u012bn",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",
