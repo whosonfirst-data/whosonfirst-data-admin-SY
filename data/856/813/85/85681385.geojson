@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025611,
-    "geom:area_square_m":265122322.999047,
+    "geom:area_square_m":265122162.338101,
     "geom:bbox":"35.75759,32.744347,35.923833,33.431242",
     "geom:latitude":33.157362,
     "geom:longitude":35.845068,
     "gn:id":"",
     "iso:country":"SY",
+    "label:eng_x_preferred_placetype":[
+        "overlay"
+    ],
     "label:eng_x_preferred_shortcode":[
         "SY"
     ],
@@ -20,7 +23,7 @@
     "mps:latitude":33.145384,
     "mps:longitude":35.864592,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
     "name:ara_x_preferred":[
@@ -202,7 +205,7 @@
         "wd:id":"Q1428532"
     },
     "wof:country":"SY",
-    "wof:geomhash":"ff1e28d7d3b0ab24cf2e4c6f949dfbbe",
+    "wof:geomhash":"0482fb07679ed34bfee8dd815c08f13d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -226,7 +229,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867855,
+    "wof:lastmodified":1694493125,
     "wof:name":"United Nations Disengagement Observer Force",
     "wof:parent_id":85632711,
     "wof:placetype":"region",

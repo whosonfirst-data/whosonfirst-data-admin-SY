@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.410431,
-    "geom:area_square_m":186373559071.565155,
+    "geom:area_square_m":186373559071.551086,
     "geom:bbox":"35.713585,32.311136,42.376309,37.320569",
     "geom:latitude":35.029764,
     "geom:longitude":38.514595,
@@ -14,6 +14,9 @@
     "iso:country":"SY",
     "itu:country_code":[
         "963"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SY"
@@ -1206,7 +1209,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"963",
     "statoids:ds":"SYR",
     "statoids:fifa":"SYR",
@@ -1267,7 +1271,7 @@
         "meso",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"921d62ef003c26fbc76db3f7f765c9c5",
+    "wof:geomhash":"89de939ae15ff457dfa433d63b9523de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1283,12 +1287,12 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867850,
+    "wof:lastmodified":1694492181,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":22845550,
-    "wof:population_rank":15,
+    "wof:population":17070135,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:shortcode":"SY",
     "wof:superseded_by":[],
