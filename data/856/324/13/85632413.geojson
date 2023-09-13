@@ -1210,7 +1210,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"963",
     "statoids:ds":"SYR",
     "statoids:fifa":"SYR",
@@ -1287,7 +1287,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694492181,
+    "wof:lastmodified":1694639632,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
