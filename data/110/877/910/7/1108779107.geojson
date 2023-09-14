@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010106,
-    "geom:area_square_m":104185730.376887,
+    "geom:area_square_m":104185730.376872,
     "geom:bbox":"36.197303,33.462504,36.35181,33.56536",
     "geom:latitude":33.515847,
     "geom:longitude":36.281452,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Damascus City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":33.512671,
     "lbl:longitude":36.28292,
     "lbl:max_zoom":10.0,
@@ -150,6 +156,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Damascus"
     ],
     "name:epo_x_preferred":[
         "Damasko"
@@ -560,7 +569,7 @@
     ],
     "wof:country":"SY",
     "wof:created":1481737489,
-    "wof:geomhash":"14a7a43d1640b8ed983f945575825f97",
+    "wof:geomhash":"3f7ef027e503156392b5a6580dcbcbbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -570,7 +579,7 @@
         }
     ],
     "wof:id":1108779107,
-    "wof:lastmodified":1636500549,
+    "wof:lastmodified":1694498105,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"county",

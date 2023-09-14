@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069745,
-    "geom:area_square_m":720401793.902835,
+    "geom:area_square_m":720401962.782808,
     "geom:bbox":"36.1074,33.184943,36.492885,33.546851",
     "geom:latitude":33.348609,
     "geom:longitude":36.319653,
     "iso:country":"SY",
+    "label:eng_x_preferred_longname":[
+        "Markaz Rif Dimashq City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":33.320845,
     "lbl:longitude":36.338654,
     "lbl:max_zoom":10.0,
@@ -102,7 +108,7 @@
     },
     "wof:country":"SY",
     "wof:created":1481737505,
-    "wof:geomhash":"b92b7835fd8865207ca92b2daa8d1233",
+    "wof:geomhash":"113b8496f61c8325f241e7790cbb8cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108779141,
-    "wof:lastmodified":1690867858,
+    "wof:lastmodified":1694497843,
     "wof:name":"Rural Damascus",
     "wof:parent_id":85678391,
     "wof:placetype":"county",
