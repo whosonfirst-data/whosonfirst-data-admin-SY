@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613454,
-    "geom:area_square_m":6379755121.211109,
+    "geom:area_square_m":6379754873.906967,
     "geom:bbox":"36.359195,32.311136,37.463461,33.199064",
     "geom:latitude":32.748495,
     "geom:longitude":36.846641,
@@ -352,17 +352,19 @@
         "gn:id":172410,
         "gp:id":2347073,
         "hasc:id":"SY.SU",
+        "iso:code":"SY-SU",
         "iso:id":"SY-SU",
         "qs_pg:id":211650,
         "unlc:id":"SY-SU",
         "wd:id":"Q236797",
         "wk:page":"As-Suwayda Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dc9a5f4756a133992e48c100c8b695a",
+    "wof:geomhash":"0e8c70c1597e6d403901c1163f8c455a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -379,7 +381,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867854,
+    "wof:lastmodified":1695884870,
     "wof:name":"As Suwayda'",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

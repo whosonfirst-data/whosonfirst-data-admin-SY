@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.541537,
-    "geom:area_square_m":26207813534.512905,
+    "geom:area_square_m":26207813534.512585,
     "geom:bbox":"35.81557,32.6662056304,39.1144796185,34.2406706229",
     "geom:latitude":33.493541,
     "geom:longitude":37.388037,
@@ -153,15 +153,17 @@
         "gn:id":170652,
         "gp:id":2347076,
         "hasc:id":"SY.RD",
+        "iso:code":"SY-RD",
         "iso:id":"SY-RD",
         "qs_pg:id":1135346,
         "unlc:id":"SY-RD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5df42f7f3f02484a57d41233f3a7e667",
+    "wof:geomhash":"ed97a30b104b7908f9656ca0e42eb52b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +180,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582344838,
+    "wof:lastmodified":1695884361,
     "wof:name":"Rif Dimashq",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.195121,
-    "geom:area_square_m":42761619507.284271,
+    "geom:area_square_m":42761618714.937454,
     "geom:bbox":"36.117396,33.541572,40.232775,35.400053",
     "geom:latitude":34.476081,
     "geom:longitude":38.362551,
@@ -363,17 +363,19 @@
         "gn:id":169575,
         "gp:id":2347079,
         "hasc:id":"SY.HI",
+        "iso:code":"SY-HI",
         "iso:id":"SY-HI",
         "qs_pg:id":424034,
         "unlc:id":"SY-HI",
         "wd:id":"Q214094",
         "wk:page":"Homs Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"666534eacddb074de436500e21da02ff",
+    "wof:geomhash":"389cbb0c72cf51a98042f26d32e3c10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -390,7 +392,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867851,
+    "wof:lastmodified":1695884537,
     "wof:name":"Homs (Hims)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

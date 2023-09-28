@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.767013,
-    "geom:area_square_m":17673521482.94471,
+    "geom:area_square_m":17673521488.757191,
     "geom:bbox":"38.058715,35.278492,39.90175,36.771535",
     "geom:latitude":36.012193,
     "geom:longitude":38.994668,
@@ -324,16 +324,18 @@
         "gn:id":172957,
         "gp:id":2347072,
         "hasc:id":"SY.RA",
+        "iso:code":"SY-RA",
         "iso:id":"SY-RA",
         "qs_pg:id":1135344,
         "unlc:id":"SY-RA",
         "wd:id":"Q235563"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c85254cbfe5fe2b8805fc6a05227a09",
+    "wof:geomhash":"59916b4d93195506ba3331bdde0d8d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -350,7 +352,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867853,
+    "wof:lastmodified":1695884870,
     "wof:name":"Ar Raqqah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

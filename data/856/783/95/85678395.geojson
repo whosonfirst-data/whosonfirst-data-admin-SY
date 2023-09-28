@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170789,
-    "geom:area_square_m":1770332569.153505,
+    "geom:area_square_m":1770332415.129866,
     "geom:bbox":"35.586898,32.677555,35.996325,33.354869",
     "geom:latitude":33.040003,
     "geom:longitude":35.787954,
@@ -341,15 +341,17 @@
         "gn:id":173336,
         "gp:id":2347071,
         "hasc:id":"SY.QU",
+        "iso:code":"SY-QU",
         "iso:id":"SY-QU",
         "qs_pg:id":1135342,
         "wd:id":"Q219690"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da6f8d92f201dc64020d560160baf281",
+    "wof:geomhash":"ae21442f7dc3a3bec60f080ac9f04f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -373,7 +375,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867851,
+    "wof:lastmodified":1695884870,
     "wof:name":"Quneitra",
     "wof:parent_id":85632221,
     "wof:placetype":"region",

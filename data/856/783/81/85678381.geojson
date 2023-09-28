@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.439493,
-    "geom:area_square_m":24665261672.795979,
+    "geom:area_square_m":24665262532.161453,
     "geom:bbox":"39.246999,34.11187,41.278556,36.329087",
     "geom:latitude":35.143936,
     "geom:longitude":40.316752,
@@ -346,16 +346,18 @@
         "gn:id":170792,
         "gp:id":2347075,
         "hasc:id":"SY.DY",
+        "iso:code":"SY-DY",
         "iso:id":"SY-DY",
         "qs_pg:id":1135345,
         "unlc:id":"SY-DY",
         "wd:id":"Q232387"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b9930f320cd45a2fa42fc60ad146664",
+    "wof:geomhash":"76dea984326153bc1ade51e28853148e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -372,7 +374,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867852,
+    "wof:lastmodified":1695884361,
     "wof:name":"Days Az Zawr",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

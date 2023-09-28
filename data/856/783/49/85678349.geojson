@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190795,
-    "geom:area_square_m":1933519190.489809,
+    "geom:area_square_m":1933518802.544207,
     "geom:bbox":"35.863834,34.62741,36.328158,35.270236",
     "geom:latitude":34.958931,
     "geom:longitude":36.073444,
@@ -401,16 +401,18 @@
         "gn:id":163342,
         "gp:id":2347082,
         "hasc:id":"SY.TA",
+        "iso:code":"SY-TA",
         "iso:id":"SY-TA",
         "qs_pg:id":215765,
         "unlc:id":"SY-TA",
         "wd:id":"Q232382"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77bca8515b635e9a085b70c667e3092a",
+    "wof:geomhash":"04bc05df662d6fbc8724b4a31af0145a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -427,7 +429,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867854,
+    "wof:lastmodified":1695884537,
     "wof:name":"Tartus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

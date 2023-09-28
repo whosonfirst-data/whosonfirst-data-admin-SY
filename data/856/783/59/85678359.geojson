@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.00733,
-    "geom:area_square_m":20023564397.716492,
+    "geom:area_square_m":20023564811.981739,
     "geom:bbox":"36.542538,35.380464,38.70912,36.924123",
     "geom:latitude":36.221799,
     "geom:longitude":37.640748,
@@ -345,15 +345,17 @@
         "gn:id":170062,
         "gp:id":2347077,
         "hasc:id":"SY.HL",
+        "iso:code":"SY-HL",
         "iso:id":"SY-HL",
         "qs_pg:id":900759,
         "wd:id":"Q214064"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52038e250af04493808ce6abd2b8482a",
+    "wof:geomhash":"9e5da337b60b068359db8bea7a0e084c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -370,7 +372,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867851,
+    "wof:lastmodified":1695884870,
     "wof:name":"Aleppo",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

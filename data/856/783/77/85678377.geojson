@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.329405,
-    "geom:area_square_m":23155758847.766174,
+    "geom:area_square_m":23155758570.308891,
     "geom:bbox":"39.506216,35.49767,42.376309,37.320569",
     "geom:latitude":36.494973,
     "geom:longitude":40.901714,
@@ -356,16 +356,18 @@
         "gn:id":173813,
         "gp:id":2347069,
         "hasc:id":"SY.HA",
+        "iso:code":"SY-HA",
         "iso:id":"SY-HA",
         "qs_pg:id":229385,
         "wd:id":"Q233914",
         "wk:page":"Al-Hasakah Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44d891af42326887e56c78f512448166",
+    "wof:geomhash":"774cf03a00eb9a2567a090df4b5675ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -382,7 +384,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867854,
+    "wof:lastmodified":1695884537,
     "wof:name":"Hasaka (Al Haksa)",
     "wof:parent_id":85632413,
     "wof:placetype":"region",
