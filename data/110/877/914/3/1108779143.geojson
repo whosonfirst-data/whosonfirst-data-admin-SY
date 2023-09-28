@@ -106,6 +106,7 @@
         "hasc:id":"SY.RD.RD",
         "wd:id":"Q4118382"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737506,
     "wof:geomhash":"fd3fda4ddde815eb3a88ba564861b1e0",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108779143,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886442,
     "wof:name":"Rural Damascus",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

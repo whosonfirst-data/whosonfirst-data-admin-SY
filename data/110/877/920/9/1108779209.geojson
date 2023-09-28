@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035592,
-    "geom:area_square_m":361295825.43963,
+    "geom:area_square_m":361295825.439658,
     "geom:bbox":"36.013519,34.690168,36.328158,34.933142",
     "geom:latitude":34.821703,
     "geom:longitude":36.152523,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"SY.TA.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737539,
-    "wof:geomhash":"90b91dde998915cf4f2f3c8e03f49fb6",
+    "wof:geomhash":"fad0b8597b31756bda69aa4f28b98611",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108779209,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1695886294,
     "wof:name":"Safita",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11026,
-    "geom:area_square_m":1110431718.731449,
+    "geom:area_square_m":1110431718.731495,
     "geom:bbox":"36.206387,35.190265,36.522713,35.761661",
     "geom:latitude":35.465186,
     "geom:longitude":36.333901,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HM.SQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737485,
-    "wof:geomhash":"a48109eed090cbac83ad52b030db4061",
+    "wof:geomhash":"2332db04ca92e1afe09551899072005b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779099,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886503,
     "wof:name":"As-Suqaylabiyah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

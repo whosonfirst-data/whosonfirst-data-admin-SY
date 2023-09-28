@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155625,
-    "geom:area_square_m":1598860252.975396,
+    "geom:area_square_m":1598860252.975404,
     "geom:bbox":"36.466291,33.613528,37.288926,34.021626",
     "geom:latitude":33.812387,
     "geom:longitude":36.824379,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.QF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737517,
-    "wof:geomhash":"f69d5d57ff6d1a27834f639057047fd9",
+    "wof:geomhash":"adf018e3a3b3c6f2ea5aa1e3cc7f9145",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779167,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886504,
     "wof:name":"Al Qutayfah",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

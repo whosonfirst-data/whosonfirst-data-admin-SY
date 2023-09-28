@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312634,
-    "geom:area_square_m":3104159008.713973,
+    "geom:area_square_m":3104159008.713819,
     "geom:bbox":"38.02657,36.150258,38.70912,36.924123",
     "geom:latitude":36.583673,
     "geom:longitude":38.390338,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HL.AA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737473,
-    "wof:geomhash":"5b0c44bb7e0d2a5a8802470131f6eefa",
+    "wof:geomhash":"63583996e034234e5ad777f2782a4f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779073,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Ain Al Arab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

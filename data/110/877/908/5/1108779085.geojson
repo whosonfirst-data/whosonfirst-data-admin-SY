@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.977675,
-    "geom:area_square_m":30360227310.8367,
+    "geom:area_square_m":30360227310.836182,
     "geom:bbox":"37.604242,33.541572,40.232775,35.400053",
     "geom:latitude":34.453052,
     "geom:longitude":38.861983,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HI.TD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737478,
-    "wof:geomhash":"0ab447a379a1a8e3e2f4419779002fe9",
+    "wof:geomhash":"135138a88b624988d4b19f0b0ebc9715",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779085,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886507,
     "wof:name":"Tadmor",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

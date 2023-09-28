@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100226,
-    "geom:area_square_m":1006242521.152728,
+    "geom:area_square_m":1006242521.152702,
     "geom:bbox":"35.713585,35.454898,36.148976,35.940862",
     "geom:latitude":35.714631,
     "geom:longitude":35.928407,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SY.LA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737498,
-    "wof:geomhash":"2276d1390726f53b75c5bbfe3449e855",
+    "wof:geomhash":"532b822bb969db7cc4cccbc46eb1d026",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108779125,
-    "wof:lastmodified":1636500548,
+    "wof:lastmodified":1695886759,
     "wof:name":"Lattakia",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

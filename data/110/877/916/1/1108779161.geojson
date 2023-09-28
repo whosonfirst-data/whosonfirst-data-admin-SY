@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204049,
-    "geom:area_square_m":2031579399.510694,
+    "geom:area_square_m":2031579399.510642,
     "geom:bbox":"37.309368,36.069206,37.865098,36.737034",
     "geom:latitude":36.37111,
     "geom:longitude":37.559824,
@@ -142,9 +142,10 @@
         "hasc:id":"SY.HL.BB",
         "wd:id":"Q4118360"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737515,
-    "wof:geomhash":"75d1ce1d635f043e36ce983e59627990",
+    "wof:geomhash":"ee8057058d12965576427a69b69c10e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108779161,
-    "wof:lastmodified":1690867859,
+    "wof:lastmodified":1695886294,
     "wof:name":"Al Bab",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

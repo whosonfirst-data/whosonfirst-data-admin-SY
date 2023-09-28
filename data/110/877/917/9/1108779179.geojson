@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17261,
-    "geom:area_square_m":1790315570.675755,
+    "geom:area_square_m":1790315570.675793,
     "geom:bbox":"36.372527,32.777444,37.205519,33.199064",
     "geom:latitude":32.985219,
     "geom:longitude":36.723288,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"SY.SU.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737524,
-    "wof:geomhash":"20cbb69df856186b2e68532dff007854",
+    "wof:geomhash":"4a40f211f65929b17d06dcd25cd1f1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108779179,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1695886294,
     "wof:name":"Shahba",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

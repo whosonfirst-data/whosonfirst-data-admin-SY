@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035765,
-    "geom:area_square_m":360246139.357856,
+    "geom:area_square_m":360246139.357816,
     "geom:bbox":"35.91627,35.357239,36.230588,35.527268",
     "geom:latitude":35.453632,
     "geom:longitude":36.092824,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.LA.QR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737499,
-    "wof:geomhash":"93f79d5715cbfc811b0f0fc2f0e9912f",
+    "wof:geomhash":"3552171793e05cbc1ee69e21a4b2fbf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779127,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Al-Qardaha",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

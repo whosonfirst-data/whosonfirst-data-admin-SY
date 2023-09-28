@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064726,
-    "geom:area_square_m":641702896.959199,
+    "geom:area_square_m":641702896.959186,
     "geom:bbox":"37.640119,36.53032,38.088816,36.832092",
     "geom:latitude":36.699751,
     "geom:longitude":37.86037,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HL.JR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737494,
-    "wof:geomhash":"7353e38822e0931d693a90000cf330e3",
+    "wof:geomhash":"d2996fd8f6be49311deb8cca062ae2fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779119,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Jarablus",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

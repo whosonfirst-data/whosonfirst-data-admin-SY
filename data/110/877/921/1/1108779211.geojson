@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.784824,
-    "geom:area_square_m":8007116198.5529,
+    "geom:area_square_m":8007116198.553064,
     "geom:bbox":"36.267147,33.929644,37.750187,34.954679",
     "geom:latitude":34.401335,
     "geom:longitude":37.113639,
@@ -303,9 +303,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HI.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737541,
-    "wof:geomhash":"3254e0cffa3d967d7cd9978701e0022e",
+    "wof:geomhash":"ec1801042fec0959d5aa9bdd33ac6725",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +316,7 @@
         }
     ],
     "wof:id":1108779211,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1695886294,
     "wof:name":"Homs",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11041,
-    "geom:area_square_m":1130909913.856653,
+    "geom:area_square_m":1130909913.856624,
     "geom:bbox":"36.49955,33.845511,37.001247,34.240671",
     "geom:latitude":34.069109,
     "geom:longitude":36.754094,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.NB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737483,
-    "wof:geomhash":"b80dcf65fc0faf5f61e1b5909d3e150e",
+    "wof:geomhash":"517bd4346bb3e6623dc3e85b6077d392",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108779095,
-    "wof:lastmodified":1636500548,
+    "wof:lastmodified":1695886759,
     "wof:name":"An Nabk",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

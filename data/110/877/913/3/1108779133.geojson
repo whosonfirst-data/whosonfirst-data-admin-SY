@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059699,
-    "geom:area_square_m":603617457.247933,
+    "geom:area_square_m":603617457.247927,
     "geom:bbox":"35.882751,35.028713,36.271811,35.270236",
     "geom:latitude":35.14529,
     "geom:longitude":36.083946,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.TA.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737501,
-    "wof:geomhash":"6f9fb8e9eea68f987e42d9d0aa18d731",
+    "wof:geomhash":"bfd4ecbedc25879611422f33bd7e7a00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779133,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Banyas",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

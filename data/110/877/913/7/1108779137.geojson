@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129073,
-    "geom:area_square_m":1336933558.291355,
+    "geom:area_square_m":1336933558.291399,
     "geom:bbox":"35.946856,32.911457,36.571298,33.296396",
     "geom:latitude":33.105248,
     "geom:longitude":36.275134,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DR.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737503,
-    "wof:geomhash":"e415c52d9979e29cfe04b62b0b35345d",
+    "wof:geomhash":"b01a72f668032f3d3e5e2a0c183a9510",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779137,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886504,
     "wof:name":"As-Sanamayn",
     "wof:parent_id":85678399,
     "wof:placetype":"county",

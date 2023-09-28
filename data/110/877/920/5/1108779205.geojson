@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.517525,
-    "geom:area_square_m":5173451377.024714,
+    "geom:area_square_m":5173451377.024038,
     "geom:bbox":"37.696258,35.380464,38.310252,36.672855",
     "geom:latitude":36.054642,
     "geom:longitude":37.97876,
@@ -118,9 +118,10 @@
         "hasc:id":"SY.HL.MB",
         "wd:id":"Q4120577"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737537,
-    "wof:geomhash":"5e1deb360452c0402c339cd0d7078160",
+    "wof:geomhash":"6c2c277033950e1617879e03b396656e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108779205,
-    "wof:lastmodified":1690867859,
+    "wof:lastmodified":1695886507,
     "wof:name":"Menbij",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

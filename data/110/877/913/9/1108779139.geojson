@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096172,
-    "geom:area_square_m":993122423.592767,
+    "geom:area_square_m":993122423.592774,
     "geom:bbox":"35.81557,33.153497,36.208556,33.573002",
     "geom:latitude":33.370346,
     "geom:longitude":36.031071,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.QT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737504,
-    "wof:geomhash":"e5fc396b1d1c7925410b75a6f7d19fe5",
+    "wof:geomhash":"6b70afcedc0a2b44f3eca51a46a208a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108779139,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1695886293,
     "wof:name":"Qatana",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

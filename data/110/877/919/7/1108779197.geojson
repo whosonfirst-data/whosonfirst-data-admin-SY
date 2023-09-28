@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488986,
-    "geom:area_square_m":4863955182.52663,
+    "geom:area_square_m":4863955182.526185,
     "geom:bbox":"38.581872,35.930067,39.90175,36.771535",
     "geom:latitude":36.443855,
     "geom:longitude":39.242716,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RA.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737533,
-    "wof:geomhash":"2b7641484b6e198abec7dda0050f9785",
+    "wof:geomhash":"7dee284ba92dfc09db9f91d476b26c22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779197,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886508,
     "wof:name":"Tell Abiad",
     "wof:parent_id":85678355,
     "wof:placetype":"county",

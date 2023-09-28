@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189374,
-    "geom:area_square_m":1880782600.696378,
+    "geom:area_square_m":1880782600.696462,
     "geom:bbox":"36.542538,36.29808,37.047663,36.828922",
     "geom:latitude":36.56401,
     "geom:longitude":36.790137,
@@ -139,9 +139,10 @@
         "hasc:id":"SY.HL.AF",
         "wd:id":"Q4120569"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737480,
-    "wof:geomhash":"c36079b7cc89cedc31e8d3b5e53fe8ac",
+    "wof:geomhash":"48c4e85577cb7c3f522671d046d66599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108779089,
-    "wof:lastmodified":1690867858,
+    "wof:lastmodified":1695886293,
     "wof:name":"Afrin",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055761,
-    "geom:area_square_m":572013783.827123,
+    "geom:area_square_m":572013783.826992,
     "geom:bbox":"36.27521,33.824492,36.690639,34.05432",
     "geom:latitude":33.941722,
     "geom:longitude":36.487516,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.YB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737512,
-    "wof:geomhash":"266181885c37a3303a74605378199fb8",
+    "wof:geomhash":"0d84dd0f5e5430f2e12087da7bafae4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108779155,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1695886294,
     "wof:name":"Yabroud",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

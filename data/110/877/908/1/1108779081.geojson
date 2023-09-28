@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129157,
-    "geom:area_square_m":1337772051.63129,
+    "geom:area_square_m":1337772051.631025,
     "geom:bbox":"35.586898,32.876297,35.996325,33.354869",
     "geom:latitude":33.106988,
     "geom:longitude":35.804905,
@@ -184,9 +184,10 @@
     "wof:concordances":{
         "hasc:id":"SY.QU.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737476,
-    "wof:geomhash":"01f98f00b26cd40b1e84244688caf852",
+    "wof:geomhash":"fedbb9ac89eb71da533388c9a267dc71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1108779081,
-    "wof:lastmodified":1636500548,
+    "wof:lastmodified":1695886759,
     "wof:name":"Quneitra",
     "wof:parent_id":-1,
     "wof:placetype":"county",

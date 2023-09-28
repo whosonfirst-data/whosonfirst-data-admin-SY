@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.391061,
-    "geom:area_square_m":3965209779.120905,
+    "geom:area_square_m":3965209779.120853,
     "geom:bbox":"39.700543,34.583773,41.131764,35.266421",
     "geom:latitude":34.913782,
     "geom:longitude":40.437497,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DY.MY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737510,
-    "wof:geomhash":"86999bc6e6dfda7a776b31056a33f078",
+    "wof:geomhash":"6d9a201b39d7b6a9bb9e8ca66b488cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779151,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Al Mayadin",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

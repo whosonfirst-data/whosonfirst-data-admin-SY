@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092019,
-    "geom:area_square_m":955623703.290152,
+    "geom:area_square_m":955623703.290142,
     "geom:bbox":"35.912403,32.698838,36.41239,33.034448",
     "geom:latitude":32.874424,
     "geom:longitude":36.180821,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DR.IZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737523,
-    "wof:geomhash":"475b5e51b28a45ef45e7b61f8499d46d",
+    "wof:geomhash":"ffbae2c78c3cd04914ec68eb93c2f95a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779177,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Izra'",
     "wof:parent_id":85678399,
     "wof:placetype":"county",

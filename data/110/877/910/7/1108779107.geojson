@@ -564,6 +564,7 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.RD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421202165
     ],
@@ -579,7 +580,7 @@
         }
     ],
     "wof:id":1108779107,
-    "wof:lastmodified":1694498105,
+    "wof:lastmodified":1695886759,
     "wof:name":"Damascus",
     "wof:parent_id":85678403,
     "wof:placetype":"county",

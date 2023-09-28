@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613409,
-    "geom:area_square_m":6198897943.66785,
+    "geom:area_square_m":6198897943.667781,
     "geom:bbox":"36.873684,34.863027,38.45084,35.481591",
     "geom:latitude":35.187704,
     "geom:longitude":37.656178,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HM.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737486,
-    "wof:geomhash":"a2ae7b99e6a82efa7fc819e42955113e",
+    "wof:geomhash":"5c637f3aa0bf35563ceb92deac9073a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779101,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886503,
     "wof:name":"As-Salamiyeh",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

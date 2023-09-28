@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297941,
-    "geom:area_square_m":3024803443.409239,
+    "geom:area_square_m":3024803443.409356,
     "geom:bbox":"36.966674,34.547921,37.917356,35.103665",
     "geom:latitude":34.810484,
     "geom:longitude":37.495494,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HI.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737535,
-    "wof:geomhash":"5d8d5640b688b162f2c2f5f336cf1155",
+    "wof:geomhash":"85244400c939e273fd06a0aec5ce8f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779203,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886504,
     "wof:name":"Al Makhrim",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

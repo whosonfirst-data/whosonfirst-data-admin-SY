@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153968,
-    "geom:area_square_m":1603379698.909444,
+    "geom:area_square_m":1603379698.909251,
     "geom:bbox":"35.760505,32.359903,36.543908,32.881713",
     "geom:latitude":32.628854,
     "geom:longitude":36.20464,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DR.DR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737474,
-    "wof:geomhash":"a99f5f6e9aca2a920428ca06c1c76f67",
+    "wof:geomhash":"b36c341a157893c40b9380cc7cbdddd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779077,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886504,
     "wof:name":"Dar'a",
     "wof:parent_id":85678399,
     "wof:placetype":"county",
