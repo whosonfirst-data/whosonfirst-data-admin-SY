@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054727,
-    "geom:area_square_m":562952731.002982,
+    "geom:area_square_m":562952731.002972,
     "geom:bbox":"36.225922,33.557617,36.514939,33.844965",
     "geom:latitude":33.705815,
     "geom:longitude":36.361508,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737488,
-    "wof:geomhash":"efaecda5ccd45294a9a146243d49f948",
+    "wof:geomhash":"08c3ad9ecb131c27d76b20c9d432a0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779105,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886504,
     "wof:name":"At Tall",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

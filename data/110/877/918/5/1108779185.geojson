@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.625308,
-    "geom:area_square_m":6365958255.739399,
+    "geom:area_square_m":6365958255.73934,
     "geom:bbox":"39.800517,34.11187,41.227515,35.104246",
     "geom:latitude":34.581219,
     "geom:longitude":40.575707,
@@ -183,9 +183,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DY.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737526,
-    "wof:geomhash":"1cf8e5a14211d8766593dedc74834a53",
+    "wof:geomhash":"1d1ff0beb51bee12bd3cf9afc5f14de5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":1108779185,
-    "wof:lastmodified":1636500548,
+    "wof:lastmodified":1695886759,
     "wof:name":"Abu Kamal",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

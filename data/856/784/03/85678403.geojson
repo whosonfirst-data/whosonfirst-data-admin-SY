@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010106,
-    "geom:area_square_m":104185772.849654,
+    "geom:area_square_m":104185730.376906,
     "geom:bbox":"36.197303,33.462504,36.35181,33.56536",
     "geom:latitude":33.515847,
     "geom:longitude":36.281452,
@@ -691,9 +691,11 @@
         "gn:id":167541,
         "gp:id":2347081,
         "hasc:id":"SY.DI",
+        "iso:code":"SY-DI",
         "iso:id":"SY-DI",
         "qs_pg:id":215764
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421202165
     ],
@@ -701,7 +703,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b80cbcebc1eb4d758ddc10a8f634237",
+    "wof:geomhash":"b14aa6861a4690f510ff9612369f087f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -718,7 +720,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636500545,
+    "wof:lastmodified":1695884871,
     "wof:name":"Damascus",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

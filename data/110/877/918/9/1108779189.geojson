@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.259392,
-    "geom:area_square_m":12564436170.03229,
+    "geom:area_square_m":12564436170.032677,
     "geom:bbox":"40.007041,35.49767,41.382222,36.841351",
     "geom:latitude":36.21138,
     "geom:longitude":40.779246,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737528,
-    "wof:geomhash":"f7cdba7b0aa1970ab72045eb7c1cc1d8",
+    "wof:geomhash":"3271598916c194b567dbc295c832bd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779189,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886506,
     "wof:name":"Al-Hasakeh",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

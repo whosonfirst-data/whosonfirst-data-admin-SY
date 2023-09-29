@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076289,
-    "geom:area_square_m":761693850.839015,
+    "geom:area_square_m":761693850.839051,
     "geom:bbox":"36.365296,35.911821,36.839347,36.339299",
     "geom:latitude":36.152082,
     "geom:longitude":36.574093,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.ID.HR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737514,
-    "wof:geomhash":"78f17b916272e19f4a63982f4d4ec27f",
+    "wof:geomhash":"7e7150db81e7e0d2dc56e6526f60d7fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779159,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Harim",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

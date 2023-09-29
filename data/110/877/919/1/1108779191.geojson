@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266406,
-    "geom:area_square_m":2632464626.435686,
+    "geom:area_square_m":2632464626.435822,
     "geom:bbox":"41.655823,36.599146,42.376309,37.320569",
     "geom:latitude":36.97995,
     "geom:longitude":41.989531,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HA.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737529,
-    "wof:geomhash":"934474d6e05edc82f55cc1fd38f49c38",
+    "wof:geomhash":"8cc4e2c81a3406f4e9378bb4de55af08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779191,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886504,
     "wof:name":"Al-Malikeyyeh",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283873,
-    "geom:area_square_m":2847054068.934527,
+    "geom:area_square_m":2847054068.934406,
     "geom:bbox":"37.204574,35.43116,37.937161,36.196726",
     "geom:latitude":35.796633,
     "geom:longitude":37.552689,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HL.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737491,
-    "wof:geomhash":"6a38bc5ac88fcc8366261c8788eb5f9e",
+    "wof:geomhash":"623ed8204e8b11d85dcae98811bf3b68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108779113,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1695886293,
     "wof:name":"As-Safira",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

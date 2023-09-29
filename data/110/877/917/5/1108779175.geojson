@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043133,
-    "geom:area_square_m":435306314.046302,
+    "geom:area_square_m":435306314.046219,
     "geom:bbox":"36.416577,35.161708,36.676111,35.419067",
     "geom:latitude":35.295232,
     "geom:longitude":36.557424,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HM.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737522,
-    "wof:geomhash":"d5761368181d31ef39203d71e17b5e08",
+    "wof:geomhash":"4d444a4a41d1053a0040d6d2761fdc32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779175,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Muhradah",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

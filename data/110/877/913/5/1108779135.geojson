@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079677,
-    "geom:area_square_m":806465633.84394,
+    "geom:area_square_m":806465633.843931,
     "geom:bbox":"36.148702,34.85641,36.535027,35.246754",
     "geom:latitude":35.059168,
     "geom:longitude":36.368827,
@@ -121,9 +121,10 @@
         "hasc:id":"SY.HM.MF",
         "wd:id":"Q2586299"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737502,
-    "wof:geomhash":"f22fd31eb4dce3fdcd55b887c01b9c03",
+    "wof:geomhash":"84387746eba73a266e351e2e3aeb0272",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108779135,
-    "wof:lastmodified":1690867858,
+    "wof:lastmodified":1695886293,
     "wof:name":"Masyaf",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

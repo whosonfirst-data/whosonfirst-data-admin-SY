@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201461,
-    "geom:area_square_m":2026631184.89206,
+    "geom:area_square_m":2026631184.892089,
     "geom:bbox":"36.392656,35.379093,37.201694,35.754453",
     "geom:latitude":35.556066,
     "geom:longitude":36.794925,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.ID.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737497,
-    "wof:geomhash":"f2b6cc93993030b6491d4aaa6b92cb56",
+    "wof:geomhash":"2948634202fe78175e8b6f97b19a75a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779123,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Al Ma'ra",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

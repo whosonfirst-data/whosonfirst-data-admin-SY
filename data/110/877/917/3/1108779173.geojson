@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143712,
-    "geom:area_square_m":1439633176.665778,
+    "geom:area_square_m":1439633176.665649,
     "geom:bbox":"36.427926,35.608827,37.141459,36.149216",
     "geom:latitude":35.890625,
     "geom:longitude":36.79113,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.ID.ID"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737521,
-    "wof:geomhash":"ac5e5da94e8c4358be17d6dd5c38849c",
+    "wof:geomhash":"6e667ffd18fbe033acba8ff40ff91c72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779173,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Idleb",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.731995,
-    "geom:area_square_m":7330002958.14205,
+    "geom:area_square_m":7330002958.141891,
     "geom:bbox":"38.412574,35.278492,39.747477,36.368912",
     "geom:latitude":35.919763,
     "geom:longitude":39.168325,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RA.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737519,
-    "wof:geomhash":"821c8c1be3b097a743cee883f9ad1bc1",
+    "wof:geomhash":"8c2144a36f02972497126982e60a0a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779169,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886507,
     "wof:name":"Ar-Raqqa",
     "wof:parent_id":85678355,
     "wof:placetype":"county",

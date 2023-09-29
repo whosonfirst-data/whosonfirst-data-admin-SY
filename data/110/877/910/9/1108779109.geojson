@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009902,
-    "geom:area_square_m":102160338.164322,
+    "geom:area_square_m":102160338.164326,
     "geom:bbox":"36.158817,33.384461,36.310987,33.52423",
     "geom:latitude":33.449363,
     "geom:longitude":36.23259,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737490,
-    "wof:geomhash":"37be8b102ea7999408828034c7ec1ea2",
+    "wof:geomhash":"a01a4800419a725fafc2f7dff739ed63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108779109,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1695886293,
     "wof:name":"Darayya",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060156,
-    "geom:area_square_m":603565663.658359,
+    "geom:area_square_m":603565663.658505,
     "geom:bbox":"36.391386,35.634724,36.719989,35.906683",
     "geom:latitude":35.764839,
     "geom:longitude":36.546013,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"SY.ID.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737484,
-    "wof:geomhash":"357afd8c7fe588dbcc3e8d63cbd09065",
+    "wof:geomhash":"1b6ab600281c65e9d5c72ff2fd63f692",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108779097,
-    "wof:lastmodified":1587164334,
+    "wof:lastmodified":1695886293,
     "wof:name":"Ariha",
     "wof:parent_id":85678373,
     "wof:placetype":"county",

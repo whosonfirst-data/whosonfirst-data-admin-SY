@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056075,
-    "geom:area_square_m":569135444.18652,
+    "geom:area_square_m":569135444.186406,
     "geom:bbox":"35.863834,34.62741,36.127983,35.070318",
     "geom:latitude":34.833135,
     "geom:longitude":35.983442,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.TA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737510,
-    "wof:geomhash":"d496a527ed6da649f354b0028306de9c",
+    "wof:geomhash":"f0ec3a8b5cca15af597396e803e270b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779153,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886507,
     "wof:name":"Tartous",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

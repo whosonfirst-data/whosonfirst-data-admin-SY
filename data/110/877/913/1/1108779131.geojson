@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050485,
-    "geom:area_square_m":509343467.262178,
+    "geom:area_square_m":509343467.262291,
     "geom:bbox":"35.876602,35.221607,36.237355,35.466354",
     "geom:latitude":35.32095,
     "geom:longitude":36.060674,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.LA.JB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737500,
-    "wof:geomhash":"8af10c965e78d11d0a4b02c6ff665983",
+    "wof:geomhash":"3ada1af6144836c50d2e160d9448a199",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779131,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886504,
     "wof:name":"Jablah",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

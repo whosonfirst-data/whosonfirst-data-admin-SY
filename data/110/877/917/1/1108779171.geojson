@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029072,
-    "geom:area_square_m":294834661.775435,
+    "geom:area_square_m":294834661.775453,
     "geom:bbox":"36.589355,34.817743,36.967813,34.978085",
     "geom:latitude":34.898973,
     "geom:longitude":36.776153,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HI.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737520,
-    "wof:geomhash":"6491093e859cb75c9134ae122f7accf5",
+    "wof:geomhash":"68e7ddb20cb812597d410ccb05d5d004",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779171,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886508,
     "wof:name":"Ar-Rastan",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

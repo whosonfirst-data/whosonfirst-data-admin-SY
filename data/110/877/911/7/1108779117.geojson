@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129052,
-    "geom:area_square_m":1282771640.936883,
+    "geom:area_square_m":1282771640.936776,
     "geom:bbox":"36.915499,36.272009,37.437449,36.677322",
     "geom:latitude":36.499272,
     "geom:longitude":37.179106,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HL.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737493,
-    "wof:geomhash":"aa64a25a01d9041d1b25f16a37f10172",
+    "wof:geomhash":"c6fc8e1df2deeded0a090e3a49c3aedf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779117,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886503,
     "wof:name":"A'zaz",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

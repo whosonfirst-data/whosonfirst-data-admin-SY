@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251926,
-    "geom:area_square_m":2544413569.937759,
+    "geom:area_square_m":2544413569.937666,
     "geom:bbox":"36.425291,34.895309,37.500176,35.560296",
     "geom:latitude":35.234214,
     "geom:longitude":36.896088,
@@ -124,9 +124,10 @@
         "hasc:id":"SY.HM.HM",
         "wd:id":"Q2856152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737492,
-    "wof:geomhash":"f8e9340530950936b6620195286761f7",
+    "wof:geomhash":"932b4bad36b0ba47eda173b81ea37baf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108779115,
-    "wof:lastmodified":1690867859,
+    "wof:lastmodified":1695886293,
     "wof:name":"Hama",
     "wof:parent_id":85678363,
     "wof:placetype":"county",

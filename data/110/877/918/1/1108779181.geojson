@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046249,
-    "geom:area_square_m":470055999.061658,
+    "geom:area_square_m":470055999.061656,
     "geom:bbox":"36.117396,34.62229,36.464719,34.865331",
     "geom:latitude":34.718992,
     "geom:longitude":36.291417,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HI.TK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737525,
-    "wof:geomhash":"c37fd4b89562400af68b4d38c9fd6dcc",
+    "wof:geomhash":"a48eda57632679d077fe14380bfee495",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779181,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886508,
     "wof:name":"Tall Kalakh",
     "wof:parent_id":85678367,
     "wof:placetype":"county",

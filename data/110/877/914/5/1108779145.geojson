@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018269,
-    "geom:area_square_m":185206807.219968,
+    "geom:area_square_m":185206807.219972,
     "geom:bbox":"36.0066,34.870381,36.268725,34.98646",
     "geom:latitude":34.926704,
     "geom:longitude":36.14205,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.TA.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737508,
-    "wof:geomhash":"3cdb6f92a289eee7f17d7021aa26a361",
+    "wof:geomhash":"f2cc121bfff306905e8f7b3c9178d33b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779145,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Dreikish",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041632,
-    "geom:area_square_m":432560363.498973,
+    "geom:area_square_m":432560363.499131,
     "geom:bbox":"35.596207,32.677555,35.890506,32.965008",
     "geom:latitude":32.832191,
     "geom:longitude":35.735368,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SY.QU.FZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737527,
-    "wof:geomhash":"ea9cef13a38acbb1acf47aa9525d032e",
+    "wof:geomhash":"42a2bb3a4352caf8d29bda1928100a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108779187,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Al Fiq",
     "wof:parent_id":-1,
     "wof:placetype":"county",

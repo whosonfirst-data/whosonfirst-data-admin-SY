@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064522,
-    "geom:area_square_m":663750597.304768,
+    "geom:area_square_m":663750597.30472,
     "geom:bbox":"35.93559,33.549807,36.284203,33.85316",
     "geom:latitude":33.700428,
     "geom:longitude":36.121852,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RD.ZB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737479,
-    "wof:geomhash":"c269aa7684ed72474f1c610ba09a2f73",
+    "wof:geomhash":"afd1fbc2db2d607d150a4ecec5fd947c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779087,
-    "wof:lastmodified":1627522808,
+    "wof:lastmodified":1695886509,
     "wof:name":"Az-Zabdani",
     "wof:parent_id":85678391,
     "wof:placetype":"county",

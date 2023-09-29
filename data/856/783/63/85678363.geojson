@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.098404,
-    "geom:area_square_m":11095515092.204372,
+    "geom:area_square_m":11095515180.227598,
     "geom:bbox":"36.148702,34.85641,38.45084,35.761661",
     "geom:latitude":35.221124,
     "geom:longitude":37.212584,
@@ -357,17 +357,19 @@
         "gn:id":170015,
         "gp:id":2347078,
         "hasc:id":"SY.HM",
+        "iso:code":"SY-HM",
         "iso:id":"SY-HM",
         "qs_pg:id":424021,
         "unlc:id":"SY-HM",
         "wd:id":"Q232355",
         "wk:page":"Hama Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0babbbad908ab96d7eba984ea13728fc",
+    "wof:geomhash":"db183323c028427023d7e122974c80b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867853,
+    "wof:lastmodified":1695884536,
     "wof:name":"Hamah",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172679,
-    "geom:area_square_m":1800765662.291445,
+    "geom:area_square_m":1800765662.291409,
     "geom:bbox":"36.50328,32.311136,37.463461,32.679686",
     "geom:latitude":32.502702,
     "geom:longitude":36.88406,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"SY.SU.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737531,
-    "wof:geomhash":"8058fa175e0e85b431b8bdbe1c0874f3",
+    "wof:geomhash":"2b4df7936f6dbc5c804865074796da6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108779195,
-    "wof:lastmodified":1587164335,
+    "wof:lastmodified":1695886294,
     "wof:name":"Salkhad",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

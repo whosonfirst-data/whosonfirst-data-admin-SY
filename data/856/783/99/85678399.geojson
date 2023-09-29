@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375061,
-    "geom:area_square_m":3895937215.867302,
+    "geom:area_square_m":3895936960.646791,
     "geom:bbox":"35.760505,32.359903,36.571298,33.296396",
     "geom:latitude":32.85305,
     "geom:longitude":36.223056,
@@ -328,17 +328,19 @@
         "gn:id":170903,
         "gp:id":2347074,
         "hasc:id":"SY.DR",
+        "iso:code":"SY-DR",
         "iso:id":"SY-DR",
         "qs_pg:id":211651,
         "unlc:id":"SY-DR",
         "wd:id":"Q1689560",
         "wk:page":"Daraa Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"598105b233b5a8408fef05b57a1764f0",
+    "wof:geomhash":"78f79bcb73ee72ded7d5f9972d2538d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -355,7 +357,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867853,
+    "wof:lastmodified":1695884871,
     "wof:name":"Dar`a",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

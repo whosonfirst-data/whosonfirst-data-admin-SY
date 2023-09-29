@@ -1248,6 +1248,7 @@
         "hasc:id":"SY",
         "icao:code":"YK",
         "ioc:id":"SYR",
+        "iso:code":"SY",
         "itu:id":"SYR",
         "loc:id":"n80061798",
         "m49:code":"760",
@@ -1262,6 +1263,7 @@
         "wk:page":"Syria",
         "wmo:id":"SY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:country_alpha3":"SYR",
     "wof:geom_alt":[
@@ -1287,7 +1289,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694639632,
+    "wof:lastmodified":1695881294,
     "wof:name":"Syria",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

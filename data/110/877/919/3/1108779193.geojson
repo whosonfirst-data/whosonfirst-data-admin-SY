@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.409252,
-    "geom:area_square_m":4049060541.775272,
+    "geom:area_square_m":4049060541.775384,
     "geom:bbox":"40.721473,36.488094,41.833124,37.132197",
     "geom:latitude":36.857149,
     "geom:longitude":41.302819,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HA.QM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737530,
-    "wof:geomhash":"c4eca27a8e1b4a8b39d843cc64b85755",
+    "wof:geomhash":"c0fb7aa3b6c66996f85c0f3f8fe8631c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779193,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Quamishli",
     "wof:parent_id":85678377,
     "wof:placetype":"county",

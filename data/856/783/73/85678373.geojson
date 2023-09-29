@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.545205,
-    "geom:area_square_m":5468651249.901663,
+    "geom:area_square_m":5468650967.170306,
     "geom:bbox":"36.147414,35.379093,37.201694,36.339299",
     "geom:latitude":35.78763,
     "geom:longitude":36.679719,
@@ -416,16 +416,18 @@
         "gn:id":169387,
         "gp:id":2347080,
         "hasc:id":"SY.ID",
+        "iso:code":"SY-ID",
         "iso:id":"SY-ID",
         "qs_pg:id":900760,
         "unlc:id":"SY-ID",
         "wd:id":"Q233218"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7120182a65d445d5e23cd6c64ee5e526",
+    "wof:geomhash":"33e008e9f9f58e29c4f15ce3835fd5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -442,7 +444,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690867852,
+    "wof:lastmodified":1695884870,
     "wof:name":"Idlib",
     "wof:parent_id":85632413,
     "wof:placetype":"region",

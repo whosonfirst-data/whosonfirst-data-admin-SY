@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268165,
-    "geom:area_square_m":2788673640.93958,
+    "geom:area_square_m":2788673640.939441,
     "geom:bbox":"36.359195,32.541221,37.456689,33.004731",
     "geom:latitude":32.754396,
     "geom:longitude":36.901945,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.SU.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737534,
-    "wof:geomhash":"fa3db1c06ffb37fe10503da707941c24",
+    "wof:geomhash":"cd6e5bb1a1f5c8bca4a2079f0f7723c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779199,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886508,
     "wof:name":"As-Sweida",
     "wof:parent_id":85678385,
     "wof:placetype":"county",

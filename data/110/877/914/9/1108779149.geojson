@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02116,
-    "geom:area_square_m":214263268.450153,
+    "geom:area_square_m":214263268.450137,
     "geom:bbox":"35.956243,34.951129,36.252858,35.094168",
     "geom:latitude":35.025161,
     "geom:longitude":36.09008,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"SY.TA.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737509,
-    "wof:geomhash":"5d9abefd5468db6efbc520ef0478e4cf",
+    "wof:geomhash":"2bb6a2e9fb0dd3ce9d4c3988b056f33e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108779149,
-    "wof:lastmodified":1627522807,
+    "wof:lastmodified":1695886507,
     "wof:name":"Sheikh Badr",
     "wof:parent_id":85678349,
     "wof:placetype":"county",

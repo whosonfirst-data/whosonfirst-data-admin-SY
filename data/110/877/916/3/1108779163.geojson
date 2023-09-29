@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056639,
-    "geom:area_square_m":569277045.736964,
+    "geom:area_square_m":569277045.736932,
     "geom:bbox":"35.906414,35.484187,36.255169,35.788763",
     "geom:latitude":35.62544,
     "geom:longitude":36.104666,
@@ -124,9 +124,10 @@
         "hasc:id":"SY.LA.HF",
         "wd:id":"Q2278356"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737516,
-    "wof:geomhash":"188fafee5ff5cb3096137533199896b1",
+    "wof:geomhash":"47980af3383f1f772270705b9bd16496",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108779163,
-    "wof:lastmodified":1690867859,
+    "wof:lastmodified":1695886294,
     "wof:name":"Al-Haffa",
     "wof:parent_id":85678345,
     "wof:placetype":"county",

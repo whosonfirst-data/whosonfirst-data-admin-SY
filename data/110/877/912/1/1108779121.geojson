@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306096,
-    "geom:area_square_m":3062063861.282738,
+    "geom:area_square_m":3062063861.283036,
     "geom:bbox":"36.713152,35.508744,37.434196,36.374744",
     "geom:latitude":35.999807,
     "geom:longitude":37.113713,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.HL.JS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737495,
-    "wof:geomhash":"97418813a565577a67e8415456bff564",
+    "wof:geomhash":"5fd2dbf72b0dea5cae321a3e9e1d20fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779121,
-    "wof:lastmodified":1627522806,
+    "wof:lastmodified":1695886506,
     "wof:name":"Jebel Saman",
     "wof:parent_id":85678359,
     "wof:placetype":"county",

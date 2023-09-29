@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.423123,
-    "geom:area_square_m":14334094497.300203,
+    "geom:area_square_m":14334094497.300535,
     "geom:bbox":"39.246999,34.788891,41.278556,36.329087",
     "geom:latitude":35.454433,
     "geom:longitude":40.169789,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.DY.DY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737513,
-    "wof:geomhash":"5d362294b73042975e957592206d9771",
+    "wof:geomhash":"af418e39ca956e30ed93fa307528845e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779157,
-    "wof:lastmodified":1627522805,
+    "wof:lastmodified":1695886505,
     "wof:name":"Deir-ez-Zor",
     "wof:parent_id":85678381,
     "wof:placetype":"county",

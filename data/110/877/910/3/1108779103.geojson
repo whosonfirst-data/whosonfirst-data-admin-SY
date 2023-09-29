@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.546032,
-    "geom:area_square_m":5479563348.088531,
+    "geom:area_square_m":5479563348.088587,
     "geom:bbox":"38.058715,35.324625,39.163551,36.282896",
     "geom:latitude":35.749538,
     "geom:longitude":38.539735,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SY.RA.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SY",
     "wof:created":1481737487,
-    "wof:geomhash":"536c66cf2bbf1bd875a9bb31b7245f4f",
+    "wof:geomhash":"5c1bbfb37db46fa2520b17a297d6f567",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108779103,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1695886503,
     "wof:name":"Ath-Thawrah",
     "wof:parent_id":85678355,
     "wof:placetype":"county",
