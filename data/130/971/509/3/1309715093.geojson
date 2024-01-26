@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"36.03187,35.82554,36.03187,35.82554",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0642\u0631\u0648\u0631\u0627\u0646"
@@ -50,7 +52,7 @@
         "gn:id":164468
     },
     "wof:country":"SY",
-    "wof:geomhash":"3a821a9c21d602848487fa223c1f7991",
+    "wof:geomhash":"5aa8bdc62b5e2b38f00cfac8863c1572",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1309715093,
-    "wof:lastmodified":1566652175,
+    "wof:lastmodified":1706240667,
     "wof:name":"Jaqruran",
     "wof:parent_id":1108779125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209524383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     36.03187,
-    35.82554000000001,
+    35.82554,
     36.03187,
-    35.82554000000001
+    35.82554
 ],
-  "geometry": {"coordinates":[36.03187,35.82554000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.03187,35.82554],"type":"Point"}
 }

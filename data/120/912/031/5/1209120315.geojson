@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":162389
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            420429
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"f718ef7f799417f6308b750a4119e631",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209120315,
-    "wof:lastmodified":1566651816,
+    "wof:lastmodified":1706240667,
     "wof:name":"Az Zahriyah at Tahtaniyah",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310715695
+    ],
     "wof:tags":[]
 },
   "bbox": [

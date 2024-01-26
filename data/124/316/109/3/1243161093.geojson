@@ -29,6 +29,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u064a\u0637\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0642\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rg\u00e9ta",
+        "Rouqe\u00efta",
+        "Er Rouqe\u00efta",
+        "Ar Ruqay\u0163ah",
+        "Ruqay\u0163ah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4394
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            172914
+        ]
     },
     "wof:country":"SY",
     "wof:geomhash":"52e8439b95040fafaa02c2c7c3cde365",
@@ -52,13 +70,15 @@
         }
     ],
     "wof:id":1243161093,
-    "wof:lastmodified":1566652356,
+    "wof:lastmodified":1706240668,
     "wof:name":"Ruqaytah",
     "wof:parent_id":1108779115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276435825
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"38.75803,36.48327,38.75803,36.48327",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0645\u064a\u062a\u0627\u0646 \u0631\u0627\u0641\u0629"
@@ -50,7 +52,7 @@
         "gn:id":164536
     },
     "wof:country":"SY",
-    "wof:geomhash":"fe8e1ea8587c750ec998771290f2da5e",
+    "wof:geomhash":"35dddddf10fc9d5f86a7784daddf3a58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1259684585,
-    "wof:lastmodified":1566652435,
+    "wof:lastmodified":1706240667,
     "wof:name":"Shumaytan Rafah",
     "wof:parent_id":1108779197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242778453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     38.75803,
-    36.48327000000001,
+    36.48327,
     38.75803,
-    36.48327000000001
+    36.48327
 ],
-  "geometry": {"coordinates":[38.75803,36.48327000000001],"type":"Point"}
+  "geometry": {"coordinates":[38.75803,36.48327],"type":"Point"}
 }
