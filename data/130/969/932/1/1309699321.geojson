@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":167498
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4688
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"e4a3a9b549a934ac355df861a3146620",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1309699321,
-    "wof:lastmodified":1566652183,
+    "wof:lastmodified":1706240668,
     "wof:name":"Makharim",
     "wof:parent_id":1108779173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327213929
+    ],
     "wof:tags":[]
 },
   "bbox": [

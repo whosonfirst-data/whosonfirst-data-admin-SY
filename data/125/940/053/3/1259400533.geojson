@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":169967
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            420446
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"76928285f7ff97a42f05b88e0c462079",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1259400533,
-    "wof:lastmodified":1566652411,
+    "wof:lastmodified":1706240668,
     "wof:name":"Al Hammam",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309821567
+    ],
     "wof:tags":[]
 },
   "bbox": [

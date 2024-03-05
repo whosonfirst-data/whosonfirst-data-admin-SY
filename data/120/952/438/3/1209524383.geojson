@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0642\u0631\u0648\u0631\u0627\u0646"
+    ],
     "name:und_x_variant":[
         "Jaqr\u016br\u0101n"
     ],
@@ -40,6 +43,11 @@
     "wof:concordances":{
         "gn:id":4635
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            164468
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"f000cf48541ea4f73a4546fed1301ee0",
     "wof:hierarchy":[
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209524383,
-    "wof:lastmodified":1566651799,
+    "wof:lastmodified":1706240667,
     "wof:name":"Jaqruran",
     "wof:parent_id":85632413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309715093
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0642\u0644\u0627\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0635\u0642\u0644\u0627\u064a\u0629"
+    ],
     "name:und_x_variant":[
         "\u015eaql\u0101y\u0101"
     ],
@@ -46,6 +49,11 @@
     "wof:concordances":{
         "gn:id":7674749
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            164810
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"7eb4dc5fbda1cfc7626dd9ec86d1aed3",
     "wof:hierarchy":[
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226630699,
-    "wof:lastmodified":1566652600,
+    "wof:lastmodified":1706240667,
     "wof:name":"Saqlaya",
     "wof:parent_id":1108779121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242661895
+    ],
     "wof:tags":[]
 },
   "bbox": [

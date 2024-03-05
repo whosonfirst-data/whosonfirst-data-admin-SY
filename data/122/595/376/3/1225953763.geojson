@@ -32,6 +32,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0645\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "Ch\u0101rj\u0101n",
+        "\u0686\u0627\u0631\u062c\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Ga \u1e5eeshan\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0627 \u0695\u06d5\u0634\u0627\u0646\u06ce"
+    ],
     "name:nno_x_preferred":[
         "Ash Shamiyah"
     ],
@@ -49,8 +59,13 @@
     "wof:concordances":{
         "gn:id":447557
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            168566
+        ]
+    },
     "wof:country":"SY",
-    "wof:geomhash":"d9470e4f11c850eed3f48c42f5b2b4fd",
+    "wof:geomhash":"73eaf9d6411efd5736b0095640f350f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +76,22 @@
         }
     ],
     "wof:id":1225953763,
-    "wof:lastmodified":1566652485,
+    "wof:lastmodified":1706240667,
     "wof:name":"Ash Shamiyah",
     "wof:parent_id":1108779191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259993371
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    42.13444000000001,
-    37.12139000000001,
-    42.13444000000001,
-    37.12139000000001
+    42.13444,
+    37.12139,
+    42.13444,
+    37.12139
 ],
-  "geometry": {"coordinates":[42.13444000000001,37.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.13444,37.12139],"type":"Point"}
 }

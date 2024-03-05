@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":11257952
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11257953
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"4da8a6e90c97a0a25acffe961c64ff3e",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1260177909,
-    "wof:lastmodified":1566651981,
+    "wof:lastmodified":1706240668,
     "wof:name":"Tirtewile",
     "wof:parent_id":1108779089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310389939
+    ],
     "wof:tags":[]
 },
   "bbox": [

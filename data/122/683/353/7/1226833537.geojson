@@ -72,6 +72,11 @@
     "wof:concordances":{
         "gn:id":167832
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9240
+        ]
+    },
     "wof:country":"SY",
     "wof:geomhash":"d0f4fbdf185fa38ed72a6685a8fe30c5",
     "wof:hierarchy":[
@@ -84,13 +89,15 @@
         }
     ],
     "wof:id":1226833537,
-    "wof:lastmodified":1566652583,
+    "wof:lastmodified":1706240667,
     "wof:name":"Kur Muman",
     "wof:parent_id":1108779073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293281913
+    ],
     "wof:tags":[]
 },
   "bbox": [
